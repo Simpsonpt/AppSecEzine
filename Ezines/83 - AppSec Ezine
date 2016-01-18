@@ -1,0 +1,109 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 37 | Month: September | Year: 2015 | Release Date: 11/09/2015 | Edition: 83º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://www.sec-down.com/wordpress/?p=553
+Description: Paypal critical vulnerability to steal all your Paypal funds!
+
+URL: https://www.bishopfox.com/blog/2015/08/coldfusion-bomb-a-chain-reaction-from-xss-to-rce/
+Description: ColdFusion Bomb - A Chain Reaction From XSS to RCE.
+
+URL: http://raz0r.name/articles/css-attacks/
+Description: Overview of attacks on the client using CSS.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://zx.rs/6/DroidDucky---Can-an-Android-quack-like-a-duck/
+Description: DroidDucky - Can an Android quack like a duck?
+
+URL: http://www.intelligentexploit.com/view-details.html?id=21905
+Description: Google Image CSRF Vulnerability & Using it as a Botnet.
+
+URL: https://github.com/m13253/lvdo
+Description: Video steganography implementation.
+
+URL: https://github.com/CoreSecurity/impacket
+Description: Impacket is a collection of Python classes for working with network protocols.
+
+URL: https://gist.github.com/mattifestation/47f9e8a431f96a266522
+Description: Drop binary data from the command line w/o needing PowerShell (Tip).
+
+URL: https://github.com/n1nj4sec/pr0cks
+Description: Python script to transparently forward all TCP and DNS traffic through a socks proxy.
+
+URL: http://insecurety.net/?p=765
+Description: SCTP Reverse Shell.
+
+URL: http://www.malwaretech.com/2015/08/creating-ultimate-tor-virtual-network.html
+Description: Creating the Ultimate Tor Virtual Network.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://blog.ioactive.com/2015/09/the-beauty-of-old-school-backdoors.html
+Description: The Beauty of Old-school Backdoors.
+
+URL: http://www.hexacorn.com/blog/2015/08/15/two-pe-tools-you-might-have-never-heard-of-now-you-do/
+Description: Two PE tools you might have never heard of; Now you do.
+
+URL: http://blog.crowdstrike.com/native-java-bytecode-debugging-without-source-code/
+Description: Native Java Bytecode Debugging without Source Code.
+
+URL: https://gbmaster.wordpress.com/2015/08/03/x86-exploitation-101-off-by-one-and-an-uninvited-friend-joins-the-party/
+Description: x86 Exploitation 101 - "Off-by-one" and an uninvited friend joins the party.
+
+URL: http://www.pentestpartners.com/blog/hacking-defcon-23s-iot-village-samsung-fridge/
+Description: Hacking DefCon 23's IoT Village Samsung fridge. (Directions)
+
+URL: http://cybermashup.com/2015/08/25/how-to-crack-ubuntu-disk-encryption-and-passwords/
+Description: How to crack Ubuntu encryption and passwords.
+
+URL: http://translate.wooyun.io/2015/09/01/Bypass-WAF-Cookbook.html
+Description: Bypass WAF Cookbook.
+
+URL: https://hackerone.com/reports/77065
+Description: Stealing CSRF Tokens (Facepalm).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://github.com/tiimgreen/github-cheat-sheet#readme
+Description: GitHub Cheat Sheet.
+
+URL: http://dreamsofastone.blogspot.de/2015/07/reverse-engineering-nostalgia.html
+Description: Reverse Engineering Nostalgia.
+
+URL: https://github.com/tessalt/echo-chamber-js
+Description: Commenting without the comments.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

@@ -1,0 +1,103 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 23 | Month: June | Year: 2014 | Release Date: 06/06/2014 | Edition: 19º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://ccsinjection.lepidum.co.jp/blog/2014-06-05/CCS-Injection-en/index.html
+Description: How I discovered CCS Injection Vulnerability (OpenSSL CVE-2014-0224). 
+
+URL: http://radare.today/technical-analysis-of-the-gnutls-hello-vulnerability/
+PoC: https://github.com/azet/CVE-2014-3466_PoC
+Description: Technical Analysis Of The GnuTLS Hello Vulnerability.
+
+URL: http://blog.internot.info/2014/05/facebook-skype-to-email-leak-3000-bounty.html
+Description: Facebook "Skype-to-Email" leak ($3,000 Bounty).
+
+URL: http://www.sysvalue.com/en/heartbleed-cupid-wireless/
+More Information: https://confluence.terena.org/display/H2eduroam/heartbleed-note
+Description: Heartbleed, Cupid and Wireless.
+
+URL: https://henryhoggard.co.uk/?p=68
+Description: Hijacking Paypal Accounts Using the SMS Feature.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ralphje/imagemounter/
+Description: CLI tool and Python package to ease the (un)mounting of EnCase, AFF and dd disk images (Forensics Helper).
+
+URL: http://moscrack.sourceforge.net/
+Description: Multifarious On-demand Systems Cracker.
+
+URL: https://github.com/husam212/MITMer
+Description: Automated man-in-the-middle attack tool.
+
+URL: https://code.google.com/p/xssf/
+Description: Cross-Site Scripting Framework.
+
+URL: https://github.com/lostincynicism/FuzzAP
+Description: A python script for obfuscating wireless networks.
+
+URL: https://github.com/prezi/reddalert
+Description: AWS risky security change detector based on EDDA.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://blog.j-michel.org/post/86992432269/from-nand-chip-to-files
+Description: From NAND chip to files.
+
+URL: http://www.securitybydefault.com/2012/07/backdooring-apache.html
+Description: Backdooring Apache (Spanish).
+
+URL: http://blog.opensecurityresearch.com/2014/05/acquiring-linux-memory-from-server-far.html
+Description: Acquiring Linux Memory from a Server Far Far Away.
+
+URL: http://www.securityartwork.es/2014/06/04/read-htaccess-file-through-blind-sql-injection/?lang=en
+Description: Read htaccess file through Blind SQL injection.
+
+URL: http://www.labofapenetrationtester.com/2014/06/introducing-antak.html
+Description: Introducing Antak - A webshell which utilizes powershell.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://kukuruku.co/hub/nix/writing-a-file-system-in-linux-kernel
+Description: Writing a File System in Linux Kernel.
+
+URL: http://wirefloss.com/wireit/
+Description: Free Interactive Network Packet Builder.
+
+URL: http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html
+Description: A Stick Figure Guide to the Advanced Encryption Standard (AES).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+5065746b6f205065746b6f76202d2040706470202d2068747470733a2f2f61626f75742e6d652f706470

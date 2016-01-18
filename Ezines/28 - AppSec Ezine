@@ -1,0 +1,95 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 32 | Month: August | Year: 2014 | Release Date: 12/08/2014 | Edition: 28º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://m4x0n3.blogspot.pt/2014/07/password-reset-code-bruteforce-account.html
+Description: Password reset code bruteforce account takeover on membership.motorola.com site.
+
+URL: https://plus.google.com/+AlexisImperialLegrandGoogle/posts/f9gm2G2BH5g
+Description: Escaping is tricky, learning with Gmail Mobile!
+
+URL: http://javascript.info/tutorial/clickjacking
+Description: The Clickjacking attack, X-Frame-Options. (Overview)
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/wireghoul/htshells
+Description: HTSHELLS - Self contained web shells and other attacks via .htaccess files.
+
+URL: http://habrahabr.ru/post/231369/
+Description: Overview of Intercepter-NG.
+
+URL: https://github.com/alienwithin/0x88
+Description: 0x88 exploit pack Decoded.
+
+URL: http://www.matriux.com/index.php?page=home
+Description: Fully featured security linux distribution.
+
+URL: https://github.com/MatusKysel/EMVemulator
+Description: Collects Mag-Stripe data and CVC3 codes from PayPass cards and emulates that informations.
+
+URL: http://lcamtuf.coredump.cx/p0f3/
+Description: P0f is a tool for passive traffic fingerprinting.
+
+URL: http://lcamtuf.blogspot.gr/2014/08/a-bit-more-about-american-fuzzy-lop.html
+Description: American fuzzy lop (Not Just a Fuzzer!).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://www.garage4hackers.com/entry.php?b=3072
+Description: Analysis of a Android RAT. (Not real Malware but...)
+
+URL: http://blog.ptsecurity.com/2014/08/cell-phone-tapping-how-it-is-done-and.html
+Description: Cell Phone Tapping: How It Is Done and Will Anybody Protect Subscribers.
+
+URL: http://blog.internot.info/2014/06/paypals-2-factor-authentication2fa-good.html
+Description: The Good, The Bad, And The Ugly. (Incl. full 2FA bypass without security questions)
+
+URL: http://blog.dornea.nu/2014/08/05/android-dynamic-code-analysis-mastering-droidbox/
+Description: Android Dynamic Code Analysis - Mastering DroidBox.
+
+URL: http://www.dirk-loss.de/python-tools.htm
+Description: Python tools for penetration testers.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://usbdescriptors.com/
+Description: Collection of all the USB descriptors, from all USB devices out there. 
+
+URL: https://github.com/psobot/ipsumcrypt
+Description: A small C program to embed binary data into the whitespace between words.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+5065746b6f205065746b6f76202d2040706470202d2068747470733a2f2f61626f75742e6d652f706470

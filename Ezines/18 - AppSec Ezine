@@ -1,0 +1,98 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###    Week: 22 | Month: May | Year: 2014 | Release Date: 30/05/2014 | Edition: 18º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://op-co.de/blog/posts/hacking_the_nx300/
+Description: Hacking the Samsung NX300 'Smart' Camera.
+
+URL: http://cyvera.com/cve-2014-1776-how-easy-it-is-to-attack-these-days/
+Description: CVE-2014-1776 - How easy it is to attack these days.
+
+URL: http://insanecoding.blogspot.ro/2014/04/common-libressl-porting-mistakes.html
+Description: Common LibreSSL porting mistakes.
+
+URL: https://zyan.scripts.mit.edu/blog/wordpress-fail/
+Description: Don't forget to secure cookies (WordPress accounts open to hijacking).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/samratashok/nishang
+Description: Nishang is a framework and collection of scripts/payloads which enables usage of PowerShell.
+
+URL: https://github.com/skepticfx/tlsjack
+Description: A simple TLS forwarder that lets you intercept traffic and play with them.
+
+URL: https://github.com/micahflee/onionshare
+Description: Securely share a file of any size in Tails.
+
+URL: http://rotlogix.com/2014/05/21/exploiting-local-file-includes-with-liffy/
+Description: Exploiting LFI Vulnerabilities with Liffy.
+
+URL: http://m-austin.com/blog/?p=118
+Description: Google Docs "Clickjacking" (Information Disclosure).
+
+URL: http://www.hexacorn.com/blog/2014/05/21/rce-list-of-64-bit-tools/
+Description: Dump tool for reverse engineering of the PE32+ (x64 Platform).
+
+URL: https://code.google.com/p/libbde/
+Description: Library and tools to access the BitLocker Drive Encryption (BDE) encrypted volumes.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://eternal-todo.com/blog/cve-2013-2729-exploit-zeusp2p-gameover
+Description: Attached CVE-2013-2729 exploit used to drop ZeuS-P2P/Gameover.
+
+URL: http://www.vupen.com/blog/20140520.Advanced_Exploitation_Firefox_UaF_Pwn2Own_2014.php
+Description: Advanced Exploitation of Mozilla Firefox Use-After-Free Vulnerability (Pwn2Own 2014).
+
+URL: http://www.scriptjunkie.us/2013/11/adding-easy-ssl-client-authentication-to-any-webapp/
+Description: Adding Easy SSL Client Authentication To Any Webapp.
+
+URL: http://www.websec.mx/advisories/view/Generador-de-WPA-Huawei-HG8245-y-HG8247
+Description: 'Generador de WPA Huawei HG8245 y HG8247.' (Spanish)
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://github.com/pickhardt/betty
+Description: Friendly English-like interface for your command line.
+
+URL: http://williamknowles.co.uk/?p=16
+Description: PiTap - Automated Packet Capture on a Raspberry Pi.
+
+URL: http://www.circl.lu/projects/CIRCLean/
+Description: CIRCLean - USB key sanitizer.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+5065746b6f205065746b6f76202d2040706470202d2068747470733a2f2f61626f75742e6d652f706470

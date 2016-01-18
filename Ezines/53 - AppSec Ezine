@@ -1,0 +1,103 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 07 | Month: February | Year: 2015 | Release Date: 13/02/2015 | Edition: 53º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://danlec.com/blog/hackerones-first-xss
+Description: HackerOne's First XSS.
+
+URL: http://zoczus.blogspot.pt/2015/02/evercookieswf-stored-cross-site.html
+Description: evercookie.swf - Stored Cross-Site Scripting (Flash XSS).
+
+URL: http://potatohatsecurity.tumblr.com/post/110024705384/google-com-mobile-feedback-url-redirect
+Description: Google.com - Mobile Feedback URL Redirect Regex/Validation Flaw.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/rmitton/incbin
+Description: Tiny cross-platform utility for including binaries into C source.
+
+URL: https://github.com/dev-zzo/exploits-nt-privesc
+Description: Exploit collection for NT privilege escalation.
+
+URL: https://github.com/NorthernSec/CVE-Scan
+Description: Scan systems with NMap and parse the output to a list of CVE's, CWE's and DPE's.
+
+URL: https://github.com/ddcc/samsung_ssd
+Description: Samsung SSD Firmware Deobfuscation Utility.
+
+URL: http://samdmarshall.com/re.html
+Description: Reverse Engineering Resources (MacOSX).
+
+URL: https://gitlab.maikel.pro/maikeldus/WhatsSpy-Public/wikis/home
+Description: Proof of Concept that Whatsapp is broken in terms of privacy.
+
+URL: https://net-ninja.net/article/2010/Oct/04/taking-control-of-a-jsp-environment/
+Description: Taking control of a JSP environment (l33t).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://breakingmalware.com/vulnerabilities/one-bit-rule-bypassing-windows-10-protections-using-single-bit/
+Description: One-Bit To Rule Them All - Bypassing Windows'10 Protections using a Single Bit.
+
+URL: https://www.checkmarx.com/2014/08/20/swift-security-issues/
+Description: Swift Vulnerabilities - What the New Language Did Not Fix.
+
+http://blog.gdssecurity.com/labs/2015/1/26/badsamba-exploiting-windows-startup-scripts-using-a-maliciou.html
+Description: BadSamba - Exploiting Windows Startup Scripts Using A Malicious SMB Server.
+
+URL: https://rateip.com/blog/sql-injections-in-mysql-limit-clause/
+Description: SQL Injections in MySQL LIMIT clause.
+
+URL: http://adsecurity.org/?p=1275
+Description: Attackers Can Now Use Mimikatz to Implant Skeleton Key on Domain Controllers & BackDoor Your AD Forest.
+
+URL: https://isc.sans.edu/forums/diary/Finding+Privilege+Escalation+Flaws+in+Linux/19207/
+Description: Finding Privilege Escalation Flaws in Linux (Tools).
+
+URL: http://labs.bromium.com/2015/02/02/exploiting-badiret-vulnerability-cve-2014-9322-linux-kernel-privilege-escalation/
+Description: Exploiting "BadIRET" vulnerability (CVE-2014-9322, Linux kernel privilege escalation).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://saijogeorge.com/css-puns/
+Description: CSS Puns & CSS Jokes
+
+URL: http://vanilla-js.com/
+Description: Vanilla JS is a fast, lightweight, cross-platform framework for building incredible, powerful JS applications.
+
+URL: https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/issues/123
+Description: Install script does "rm -rf /usr" for Ubuntu.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

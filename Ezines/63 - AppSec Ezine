@@ -1,0 +1,104 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 17 | Month: April | Year: 2015 | Release Date: 24/04/2015 | Edition: 63º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://xn--mric-bpa.fr/blog/blackjack.html
+Description: WPS PIN with fixed PIN (printed on sticker) can be broken in 18 packets, and they knew it. 
+
+URL: https://miki.it/blog/2015/4/20/the-power-of-dns-rebinding-stealing-wifi-passwords-with-a-website/
+Description: The power of DNS rebinding - Stealing WiFi passwords with a website.
+
+URL: http://blog.innerht.ml/twitter-crlf-injection/
+Description: CRLF injection on Twitter or why blacklists fail.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/cure53/HTTPLeaks
+Description: This project aims to enumerate all possible ways, a website can leak HTTP requests.
+
+URL: https://binary.ninja/
+Description: Binary Ninja is a set of tools to make the life of a vulnerability researcher easier.
+
+URL: http://www.kitploit.com/2015/04/rekall-most-complete-memory-analysis.html
+Description: Rekall - The Most Complete Memory Analysis Framework.
+
+URL: https://github.com/dsrbr/cace
+Description: CMS Admin Command Execution.
+
+URL: http://tfpwn.com/files/fd-wnr2000v4.txt
+Description: Vulnerabilities for the WNR2000v4 Netgear router.
+
+URL: https://github.com/stasinopoulos/commix
+Description: Automated All-in-One OS Command Injection and Exploitation Tool.
+
+URL: http://www.openwall.com/lists/oss-security/2015/04/22/12
+Description: USBCreator D-Bus service root Exploit (Ubuntu - Unpatched).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://hashcat.net/misc/postgres-pth/postgres-pth.pdf
+More: https://hashcat.net/forum/thread-4148.html
+Descripton: PostgreSQL Pass­The­Hash protocol design weakness.
+
+URL: https://blog.netspi.com/playing-content-type-xxe-json-endpoints/
+Description: Playing with Content-Type – XXE on JSON Endpoints.
+
+URL: http://bartblaze.blogspot.co.uk/2015/03/c99shell-not-dead.html
+Description: C99Shell not dead.
+
+URL: https://github.com/darkarnium/secpub/tree/master/Multivendor/ncc2
+Description: D-Link and TRENDnet 'ncc2' service - multiple vulnerabilities.
+
+URL: http://www.malcolmstagg.com/bdp-s390.html
+Description: Project bdp, this is a project to modify the Sony Blu-ray BDP firmware.
+
+URL: http://v0ids3curity.blogspot.de/2015/04/exploiting-php-bug-66550-sqlite.html
+Description: Exploiting PHP Bug #66550 - SQLite prepared statement Use-After-Free (local PHP exploit).
+
+URL: https://reclaim-your-privacy.com/wiki/Anonabox_Analysis
+Description: Anonabox Analysis (Easy root by IPv6).
+
+URL: http://www.s3cur1ty.de/node/687
+Description: Multiple Vulnerabilities in D'Link DIR-615 - Hardware revision D3/DIR-300 - Hardware revision A.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://www.reddit.com/r/PHP/comments/1l7baq/creating_a_user_from_the_web_problem/
+Description: Creating a user from the web problem.
+
+URL: https://github.com/SecUpwN/Spotify-AdKiller
+Description: Your Party with Spotify - but without ads!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

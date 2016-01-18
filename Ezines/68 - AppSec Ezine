@@ -1,0 +1,103 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 22 | Month: May | Year: 2015 | Release Date: 29/05/2015 | Edition: 68º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://instantlyfuzzyshark.tumblr.com/post/119456076505/unauthorized-deletion-of-google-collections
+Description: Unauthorized deletion of Google+ Collections.
+
+URL: http://sakurity.com/blog/2015/05/21/starbucks.html
+Description: Hacking Starbucks for unlimited coffee.
+
+URL: http://www.benhayak.com/2015/05/stealing-private-photo-albums-from-Google.html
+Description: Stealing Private Photo Albums from Google - Same Origin Method Execution.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://www.kitploit.com/2015/05/remote-dll-injector-v20-command-line.html
+Description: Remote DLL Injector v2.0 - Command-line Tool to Inject DLL into Remote Process.
+
+URL: https://github.com/sstjohn/thundergate
+Description: An open source toolkit for PCI bus exploration.
+
+URL: https://github.com/hfiref0x/CVE-2015-1701
+Description: Win32k LPE vulnerability used in APT attack (CVE-2015-1701).
+
+URL: http://www.binvul.com/viewthread.php?tid=508
+More:  http://blogs.360.cn/blog/fixed_three_0days_in_may/
+Description: CVE-2015-1674 CNG.SYS PoC.
+
+URL: http://ab0files.com/writing-a-metasploit-post-exploitation-module
+Description: Writing a Metasploit post exploitation module.
+
+URL: http://www.backerstreet.com/rec/rec.htm
+Description: REC Studio 4 - Reverse Engineering Compiler (Win, Linux and Mac OS X).
+
+URL: http://seclist.us/updates-windows-exploit-suggester-revision-v-2-5.html
+Description: Windows-Exploit-Suggester revision v-2.5.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://www.pagerduty.com/blog/the-discovery-of-apache-zookeepers-poison-packet/
+Description: The Discovery of Apache ZooKeeper’s Poison Packet.
+
+URL: http://sakurity.com/blog/2015/05/08/pusher.html
+Patch: https://gist.github.com/mdpye/f062cacb8a9d5e3d102c
+Description: Hacking Pusher with simple crypto vulnerability.
+
+URL: https://stackoff.ru/pochemu-reklama-v-skajpe-ne-tolko-urodliva-no-eshhe-i-opasna/
+Description: Why is advertising on Skype is not only ugly but also dangerous.
+
+URL: http://securityinside.info/evitando-hsts-una-cuestion-de-tiempo/
+Description: Breaking HSTS! (Spanish).
+
+URL: http://venom.crowdstrike.com/
+PoC: https://marc.info/?l=oss-security&m=143155206320935&w=2
+Description: Virtualized Environment Neglected Operations Manipulation (VENOM).
+
+URL: http://cory.li/bytecode-hacking/
+Description: Java bytecode hacking for fun and profit.
+
+URL: https://www.altsci.com/ipsec/
+Description: IPsec Vulnerabilities and Software Security Prediction.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://blog.netspi.com/gpu-cracking-rebuilding-box/
+Description: GPU Cracking - Rebuilding the Box.
+
+URL: http://stacksmasher.me/tutorials/browser-anonymity-and-security/
+Description: Browser anonymity and security.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

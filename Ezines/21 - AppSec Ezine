@@ -1,0 +1,95 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 25 | Month: June | Year: 2014 | Release Date: 22/06/2014 | Edition: 21º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://www.insinuator.net/2014/05/django-image-validation-vulnerability/
+Description: Django Image Validation Vulnerability.
+
+URL: http://blog.cyberint.com/2014/05/facebook-hidden-friends-vulnerability.html
+Description: Facebook Hidden Friends Vulnerability (With "fb-hfc" released).
+
+URL: http://blog.includesecurity.com/2014/06/exploit-walkthrough-cve-2014-0196-pty-kernel-race-condition.html
+Description: Exploiting CVE-2014-0196 a walk-through of the Linux pty race condition PoC.
+
+URL: http://hacksecproject.com/?p=73
+Description: Yahoo! SSRF/XSPA Vulnerability.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/piscou/FuzzWin/
+Description: Windows Fuzzer.
+
+URL: https://github.com/sensepost/snoopy-ng
+Description: Snoopy v2.0 - modular digital terrestrial tracking framework.
+
+URL: https://github.com/ironbee/libhtp
+Description: LibHTP is a security-aware parser for the HTTP protocol and the related bits and pieces.
+
+URL: https://github.com/ChrisJohnRiley/PySC
+Description: PySC - Shellcode from a DNS server or Internet Explorer into a specified process.
+
+URL: https://github.com/1aN0rmus/TekDefense-Automater
+Description: Automater - IP URL and MD5 OSINT Analysis.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://immunityservices.blogspot.pt/2014/06/from-patch-to-crash-story-of-ms13-089.html
+Description: From Patch to Crash, the story of MS13-089.
+
+URL: http://joe4security.blogspot.pt/2014/06/the-power-of-cookbooks-generic-https.html
+Description: The Power of Cookbooks - generic HTTPS Analysis.
+
+URL: http://itsecurity.telelink.com/dhcp-attacks/
+Description: DHCP Attacks.
+
+URL: https://code.google.com/p/ghost-usb-honeypot/
+Description: A honeypot for USB malware
+
+URL: http://blog.quarkslab.com/usb-fuzzing-basics-from-fuzzing-to-bug-reporting.html
+Description: USB Fuzzing Basics - From fuzzing to bug reporting.
+
+URL: http://hackerforhire.com.au/data-exfiltration-over-ssl-with-srvdir/
+Description: Data exfiltration over SSL with srvdir.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://pastebin.com/raw.php?i=9s4TVqZq
+Description: Only For The LULZ!
+
+URL: http://lambdaops.com/rm-rf-remains
+Description: rm -rf remains.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+5065746b6f205065746b6f76202d2040706470202d2068747470733a2f2f61626f75742e6d652f706470

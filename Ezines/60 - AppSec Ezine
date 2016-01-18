@@ -1,0 +1,103 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 14 | Month: April | Year: 2015 | Release Date: 03/04/2015 | Edition: 60º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://danlec.com/blog/xss-via-a-spoofed-react-element
+Description: XSS via a spoofed React element.
+
+URL: http://tomforb.es/dell-system-detect-rce-vulnerability
+Description: Dell System Detect RCE vulnerability.
+
+URL: http://kamil.hism.ru/posts/about-vrg-and-delete-any-youtube-video-issue.html
+Description: How I could delete any video on YouTube.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://blackarch.org/index.html
+Description: BlackArch Linux is an Arch Linux-based distro for penetration testers and security researchers.
+
+URL: http://packetstormsecurity.com/files/131185/jbossjmx-exec.txt
+Description: JBoss JMXInvokerServlet Remote Command Execution.
+
+URL: https://github.com/moha99sa/EvilAP_Defender
+Description: Protect your Wireless Network from Evil Access Points!
+
+URL: https://github.com/securitytube/wifiscanvisualizer/
+Description: Airodump-NG Scan Visualizer (GUI).
+
+URL: http://shadow-file.blogspot.pt/2015/02/bowcaster-feature-multipartform-data.html
+Description: Need to reverse engineer or exploit a file upload vulnerability in an embedded web server?
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://www.netresec.com/?page=Blog&month=2015-03&post=China%27s-Man-on-the-Side-Attack-on-GitHub
+Description: China's Man-on-the-Side Attack on GitHub.
+
+URL: http://blog.lumberlabs.com/2012/04/why-app-developers-should-care-about.html
+Description: Why app developers should care about SSL pinning.
+
+URL: https://blog.netspi.com/all-you-need-is-one-a-clickonce-love-story/
+Description: All You Need Is One – A ClickOnce Love Story.
+
+URL: https://hsmr.cc/palinopsia/
+Description: Is your VirtualBox reading your E-Mail? Reconstruction of FrameBuffers from VRAM.
+
+URL: https://github.com/demi6od/Smashing_The_Browser
+Description: Smashing The Browser - From Vulnerability Discovery To Exploit.
+
+URL: http://www.tuxmealux.net/2015/03/10/code-injection/
+Description: Injecting code into remote process (Windows).
+
+URL: http://h30499.www3.hp.com/t5/Fortify-Application-Security/XPATH-Assisted-XXE-Attacks/ba-p/6721576
+Description: XPATH Assisted XXE Attacks.
+
+URL: https://code.google.com/p/google-security-research/issues/detail?id=222
+Description: Windows - Local WebDAV NTLM Reflection Elevation of Privilege.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://bugzilla.redhat.com/show_bug.cgi?id=1202858
+Description: Service squid restart.
+
+URL: https://github.com/angea/PDF101
+Description: Learn and Play with PDF Source Code.
+
+URL: https://github.com/getify/You-Dont-Know-JS/blob/master/README.md#you-dont-know-js-book-series
+Description: You Don't Know JS (book series).
+
+URL: http://marcoramilli.blogspot.pt/2015/02/notorious-hacking-groups.html
+Description: Notorious Hacking Groups.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

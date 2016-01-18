@@ -1,0 +1,102 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 29 | Month: July | Year: 2015 | Release Date: 17/07/2015 | Edition: 75º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://blog.innerht.ml/cascading-style-scripting/
+Description: CSS - Cascading Style Scripting.
+
+URL: https://thehackerblog.com/stealing-lastpass-passwords-with-clickjacking/
+Description: Stealing Lastpass Passwords With Clickjacking.
+
+URL: https://github.com/hackedteam?tab=repositories
+More: https://github.com/informationextraction
+Description: Hacking Team (Leak).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/JumpCallPop/dumpfiles
+Description: Windbg extension to extract file from Cache Manager.
+
+URL: https://github.com/mandatoryprogrammer/xssless
+Description: An automated XSS payload generator written in python.
+
+URL: https://github.com/GuerrillaWarfare/Treasure
+Description: Hunt for sensitive information through githubs code search.
+
+URL: http://www.firmware.re/
+Description: Unpacks, scans and analyzes firmware identifying vulnerabilities, backdoors and malware.
+
+URL: https://github.com/rpp0/aggr-inject
+Description: Remote frame injection PoC by exploiting a standard compliant A-MPDU aggregation vulnerability in 802.11n networks.
+
+URL: https://github.com/openssl/openssl/blob/master/test/verify_extra_test.c#L104
+Advisory: https://openssl.org/news/secadv_20150709.txt
+Description: Test for CVE-2015-1793 (Alternate Chains Certificate Forgery).
+
+URL: https://github.com/musalbas/address-spoofing-poc
+Description: Chrome address spoofing vulnerability proof-of-concept for HTTPS.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://www.mbsd.jp/Whitepaper/rpo.pdf
+Description: A few Relative Path Overwrite (RPO) exploitation techniques.
+
+URL: https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/
+Description: Linux (x86) Exploit Development Series.
+
+URL: http://gfragkos.blogspot.co.uk/2015/06/linkedin-security-issue-unvalidated.html
+Description: Linkedin - security issue - Unvalidated Redirects and Forwards.
+
+URL: http://nahamsec.com/yahoo-image-processing-xspa/
+Description: Yahoo Image Processing SSRF/XSPA.
+
+URL: http://blog.tokumaru.org/2013/03/csrf-and-cookie-monster-bug.html
+Description: CSRF and Cookie onster bug.
+
+URL: http://samsymons.com/blog/reverse-engineering-with-radare2-part-1/
+Description: Reverse Engineering With Radare2, Part 1.
+
+URL: https://k0st.wordpress.com/2015/07/05/identifying-and-exploiting-rom-0-vulnerabilities/
+Description: Identifying and exploiting rom-0 vulnerabilities (ZTE, TP-Link, ZynOS, Huawei and ++).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://kr5hou2zh4qtebqk.onion.to/ezines/
+Description: Hacking ezines since 80s dump.
+
+URL: https://github.com/Invoke-IR/Forensic-Posters
+Description: Forensic Posters.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

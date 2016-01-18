@@ -1,0 +1,114 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 47 | Month: November | Year: 2015 | Release Date: 20/11/2015 | Edition: 92º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://blog.dewhurstsecurity.com/2015/11/10/mobile-security-certificate-pining.html
+Description: Mobile Security Certificate Pinning (Hacks).
+
+URL: http://grangeia.io/2015/11/09/hacking-tomtom-runner-pt1/
+More: http://grangeia.io/2015/11/16/hacking-tomtom-runner-pt2/
+Description: Hacking Smartwatches - the TomTom Runner.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/unix-thrust/beurk
+Description: BEURK Experimental Unix RootKit.
+
+URL: https://github.com/ITLivLab/Win7_powershell_forensics
+Description: Windows 7 forensics scripts (Powershell).
+
+URL: https://github.com/Hypsurus/weeman
+Description: HTTP Server for phishing in Python.
+
+URL: https://github.com/byt3bl33d3r/CrackMapExec
+Description: A swiss army knife for pentesting Windows/AD environments.
+
+URL: http://www.debuginfo.com/tools/chkmatch.html
+Description: Check executable and debug information file is a match.
+
+URL: https://gef.readthedocs.org/en/latest/
+Description: GEF - GDB Enhanced Features.
+
+URL: https://github.com/chipsec/chipsec
+Description: Platform Security Assessment Framework.
+
+URL: https://github.com/scanmem/scanmem
+Description: Memory scanner for Linux w/ GUI.
+
+URL: https://gitlab.com/rav7teif/linux.wifatch
+Description: Linux.Wifatch Ransom Malware (Research).
+
+URL: https://github.com/gdbinit/rootfool
+Description: Dynamically disable and enable Sys. Integrity Protec.(SIP) in El Capitan.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://legalhackers.com/advisories/Google-AdWords-API-libraries-XXE-Injection-Vulnerability.txt
+Description: Google AdWords API client libraries - XML eXternal Entity Injection (XXE).
+
+URL: http://www.icewall.pl/?p=696&lang=en
+Description: Microsoft Windows FastFAT.sys Sectors per FAT Denial of Service Vulnerability.
+
+URL: http://blog.checkpoint.com/2015/11/05/check-point-discovers-critical-vbulletin-0-day/
+Description: Critical vBulletin 0-Day (Research).
+
+URL: http://tinyhack.com/2015/11/08/teensy-lc-u2f-key/
+Description: Teensy LC U2F key (Why not?).
+
+URL: https://github.com/gsbabil/ClassicNFC/blob/master/gsbabil-ruxconf2015.pdf
+PoC: https://github.com/gsbabil/ClassicNFC
+Description: Hack NFC Access Cards & Steal CC Data with Android.
+
+URL: http://blog.a-way-out.net/blog/2015/11/06/host-header-injection/
+Description: Capable of Host header injection attacks in PHP vulnerability.
+
+URL: http://blog.talosintel.com/2015/10/dangerous-clipboard.html
+Description: Dangerous Clipboard - Analysis of the MS15-072 Patch.
+
+URL: http://www.greyhathacker.net/?p=738
+Description: Elevating privileges by exploiting weak folder permissions (Windows).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://github.com/freddymartinez9/securitytalks/blob/master/IMSICatchersForActivists.md
+Description: IMSI Catchers - Practical Knowledge for Activists.
+
+URL: https://instant.io/
+Description: Streaming file transfer over WebTorrent.
+
+URL: http://www.unfitbits.com/
+Description: Free your fitness data from yourself.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

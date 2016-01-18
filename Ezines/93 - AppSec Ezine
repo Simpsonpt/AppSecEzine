@@ -1,0 +1,119 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 48 | Month: November | Year: 2015 | Release Date: 27/11/2015 | Edition: 93º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://stegosploit.info/
+Talk: http://www.slideshare.net/saumilshah/stegosploit-blackhat-europe-2015
+Description: Exploit Delivery via Steganography and Polyglots.
+
+URL: http://maustin.net/2015/11/12/hipchat_rce.html
+Description: XSS to RCE in Atlassian Hipchat.
+
+URL: http://ryhanson.com/angular-expression-injection-walkthrough/
+Description: AngularJS Expression Injection Vulnerability Walkthrough.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/thechrisharrod/Malfind
+Description: Powershell tool to download malware samples.
+
+URL: http://silentbreaksecurity.com/invoke-dcsync-because-we-all-wanted-it/
+Description: Hashdump without the DC using DCSync (because we all wanted it).
+
+URL: https://gist.github.com/subTee/4843a1d9e7a9fcdb4417
+Description: InstallUtil Keylogger/MouseClick Recorder - Stores Logs in [Documents\Klog-Logs].
+
+URL: https://github.com/elceef/bitlocker
+Description: Volatility Framework plugin for extracting BitLocker FVEK (Full Volume Encryption Key).
+
+URL: https://github.com/tomato42/tlsfuzzer
+Slides: https://github.com/tomato42/tlsfuzzer/blob/master/docs/ruxcon2015-kario-slides.pdf
+Description: TLS test suite and fuzzer.
+
+URL: https://github.com/omriher/CapTipper
+Description: CapTipper is a python tool to analyze, explore and revive HTTP malicious traffic.
+
+URL: https://github.com/NoobieDog/Skype-Maltego-Client
+Description: A set of local Skype transforms for Maltego to utilise Skype and search the directory.
+
+URL: https://github.com/diracdeltas/sniffly
+Description: Sniffing browser history using HSTS + CSP.
+
+URL: https://github.com/ud2/advisories/tree/master/embedded/dlink/nocve-2015-0002
+Description: Remote stack overflow on D-Link cameras.
+
+URL: https://github.com/gdbinit/gopher
+Description: MacOS X crypto ransomware PoC.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://meat.pisto.horse/2015/11/rooting-linksys-x2000-router-system.html
+Description: Rooting the Cisco Linksys x2000 router - system() strikes again (Easy root).
+
+URL: https://chloe.re/2015/11/09/csrf-blocker-block-csrf-attacks-the-right-way/
+Tool: https://github.com/avlidienbrunn/anti-csrf-plugin
+Description: CSRF Blocker - block CSRF-attacks the right way.
+
+URL: https://blog.filippo.io/the-sad-state-of-smtp-encryption/
+Description: The sad state of SMTP encryption.
+
+URL: https://respectxss.blogspot.de/2015/11/a-tale-of-breaking-saps-successfactorss.html
+Description: A Tale of Breaking SAP's SuccessFactors's XSS Filter.
+
+URL: http://homepage.ntlworld.com/jonathan.deboynepollard/FGA/nslookup-flaws.html
+Description: nslookup is a badly flawed tool. Don't use it.
+
+URL: https://www.sensepost.com/blog/2015/wadi-fuzzer/
+Tool: https://github.com/sensepost/wadi
+Description: Wadi Fuzzer.
+
+URL: https://blog.gaborszathmari.me/2015/11/11/tricking-google-authenticator-totp-with-ntp/
+Description: Tricking Google Authenticator TOTP with NTP.
+
+URL: http://yahoo-security.tumblr.com/post/122883273670/apache-traffic-server-http2-fuzzing
+Description: Apache Traffic Server - HTTP2 Fuzzing.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://github.com/NARKOZ/hacker-scripts
+Description: Hacker Scripts... Epic Stuff! 😂
+
+URL: https://github.com/docker/dockercraft
+Description: Docker + Minecraft = Dockercraft.
+
+URL: http://superlogout.com/
+Description: Super Logout.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

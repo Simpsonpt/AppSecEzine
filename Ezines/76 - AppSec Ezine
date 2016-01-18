@@ -1,0 +1,111 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 30 | Month: July | Year: 2015 | Release Date: 24/07/2015 | Edition: 76º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://jonasnick.github.io/blog/2015/07/08/exploiting-csgojackpots-weak-rng/
+Description: Exploiting CSGOJackpot's Weak RNG.
+
+URL: http://josipfranjkovic.blogspot.ru/2015/07/the-easiest-bug-bounties-i-have-ever-won.html
+Description: The easiest bug bounties I have ever won. (Never Give Up!)
+
+URL: https://goo.gl/y17Bep
+Description: OpenSSH keyboard-interactive auth brute force vuln - MaxAuthTries bypass.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://www.dropbox.com/s/sax2a5fm3z3q2nt/iChainbreaker_OSX.zip?dl=0
+Notes: https://gist.github.com/n0fate/fbb982407ce2510b4187
+Description: Tool for iCloud Keychain Decryption.
+
+URL: https://localh0t.github.io/wildpwn-v0.1-unix-wildcard-attacks/
+Paper: https://www.exploit-db.com/papers/33930/
+Description: Tool to help on Unix wildcard attacks.
+
+URL: https://github.com/GuerrillaWarfare/Junkyard
+Description: Cable modem firmware dump - Research Materials.
+
+URL: https://github.com/anantshri/github_cloner
+Description: Clone github repositories of a user/organization.
+
+URL: https://github.com/cervoise/pentest-scripts/tree/master/password-cracking
+Description: Some PoC scripts for password cracking.
+
+URL: https://www.offensivebits.com/?p=89
+Description: Easy Trick to Upload a Web Shell and Bypass AV Products.
+
+URL: https://github.com/kevthehermit/SpearPhisher
+Description: A Web Application to Send and Track Spear Phishing Campaigns.
+
+URL: https://github.com/DarthTon/Blackbone
+Description: Windows memory hacking library.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://zeltser.com/c2-dns-tunneling/
+Description: Tunneling Data and Commands Over DNS to Bypass Firewalls.
+
+URL: http://blog.ghettoha.xxx/reversing-powersaves-for-amiibo
+Description: Reversing Powersaves for Amiibo.
+
+URL: https://defuse.ca/bochs-hacking-guide.htm
+Description: Bochs Hacking Guide.
+
+URL: http://blog.cr4.sh/2015/07/building-reliable-smm-backdoor-for-uefi.html
+Description: Building reliable SMM backdoor for UEFI based platforms.
+
+URL: https://www.securify.nl/blog/SFY20150601/securify_spot_the_bug_challenge_2015_contest_analysis.html
+Description: Securify Spot The Bug challenge 2015 contest analysis (AppSec).
+
+URL: https://thejh.net/written-stuff/openssh-6.8-xsecurity
+Description: The OpenSSH <=6.8 X11 SECURITY bug.
+
+URL: http://www.contextis.com/resources/blog/dnswatch-when-full-dns-tunnel-just-too-much/
+Description: When a full DNS tunnel is just too much.
+
+URL: http://noone.org/talks/ssh-tricks/ssh-tricks-rmll.html
+Description: SSH Tips and Tricks (Must know).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://github.com/ProfOak/ascii_py
+Description: Make some ASCII art.
+
+URL: http://0x27.me/HackBack/0x00.txt
+Description: A DIY Guide for those without the patience to wait for whistleblowers.
+
+URL: http://emulator101.com/
+Description: A detailed, step by step guide to writing an emulator.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

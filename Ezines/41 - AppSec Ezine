@@ -1,0 +1,97 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 47 | Month: November | Year: 2014 | Release Date: 21/11/2014 | Edition: 41º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://www.fredericb.info/2014/11/exploitation-of-philips-smart-tv.html
+Description: Exploitation of Philips Smart TV.
+
+URL: http://sijmen.ruwhof.net/weblog/256-cross-site-scripting-in-millions-of-web-sites
+Description: Cross-site scripting in millions of web sites. (jQuery ❤)
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/MalwareTech/UACElevator
+Description: Passive UAC elevation using DLL infection.
+
+URL: http://www.fruitywifi.com/
+Description: FruityWifi is an open source tool to audit wireless networks.
+
+URL: https://github.com/jklmnn/imagejs
+Description: Small tool to package javascript into a valid image file. 
+
+URL: http://www.procdot.com/index.htm
+Description: ProcDOT, a new way of visual malware analysis.
+
+URL: https://wireedit.com
+Description: A Full Stack WYSIWYG Editor for Network Packets.
+
+URL: https://github.com/mrrrgn/simple-rootkit
+Description: A simple attack against gcc and Python via kernel module (rootkit).
+
+URL: http://forensic.n0fate.com/tools/chainbreaker/
+Description: Chainbreaker can extract encrypted user credentials in OS X Keychain and decrypt it using one of the Master Key.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://www.jssec.org/dl/android_securecoding_en_20140701.pdf
+Description: Android Application, Secure Design/Secure Coding Guidebook. 
+
+URL: http://huaweihg612hacking.wordpress.com/2012/11/07/jtaging-the-broadcom-bcm6368-hg612/
+Description: JTAG’ing the Broadcom BCM6368-HG612 ("Tutorial").
+
+URL: http://bartblaze.blogspot.pt/2014/11/malware-spreading-via-steam-chat.html
+Description: Malware spreading via Steam chat.
+
+URL: https://www.trustedsec.com/november-2014/meterssh-meterpreter-ssh/
+Description: MeterSSH – Meterpreter over SSH.
+
+URL: http://www.swordsec.com/download/20FantasticKaliLinuxTools.pdf
+Description: 20 Fantastic Kali Linux Tools.
+
+URL: http://blog.h3xstream.com/2014/11/remote-code-execution-by-design.html
+Description: Remote Code Execution by design.
+
+URL: http://2014.zeronights.org/conference-materials.html
+Description: Zero Nights 2014 Materials (Dump).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://xmodulo.com/access-linux-command-cheat-sheets-command-line.html
+Description: How to access Linux command cheat sheets from the command line.
+
+URL: http://www.openvim.com/tutorial.html
+Description: Interactive VIM.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

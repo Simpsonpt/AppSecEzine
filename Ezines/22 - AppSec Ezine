@@ -1,0 +1,98 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 26 | Month: June | Year: 2014 | Release Date: 30/06/2014 | Edition: 22º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://lab.onsec.ru/2014/06/xxe-oob-exploitation-at-java-17.html
+Description: XXE OOB exploitation at Java 1.7+.
+
+URL: http://blog.rop.io/http-cache-poisoning-explained.html
+Description: HTTP Cache Poisoning Explained.
+
+URL: http://www.freebuf.com/articles/terminal/36503.html
+Description: Into Science - Secret how to hack TV (Android).
+
+URL: https://www.duosecurity.com/blog/duo-security-researchers-uncover-bypass-of-paypal-s-two-factor-authentication
+Description: Duo Security Researchers Uncover Bypass of PayPal’s Two-Factor Authentication.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://gist.github.com/willurd/5720255
+Description: Big list of http static server one-liners. (Handy!)
+
+URL: https://github.com/yukisov/php-owasp-zap-v2
+Description: PHP client API for OWASP ZAP.
+
+URL: http://www.sploitmonkey.com/2014/06/introducing-pyhashcat.html
+Description: Introducing pyHashcat.
+
+URL: http://sourceforge.net/projects/zeppoo/
+Description: Zeppoo detect rootkits on i386 and x86_64 architecture.
+
+URL: https://github.com/edix/LoadDll
+Description: Better version of RunDll with GUI. 
+
+URL: https://examplecode.github.io/tools/2014/06/20/the-tools-prevent-dns-cache-pollution/
+Description: GFW DNS pollution principle - to prevent contamination gadget DNS.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://blog.crackpassword.com/2014/06/breaking-into-icloud-no-password-required/
+Description: Breaking Into iCloud - No Password Required.
+
+URL: http://www.labofapenetrationtester.com/2014/06/hacking-jenkins-servers.html
+Description: Hacking Jenkins Servers With No Password - Powershell fun.
+
+URL: http://www.harmj0y.net/blog/
+Description: Audit client systems for common Windows privilege escalation vectors (Manual).
+
+URL: http://hashcrack.org/index.html#190614
+Description: CVE-2014-4014 - Linux Kernel Local Privilege Escalation "exploitation".
+
+URL: http://yurichev.com/RE-book.html
+Description: Reverse Engineering for Beginners book (Free).
+
+URL: https://medium.com/@oleavr/build-a-debugger-in-5-minutes-1-5-51dce98c3544
+Description: Build a debugger in 5 minutes (or not :D).
+
+URL: https://www.technovelty.org/linux/what-actually-happens-when-you-plug-in-a-usb-device.html
+Description: What actually happens when you plug in a USB device ?
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://dicesoft.net/projects/wildcard-code-execution-exploit.htm
+Description: Exploiting Wildcard Expansion on Linux ;) Trolling Time!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+5065746b6f205065746b6f76202d2040706470202d2068747470733a2f2f61626f75742e6d652f706470

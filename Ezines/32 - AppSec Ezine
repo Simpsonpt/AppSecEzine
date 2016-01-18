@@ -1,0 +1,95 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 38 | Month: September | Year: 2014 | Release Date: 19/09/2014 | Edition: 32º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://b.fl7.de/2014/09/amazon-stored-xss-book-metadata.html
+Description: Amazon.com Stored XSS via Book Metadata.
+
+URL: http://blog.nativeflow.com/the-futex-vulnerability
+Part II: http://blog.nativeflow.com/escalating-futex
+Description: The Futex Vulnerability (Android Security).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/hackappcom/iloot
+Description: OpenSource tool for iCloud backup extraction (https://hackapp.com/).
+
+URL: https://github.com/jipegit/OSXAuditor
+Description: OS X Auditor is a free Mac OS X computer forensics tool.
+
+URL: http://cultofthedyingsun.wordpress.com/2014/09/12/death-by-magick-number-fingerprinting-kippo-2014/
+Description: Death By Magick Number – Fingerprinting Kippo 2014.
+
+URL: http://www.pugo.org/project/pshttpd/
+Description: PS-HTTPD The PostScript web server.
+
+URL: http://vicenteaguileradiaz.com/tools/
+Description: tinfoleak – Get detailed information about a Twitter user activity.
+
+URL: http://www.nosqlmap.net/
+Description: NoSQLMap-Automated NoSQL Database Pwnage.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://media.ccc.de/browse/conferences/mrmcd/mrmcd14/
+Description: MetaRheinMainConstructionDays 2014 (Video Dump!).
+
+URL: http://www.contextis.co.uk/resources/blog/hacking-canon-pixma-printers-doomed-encryption/
+Description: Hacking Canon Pixma Printers - Doomed Encryption.
+
+URL: https://www.youtube.com/playlist?list=PLmfJypsykTLVGqTWJMu4ybJPiew7PUkH2
+Description: SteelCon 2014 (Video Dump!).
+
+URL: http://blog.spiderlabs.com/2014/09/leveraging-lfi-to-get-full-compromise-on-wordpress-sites.html
+Description: Leveraging LFI To Get Full Compromise On WordPress Sites.
+
+URL: http://blog.opensecurityresearch.com/2014/09/hostapd-wpe-now-with-more-pwnage.html
+Description: hostapd-wpe Now with More Pwnage!
+
+URL: http://insert-script.blogspot.co.at/2014/09/sitekiosk-breakout.html
+Description: SiteKiosk - Breakout.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://dfir.org/?q=node/8/
+Description: Recommended Reading. (Dump!)
+
+URL: http://www.whited00r.com/
+Description: Old Apple Devices get new life.
+
+URL: http://pwnable.kr/
+Description: Shell we play a game?
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

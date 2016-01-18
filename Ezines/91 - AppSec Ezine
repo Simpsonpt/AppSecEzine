@@ -1,0 +1,112 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 46 | Month: November | Year: 2015 | Release Date: 13/11/2015 | Edition: 91º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://goo.gl/uTw6PN
+More: http://fishbowl.pastiche.org/2015/11/09/java_serialization_bug/
+PoC: https://gist.github.com/asanso/88f0e5f33ed02ad21c4b
+Exploits: https://github.com/foxglovesec/JavaUnserializeExploits
+Scanner: https://github.com/johndekroon/serializekiller
+Fix: https://github.com/ikkisoft/SerialKiller
+Description: What do WebLogic, JBoss, Jenkins, and your app have in common? This vulnerability.
+
+URL: http://foxglovesecurity.com/2015/10/26/car-hacking-for-plebs-the-untold-story/
+Description: Car Hacking for Plebs – The Untold Story.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/SpiderLabs/malware-analysis
+Description: A repository of tools and scripts related to malware analysis.
+
+URL: https://github.com/m57/ARDT
+Description: Akamai Reflective DDoS Tool.
+
+URL: https://github.com/keymandll/FuzzLabs
+Description: FuzzLabs Fuzzing Framework.
+
+URL: https://cyberarms.wordpress.com/2015/10/04/anti-virus-bypass-with-shellter-5-1-on-kali-linux/
+Description: Anti-Virus Bypass with Shellter 5.1 on Kali Linux.
+
+URL: https://github.com/codetainerapp/codetainer
+Description: A Docker container in your browser.
+
+URL: http://sourceforge.net/projects/awap/
+Description: Tool to detect and correct vulnerabilities in PHP web applications.
+
+URL: https://github.com/sensepost/autoDANE
+Description: Auto Domain Admin and Network Exploitation.
+
+URL: http://securityaffairs.co/wordpress/40727/hacking/hack-decrypt-whatsapp-database.html
+Description: How to Hack and Decrypt WhatsApp Database on rooted devices.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://www.accuvant.com/blog/exploiting-jmx-rmi
+Description: Exploiting JMX RMI.
+
+URL: http://lcamtuf.coredump.cx/edison_fuzz/
+Description: Fuzzing on Edison - field report.
+
+URL: https://blog.goeswhere.com/2015/10/ssh-key-capture/
+Description: Capturing users' ssh keys (Tricky).
+
+URL: http://seckb.yehg.net/2012/06/xss-gaining-access-to-httponly-cookie.html
+Description: XSS - Gaining access to HttpOnly Cookie in 2012 (Oldies).
+
+URL: https://www.swordshield.com/2015/10/extracting-password-hashes-from-large-ntds-dit-files/
+Description: Extracting password hashes from large NTDS.DIT files.
+
+URL: http://jumpespjump.blogspot.pt/2015/09/how-i-hacked-my-ip-camera-and-found.html
+Description: How I hacked my IP camera, and found this backdoor account.
+
+URL: http://arxiv.org/pdf/1511.00444v2.pdf
+PoC: https://github.com/Tribler/self-compile-Android#readme
+Description: Autonomous application capable of self-compilation, mutation and viral spreading.
+
+URL: https://goo.gl/rWptw1
+Description: Java Sandbox Bypass (1.7.0_10)/(1.6.0_38) via Proxy and JMX.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://github.com/alex/what-happens-when
+Description: "What happens when you type google.com into your browser and press enter?"
+
+URL: https://www.bamsoftware.com/hacks/deflate.html
+Description: Biggest image in the smallest space.
+
+URL: http://ec.europa.eu/taxation_customs/vies/vatResponse.html
+Description: Free names and addresses with just a VAT number.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

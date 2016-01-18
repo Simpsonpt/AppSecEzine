@@ -1,0 +1,91 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 10 | Month: March | Year: 2014 | Release Date: 07/03/2014 | Edition: 6º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://blog.saynotolinux.com/2014/03/01/yahoos-pet-show-of-horrors-abusing-a-crossdomain-proxy-to-leak-a-users-email/
+Description: Yahoo's Pet Show of Horrors: Leaking a User's Emails Crossdomain!
+
+URL: http://www.jakoblell.com/blog/2013/10/30/real-world-csrf-attack-hijacks-dns-server-configuration-of-tp-link-routers-2/
+Description: Real-World CSRF attack hijacks DNS Server configuration of TP-Link routers. (Still Valid!)
+
+URL: http://neocri.me/documentation/using-ssh-certificate-authentication/
+Description: Using OpenSSH Certificate Authentication. (The Best Guide)
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/nodoraiz/DesktopBruteForcing/tree/master/DesktopBruteForcing
+Description: Windows Desktop Applications Brute Forcer.
+
+URL: https://github.com/PaulSec/CSRFT
+Description: A lightweight CSRF Toolkit for easy Proof of concept.
+
+URL: https://www.netspi.com/blog/entryid/220/dekrypto-padding-oracle-attack-against-ibm-websphere-commerce-cve-2013-05230
+Description: DeKrypto - Padding oracle attack against IBM WebSphere Commerce (CVE-2013-05230).
+
+URL: https://github.com/herrcore/punbup
+Description: Python unbup script for McAfee .bup files (with some additional fun features).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://pwnrules.com/yahoo-suggestions-vulnerability/
+Description: Vulnerability in Yahoo allowed me to delete more than 1 million and half records from Yahoo database.
+
+URL: http://www.reddit.com/r/apple/comments/1zh3gw/iphone_5s_continues_to_track_your_motion_even/
+Description: iPhone 5s continues to track your motion even when completely drained of battery.
+
+URL: http://packetstormsecurity.com/files/125442/Office-365-Account-Hijacking.html
+Description: Office 365 - Account Hijacking Cookie Re-Use Flaw, extended.
+
+URL: https://github.com/pwntester/RSA_RESTing
+Description: Demos for RSA talk: RESTing on your laurels will get you owned.
+
+URL: http://www.netresec.com/?page=Blog&month=2013-10&post=Command-line-Forensics-of-hacked-PHP-net
+Description: Command-line Forensics of hacked PHP.net (Nice!)
+
+URL: http://h30499.www3.hp.com/t5/HP-Security-Research-Blog/Process-Introspection-with-Python/ba-p/6402821
+Description: Process Introspection with Python. (Awesome Python Power)
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://github.com/god?tab=repositories
+Description: ROFL 😂.
+
+URL: http://libgen.org/scimag/
+Description: Library Genesis - Scientific Articles, Huge Database.
+
+URL: http://quals.sec.codebits.eu/cb/1487ab262e8deb6ec5b9dd49a18d8ac5a/
+Description: Unlock your brain with some g33k/s3c exercices.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

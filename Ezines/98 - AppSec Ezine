@@ -1,0 +1,121 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 53 | Month: December | Year: 2015 | Release Date: 31/12/2015 | Edition: 98º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://www.secgeek.net/bookfresh-vulnerability/
+Description: BookFresh Tricky File Upload Bypass to RCE.
+
+URL: http://www.agarri.fr/kom/archives/2015/12/17/amf_parsing_and_xxe/index.html
+Description: AMF parsing and XXE.
+
+URL: https://www.optiv.com/blog/bypassing-csrf-tokens-via-xss
+Description: Bypassing CSRF Tokens via XSS.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/rbauduin/mbdetect
+Description: MPTCP Middlebox Detection.
+
+URL: https://github.com/rastating/joomlavs
+Description: A black box, Ruby powered, Joomla vulnerability scanner.
+
+URL: http://www.rootsh3ll.com/2015/11/aircrack-boost-script/
+Description: Aircrack Boost Script.
+
+URL: https://github.com/Rootkitsmm/Win10Pcap-Exploit
+Description: Exploit Win10Pcap Driver (Local Privilege Escalation).
+
+URL: https://httphacker.github.io/gethead/
+Description: HTTP Header Analysis Vulnerability Tool.
+
+URL: https://github.com/GaloisInc/haskell-tor
+Description: A Haskell implementation of the Tor protocol.
+
+URL: https://github.com/bwall/pemcracker
+Description: Tool to crack encrypted PEM files.
+
+URL: https://github.com/1N3/Sn1per
+Description: Automated Pentest Recon Scanner.
+
+URL: https://github.com/jaegerindustries/password_search
+Description: Reconnaissance/Auditing tool that search for passwords within code repos.
+
+URL: https://blog.cloudflare.com/tools-for-debugging-testing-and-using-http-2/
+Description: Tools for debugging, testing and using HTTP/2.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://sethsec.blogspot.com.tr/2015/12/exploiting-server-side-request-forgery.html
+Description: Exploiting Server Side Request Forgery on a Node/Express Application on EC2.
+
+URL: https://adsecurity.org/?page_id=1821
+Description: Unofficial Guide to Mimikatz&Command Reference.
+
+URL: http://x42.obscurechannel.com/?p=197
+Description: Fingerprinting Meterpreter HTTPS Handlers and Faking Sessions (Reverse Handler DoS).
+
+URL: http://hmarco.org/bugs/CVE-2015-8370-Grub2-authentication-bypass.html
+Description: Grub2 Authentication 0-Day.
+
+URL: http://zoczus.blogspot.pt/2014/05/how-reverse-dns-can-help-us-with-xss.html
+Description: How Reverse DNS can help us with XSS, SQLi, RCE...
+
+URL: http://www.exploit-monday.com/2015/12/the-powersploit-manifesto.html
+Description: The PowerSploit Manifesto.
+
+URL: https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+Description: Basic Linux Privilege Escalation.
+
+URL: http://marcoramilli.blogspot.pt/2015/12/spotting-malicious-node-relays.html
+Description: Spotting Malicious Node Relays.
+
+URL: https://github.com/HexHive/printbf
+Description: Brainfuck interpreter in printf.
+
+URL: http://toshellandback.com/2015/11/24/ms-priv-esc/
+Description: Common Windows Privilege Escalation Vectors.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://oswatch.org/
+Description: Open Source Watch.
+
+URL: http://azac.pl/cobol-on-wheelchair/
+Description: COBOL on Wheelchair.
+
+URL: http://showterm.io/
+Description: Terminal "Sceencasts".
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

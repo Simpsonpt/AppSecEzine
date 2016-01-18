@@ -1,0 +1,97 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 15 | Month: April | Year: 2014 | Release Date: 14/04/2014 | Edition: 11º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://morgawr.github.io/hacking/2014/03/29/shellcode-to-reverse-bind-with-netcat/
+Description: How to - Shellcode to reverse bind a shell with netcat.
+
+URL: http://www.webinfosec.in/2014/04/google-feed-burner-csrf-and-spoof-email.html
+Description: Google Feed Burner CSRF And Spoof Email (Insecure Client Captcha).
+
+URL: http://pwnrules.com/google-drive-stored-xss/
+Description: Stored XSS in Google Drive.
+
+URL: http://heartbleed.com/
+More: http://pathonproject.com/zb/?e8610d55fca0fcca#4NE7JNjCZj1oCvlySqLM8xuE05XtXUgqwqn+RcA4j8s=
+Description: The Heartbleed Bug is a serious vulnerability in the popular OpenSSL cryptographic software library. 
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://owasp.github.io/NINJA-PingU/
+Description: High performance network scanner tool for large scale analyses.
+
+URL: http://www.thespanner.co.uk/2014/04/07/bypassing-the-xss-filter-using-function-reassignment/
+Description: Bypassing the XSS filter using function reassignment.
+
+URL: http://mohankallepalli.blogspot.in/2014/04/cross-site-scripting-through-callback.html
+Description: Cross Site Scripting through callback functionality.
+
+URL: https://github.com/draios/sysdig
+Description: a system exploration and troubleshooting tool (strace + tcpdump + lsof + awesome sauce)
+
+URL: http://www.hsc.fr/ressources/breves/passe-partout.html.en
+Description: In-memory extraction of SSL private keys.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://thehackerblog.com/a-look-into-creating-a-truley-invisible-php-shell/
+Description: A look into creating a truley invisible PHP Shell.
+
+URL: http://hardsec.net/como-hacer-un-exploit-en-win32-desde-0-mini-httpd-sever/
+Description: How to make an exploit in win32 from 0 (Mini HTTPD Sever).
+
+URL: http://www.firefart.net/multiple-vulnerabilities-in-ioncube-loader-wizard/
+Description: Multiple vulnerabilities in ioncube loader wizard.
+
+URL: http://breaking.systems/blog/2014/04/avm-fritzbox-root-rce-from-patch-to-metasploit-module-i
+More: http://breaking.systems/blog/2014/04/avm-fritzbox-root-rce-from-patch-to-metasploit-module-ii  
+Description: AVM Fritz!Box root RCE: From Patch to Metasploit Module - I
+
+URL: http://hatriot.github.io/blog/2014/04/02/lfi-to-stager-payload-in-coldfusion/
+Description: LFI to Shell in Coldfusion 6-10.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://www.asscert.com/
+Description: Certified Application Security Specialists.
+
+URL: http://www.hackerstrip.com/
+Description: Real stories, real hackers...
+
+URL: https://github.com/musalbas/musicalpackets
+Description: Convert internet traffic to music.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+5065746b6f205065746b6f76202d2040706470202d2068747470733a2f2f61626f75742e6d652f706470

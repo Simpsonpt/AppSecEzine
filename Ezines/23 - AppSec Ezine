@@ -1,0 +1,99 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 27 | Month: July | Year: 2014 | Release Date: 04/07/2014 | Edition: 23º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://blog.securitymouse.com/2014/06/raising-lazarus-20-year-old-bug-that.html
+PoC: http://pastebin.com/kG3AsUKP
+Description: Raising Lazarus - The 20 Year Old Bug that Went to Mars.
+
+URL: http://blog.h3xstream.com/2014/06/identifying-xml-external-entity.html
+Description: Identifying Xml eXternal Entity vulnerability (XXE) in RunKeeper.
+
+URL: http://kos.io/outlook/
+Description: XSS in Outlook 2011 for Mac.
+
+URL: http://blog.sucuri.net/2014/06/anatomy-of-a-remote-code-execution-bug-on-disqus.html
+Description: Remote Code Execution Vuln in Disqus.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/tyranid/AxHell
+Description: A simple exploitable ActiveX control for RE/VR.
+
+URL: http://blog.nullmode.com/blog/2014/06/28/getting-personal-with-powershell/
+Description: Getting Personal With PowerShell: Linux to PowerShell ;) (love)
+
+URL: https://github.com/ohjeongwook/DumpFlash
+Description: Dump Flash Memory.
+
+URL: https://github.com/Flo354/iOSForensic/
+Description: iOS Forensics Tool.
+
+URL: https://github.com/nccgroup/UPnP-Pentest-Toolkit
+Description: UPnP Pentest Toolkit for Windows.
+
+URL: https://github.com/synack/knockknock
+Description: Who's there ? Generically detect persist OS X malware.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://toastedcornflakes.github.io/blog/2014/06/28/static-analysis-of-cysca-2014-portknock-using-hopper-disassembler/
+Description: Static analysis of CySCA 2014 portknock using Hopper Disassembler.
+
+URL: http://www.mafiasecurity..com/install-guides/step-by-step-penetration-test/
+Description: Step By Step Penetration Test.
+
+URL: https://bitquark.co.uk/blog/2013/07/23/the_unexpected_dangers_of_preg_replace
+Description: The unexpected dangers of preg_replace().
+
+URL: http://www.hackwhackandsmack.com/?p=315
+Description: JavaRMI Remote Class Loading Exploitation with AV Bypass.
+
+URL: http://developers.mobage.jp/blog/2014/7/3/jsonsql-injection
+Description: Measures against SQL Injection by unauthorized JSON data (Json.pm + SQL Query Builder). (JP)
+
+URL: http://moyix.blogspot.co.uk/2014/07/breaking-spotify-drm-with-panda.html
+Description: Breaking Spotify DRM with PANDA.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://github.com/kahun/awesome-sysadmin
+Description: A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+
+URL: http://cfenollosa.com/misc/tricks.txt
+Description: Unix Tricks.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+5065746b6f205065746b6f76202d2040706470202d2068747470733a2f2f61626f75742e6d652f706470

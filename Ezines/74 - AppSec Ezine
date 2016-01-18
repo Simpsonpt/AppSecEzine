@@ -1,0 +1,104 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 28 | Month: July | Year: 2015 | Release Date: 10/07/2015 | Edition: 74º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://drops.wooyun.org/papers/6905
+Description: An analysis of Chrome XSS Filter Bypass (100% working).
+
+URL: http://davidjorm.blogspot.pt/2015/07/101-ways-to-pwn-phone.html
+Description: Android VoIP Video Phone Audit (Grandstream GXV3275).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/inquisb/icmpsh
+Description: Simple reverse ICMP shell.
+
+URL: https://github.com/David-Reguera-Garcia-Dreg/anticuckoo
+Blog: https://0xicf.wordpress.com/2015/07/07/anticuckoo-a-tool-to-detect-and-crash-cuckoo-sandbox/
+Description: A tool to detect and crash Cuckoo Sandbox.
+
+URL: https://github.com/binarycanary/usb-rubber-ducky--mimikatz-in-mem
+Description: USB-Rubber-Ducky Payload - Mimikatz in Memory w UAC Bypass.
+
+URL: https://github.com/DarthTon/Blackbone
+Description: Windows memory hacking library.
+
+URL: https://github.com/qianshanhai/q-shell
+Description: Unix remote login tool, rootkit shell tool.
+
+URL: https://github.com/google/grr
+Description: GRR Rapid Response - Remote live forensics for incident response by Google.
+
+URL: https://github.com/RUB-NDS/WS-Attacker
+Description: WS-Attacker is a modular framework for web services penetration testing.
+
+URL: https://github.com/epinna/weevely3
+Description: Weaponized web shell.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://hiddencodes.wordpress.com/2015/06/18/deobfuscate-javascript-using-phantomjs-headless-browser/
+Description: Deobfuscate Javascript using PhantomJS (Headless browser).
+
+URL: http://grimhacker.com/wordpress/2015/04/10/gp3finder-group-policy-preference-password-finder/
+Description: Group Policy Preference Password Finder (Windows Pwn).
+
+URL: http://blog.quarkslab.com/quarkslabs-chatsecure-review.html
+Description: QuarksLab's ChatSecure Review.
+
+URL: https://www.exploitee.rs/index.php/Wink_Hub
+Description: Wink Hub Security Review.
+
+URL: https://djbunny5.com/2015/06/26/dns-amplification-attacks/
+Description: DNS amplification attacks (Simple explanation).
+
+URL: https://truesecdev.wordpress.com/2015/07/01/exploiting-rootpipe-again/
+Description: Exploiting rootpipe again (MacOS).
+
+URL: https://pierrekim.github.io/blog/2015-07-01-poc-with-RCE-against-127-iptime-router-models.html
+Description: Exploit Code for ipTIME firmwares < 9.58 RCE with root privileges against 127 router models.
+
+URL: https://blog.bugcrowd.com/advice-from-a-researcher-xxe/
+Description: Advice From A Researcher - Hunting XXE For Fun and Profit.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://cellhack.net/login/
+Description: You are the master of a colony of cells (Game).
+
+URL: https://github.com/amq/firefox-debloat
+Description: Stop Firefox leaking data about you.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

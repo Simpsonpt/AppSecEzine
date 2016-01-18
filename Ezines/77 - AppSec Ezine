@@ -1,0 +1,113 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 31 | Month: July | Year: 2015 | Release Date: 31/07/2015 | Edition: 77º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://blog.ptsecurity.com/2015/07/best-reverser-write-up-analyzing.html
+Description: Best Reverser Write-Up - Analyzing Uncommon Firmware.
+
+URL: https://k0st.wordpress.com/2012/10/23/rip-or-pillage-dvcs-story-about-git/ 
+PoC A:https://github.com/evilpacket/DVCS-Pillage
+PoC B: https://github.com/kost/dvcs-ripper
+Google Dork: ".git" intitle:"Index of"
+Description: Pillage web accessible GIT, HG and BZR repositories.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/dkemp/Vulndev/tree/master/MS14-070
+Advisory:  https://technet.microsoft.com/library/security/ms14-070
+Description: Vulnerability in TCP/IP Could Allow Elevation of Privilege (MS14-070).
+
+URL: https://github.com/emdel/ksfinder
+Description: Retrieve exported kernel symbols from physical memory dumps.
+
+URL: https://github.com/iniqua/plecost/
+Description: Wordpress finger printer Tool.
+
+URL: https://github.com/zardus/ctf-tools
+Description: Some setup scripts for security research tools.
+
+URL: http://www.sac.sk/files.php?d=7
+Description: PACK - Archivers, exe-compressors, archiver shells and other related utils.
+
+URL: http://0x90909090.blogspot.fr/2015/07/no-one-expect-command-execution.html
+Description: No one expect command execution!
+
+URL: https://k0st.wordpress.com/2015/07/13/identifying-and-exploiting-ibm-websphere-application-server/
+Description: Identifying and exploiting IBM WebSphere Application Server.
+
+URL: http://www.sleuthkit.org/autopsy/
+Description: Digital forensics platform/GUI to The Sleuth Kit® and other digital forensics tools.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://securityblog.redhat.com/2015/07/23/libuser-vulnerabilities/
+PoC: http://securityvulns.com/files/roothelper.c
+More: http://seclists.org/fulldisclosure/2015/Jul/110
+Description: libuser vulnerabilities (CVE-2015-3245 and CVE-2015-3246).
+
+URL: http://seclists.org/fulldisclosure/2015/Jul/11
+Description: Microsoft Office - OLE Packager "Research".
+
+URL: http://labs.bromium.com/2015/07/10/government-grade-malware-a-look-at-hackingteams-rat/
+Description: Government Grade Malware - aLook at HackingTeam's RAT.
+
+URL: https://fuzzing-project.org/tutorial-cflags.html
+Description: Simple Tips to find Bugs with Compiler Features.
+
+URL: https://frederik-braun.com/using-subresource-integrity.html
+Description: A CDN that can not XSS you - Using Subresource Integrity.
+
+URL: https://blogs.securiteam.com/index.php/archives/2502
+Description: Trend Micro Threat Intelligence Manager Multiple Vulnerabilities RCE.
+
+URL: https://www.sektioneins.de/en/blog/15-07-07-dyld_print_to_file_lpe.html
+PoC: https://twitter.com/simps0n/status/624162351273639936 
+Description: OS X 10.10 DYLD_PRINT_TO_FILE Local Privilege Escalation Vulnerability.
+
+URL: https://digital-forensics.sans.org/community/summits
+Description: Digital Forensics Summits Slides (Dump).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://github.com/Regala/ctfs/blob/master/bsides-lisbon-2015
+Description: BSidesLisbon 2015 CTF Write-up.
+
+URL: http://overthewire.org/wargames/
+Description: Learn and practice security concepts in the form of fun-filled games.
+
+URL: http://www.nopwn.com/
+Description: Defense Science of the Next Decade.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

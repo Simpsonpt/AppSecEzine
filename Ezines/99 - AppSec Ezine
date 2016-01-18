@@ -1,0 +1,125 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 01 | Month: January | Year: 2016 | Release Date: 08/01/2016 | Edition: 99º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://www.ubercomp.com/posts/2014-01-16_facebook_remote_code_execution
+Description: XXE in OpenID - Facebook RCE. (Oldies)
+
+URL: https://code.google.com/p/google-security-research/issues/detail?id=675
+Description: AVG: "Web TuneUP" extension Vulnerabilities. ("Security Products")
+
+URL: https://guidovranken.files.wordpress.com/2015/12/https-bicycle-attack.pdf
+Description: HTTPS Bicycle Attack.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://www.securityfocus.com/archive/1/536930
+Description: RCE and SQL injection via CSRF in Horde Groupware.
+
+URL: https://github.com/morria/phan
+Description: Phan is a static analyzer for PHP.
+
+URL: https://blog.korelogic.com/blog/2015/12/04/linksys-0day-unauth-infodisco
+Advisor: https://www.korelogic.com/Resources/Advisories/KL-001-2015-006.txt
+Description: Linksys EA6100 Wireless Router Authentication Bypass.
+
+URL: https://github.com/alienwithin/xanity-php-rat
+Description: Xanity PHP RAT leak For Researchers.
+
+URL: http://dev.cra0kalo.com/?p=400
+Description: LiveDump – A simple memory dumper (Windows).
+
+URL: http://www.impulseadventure.com/photo/jpeg-snoop.html
+Description: JPEGsnoop - JPEG File Decoding Utility (Forensics).
+
+URL: http://www.shellntel.com/blog/2015/9/23/assessing-enterprise-wireless-networks
+Description: crEAP - Harvesting Users on Enterprise Wireless Networks.
+
+URL: https://github.com/CacheBrowser/cachebrowser
+Description: A proxy-less censorship resistance tool.
+
+URL: https://github.com/mikkolehtisalo/gssapi-proxy
+Description: GSSAPI/Kerberos proxy (Pentest).
+
+URL: https://blog.g0tmi1k.com/dvwa/bruteforce-high/
+Description: DVWA - Brute Force (High Level) - Anti-CSRF Tokens.
+
+URL: https://github.com/HeitorG/harpoon
+Description: Harpoon web backdoor (PHP).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://randywestergren.com/running-a-hidden-tor-service-with-docker-compose/
+Description: Running a Hidden Tor Service with Docker Compose.
+
+URL: http://goo.gl/tJ00NN (+)
+Description: Exploiting F5 ICall::Script Privilege Escalation (CVE-2015-3628).
+
+URL: https://github.com/happyworm/jPlayer/issues/327
+Description: jPlayer for SOME-attacks Issue.
+
+URL: http://blog.mindedsecurity.com/2015/11/reliable-os-shell-with-el-expression.html
+Description: Reliable OS Shell with - EL [ Expression Language ] - Injection.
+
+URL: http://routersecurity.org/checklist.php
+Description: Router Security Checklist.
+
+URL: http://c0rni3sm.blogspot.pt/2016/01/referrer-leakage-from-https-to-https.html
+Description: Referrer Leakage from HTTPS to HTTPS.
+
+URL: https://digi.ninja/projects/zonetransferme.php
+Description: ZoneTransfer.me
+
+URL: http://www.greyhathacker.net/?p=911
+Description: Spraying the heap in seconds using ActiveX controls in MS Office.
+
+URL: https://blog.srcclr.com/handlebars_vulnerability_research_findings/
+Description: A short study of how a handlebars.js vulnerability has spread.
+
+URL: https://blog.risingstack.com/web-authentication-methods-explained/
+Description: Web Authentication Methods Explained (Auth 101).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://www.portoscuso.com/codef/index.html
+Description: Oldschool Demoscene Intros.
+
+URL: https://gist.github.com/hasegawayosuke/00f7253e22e228462b91
+Description: Polyglot of node.js/windows bat file.
+
+URL: https://github.com/simias/rustation
+Description: Rustation PlayStation emulator.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

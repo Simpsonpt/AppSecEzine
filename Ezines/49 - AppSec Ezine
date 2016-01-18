@@ -1,0 +1,100 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 03 | Month: January | Year: 2015 | Release Date: 16/01/2015 | Edition: 49º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://habrahabr.ru/company/pt/blog/247709/
+Description: Another vulnerability in Facebook (CRLF).
+
+URL: http://zoczus.blogspot.de/2015/01/yammercom-same-origin-method-execution.html?spref=tw
+Description: yammer.com - Same Origin Method Execution.
+
+URL: http://rtwaysea.net/blog/blog-2013-10-18-long.html
+Description: Another methodology for bypassing the XSS filter in all versions of MSIE browser. 
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/rodionovd/liblorgnette
+Description: Lorgnette is a library for locating symbols of any running process on OSX.
+
+URL: http://michenriksen.com/blog/gitrob-putting-the-open-source-in-osint/
+Description: Gitrob - Putting the Open Source in OSINT.
+
+URL: http://seclist.us/inception-is-a-physical-memory-manipulation-and-hacking-tool-exploiting-pci-based-dma.html
+Description: Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA.
+
+URL: http://networkfilter.blogspot.pt/2015/01/be-your-own-vpn-provider-with-openbsd.html
+Description: Be your own VPN provider with OpenBSD.
+
+URL: http://www.hexacorn.com/blog/2015/01/08/decompiling-compiled-autoit-scripts-64-bit-take-two/
+Description: Decompiling compiled AutoIT scripts (64-bit), take two.
+
+URL: https://github.com/WillYee/syscall_hooker
+Description: A library for hooking system calls globally on OS X 10.9.5
+
+URL: https://milo2012.wordpress.com/2015/01/08/proxy-tester-script/
+Description: Proxy Tester Script.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://blog.sucuri.net/2015/01/website-backdoors-leverage-the-pastebin-service.html
+Description: Website Backdoors Leverage the Pastebin Service.
+
+URL: https://blog.avast.com/2015/01/06/linux-ddos-trojan-hiding-itself-with-an-embedded-rootkit/
+Description: Linux DDoS Trojan hiding itself with an embedded rootkit.
+
+URL: http://web-in-security.blogspot.pt/2015/01/save-your-cloud-exploiting-eucalyptus.html?spref=tw
+Description: Save Your Cloud - Exploiting Eucalyptus 4.0.0 and 4.0.1.
+
+URL: http://www.giac.org/paper/gpen/6684/aix-penetration-testers/125890
+Description: AIX for Penetration Testers.
+
+URL: http://randomthoughts.greyhats.it/2015/01/osx-bluetooth-lpe.html
+Description: Time to fill OSX (Blue)tooth - Local privilege escalation vulnerabilities in Yosemite.
+
+URL: http://www.shortbus.ninja/phishbait-scraping-the-web-for-email-addresses/
+Description: Scraping the Web for Email Addresses.
+
+URL: http://smealum.net/?p=517
+Description: Run homebrew software on their 3DS/2DS/New 3DS .
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://blog.lse.epita.fr/articles/75-sstpinball.html
+Description: Sega Starship Troopers Pinball Overview.
+
+URL: http://script-ed.org/?p=1671
+Description: Can CSIRTs Lawfully Scan for Vulnerabilities?
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d=

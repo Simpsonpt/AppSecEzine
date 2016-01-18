@@ -1,0 +1,94 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 39 | Month: September | Year: 2014 | Release Date: 26/09/2014 | Edition: 33º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://pathonproject.com/zb/?5b343c33591c9cc9#Pc9t/zKg8zWJUNkqqvYhuuL7Lofz8PGTX7R3qat0i/8=
+Description: All About Bash Bug - CVE-2014-6271. (ShellShock!)
+
+URL: http://blog.binamuse.com/2014/09/coregraphics-memory-corruption.html
+PoC: https://github.com/feliam/CVE-2014-4377
+Description: Apple CoreGraphics Memory Corruption.
+
+URL: http://avlidienbrunn.se/angular.txt
+Description: Quick AngularJS sandbox bypass.
+
+URL: https://erenyagdiran.github.io/I-was-just-asked-to-crack-a-program-Part-1/
+Description: I was just asked to crack a program in a job interview!
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://code.google.com/p/miasm/
+Plugin: https://github.com/cea-sec/Sibyl
+Description: Reverse engineering framework in python.
+
+URL: http://breenmachine.blogspot.ca/2014/09/transfer-file-over-dns-in-windows-with.html
+Description: Transfer File Over DNS in Windows (with 13 lines of PowerShell).
+
+URL: http://forensic.n0fate.com/?page_id=1180
+Description: Keychain Analysis with Mac OS X Memory Forensics.
+
+URL: https://github.com/chinoogawa/fbht
+Description: Facebook Hacking Tool.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://thehackernews.com/2014/09/hacking-ebay-accounts.html
+Original: http://yasserali.com/?p=28
+Description: Hacking any eBay Account in Just 1 Minute.
+
+URL: http://www.cloudscan.me/2014/09/cve-2014-4406-apple-sa-2014-09-17-5-os.html
+Description: XSS vulnerability in Xcode Server in CoreCollaboration in Apple OS X Server before 3.2.1.
+
+URL: http://www.martinvigo.com/a-look-into-lastpass/
+Description: A look into LastPass.
+
+URL: https://blog.cloudflare.com/keyless-ssl-the-nitty-gritty-technical-details/
+Description: Understand SSL Technical Specs.
+
+URL: http://countuponsecurity.com/2014/09/22/malicious-documents-pdf-analysis-in-5-steps/
+Description: Malicious PDF Documents, Analysis in 5 steps.
+
+URL: http://www.theamazingking.com/crypto.php
+Description: Tutorials, videos, and source code explaining various forms of cryptanalysis.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://javahacker.com/a-javascript-challenge-for-nordic-js/
+Description: A JavaScript challenge for Nordic.js.
+
+URL: https://gist.github.com/ethicalhack3r/cb06f575c6ba28644e9a
+Description: who.is XSS.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

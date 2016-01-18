@@ -1,0 +1,107 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 15 | Month: April | Year: 2015 | Release Date: 10/04/2015 | Edition: 61º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://www.mreagle0x.xyz/2015/01/the-tricky-vineco-xss-and-how-to-filter.html
+Description: The tricky vine.co XSS, and how to filter inputs the wrong way.
+
+URL: http://nahamsec.com/lack-of-domain-verification-by-google/
+Description: Email Spoofing via Google Admin Console.
+
+URL: http://pouyadarabi.blogspot.pt/2015/03/facebook-bypass-ads-account-roles.html
+Description: Facebook - bypass ads account roles vulnerability.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/simplephishingtoolkit/sptoolkit-rebirth
+Description: Simple Phishing Toolkit Rebirth Project.
+
+URL: http://www.parrotsec.org/
+Description: Parrot Security OS.
+
+URL: https://github.com/AdamLaurie/RFIDIOt
+Description: Collection of tools and libraries for exploring RFID technology.
+
+URL: http://nullonerror.org/2015/04/05/escondendo-informacoes-dentro-de-imagens/
+Description: Steganography Helper.
+
+URL: https://github.com/paldepind/dffptch
+Description: A micro library for diffing and patching JSON objects using a compact diff format.
+
+URL: https://github.com/Microsoft/IEDiagnosticsAdapter/
+Helper: http://blogs.msdn.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-38-71-metablogapi/4150.emdtwteosda_2D00_image1.gif
+Description: IE Diagnostics Adapter is a standalone exe that enables tools to debug and diagnose IE11 using the Chrome remote debug protocol.
+
+URL: http://forum.xda-developers.com/android/development/guide-root-method-lg-devices-t3049772
+Description: Android new root method for LG devices (Including Nexus5).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://hackerone.com/reports/46916
+Description: Markdown parsing issue enables insertion of malicious tags and event handlers.
+
+URL: https://sploitfun.wordpress.com/
+Description: Awesome resource to understand Overflows issues.
+
+URL: http://smerity.com/articles/2015/amazon_information_leakage.html
+Description: The lack of HTTPS at Amazon - identifying items purchased using information leakage.
+
+URL: https://www.reddit.com/r/netsec/comments/2xl412/abusing_rfc_5227_to_dos_windows_hosts/
+Description: Abusing RFC 5227 to DoS Windows hosts.
+
+URL: https://haiderm.com/column-truncation-sql-injection-vulnerability/
+Description: Column Truncation SQL Injection Vulnerability.
+
+URL: http://www.websegura.net/advisories/facebook-rfd-and-open-file-upload/
+Description: Facebook Reflected Filename Download and Open File Upload.
+
+URL: https://stackoverflow.com/questions/3115559/exploitable-php-functions
+Description: Exploitable PHP functions.
+
+URL: http://blog.loadzero.com/blog/tracking-down-a-segfault-in-grep/
+Description: Tracking down a segfault in grep.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://cachemonet.com/
+Description: Random! 😆
+
+URL: http://sixteencolors.net/
+Description: ANSI and ASCII Artwork Archive.
+
+URL: https://dougvitale.wordpress.com/2011/12/21/deprecated-linux-networking-commands-and-their-replacements/
+Description: Deprecated Linux networking commands and their replacements.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

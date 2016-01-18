@@ -1,0 +1,101 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 27 | Month: July | Year: 2015 | Release Date: 03/07/2015 | Edition: 73º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://thehackerblog.com/the-noscript-misnomer-why-should-i-trust-vjs-zendcdn-net/
+More: http://labs.detectify.com/post/122837757551/using-google-cloud-to-bypass-noscript
+Description: The NoScript Misnomer – Why should I trust vjs.zendcdn.net?
+
+URL: https://www.veracode.com/blog/2015/06/angularjs-expression-security-internals
+Description: AngularJS Expression Security Internals.
+
+URL: http://joevennix.com/2015/06/24/Adventures-in-Browser-Exploitation-Part-II--Safari-8-UXSS.html
+Description: Adventures in Browser Exploitation Part II - Mac OS X Safari 8.0.5 UXSS.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/dheiland-r7/snmp
+Description: SNMP data gather scripts.
+
+URL: https://github.com/d0lph1n98/Defeating-PHP-GD-imagecreatefromgif
+Description: PoC to exploit the flaw in the PHP-GD built-in function, imagecreatefromgif().
+
+URL: https://github.com/xoreaxeaxeax/movfuscator/
+Description: The single instruction C compiler (M/o/Vfuscator).
+
+URL: https://github.com/0xmabu/NME
+Description: Network Mapping and Enumeration Framework (PS Modules).
+
+URL: https://github.com/thezdi/abusing-silent-mitigations
+Description: Understanding weaknesses within Internet Explorer's Isolated Heap and MemoryProtection.
+
+URL: https://github.com/pentestmonkey/unix-privesc-check/
+Description: Shell script to check for simple privilege escalation vectors on Unix systems.
+
+URL: http://www.pc-help.org/obscure.htm
+Description: How to Obscure Any URL.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://reverse.put.as/2015/07/01/reversing-prince-harmings-kiss-of-death/
+Description: Reversing Prince Harming’s kiss of death (EFI Reverse).
+
+URL: https://paragonie.com/blog/2015/06/preventing-xss-vulnerabilities-in-php-everything-you-need-know
+Description: Everything You Need to Know About Preventing Cross-Site Scripting Vulnerabilities in PHP.
+
+URL: http://vladz.devzero.fr/015_lsm-backdoor.html
+Description: Writing a LKM rootkit that uses LSM hooks.
+
+URL: http://nullsecure.org/threat-intel-web-crew/
+Description: Threat Intel - Web Crew (Malware Research).
+
+URL: http://blog.mazinahmed.net/2015/06/facebook-messenger-multiple-csrf.html
+Description: Facebook Messenger Multiple CSRF Vulnerabilities.
+
+URL: http://blog.csnc.ch/2015/06/xslt-security-and-server-side-request-forgery/
+Description: XSLT Security and Server Side Request Forgery.
+
+URL: http://container-solutions.com/content/uploads/2015/06/15.06.15_DockerCheatSheet_A2.pdf
+Description: Docker Security Cheat Sheet.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://www.whitehatters.academy/hackfu-2015-badge-loyalty-system/
+Description: HackFu 2015 - Badge Loyalty System (Hardware Hacking).
+
+URL: https://github.com/omnus/tiny-twitch
+Description: A tiny html/javascript game whose source code fits in one tweet!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

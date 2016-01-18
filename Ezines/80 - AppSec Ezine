@@ -1,0 +1,110 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 34 | Month: August | Year: 2015 | Release Date: 21/08/2015 | Edition: 80º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://sakurity.com/blog/2015/08/13/middlekit.html
+Description: Using Appcache and ServiceWorker for Evil.
+
+URL: http://x42.obscurechannel.com/2015/08/14/netripper_metasploit/
+Description: Sniffing Encrypted puTTY/Outlook credentials with msf NetRipper.
+
+URL: http://blog.gojhonny.com/2015/08/domain-administrator-in-17-seconds.html
+Description: Domain Administrator in 17 seconds.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/feross/spoof
+Description: Easily spoof your MAC address in OS X & Linux!
+
+URL: https://github.com/IAIK/rowhammerjs
+Description: Rowhammer.js - A Remote Software-Induced Fault Attack in JavaScript.
+
+URL: https://github.com/MozillaSecurity/fuzzdata
+Description: Fuzzing resources for feeding various fuzzers with input.
+
+URL: https://github.com/Netflix/security_monkey
+Description: Security Monkey - AWS Security Configuration Monitoring and Analysis (by Netflix).
+
+URL: https://github.com/jessepeterson/commandment
+Description: Open Source Apple MDM implemented in Python (Use your imagination).
+
+URL: https://github.com/sbehrens/sleepy-puppy
+Description: Blind Cross-site Scripting Collector and Manager.
+
+URL: https://github.com/10se1ucgo/DisableWinTracking
+More: https://github.com/dfkt/win10-unfuck | https://fix10.isleaked.com/
+Description: Uses some known methods that attempt to disable tracking in Windows 10 (Avoid Privacy Leaks).
+
+URL: http://jpinsoft.net/DeepSound/Documentation.aspx
+Description: Hide data into carrier audio file.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://sysexit.wordpress.com/2015/07/29/bypassing-the-windows-8-1-picture-password-feature-with-a-kernel-debugger/
+Description: Bypassing the Windows 8.1 Picture Password feature with a kernel debugger.
+
+URL: http://codewhitesec.blogspot.in/2015/07/symantec-endpoint-protection.html?m=1
+PoC: https://github.com/rapid7/metasploit-framework/pull/5800
+Description: Compromised by Endpoint Protection.
+
+URL: https://gun.io/blog/building-a-twitterbot-in-node-to-post-xss-payloads/
+Description: Building a Twitterbot in Node to Post XSS Payloads.
+
+URL: http://baileysoriginalirishtech.blogspot.pt/2015/06/applocker-schmapplocker.html
+PoC: https://github.com/strictlymike/Invoke-SchmappLocker/
+Description: Bypass AppLocker EXE file policies (KB2532445).
+
+URL: http://sysadminconcombre.blogspot.ca/2015/07/how-to-hack-windows-password.html
+Tool: https://github.com/giMini/RWMC
+Description: How to hack Windows password.
+
+URL: http://noxxi.de/research/sophos-utm-webprotection-bypass2.html
+Description: Bypassing Malware Scanning in Sophos UTM Web Protection, Again!
+
+URL: http://www.sicherheitsforschung-magdeburg.de/uploads/journal/MJS_034_Lukas_Java.pdf
+Description: Java’s SSLSocket - How Bad APIs Compromise Security.
+
+URL: http://volatility-labs.blogspot.pt/2015/08/recovering-teamviewer-and-other.html
+Description: Recovering TeamViewer (and other) Credentials from RAM with EditBox.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://speakerdeck.com/ange/lets-write-a-pdf-file
+Description: Let's write a PDF file.
+
+URL: https://www.exploit-db.com/exploits/37669/
+Description: Counter-Strike 1.6 'GameInfo' Query Reflection DoS PoC.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

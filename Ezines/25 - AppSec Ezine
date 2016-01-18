@@ -1,0 +1,96 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 29 | Month: July | Year: 2014 | Release Date: 18/07/2014 | Edition: 25º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://vinicius777.github.io/blog/2014/07/14/truecrypt-privilege-escalation/
+Description: TrueCrypt - Privilege Escalation.
+
+URL: http://www.tripwire.com/state-of-security/featured/analysis-for-phpmyadmin-xss-cve-2014-1879/
+Description: Analysis for phpMyAdmin XSS CVE-2014-1879.
+
+URL: http://blog.sucuri.net/2014/07/disclosure-insecure-nonce-generation-in-wptouch.html
+PoC: https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/unix/webapp/wp_wptouch_file_upload.rb
+Description: Wordpress WPTouch Authenticated File Upload.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://home.regit.org/2014/06/pshitt-collect-passwords-used-in-ssh-bruteforce/
+Description: pshitt - Collect Passwords used in SSH bruteforce.
+
+URL: http://www.commonexploits.com/penetration-testing-scripts/
+Description: Pen Testing Scripts.
+
+URL: http://www.viper.li/
+Description: Viper is a binary management and analysis framework dedicated to malware and exploit researchers. 
+
+UR: https://github.com/byt3bl33d3r/MITMf
+Description: Framework for Man-In-The-Middle attacks.
+
+URL: http://blogs.telerik.com/fiddler/posts/14-07-10/capturing-traffic-via-virtual-router
+Description: Capturing Traffic via Virtual Router (Handy for Windows!).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://archive.org/details/OISFOhioInformationSecurityForum2014
+Description: OISF (Ohio Information Security Forum) 2014 Video Dump.
+
+URL: http://h30499.www3.hp.com/t5/HP-Security-Research-Blog/Hacking-POS-Terminal-for-Fun-and-Non-profit/ba-p/6540620
+Description: Hacking POS Terminal for Fun and Non-profit.
+
+URL: http://www.vulcanproxy.com/
+Description: Tools for building dynamic and easilly expandable HTTP reverse proxies.
+
+URL: https://github.com/kbandla/APTnotes
+Description: Various public documents, whitepapers and articles about APT campaigns.
+
+URL: http://drimel.org/2014/07/14/shellcode-analysis-like-a-semi-pro/
+Description: Shellcode analysis like a semi-PRO.
+
+URL: http://deadliestwebattacks.com/2013/10/21/a-default-base-of-xss/
+Description: A Default Base of XSS.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://gcc.gnu.org/bugzilla/show_bug.cgi?id=30475
+Description: Bug 30475 - assert(int+100 > int) optimized away (Fun!)
+
+URL: http://vimeo.com/4530161
+Description: GOBBLES Security "Wolves Among Us", Speech at Defcon X (2002).
+
+URL: http://tholman.com/giflinks/
+Description: The design paradigm that's sweeping the world.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+5065746b6f205065746b6f76202d2040706470202d2068747470733a2f2f61626f75742e6d652f706470

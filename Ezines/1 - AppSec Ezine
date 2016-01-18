@@ -1,0 +1,92 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 5 | Month: January | Year: 2014 | Release Date: 31/01/2014 | Edition: 1º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://homakov.blogspot.pt/2014/01/two-severe-wontfix-vulnerabilities-in.html
+Description: Account Hijacking / New Methodologies.
+
+URL: https://github.com/zumba/middleman.js
+Description: A small library that lets you inject some code between a third party library and the execution context.
+
+URL: http://securityaffairs.co/wordpress/21631/hacking/remote-command-execution-yahoo.html
+Description: Discovered a Remote Command Execution Vulnerability in Yahoo!
+
+URL: http://thehackerblog.com/samsung-com-account-takeover-vulnerability-write-up/
+Description: Samsung.com Account Takeover Vulnerability Write-Up.
+
+URL: http://miladbr.blogspot.pt/2013/04/exploiting-unexploitable-dom-based-xss.html (Old but good)
+Description: Exploiting an unexploitable persistence DOM based XSS in feedly.com by using root domain cookies!
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques/Tools.
+
+
+URL: https://www.dropbox.com/s/43iyug3ul8pre1w/FacbookHack.txt
+Description: Facebook fun/social engineering circulating around: It auto-tagged friends & send them email, like page(es) etc.
+
+URL: http://vxheaven.org/0x48k/
+Description: Welcome Hell Knights Crew! (Oldies)
+
+URL: https://github.com/DanMcInerney/wifijammer
+Description: Let's put all Sys Admins Crazy!
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://netinfiltration.com/
+Description: Oracle Reports Exploits Release.
+Exploit: https://github.com/Mekanismen/pwnacle-fusion
+
+URL: http://www.sensepost.com/blog/10178.html
+Description: Revisiting XXE and abusing protocols.
+
+URL: https://3vildata.com/?p=837
+Description: From CSRF to credential Harvesting over SMS.
+
+URL: http://talater.com/chrome-is-listening/
+Description: Chrome Bugs Allow Sites to Listen to Your Private Conversations.
+
+URL: http://www.vulnerability-lab.com/get_content.php?id=1182
+Description: Mozilla Thunderbird - WireTap Remote 0Day Vulnerability.
+
+URL: http://blog.mdsec.co.uk/2014/01/voip-attacks-skype-proof-of-concept.html
+Description: VoIP Attacks: Skype Proof of Concept Released.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.youtube.com/watch?v=oJagxe-Gvpw
+Description: World's Worst Hacker! (Learn something about: wget, tar, cd, more wget, cd, tar) :D
+
+URL: http://it.toolbox.com/blogs/securitymonkey/the-worlds-worst-penetration-test-report-by-scumbagpentester-58747
+Description: "IT Professionals" (facepalm)
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

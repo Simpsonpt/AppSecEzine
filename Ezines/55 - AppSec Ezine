@@ -1,0 +1,104 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 09 | Month: February | Year: 2015 | Release Date: 27/02/2015 | Edition: 55º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://jasminderpalsingh.info/single.php?p=84
+Description: Youtube Editor Stored DOM Based and Self Executed XSS Vulnerability.
+
+URL: http://sekurak.pl/xss-w-domenie-www-google-com-postini-header-analyzer/
+Description: www.google.com domain XSS (Postini Header Analyzer).
+
+URL: http://www.7xter.com/2015/02/how-i-hacked-your-facebook-photos.html
+Description: How I Hacked Your Facebook Photos.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/nccgroup/loki
+Description: LOKI (Limited Obstructive Keyboard Impersonator) is a RDP File Transfer Tool Using Keypresses.
+
+URL: https://github.com/Neo23x0/Loki
+Description: Loki - Simple IOC Scanner (Malware Security Research).
+
+URL: https://github.com/Atticuss/SQLViking
+Description: Sniff/log database traffic or actively execute arbitrary queries via TCP injection.
+
+URL: https://github.com/sensepost/Jack
+Blog: http://www.sensepost.com/blog/11105.html
+Description: ClickJacking PoC development assistance tool.
+
+URL: http://blog.cobaltstrike.com/2015/02/25/my-favorite-powershell-post-exploitation-tools/
+Description: My Favorite PowerShell Post-Exploitation Tools (Post-Exploitation Helper).
+
+URL: https://github.com/akiym/pedal
+Description: PEDAL - Python Exploit Development Assistance for GDB Lite.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://infosec42.blogspot.de/2015/02/exploit-seagate-blackarmor-network.html
+Description: Seagate BlackArmor Business Storage Network Storage System (RCE).
+
+URL: http://blog.secureideas.com/2015/02/adventures-in-ldap-injection-exploiting.html
+Description: Adventures in LDAP Injection - Exploiting and Fixing.
+
+URL: http://s1gnalcha0s.com/node/2015/01/31/SSJS-webshell-injection.html
+Description: SSJS Web Shell Injection.
+
+URL: http://www.en.pentester.es/2015/02/from-case-insensitive-to-rce.html
+Description: From Case-Insensitive to RCE. (Ninja)
+
+URL: http://www.proteansec.com/linux/installing-using-cuckoo-malware-analysis-sandbox/
+Description: Installing and Using Cuckoo Malware Analysis Sandbox.
+
+URL: https://blogs.rsa.com/dns-poisoning-used-boleto-fraud/
+Description: DNS Poisoning Used In Boleto Fraud.
+
+URL: http://w00tsec.blogspot.pt/2015/02/firmware-forensics-diffs-timelines-elfs.html
+Description: Firmware Forensics: Diffs, Timelines, ELFs and Backdoors.
+
+URL: http://www.vulnerability-lab.com/get_content.php?id=1432
+Description: Facebook Bug Bounty #23 - Session ID & CSRF Vulnerability.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://xmodulo.com/presentation-command-line-linux.html
+Description: How to create and show a presentation from the command line on Linux.
+
+URL: https://github.com/hgarc014/git-game
+Description: Terminal game to test git skills.
+
+URL: http://twitterbiogenerator.com/
+Description: Don't think too hard about it. Use this thingy to generate a Twitter bio for yourself.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

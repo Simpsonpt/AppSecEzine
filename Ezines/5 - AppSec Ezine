@@ -1,0 +1,92 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 9 | Month: February | Year: 2014 | Release Date: 28/02/2014 | Edition: 5º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://www.imperialviolet.org/2014/02/22/applebug.html
+Extra: http://www.sektioneins.de/en/blog/14-02-22-Apple-SSL-BUG.html
+Description: Apple's SSL/TLS bug.
+
+URL: https://gist.github.com/joernchen/a7c031b6b8df5d5d0b61
+Description: GitHub RCE by Environment variable injection Bug Bounty writeup.
+
+URL: http://www.droidsec.org/news/2014/02/26/on-the-webview-addjsif-saga.html
+Description: On the WebView addJavascriptInterface Saga. (Just awesome work!)
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/DanMcInerney/creds.py
+Description: Harvest FTP/POP/IMAP/HTTP/IRC creds.
+
+URL: https://code.google.com/p/littleblackbox/ | https://github.com/devttys0/littleblackbox
+Description: Database of private SSL/SSH keys for embedded devices.
+
+URL: https://github.com/PaulSec/HQLmap
+Description: HQLmap, Automatic tool to exploit HQL injections.
+
+URL: http://lanmaster53.com/2013/07/multi-post-csrf/
+Description: Multi-POST Cross-Site Request Forgery.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://7h3ram.github.io/
+Description: 7h3rAm's InfoSec Ramblings. (Nice Learning Resource!)
+
+URL: http://blog.cassidiancybersecurity.com/post/2014/02/Bitcrypt-broken
+Description: Bitcrypt broken, Bitcrypt ransomware author confused bytes and digits, ended up with a trivially-factorable 464 bit key.
+
+URL: http://www.welivesecurity.com/2014/02/21/an-in-depth-analysis-of-linuxebury/
+Description: An In-depth Analysis of Linux/Ebury (OpenSSH backdoor).
+
+URL: http://bromiumlabs.files.wordpress.com/2014/02/bypassing-emet-4-1.pdf
+Description: Bypass EMET 4.1 (Microsoft zero-day prevention capability).
+
+URL: http://recon.cx/2013/schedule/schedule.html
+Description: All the video from Recon 2013 are online now (Few video missing but they won't be released).
+
+URL: http://labs.bromium.com/2014/02/25/dissecting-the-newest-ie10-0-day-exploit-cve-2014-0322/
+Description: Dissecting the newest IE10 0-day exploit (CVE-2014-0322).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://r000t.com/who-hacked-ec-council/ | https://twitter.com/JamieCaitlin/status/438391518697512960
+Description: Who Hacked EC-Council? And Again...
+
+URL: https://github.com/torvalds/linux/blob/d158fc7f36a25e19791d25a55da5623399a2644f/fs/ext4/resize.c#L698-700
+Description: Things you don't want to find in your filesystem's source code.
+
+URL: http://www.w3.org/People/Raggett/book4/ch02.html
+Description: History of HTML.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

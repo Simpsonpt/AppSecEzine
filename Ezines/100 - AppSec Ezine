@@ -1,0 +1,124 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 02 | Month: January | Year: 2016 | Release Date: 15/01/2016 | Edition: 100º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://code.google.com/p/google-security-research/issues/detail?id=693
+PoC: https://goo.gl/RrTJLS (+)
+Description: TrendMicro node.js HTTP Server listening on localhost can exec commands.
+
+URL: https://github.com/sghctoma/multipass
+Description: Binding two processes on the same port for fun and firewall evasion.
+
+URL: https://goo.gl/tmvgpl (+)
+Description: A tale of eBay XSS and shoddy incident response.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/mschwager/dhcpwn
+Description: DHCPwn is a tool used for testing DHCP IP exhaustion attacks.
+
+URL: https://github.com/glmcdona/Process-Dump
+Description: Windows tool for dumping malware PE files from memory back to disk.
+
+URL: https://github.com/kahunalu/pwnbin
+Description: Python Pastebin Webcrawler (keywords filtering).
+
+URL: http://www.ioactive.com/labs/tools.html
+Description: IOActive Labs Tools (Dump).
+
+URL: https://github.com/nccgroup/autopwn
+Description: Specify targets and run sets of tools against them (L4m3 Autopwn). 
+
+URL: http://www.phillips321.co.uk/2015/11/24/hacking-the-atn-x-sight-part1/
+Description: Hacking the ATN X-sight.
+
+URL: https://github.com/ithurricane/SampleCode/blob/master/hidereg_r0r3.c
+Description: Hide registry key form regedit like poweliks.
+
+URL: https://github.com/sektioneins/micro-ca-tool
+Description: Small-scale CA with SmartCard support.
+
+URL: http://goo.gl/Cqotff (+)
+Description: Exploiting JBoss with Empire and PowerShell.
+
+URL: https://github.com/Varbaek/xsser
+Description: From XSS to RCE 2.0 (Black Hat Europe Arsenal 2015).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://goo.gl/Jal7oS (+)
+Release: http://www.openssh.com/txt/release-7.1p2
+Description: OpenSSH - Information leak vulnerability (CVE-2016-0777).
+
+URL: https://gist.github.com/joepie91/5a9909939e6ce7d09e29
+Description: Don't use VPN services.
+
+URL: http://lukasa.co.uk/2016/01/Debugging_With_Wireshark_TLS/
+Description: Debugging With Wireshark - TLS.
+
+URL: http://www.icewall.pl/?p=732&lang=en
+Description: MS .NET/Silverlight Manifest Resource Info. Disclosure (CVE-2015-6114).
+
+URL: http://sourceincite.com/2015/11/16/ms15-116-parse-the-pointer-of-no-return/
+PoC: https://goo.gl/NXGXWU (+)
+Description: MS15-116 – Parse the [point]er of no return.
+
+URL: http://valerieaurora.org/hash.html
+Description: Lifetimes of cryptographic hash functions.
+
+URL: http://zerodayguys.blogspot.com.tr/2015/10/practical-example-of-host-header.html
+Description: Practical example of HOST header injection.
+
+URL: https://github.com/RPISEC/Malware
+Description: Course materials for Malware Analysis by RPISEC.
+
+URL: http://sasi2103.blogspot.co.il/2015/12/creative-bug-which-result-stored-xss-on.html
+Description: Creative bug which result Stored XSS on m.youtube.com (Why not!).
+
+URL: https://www.famkruithof.net/guid-uuid-timebased.html
+Description: How is a Time-based UUID/GUID made.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://www.xorpd.net/pages/xchg_rax/snip_00.html
+Description: xchg rax,rax.
+
+URL: https://github.com/TheMozg/awk-raycaster
+Description: Pseudo-3D shooter written completely in awk using raycasting technique.
+
+URL: https://github.com/herrbischoff/awesome-osx-command-line
+Description: Use your OS X terminal shell to do awesome things.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

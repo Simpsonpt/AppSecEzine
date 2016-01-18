@@ -1,0 +1,96 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 30 | Month: July | Year: 2014 | Release Date: 25/07/2014 | Edition: 26º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://sethsec.blogspot.gr/2014/07/crossdomain-bing.html
+Description: Real world exploitaiton of a misconfigured crossdomain.xml at Bing.com.
+
+URL: http://www.skycure.com/blog/malicious-profiles-the-sleeping-giant-of-ios-security/
+Description: Malicious Profiles – The Sleeping Giant of iOS Security.
+
+URL: https://bitbucket.org/orbit-burg/nfc-emv/wiki/Home
+Description: Reverse engineering of contactless NFC-EMV payments.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/c0r3dump3d/osueta
+Description: OpenSSH User Enumeration Timing Attack.
+
+URL: https://github.com/arisada/stunnel_xp
+Description: Stunnel 4.56 (CVE2014-0017) proof of concept.
+
+URL: http://lab.onsec.ru/2014/07/pamsteal-plugin-released.html
+Description: PAM_steal plugin released.
+
+URL: http://shell-storm.org/shellcode/
+Description: Shellcodes database.
+
+URL: http://penturalabs.wordpress.com/2014/07/18/execute-shellcode-bypassing-anti-virus/
+Description: Execute Shellcode, Bypassing Anti-Virus.
+
+URL: http://igurublog.wordpress.com/downloads/script-sandfox/
+Helpers: https://github.com/nullxerror/i3Arch/tree/master/etc/systemd/system
+Description: Apps in a sandbox, limiting their access to the filesystem.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://archive.today/23mBC
+Description: How I gained access to Amazon EC2 servers from Github Search.
+
+URL: https://lilithlela.cyberguerrilla.org/?p=6620
+Description: Steganography - The Art of Hiding Information (Introduction).
+
+URL: http://www.irongeek.com/i.php?page=videos/bsidescleveland2014/mainlist
+Description: BSides Cleveland 2014 (Video Dump).
+
+URL: http://hashcrack.org/page?n=21072014
+Description: CVE-2014-4699 - Linux Kernel ptrace/sysret vulnerability analysis.
+
+URL: https://www.netspi.com/blog/entryid/235/stealing-unencrypted-ssh-agent-keys-from-memory
+Description: "Stealing" unencrypted SSH-agent keys from memory.
+
+URL: https://www.pentestgeek.com/2014/07/22/phishing-frenzy-hta-powershell-attacks-with-beef/
+Description: Phishing Frenzy - HTA PowerShell Attacks with BeEF.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://github.com/icebreaker/floppybird
+Description: Floppy Bird (OS).
+
+URL: https://github.com/bishopfox/rickmote
+Description: The Rickmote Controller - Hijack TVs using Google Chromecast.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+5065746b6f205065746b6f76202d2040706470202d2068747470733a2f2f61626f75742e6d652f706470A=

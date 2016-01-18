@@ -1,0 +1,118 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 41 | Month: October | Year: 2015 | Release Date: 09/10/2015 | Edition: 87º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://goo.gl/0fcbEB
+Description: Exploiting MS Excel 2007 with OLE embedded objects heapspray on Win7/8/10.
+
+URL: http://sijmen.ruwhof.net/weblog/584-how-i-could-hack-internet-bank-accounts-of-danish-largest-bank-in-a-few-minutes
+Description: How I could hack internet bank accounts of Danish largest bank in a few minutes.
+
+URL: https://security.bugs.gallery
+Description: Security Bugs Gallery.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/SageHack/cloud-buster
+Description: A CloudFlare resolver that works.
+
+URL: https://github.com/Pr0x13/iBrutr
+Description: iCloud Bruteforce PoC - with MultiCurl.
+
+URL: http://www.sw1tch.net/blog/gone-kingphishin-part-1-kingphisher-beef-digital-ocean-kali
+Description: Running a phishing campaign against your organisation.
+
+URL: https://gist.github.com/wirehack7/fccc32806221c4c803dd
+Description: Simpe VirusTotal API 2.0 PHP class.
+
+URL: https://testssl.sh/
+Description: Testing TLS/SSL encryption.
+
+URL: http://dangerousprototypes.com/2015/09/08/a-xsvf-assemblerdisassembler-in-python/
+Description: A XSVF assembler/disassembler in python.
+
+URL: https://github.com/w8rbt/keycap/
+Description: A simple keystroke logger for Windows.
+
+URL: https://github.com/PaulSec/twittor
+Description: A fully featured backdoor that uses Twitter as a C&C server.
+
+URL: https://github.com/cyrus-and/gdb-dashboard
+Description: Modular visual interface for GDB in Python.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://www.room362.com/2012/02/ms08068-ms10046-fun-until-2018.html
+Description: MS08_068+MS10_046=FUN until 2018 aka SMB Relay + LNK UNC icons = internal pentest pwnage.
+
+URL: http://www.bigendiansmalls.com/mainframe-bind-shell-source-code/
+Description: Mainframe Bind Shell – Source Code.
+
+URL: https://www.davidsopas.com/acunetix-got-rfded/
+Description: Acunetix got RFDed! (Reflected Filename Download).
+
+URL: http://lucb1e.com/rp/cookielesscookies/
+Description: Cookieless cookies. (Never too late!)
+
+URL: https://www.rapid7.com/docs/Hacking-IoT-A-Case-Study-on-Baby-Monitor-Exposures-and-Vulnerabilities.pdf
+Description: Hacking IoT - A Case Study on Baby Monitor Exposures and Vulnerabilities.
+
+URL: http://conorpp.com/blog/proxying-bluetooth-devices-for-security-analysis-using-btproxy/
+Description: Proxying Bluetooth devices for security analysis using btproxy.
+
+URL: https://www.notsosecure.com/2015/09/24/remote-code-execution-via-php-unserialize/
+Description: Remote code execution via PHP (Unserialize).
+
+URL: https://dfirblog.wordpress.com/2015/09/27/dissecting-powershell-attacks/
+Description: Dissecting powershell attacks.
+
+URL: http://www.sekoia.fr/blog/malware-and-com-object-the-paradise-of-covert-channels/
+Description: Malware and COM Object - The paradise of covert channels.
+
+URL: https://blog.coresecurity.com/2015/09/28/abusing-gdi-for-ring0-exploit-primitives/
+Description: Abusing GDI for ring0 exploit primitives.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://github.com/auchenberg/volkswagen
+Description: Volkswagen detects your tests in a CI server, and makes them pass.
+
+URL: http://www.clicktorelease.com/blog/svg-google-logo-in-305-bytes
+Description: Can the new Google logo be 305 bytes?
+
+URL: http://www.leakedin.com/
+Description: Stories About Data Leaks and Related Stuff.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

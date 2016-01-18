@@ -1,0 +1,90 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 6 | Month: February | Year: 2014 | Release Date: 07/02/2014 | Edition: 2º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://c0rni3sm.blogspot.pt/2014/02/youtube-stored-xss-strikes-back.html
+Description: Youtube - Stored XSS Strikes Back!
+
+URL: http://blog.saynotolinux.com/2014/02/05/whats-that-smell-sniffing-cross-origin-frames-in-firefox/
+Description: What's That Smell? Sniffing Cross-origin Frame Content in Firefox Using Timing Attacks.
+
+URL: https://blog.whitehatsec.com/flash-307-redirect-game-over/
+Helper: http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/flash/net/URLRequestHeader.html
+PoC: http://pathonproject.com/zb/?de16dd15a8b996b3#JnIFpy6vaxJxfh9VO75Xx3+Ce3YaAALU83JVubmj5cA=
+Description: Flash + 307 Redirect = Game Over.
+
+URL: https://github.com/rapid7/metasploit-framework/pull/2942
+Description: Android < 4.2 WebView addJavascriptInterface RCE. (😈 Epic!)
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques/Tools.
+
+
+URL: https://github.com/saelo/cve-2014-0038 | http://pastebin.com/DH3Lbg54
+Description: Local root exploit for CVE-2014-0038.
+
+URL: https://www.scriptjunkie.us/2014/02/installing-linux-on-a-live-windows-system/
+Description: Installing Linux on a Live Windows System. Hmm I don't like to have a Windows Pivot...
+
+URL: http://insert-script.blogspot.co.at/2014/02/svg-fun-time-firefox-svg-vector.html
+Description: SVG Fun Time - Firefox SVG Vector + Bypassing Chrome XSS Auditor.
+
+URL: http://projectshellcode.com/?q=node/12
+Description: How to write shellcode for beginners through to advanced.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://bugscollector.com/tricks/12/
+Description: Valid png image which can execute as PHP file.
+
+URL: http://blog.sucuri.net/2014/02/new-iframe-injections-leverage-png-image-metadata.html
+Description: New iFrame Injection Method.
+
+URL: http://www.troyhunt.com/2014/02/heres-how-bell-was-hacked-sql-injection.html
+Description: Here’s how Bell was hacked – SQL injection blow-by-blow.
+
+URL: http://blogs.law.harvard.edu/zeroday/2014/02/05/so-this-is-what-getting-pwned-is-like/
+Description: #ASUSGATE: A story about thousands of crimeless victims
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://imgur.com/LiixgJ4
+Description: Super Bowl 0WN4G3!
+
+URL: https://www.schneier.com/blog/archives/2014/02/hacking_airline.html
+Description: Hacking Airline Lounges for Free Meals.
+
+URL: https://www.youtube.com/watch?v=tc4ROCJYbm0
+Description: AT&T Archives: The UNIX Operating System.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

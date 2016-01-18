@@ -1,0 +1,88 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 12 | Month: March | Year: 2014 | Release Date: 21/03/2014 | Edition: 8º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://www.youtube.com/watch?v=Jk5Yad598vs
+Description: A few practical notes on reverse-engineering. (Plus: Slides and Sources)
+
+URL: https://plus.google.com/u/0/+AleksandrDobkin-Google/posts/JMwA7Y3RYzV
+Description: Reverse Clickjacking Write-up.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/
+Description: Implementing a web server in a single printf() call.
+
+URL: http://www.debasish.in/2014/03/in-memory-kernel-driverioctlfuzzing.html
+Description: In-Memory Kernel Driver(IOCTL)Fuzzing using Python.
+
+URL: http://capstone-engine.org/bot.html
+Description: CEbot - disasm from your Twitter account.
+
+URL: http://www.scs.stanford.edu/brop/
+Description: Blind Return Oriented Programming (BROP).
+
+URL: http://blog.didierstevens.com/2014/03/20/xorsearch-finding-embedded-executables/
+Description: XORSearch - Finding Embedded Executables.
+
+URL: http://swfid.zz.mu/swfid
+Description: SWF iD: Flash reverser companion.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://blog.includesecurity.com/2014/03/exploit-CVE-2014-0038-x32-recvmmsg-kernel-vulnerablity.html
+Description: How to exploit the x32 recvmmsg() kernel vulnerability CVE 2014-0038.
+
+URL: http://blog.shubh.am/ssrf-is-dangerous/
+Description: Demonstrating the critical nature of SSRF – Accessing PayPal’s internal network.
+
+URL: https://www.securusglobal.com/community/2014/03/17/how-i-got-root-with-sudo/
+Description: How I got root with Sudo.
+
+URL: http://blog.veracode.com/2014/03/introducing-the-ios-reverse-engineering-toolkit/
+Description: Introducing the iOS Reverse Engineering Toolkit.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://sorting.at/
+Description: Amazing Visualization of Sorting Algorithms.
+
+URL: https://gist.github.com/homakov/9383241
+Description: Learning Something New.
+
+URL: https://github.com/tlrobinson/evil.css/
+Description: Because CSS isn't evil enough already.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

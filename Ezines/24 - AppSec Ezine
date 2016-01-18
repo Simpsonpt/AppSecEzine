@@ -1,0 +1,95 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 28 | Month: July | Year: 2014 | Release Date: 11/07/2014 | Edition: 24º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://w00tsec.blogspot.pt/2014/07/foxit-pdf-reader-stored-xss.html
+Description: Foxit PDF Reader Stored XSS.
+
+URL: https://www.sektioneins.de/en/blog/14-07-04-phpinfo-infoleak.html
+Description: phpinfo() Type Confusion Infoleak Vulnerability and SSL Private Keys.
+
+URL: http://words.zemn.me/csp
+Description: When Security Generates Insecurity.
+
+URL: http://stephensclafani.com/2014/07/08/hacking-facebooks-legacy-api-part-1-making-calls-on-behalf-of-any-user/
+Description: Hacking Facebook’s Legacy API - Making Calls on Behalf of Any User.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://www.shelliscoming.com/2014/07/ip-knock-shellcode-spoofed-ip-as.html
+Description: IP-Knock Shellcode - Spoofed IP as authentication method.
+
+URL: http://www.hackwhackandsmack.com/?p=345
+Description: Metasploit Payload Generator Script.
+
+URL: https://github.com/tyranid/IE11SandboxEscapes
+Description: IE11 Sandbox Escapes PoC Dumps.
+
+URL: http://blog.cyberis.co.uk/2013/08/egresser-enumerate-outbound-firewall.html
+Description: Egresser - Tool to Enumerate Outbound Firewall Rules.
+
+URL: https://twindb.com/recover-innodb-table-after-drop-table-innodb/
+Description: Recover after DROP TABLE. (DFIR)
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/
+Description: Abusing JSONP with Rosetta Flash.
+
+URL: http://vamsoft.com/downloads/articles/vamsoft-headless-browsers-in-forum-spam.pdf
+Description: Case study - Headless Browsers in Web Forum Spam.
+
+URL: http://bogus.jp/wp/?p=1687
+Description: RegEx Power, using domain names for fun and profit! 
+
+URL: https://community.rapid7.com/community/metasploit/blog/2014/07/07/virtualbox-filename-command-execution-via-gksu
+Description: GKsu and VirtualBox Root Command Execution by Filename (CVE-2014-2943).
+
+URL: http://www.acunetix.com/blog/web-security-zone/block-automated-scanners/
+Description: How to Block Automated Scanners from Scanning your Site.
+
+URL: https://community.qualys.com/blogs/securitylabs/2014/02/27/mediawiki-djvu-and-pdf-file-upload-remote-code-execution-vulnerability-cve-2014-1610
+Description: MediaWiki DjVu and PDF File Upload Remote Code Execution Vulnerability (CVE-2014-1610).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://gist.github.com/danielrehn/d2e6f2129e5f853c3166
+Description: See You Space Cowboy.
+
+URL: https://medium.com/@manicho/7af5d5f28038
+Description: How a password changed my life.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+5065746b6f205065746b6f76202d2040706470202d2068747470733a2f2f61626f75742e6d652f706470

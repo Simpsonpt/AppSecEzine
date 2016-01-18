@@ -1,0 +1,99 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 42 | Month: October | Year: 2014 | Release Date: 17/10/2014 | Edition: 36º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://plus.google.com/+AlexisImperialLegrandGoogle/posts/gJDrVSuteUT
+Description: DOM XSS in Google Zeitgeist.
+
+URL: http://ceukelai.re/?p=11
+Description: Gmail's SMTPUTF8 prone to homographic attacks (thanks, 4chan!).
+
+URL: http://googleonlinesecurity.blogspot.pt/2014/10/this-poodle-bites-exploiting-ssl-30.html
+More: https://security.stackexchange.com/questions/70719/ssl3-poodle-vulnerability
+Description: This POODLE bites - exploiting the SSL 3.0 fallback.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/programa-stic/snapchat-decrypt
+Description: Decrypting Android Snapchat images.
+
+URL: https://github.com/irsdl/IIS-ShortName-Scanner
+Description: Scanner for IIS short file name (8.3) disclosure vulnerability by using the tilde (~) character.
+
+URL: http://www.bsk-consulting.de/2014/10/04/smart-dll-execution-malware-analysis-sandbox-systems/
+Description: Smart DLL execution for Malware Analysis in Sandbox Systems.
+
+URL: http://seclists.org/fulldisclosure/2014/Oct/53
+Description: DNS Reverse Lookup as a vector for the Bash vulnerability.
+
+URL: https://www.drupal.org/SA-CORE-2014-005
+PoC: http://pastebin.com/nDwLFV3v
+Description: Drupal 7.x SQL Injection SA-CORE-2014-005.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://securityaffairs.co/wordpress/29104/hacking/authentication-vulnerability-paypal-mobile.html
+Description: Authentication vulnerability in PayPal mobile API allows access to restricted Accounts.
+
+URL: http://blog.toft.io/exploiting-unsecure-web-servers-with-svn-directories/
+Description: Exploiting unsecure web servers with .svn directories.
+
+URL: http://h30499.www3.hp.com/t5/HP-Security-Research-Blog/Hacking-my-smart-TV-an-old-new-thing/ba-p/6645844
+Description:  Hacking my smart TV - an old new thing.
+
+URL: http://www.appliednsm.com/introducing-flowbat/
+Description: Introducing FlowBAT, the Flow Analysis GUI.
+
+URL: http://conference.hitb.org/hitbsecconf2014kul/materials/
+Description: HITBSecConf2014 - Malaysia Materials (Dump).
+
+URL: https://sysforensics.org/2014/10/forensics-in-the-amazon-cloud-ec2.html
+Description: Forensics in the Amazon Cloud – EC2.
+
+URL: http://applidium.com/en/news/hacking_the_navigo/
+Description: Hacking the Navigo.
+
+URL: https://www.securusglobal.com/community/2014/10/13/bypassing-wafs-with-svg/
+Description: Bypassing WAFs with SVG.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://gist.github.com/anonymous/64ba9e34a018ebd86f70
+Description: Messing with Python.
+
+URL: http://openideals.com/2014/10/13/linux-commands-for-bluetooth-namespace-messaging/
+Description: Bluetooth name meshyness on a Linux machine.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

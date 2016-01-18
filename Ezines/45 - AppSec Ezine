@@ -1,0 +1,104 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 51 | Month: December | Year: 2014 | Release Date: 19/12/2014 | Edition: 45º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://researchcenter.paloaltonetworks.com/2014/12/google-chrome-exploitation-case-study/
+Description: Google Chrome Exploitation – A Case Study.
+
+URL: https://blog.gaborszathmari.me/2014/12/10/wordpress-exploitation-with-xss/
+Description: WordpreXSS Real Exploitation using CVE-2014-9031.
+
+URL: http://securityaffairs.co/wordpress/31120/hacking/fixed-critical-flaw-blogger-allows-write-posts-blog.html
+Description: Fixed a critical flaw in Blogger that allows to write posts on any blog.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://morris.guru/detecting-kippo-ssh-honeypots/
+Description: Detecting Kippo SSH honeypots, bypassing patches, and all that jazz.
+
+URL: https://github.com/shipcod3/sapConfigServlet_rce
+Description: SAP ConfigServlet Unauthenticated Remote Code Execution Vulnerability.
+
+URL: https://github.com/joernchen/DeviseDoor
+More: https://github.com/plataformatec/devise/issues/3371
+Description: RoR - Devise PoC in memory Backdoor.
+
+URL: https://github.com/Prochainezo/xss2shell
+Description: Tool for abusing XSS vulnerabilities on Wordpress and Joomla! installations
+
+URL: https://github.com/JonathanSalwan/abf
+Description: Abstract Binary Format Manipulation - ELF, PE and Mach-O format.
+
+URL: http://briskinfosec.blogspot.in/2014/12/reverce-shells-for-exploit-command.html?m=1
+Description: Reverse Shell's for exploit command execution attack
+
+URL: https://github.com/seastorm/PuttyRider
+Description: Hijack Putty sessions in order to sniff conversation and inject Linux commands.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://www.cipherdyne.org/blog/2014/12/ram-disks-and-saving-your-ssd-from-afl-fuzzing.html
+Description: RAM Disks and Saving Your SSD From AFL Fuzzing (Tips and Tweaks).
+
+URL: http://homakov.blogspot.gr/2014/11/hacking-file-uploaders-with-race.html
+Description: Hacking file uploaders with race condition.
+
+URL: https://blog.whitehatsec.com/hackerkast-11-bonus-round/
+Description: The Latest with Clickjacking!
+
+URL: http://blog.opensecurityresearch.com/2012/02/json-csrf-with-parameter-padding.html
+Description: JSON CSRF with Parameter Padding. (Old but Gold!)
+
+URL: http://dogber1.blogspot.fr/2009/05/table-of-reverse-engineered-bios.html
+Description: BIOS Password Backdoors in Laptops. (Stil Works 😈)
+
+URL: http://insert-script.blogspot.co.at/2014/12/multiple-pdf-vulnerabilites-text-and.html
+Description: Multiple PDF Vulnerabilites - Text and Pictures on Steroids.
+
+URL: http://blog.malwaretracker.com/2014/12/cve-2014-4114cve-2014-6352-evade-av-by.html?spref=tw
+Description: CVE-2014-4114/CVE-2014-6352 Evade AV by removing read access in zip structure.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://robertheaton.com/2014/12/08/fun-with-your-friends-facebook-and-tinder-session-tokens/
+Description: Fun with your friend's Facebook and Tinder sessions.
+
+URL: http://js1k.com/2014-dragons/demo/1854
+Description: Minecraft in 1k JavaScript showing water, hills, trees and fog.
+
+URL: http://nathanfriend.io/inspirograph/
+Description: Inspirograph!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

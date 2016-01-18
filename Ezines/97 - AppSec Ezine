@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 52 | Month: December | Year: 2015 | Release Date: 26/12/2015 | Edition: 97º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://goo.gl/qexIz4 (+)
+More: https://rpw.sh/blog/2015/12/21/the-backdoored-backdoor/
+Scanner: https://github.com/juliocesarfort/netscreen-shodan-scanner
+Honeypot: https://github.com/armbues/netscreen_honeypot
+Research Repo: https://github.com/hdm/juniper-cve-2015-7755
+Description: Juniper ScreenOS Backdoor Information Dump.
+
+URL: http://www.exfiltrated.com/research-Instagram-RCE.php#Ruby_RCE
+Novel: https://m.facebook.com/notes/alex-stamos/bug-bounty-ethics/10153799951452929
+Description: Instagram's Million Dollar Bug aka RCE.
+
+URL: http://l0.cm/xxn/
+Description: X-XSS-Nightmare - 1; mode=attack XSS Attacks Exploiting XSS Filter.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/nil0x42/phpsploit
+Description: Stealth post-exploitation framework.
+
+URL: https://github.com/sweetsoftware/Ares
+Description: Python botnet and backdoor.
+
+URL: https://github.com/q3k/crowbar
+Description: Tunnel TCP over a plain HTTP session.
+
+URL: https://github.com/sensepost/autoresponder
+Description: Auto load NTLM hashes from Responder logs and fires up Hashcat to crack them.
+
+URL: https://github.com/rapid7/ssh-badkeys
+Description: Dump of static SSH keys from Software and Hardware products.
+
+URL: https://github.com/obsidianforensics/hindsight
+GUI: http://www.obsidianforensics.com/blog/hindsight-gui-released
+Description: Internet history forensics for Google Chrome/Chromium.
+
+URL: http://goo.gl/ysJ9ku (+)
+Description: Converting Shellcode to Portable Executable (32- and 64- bit).
+
+URL: http://www.contextis.com/resources/blog/data-exfiltration-blind-os-command-injection/
+Description: Data Exfiltration via Blind OS Command Injection.
+
+URL: http://mainframed767.tumblr.com/post/133340564417/nmap-enumerating-vtam-applications
+Description: Nmap - Enumerating VTAM Applications.
+
+URL: http://blog.knownsec.com/wp-content/uploads/2015/12/Sqlmap-exploit_en.txt
+Description: SQLMap Code Execute Vulnerability.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://blogs.securiteam.com/index.php/archives/2671
+Description: eBay Arbitrary Invoice Disclosure.
+
+URL: https://www.poshsecurity.com/blog/2015/12/7/how-the-skype-team-failed-at-powershell
+Description: How the Skype team failed at PowerShell.
+
+URL: https://goo.gl/dUiZjx (+)
+Description: Cautionary note - UUIDs generally do not meet security requirements.
+
+URL: https://goo.gl/zQsIfv (+)
+Description: Bypass almost every Corporate security control("BadWinmail").
+
+URL: http://blog.regehr.org/archives/1282
+Description: Multi-Version Execution Defeats a Compiler-Bug-Based Backdoor.
+
+URL: http://blog.amossys.fr/How_to_reverse_unknown_protocols_using_Netzob.html
+Description: How to reverse unknown protocols using Netzob.
+
+URL: https://jbp.io/2015/11/23/abusing-u2f-to-store-keys/
+Description: Abusing U2F to 'store' keys.
+
+URL: http://agrrrdog.blogspot.ca/2015/11/3-attacks-on-cisco-tacacs-bypassing.html
+Tools: https://github.com/GrrrDog/TacoTaco
+Description: Three Attacks on Cisco TACACS+ - Bypassing the Cisco's Auth.
+
+URL: http://www.codereversing.com/blog/archives/282
+PoC: https://github.com/codereversing/directx9hook 
+Description: Runtime DirectX Hooking.
+
+URL: http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming
+Description: Defensive BASH Programming.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://julianoliver.com/output/log_2015-12-18_14-39
+Description: Detect and disconnect WiFi cameras in that AirBnB you’re staying in.
+
+URL: https://github.com/rachelnicole/robokitty
+Description: A DIY Cat (or dog. or human) Feeder powered by Node.
+
+URL: https://github.com/ncsoft/Unreal.js
+Description: JavaScript runtime built for UnrealEngine 4.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

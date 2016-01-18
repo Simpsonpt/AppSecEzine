@@ -1,0 +1,100 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 46 | Month: November | Year: 2014 | Release Date: 14/11/2014 | Edition: 40º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://packetstormsecurity.com/files/129081/VL-936.txt
+Description: PayPal Arbitrary Code Execution.
+
+URL: https://labs.integrity.pt/articles/from-0-day-to-exploit-buffer-overflow-in-belkin-n750-cve-2014-1635/
+Description: From 0-Day to Exploit - Buffer Overflow in Belkin N750 (CVE-2014-1635).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/google/nogotofail
+Blog: http://googleonlinesecurity.blogspot.in/2014/11/introducing-nogotofaila-network-traffic.html
+Description: nogotofail—a network traffic security testing tool.
+
+URL: https://mozilla.github.io/server-side-tls/ssl-config-generator/
+Description: Generate Mozilla Security Recommended Web Server Configuration Files.
+
+URL: http://decalage.info/vba_tools
+Description: Tools to extract VBA Macro source code from MS Office Documents.
+
+URL: http://sourceforge.net/projects/justniffer/
+Blog: https://isc.sans.edu/diary/justniffer+a+Packet+Analysis+Tool/18907
+Description: Justniffer is a packet sniffer with some interesting features. 
+
+URL: http://www.irongeek.com/xss-sql-injection-fuzzing-barcode-generator.php
+Description: XSS, SQL Injection and Fuzzing Barcode Cheat Sheet.
+
+URL: https://github.com/pwntester/cheatsheets/blob/master/radare2.md
+Description: radare2 cheatsheet.
+
+URL: https://github.com/covertcodes/multitun
+Description: Tunnel arbitrary traffic through an innocuous WebSocket.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://ferdogan.net/PDF-Malware-Analiz-Teknikleri/
+Description: PDF Malware Analysis Techniques.
+
+URL: https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/reports/Unit_42/unit42-wirelurker.pdf
+Detector: https://github.com/PaloAltoNetworks-BD/WireLurkerDetector
+Description: A New Era in iOS and OS X Malware.
+
+URL: http://argus-sec.com/blog/remote-attack-aftermarket-telematics-service/
+Description: A remote attack on an aftermarket telematics service.
+
+URL: http://tyranidslair.blogspot.co.uk/2014/11/whens-documenturl-not-documenturl-cve.html
+Description: When's document.URL not document.URL? (CVE-2014-6340).
+
+URL: https://opensource.srlabs.de/projects/badusb
+Description: BadUSB Exposure (Wiki).
+
+URL: http://forensicsfromthesausagefactory.blogspot.ae/2014/11/imaging-drives-protected-with-apple.html
+Description: Imaging drives protected with Apple FileVault2 encryption (Forensics).
+
+URL: http://tonyarcieri.com/cream-the-scary-ssl-attack-youve-probably-never-heard-of
+Description: CREAM - the scary SSL attack you’ve probably never heard of.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://nethack4.org/blog/building-c.html
+Description: Building C Projects.
+
+URL: http://lcamtuf.blogspot.pt/2014/11/pulling-jpegs-out-of-thin-air.html
+Description: Pulling JPEGs out of thin air.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

@@ -1,0 +1,95 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 31 | Month: August | Year: 2014 | Release Date: 04/08/2014 | Edition: 27º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://soroush.secproject.com/blog/2014/07/upload-a-web-config-file-for-fun-profit/
+Description: Upload a web.config File for Fun & Profit.
+
+URL: http://ibrahimbalic.com/2014/sqlmap-ile-csrf-bypass/
+Description: Sqlmap CSRF Bypass.
+
+URL: http://tomforb.es/exploiting-xpath-injection-vulnerabilities-with-xcat-1
+Description: Exploiting XPath injection vulnerabilities with XCat.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://www.relentless-coding.org/projects/jsdetox/
+Description: A Javascript malware analysis tool.
+
+URL: https://github.com/arisada/midgetpack
+Description: Midgetpack is a multiplatform secure ELF packer (Pentester Tools).
+
+URL: http://hive.ccs.neu.edu/
+Description: HiVE — Hidden Volume Encryption.
+
+URL: https://lzo.securitymouse.com/lzo
+Description: LZO Video Payload Generator.
+
+URL: https://github.com/infodox/python-pty-shells/blob/master/sctp_pty_shell_handler.py
+Description: Create sctp_pty_shell_handler.py.
+
+URL: https://github.com/cure53/Flashbang
+Description: Find the flashVars of a naked SWF and display them.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://blog.oddbit.com/2014/07/21/tracking-down-a-kernel-bug-wit/
+Description: Tracking down a kernel bug with git bisect.
+
+URL: http://googleprojectzero.blogspot.pt/2014/07/pwn4fun-spring-2014-safari-part-i_24.html
+Description: Pwn4fun Spring 2014 - Safari Part I. (Project Zero's first technical blog post!)
+
+URL: http://atredispartners.blogspot.pt/2014/07/atredis-blackhat-2014-contest-after_24.html
+Description: Atredis BlackHat 2014 Contest After Action Report. (Spoiler Alert!)
+
+URL: http://diablohorn.wordpress.com/2014/07/26/writing-your-own-blind-sqli-script/
+Description: Writing your own blind SQLi script.
+
+URL: http://blogs.mcafee.com/mcafee-labs/dropping-files-temp-folder-raises-security-concerns
+Description: Dropping Files Into Temp Folder Raises Security Concerns.
+
+URL: http://slides.com/mscasharjaved/on-breaking-php-based-cross-site-scripting-protections-in-the-wild#/
+Description: On Breaking PHP-Based Cross-Site Scripting Protections In The Wild. (XSS 2014 Overview)
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://www.ghacks.net/2014/07/28/repair-extract-broken-rar-archives/
+Description: How to repair and extract broken RAR archives. (Can be handy!)
+
+URL: http://gsmmap.org/
+Description: The GSM Security Map compares the protection capabilities of mobile networks.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+5065746b6f205065746b6f76202d2040706470202d2068747470733a2f2f61626f75742e6d652f706470

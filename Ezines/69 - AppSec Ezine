@@ -1,0 +1,98 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 23 | Month: June | Year: 2015 | Release Date: 05/06/2015 | Edition: 69º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://reverse.put.as/2015/05/29/the-empire-strikes-back-apple-how-your-mac-firmware-security-is-completely-broken/
+Description: The Empire Strikes Back Apple – how your Mac firmware security is completely broken.
+
+URL: http://labs.detectify.com/post/120088174539/building-an-xss-polyglot-through-swf-and-csp
+Description: Building an XSS polyglot through SWF and CSP.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/zardus/preeny
+Description: Some helpful preload libraries for pwning stuff 😈.
+
+URL: https://www.exploit-db.com/docs/35152.pdf
+PoC: http://1337day.com/exploit/23642
+Description: Windows 8.0-8.1 x64 TrackPopupMenu Privilege Escalation (MS14-058 | CVE 2014-4113).
+
+URL: https://github.com/carlosgprado/JARVIS
+Description: JARVIS means "Just Another ReVersIng Suite" (IDA Pro Plugin).
+
+URL: https://github.com/XiphosResearch/exploits/tree/master/suiteshell
+Description: Exploit for SuiteCRM Post-Authentication Shell Upload.
+
+URL: http://caca.zoy.org/wiki/zzuf
+Description: Zzuf is a transparent application input fuzzer.
+
+URL: https://github.com/letoram/senseye
+Description: Dynamic Visual Debugging - Reverse Engineering Toolsuite.
+
+URL: https://github.com/CIFASIS/VDiscover
+Description: Vulnerability discovery using Machine Learning techniques.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://samy.pl/opensesame/
+Description: OpenSesame is a device that can wirelessly open virtually any fixed-code garage door in seconds.
+
+URL: http://hackerhurricane.blogspot.nl/2015/05/defending-against-powershell-shells.html
+Description: Detecting and Defending against PowerShell Shells.
+
+URL: http://xn--thibaud-dya.fr/robots.txt.html
+Description: What one may find in robots.txt.
+
+URL: http://web-in-security.blogspot.de/2015/05/how-to-attack-xml-encryption-in-ibm.html
+Description: How to attack XML Encryption in IBM Datapower (and other Web Services) with WS-Attacker.
+
+URL: https://blog.whitehatsec.com/magic-hashes/
+Description: Magic Hashes (Research). 
+
+URL: http://blog.balicbilisim.com/gomulu-cihaz-guvenligi-ve-zollard-botnet-analizi/
+Description: Embedded Security and Zollard Botnet Analysis.
+
+URL: http://jaanuskp.blogspot.cz/2015/05/cve-2015-3200.html
+Description: Log injection vulnerability in mod_auth (CVE-2015-3200).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://bugs.launchpad.net/ubuntu/+source/sudo/+bug/1219337
+Description: Popcorn Time!
+
+URL: https://github.com/zsaleeba/picoc
+Description: A very small C interpreter (Can be Handy 😏).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

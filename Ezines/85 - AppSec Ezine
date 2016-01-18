@@ -1,0 +1,109 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 39 | Month: September | Year: 2015 | Release Date: 25/09/2015 | Edition: 85º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://oreoshake.github.io/xss/rce/bugbounty/2015/09/08/xss-to-rce.html
+Description: XSS to RCE "yeah right, RSnake".
+
+URL: http://mohamedmfouad.blogspot.pt/2015/09/starbucks-critical-flaws-allow-hackers.html
+Description: Starbucks Critical Flaws (Phishing and RCE).
+
+URL: http://goo.gl/MKvt4p
+Description: Rdio Flash Cross-domain Exploit with FlashHTTPRequest.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/floyd-fuh/tiny-mitm-proxy
+Description: Probably one of the smallest SSL MITM proxies you can make.
+
+URL: https://isc.sans.edu/diary/PDF+%2B+maldoc1+%3D+maldoc2/20079
+Description: PDF + maldoc1 = maldoc2 (Nice walk-through).
+
+URL: https://github.com/Rootkitsmm/WinIo-Vidix
+Description: Exploit WinIo - Vidix and Run Shellcode in Windows Kernel.
+
+URL: https://github.com/theresponder/MemoryPatchDetector
+Description: Detects code differentials between exe and the corresponding proc/mod in mem.
+
+URL: https://github.com/ChiChou/CVE-2014-4076
+Description: Windows 2k3 tcpip.sys Privilege Escalation.
+
+URL: https://github.com/espreto/wpsploit
+Description: WPSploit - Exploiting Wordpress With Metasploit.
+
+URL: https://github.com/robertdavidgraham/cve-2015-5477
+Description: PoC exploit for CVE-2015-5477 BIND9 TKEY assertion failure.
+
+URL: https://github.com/codypierce/hackers-grep
+Description: hackers-grep is a utility to search for strings in PE executables.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://gist.github.com/atcuno/3425484ac5cce5298932
+Description: HowTo - Privacy & Security Conscious Browsing.
+
+URL: http://nullsecure.org/building-your-own-passivedns-feed/
+Description: Building Your Own Passive DNS Collection System.
+
+URL: http://l.avala.mp/blog/pwnage-per-port-22opentcpssh/
+Description: Pwnage Per Port - 22/open/tcp//ssh.
+
+URL: http://drops.wooyun.org/papers/8298
+Description: Hacking ipcam like Harold in POI.
+
+URL: https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide
+Description: OS X Yosemite Security and Privacy Guide.
+
+URL: http://wololo.net/2015/09/22/exploit-psx-games-psp-vita/
+Description: How to exploit PSX games for PSP and Vita.
+
+URL: https://www.lucidchart.com/techblog/2015/08/31/the-worst-mistake-of-computer-science/
+Description: The worst mistake of computer science (NULL).
+
+URL: https://goo.gl/Dk0Iin (+)
+Description: Visual Studio bug exposed my source code on GHu and cost me $6,500.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://xem.github.io/hex/
+Description: Tiny JS hex viewer & editor.
+
+URL: http://www.linusakesson.net/programming/tty/
+Description: The TTY demystified.
+
+URL: https://ucnv.github.io/pnglitch/
+Description: The Art of PNG Glitch.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

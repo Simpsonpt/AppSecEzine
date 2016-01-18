@@ -1,0 +1,98 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 45 | Month: November | Year: 2014 | Release Date: 07/11/2014 | Edition: 39º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://blog.it-securityguard.com/bugbounty-the-5000-google-xss/
+Description: The 5000$ Google XSS.
+
+URL: http://iamajin.blogspot.in/2014/11/when-gifs-serve-javascript.html
+Description: When GIF serve JavaScript!
+
+URL: http://features.jsomers.net/how-i-reverse-engineered-google-docs/
+Description: How I reverse-engineered Google Docs to play back any document's keystrokes.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://code.facebook.com/posts/844436395567983/introducing-osquery/
+Description: Osquery exposes an operating system as a high-performance relational database.
+
+URL: http://edge-security.blogspot.com.es/2014/10/wfuzz-21-released.html
+Description: Wfuzz 2.1 is a tool designed for bruteforcing Web Applications.
+
+URL: http://cultofthedyingsun.wordpress.com/2014/11/01/antivirus-evading-executable-and-post-exploitation-with-the-veil-evasion-framework-and-metasploit/
+Description: AntiVirus-evading Executable and Post-Exploitation with the Veil-Evasion Framework and Metasploit.
+
+URL: https://github.com/AnimeshShaw/Hash-Algorithm-Identifier
+Description: A python tool to identify different Hash Function Algorithms.
+
+URL: https://www.sektioneins.de/en/blog/14-11-03-drupal-sql-injection-vulnerability-PoC.html
+Description: Drupal 7.32 SQL Injection two weeks later - PoC.
+
+URL: http://digi.ninja/projects/http_traceroute.php
+Description: HTTP Traceroute.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://blog.badtrace.com/post/how-i-got-a-root-shell-in-my-nas-0day-inside/
+Description: How I got a root shell in my NAS, 0day inside.
+
+URL: https://medium.com/@oleavr/anatomy-of-a-code-tracer-b081aadb0df8
+Description: Anatomy of a code tracer.
+
+URL: https://community.rapid7.com/community/metasploit/blog/2014/10/28/r7-2014-15-gnu-wget-ftp-symlink-arbitrary-filesystem-access
+Description: GNU Wget FTP Symlink Arbitrary Filesystem Access.
+
+URL: http://cyber.bgu.ac.il/content/how-leak-sensitive-data-isolated-computer-air-gap-near-mobile-phone-airhopper
+Description: How to leak sensitive data from an isolated computer (air-gap) to a near by mobile phone (AirHopper).
+
+URL: http://randomthoughts.greyhats.it/2014/10/osx-local-privilege-escalation.html
+PoC: http://packetstormsecurity.com/files/128942/pwn.c
+Description: Mac OS X local privilege escalation (IOBluetoothFamily).
+
+URL: http://acez.re/ps-vita-level-1-webkitties-3/
+Description: PS Vita Level 1 - Webkitties (Hacking PS Vita).
+
+URL: https://timtaubert.de/blog/2014/10/http-public-key-pinning-explained/
+Description: HTTP Public-Key-Pinning explained.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://github.com/freddyb/nethack-3.4.3-js
+Description: NetHack 3.4 is an enhancement to the dungeon exploration game NetHack.
+
+URL: http://crimsonglow.ca/~kjiwa/x86-dos-boot-sector-in-c.html
+Description: x86 DOS Boot Sector Written in C.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

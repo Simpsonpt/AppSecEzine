@@ -1,0 +1,99 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 01 | Month: January | Year: 2015 | Release Date: 02/01/2015 | Edition: 47º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://trmm.net/thunderstrike
+Description: Apple EFI firmware security vulnerability.
+
+URL: http://attack-secure.com/hacked-facebook-word-document/
+Description: How I Hacked Facebook with a Word Document.
+
+URL: http://mis.fortunecook.ie/
+Slides: http://mis.fortunecook.ie/too-many-cooks-exploiting-tr069_tal-oppenheim_31c3.pdf
+Description: Critical vulnerability present on millions of residential gateway (SOHO router).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://www.signedness.org/tools/
+Description: MITM-SSH, MITM-SSL, IWsniff and More.
+
+URL: https://code.google.com/p/google-security-research/issues/detail?id=118
+Description: Windows - Elevation of Privilege in ahcache.sys/NtApphelpCacheControl (Unpatched).
+
+URL: http://www.wains.be/pub/networking/tcpdump_advanced_filters.txt
+Description: tcpdump Advanced Filters.
+
+URL: http://aluigi.altervista.org/mytoolz.htm
+Description: Network, Reverse, Packers and More (Tools Dump).
+
+URL: http://dnscrypt.org/
+Blog: http://www.exploit-monday.com/2014/12/encrypting-and-viewing-dns-connections.html
+Description: Encrypting and Viewing DNS Connections Using DNSCrypt for Windows.
+
+URL: http://khr0x40sh.wordpress.com/2014/06/10/moftastic_powershell/
+Description: MOF-tastic tricks or how to use MOF and powershell together.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://gkbrk.com/blog/read?name=reverse_engineering_the_speedtest_net_protocol
+Description: Reverse Engineering the Speedtest.net Protocol.
+
+URL: http://www.vanimpe.eu/2014/12/13/using-elk-dashboard-honeypots/
+Description: Using ELK as a dashboard for honeypots.
+
+URL: http://blog.h3xstream.com/2014/12/predicting-struts-csrf-token-cve-2014.html
+Description: Predicting Struts CSRF Token (CVE-2014-7809).
+
+URL: http://blog.xbc.nz/2014/12/lastpass-attempt-at-client-side-android.html
+Description: LastPass' attempt at client-side Android encryption with JavaScript - a breakdown.
+
+URL: http://breenmachine.blogspot.gr/2014/12/mssql-mitm-ftw-ettercap-and-responder.html
+Description: MSSQL MITM FTW - Ettercap and Responder to Intercept (plaintext!) MSSQL Creds.
+
+URL: https://blog.hboeck.de/archives/863-Dont-update-NTP-stop-using-it.html
+Description: Don't update NTP - stop using it.
+
+URL: https://bettercrypto.org/
+Description: Best Practices regarding the configuration of cryptographic tools and online communication.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://www.montulli.org/theoriginofthe%3Cblink%3Etag
+Description: The Origins of the <Blink> Tag.
+
+URL: http://www.its.caltech.edu/~costis/sgb_hack/
+Description: The quest for dumping GameBoy Boot ROMs!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

@@ -1,0 +1,103 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 20 | Month: May | Year: 2015 | Release Date: 15/05/2015 | Edition: 66º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://natmchugh.blogspot.co.uk/2015/05/how-to-make-two-binaries-with-same-md5.html
+Description: How to make two binaries with the same MD5 hash.
+
+URL: https://deya2diab.wordpress.com/2015/02/21/yahoo-main-domain-xss/
+Description: How did i XSS all Yahoo Main domains!! (facepalm)
+
+URL: http://seclist.us/poodle-attack-poc-implementation-of-the-poodle-attack.html
+Description: PoC implementation of the POODLE attack.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/MaLeLabTs/RegexGenerator
+Description: Tool for generating regular expressions for text extraction.
+
+URL: https://github.com/mafintosh/chromecasts
+Description: Query your local network for Chromecasts and have them play media.
+
+URL: https://github.com/telerik/JustDecompileEngine
+Description: .NET decompiler JustDecompile.
+
+URL: https://git.hacklab.kr/snippets/13
+Description: Flash CVE-2015-0359 PoC.
+
+URL: https://github.com/jekyc/wig
+Description: WebApp Information Gatherer.
+
+URL: https://github.com/securelyfitz/USBSanitizer
+Description: Small and cheap standalone USB sanitizer.
+
+URL: https://bokken.re/
+Description: Open Source Reverse Code Engineering.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://blog.netspi.com/forcing-xxe-reflection-server-error-messages/
+Description: Forcing XXE Reflection through Server Error Messages.
+
+URL: http://blog.bentkowski.info/2015/04/xss-via-host-header-cse.html
+Description: XSS via Host header - www.google.com/cse (IE Power!).
+
+URL: http://hextechsecurity.com/?p=123
+Description: Hospira PCA3 Drug Infusion Pump Remote Exploits.
+
+URL: http://blog.silentsignal.eu/2015/05/07/cve-2014-3440-symantec-critical-system-protection-remote-code-execution/
+Description: Symantec Critical System Protection Remote Code Execution (CVE-2014-3440).
+
+URL: http://www.viva64.com/en/a/0084/
+Description: Errors that we find in open source projects with PVS-Studio analyzer (Dump).
+
+URL: https://blog.cloudflare.com/an-introduction-to-javascript-based-ddos/
+Description: Introduction to JavaScript-based DDoS.
+
+URL: http://blog.amossys.fr/Automated%20Reverse%20Engineering%20of%20Cryptographic%20Algorithms.html
+Description: Automated Reverse Engineering of Cryptographic Algorithms.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://www.windows93.net/
+Description: Yup No Comments.
+
+URL: http://code.snipcademy.com/tutorials/command-line/steak/cooking
+Description: Cooking the perfect steak.
+
+URL: https://github.com/mrkrstphr/illacceptanything
+Description: The project where literally* anything goes.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

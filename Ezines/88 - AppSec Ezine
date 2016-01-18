@@ -1,0 +1,118 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 42 | Month: October | Year: 2015 | Release Date: 16/10/2015 | Edition: 88º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://www.mdsec.co.uk/2015/09/an-introduction-to-hardware-hacking-the-ripe-atlas-probe/
+Description: An Introduction to Hardware Hacking - the RIPE Atlas probe.
+
+URL: https://www.davidsopas.com/reflected-file-download-cheat-sheet/
+Description: Reflected File Download Cheat Sheet.
+
+URL: https://inventropy.us/blog/constructing-an-xss-vector-using-no-letters
+Description: Constructing an XSS vector, using no letters.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/sadasystems/private-message
+Description: Easily send and recieve encrypted messages via Github. (Talking about C&C)
+
+URL: http://subt0x10.blogspot.pt/2015/09/simple-example-of-encoded-mimikatz-upx.html
+Description: Simple Example Of Encoded Mimikatz - UPX Packed, Base64 Encoded. (PNG Power)
+
+URL: https://gist.github.com/mak/bd71962aae98ab0b0441
+Description: CVE-2015-3113 from 205a625ebc3b0a9b286dc8f065845433.
+
+URL: http://www.malwarefieldguide.com/LinuxChapter2.html
+Description: Memory Analysis Tools for Linux Systems.
+
+URL: https://github.com/JonDoNym/peinjector
+Description: peinjector - MITM PE file infector.
+
+URL: https://github.com/BromiumLabs/PackerAttacker
+Description: C++ application that uses memory and code hooks to detect packers.
+
+URL: https://github.com/syncsrc/jtagsploitation
+Description: Scripts and examples for using JTAG debug tools to gain root access.
+
+URL: https://williammahler.github.io/Capstone.js-bookmarklet/
+Description: Inline Disassembler Bookmarklet.
+
+URL: https://github.com/fuzzdb-project/fuzzdb
+Description: Official FuzzDB Repo - relocated from Google Code.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://www.fabionatalucci.it/individuate-vulnerabilita-su-ilmessaggero-it-full-disclosure/
+Description: ilmessaggero.it is vulnerable to cyber attacks.
+
+URL: http://blog.dornea.nu/2015/10/02/manage-pki-using-openssl/
+Description: Manage PKI using OpenSSL.
+
+URL: https://blog.perimeterx.com/bugzilla-cve-2015-4499/
+Description: Bugzilla CVE-2015-4499 - All Your Bugs Are Belong To Us.
+
+URL: http://blog.silentsignal.eu/2014/07/28/how-to-got-root-access-on-fireeye-os/
+Description: How to get root access on FireEye OS.
+
+URL: http://andreicostin.com/secadv/HP_MIPIO_backdoor.txt
+Description: The "HP MIPIO Backdoor" Story.
+
+URL: https://shubh.am/exploiting-url-shortners-to-discover-sensitive-resources-2/
+Description: Abusing URL Shortners to discover sensitive resources or assets.
+
+URL: https://quequero.org/2015/09/black-hat-arsenal-peepdf-challenge-2015-writeup/
+Description: Black Hat Arsenal peepdf Challenge 2015 writeup.
+
+URL: https://www.sysdream.com/exploiting-symfony2-profiler
+Description: Exploiting Symfony2's Profiler.
+
+URL: https://bwall.github.io/libemu-scapy-for-shellcode-on-the-network/
+Description: Detecting shellcode over the network with scapy and libemu.
+
+URL: http://www.sekoia.fr/blog/when-a-brazilian-string-smells-bad/
+Description: When a Brazilian string smells bad (Malware Research).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://hackertarget.com/hacker-tools-mr-robot/
+Description: Exploring the Hacker Tools of Mr Robot.
+
+URL: https://github.com/ajalt/fuckitpy
+Description: The Python error steamroller.
+
+URL: https://www.nowsecure.com/blog/2015/08/17/raspberry-pi-hang-instruction/
+Description: Raspberry PI hang instruction (Local DoS RPi).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

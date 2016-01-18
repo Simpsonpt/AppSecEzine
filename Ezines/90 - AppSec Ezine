@@ -1,0 +1,120 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 45 | Month: November | Year: 2015 | Release Date: 06/11/2015 | Edition: 90º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://blog.tunnelshade.in/2015/09/interesting-flash-xss-on-vkcom.html
+Report: https://hackerone.com/reports/66121
+Description: Interesting flash xss on vk.com.
+
+URL: https://hackerone.com/reports/96294
+Description: DDOS using Wordpress xmlrpc.php.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://www.exploit-db.com/exploits/38360/
+Description: Dropbox < 3.3.x - OSX FinderLoadBundle Local Root Exploit.
+
+URL: https://github.com/n1nj4sec/memorpy
+Description: Python library using ctypes to search/edit windows programs memory.
+
+URL: https://github.com/m-dwyer/packer-malware
+Description: Basic Malware Analysis Lab - Packer-Malware.
+
+URL: https://github.com/foreni-packages/dhcpig
+Description: Initiates an advanced DHCP exhaustion attack.
+
+URL: https://github.com/Rootkitsmm/MS15-061
+Description: Exploiting MS15-061 with reverse engineering Win32k.sys.
+
+URL: https://w3challs.com/syscalls/
+Description: Syscall table reference tool for several archs.
+
+URL: https://github.com/m57/dnsteal
+Description: Fake DNS server to stealthily extract files from a "victim" through DNS requests.
+
+URL: https://github.com/reigningshells/CVE-2015-3073
+Description: Adobe Acrobat Reader AFParseDate Javascript API Restrictions Bypass (CVE-2015-3073).
+
+URL: https://github.com/jacobsoo/ImageSignature
+Description: An image signature that shows user(s)' information.
+
+URL: https://github.com/yahoo/gryffin
+Description: Gryffin is a large scale web security scanning platform.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://www.room362.com/2014/04/executing-code-via-smb-dcom-without.html
+Description: Executing Code via SMB/DCOM without PSExec.
+
+URL: http://d.hatena.ne.jp/masa141421356/20150914/1442239071
+Description: CVE-2015-1729 fixed by MS15-065 XSS!
+
+URL: http://fatsquirrel.org/oldfartsalmanac/random/reverse-engineering-a-vintage-wireless-keypad-with-an-rtl-sdr/
+Description: Reverse engineering a vintage wireless keypad with an RTL-SDR.
+
+URL: http://blog.mindedsecurity.com/2015/09/autoloaded-file-inclusion-in-magento.html
+Description: Autoloaded File Inclusion in Magento SOAP API (SUPEE-6482).
+
+URL: http://noxxi.de/research/http-evader.html
+Description: HTTP Evader - Automate Firewall Evasion Tests.
+
+URL: https://labs.mwrinfosecurity.com/blog/2015/09/25/a-practical-guide-to-cracking-password-hashes/
+Description: A Practical Guide to Cracking Password Hashes.
+
+URL: http://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
+Description: The 101 of ELF Binaries on Linux - Understanding and Analysis.
+
+URL: http://www.metzdowd.com/pipermail/cryptography/2015-October/026685.html
+Description: OpenPGP SEIP downgrade attack.
+
+URL: http://blog.knownsec.com/2015/09/linux-drm_legacy_lock_free-null-pointer-dereference-analysis/
+Description: Linux drm_legacy_lock_free null pointer dereference bug analysis.
+
+URL: https://www.7elements.co.uk/resources/blog/cve-2015-2342-remote-code-execution-within-vmware-vcenter/
+Description: CVE-2015-2342 – Remote Code Execution within VMware vCenter.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://github.com/gutomaia/pyNES
+More: https://www.youtube.com/watch?v=h3E2U4hdDeE
+Description: Python programming for Nintendo 8 bits.
+
+URL: http://www.repeater-builder.com/antenna/pdf/beer-barel-cavity.pdf
+Description: The beer barrel as a VHF cavity resonator.
+
+URL: https://github.com/AdamLaurie/sjcam
+Description: A python CLI tool for controlling SJCAM WiFi Sports Cameras.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

@@ -1,0 +1,100 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 02 | Month: January | Year: 2015 | Release Date: 09/01/2015 | Edition: 48º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://github.com/jduck/asus-cmd
+Background: http://dnlongen.blogspot.pt/2014/10/CVE-2014-2718-Asus-RT-MITM.html
+Why: https://github.com/RMerl/asuswrt-merlin/blob/master/release/src/router/infosvr/common.c#L177
+Fun: https://github.com/RMerl/asuswrt-merlin/blob/master/release/src/router/infosvr/common.c#L240
+Description: ASUS Router UDP Broadcast Command Execution.
+
+URL: https://stribika.github.io/2015/01/04/secure-secure-shell.html
+Description: Secure Secure Shell - Guide!
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Octosec/tckfc
+Description: TrueCrypt key file cracker.
+
+URL: https://github.com/sophron/wifiphisher
+Description: Fast automated phishing attacks against WPA networks.
+
+URL: https://code.google.com/p/usboblivion/
+Description: An utility designed to erase all traces of USB drives from Windows registry.
+
+URL: https://github.com/shazow/ssh-chat
+Description: Chat over SSH.
+
+URL: https://github.com/m1el/esdeobfuscate
+Description: PoC JavaScript AST deobfuscator based on partial evaluation. (MSF Reverse)
+
+URL: https://github.com/lgandx/PCredz
+Description: Extraction tool from live interface or pcap file.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://endrift.com/mgba/2014/12/28/classic-nes/
+Description: Classic NES Series Anti-Emulation Measures.
+
+URL: http://www.insinuator.net/2014/12/revisiting-an-old-friend-shell-globbing/
+Description: Revisiting an Old Friend - Shell Globbing.
+
+URL: https://blog.haschek.at/post/fd9bc
+Description: Why are free proxies free?
+
+URL: http://ednolo.alumnos.upv.es/?p=1883
+Description: Reverse-engineering the default WPA key generation algorithm for Pirelli routers in Argentina.
+
+URL: http://ednolo.alumnos.upv.es/papers/advisories/CVE-2015-0554_pirelli.txt
+Description: ADB BroadBand Pirelli ADSL2/2+ Wireless Router P.DGA4001N  remote information disclosure HomeStation Movistar.
+
+URL: http://www.ifc0nfig.com/moonpig-vulnerability/
+Description: Moonpig vulnerability.
+
+URL: https://hatriot.github.io/blog/2015/01/06/ntpdc-exploit/
+Description: Ntpdc Local Buffer Overflow.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://hackerschool.org/DefconCTF/17/B300.html
+Description: We've created a write-up for b300 as a cartoon.
+
+URL: http://moviecode.tumblr.com/
+Description: Source Code in TV and Films.
+
+URL: https://cmd.fm/
+Description: Command-line radio for computer geeks.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

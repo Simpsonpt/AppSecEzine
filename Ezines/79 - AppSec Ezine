@@ -1,0 +1,105 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 33 | Month: August | Year: 2015 | Release Date: 14/08/2015 | Edition: 79º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://paul.reviews/behavioral-profiling-the-password-you-cant-change/
+Description: Behavioral Profiling - The password you can't change.
+
+URL: http://silentbreaksecurity.com/exploiting-ms15-076-cve-2015-2370/
+PoC: https://github.com/monoxgas/Trebuchet 
+Description: Exploiting MS15-076 (CVE-2015-2370).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/vlad902/hacking-team-windows-kernel-lpe
+Description: Windows kernel LPE 0day from the Hacking Team (CVE-2015-2426/MS-078).
+
+URL: https://github.com/MarioVilas/winappdbg
+Description: WinAppDbg Debugger, Python module for scripts in Python.
+
+URL: https://github.com/iksteen/pyhp
+Description: Embed the PHP interpreter in Python (Sleeping with the devil).
+
+URL: http://www.ehacking.net/2015/07/bypass-anti-virus-with-shellter-on-kali.html
+Description: Bypass an Anti-Virus with Shellter on Kali Linux.
+
+URL: https://github.com/PlagueScanner/PlagueScanner
+Description: Open source multiple AV scanner framework.
+
+URL: http://www.cyberciti.biz/faq/apple-mac-osx-find-wi-fi-network-password/
+Description: How To Find the WiFi Password on MacOS X (Tip).
+
+URL: https://github.com/drduh/pwd.sh
+Description: Script to manage passwords in an encrypted file using gpg.
+
+URL: https://cymon.io/
+Description: Tracker of open-source security reports about phishing, malware, botnets and ++.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://jve.linuxwall.info/blog/index.php?post/2015/07/26/Using-Mozilla-Investigator-%28MIG%29-to-detect-unknown-hosts
+Description: Using Mozilla Investigator (MIG) to detect unknown hosts.
+
+URL: http://bugs.proftpd.org/show_bug.cgi?id=4143#c0
+Description: HTTPS/FTPS protocol confusion leads to XSS (Nice Trick).
+
+URL: http://pbiernat.blogspot.co.uk/2014/09/bypassing-python-sandbox-by-abusing.html
+Description: Bypassing a python sandbox by abusing code objects.
+
+URL: https://medium.com/@ValdikSS/detecting-vpn-and-its-configuration-and-proxy-users-on-the-server-side-1bcc59742413
+Description: Detecting VPN (and its configuration!) and proxy users on the server side.
+
+URL: http://opengarages.org/handbook/2014_car_hackers_handbook_compressed.pdf
+Description: Car Hacker’s Handbook by Craig Smith.
+
+URL: http://www.codeandux.com/writing-a-simple-decompiler-for-net-part-1/
+Description: Writing a simple Decompiler for .NET.
+
+URL: http://arxiv.org/pdf/1507.06955v1.pdf
+PoC: https://github.com/IAIK/rowhammerjs
+Description: A Remote Software-Induced Fault Attack in JavaScript (Rowhammer Attack).
+
+URL: https://blog.netspi.com/auto-dumping-domain-credentials-using-spns-powershell-remoting-and-mimikatz/
+Description: Auto-Dumping Domain Credentials using SPNs, PowerShell Remoting, and Mimikatz.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://github.com/nvbn/thefuck
+Description: Magnificent app which corrects your previous console command.
+
+URL: https://xebialabs.com/periodic-table-of-devops-tools/
+Description: Periodic Table of Devops Tools.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

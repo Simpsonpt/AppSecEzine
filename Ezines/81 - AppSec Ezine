@@ -1,0 +1,112 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 35 | Month: August | Year: 2015 | Release Date: 28/08/2015 | Edition: 81º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://rotlogix.com/2015/08/23/exploiting-the-mercury-browser-for-android/
+Description: Exploiting the Mercury Browser for Android.
+
+URL: http://vulnerabledoma.in/camp2015_sop/
+Description: SOP (Same-Origin Policy) 101.
+
+URL: https://zyan.scripts.mit.edu/blog/backdooring-js/
+PoC: https://github.com/diracdeltas/jquery
+Description: Backdooring your javascript using minifier bugs.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/deadc0de6/security/blob/master/memdump.py
+Description: Read process memory and dump to file.
+
+URL: https://github.com/powershellempire/empire
+More: https://enigma0x3.wordpress.com/2015/08/26/empire-tips-and-tricks/
+Description: Empire is a pure PowerShell post-exploitation agent.
+
+URL: https://github.com/iv-wrt/iv-wrt/
+Description: An Intentionally Vulnerable Router Firmware Distribution (CTF!).
+
+URL: http://www.openwall.com/lists/oss-security/2015/08/04/8
+Description: Linux privilege escalation due to nested NMIs interrupting espfix64 (CVE-2015-3290).
+
+URL: https://github.com/Katee/quietnet
+Slides: https://speakerdeck.com/richo/radbios-bsides-lv
+Description: Simple chat program using inaudible sounds and a computer's microphone and speaker.
+
+URL: http://rossmarks.co.uk/blog/?p=609
+Description: Cracking android lockscreens. (Old but Gold!)
+
+URL: https://github.com/kpwn/inj
+Description: task_for_pid injection that doesn't suck.
+
+URL: https://github.com/Vozzie/uacscript
+Description: Windows 7 UAC Bypass Vulnerability in the Windows Script Host.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://blog.netspi.com/powershell-remoting-cheatsheet/
+Description: PowerShell Remoting Cheatsheet.
+
+URL: http://itsjack.cc/blog/2015/08/surveying-codecanyon-scripts-xss-lfi-sqli-more/
+Description: Surveying CodeCanyon Scripts – XSS, LFI, SQLi and More.
+
+URL: http://3vildata.tumblr.com/post/125666311707/abusing-the-mpc-hc-webui-to-steal-private-pictures
+Description: Abusing the MPC-HC WebUI to steal private pictures.
+
+URL: http://antukh.com/blog/2015/08/22/dark-appsec/
+Description: Deanonymization Made Simple.
+
+URL: https://www.blackhat.com/docs/us-15/materials/us-15-Brossard-SMBv2-Sharing-More-Than-Just-Your-Files-wp.pdf
+Description: SMB - Sharing more than your files.
+
+URL: http://www.codereversing.com/blog/archives/261
+Description: Stealth Techniques - Hiding Files in the Registry.
+
+URL: https://gbmaster.wordpress.com/2015/08/13/x86-exploitation-101-integer-overflow-adding-one-more-aaaaaaaaaaand-its-gone/
+Description: x86 Exploitation 101 - "Integer overflow" – adding one more… aaaaaaaaaaand it’s gone.
+
+URL: https://blogs.securiteam.com/index.php/archives/2550
+Description: SSD Advisory – ZendXml Multibyte Payloads XXE/XEE.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://dfir.it/blog/2015/07/18/toxic-pdf-walkthrough-bsides-london-challenge/
+Description: Toxic PDF Walkthrough - BSides London Challenge.
+
+URL: https://github.com/taviso/ctypes.sh
+Description: A foreign function interface for bash.
+
+URL: http://metalcaptcha.heavygifts.com/
+Description: Are you a Metalhead or a bot?
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

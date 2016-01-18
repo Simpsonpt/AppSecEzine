@@ -1,0 +1,98 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 24 | Month: June | Year: 2014 | Release Date: 13/06/2014 | Edition: 20º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://www.orenh.com/2014/06/one-token-to-rule-them-all-tale-of.html
+Description: One Token to Rule Them All - The Tale of the Leaked Gmail Addresses.
+
+URL: http://c0rni3sm.blogspot.pt/2014/06/xss-in-google-mapmaker.html
+Description: XSS in Google MapMaker.
+
+URL: https://cybersmartdefence.com/docs/Paypal-Safely-Double-your-Money.csd
+Description: Safely double your money with PayPal.
+
+URL: http://nahamsec.com/?p=267
+Description: Single vulnerability to cause stored XSS in Yahoo, Google, Twitter, Amazon and more.
+
+URL: https://zyan.scripts.mit.edu/blog/a-boring-xss-dissection/
+Description: TweetDeck XSS Dissection.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/rfunix/Pompem
+Description: Find exploit tool.
+
+URL: https://github.com/secretsquirrel/the-backdoor-factory
+Description: Patch win32/64 PE and linux32/64 binaries with shellcode.
+
+URL: http://n0where.net/hexinject/
+Description: HexInject is a very versatile packet injector and sniffer.
+
+URL: https://github.com/Smaash/hostscan/
+Description: PHP tool for scanning specific range of hosts.
+
+URL: https://www.shellterproject.com/introducing-shellter/
+Description: Shellter is a dynamic shellcode injection tool.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://blog.cylance.com/a-study-in-bots-lobotomy
+Description: A Study in Bots - LoBOTomy.
+
+URL: http://iss.oy.ne.ro/Aether
+Description: Attacking the Internet using Broadcast Digital Television.
+
+URL: http://blog.opensecurityresearch.com/2014/05/multi-stagedmulti-form-csrf.html
+Description: Multi-Staged/Multi-Form CSRF (Simple and Useful).
+
+URL: http://sirdarckcat.blogspot.pt/2014/05/matryoshka-web-application-timing.html
+Description: Web Application Timing Attacks (or.. Timing Attacks against JS Applications in Browsers).
+
+URL: http://labs.neohapsis.com/2014/06/02/smarttv-smartphone-dial-an-attack-surface/
+Description: Smart TV + Smartphone = Shiny New Attack Surfaces.
+
+URL: http://xn--thibaud-dya.fr/jenkins_credentials.html
+Description: Credentials storage in Jenkins. (Nice writeup)
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://penturalabs.wordpress.com/2014/03/17/iclass-is-not-enough/
+Description: iClass Is Not Enough.
+
+URL: http://piratebox.cc/
+Description: DIY anonymous offline file-sharing and communications system.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+5065746b6f205065746b6f76202d2040706470202d2068747470733a2f2f61626f75742e6d652f706470

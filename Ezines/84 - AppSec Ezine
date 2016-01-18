@@ -1,0 +1,108 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 38 | Month: September | Year: 2015 | Release Date: 18/09/2015 | Edition: 84º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://www.filet-o-firewall.com/
+How: http://www.filet-o-firewall.com/p/technical-details.html
+PoC: https://github.com/filetofirewall/fof
+Description: A vendor agnostic UPnP vulnerability.
+
+URL: http://ownsecurity.blogspot.ro/2015/08/how-i-found-sweets-inside-google.html
+Description:  How I found the sweets inside Google servers (LFI Write-up).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/WestpointLtd/tls_prober
+Description: A tool to fingerprint SSL/TLS servers.
+
+URL: https://warroom.securestate.com/index.php/spawning-shells-over-bluetooth/
+Description: Spawning Shells Over Bluetooth (Tip).
+
+URL: https://github.com/knownsec/Pocsuite
+Description: Vulnerability-based remote vulnerability framework and PoC.
+
+URL: https://github.com/0xd4d/dnSpy
+Description: .NET assembly editor, decompiler, and debugger.
+
+URL: https://github.com/Rootkitsmm/miscellaneous/blob/master/main.cpp
+Description: Windows Exploit.
+
+URL: https://github.com/wireghoul/graudit/
+Description: Grep rough audit - source code auditing tool.
+
+URL: https://github.com/h2non/toxy
+Description: HTTP proxy to simulate server failure and unexpected network conditions.
+
+URL: https://github.com/lnxg33k/misc/blob/master/XSS-cookie-stealer.py
+Description: POC for cookie stealing through XSS (101 Handler).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://thehackerblog.com/sonar-a-framework-for-scanning-and-exploiting-internal-hosts-with-a-webpage/
+Description: sonar.js – A Framework for Scanning and Exploiting Internal Hosts With a Webpage.
+
+URL: https://github.com/subgraph/oz/wiki/Oz-Technical-Details
+Description: Oz Technical Details - (Linux desktop applications inside of isolated security sandboxes).
+
+URL: https://www.jkry.org/ouluhack/Toyota%20Touch%20%26%20Go
+Description: Hacking Toyota Touch & Go.
+
+URL: http://www.phrack.org/papers/self-patching-msxml.html
+Description: Self-patching Microsoft XML with misalignments and factorials.
+
+URL: https://cturt.github.io/ps4.html
+Description: Analysis of PS4's security and the state of hacking.
+
+URL: https://tinyurl.com/pv868t6
+Description: WhatsApp "MaliciousCard".
+
+URL: https://github.com/sakurity/truefactor
+Description: "123456" no more ("2FAuth _Next Gen").
+
+URL: http://blog.cryptographyengineering.com/2015/09/lets-talk-about-imessage-again.html
+Description: Let's talk about iMessage (again).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://github.com/codegolf/pac-man
+Description: Pac-Man in <512 Bytes of HTML and JavaScript.
+
+URL: http://trainwatch.u0d.de/
+Description: Metadata from the free WiFi in the Dutch intercity trains.
+
+URL: https://github.com/FiloSottile/whosthere
+Description: A SSH server that knows who you are (Privacy Alert!).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

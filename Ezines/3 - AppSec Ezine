@@ -1,0 +1,93 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 7 | Month: February | Year: 2014 | Release Date: 14/02/2014 | Edition: 3º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://homakov.blogspot.pt/2014/02/how-i-hacked-github-again.html
+Description: How I hacked Github again. (Github lover!)
+
+URL: http://insertco.in/2014/02/10/how-i-hacked-instagram/
+Description: How I hacked Instagram to see your private photos.
+
+URL: http://blog.spiderlabs.com/2014/02/cve-2014-0050-exploit-with-boundaries-loops-without-boundaries.html
+Description: CVE-2014-0050 - Exploit with Boundaries, Loops without Boundaries. (Nice Writeup!)
+Exploit: http://pathonproject.com/zb/?492c38abb3eeba91#lq9B8AcoODREYhc8FExMI0ZaTHLl7DEsrIEqVdCfHjY=
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques/Tools.
+
+
+URL: http://neosysforensics.blogspot.com.es/2010/02/la-papelera-de-reciclaje-en-windows.html
+Description: The Recycle Bin in Windows Vista / 7. Old but handy...
+
+URL: https://github.com/hatRiot/clusterd
+Description: Application Server Attack Toolkit (Automation: fingerprinting, reconnaissance, and exploitation phases).
+
+URL: https://bitbucket.org/blackaura/browserfuzz
+Description: A very simple browser fuzzer based on tornado.
+
+URL: http://jeanphix.me/Ghost.py/
+Description: Ghost.py is a webkit web client written in python.
+
+URL: https://github.com/prasmussen/chrome-cli
+Description: Control Google Chrome from the command line on OS X. (This can be handy :))
+
+URL: http://16s.us/docs/sshlog/
+Description: OpenSSH Patch to Log Passwords.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://www.us-cert.gov/ncas/alerts/TA14-017A
+Description: UDP-based Amplification Attacks.
+
+URL: http://www.lauradhamilton.com/random-lessons-online-poker-exploit
+Description: When Random Isn't Random Enough: Lessons from an Online Poker Exploit.
+
+URL: http://blog.alguien.at/2014/02/hackeando-el-router-zte-zxv10-w300-v21.html
+Description: Hacking the ZTE router ZXV10 W300 v2.1 (SNMP Still Alive and Valid!)
+
+URL: https://archive.org/details/shmoocon-2014
+Description: Shmoocon (January 17-19, 2014) @Washington Hilton. This collection contains all recorded main area talks at the event.
+
+URL: http://www.devttys0.com/2014/02/cracking-linksys-crypto/
+Description: Cracking Linksys "Encryption". (No comments...)
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.youtube.com/watch?v=waEeJJVZ5P8
+Description: NBC: All Visitors to Sochi Olympics Immediately Hacked! (rofl)
+This is not a Movie: http://blog.erratasec.com/2014/02/that-nbc-story-100-fraudulent.html
+
+URL: http://www.digitaljournal.com/news/world/13-year-old-defies-big-brother-and-refuses-to-be-fingerprinted/article/370009
+Description: 13-year-old defies ‘big brother’ and refuses to be fingerprinted. (🐵 Monkey see monkey do! or not)
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

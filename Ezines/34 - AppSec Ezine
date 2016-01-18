@@ -1,0 +1,98 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 40 | Month: October | Year: 2014 | Release Date: 03/10/2014 | Edition: 34º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://github.com/adamcaudill/Psychson
+BG Information: http://www.wired.com/2014/10/code-published-for-unfixable-usb-attack/
+Description: Custom USB Firmwares and Existing USB Firmwares Patches.
+
+URL: http://www.rafayhackingarticles.net/2014/10/a-tale-of-another-sop-bypass-in-android.html
+Description: A Tale Of Another SOP Bypass In Android Browser < 4.4 (New Vectors!).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://hexed.it/
+Description: Client-Side JavaScript based hex editor.
+
+URL: http://lansec.net/project/scoutbot/
+Description: ScoutBot is a completely unattended network scanner. (Raspberry Pi Distro)
+
+URL: https://github.com/lnxg33k/misc/blob/master/shellshock.py
+Description: PoC for CVE-2014-6271 shellshock with Proxy/Tor Support.
+
+URL: https://github.com/feross/SpoofMAC
+Description: Easily spoof your MAC address (OS X, Windows, Linux).
+
+URL: http://marketplace.eclipse.org/content/contrast-eclipse
+Description: Free Security Scanner for Eclipse Plugin Java IDE.
+
+URL: https://github.com/DanMcInerney/xsscrapy
+Description: XSScrapy - fast, thorough XSS vulnerability spider.
+
+URL: http://pastebin.com/VyMs3rRd
+Description: OpenVPN ShellShock PoC.
+
+URL: http://d.uijn.nl/?p=32
+Description: PineShock - Abusing Shellshock via a Pineapple.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://marc.info/?l=qmail&m=141183309314366&w=2
+Description: qmail is a vector for CVE-2014-6271 (bash "shellshock").
+
+URL: https://diablohorn.wordpress.com/2011/10/19/8009-the-forgotten-tomcat-port/
+Description: 8009 the forgotten Tomcat port.
+
+URL: http://opensecuritytraining.info/HTID.html
+Description: Free Computer and Network Security Training.
+
+URL: https://dnsleaktest.com/
+Description: What is a DNS leak and why should I care?
+
+URL: http://blog.cobaltstrike.com/2014/10/01/user-driven-attacks/
+Description: User-driven Attacks.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://shirt.codes/
+Description: You sometimes love some piece code so much that you want to print it on a t-shirt. As art.
+
+URL: http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
+Description: Writing a Simple Operating System — from Scratch.
+
+URL: http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html
+Description: Mining Bitcoin with pencil and paper - 0.67 hashes per day.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

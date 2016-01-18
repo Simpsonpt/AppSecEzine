@@ -1,0 +1,83 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###    Week: 18 | Month: May | Year: 2014 | Release Date: 02/05/2014 | Edition: 14º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://blog.tjll.net/ssh-kung-fu/
+Description: SSH Kung Fu. (Quick Reference Guide)
+
+URL: http://blog.gdssecurity.com/labs/2014/4/24/sql-injection-in-dynamically-constructed-images-and-other-sq.html
+Description: SQL Injection In Dynamically Constructed Images (And Other Sql Related Mischief).
+
+URL: http://tetraph.com/covert_redirect/oauth2_openid_covert_redirect.html
+Description: OAuth 2.0 and OpenID Covert Redirect.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://thehelpfulhacker.net/2011/11/15/virtual-box-openbsd-router/
+Description: A Simple OpenBSD Router For Your Virtual Machines.
+
+URL: https://www.netspi.com/blog/entryid/223/executing-msf-payloads-via-powershell-webshellery
+Descritpion: Executing MSF Payloads via PowerShell Webshellery. (Webshells Easy Way)
+
+URL: https://github.com/jmxploit/jmxploit
+Description: Jmxploit is written in Java to audit the security level of the JMX API in Tomcat environment.
+
+URL: https://github.com/routerkeygen/routerkeygenAndroid
+Description: Router Keygen generate default WPA/WEP keys for several routers. (Android Application)
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory/
+Description: Anatomy of a Program in Memory.
+
+URL: http://www.incapsula.com/blog/world-largest-site-xss-ddos-zombies.html
+Description: Turns Visitors into “DDoS Zombies”.
+
+URL: http://cert.inteco.es/extfrontinteco/img/File/intecocert/EstudiosInformes/INT_Telegram_EN.pdf
+Description: Telegram - Bypassing the authentication protocol.
+
+URL: http://blog.emaze.net/2014/04/attack-campaign-targeting-struts2.html
+Description: Attack campaign targeting Apache Struts2 vulnerability.
+
+URL: http://joxeankoret.com/blog/2014/05/02/a-vulnerability-that-wasnt/
+Description: A vulnerability that wasn’t. (Not wasted time)
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://programmingexcuses.com/
+Description: Excuses For Lazy Coders.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+5065746b6f205065746b6f76202d2040706470202d2068747470733a2f2f61626f75742e6d652f706470

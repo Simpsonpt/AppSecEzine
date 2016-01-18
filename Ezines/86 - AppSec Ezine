@@ -1,0 +1,111 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 40 | Month: October | Year: 2015 | Release Date: 02/10/2015 | Edition: 86º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://ashishpadelkar.com/index.php/2015/09/23/facebook-simple-technical-bug-worth-7500/
+Descriptions: Facebook Simple Technical Bug worth 7500$.
+
+URL: http://g-laurent.blogspot.pt/2015/09/demistifying-responder-wpad.html
+Description: Demistifying Responder WPAD Authentication module. (Oldies)
+
+URL: http://alex.hyperiongray.com/posts/302352-pwn-the-docs
+Description: Pwn The Docs - Vulnerability in readthedocs.org.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://sourceforge.net/projects/exploitresolver/
+Description: Resolver is a windows based tool which designed to preform a reverse DNS Lookup.
+
+URL: https://github.com/mweissbacher/armory-pass
+Gadget: http://inversepath.com/usbarmory
+Description: Password manager for USB Armory.
+
+URL: https://github.com/heisecode/FED
+Description: Flash Exploit Detector- 0Day Research.
+
+URL: http://www.thijsbroenink.com/2015/08/bruteforcing-coupon-codes-for-discount.html
+Description: Bruteforcing coupon codes for discount. (Quick and Dirty!)
+
+URL: https://gist.github.com/subTee/28b7439d3dfa07053b61
+Description: Execute ShellCode Via Jscript.NET.
+
+URL: https://github.com/davidoren/CuckooSploit
+Description: Env. for comprehensive, automated analysis of web-based exploits.
+
+URL: https://gist.github.com/colinmahns/e3c38c5eae6c4bf6441d
+Description: Twitter DM with OTR.
+
+URL: https://github.com/ICSec/airpwn-ng
+Description: The home of the new and improved version of airpwn... airpwn-ng.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://github.com/GuerrillaWarfare/Armory
+Description: The 802.11 Hacking Repo.
+
+URL: http://theta44.org/karma/
+Detector: https://github.com/pmbento/karmadetector
+Description: KARMA Attacks Radioed Machines Automatically. (Oldies)
+
+URL: http://drops.wooyun.org/papers/8261
+Description: vBulletin rce 0day analysis.
+
+URL: http://www.securitygalore.com/site3/safari-pasv
+Description: Safari FTP PASV manipulation vulnerability.
+
+URL: http://blog.perimeterx.com/bugzilla-cve-2015-4499
+Description: Bugzilla CVE-2015-4499 - All Your Bugs Are Belong To Us.
+
+URL: https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit?pli=1#
+Description: SSRF Bible Cheatsheet.
+
+URL: http://d.hatena.ne.jp/end0tknr/20150830/1440885918
+Description: Secure Coding - Image type determination of the browser by magic bytes.
+
+URL: https://www.rcesecurity.com/2015/09/cve-2014-7216-a-journey-through-yahoos-bug-bounty-program/
+Description: CVE-2014-7216 - A Journey Through Yahoo’s Bug Bounty Program.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://github.com/pk-man/Bash-Integer-Overflow
+Description: Bash integer overflow in braces.
+
+URL: https://github.com/yudai/gotty
+Description: Share your terminal as a web application.
+
+URL: https://github.com/gloomyson/StarCraft
+Description: HTML5 version for StarCraft game.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

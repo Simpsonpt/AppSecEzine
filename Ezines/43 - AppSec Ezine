@@ -1,0 +1,100 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 49 | Month: December | Year: 2014 | Release Date: 05/12/2014 | Edition: 43º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://googleonlinesecurity.blogspot.pt/2014/12/are-you-robot-introducing-no-captcha.html
+More: http://homakov.blogspot.pt/2014/12/the-no-captcha-problem.html
+Bypass: https://homakov.github.io/nocaptcha.html
+Description: Are you a robot? Introducing "No CAPTCHA reCAPTCHA".
+
+URL: http://www.anandprakash.pw/search/label/bug%20bounty
+Description: Hacking Facebook.com/thanks Posting on behalf of your friends! (Easy Money)
+
+URL: http://securityaffairs.co/wordpress/30755/hacking/hacking-paypal-account-poc.html
+Description: Hacking PayPal Account with a single exploit.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/DanMcInerney/wifijammer
+Description: Continuously jam all wifi clients/routers.
+
+URL: https://github.com/swdunlop/AndBug
+Description: A Scriptable Android Debugger.
+
+URL: https://github.com/Yelp/osxcollector
+Description: A "How'd that malware get there?" tool for OS X.
+
+URL: https://github.com/c0r3dump3d/wp_drupal_timing_attack
+Description: Python scripts to exploit CVE-2014-9016 (Drupal) and CVE-2014-9034 (Wordpress).
+
+URL: https://github.com/CoreSecurity/Agafi
+Description: A gadget finder and a ROP-Chainer tool for x86 platforms.
+
+URL: https://github.com/iagox86/dnscat2
+Description: DNS tunnel that WON'T make you sick and kill you!
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://www.labofapenetrationtester.com/2014/11/powershell-for-client-side-attacks.html
+Description: Using PowerShell for Client Side Attacks.
+
+URL: https://pacsec.jp/psj14archive.html
+Description: PacSec 2014 Speakers and Slides (Dump).
+
+URL: http://blog.fox-it.com/2014/11/18/cryptophp-analysis-of-a-hidden-threat-inside-popular-content-management-systems/
+Helper: https://github.com/fox-it/cryptophp
+Description: CryptoPHP - Analysis of a hidden threat inside popular content management systems.
+
+URL: http://www.behindthefirewalls.com/2014/12/cve-2014-9016-and-cve-2014-9034-PoC.html
+Description: CVE-2014-9016 and CVE-2014-9034 Proof of Concept.
+
+URL: https://www.redteam-pentesting.de/en/advisories/rt-sa-2014-011/-entrypass-n5200-credentials-disclosure
+Description: EntryPass N5200 Credentials Disclosure (Non Sense).
+
+URL: http://farlight.org/
+Description: Combined exploit-db.com and osvdb.org unofficial mirror.
+
+URL: http://wafbypass.me/w/index.php/Main_Page
+Description: "Everything" about WAFs.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://www.qemu-advent-calendar.org/
+Description: An amazing QEMU disk image every day!
+
+URL: http://pdos.csail.mit.edu/scigen/
+Description: SCIgen - An Automatic CS Paper Generator.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

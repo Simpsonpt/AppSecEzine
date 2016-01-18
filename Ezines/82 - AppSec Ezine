@@ -1,0 +1,112 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 36 | Month: September | Year: 2015 | Release Date: 04/09/2015 | Edition: 82º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://www.7xter.com/2015/08/hacking-facebook-pages.html
+Description: Hacking Facebook Pages.
+
+URL: https://www.youtube.com/watch?v=2Kw6VPlBz9w
+Description: PayPal Arbitriary File Upload Vulnerability To Remote Code Execution.
+
+URL: https://labs.integrity.pt/articles/xxe-all-the-things-including-apple-ioss-office-viewer/
+Description: XXE All The Things! (Including Apple iOS's Office Viewer - CVE-2015-3784).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ud2/advisories/tree/master/osx/cve-2015-5763
+Description: Security issue in com.apple.filesystems.ntfs kext (CVE-2015-5763).
+
+URL: https://github.com/NytroRST/NetRipper
+Description: Smart traffic sniffing for penetration testers.
+
+URL: https://pierrekim.github.io/advisories/2015-totolink-0x02.txt
+PoC: http://aaronyool.blogspot.gr/2015/08/totolink-backdoor-exploitation-poc.html
+Description: Backdoor and RCE found in 8 TOTOLINK router models.
+
+URL: https://github.com/guidepointsecurity/slither
+Description: Python Web Attack Framework (Akamai Origins, jnlp parser, struts2 and more).
+
+URL: https://gist.github.com/subTee/732330ebfeb5c63b1296
+Description: DllGuest - COM Surrogate Persistence, Launch your code from DLLHost.exe. 
+
+URL: https://github.com/kpwn/tpwn
+Blog: http://blog.qwertyoruiop.com/?p=69
+Description: xnu local privilege escalation 0Day.
+
+URL: https://gist.github.com/pakt/c70073a0e0de1f47f579
+Description: Direct read/write access to Python's memory.
+
+URL: http://seclists.org/fulldisclosure/2015/Aug/21
+More: http://seclists.org/bugtraq/2015/Aug/52
+Description: Pineapple autopwn script 2.3.0 or lower versions.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
+Description: Linux workstation security checklist.
+
+URL: https://blog.sucuri.net/2015/08/persistent-xss-vulnerability-in-wordpress-explained.html
+Description: Persistent XSS Vulnerability in WordPress Explained.
+
+URL: https://www.gitbook.com/book/radare/radare2book/details
+Description: This book aims to cover most usage aspects of radare2.
+
+URL: https://goo.gl/xgGGt4
+Description: Chinese Conferences Materials (Dump).
+
+URL: https://crowdshield.com/blog.php?name=reverse-engineering-a-critical-wordpress-0day-exploit
+Description: Reverse Engineering a Critical Wordpress 0Day Exploit.
+
+URL: http://googleprojectzero.blogspot.de/2015/08/attacking-ecmascript-engines-with.html
+Description: Attacking ECMAScript Engines with Redefinition.
+
+URL: http://blog.ropchain.com/2015/08/16/analysis-of-exploit-targeting-office-2007-2013-ms15-022/
+Description: Ongoing analysis of unknown exploit targeting Office 2007-2013 UTAI MS15-022.
+
+URL: http://intothesymmetry.blogspot.it/2015/08/apple-safari-sop-bypass-cve-2015-3753.html
+Description: Apple Safari SOP bypass (CVE-2015-3753).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://code.google.com/p/chromium/issues/detail?id=526293
+Description: Security - XSS in google chrome new tab page.
+
+URL: http://norvig.com/sudoku.html
+Description: Solving Every Sudoku Puzzle.
+
+URL: https://github.com/mattdiamond/fuckitjs
+Description: The Original Javascript Error Steamroller.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

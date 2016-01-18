@@ -1,0 +1,109 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 43 | Month: October | Year: 2015 | Release Date: 23/10/2015 | Edition: 89º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://blog.naver.com/1n73ction/220499561862
+Description: Facebook XXE attack.
+
+URL: https://www.synack.com/labs/blog/how-i-hacked-hotmail/
+Description: How I Hacked Hotmail.
+
+URL: https://pierrekim.github.io/blog/2015-10-07-Huawei-routers-vulnerable-to-multiple-threats.html
+Description: Huawei 3G routers - XSS, CSRF, DoS, unauthenticated firmware update and RCE.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/onethawt/idaplugins-list/blob/master/README.md
+Description: A list of IDA Plugins.
+
+URL: https://github.com/struct/mathilda
+Description: Mathilda is a C++ class for distributing web requests to worker processes.
+
+URL: https://github.com/realalexandergeorgiev/tempracer
+Description: Race conditions are a pentesters friend.
+
+URL: https://github.com/n1nj4sec/pupy
+Description: Pupy is a remote administration tool.
+
+URL: https://github.com/whitepacket/ZIB-Trojan
+Description: The Open Tor Botnet (ZIB); Python-based forever-FUD IRC Trojan.
+
+URL: https://github.com/elceef/dnstwist
+Description: Domain name permutation engine.
+
+URL: https://github.com/RandomStorm/Bluto
+Descripion: Recon, Subdomain Bruting, Zone Transfers.
+
+URL: https://github.com/ElevenPaths/EvilFOCA
+Description: EvilFOCA - Security in IPv4 and IPv6 data networks.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://wroot.org/posts/babadook-connection-less-powershell-persistent-and-resilient-backdoor/
+Description: Babadook - Connection-less Powershell Persistent and Resilient "Backdoor".
+
+URL: https://www.mdsec.co.uk/2015/10/vulnerability-in-sed-systems-decimator-d3/
+Description: Multiple Vulnerabilities in SED Systems' Decimator D3.
+
+URL: http://cynosureprime.blogspot.pt/2015/09/how-we-cracked-millions-of-ashley.html
+Description: How we cracked millions of Ashley Madison bcrypt hashes efficiently.
+
+URL: http://mazinahmed.net/uploads/Evading%20All%20Web-Application%20Firewalls%20XSS%20Filters.pdf
+Description: Evading All Web-application Firewalls XSS Filters.
+
+URL: http://www.bishopfox.com/blog/2015/09/the-active-directory-kill-chain-is-your-company-at-risk/
+Description: The Active Directory Kill Chain - Is Your Company at Risk?
+
+URL: http://blog.knownsec.com/2015/10/wordpress-xmlrpc-brute-force-amplification-attack-analysis/
+Description: WordPress XMLRPC efficient use Blasting Principle Analysis.
+
+URL: https://dl.packetstormsecurity.net/papers/general/cisco_ios_rootkits.pdf
+Description: Whitepaper - Writing Cisco IOS Rootkits.
+
+URL: https://www.idontplaydarts.com/2015/09/cross-domain-timing-attacks-against-lucene/
+Description: Exploiting CSRF against search with Lucene.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://lalo.li/lsd/?ultra-hard-version
+Description: LSD - Line Square Dot.
+
+URL: http://javahacker.com/the-first-javascript-misdirection-contest/
+Description: The First JavaScript Misdirection Contest.
+
+URL: https://github.com/girliemac/RPi-KittyCam
+Description: Cat facial detection for Raspberry Pi.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

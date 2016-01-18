@@ -1,0 +1,105 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 12 | Month: March | Year: 2015 | Release Date: 20/03/2015 | Edition: 58º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://googleprojectzero.blogspot.pt/2015/03/exploiting-dram-rowhammer-bug-to-gain.html
+PoC I: https://github.com/google/rowhammer-test 
+PoC II: https://github.com/CMU-SAFARI/rowhammer 
+PoC III: http://packetstormsecurity.com/files/130715/rowhammer.tgz
+Mitigation: http://blogs.cisco.com/security/mitigations-available-for-the-dram-row-hammer-vulnerability
+Description: Exploiting the DRAM rowhammer bug to gain kernel privileges.
+
+URL: http://www.7xter.com/2015/03/how-i-exposed-your-private-photos.html
+Description: How I Exposed Your Private Photos - Facebook Private Photos Hack.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/certsocietegenerale/FIR
+Description: Fast Incident Response (FIR) is an cybersecurity incident management platform.
+
+URL: https://github.com/CIRCL/url-abuse
+Description: A Versatile Software for URL review, analysis and black-list reporting.
+
+URL: https://github.com/saelo/armpwn
+Description: Repository to train/learn memory corruption on the ARM platform.
+
+URL: https://github.com/joelpx/reverse
+Description: Reverse engineering (x86/elf) to pseudo-C.
+
+URL: https://github.com/jpillora/chisel
+Description: A fast TCP tunnel over HTTP.
+
+URL: https://github.com/skepticfx/wshook
+Description: Easily hook into WebSocket request and response.
+
+URL: http://nullsecurity.net/tools.html
+Description: Selection of security and hacking tools (NullSecurity Dump).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://www.securitysift.com/pecloak-py-an-experiment-in-av-evasion/
+Related: https://www.nettitude.co.uk/bypassing-av-easy-way/
+Description: An Experiment in AV Evasion (w/ PoC).
+
+URL: http://www.pritect.net/blog/esc_sql-doh-wordpress-sql-injection-vulnerability
+Description: esc_sql Doh! WordPress SQL Injection Vulnerability.
+
+URL: http://jumpespjump.blogspot.in/2013/01/making-usb-flash-drive-hw-trojan.html
+Description: Making a USB flash drive HW Trojan.
+
+URL: http://secniche.blogspot.pt/2015/03/a-real-world-story-of-cve-2014-6332-rce.html
+Description: A Real World Story of CVE-2014-6332 - RCE and Malware Download via VBScript!
+
+URL: http://www.halfdog.net/Security/2015/HavingFunWithDmesg/
+Description: Having Fun With Dmesg.
+
+URL: http://0xthem.blogspot.gr/2015/03/hijacking-ssh-to-inject-port-forwards.html
+Description: Hijacking SSH to Inject Port Forwards.
+
+URL: http://securitycafe.ro/2015/01/28/intercepting-functions-from-statically-linked-libraries/
+Description: Intercepting functions from statically linked libraries.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://github.com/duckinator/meep
+Description: Polyglot program - Hello World in Ruby, C, PHP, and JavaScript.
+
+URL: https://github.com/veltman/clmystery
+Description: A command-line murder mystery.
+
+URL: http://www.hackersusethis.com/
+Description: Hackers Use This.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

@@ -1,0 +1,97 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 21 | Month: May | Year: 2015 | Release Date: 22/05/2015 | Edition: 67º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://weakdh.org/
+Description: The Logjam Attack (Diffie-Hellman key exchange weakness).
+
+URL: http://blog.bentkowski.info/2015/05/xss-via-windowstop-google-safen-up.html
+Description: XSS via window.stop() - Google Safen Up.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/stealth/opmsg
+Description: Replacement for gpg which can encrypt/sign/verify your mails or create/verify detached signatures of local files.
+
+URL: https://github.com/juergh/lqs2mem
+Description: Convert libvirt-QEMU-save (LQS) files to raw memory files.
+
+URL: https://github.com/sam-b/pilloc
+Description: A pin tool to visualise heap operations.
+
+URL: https://github.com/java-decompiler/jd-gui
+Description: JD-GUI, a standalone graphical utility that displays Java sources from CLASS files.
+
+URL: https://dnsdumpster.com/
+Description: dns recon & research, find & lookup dns records.
+
+URL: https://github.com/aol/moloch
+Description: Moloch is a open source large scale IPv4 full PCAP capturing, indexing and database system.
+
+URL: https://github.com/zcutlip/bowcaster
+Description: Bowcaster Exploit Development Framework (Python).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://www.contextis.com/resources/blog/manually-testing-ssltls-weaknesses/
+Description: Manually Testing SSL/TLS Weaknesses.
+
+URL: http://jumpespjump.blogspot.ca/2015/05/many-ways-of-malware-persistence-that.html
+Description: Many ways of malware persistence (that you were always afraid to ask).
+
+URL: http://www.kazamiya.net/en/artifact/wipe/deletedsc
+Description: Deleted Shadow Copies.
+
+URL: https://rya.nc/cert-tricks.html
+Description: Stupid certificate tricks.
+
+URL: http://security.cs.rpi.edu/courses/binexp-spring2015/
+Description: Modern Binary Exploitation (Spring 20105).
+
+URL: http://blog.gdssecurity.com/labs/2015/4/29/automated-data-exfiltration-with-xxe.html
+Description: Automated Data Exfiltration With XXE.
+
+URL: http://www.adlice.com/bho-a-spy-in-your-browser/
+Description: BHO - A spy in your browser.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://drive.google.com/a/share/folderview?id=0B7rtSe_PH_fTWDQ0RC1DeWVoVUE&usp=sharing#
+Description: Mobile Challenges (Dump).
+
+URL: http://www.manuel-strehl.de/dev/minimal_git_folder
+Description: Min­imal con­tents of a .git folder.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

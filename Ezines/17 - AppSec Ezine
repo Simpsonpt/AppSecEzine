@@ -1,0 +1,98 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###    Week: 21 | Month: May | Year: 2014 | Release Date: 23/05/2014 | Edition: 17º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://nahamsec.com/?p=210
+Description: How I XSS'ed All Of Yahoo's Services.
+
+URL: http://blog.shubh.am/how-i-bypassed-2-factor-authentication-on-google-yahoo-linkedin-and-many-others/
+Description: How I bypassed 2-Factor-Authentication on Google, Facebook, Yahoo, LinkedIn, and many others.
+
+URL: http://blog.techorganic.com/2014/05/14/from-fuzzing-to-0-day/
+Description: From Fuzzing to 0-day.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/bdcht/amoco
+Description: Yet another tool for analysing binaries.
+
+URL: http://cybermashup.com/2014/05/01/jtag-debugging-made-easy-with-bus-pirate-and-openocd/
+Description: JTAG debugging with Bus pirate and OpenOCD.
+
+URL: http://www.room362.com/blog/2014/04/19/executing-code-via-smb-without-psexec/
+Description: Executing Code via SMB / DCOM Without PSEXEC.
+
+URL: https://github.com/sandrogauci/wafw00f
+Description: WAFW00F identifies and fingerprints Web Application Firewall (WAF) products.
+
+URL: https://github.com/theopolis/uefi-firmware-parser
+Description: Parse BIOS/Intel ME/UEFI firmware related structures - Volumes, FileSystems, Files, etc.
+
+URL: https://bitbucket.org/mihaila/bintrace/wiki/Home
+Description: Tool to record and dump traces of an executable program and its data.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://www.sec-consult.com/fxdata/seccons/prod/temedia/advisories_txt/20140508-0_AVG_Remote_Administration_Multiple_critical_vulnerabilities_v10.txt
+Description: Multiple critical vulnerabilities in AVG Remote Administration.
+
+URL: https://www.trustedsec.com/may-2014/moar-shellz/
+Description: Moar Shellz! Metasploit psexec_command Tricks and Tips.
+
+URL: https://doar-e.github.io/blog/2014/04/30/corrupting-arm-evt/
+Description: Corrupting the ARM Exception Vector Table. 
+
+URL: https://fail0verflow.com/blog/2014/enhancing-the-avic-5000nex.html
+Description: Enhancing the AVIC-5000NEX.
+
+URL: http://habrahabr.ru/company/dsec/blog/222993/
+Description: VM escape - 101.
+
+URL: http://int0xcc.svbtle.com/stripping-upatre-trojan-downloader
+Description: Stripping Upatre Trojan Downloader.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://syncthing.net/ 
+Description: Syncthing replaces Dropbox and BitTorrent Sync with something open, trustworthy and decentralized.
+
+URL: http://blogs.msdn.com/b/debuggingtoolbox/archive/2014/05/14/hacking-minesweeper-for-windows-8.aspx
+Description: Hacking Minesweeper for Windows 8.
+
+URL: http://blog.cloudflare.com/bpf-the-forgotten-bytecode
+Description: BPF - the forgotten bytecode (TCPDump History and Work flow).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+5065746b6f205065746b6f76202d2040706470202d2068747470733a2f2f61626f75742e6d652f706470

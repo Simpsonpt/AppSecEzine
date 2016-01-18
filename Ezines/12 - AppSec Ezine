@@ -1,0 +1,89 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 16 | Month: April | Year: 2014 | Release Date: 21/04/2014 | Edition: 12º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://blog.detectify.com/post/82370846588/how-we-got-read-access-on-googles-production-servers
+Description: How we got read access on Google’s production servers.
+
+URL: http://pwnrules.com/flickr-from-sql-injection-to-rce/
+Description: Flickr from SQL Injection to RCE.
+
+URL: http://nahamsec.com/2014/04/paypal-marketing-remote-code-execution/
+Description: Paypal marketing remote code execution (RCE), information disclosure and XSS.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/nccgroup/easyda
+Description: Easy Windows Domain Access Script.
+
+URL: https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html
+Description: PkCrack - Breaking PkZip-encryption.
+
+URL: https://github.com/0xd4d/de4dot
+Description: .NET deobfuscator and unpacker.
+
+URL: http://www.sec-down.com/wordpress/?p=373
+Description: WebPwn3r is a Web Applications Security Scanner.
+
+URL: https://github.com/kevthehermit/RATDecoders
+Description: Python Decoders for Common Remote Access Trojans.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://www.appsecconsulting.com/appsec-blog/searching-for-credit-card-track-data-in-memory/menu-id-193.html
+Description: Searching for Credit Card Track Data in Memory.
+
+URL: http://javascript.info/tutorial/clickjacking
+Description: The Clickjacking attack, X-Frame-Options.
+
+URL: http://n0where.net/basic-integer-overflows/
+Description: Basic Integer Overflows.
+
+URL: http://thehackerblog.com/crossdomain-xml-proof-of-concept-tool/
+Description: Crossdomain.xml Proof of Concept Tool.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: http://www.ctnieves.com/blogpost.php?id=1
+Description: Hacking the 3DS.
+
+URL: http://phrack.org/papers/fall_of_groups.html
+Description: The Fall of Hacker Groups.
+
+URL: https://gist.github.com/epixoip/10570627
+Description: How I obtained the private key for www.cloudflarechallenge.com.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+5065746b6f205065746b6f76202d2040706470202d2068747470733a2f2f61626f75742e6d652f706470

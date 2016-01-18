@@ -1,0 +1,92 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 11 | Month: March | Year: 2014 | Release Date: 14/03/2014 | Edition: 7º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://www.dimitrifourny.com/2014/03/08/how-i-have-fuzzed-php/
+Description: How I have fuzzed PHP! (Quick and Nice Write-up.)
+
+URL: https://github.com/poliva/random-scripts/blob/master/wifi/hotspot-bypass-android.sh
+Description: Android Free Wi-Fi.
+
+URL: http://pastebin.com/0EqWGmTi
+Description: iOS 7.1 Security Update Details (Name,Available for, Impact, Description and CVE/Author).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://linuxaria.com/howto/ssh-in-2-steps-on-linux-with-google-authenticator?lang=en
+Description: SSH in 2 steps on Linux with Google Authenticator. (Can be handy)
+
+URL: http://console-cowboys.blogspot.co.uk/2014/03/the-curious-case-of-ninjamonkeypiratela.html
+Description: The curious case of the ninjamonkeypiratelaser backdoor.
+
+URL: http://bas.bosschert.nl/steal-whatsapp-database/
+Description: Steal WhatsApp database (Android PoC).
+
+URL: https://code.google.com/p/chromium/issues/detail?id=240058 
+Diff: https://bugs.webkit.org/attachment.cgi?id=164588&action=diff
+Description: Chrome CSP bypass, for your collection.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://zairon.wordpress.com/2014/03/06/obfuscated-shellcode-inside-a-malicious-rtf-document/
+Description: Obfuscated shellcode inside a malicious RTF document.
+
+URL: http://www.palkeo.com/code/stealing-bitcoin.html
+Description: How to steal Bitcoins.
+
+URL: http://www.2uo.de/myths-about-urandom/
+Description: Myths about /dev/urandom.
+
+URL: http://0xa.li/php-date-is-xssable/
+Description: [PHP] date() is evil (XSS’able). (Easy One!)
+
+URL: https://intrepidusgroup.com/insight/2014/03/atv-password-log-bug/
+Description: Sanitize your outputs: Apple ID Password Logfile Disclosure. (Apple TV Hacks)
+
+URL: http://mreagle0x.blogspot.in/2014/03/how-can-i-get-your-facebook-account.html
+Description: How can I get your Facebook account access_tokens by a MITM attack?
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://bugzilla.mozilla.org/show_bug.cgi?id=949446
+Description: Bug 949446 - Source Code Disclosure of every possible project. 
+
+URL: https://labs.portcullis.co.uk/blog/raspberry-ph0wn/
+Description: Raspberry ph0wn. (Mossad Style)
+
+URL: https://github.com/copy/v86
+Description: x86 virtualization in JavaScript, running in your browser and NodeJS.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d

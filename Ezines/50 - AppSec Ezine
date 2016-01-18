@@ -1,0 +1,104 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 04 | Month: January | Year: 2015 | Release Date: 23/01/2015 | Edition: 50º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://drops.wooyun.org/papers/4621#yjs_add_arg=9893
+PoC: http://pastebin.com/XXVai0rD (Clean!)
+Description: MS15-002 telnet service buffer overflow vulnerability analysis.
+
+URL: http://breakingbits.net/2015/01/18/taking-over-godaddy-accounts-using-csrf
+Description: GoDaddy CSRF Vulnerability Allows Domain Takeover.
+
+URL: http://potatohatsecurity.tumblr.com/post/108756906604/admin-google-com-reflected-cross-site-scripting
+Description: admin.google.com Reflected Cross-Site Scripting (XSS).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/programa-stic/barf-project
+Description: A multiplatform open source Binary Analysis and Reverse engineering Framework (BARF).
+
+URL: http://omriher.blogspot.co.il/2015/01/captipper-malicious-http-traffic.html
+Description: CapTipper - Malicious HTTP traffic explorer tool.
+
+URL: http://www.hackwhackandsmack.com/?p=452
+Description: Python Share Enumerator.
+
+URL: https://github.com/Gallopsled/pwntools
+Description: This is the CTF framework used by Gallopsled in every CTF.
+
+URL: https://github.com/junegunn/fzf
+Description: Fuzzy finder for your shell.
+
+URL: https://github.com/hatRiot/zarp
+Description: Network Attack Tool.
+
+URL: http://www.labofapenetrationtester.com/2015/01/fun-with-dns-txt-records-and-powershell.html
+Description: Fun with DNS TXT Records and PowerShell.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://blog.defragger.org/radare-max++.html
+Description: First steps in malware reversing.
+
+URL: http://resources.infosecinstitute.com/intelligence-information-gathering-collecting-twitter-followers-25-lines-python/
+Description: Intelligence Information Gathering - Collecting Twitter Followers with 25 lines of Python.
+
+URL: https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines
+Description: Docker Secure Deployment Guidelines.
+
+URL: http://www.checkpoint.com/downloads/partners/TCC-Silverlight-Jan2015.pdf
+Description: Diving into a Silverlight Exploit and Shellcode - Analysis and Techniques.
+
+URL: https://github.com/enaqx/awesome-pentest
+Description: A collection of awesome penetration testing resources, tools and other shiny things.
+
+URL: http://sectooladdict.blogspot.co.il/2014/12/el-30-injection-java-is-getting-hacker.html
+Description: EL 3.0/Lambda Injection - Hacker Friendly Java.
+
+URL: http://raidersec.blogspot.ca/2013/06/how-browsers-store-your-passwords-and.html
+Description: How Browsers Store Your Passwords (and Why You Shouldn't Let Them).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time ?
+
+
+URL: https://github.com/alex/what-happens-when
+Description: What happens when you type google.com into your browser and press enter?
+
+URL: http://packetstormsecurity.com/files/122655/LIXIL-Satis-Toilet-Hard-Coded-Bluetooth-PIN.html
+Description: LIXIL Satis Toilet Hard-Coded Bluetooth PIN.
+
+URL: http://www.lofibucket.com/articles/oscilloscope_quake.html
+Description: Quake on an oscilloscope - A technical report.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
