@@ -1,0 +1,131 @@
+'    ██████  ██░ ██ ▓█████  ██▓     ██▓      ██████  ██░ ██  ▒█████   ▄████▄   ██ ▄█▀
+'  ▒██    ▒ ▓██░ ██▒▓█   ▀ ▓██▒    ▓██▒    ▒██    ▒ ▓██░ ██▒▒██▒  ██▒▒██▀ ▀█   ██▄█▒ 
+'  ░ ▓██▄   ▒██▀▀██░▒███   ▒██░    ▒██░    ░ ▓██▄   ▒██▀▀██░▒██░  ██▒▒▓█    ▄ ▓███▄░ 
+'    ▒   ██▒░▓█ ░██ ▒▓█  ▄ ▒██░    ▒██░      ▒   ██▒░▓█ ░██ ▒██   ██░▒▓▓▄ ▄██▒▓██ █▄ 
+'  ▒██████▒▒░▓█▒░██▓░▒████▒░██████▒░██████▒▒██████▒▒░▓█▒░██▓░ ████▓▒░▒ ▓███▀ ░▒██▒ █▄
+'  ▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒░░ ▒░ ░░ ▒░▓  ░░ ▒░▓  ░▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒░ ▒░▒░▒░ ░ ░▒ ▒  ░▒ ▒▒ ▓▒
+'  ░ ░▒  ░ ░ ▒ ░▒░ ░ ░ ░  ░░ ░ ▒  ░░ ░ ▒  ░░ ░▒  ░ ░ ▒ ░▒░ ░  ░ ▒ ▒░   ░  ▒   ░ ░▒ ▒░
+'  ░  ░  ░   ░  ░░ ░   ░     ░ ░     ░ ░   ░  ░  ░   ░  ░░ ░░ ░ ░ ▒  ░        ░ ░░ ░ 
+'        ░   ░  ░  ░   ░  ░    ░  ░    ░  ░      ░   ░  ░  ░    ░ ░  ░ ░      ░  ░   
+'                                                                    ░               
+' *********************** All About Bash Bug - CVE-2014-6271 ************************
+
+
+'  ╔═╗ ┬ ┬┬┌─┐┬┌─  ╔═╗┬ ┬┌─┐┌─┐┬┌─
+'  ║═╬╗│ │││  ├┴┐  ║  ├─┤├┤ │  ├┴┐
+'  ╚═╝╚└─┘┴└─┘┴ ┴  ╚═╝┴ ┴└─┘└─┘┴ ┴
+'  See if you still vulnerable or not.
+
+
+Usage: Via bash terminal just type the following command.
+Command: $ env x='() { :;}; echo Your system is vulnerable update ASAP' bash -c "echo Visit svieg.wordpress.com"
+
+Usage: Get the URL that need to be tested (Remember don't put any critical URL in services provided by others)
+URL: http://shellshock.brandonpotter.com/
+
+Usage: Via terminal just type the following command. (GitLab Check)
+Command:$ ssh  git@gitlab.example.com '() { ignored; }; /usr/bin/id'
+
+Description: Searches through running docker containers.
+URL: https://github.com/AndrewVos/docker-shellshock-finder
+
+
+'  ╔═╗┌┬┐┌┬┐┌─┐┌─┐┬┌─
+'  ╠═╣ │  │ ├─┤│  ├┴┐
+'  ╩ ╩ ┴  ┴ ┴ ┴└─┘┴ ┴
+'  Some attack techniques in the wild.
+
+
+URL: https://gist.github.com/anonymous/929d622f3b36b00c0be1
+Description: Malware in the Wild.
+
+URL: https://github.com/byt3bl33d3r/DHCPShock
+Description: Spoofs a DHCP server and exploits all clients vulnerable to the 'ShellShock' bug.
+
+URL: https://www.trustedsec.com/september-2014/shellshock-dhcp-rce-proof-concept/
+Description: DHCP RCE PoC.
+
+URL: http://shellshock.notsosecure.com/
+Description: User-Agent RCE PoC.
+
+URL: http://pastebin.com/166f8Rjx
+Description: Python PoC.
+
+URL: http://www.exploit-db.com/exploits/34766/
+Description: PHP PoC.
+
+URL: http://pastebin.com/S1WVzTv9
+Description: Perl PoC.
+
+URL: https://github.com/rapid7/metasploit-framework/pull/3882  
+Description: root on OSX+VMWare.
+
+
+'  ╔═╗┌┬┐┬ ┬┌─┐┬─┐┌─┐
+'  ║ ║ │ ├─┤├┤ ├┬┘└─┐
+'  ╚═╝ ┴ ┴ ┴└─┘┴└─└─┘
+'  Random Stuff
+
+
+Description: Sample C code.
+URL: http://pastebin.com/kQ5ppEZD
+
+Description: GitHub Dork.
+Search: #!/bin/bash extension:cgi
+
+Description: Google Dork.
+Search: filetype:sh inurl:cgi-bin
+
+URL: http://threatstream.com/blog/shockpot
+Description: Web App Honeypot to find attackers attempting to exploit the Bash RCE.
+
+URL: http://blog.gdssecurity.com/labs/2014/10/3/a-java-web-apps-attack-surface-to-shellshock.html
+Description: A Java Web App's Attack Surface To Shellshock.
+
+
+'  ╔═╗┌─┐┌┬┐┌─┐┬ ┬
+'  ╠═╝├─┤ │ │  ├─┤
+'  ╩  ┴ ┴ ┴ └─┘┴ ┴
+'  Get it fix ASAP.
+
+
+URL: http://www.circl.lu/pub/tr-27/
+Description: The Computer Incident Response Center Luxembourg (CIRCL) Helper.
+
+URL: http://www.tuaw.com/2014/09/25/how-to-patch-os-x-for-the-bash-shellshock-vulnerability/
+Description: How to patch OS X for the bash/Shellshock vulnerability.
+
+
+'  ╦═╗┌─┐┌─┐┌─┐┬─┐┌─┐┌┐┌┌─┐┌─┐┌─┐
+'  ╠╦╝├┤ ├┤ ├┤ ├┬┘├┤ ││││  ├┤ └─┐
+'  ╩╚═└─┘└  └─┘┴└─└─┘┘└┘└─┘└─┘└─┘
+'  Useful links to grab valid information.
+
+
+URL: http://garage4hackers.com/entry.php?b=3087 
+Description: Everything you need to know about CVE-2014-6271.
+
+URL: https://community.rapid7.com/community/infosec/blog/2014/09/25/bash-ing-into-your-network-investigating-cve-2014-6271
+Description: Bash-ing Into Your Network – Investigating CVE-2014-6271.
+
+URL: http://lcamtuf.blogspot.pt/2014/09/quick-notes-about-bash-bug-its-impact.html
+Description: Quick notes about the bash bug, its impact, and the fixes so far.
+
+URL: https://access.redhat.com/security/cve/CVE-2014-6271
+Description: RedHat CVE information.
+
+URL: https://about.gitlab.com/2014/09/24/gitlab-shell-and-bash-cve-2014-6271/
+Description: Gitlab-shell is affected by Bash CVE-2014-6271.
+
+URL: https://shellshocker.net/
+Description: Learn, Check and Patch!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+
+
+Information Compilation by SiMpS0N 25-09-2014
+
+http://pathonproject.com/zb/?5b343c33591c9cc9#Pc9t/zKg8zWJUNkqqvYhuuL7Lofz8PGTX7R3qat0i/8=

