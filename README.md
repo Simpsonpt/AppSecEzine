@@ -18,6 +18,6 @@ Open these links if you want to check some cool stuff, get your hands dirty on s
 This project started inside a company and was used to spread infosec culture around. If you have a security program running, mailing list or any group that think this will be welcome, feel free to use and redistribute. It will be released every week usually on a Friday morning.
 
 # License
-This project is under Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA).
+This project is under Creative Commons Attribution NonCommercial ShareAlike ([CC-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/ "CC-NC-SA")).
 
 ![CC-NC-SA](http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png "License")
