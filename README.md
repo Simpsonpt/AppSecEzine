@@ -15,7 +15,7 @@ Under the umbrella security, this section covers forensics, malware analysis, ad
 * "Fun -  Do you have spare time?" 
 Open these links if you want to check some cool stuff, get your hands dirty on something witty, try new tech or just to have a nice time trying something out of the box. Remember that it may not always be related to security.
 
-This project started inside a company and was used to spread infosec culture around. If you have a security program running, mailing list or any group that think this will be welcome, feel free to use and redistribute. It will be released every week usually on a Friday morning.
+This project started inside a company and was used to spread infosec culture around. If you have a security program running, mailing list or any group that think this will be welcome, feel free to use and redistribute. It will be released every week usually on a Friday morning via [Twitter](https://twitter.com/simps0n "@SiMpS0N").
 
 # License
 This project is under Creative Commons Attribution NonCommercial ShareAlike ([CC-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/ "CC-NC-SA")).
