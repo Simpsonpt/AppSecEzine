@@ -1,0 +1,129 @@
+    _____ _     ____   __     __     _                      _     _ _ _ _   _           
+   |_   _| |   / ___|  \ \   / /   _| |_ __   ___ _ __ __ _| |__ (_) (_) |_(_) ___  ___ 
+     | | | |   \___ \   \ \ / / | | | | '_ \ / _ \ '__/ _` | '_ \| | | | __| |/ _ \/ __|
+     | | | |___ ___) |   \ V /| |_| | | | | |  __/ | | (_| | |_) | | | | |_| |  __/\__ \
+     |_| |_____|____/     \_/  \__,_|_|_| |_|\___|_|  \__,_|_.__/|_|_|_|\__|_|\___||___/
+                                                                                        
+                       ⟼  TLS Vulnerabilities 101 ❙ Revision 1  ⟻         
+
++--------------------------------------------------------------------------------------+
+| 1 | Document Creation                                | 01/09/2015 |  @SiMpS0N        |
++--------------------------------------------------------------------------------------+
+
+
+'  ╔╗ ┌─┐┌─┐┌─┐┌┬┐
+'  ╠╩╗├┤ ├─┤└─┐ │ 
+'  ╚═╝└─┘┴ ┴└─┘ ┴ 
+'  Browser Exploit Against SSL/TLS.
+
+
+Short: The BEAST attack exploits known issue in CBC mode of TLS1.0/SSL3.0.
+Fix: Just use TLS 1.1/1.2.
+More: 
+ - http://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art027
+ - https://community.qualys.com/blogs/securitylabs/2013/09/10/is-beast-still-a-threat
+
+
+'  ╔═╗┬─┐┬┌┬┐┌─┐
+'  ║  ├┬┘││││├┤ 
+'  ╚═╝┴└─┴┴ ┴└─┘
+'  Compression Ratio Info-leak Made Easy.
+
+
+Short: The CRIME attack uses the compression feature to leak information about encrypted data.
+Fix: Disable TLS/SPDY compression.
+More:
+ - https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2012/september/details-on-the-crime-attack/
+
+
+'  ╦  ┬ ┬┌─┐┬┌─┬ ┬  ╔╦╗┬ ┬┬┬─┐┌┬┐┌─┐┌─┐┌┐┌
+'  ║  │ ││  ├┴┐└┬┘   ║ ├─┤│├┬┘ │ ├┤ ├┤ │││
+'  ╩═╝└─┘└─┘┴ ┴ ┴    ╩ ┴ ┴┴┴└─ ┴ └─┘└─┘┘└┘
+'  Lucky Thirteen.
+
+
+Short: TLS does MAC-then-Pad-then-Encrypt that leads to timing sidechannel, separating MAC errors from padding errors.
+Fix: Use TLS 1.2 with Authenticated Encryption (only AES-GCM) or RC4 but we know 😈.
+More:
+ - http://www.isg.rhul.ac.uk/tls/TLStiming.pdf
+
+
+'  ╔═╗┌─┐┌─┐┌┬┐┬  ┌─┐
+'  ╠═╝│ ││ │ │││  ├┤ 
+'  ╩  └─┘└─┘─┴┘┴─┘└─┘
+'  Padding Oracle On Downgraded Legacy Encryption.
+
+
+Short: SSLv3 allows arbitrary content in padding.
+Fix: Disable SSLv3 or in TLS check the padding (must be zeros).
+More: 
+ - https://www.openssl.org/~bodo/ssl-poodle.pdf
+ - https://poodle.io/
+
+
+'  ╦ ╦┌─┐┌─┐┬─┐┌┬┐┌┐ ┬  ┌─┐┌─┐┌┬┐
+'  ╠═╣├┤ ├─┤├┬┘ │ ├┴┐│  ├┤ ├┤  ││
+'  ╩ ╩└─┘┴ ┴┴└─ ┴ └─┘┴─┘└─┘└─┘─┴┘
+'  Heartbleed.
+
+
+Short: This bug is in the OpenSSL's implementation of the TLS/DTLS (transport layer security protocols) heartbeat extension (RFC6520). When it is exploited, it leads to the leak of memory contents from the server to the client and from the client to the server.
+Fix: OpenSSL1.0.1g or compile OpenSSL with the handshake removed from the code by compile time option -DOPENSSL_NO_HEARTBEATS.
+More: 
+ - http://heartbleed.com/
+
+ 
+'  ╔═╗┬─┐┌─┐┌─┐┬┌─
+'  ╠╣ ├┬┘├┤ ├─┤├┴┐
+'  ╚  ┴└─└─┘┴ ┴┴ ┴
+'  Factoring Attack on RSA-EXPORT Keys.
+
+
+Short: The FREAK attack is possible when a vulnerable browser connects to a susceptible web server that accepts "export-grade" encryption (RSA_EXPORT cipher suites).
+Fix: From the server side just disable support for TLS export cipher suites.
+More:
+ - https://freakattack.com/
+
+
+'  ╔═╗┬┌─┬┌─┐  ╔╦╗╦  ╔═╗
+'  ╚═╗├┴┐│├─┘───║ ║  ╚═╗
+'  ╚═╝┴ ┴┴┴     ╩ ╩═╝╚═╝
+'  Part of SMACK (State Machine AttaCKs).
+
+
+Short: Several TLS implementations incorrectly allow some messages to be skipped even though they are required for the selected cipher suite.
+Fix: Just avoid the vulnerable TLS libraries such as OpenSSL older than 1.0.1k, Mono <=3.12.1 and so on.
+More:
+ - https://www.smacktls.com/
+
+
+'  ╦  ┌─┐┌─┐ ┬┌─┐┌┬┐
+'  ║  │ ││ ┬ │├─┤│││
+'  ╩═╝└─┘└─┘└┘┴ ┴┴ ┴
+'  Logjam.
+
+
+Short: The Logjam is a security vulnerability against a Diffie–Hellman key exchange, the attack allows a man-in-the-middle attacker to downgrade vulnerable TLS connections to 512-bit export-grade cryptography. (the attack affects any server that supports DHE_EXPORT ciphers) aka FREAK.
+Fix: Disable support for export cipher suites and use a 2048-bit Diffie-Hellman group, as a developer TLS libraries you use are up-to-date, that servers you maintain use 2048-bit or larger primes, and that clients you maintain reject Diffie-Hellman primes smaller than 1024-bit.
+More: 
+ - https://weakdh.org/
+
+
+'  ╔═╗┌─┐┬─┐┬ ┬┌─┐┬─┐┌┬┐  ╔═╗┌─┐┌─┐┬─┐┌─┐┌─┐┬ ┬
+'  ╠╣ │ │├┬┘│││├─┤├┬┘ ││  ╚═╗├┤ │  ├┬┘├┤ │  └┬┘
+'  ╚  └─┘┴└─└┴┘┴ ┴┴└──┴┘  ╚═╝└─┘└─┘┴└─└─┘└─┘ ┴ 
+'  What is this?
+
+
+Short: Forward Secrecy (FS) create a temporary key for each connection, protects from later key leakage; In example if the private key is stolen we can't decipher previous connections.
+Why: There is no reason to not use FS, TLS1.3 (new version) will just have Forward Secrecy modes.
+
+
+'  ╦┌┐┌  ┌┬┐┬ ┬┌─┐  ╔═╗┌┐┌┌┬┐
+'  ║│││   │ ├─┤├┤   ║╣ │││ ││
+'  ╩┘└┘   ┴ ┴ ┴└─┘  ╚═╝┘└┘─┴┘
+'  This world is not lost...
+
+The only safe option: TLS1.2 AES-GCM with FS.
+
+http://pathonproject.com/zb/?65bd4768f257dabb#k855i+2h94OOFSgp6wWHag4R7Ae0ZXRNoMaix1oAHWM=
