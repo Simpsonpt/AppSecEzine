@@ -124,6 +124,8 @@ Why: There is no reason to not use FS, TLS1.3 (new version) will just have Forwa
 '  ╩┘└┘   ┴ ┴ ┴└─┘  ╚═╝┘└┘─┴┘
 '  This world is not lost...
 
+
 The only safe option: TLS1.2 AES-GCM with FS.
+
 
 http://pathonproject.com/zb/?65bd4768f257dabb#k855i+2h94OOFSgp6wWHag4R7Ae0ZXRNoMaix1oAHWM=
