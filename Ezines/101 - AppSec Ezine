@@ -1,0 +1,125 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 03 | Month: January | Year: 2016 | Release Date: 22/01/2016 | Edition: 101º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://blog.ioactive.com/2016/01/drupal-insecure-update-process.html
+Description: Drupal - Insecure Update Process.
+
+URL: https://royaljay.com/security/angular-expression-injections/
+Description: How I Stole Plunker Session Tokens with an Angular Expression.
+
+URL: http://c0rni3sm.blogspot.in/2013/12/google-adwords-stored-xss-from-nay-to.html
+Description: Google Adwords Stored XSS - From Nay to Yay!
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/foospidy/HoneyPy
+Description: A low interaction honeypot.
+
+URL: https://github.com/AnimeshShaw/ChromeForensics
+Description: Automated forensic tool for analysis of Chrome Browser and its variants.
+
+URL: https://github.com/google/syzkaller
+Description: Distributed, unsupervised, coverage-guided Linux syscall fuzzer.
+
+URL: https://github.com/Invoke-IR/PowerForensics/
+Description: PowerForensics - PowerShell Digital Forensics.
+
+URL: http://hasherezade.net/ViDi/
+Linux x64: https://drive.google.com/file/d/0Bx0ohDGks8J0MW9YcFQ2TXRjZ2M/view?usp=sharing
+Description: ViDi Visual Disassembler.
+
+URL: https://github.com/CoolerVoid/Mosca
+Description: Static analysis tool to find bugs like a grep unix command.
+
+URL: https://github.com/ac-pm/SSLUnpinning_Xposed
+Description: Android Xposed Module to bypass Certificate Pinning.
+
+URL: http://weakpass.com/
+More: http://wordlists.capsop.com/
+Description: Wordlists from a variety of sources (Dump).
+
+URL: https://github.com/skftn/upc_keys.py
+Description: WPA2 passphrase recovery tool for UPC%07d devices.
+
+URL: http://blog.stalkr.net/2015/12/from-remote-shell-to-remote-terminal.html
+Description: From remote shell to remote terminal.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://habrahabr.ru/company/mailru/blog/274855/
+Description: Dangerous Video - ffmpeg remote and local vulnerabilities.
+
+URL: http://c0rni3sm.blogspot.pt/2016/01/hql-injection-for-oracle-database.html
+Description: HQL Injection on Web Application Running Oracle Database.
+
+URL: http://appcheck-ng.com/unpatched-vulnerabilites-in-magento-e-commerce-platform/
+Description: Unpatched Vulnerabilities in Magento E-Commerce Platform.
+
+URL: https://blogs.securiteam.com/index.php/archives/2675
+Description: Acunetix WVS XSS, Memory Exhaustion and DoS. (Just for Fun!)
+
+URL: https://cturt.github.io/dlclose-overflow.html
+Description: Analysis of sys_dynlib_prepare_dlclose PS4 kernel heap overflow.
+
+URL: https://warroom.securestate.com/bmp-x86-polyglot/
+Description: BMP/x86 Polyglot.
+
+URL: https://known.phyks.me/2015/self-hosting-firefox-sync-15
+Description: Self-hosting Firefox sync 1.5 (Privacy Helper).
+
+URL: http://lgms.nl/blog-2
+Description: Faking the TCP handshake.
+
+URL: http://blog.emaze.net/2016/01/multiple-vulnerabilities-samsung-srn.html
+Description: Multiple vulnerabilities in Samsung SRN cameras.
+
+URL: https://jbp.io/2016/01/17/using-sgx-to-hash-passwords/
+Description: Using SGX to harden password hashing.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/samshadwell/TrumpScript
+Description: Make Python great again.
+
+URL: http://theuserisdrunk.com/
+Description: The User is Drunk.
+
+URL: https://github.com/alerj78/lucky7coin/issues/1
+Description: Backdoor in IRC code (lucky7coin).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?15d14fe300dedc0d#S3bt25KyJXGM06+Dqm+5igLSUpx7oapsRMrsOE2sX1Y=
