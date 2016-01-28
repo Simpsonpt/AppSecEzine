@@ -1,0 +1,124 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 04 | Month: January | Year: 2016 | Release Date: 29/01/2016 | Edition: 102º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://artsploit.blogspot.pt/2016/01/paypal-rce.html
+Description: PayPal Remote Code Execution Vulnerability (Java Unserialize).
+
+URL: http://blog.portswigger.net/2016/01/xss-without-html-client-side-template.html
+Description: XSS without HTML - Client-Side Template Injection with AngularJS.
+
+URL: https://fin1te.net/articles/xss-on-facebook-via-png-content-types/
+Description: An XSS on Facebook via PNGs & Wonky Content Types.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ncrocfer/whatportis
+Description: A command to search port names and numbers.
+
+URL: https://github.com/drmint80/fuzznus
+Description: FuzzNus python based GDB script.
+
+URL: https://3v4l.org
+Description: Compilation of more than 150 different PHP versions, ready to run code.
+
+URL: http://seclists.org/fulldisclosure/2016/Jan/26
+Description: SSH Backdoor for FortiGate OS Version 4.x up to 5.0.7.
+
+URL: https://github.com/ChrisTruncer/EyeWitness
+Description: EyeWitness is designed to take screenshots of websites.
+
+URL: https://github.com/Audi-1/sqli-labs
+Description: SQLi labs to test error based, Blind boolean based, Time based.
+
+URL: https://github.com/dstosberg/odt2txt/
+Description: A simple converter from OpenDocument Text to plain text.
+
+URL: https://github.com/P0cL4bs/WiFi-Pumpkin
+Description: Framework for Rogue Wi-Fi Access Point Attack.
+
+URL: https://github.com/YelGroup/Yel-CSRF-tool
+Description: This is Chrome extension for detecting CSRF vulnerabilities.
+
+URL: https://github.com/earthquake/chw00t/
+Description: chw00t - Unices chroot breaking tool.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://vwzq.net/lab/covert/
+Description: Covert channels (in da soup) in the SOP.
+
+URL: https://goo.gl/Yf0fU4 (+)
+Description: How email in transit can be intercepted using DNS hijacking.
+
+URL: http://windowsir.blogspot.pt/2015/12/working-with-shadow-volumes.html
+Description: Working with Shadow Volumes.
+
+URL: https://github.com/drduh/OS-X-Security-and-Privacy-Guide
+Description: OSX Security and Privacy Guide.
+
+URL: http://zerothoughts.tumblr.com/post/137769010389/fun-with-jndi-remote-code-injection
+Description: Fun with JNDI remote code injection.
+
+URL: http://goo.gl/xoVqPb (+)
+Description: Bypass DEP and CFG using JIT compiler in Chakra engine.
+
+URL: http://goo.gl/5i1yx9 (+)
+PoC: https://gist.github.com/PerceptionPointTeam/18b1e86d1c0f8531ff8f
+Description: Analysis and Exploitation of a Linux Kernel Vulnerability (CVE-2016-0728).
+
+URL: https://docs.google.com/document/d/19dspgrz35VoJwdWOboENZvccTSGudjQ_p8J4OPsYztM
+Description: Browser mitigations against memory corruption vulnerabilities.
+
+URL: https://micahflee.com/2016/01/debian-grsecurity/
+Description: Hardening Debian for the Desktop Using Grsecurity.
+
+URL: https://plmsecurity.net/mantis_host_header_attack
+Description: MantisBT 1.2.19 - Host header attack vulnerability.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/stevelacy/crashsafari
+Description: Crashsafari.
+
+URL: https://github.com/HackerFantastic/Public/blob/master/exploits/lbreakout-exploit.c
+Description: lbreakout2 exploit for ARM (educational).
+
+URL: https://goo.gl/1swv2B (+)
+Description: Build an 'SMS center' with Python , Kannel and a GSM modem.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?5af786c7cf431381#EYcSZilWmS/Uk6/QhDxDgXZidYj9rFAjqqHoigkd5Vw=
