@@ -1,0 +1,125 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 05 | Month: February | Year: 2016 | Release Date: 05/02/2016 | Edition: 103º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://goo.gl/L6diHy (+)
+Description: How Nvidia breaks Chrome Incognito.
+
+URL: http://foxglovesecurity.com/2016/01/16/hot-potato/
+Improved PoC: https://github.com/Cn33liz/SmashedPotato 
+Description: Hot Potato – Windows Privilege Escalation.
+
+URL: https://klikki.fi/adv/yahoo.html
+Description: Yahoo Mail stored XSS.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/SummitRoute/osxlockdown
+Description: OSX tool to audit for, and remediate, security configuration settings.
+
+URL: https://github.com/cvandeplas/pystemon
+Description: Monitoring tool for PasteBin-alike sites written in Python.
+
+URL: https://github.com/gophish/gophish
+Description: Open-Source Phishing Toolkit.
+
+URL: http://sysadminconcombre.blogspot.ca/2015/07/how-to-hack-windows-password.html
+Tool: https://github.com/giMini/RWMC
+Description: How to hack Windows password?
+
+URL: https://github.com/nmap/ncrack
+Description: Ncrack network authentication tool.
+
+URL: https://github.com/BR903/ELFkickers
+Description: A collection of programs that access and manipulate ELF files.
+
+URL: http://goo.gl/CNVZfs (+)
+Description: Stream a target's Desktop using MJPEG and PowerShell.
+
+URL: https://github.com/Ganapati/Crawlic
+Description: Web recon tool.
+
+URL: https://github.com/jacob-baines/elfparser
+Description: Cross Platform ELF analysis.
+
+URL: http://bernardodamele.blogspot.pt/2012/06/data-retrieval-over-dns-in-sql.html
+Description: Data retrieval over DNS in sqlmap.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://fumalwareanalysis.blogspot.ch/p/malware-analysis-tutorials-reverse.html
+Description: Malware Analysis Tutorials - a Reverse Engineering Approach.
+
+URL: https://reverse.put.as/2016/01/22/reversing-apples-syslogd-bug/
+Description: Reversing Apple's syslogd bug.
+
+URL: https://goo.gl/QQ9Xke (+)
+Description: Reflected File Download on Blizzard’s BattleNet API.
+
+URL: https://adamcaudill.com/2016/02/02/plsql-developer-nonexistent-encryption/
+Description: PL/SQL Developer: Nonexistent Encryption.
+
+URL: https://enigma0x3.wordpress.com/2016/01/28/an-empire-case-study/
+Description: An Empire Case Study (Usage for complete forest ownership/pwn).
+
+URL: http://www.sjoerdlangkemper.nl/2016/01/29/circumventing-xss-filters/
+Description: Circumventing XSS filters.
+
+URL: http://goo.gl/qYpYv8 (+)
+Description: Hacking into a Vehicle CAN bus (Toyothack and SocketCAN).
+
+URL: http://goo.gl/XAK4a9 (+)
+Description: Triaging the exploitability of IE/EDGE crashes.
+
+URL: https://www.landaire.net/blog/finding-a-csrf-vulnerability-in-phpbb/
+Description: Finding a CSRF vulnerability in phpBB.
+
+URL: http://www.payatu.com/from-crash-to-exploit/
+Description: From Crash to Exploit (CVE-2015-6086) Out of Bound Read/ASLR Bypass.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.workatlinkedin.com/
+Description: Solve this challenge to get an interview at LinkedIn.
+
+URL: https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html
+Description: Why I Wrote PGP by Philip Zimmermann (The 0ne 😉).
+
+URL: http://codebox.org.uk/pages/monkeyshine-javascript-practical-jokes
+Description: Slightly Evil JavaScript.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?115feec1d74277c2#+/9TndYRkgi+/aCy68ECPXWtmCjQvG8HoXeFTvP39uo=
