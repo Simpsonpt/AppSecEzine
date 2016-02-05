@@ -31,7 +31,7 @@ Description: Yahoo Mail stored XSS.
 
 
 URL: https://github.com/SummitRoute/osxlockdown
-Description: OSX tool to audit for, and remediate, security configuration settings.
+Description: OSX tool to audit and remediate, security configuration settings.
 
 URL: https://github.com/cvandeplas/pystemon
 Description: Monitoring tool for PasteBin-alike sites written in Python.
@@ -122,4 +122,4 @@ Description: Slightly Evil JavaScript.
 
 52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
 
-http://pathonproject.com/zb/?115feec1d74277c2#+/9TndYRkgi+/aCy68ECPXWtmCjQvG8HoXeFTvP39uo=
+http://pathonproject.com/zb/?9cd41ce995a097fd#Xqtl1NXxMyoC8ufJYw6di51TpA+wWTU7pJZ/ju+NujE=
