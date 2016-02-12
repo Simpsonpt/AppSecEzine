@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 06 | Month: February | Year: 2016 | Release Date: 12/02/2016 | Edition: 104º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://blog.innerht.ml/cross-origin-css-attacks-revisited-feat-utf-16/
+Description: Cross-Origin CSS Attacks Revisited (feat. UTF-16).
+
+URL: https://hackerone.com/reports/111440
+Description: DOM based XSS via Wistia embedding.
+
+URL: https://nvisium.com/blog/2016/01/26/rails-dynamic-render-to-rce-cve-2016-0752/
+More: http://www.phrack.org/papers/attacking_ruby_on_rails.html
+Description: Rails Dynamic Render to RCE (CVE-2016-0752).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://angr.io/
+Description: Binary analysis framework.
+
+URL: https://github.com/aboul3la/Sublist3r
+Description: Fast subdomains enumeration tool for penetration testers.
+
+URL: https://github.com/AeonDave/doork
+Description: Passive Vulnerability Auditor.
+
+URL: https://github.com/cve-search/cve-search
+Description: CVE-Search tool to perform local searches for known vulnerabilities.
+
+URL: https://github.com/g0tmi1k/exe2hex
+Description: Inline file transfer using debug.exe and/or PowerShell.
+
+URL: https://github.com/nccgroup/dotnetpaddingoracle
+Description: Python Implementation of a .NET Padding Oracle Assessment Tool.
+
+URL: https://github.com/KINGSABRI/BufferOverflow-Kit
+Description: Buffer-Overflow development in one place.
+
+URL: https://github.com/wisk/medusa
+Blog: https://wisk.github.io/how-to-emulate-executable-with-medusa-and-python-part-0.html 
+Description: An open source interactive disassembler.
+
+URL: http://salmanarif.bitbucket.org/visual/index.html
+Description: VisUAL - A highly visual ARM emulator.
+
+URL: https://github.com/Marak/faker.js
+Description: Generate massive amounts of fake data in Node.js and the browser.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://vulnsec.com/2016/osx-apps-vulnerabilities/
+Description: There's a lot of vulnerable OS X applications out there.
+
+URL: http://en.wooyun.io/2015/12/15/Bypass-McAfee-Application-Control.html
+Description: Bypass McAfee Application Control——Code Execution.
+
+URL: http://www.agarri.fr/kom/archives/2016/02/06/deserialization_in_perl_v5_8/index.html
+Description: Deserialization in Perl v5.8.
+
+URL: http://hdwsec.fr/blog/CVE-2015-0057.html
+Description: (MS15-010/CVE-2015-0057) Exploitation.
+
+URL: https://github.com/tfairane/HackStory/blob/master/McAfeePrivesc.md
+Tool: https://github.com/funoverip/mcafee-sitelist-pwd-decryption/
+Description: McAfee privileged SiteList.xml leads to AD Domain privilege escalation.
+
+URL: http://blog.dornea.nu/2016/01/26/some-words-on-csrf-and-cookies/
+Description: Some words on CSRF and cookies.
+
+URL: https://github.com/PaulSec/awesome-sec-talks
+Description: List of Sec talks/videos.
+
+URL: https://blog.sucuri.net/2016/01/jquery-pastebin-replacement.html
+Description: Malicious Pastebin Replacement for jQuery.
+
+URL: http://0xbaadf00dsec.blogspot.in/2016/01/reverse-engineering-online-games.html
+Description: Reverse Engineering Online Games - Dragomon Hunter.
+
+URL: https://websec.wordpress.com/2010/03/19/exploiting-hard-filtered-sql-injections/
+Description: Exploiting hard filtered SQL Injections.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://sroberts.github.io/2016/01/20/travel-opsec/
+Description: Travel OpSec.
+
+URL: http://int10h.org/oldschool-pc-fonts/readme/
+Description: The Ultimate Oldschool PC Font Pack.
+
+URL: https://deadlockempire.github.io/
+Description: The Deadlock Empire.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?466a50b7537286cd#vcIPd+NvgqXUQCj4VcI8JeHgdS0bNUx3oHLIZQLY/bA=
