@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 07 | Month: February | Year: 2016 | Release Date: 19/02/2016 | Edition: 105º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://mksben.l0.cm/2016/01/google-toolbar-xss.html
+Description: XSS using the Google Toolbar's command.
+
+URL: http://blog.k3170makan.com/2016/02/stealing-secrets-with-css-cross-origin.html
+Description: Stealing Secrets with CSS - Cross Origin CSS Attacks.
+
+URL: http://info.safebreach.com/hubfs/Node-js-Response-Splitting.pdf
+Blog: http://goo.gl/AE7S2O (+)
+Description: HTTP Response Splitting in Nodejs.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://www.blackmoreops.com/2015/12/28/ip-spoofing-in-kali-linux-with-torsocks/
+Description: Evade monitoring by IP spoofing in Kali Linux with torsocks.
+
+URL: https://github.com/Googulator/TeslaCrack
+Description: Decryptor for the TeslaCrypt malware.
+
+URL: https://github.com/roglew/pappy-proxy
+Description: An intercepting proxy for web application testing.
+
+URL: https://github.com/jethrogb/uefireverse
+Description: Tools to help with Reverse Engineering UEFI-based firmware.
+
+URL: https://github.com/Pinperepette/IPTV
+Description: Search and brute force illegal IPTV server.
+
+URL: https://github.com/google/stenographer
+Description: Full-packet-capture util for buffering packets to disk for IDS/IR purposes.
+
+URL: https://github.com/jtpereyda/boofuzz
+Description: A fork and successor of the Sulley Fuzzing Framework.
+
+URL: https://github.com/NullArray/RootHelper
+Description: Privilege escalation on a Linux system helper.
+
+URL: https://github.com/ruped24/killchain
+Description: A unified console to perform the "kill chain" stages of attacks.
+
+URL: https://github.com/CoreSecurity/pysap
+Description: Python library for crafting SAP's network protocols packets.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: https://goo.gl/3eoqgc (+)
+More: https://00f.net/2016/02/17/cve-2015-7547/ (Don't panic, don't spread fear!)
+PoC: https://github.com/fjserna/CVE-2015-7547
+Description: glibc getaddrinfo stack-based buffer overflow (CVE-2015-7547).
+
+URL: https://wald0.com/?p=14
+PoC: https://github.com/andyrobbins/PowerPath
+Description: Automated Derivative Administrator Search.
+
+URL: http://pouyadarabi.blogspot.pt/2015/04/bypass-facebook-csrf.html
+Description: Facebook - How I bypassed Facebook CSRF Protection 2015.
+
+URL: http://ceukelai.re/a-tale-of-two-offline-chrome-uxss-vulns/
+Description: A tale of two offline Chrome UXSS vulns.
+
+URL: http://mikeknoop.com/lxml-xxe-exploit/
+Description: Nobody expects ENTITY sections in XML (XXE Saga).
+
+URL: https://www.tophertimzen.com/blog/windowsx64Shellcode/
+Description: Windows x64 Shellcode.
+
+URL: https://ret2libc.wordpress.com/2016/01/03/hacking-banks-for-fun-and-profit/
+Description: Hacking banks for fun and profit.
+
+URL: https://goo.gl/azjtvB (+)
+Description: How to get user crendentials from memory dumps.
+
+URL: https://jimshaver.net/2016/02/14/defending-against-mimikatz/
+Description: Defending Against Mimikatz.
+
+URL: http://www.sjoerdlangkemper.nl/2016/02/11/cracking-php-rand/
+Description: Cracking PHP rand().
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.youtube.com/watch?v=_QdPW8JrYzQ
+Description: This is what happens when you reply to spam email.
+
+URL: https://github.com/huydx/facy
+Description: CLI for Facebook.
+
+URL: https://ping.gg/
+Description: The world's most simple monitoring service.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?6d2e89fdcf0e71b1#xm0AxL4KGR+glRY3LfMU71MsO3xHdmmTUdYkLyv/WKY=
