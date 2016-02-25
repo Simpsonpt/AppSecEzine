@@ -82,6 +82,7 @@ Description: (MS15-010/CVE-2015-0057) Exploitation.
 
 URL: https://github.com/tfairane/HackStory/blob/master/McAfeePrivesc.md
 Tool: https://github.com/funoverip/mcafee-sitelist-pwd-decryption/
+More: http://warchest.fusionx.com/mcafee-sitelist-xml-domain-credentials-disclosure/
 Description: McAfee privileged SiteList.xml leads to AD Domain privilege escalation.
 
 URL: http://blog.dornea.nu/2016/01/26/some-words-on-csrf-and-cookies/
