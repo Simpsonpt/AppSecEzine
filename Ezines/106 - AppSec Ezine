@@ -1,0 +1,124 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 08 | Month: February | Year: 2016 | Release Date: 26/02/2016 | Edition: 106º ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://r0rshark.github.io/2015/07/30/google/
+More: https://blog.0daylabs.com/2016/02/11/How-I-got-a-shell-on-google-acquisition/
+Description: Getting a shell on a Google Acquisition.
+
+URL: https://goo.gl/xbCyay (+)
+Description: Graphing when your Facebook friends are awake.
+
+URL: http://jcarlosnorte.com/security/2016/02/21/date-leak-gzip-tor.html
+Description: HTTP GZIP Compression remote date and time leak.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/hfiref0x/ZeroAccess
+Description: ZeroAccess (Malware) v3 toolkit.
+
+URL: https://github.com/praetorian-inc/pentestly
+Description: Python and Powershell internal penetration testing framework.
+
+URL: http://www.silentrobots.com/blog/2015/12/14/xe-cheatsheet-update/
+Description: XML Entity Cheatsheet
+
+URL: https://github.com/SignalSEC/kirlangic-ttf-fuzzer
+Description: TrueType Font Fuzzer.
+
+URL: https://github.com/graniet/chromebackdoor
+Description: Backdoor C&C for Chrome.
+
+URL: https://github.com/chrismaddalena/viper
+Description: Tool for automating penetration testing tasks (in Dev).
+
+URL: https://github.com/micahflee/phpass_crack
+Description: A password cracker for Portable PHP password hashes. 
+
+URL: http://windowsir.blogspot.pt/2016/01/more-registry-fun.html
+Description: More Registry Fun (null char checker).
+
+URL: https://github.com/ben174/hsts-cookie
+Description: Creates a HSTS Supercookie to fingerprint a browser.
+
+URL: https://github.com/koczkatamas/CVE-2016-0051
+Description: PoC for BSoD and Privilege Escalation - CVE-2016-0051 (MS-016).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://www.miasm.re/blog/2016/01/27/re150.html
+Description: GreHack 2015 Re150 Challenge - Solution using Miasm Framework.
+
+URL: http://rileykidd.com/2016/01/12/synology-nas-dsm-5-2-remote-code-execution-rce/
+Description: Synology NAS DSM 5.2 Remote Code Execution (RCE).
+
+URL: https://goo.gl/1Yaz1c (+)
+Description: Why I stopped using StartSSL (Hint: it involves a Chinese company).
+
+URL: http://www.505forensics.com/windows-10-prefetch/
+Description: Script Release - Parsing Windows 10 Prefetch Files on Linux.
+
+URL: https://blog.srcclr.com/reversing-an-open-source-vulnerability/
+Description: Reversing an Open Source Vulnerability.
+
+URL: https://avicoder.me/2016/02/22/SSLstrip-for-newbies/
+Description: SSL Strip for Newbies.
+
+URL: http://en.wooyun.io/2016/01/28/Barcode-attack-technique.html
+Description: Barcode attack technique (Badbarcode).
+
+URL: https://github.com/shellphish/how2heap
+Description: A repository for learning various heap exploitation techniques.
+
+URL: https://www.gracefulsecurity.com/sql-injection-exploitation/
+Description: SQL Injection - Exploitation 101.
+
+URL: http://www.xexexe.cz/2016/02/hijacking-forgotten-misconfigured.html
+Description: Hijacking forgotten & misconfigured subdomains.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.youtube.com/watch?v=bjYhmX_OUQQ
+Description: What Happens When You Dare Expert Hackers To Hack You.
+
+URL: http://thume.ca/projects/2012/11/14/magic-png-files/
+Description: Magic PNG Thumbnails.
+
+URL: http://rubyfu.net/
+Description: Rubyfu, where Ruby goes evil!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?3d83f20a02e08104#WMtg4z4VNbx7Lzh+42B1L0kCb208hN8qxp/xubZPEZg=
