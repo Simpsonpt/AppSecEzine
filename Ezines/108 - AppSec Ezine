@@ -1,0 +1,122 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 10 | Month: March | Year: 2016 | Release Date: 11/03/2016 | Edition: 108º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot
+More: http://polyglot.innerht.ml/
+Description: Unleashing an Ultimate XSS Polyglot.
+
+URL: http://www.anandpraka.sh/2016/03/how-i-could-have-hacked-your-facebook.html
+Description: How I could have hacked all Facebook accounts.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/jaredhaight/PSAttack
+Description: A framework for Powershell attacks.
+
+URL: https://github.com/hfiref0x/TDL
+Description: Driver loader for bypassing Windows x64 Driver Signature Enforcement.
+
+URL: https://github.com/jh00nbr/Routerhunter-2.0
+Description: Scanner Routerhunter 2.0.
+
+URL: https://github.com/b3mb4m/shellsploit-framework
+Description: New Generation Exploit Development Kit.
+
+URL: https://github.com/Rootkitsmm/Win32k-Fuzzer
+Description: Win32k-Fuzzer.
+
+URL: https://github.com/enddo/smod
+Description: MODBUS Penetration Testing Framework.
+
+URL: https://github.com/funkandwagnalls/ranger
+Description: A tool for access and interact with remote Microsoft Windows systems.
+
+URL: https://github.com/StevenBlack/hosts
+Description: Amalgamated hosts file (Protection).
+
+URL: https://github.com/joeferner/node-http-mitm-proxy
+Description: HTTP Man In The Middle (MITM) Proxy (Node.js)
+
+URL: https://github.com/enjoiz/XXEinjector
+Description: Automatic exploitation of XXE vulnerability.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://securitymumblings.blogspot.pt/2016/02/cve-2015-8277.html
+More: https://www.securifera.com/advisories/cve-2015-8277/
+Description: Finding CVE-2015-8277 in FlexNet Publisher.
+
+URL: https://xairy.github.io/blog/2016/cve-2016-2384
+Description: Arbitrary code exec in the usb-midi linux kernel driver (CVE-2016-2384).
+
+URL: https://pierrekim.github.io/blog/2016-01-05-Ganeti-Info-Leak-DoS.html
+Description: Ganeti DoS and Unauthenticated Info Leak (CVE-2015-7944/CVE-2015-7945).
+
+URL: http://andrewmohawk.com/2016/02/05/bypassing-rolling-code-systems/
+Description: Bypassing Rolling Code Systems.
+
+URL: https://goo.gl/0L1yce (+)
+Description: 1Password sends your password across the loopback interface in clear text.
+
+URL: https://ssrg.nicta.com.au/projects/TS/cachebleed/
+Description: CacheBleed - A Timing Attack on OpenSSL Constant Time RSA.
+
+URL: https://www.insinuator.net/2016/03/how-to-crack-a-white-box-without-much-effort/
+Description: How to crack a white-box without much effort.
+
+URL: http://tomforb.es/segfaulting-python-with-afl-fuzz
+Description: Segfaulting Python with afl-fuzz.
+
+URL: http://wartalker.me/a/56d62d1aeff2a2688884a075
+Description: Malformed private keys lead to heap corruption in OpenSSL’s b2i_PVK_bio.
+
+URL: http://goo.gl/DYBny3 (+)
+Description: Getting Domain Admin with Kerberos Unconstrained Delegation.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://gist.github.com/staaldraad/510966898862fecce423
+Description: Pwning like a hipster.
+
+URL: https://tldr-pages.github.io/
+Description: Simplified and community-driven man pages.
+
+URL: https://www.peerlyst.com/blog-post/scope-the-final-frontier
+Description: Scope - The final frontier.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?86e533b5ef6d5b92#1KqgKPE6lvdZr+WHtk8bP9Kf0OmTKozwRoZR3r1xu/U=
