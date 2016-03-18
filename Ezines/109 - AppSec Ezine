@@ -1,0 +1,122 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 11 | Month: March | Year: 2016 | Release Date: 18/03/2016 | Edition: 109º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://www.gracefulsecurity.com/http-header-injection/
+Description: HTTP Header Injection 101.
+
+URL: https://mathiasbynens.github.io/rel-noopener/
+Description: About rel=noopener.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/LNOLiGhT/BuSyBoXBaNGBuS
+Description: All-in-1-Bruteforce-SSH.
+
+URL: https://github.com/HurricaneLabs/machinae
+Description: Machinae Security Intelligence Collector.
+
+URL: https://github.com/LongSoft/UEFITool
+Description: UEFI firmware image viewer and editor.
+
+URL: https://github.com/cisco-sas/kitty
+Description: Fuzzing Framework written in python.
+
+URL: https://github.com/p-e-w/maybe
+Description: See what a program does before running it.
+
+URL: https://github.com/anssi-fr/tabi
+Description: BGP Hijack Detection.
+
+URL: http://pastebin.com/HYpjUKuk
+Description: SHFolder.DLL Comodo AV Local Privilege Elevation Exploit.
+
+URL: https://github.com/peacand/burp-pyTemplate
+Description: Burp extension to develop Python "exploits" based on Burp requests.
+
+URL: https://github.com/sensepost/DET
+Slides: https://goo.gl/L89gpG (+)
+Description: Data Exfiltration Toolkit (DET).
+
+URL: https://github.com/Eisler/URLCrazy
+Description: UrlCrazy is for the study of domainname typos and URL hijacking.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://goo.gl/liJQ2I (+)
+Description: How Detecting Malicious PHP Files Isn't That Easy.
+
+URL: https://gist.github.com/nishimunea/264695161a6796f1912f
+Description: How HTML Injection Is Bad on Firefox OS.
+
+URL: http://blog.ptsecurity.com/2016/01/severe-vulnerabilities-detected-in.html
+Description: Severe Vulnerabilities Detected in FreeBSD (CVE-2016-1879).
+
+URL: https://goo.gl/F9QRMY (+)
+More: https://marc.ttias.be/oss-security/2016-03/msg00180.php
+Description: Remote Code Execution in Git versions < 2.7.1 (CVE-2016-2324/CVE-2016‑2315).
+
+URL: http://blog.joelesler.net/2010/03/offset-depth-distance-and-within.html
+Description: Offset, Depth, Distance, and Within (Snort Rules).
+
+URL: https://goo.gl/DbBJWX (+)
+Description: From zero to SYSTEM on full disk encrypted Windows system.
+
+URL: https://coding.abel.nu/2016/03/vulnerability-in-net-signedxml/
+Description: Vulnerability in .NET SignedXml.
+
+URL: https://firefart.at/post/upc_ubee_fail/
+Description: UPC (router) Ubee EVW3226 Fail.
+
+URL: https://www.teamupturn.com/reports/2016/what-isps-can-see
+Description: What ISPs Can See.
+
+URL: http://foofus.net/goons/percx/Xerox_hack.pdf
+Description: Attacking Xerox's Multifunction Printers Patch Process.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://mjg59.dreamwidth.org/40505.html
+Description: I stayed in a hotel with Android lightswitches...
+
+URL: https://goo.gl/bEcYqL (+)
+Description: What is WebAssembly?
+
+URL: https://github.com/santinic/how2
+Description: Stackoverflow from the terminal.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?e7d2fda347f3b6ca#Zz6F12CTtP0VUb7hqUMQEiAdDFWuz6q9v+eyfnrgZAk=
