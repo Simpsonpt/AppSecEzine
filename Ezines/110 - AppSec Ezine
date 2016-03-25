@@ -1,0 +1,124 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 12 | Month: March | Year: 2016 | Release Date: 25/03/2016 | Edition: 110º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: https://nvisium.com/blog/2016/03/09/exploring-ssti-in-flask-jinja2/
+Description: Exploring Server-Side Template Injection (SSTI) in Flask/Jinja2.
+
+URL: http://blog.innerht.ml/the-misunderstood-x-xss-protection/
+Description: The misunderstood X-XSS-Protection.
+
+URL: https://fin1te.net/articles/uber-turning-self-xss-into-good-xss/
+Description: Uber Bug Bounty - Turning Self-XSS into Good-XSS.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/mimoo/Diffie-Hellman_Backdoor
+Description: How to backdoor Diffie-Hellman.
+
+URL: https://github.com/craigz28/firmwalker
+Description: Script for searching the extracted firmware file system for goodies!
+
+URL: https://github.com/cr0hn/enteletaor
+Description: Message Queue & Broker Injection tool.
+
+URL: http://0x27.me/2015/07/27/SSH-Over-SCTP.html
+Description: SSH Over SCTP (With Socat).
+
+URL: https://github.com/claudijd/ssh_scan
+Description: A prototype/PoC for an SSH scanner.
+
+URL: https://github.com/samratashok/Kautilya
+Description: Tool for easy use of HID for offensive security and penetration testing.
+
+URL: https://github.com/sha0coder/LAF
+Description: This firewall allows only communications made from allowed processes.
+
+URL: https://gist.github.com/0x27/9ff2c8fb445b6ab9c94e
+Description: ASAN/SUID Local Root Exploit.
+
+URL: https://github.com/gpoulios/ROPInjector/
+Description: Convert Shellcode Into ROP.
+
+URL: https://github.com/eschultze/URLextractor
+Description: Information gathering & website reconnaissance.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://en.wooyun.io/2016/01/18/JavaScript-Backdoor.html
+Description: Fileless JavaScript Reverse HTTP Shell (OS JavaScript Backdoor).
+
+URL: http://blog.skylined.nl/20160316001.html
+Description: Microsoft Edge use-after-free "Case of Study".
+
+URL: https://goo.gl/yegViI (+)
+Description: How to easily hack your Smart TV - Samsung and LG.
+
+URL: https://goo.gl/uMCPAk (+)
+Description: SpagoBI - Remote Code Execution by authenticated users.
+
+URL: http://web-in-security.blogspot.pt/2016/03/xml-parser-evaluation.html
+PoC: https://github.com/RUB-NDS/DTD-Attacks
+Description: XML Parser Evaluation (Ruby, Python, .NET, PHP, Perl, Java).
+
+URL: https://gist.github.com/Teino1978-Corp/c7a855d0c0eaa348273b
+Description: Attacking IPV6.
+
+URL: http://www.attactics.org/2016/03/bypassing-antivirus-with-10-lines-of.html
+Description: Bypassing AVs w/ 10 Lines of Code.
+
+URL: http://www.kerneronsec.com/2016/02/remote-code-execution-in-cctv-dvrs-of.html
+Description: Remote Code Execution in CCTV-DVR affecting over 70 different vendors.
+
+URL: http://jeffq.com/blog/dteenergy-insight/
+Description: Unauthenticated "filter" parameter leak PII (CVE-2016-1562).
+
+URL: https://jochen-hoenicke.de/trezor-power-analysis/
+Description: Extracting the Private Key from a TREZOR (Hardware wallet for Bitcoins).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/zachlatta/sshtron
+Description: Play Tron over SSH.
+
+URL: http://www.joshparsons.net/latex/
+Description: The LaTeX cargo cult.
+
+URL: http://actinid.org/vix/
+Description: Biteye & Vix.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?30ec1e79a41c4366#RVbFQiFhKDBdLSyVtT2Odnv9BbEty2glBXM2QBMjnaU=
