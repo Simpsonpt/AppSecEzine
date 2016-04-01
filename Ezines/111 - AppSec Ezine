@@ -1,0 +1,122 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 13 | Month: April | Year: 2016 | Release Date: 01/04/2016 | Edition: 111º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that really worth your time!
+
+
+URL: http://www.pranav-venkat.com/2016/03/command-injection-which-got-me-6000.html
+Description: Command injection which got me "6000$" from #Google.
+
+URL: http://blog.orange.tw/2016/03/bug-bounty-ubercom-ubercom-remote-code.html
+Description: Uber.com Remote Code Execution via Flask Jinja2 Template Injection.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://www.htcap.org/
+Description: Web application scanner able to crawl single page application (SPA).
+
+URL: https://github.com/YJesus/PyDeAPI
+Description: Python script to detect API hooking in Linux.
+
+URL: https://git.zx2c4.com/ctmg/about/
+Description: Simple wrapper around cryptsetup for encrypted containers.
+
+URL: https://github.com/firmadyne/firmadyne
+Description: Tool for dynamic analysis of Linux-based embedded firmware.
+
+URL: https://github.com/tintinweb/pub/tree/master/pocs/cve-2016-2563
+Description: Putty Stack Buffer Overwrite (CVE-2016-2563).
+
+URL: http://web-in-security.blogspot.pt/2016/03/xxe-cheat-sheet.html
+Description: DTD (XXE, DoS, SSRF, XSLT) Cheat Sheet.
+
+URL: https://github.com/NoviceLive/pat
+Description: Customizable Exploit Pattern Utility.
+
+URL: https://github.com/tintinweb/pub/tree/master/pocs/cve-2016-3116
+Description: Dropbearsshd xauth command injection.
+
+URL: https://github.com/tintinweb/pub/tree/master/pocs/cve-2016-3115
+Description: Openssh xauth command injection and /bin/false bypass.
+
+URL: https://github.com/maurosoria/dirsearch
+Description: Web path checker.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues/problems.
+
+
+URL: http://secalert.net/?#scl-soh
+Description: A Tale of an interesting source code leaking using SOH.
+
+URL: https://goo.gl/zxeKhA (+)
+Description: Install, configure and automatically renew Let's Encrypt SSL Certs.
+
+URL: http://goo.gl/wfQYTv (+)
+Description: Bypassing SOP and shouting hello before you cross the pond.
+
+URL: http://haxx.ml/post/141655340521/all-your-meetings-are-belong-to-us-remote-code
+Description: All Your Meetings Are Belong to Us - RCE in Apache OpenMeetings.
+
+URL: http://asintsov.blogspot.pt/2016/03/yet-another-car-hacking-tool.html
+Tool: https://github.com/eik00d/CANToolz
+Description: Yet Another Car Hacking Tool.
+
+URL: http://dn5.ljuska.org/cyber-attacks-on-vehicles-2.html
+Description: Attacks on vehicles P-II.
+
+URL: https://goo.gl/us2wTn (+)
+Description: Bypassing NoScript security using Cross-Site Scripting and MITM attack.
+
+URL: http://blog.knownsec.com/2016/03/pyyaml-tags-parse-to-command-execution/
+Description: pyyaml-tags-parse-to-command-execution.
+
+URL: https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
+Description: HackSys Extreme Vulnerable Driver (Exploitation Learning).
+
+URL: http://goo.gl/ZCOqjO (+)
+Description: Fuzzing workflows; a fuzz job from start to finish.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://storify.com/weev/a-small-experiment-in
+PoC: http://www.phenoelit.org/hp/download.html
+Description: A brief experiment in printing.
+
+URL: http://left-pad.io/
+Description: A microservice saviour appears.
+
+URL: https://github.com/infosec-au/bugbountydash
+Description: Terminal dashboard for bug bounty hunters that use HackerOne and Bugcrowd.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?27ef8935071bd6fb#q06MqOAHHdzTkldn0B191n4UCziePjI1/GQR7Pl9YsI=
