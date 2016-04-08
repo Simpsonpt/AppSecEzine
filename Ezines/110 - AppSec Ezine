@@ -14,6 +14,7 @@
 
 
 URL: https://nvisium.com/blog/2016/03/09/exploring-ssti-in-flask-jinja2/
+PoC: https://hackerone.com/reports/125980
 Description: Exploring Server-Side Template Injection (SSTI) in Flask/Jinja2.
 
 URL: http://blog.innerht.ml/the-misunderstood-x-xss-protection/
