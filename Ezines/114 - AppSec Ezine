@@ -1,0 +1,124 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 16 | Month: April | Year: 2016 | Release Date: 22/04/2016 | Edition: 114º  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://goo.gl/btlTLe (+)
+Description: How I Hacked Facebook, and Found Someone's Backdoor Script.
+
+URL: https://goo.gl/qF0Lqa (+)
+Description: Using a Braun Shaver to Bypass XSS Audit and WAF.
+
+URL: https://chloe.re/2016/04/13/goodbye-csrf-samesite-to-the-rescue/
+Description: Goodbye CSRF - SameSite to the rescue! (SameSite-cookies 101)
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/flike/kingshard
+Description: A high-performance MySQL proxy.
+
+URL: https://github.com/snare/voltron
+Description: A hacky debugger UI for hackers.
+
+URL: https://github.com/Genetic-Malware/Ebowla
+Description: Framework for Making Environmental Keyed Payloads (Malware Research).
+
+URL: https://github.com/mrsmn/ares
+Description: Library for an easy to use wrapper around https://cve.circl.lu.
+
+URL: https://github.com/GortCodex/DNSCrypt-Loader
+Description: A flexible and customizable bash script to manage DNSCrypt-proxy.
+
+URL: https://github.com/ttlequals0/autovpn
+Description: Script to create an OpenVPN Endpoint on AWS.
+
+URL: https://github.com/fcsonline/autocsp
+Description: Tool to generate a valid CSP headers, integrity hashes and inline hashes.
+
+URL: https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet
+Description: SQL Injection Cheat Sheet.
+
+URL: https://github.com/K2/EhTrace
+Description: ATrace is a tool for tracing execution of binaries on Windows.
+
+URL: https://github.com/joaomatosf/jexboss
+Description: JexBoss - Jboss verify and EXploitation Tool.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.cigital.com/blog/ineffective-certificate-pinning-implementations/
+PoC: https://koz.io/pinning-cve-2016-2402/
+Description: An Examination Of Ineffective Certificate Pinning Implementations.
+
+URL: http://goo.gl/lrqLEh (+)
+Description: Introduction to Windows shellcode development.
+
+URL: http://bytesdarkly.com/2016/01/know-your-tools-cve-2015-2342-ioc-and-metasploit/
+Description: Know your tools – CVE-2015-2342 IOC and Metasploit.
+
+URL: https://hatriot.github.io/blog/2014/06/29/gitlist-rce/
+Description: Gitlist - Commit to RCE.
+
+URL: http://c0d3xpl0it.blogspot.pt/2016/04/compromising-domain-admin-in-voip.html
+Description: Compromising Domain Admin in VOIP Pentest.
+
+URL: http://www.bitlackeys.org/#skeksi
+Description: 2016 - Skeksi Virus for X86_64 Linux.
+
+URL: http://sww-it.ru/2016-04-11/1332
+Description: Windows 10 Hooking Nirvana explained.
+
+URL: https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/
+Description: Detecting the use of "curl | bash" server side.
+
+URL: https://crypto.stanford.edu/~blynn/rop/
+Description: 64-bit Linux Return-Oriented Programming.
+
+URL: http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/
+Description: The Definitive Guide to Linux System Calls.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/NoviceLive/bintut
+Description: Teach you a binary exploitation for great good.
+
+URL: https://github.com/mortenjust/cleartext-mac
+Description: A text editor that only allows the top 1,000 most common words in English.
+
+URL: https://github.com/rothgar/awesome-tmux
+Description: Awesome Tmux.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?f2e765afa260e3ca#VnmZyM7XsSH2dp7+PzxCFdubjahPFTM9jT732623K2Y=
