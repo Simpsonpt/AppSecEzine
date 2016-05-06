@@ -1,0 +1,125 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 18 | Month: May | Year: 2016 | Release Date: 06/05/2016 | Edition: 116º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://imagetragick.com/
+More: http://www.openwall.com/lists/oss-security/2016/05/03/18
+Description: ImageMagick Is On Fire (CVE-2016–3714).
+
+URL: http://c0rni3sm.blogspot.pt/2016/04/drag-drop-xss-in-google.html
+Description: Drag Drop XSS in Google (Just try it!).
+
+URL: http://arunsureshkumar.me/index.php/2016/04/24/facebook-account-take-over/
+Description: Facebook Account Take Over.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Cn33liz/p0wnedShell
+Description: PowerShell Runspace Post Exploitation Toolkit.
+
+URL: https://github.com/stevemk14ebr/UniHook
+Description: Intercept arbitrary functions at run-time, without knowing their typedefs.
+
+URL: https://github.com/Shay-Gueron/AES-GCM-SIV
+Description: AES-GCM-SIV implementations (128 and 256 bit).
+
+URL: https://github.com/talos-vulndev/advisories/tree/master/TALOS-2016-0088/poc
+Description: OS X Gen6Accelerator - Local Privilege Escalation (CVE-2016-1743).
+
+URL: https://github.com/future-architect/vuls
+Description: Vulnerability scanner for Linux, agentless, written in golang.
+
+URL: https://github.com/CroweCybersecurity/ad-ldap-enum
+Description: An LDAP based Active Directory user and group enumeration tool.
+
+URL: https://github.com/Maksadbek/tcpovericmp
+Description: TCP implementation over ICMP protocol to bypass firewalls.
+
+URL: https://github.com/detuxsandbox/detux
+Description: The Multiplatform Linux Sandbox.
+
+URL: http://securitypadawan.blogspot.pt/2014/01/using-sqlmaps-eval-functionality-for.html
+Description: Using SQLMAP's Eval Functionality for Successful Exploitation (Tips).
+
+URL: https://github.com/OpenSecurityResearch/hostapd-wpe
+Description: Modified hostapd to facilitate AP impersonation attacks.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://cyseclabs.com/page?n=02012016
+PoC: https://github.com/thomaxxl/group_info/
+Description: CVE-2014-2851 group_info UAF Exploitation.
+
+URL: http://www.exploresecurity.com/from-csv-to-cmd-to-qwerty/
+Description: From CSV to CMD to qwerty.
+
+URL: https://blog.cylance.com/veil-evasion-vulnerability-discovered-by-cylance
+Description: Veil-Evasion Vulnerability Discovered by Cylance.
+
+URL: http://arm.ninja/2016/03/04/reverse-engineering-samsung-s6-modem/
+Description: Reverse Engineering Samsung S6 Modem.
+
+URL: http://www.scip.ch/en/?labs.20160414
+Description: Cross-Site Script Inclusion - A Fameless Web Vulnerability Class.
+
+URL: http://blog.emsisoft.com/2016/01/01/meet-ransom32-the-first-javascript-ransomware/
+Description: Meet Ransom32 - The first JavaScript ransomware.
+
+URL: https://crypto.beer/runtastic-xxe/
+Description: XXE vulnerability on runtastic.com.
+
+URL: http://goo.gl/C3t9eM (+)
+Description: Debugging Early Boot Stages of Windows.
+
+URL: https://goo.gl/ewmpd5 (+)
+Description: Just-Metadata - Intel Gathering and Analysis of IP Metadata.
+
+URL: http://linux-audit.com/hardening-wordpress-security-reduce-information-disclosure/
+Description: Hardening WordPress Security and Reduce Information Disclosure.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://cryptopals.com/
+Description: The matasano crypto challenges (Solutions).
+
+URL: https://github.com/jsvine/waybackpack
+Description: Download the entire Wayback Machine archive for a given URL.
+
+URL: https://trustfoundry.net/reverse-engineering-a-discovered-atm-skimmer/
+Description: Reverse Engineering a Discovered ATM Skimmer.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?bf9eb0f316161e90#OysYonkFjFgI8X0P2u5qAxeujfcT4yI/pQWaJ+viyGE=
