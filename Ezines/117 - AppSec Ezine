@@ -18,7 +18,7 @@ Description: Poisoning the Well – Compromising GoDaddy Customer Support With B
 
 URL: https://gist.github.com/cure53/df34ea68c26441f3ae98f821ba1feb9c
 More: https://midzer0.github.io/2016/wordpress-4.5.1-xss/
-SOME://gist.github.com/cure53/09a81530a44f6b8173f545accc9ed07e
+SOME: https://gist.github.com/cure53/09a81530a44f6b8173f545accc9ed07e
 Description: WordPress v4.5.1 Security Issues (XSS and SOME).
 
 
