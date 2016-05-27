@@ -1,0 +1,123 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 21 | Month: May | Year: 2016 | Release Date: 27/05/2016 | Edition: 119º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://goo.gl/hEhxXH (+)
+Description: Google Caja and XSS.
+
+URL: https://github.com/dxa4481/Pastejacking
+PoC: https://security.love/Pastejacking/
+Description: A demo of overriding what's in a person's clipboard.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/fdiskyou/PowerOPS
+Description: PowerShell Runspace Portable Post Exploitation Tool.
+
+URL: https://derevenets.com/
+Description: Snowman is a native code to C/C++ decompiler.
+
+URL: https://github.com/pwntester/SerialKillerBypassGadgetCollection
+Description: Collection of bypass gadgets to extend and wrap ysoserial payloads.
+
+URL: https://github.com/interference-security/empire-web/
+Description: PowerShell Empire Web Interface.
+
+URL: https://github.com/4B5F5F4B/Exploits/tree/master/CVE-2015-6764
+Description: PoC V8 bug (CVE-2015-6764).
+
+URL: https://github.com/trailofbits/protofuzz
+Description: Google Protocol Buffers message generator.
+
+URL: https://github.com/mschwager/fierce
+Description: A DNS reconnaissance tool for locating non-contiguous IP space.
+
+URL: https://github.com/nccgroup/Winpayloads
+Description: Undetectable Windows Payload Generation.
+
+URL: https://github.com/1N3/IntruderPayloads
+Description: A collection of Burpsuite Intruder payloads and fuzz lists.
+
+URL: https://github.com/CyberShadow/RABCDAsm
+Description: Robust ABC (ActionScript Bytecode) [Dis-]Assembler.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://goo.gl/nctrWn (+)
+PoC: https://github.com/sinfocol/KeePassLogger
+Description: KeePassLogger - KeePass Two-Channel Auto-Type Obfuscation Bypass.
+
+URL: https://corner.squareup.com/2016/05/content-security-policy-single-page-app.html
+Description: Content Security Policy for Single Page Web Apps.
+
+URL: https://www.informationsecurity.ws/2016/01/pwning-windows-7-with-avg-av/
+Description: Pwning Windows 7 and AVG with USB Rubber Ducky.
+
+URL: https://goo.gl/t0Cc6s (+)
+Description: Return of the Rhino - An old gadget revisited.
+
+URL: https://dfir.it/blog/2015/08/12/webshell-every-time-the-same-purpose/
+More: https://goo.gl/lfWQ9b (+)
+Description: Webshells - Every Time the Same Purpose, Every Time a Different Story.
+
+URL: https://github.com/deresz/unpacking
+Description: Tutorials and examples for generic unpacking JAVA, .NET and x86/x64 code.
+
+URL: http://www.contextis.com/resources/blog/push-hack-reverse-engineering-ip-camera/
+Description: Push To Hack - Reverse engineering an IP camera.
+
+URL: http://www.neutralizethreat.com/2016/02/lazagne-credential-recovery-binary-used.html
+Description: Reverse CHM and AutoIt to Peek inside Attacker Server.
+
+URL: http://phishme.com/powerpoint-and-custom-actions/
+Description: PowerPoint and Custom Actions.
+
+URL: https://seanmelia.files.wordpress.com/2016/02/yahoo-remote-code-execution-cms1.pdf
+Description: Yahoo Remote Code Execution on cms.snacktv.de.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://learn.adafruit.com/hacking-the-kinect/overview
+Description: Hacking the Kinect (Reverse engineering the Microsoft Kinect).
+
+URL: http://ipv6excuses.com/
+Description: Kepp refreshing the page 😄.
+
+URL: https://github.com/philwantsfish/GitHubSearch
+Description: A project to search the most popular repos for a given language.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://www.pathonproject.com/zb/?af0666a83b18e2ab#Ooc5rQ8g/bhTKMtJ4qCvPkex2pR1DFk30f6XLtXNUzY=
