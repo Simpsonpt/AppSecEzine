@@ -1,0 +1,120 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 22 | Month: June | Year: 2016 | Release Date: 03/06/2016 | Edition: 120º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/390
+Description: Pixel flood attack.
+
+URL: https://esevece.github.io/2016/06/01/taking-over-heroku-accounts.html
+Description: Taking over Heroku accounts.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/llamakko/CVE-2015-7214
+Description: SOP bypass the SOP via data: and view-source: URIs (FF <43.0).
+
+URL: https://github.com/infoassure/officefileinfo
+Description: Script to help analyse the newer Microsoft Office file formats.
+
+URL: https://github.com/spaze/oprah-proxy
+Description: Generate credentials for Opera's "browser VPN".
+
+URL: https://gist.github.com/HarmJ0y/3328d954607d71362e3c
+Description: PowerView-2.0 tips and tricks (SysAdmin Helper).
+
+URL: https://github.com/EiNSTeiN-/decompiler
+Description: Decompiler w/ multiple backend support, works with IDA and Capstone.
+
+URL: https://github.com/MITRECND/multiscanner/
+Description: Modular file scanning/analysis framework.
+
+URL: https://github.com/zhouat/Inject-Hook/tree/master/xposed_general_module
+Description: Android xposed generic module.
+
+URL: https://github.com/nccgroup/featherduster
+Description: An automated cryptanalysis tool.
+
+URL: https://github.com/hasherezade/malware_analysis/tree/master/7ev3n
+Description: Decoder for 7even-HONE$T ransomware.
+
+URL: https://github.com/Microsoft/SLAyer
+Description: SLAyer tool that uses separation logic to verify mem safety of C programs.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://goo.gl/gOwiwL (+)
+Description: In-Depth Analysis and Reverse Engineering of IE CVE-2015-2444.
+
+URL: http://blog.securelayer7.net/mongodb-security-injection-attacks-with-php
+Description: MongoDB security – Injection attacks with php.
+
+URL: http://cn33liz.blogspot.pt/2016/05/bypassing-amsi-using-powershell-5-dll.html
+Description: Bypassing Amsi using PowerShell 5 DLL Hijacking.
+
+URL: http://en.wooyun.io/2016/02/29/44.html
+Description: Analysis of VM escape by using LUA script.
+
+URL: https://github.com/enddo/awesome-windows-exploitation
+Description: Awesome Windows Exploitation resources and shiny things (Dump).
+
+URL: https://goo.gl/Y6aa6S (+)
+Description: Post-Ex Persistence Scripting with PowerSploit&Veil.
+
+URL: http://blog.cr4.sh/2016/02/exploiting-smm-callout-vulnerabilities.html
+Description: Exploiting SMM callout vulnerabilities in Lenovo firmware.
+
+URL: http://drops.wooyun.org/papers/15430
+Description: Struts2 method call RCE Vulnerability (CVE-2016-3081).
+
+URL: https://hackerone.com/reports/111192
+Description: CSV Injection via the CSV export feature.
+
+URL: http://gursevkalra.blogspot.pt/2016/01/ysoserial-commonscollections1-exploit.html
+Description: Understanding ysoserial's CommonsCollections1 exploit.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://hackerone.com/reports/123660
+Description: Super Hack!
+
+URL: https://github.com/ali1234/raspi-teletext
+Description: Teletext for Raspberry Pi.
+
+URL: https://threatbutt.com/map/
+Description: Threatbutt Internet Hacking Attack Attribution Map.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?8e45f113d25af832#SOQxxPwihd0YjQKAtgRxlQmKqpd82Lu+Ec1BNTZlgdU=
