@@ -1,0 +1,123 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 23 | Month: June | Year: 2016 | Release Date: 10/06/2016 | Edition: 121º   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/136169
+Description: OneLogin authentication bypass on WordPress sites.
+
+URL: https://blog.zsec.uk/pwning-pornhub/
+Description: Pwning Pornhub, netcat connection that gave $2500.
+
+URL: https://goo.gl/tNemh7 (+)
+Description: SSRF to XSS to CSRF to RCE (Why XSS is dangerous).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/IMcPwn/browser-backdoor
+Description: Electron App w/ JS WebSocket Backdoor and Ruby Command-Line Listener.
+
+URL: https://github.com/zcutlip/exploit-poc/tree/master/netgear/r6200
+Description: Exploit Netgear R6200 (and others).
+
+URL: https://owtf.github.io/
+Description: Offensive Web Testing Framework's.
+
+URL: https://zneak.github.io/fcd/
+Description: fcd is a burgeoning LLVM-based native program decompiler.
+
+URL: https://github.com/chango77747/ReverseShell
+Description: Simple C# reverse shell with shellcode and process injection.
+
+URL: https://www.greyhathacker.net/?p=500
+Description: Ways to Download and Execute code via the Commandline.
+
+URL: http://www.powertheshell.com/powershell-obfuscator/
+Description: PowerShell Obfuscator.
+
+URL: http://halcyon-ide.org/
+Description: Unofficial IDE for Nmap Script (NSE) Development.
+
+URL: https://github.com/maldevel/gdog
+Description: A fully featured Windows backdoor that uses Gmail as a C&C server.
+
+URL: https://github.com/exodusintel/disclosures/blob/master/CVE_2016_1287_PoC
+Description: BoF in the IKEv1 and IKEv2 implementations in Cisco ASA Software.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://security-base.com:8000/
+Description: Repo of exploits for known malware like trojans.
+
+URL: http://www.gironsec.com/blog/2016/06/backdooring-a-dll/
+Description: Backdooring a DLL.
+
+URL: https://goo.gl/u6fqEf (+)
+Description: Reversing and Exploiting Embedded Devices - The Software Stack.
+
+URL: https://tyranidslair.blogspot.co.uk/2013/02/fun-with-java-serialization-and.html
+Description: Fun with Java Serialization and Reflection. (Oldies)
+
+URL: http://haxx.ml/post/140552592371/remote-code-execution-in-apache-jetspeed-230-and
+Description: Remote Code Execution in Apache Jetspeed <=2.3.0.
+
+URL: https://goo.gl/ojUIiP (+)
+Description: Triaging the exploitability of IE/EDGE crashes.
+
+URL: https://goo.gl/WgmTsi (+)
+Description: Recovering BitLocker Keys on Windows 8.1 and 10.
+
+URL: https://snyk.io/blog/sql-injection-orm-vulnerabilities/
+Description: Fixing SQL Injection - ORM is not enough.
+
+URL: http://blog.kcnabin.com.np/find_my_iphone_can-be-failed/
+Description: Make iOS Sys. untraceable using Private DNS (#Find_My Iphone_Can_Fail).
+
+URL: https://github.com/NorthBit/Public/raw/master/NorthBit-Metaphor.pdf
+Description: A (real) real­life Stagefright exploit (Cookbook).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://digitalfreedom.io/map/
+Description: Digital Freedom Alliance.
+
+URL: http://makthepla.net/blog/=/scornhub-bounty
+Description: Scornhub (Pornhub Bug Bounty).
+
+URL: http://austingwalters.com/export-a-command-line-curl-command-to-an-executable/
+Description: Export a Command Line cURL Command to an Executable.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?e7b8e9bb081776cb#1JE/xZfXE7dZGV6MYkir74oq3R1IpqZXHBEriExPJjU=
