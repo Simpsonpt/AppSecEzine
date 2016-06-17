@@ -1,0 +1,124 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 24 | Month: June | Year: 2016 | Release Date: 17/06/2016 | Edition: #122   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://paraschetal.in/writing-your-own-shellcode/
+Description: Writing your own shellcode (101).
+
+URL: https://www.adamlogue.com/revisiting-xss-payloads-in-png-idat-chunks/
+Description: Revisiting XSS payloads in PNG IDAT chunks.
+
+URL: http://blog.blindspotsecurity.com/2016/06/advisory-http-header-injection-in.html
+Description: HTTP Header Injection in Python urllib.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/jadacyrus/searchgiant_cli
+Description: Command line forensic imaging utility for cloud services.
+
+URL: https://github.com/hugsy/cemu
+Description: Cheap EMUlator GUI based on Keystone and Unicorn engines.
+
+URL: https://github.com/CIFASIS/QuickFuzz
+Description: An experimental grammar fuzzer in Haskell using QuickCheck.
+
+URL: https://github.com/jmcarp/robobrowser
+Description: Your friendly neighborhood web scraper.
+
+URL: https://github.com/hwdsl2/docker-ipsec-vpn-server
+Description: IPsec VPN Server on Docker.
+
+URL: https://github.com/mandatoryprogrammer/xsshunter
+Blog: http://goo.gl/2BUBef (+)
+Description: XSS Hunter For Pentesting.
+
+URL: https://github.com/Raikia/SMBCrunch
+Description: Tool for reconaissance of Windows File Shares.
+
+URL: https://github.com/secgroundzero/warberry
+Description: WarBerryPi - Tactical Exploitation.
+
+URL: https://github.com/pi-hole/pi-hole
+Description: A black hole for Internet advertisements (designed for RPi).
+
+URL: https://gist.github.com/sourceincite/985fd1476b7e1623cdbf7e22f3cc42e8
+Description: MS Office - FSupportSAEXTChar() Use After Free RCE (CVE-2016-0140).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://goo.gl/HgflG6 (+)
+Description: Leveraging Splunk Admin Credentials to Own the Enterprise.
+
+URL: https://gist.github.com/rygorous/e0f055bfb74e3d5f0af20690759de5a7
+Description: A bit of background on compilers exploiting signed overflow.
+
+URL: http://incolumitas.com/2016/06/08/typosquatting-package-managers/
+Description: Typosquatting programming language package managers.
+
+URL: http://marcoramilli.blogspot.pt/2016/03/recovering-files-from-brand-new.html
+Description: Recovering Files From Brand New Crypt0l0cker.
+
+URL: http://www.deependresearch.org/2016/04/jboss-exploits-view-from-victim.html
+Description: JBoss exploits - View from a Victim.
+
+URL: http://www.debuginfo.com/articles/easywindbg.html
+Description: WinDbg the easy way.
+
+URL: https://vagmour.eu/why-resolving-to-internal-ips-really-hurts/
+Description: Facebook and Aol internal ip disclosure that really hurts.
+
+URL: http://oalmanna.blogspot.pt/2016/03/startssl-domain-validation.html
+Description: StartSSL Domain validation (AppSec 101).
+
+URL: http://www.0verl0ad.net/2016/03/bypassing-disablefunctions-y.html
+Description: Bypassing disable_functions and open_basedir in PHP.
+
+URL: https://datavibe.net/~sneak/20141023/wtf-icloud/
+Description: iCloud Uploads Local Data Outside of iCloud Drive (Oldies).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://evertpot.com/PHP-Sucks/
+Description: PHP Sucks.
+
+URL: https://blog.benjojo.co.uk/post/ssh-port-fluxing-with-totp
+Description: TOTP SSH port fluxing.
+
+URL: https://gist.github.com/graceavery/01ec404e555571a4a668c271c8f62e8b
+Description: Bash aliases for Harry Potter enthusiasts.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?736ccc73c77cfd1d#pe7D1ahQK9IrWvUypwV8wc+Val1K97btnHwcxnKIBiM=
