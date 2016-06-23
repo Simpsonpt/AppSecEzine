@@ -51,6 +51,7 @@ URL: http://www.shelliscoming.com/2016/04/pazuzu-reflective-dll-to-run-binaries.
 Description: Pazuzu - reflective DLL to run binaries from memory.
 
 URL: https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Invoke-MS16-032.ps1
+MSF Module: https://github.com/khr0x40sh/metasploit-modules/blob/master/local/
 Description: MS16-032 implemented in PowerShell.
 
 URL: https://github.com/gdbinit/mach_race
