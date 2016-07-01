@@ -1,0 +1,125 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 26 | Month: July | Year: 2016 | Release Date: 01/07/2016 | Edition: #124   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/j0Efzh (+)
+Description: Uber Hacking! 
+
+URL: https://hackerone.com/reports/137229
+Description: Dropbox apps Server side request forgery (Lovely Features).
+
+URL: http://d3adend.org/blog/?p=722
+Description: React Native Development RCE and RFD.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/RUB-NDS/TLS-Attacker
+Description: TLS-Attacker is a Java-based framework for analyzing TLS libraries.
+
+URL: https://github.com/bcoles/ssrf_proxy
+Description: SSRF Proxy (tunneling HTTP via vulnerable servers to SSRF).
+
+URL: http://jerrygamblin.com/2016/05/31/kalibrowser/
+Description: KaliBrowser (Docker+Kali+Web).
+
+URL: https://github.com/EnableSecurity/advisories/tree/master/ES2016-01-liferay-xxe
+Description: XML External Entity (XXE) vulnerability in OpenID component of Liferay.
+
+URL: http://blog.knownsec.com/2016/06/php-5-4-34-unserialize-uaf-exploit/
+Description: PHP 5.4.34 unserialize UAF exploit (CVE-2014-8142).
+
+URL: https://github.com/carloop/simulator
+Description: CAN bus simulator on the Rasperry Pi.
+
+URL: https://github.com/rabbitstack/fibratus
+Description: Tool for exploration and tracing of the Windows kernel.
+
+URL: https://github.com/BinaryAnalysisPlatform/qira
+Description: QEMU Interactive Runtime Analyser.
+
+URL: https://github.com/aurel26/wer-server
+Description: WER Server (Corporate Error Reporting (CER) protocol for Windows).
+
+URL: https://bitbucket.org/iwseclabs/gunpack/
+Description: Application Reverse Tool.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/v8UgSQ (+)
+Description: IPv6 Hardening Guide for Windows Servers.
+
+URL: http://www.cosc.canterbury.ac.nz/research/reports/HonsReps/2015/hons_1504.pdf
+Description: Applying Bytecode Lvl Auto Exploit Generation to Embedded Systems.
+
+URL: https://goo.gl/cr8pg6 (+)
+Description: Hacking the JavaScript Lottery.
+
+URL: http://www.secalert.net/2013/12/13/ebay-remote-code-execution/
+Description: eBay - Remote Code Execution.
+
+URL: http://netanelrub.in/2016/05/17/magento-unauthenticated-remote-code-execution/
+PoC: https://www.exploit-db.com/exploits/39838/
+Description: Magento – Unauthenticated Remote Code Execution (CVE-2016-4010).
+
+URL: https://webtransparency.cs.princeton.edu/webcensus/index.html#
+More: https://www.chromium.org/Home/chromium-security/client-identification-mechanisms
+Description: The Long Tail of Online Tracking.
+
+URL: https://github.com/nonce-disrespect/nonce-disrespect
+Description: Nonce-Disrespecting Adversaries - Practical Forgery Attacks on GCM (TLS). 
+
+URL: http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/
+Description: Practical Reverse Engineering Part 1 - Hunting for Debug Ports.
+
+URL: http://goo.gl/2FEOPl (+)
+Description: Breaking Cerber strings obfuscation with Python and radare2.
+
+URL: https://blog.cylance.com/compromising-an-entire-julia-cluster
+Description: Compromising an Entire Julia Cluster.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/jswanner/DontFuckWithPaste
+Description: Google Chrome extension that prevents the blocking of pasting.
+
+URL: http://irq5.io/2016/06/22/designing-the-x-ctf-2016-badge/
+Description: Designing the X-CTF 2016 Badge.
+
+URL: https://blog.benjojo.co.uk/post/cheap-hdmi-capture-for-linux
+Description: Ludicrously cheap HDMI capture for Linux.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?a8f79cc0c2338f02#sMJySPHOeB5tuSMCVMFmC3AsBuwT13ZUDfXp6w4bndw=
