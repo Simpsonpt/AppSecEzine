@@ -1,0 +1,123 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 27 | Month: July | Year: 2016 | Release Date: 08/07/2016 | Edition: #125   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://luc10.github.io/onedrive-an-easter-egg-into-ms-library/
+Description: OneDrive - an easter egg into MS library - XSS on Microsoft and not only.
+
+URL: http://blog.bentkowski.info/2016/07/xss-es-in-google-caja.html
+Description: XSS-es in Google Caja.
+
+URL: https://hackerone.com/reports/131450
+Description: Stored XSS in developer.uber(dot)com.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/mandatoryprogrammer/xsshunter
+Description: The XSS Hunter service - a portable version of XSSHunter.com.
+
+URL: https://alexaltea.github.io/hasher/
+Description: Automatic detection of hashing algorithms.
+
+URL: http://pentestmonkey.net/blog/ssh-with-no-tty
+Description: Using SSH without a TTY.
+
+URL: https://github.com/infobyte/evilgrade
+Description: Evilgrade (Oldies).
+
+URL: https://github.com/smicallef/spiderfoot
+Description: SpiderFoot - Open source footprinting and intelligence-gathering tool. 
+
+URL: https://modexp.wordpress.com/2016/06/04/winux/
+Description: Shellcode - Execute command for x32/x64 Linux/Windows/BSD.
+
+URL: http://srcincite.io/advisories/src-2016-22/
+Description: MS Office Component FSupportSAEXTChar() - Use-After-Free RCE (CVE-2016-0140).
+
+URL: http://onready.me/old_horse_attacks.html
+Description: Embedding reverse shell in .lnk file or Old horse attacks.
+
+URL: https://github.com/emposha/Shell-Detector
+Description: Tool that helps you find and identify php/cgi(perl)/asp/aspx shells.
+
+URL: https://gist.github.com/mattifestation/97ceccd93133c7a1d39a1661922fe545
+Description: Credential stealing proxy function for Get-Credential.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blogs.securiteam.com/index.php/archives/2701
+Description: Wget Arbitrary Commands Execution.
+
+URL: https://goo.gl/5iX4at (+)
+Description: Server-Side Request Forgery Takes Advantage of Vulnerable App Servers.
+
+URL: http://justhaifei1.blogspot.pt/2015/10/watch-your-downloads-risk-of-auto.html
+Description: "Auto-Download" feature on MS Edge and Google Chrome (DLL-Preload).
+
+URL: http://goo.gl/hrhPSo (+)
+Description: Practical use of JS and COM Scriptlets for Penetration Testing.
+
+URL: https://github.com/ukanth/afwall/wiki/Kernel-security
+Description: Android Kernel Security Reference.
+
+URL: http://infoseczone.net/mssql-union-based-injection-step-step/
+Description: MSSQL Union Based Injection Step By Step (101).
+
+URL: http://blog.gosecure.ca/2016/05/26/detecting-hidden-backdoors-in-php-opcache/
+Description: Detecting Hidden Backdoors in PHP OPcache.
+
+URL: https://blog.bugcrowd.com/discovering-subdomains
+Description: Discovering Subdomains.
+
+URL: http://marcoramilli.blogspot.pt/2016/05/process-hollowing.html
+Description: Process Hollowing.
+
+URL: https://auth0.com/blog/2016/05/31/cookies-vs-tokens-definitive-guide
+Description: Cookies vs Tokens - The Definitive Guide.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://blog.filippo.io/securing-a-travel-iphone/
+Description: Securing a travel iPhone.
+
+URL: https://github.com/BlastarIndia/msdos/tree/master/v11source
+Description: MS-DOS Source Code 1.X and 2.0.
+
+URL: https://github.com/hamidreza-s/NanoChat
+Description: A P2P/E2E encrypted and discoverable chat App on top of nanomsg lib.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?4b0943e11108c826#+miT75q4d5BPYIPj5JFUm5LziSR2bL5E0C5WeW8v5Qk=
