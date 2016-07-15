@@ -1,0 +1,124 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 28 | Month: July | Year: 2016 | Release Date: 15/07/2016 | Edition: #126   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://blog.innerht.ml/rpo-gadgets/
+Description: RPO Gadgets.
+
+URL: https://www.josipfranjkovic.com/blog/race-conditions-on-web
+Description: Race conditions on the web.
+
+URL: http://jasminderpalsingh.info/single.php?p=87
+Description: Exploiting Google Clickjacking Vulnerability (simple but effective).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://labs.mwrinfosecurity.com/tools/pivot-with-ping/
+Description: ICMPTunnel - Pivot with Ping.
+
+URL: https://hub.docker.com/r/jgamblin/tiny-tor/
+Description: Tiny TOR Socks Proxy Container.
+
+URL: https://github.com/square/certigo
+Description: Examine and validate certificates in a variety of formats.
+
+URL: https://github.com/srcclr/commit-watcher/
+Description: Find interesting and potentially hazardous commits in git projects.
+
+URL: https://github.com/raptIRJuan/RecentDocsMRU
+Description: Tool to parse RecentDocs key and its subkeys in a NTUSER.dat file.
+
+URL: https://github.com/apuigsech/seekret
+Description: Go library and command line to seek for secrets on various sources.
+
+URL: https://pastebin.com/raw/CC6UPcbZ
+Description: Flash Fuzzer.
+
+URL: https://github.com/Danladi/HttpPwnly
+Description: "Repeater" style XSS post-exploitation tool for mass browser control.
+
+URL: http://pastebin.com/hVx08e6U
+Description: Cryptoshocker Ransomware key generation.
+
+URL: https://github.com/java-deobfuscator/deobfuscator
+Description: All-in-one Java deobfuscator.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://danielgrzelak.com/backdooring-an-aws-account-da007d36f8f9
+Description: Backdooring an AWS account.
+
+URL: http://goo.gl/s9tfxL (+)
+Description: Hacking an IP camera (Grandstream GXV3611_HD).
+
+URL: http://scottgriffy.com/blogs/rat-in-the-shellcode.html
+Description: Rat in the Shellcode.
+
+URL: https://itsjack.cc/blog/2016/05/poor-mans-malware-hawkeye-keylogger-reborn/
+Description: Poor Mans Malware – HawkEye Keylogger Reborn.
+
+URL: https://goo.gl/fFR7Gg (+)
+Description: APT Groups and Operations.
+
+URL: http://drops.wooyun.org/tips/16381
+Description: Visual Studio trick to run code when building.
+
+URL: https://www.pentestpartners.com/blog/hacking-the-mitsubishi-outlander-phev-hybrid-suv
+Description: Hacking the Mitsubishi Outlander PHEV hybrid.
+
+URL: https://hackerone.com/reports/136531
+Description: Compromising Atlassian Confluence via WordPress.
+
+URL: https://notehub.org/5zo2v
+Description: Breaking into a WP without knowing WP/PHP or Infosec at all (or not).
+
+URL: http://haxx.ml/post/142844845111/hacking-mattermost-from-unauthenticated-to-system
+More: http://haxx.ml/post/145508617751/hacking-mattermost-2-year-of-nodejs-on-the
+Description: Hacking Mattermost.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.youtube.com/watch?v=jOyfZex7B3E
+Description: Sega Saturn CD - Cracked after 20 years.
+
+URL: https://github.com/kristovatlas/osx-config-check
+Description: Verify the configuration of your OS X machine.
+
+URL: https://www.anfractuosity.com/projects/cditter/
+Description: CDitter – CD-ROM drive based data exfiltration.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?d9db49cb297e26ff#uF6e+Us0kbFA13o8t7Br9hTRh8p2n1Nbrp2CuM7eO4w=
