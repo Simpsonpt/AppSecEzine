@@ -1,0 +1,124 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 29 | Month: July | Year: 2016 | Release Date: 22/07/2016 | Edition: #127   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://abdullah-iq.blogspot.pt/2016/06/medium-full-account-takeover.html
+Description: Medium Full account takeover.
+
+URL: http://mksben.l0.cm/2016/07/xxn-caret.html
+Description: Abusing XSS Filter - One ^ leads to XSS (CVE-2016-3212).
+
+URL: https://www.josipfranjkovic.com/blog/hacking-facebook-csrf-device-login-flow
+Description: Stealing Facebook access_tokens using CSRF in device login flow.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/glv2/bruteforce-wallet
+Description: Try to find the password of an encrypted wallet file.
+
+URL: https://github.com/shawarkhanethicalhacker/BruteXSS
+Description: BruteXSS - Cross-Site Scripting Bruteforcer.
+
+URL: https://github.com/agustingianni/Utilities#dumpfunctionbytespy
+Description: From "IDA" to C++ Plugin. 
+
+URL: https://github.com/codertimo/Ransomware
+Description: Java-based ransomware virus Encryptor and Decrypter.
+
+URL: https://github.com/Sogomn/Ratty
+Description: A Java remote administration tool.
+
+URL: https://github.com/trustedsec/unicorn
+Description: PowerShell downgrade attack and exploitation tool.
+
+URL: https://gist.github.com/mattifestation/5d1565348d71b54ad02c44a5b94839f8
+Description: Enumerates WMI, DLLs and the classes hosted by the provider.
+
+URL: https://github.com/CENSUS/shadow
+Description: Firefox/jemalloc heap exploitation swiss army knife.
+
+URL: https://github.com/frewsxcv/afl.rs
+Description: Fuzzing Rust code with american-fuzzy-lop.
+
+URL: https://github.com/4B5F5F4B/PoCs/blob/master/CVE-2016-1649
+Description: Lokihardt's libangle bug (CVE-2016-1649).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://goo.gl/HYUocq (+)
+Report: http://permalink.gmane.org/gmane.comp.security.oss.general/19669
+Description: ImageMagick popen_utf8 Command Injection Vulnerability.
+
+URL: http://goo.gl/CZ1Sii (+)
+Description: Ruby on Rails vulnerability commentary (CVE-2016-2098).
+
+URL: http://www.shellntel.com/blog/2016/6/7/weaponizing-nessus
+Description: Weaponizing Nessus.
+
+URL: https://habrahabr.ru/post/281374/
+Description: Standard Library Visual Studio 2015 and telemetry (Hackish from MS).
+
+URL: https://goo.gl/OnyUTd (+)
+Description: ASUS UEFI Update Driver Physical Memory Read/Write.
+
+URL: https://thusoy.com/2016/mitming-postgres
+Description: MitM-ing Postgres.
+
+URL: https://chloe.re/2016/06/16/badonions/
+Description: Smart detection for passive sniffing in the Tor-network.
+
+URL: http://blog.gdssecurity.com/labs/2016/6/13/email-injection.html
+Description: Email Injection.
+
+URL: https://toschprod.wordpress.com/2012/01/31/mitm-4-arp-spoofing-exploit/
+Description: ARP spoofing 101 using Scapy.
+
+URL: https://github.com/d3f4ultt/PrincesOfPaypal
+Description: A security write-up about the Paypal API & data leakage.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/ccrisan/motioneyeos
+Description: A Video Surveillance OS For Single-board Computers.
+
+URL: https://0x41.no/mr-robot-s02e01-easter-egg/
+Description: Mr Robot S02E01 easter egg.
+
+URL: https://github.com/chrislgarry/Apollo-11/
+Description: Original Apollo 11 Guidance Computer (AGC) source code.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?4507b6d3019eb541#D/ps/1RmICiFG4ZYmHVKjfFGpwW5vl3VotQkh5RsW30=
