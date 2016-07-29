@@ -1,0 +1,124 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 30 | Month: July | Year: 2016 | Release Date: 29/07/2016 | Edition: #128   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://httpoxy.org/
+PoC: https://github.com/httpoxy/php-fpm-httpoxy-poc
+Description: A CGI application vulnerability for PHP, Go, Python and others.
+
+URL: https://goo.gl/SSHshf (+)
+Description: How I Could Steal Money from Instagram, Google and Microsoft.
+
+URL: https://www.evonide.com/how-we-broke-php-hacked-pornhub-and-earned-20000-dollar/
+Descritpion: How we broke PHP, hacked Pornhub and earned 20.000$.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://www.binsim.com/
+Description: Esh - Statistical Similarity of Binaries.
+
+URL: https://github.com/withdk/badusb2-mitm-poc
+Description: BadUSB 2.0 USB-HID MiTM PoC.
+
+URL: https://goo.gl/K7f9kF (+)
+Description: CVE-2016-5134 Chrome Firefox WPAD.
+
+URL: https://github.com/elfmaster/sherlocked
+Description: Universal Script Packer (Script -> Protected ELF Executable).
+
+URL: http://www.andreybazhan.com/dbgkit.html
+Description: DbgKit is the first GUI extension for Debugging Tools for Windows.
+
+URL: https://github.com/dvolvox/PyWebinspect
+Description: Python module for HP Security WebInspect DAST.
+
+URL: http://www.halfdog.net/Security/2016/DebianEximSpoolLocalRoot/EximUpgrade.c
+Description: Exim Local Root Exploit.
+
+URL: https://subt0x10.blogspot.pt/2016/06/what-you-probably-didnt-know-about.html
+Description: What you probably didn't know about regsvr32.exe .
+
+URL: https://github.com/mit-ll/LL-Fuzzer
+Description: An automated NFC fuzzing framework for Android devices.
+
+URL: https://github.com/gdabah/distormx
+Description: The ultimate hooking library.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.zsec.uk/csv-dangers-mitigations/
+Description: CSV Injection Revisited - Making Things More Dangerious(and fun).
+
+URL: http://moyix.blogspot.pt/2016/07/fuzzing-with-afl-is-an-art.html
+Description: Fuzzing with AFL is an Art.
+
+URL: http://home.arcor.de/skanthak/sentinel.html
+Description: DLL hijacking (Oldies).
+
+URL: http://goo.gl/umnWPN (+)
+Description: The Story of yet another ransom-fail-ware.
+
+URL: https://goo.gl/gqeJyL (+)
+Description: How I can gain control of your TP-LINK home switch.
+
+URL: http://xlab.tencent.com/en/2016/06/17/BadTunnel-A-New-Hope/
+Description: Hijack TCP/IP broadcast protocol across different network segment.
+
+URL: https://en.blog.nic.cz/2016/06/13/dnssec-signing-with-knot-dns-and-yubikey/
+Description: DNSSEC signing with Knot DNS and YubiKey.
+
+URL: https://agrrrdog.blogspot.pt/2016/06/remote-detection-of-users-av-via-flash.html
+Description: Remote detection of a user's AV using Flash (Not 100% Working but...).
+
+URL: https://goo.gl/yVrOhP (+)
+Description: From ROP to LOP bypassing Control FLow Enforcement.
+
+URL: https://alexgaynor.net/2016/mar/14/anatomy-of-a-crypto-vulnerability/
+Description: Anatomy of a Crypto Vulnerability.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://bugbounty.fail/
+Description: A collection of the weirdest and funniest bug bounty reports out there.
+
+URL: https://banmeihack.wordpress.com/2016/07/27/hacking-pokemon-into-candy-crush/
+Description: Hacking Pokemon into Candy Crush.
+
+URL: https://github.com/iCepa/iCepa
+Description: iOS system-wide VPN based Tor client.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?2a245d298a3c2fd5#bJsD0f5egB9EGRSzfJD6RxRBGqm3MUvZlGnUwd4lEVg=
