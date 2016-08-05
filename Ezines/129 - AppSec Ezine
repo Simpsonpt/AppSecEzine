@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 31 | Month: August | Year: 2016 | Release Date: 05/08/2016 | Edition: #129  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://akat1.pl/?id=2
+Description: Spawn your shell like it's 90s again!
+
+URL: http://www.gattack.io/
+Description: Gattacking Bluetooth Smart Devices.
+
+URL: https://ericrafaloff.com/client-side-redis-attack-poc/
+PoC: http://ericrafaloff.com/static/client-side-redis-poc.html
+Description: Client-Side Redis Attack PoC.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/epinna/tplmap
+Description: Automatic Server-Side Template Injection Detection and Exploitation Tool.
+
+URL: https://github.com/rajeshmajumdar/xploit
+Description: An automated Python + Ruby based XXE Exploiter (GUI + CLI).
+
+URL: https://github.com/CIRCL/PyCIRCLeanMail
+Description: Standalone CIRCLean/KittenGroomer code to sanitize emails.
+
+URL: https://github.com/quarkslab/binmap
+Description: System scanner looking for programs and libs to gather dependencies, symbols,... .
+
+URL: https://gitlab.com/litm/redirect/tree/master
+Description: 'old' ICMP redirect attack (live again).
+
+URL: https://github.com/ron190/jsql-injection
+Description: jSQL Injection is a Java application for automatic SQL database injection.
+
+URL: https://github.com/ampotos/dynStruct
+Description: Reverse engineering tool for structure recovering and memory usage analysis.
+
+URL: https://github.com/ricardojrdez/anti-analysis-tricks
+Description: Bunch of techniques used by malware to detect analysis environments.
+
+URL: https://github.com/skylot/jadx
+Description: Dex to Java decompiler.
+
+URL: https://github.com/AlicanAkyol/sems
+Description: Anti-Sandbox and Anti-Virtual Machine Tool.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/78WtUr (+)
+PoC: https://github.com/matthiaskaiser/jmet
+Description: Pwning Your Java Messaging With Deserialization Vulnerabilities.
+
+URL: https://shubs.io/high-frequency-security-bug-hunting-120-days-120-bugs/
+Description: High frequency security bug hunting: 120 days, 120 bugs.
+
+URL: http://theori.io/research/jscript9_typed_array
+Description: Patch Analysis of MS16-063 (jscript9.dll).
+
+URL: http://goo.gl/ThDhM8 (+)
+Description: ZigBee Packet Capture Analysis Using ZBAanalyzer.
+
+URL: https://reverse.put.as/2016/06/25/apple-efi-firmware-passwords-and-the-scbo-myth/
+Description: Apple EFI firmware passwords and the SCBO myth.
+
+URL: http://xlab.tencent.com/badbarcode/
+Description: BadBarcode Vulnerability.
+
+URL: https://research.g0blin.co.uk/xss-and-wordpress-the-aftermath/
+Description: XSS and WordPress – The Aftermath.
+
+URL: https://bazad.github.io/2016/05/mac-os-x-use-after-free/
+Description: Mac OS X Privilege Escalation via Use-After-Free (CVE-2016-1828).
+
+URL: http://blog.cr4.sh/2016/06/exploring-and-exploiting-lenovo.html
+PoC: https://github.com/Cr4sh/ThinkPwn
+Description: Exploring and exploiting Lenovo firmware secrets.
+
+URL: https://suchakra.wordpress.com/2016/07/03/unravelling-code-injection-in-binaries/
+Description: Unravelling Code Injection in Binaries.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://magoo.github.io/Blockchain-Graveyard/
+Description: Blockchain Graveyard.
+
+URL: https://github.com/trailofbits/algo
+Description: 1-click IPSEC VPN in the Cloud.
+
+URL: https://zwischenzugs.wordpress.com/2016/04/12/hitler-uses-docker-annotated/
+Description: Hitler Uses Docker, Annotated.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?b6baa8502c8a8dac#oZDEE0P+CkOHs3BCeTyIxCoJjlLZu+/S11OjHaOL/js=
