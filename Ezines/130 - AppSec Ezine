@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 32 | Month: August | Year: 2016 | Release Date: 12/08/2016 | Edition: #130  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/G3rxy2 (+)
+Description: Updating the Paypal.me profile picture without consent (CSRF attack).
+
+URL: https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/
+Description: Twitter's Vine Source code dump.
+
+URL: https://bugs.chromium.org/p/project-zero/issues/detail?id=884 
+More: https://labs.detectify.com/2016/07/27/how-i-made-lastpass-give-me-all-your-passwords
+Description: LastPass Several Security Issues.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://labs.nettitude.com/tools/poshc2/
+Tool: https://github.com/Nettitude/PoshC2
+Description: Powershell C2 Server and Implants.
+
+URL: https://github.com/CIFASIS/nosy-newt
+Description: Concolic execution tool for exploring the input space of a binary.
+
+URL: https://github.com/rodrigoalvesvieira/SoundKeylogger
+Description: Sound Key Logger (experimental project).
+
+URL: https://github.com/ivanfratric/winafl
+Description: A fork of AFL for fuzzing Windows binaries.
+
+URL: https://github.com/misterch0c/firminator_backend
+Description: The first open source vulnerability scanner for firmwares.
+
+URL: https://benmmurphy.github.io/blog/2016/07/11/rails-webconsole-dns-rebinding/
+Description: Rails Webconsole DNS Rebinding.
+
+URL: https://github.com/blankwall/MacHeap
+Description: OS X malloc introspection tool.
+
+URL: https://github.com/fgrimme/Matroschka
+Description: Python steganography tool to hide images or text in images.
+
+URL: http://www.forceprojectx.com/services/apps/memory_dumper
+Description: Swf and Unity Memory Dumper.
+
+URL: http://www.nyxbone.com/malware/odcodc.html
+Description: Trojan/Ransomware ODCODC (.odcodc) Decoder.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://deadcode.me/blog/2016/07/01/UPC-UBEE-EVW3226-WPA2-Reversing.html
+PoC: https://github.com/yolosec/upcgen
+Description: UPC UBEE EVW3226 WPA2 Password Reverse Engineering.
+
+URL: https://goo.gl/RwShjR (+)
+Description: Intercepting DLL libraries calls, API hooking in practice.
+
+URL: https://goo.gl/Cfzilu (+)
+Description: Jenkins Remoting RCE II – The return of the ysoserial.
+
+URL: https://github.com/secfigo/Awesome-Fuzzing
+Description: A curated list of fuzzing resources.
+
+URL: https://goo.gl/VpRb9R (+)
+Description: Decrypt/Extract NitroKey HSM/SmartCard-HSM RSA private keys.
+
+URL: http://anee.me/reversing-an-elf/
+Description: Reversing an ELF from the ground up.
+
+URL: https://kjaer.io/extension-malware/
+Description: Malware in the browser, hacked by a Chrome extension.
+
+URL: https://premium.wpmudev.org/blog/xml-rpc-wordpress/
+Description: XML-RPC and Why It’s Time to Remove it for WordPress Security.
+
+URL: http://theori.io/research/cve-2016-0189
+PoC: https://gist.github.com/worawit/1213febe36aa8331e092
+Description: CVE-2016-0189 (IE Scripting Engine Memory Corruption Vulnerability).
+
+URL: https://0x90909090.blogspot.pt/2016/07/analyzing-zip-with-wsf-file-inside.html
+Description: Analyzing zip with .wsf file inside.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://smealum.github.io/3ds/
+Description: The Homebrew Launcher - 3DS.
+
+URL: https://github.com/vvviperrr/SimpleRT
+Description: Simple Reverse Tethering for Android.
+
+URL: https://github.com/sobolevn/git-secret
+Description: A bash-tool to store your private data inside a git repository.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?8291a4b101320b10#8o4ftblzxLr3fSSXDm7iHQPnipp+ZfbN2sCD4DMW/A8=
