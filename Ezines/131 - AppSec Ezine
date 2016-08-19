@@ -1,0 +1,125 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 33 | Month: August | Year: 2016 | Release Date: 19/08/2016 | Edition: #131  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://goo.gl/9drpjq (+)
+Description: JetBrains IDE Remote Code Execution and Local File Disclosure.
+
+URL: https://introvertmac.wordpress.com/2016/07/30/hacking-google-for-fun-and-profit/
+Description: Hacking Google for fun and profit (Firebase XSS).
+
+URL: http://www.martinvigo.com/steal-2999-99-minute-venmo-siri/
+Description: How to steal $2,999.99 in less than 2 minutes with Venmo and Siri.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/riusksk/rp
+Description: ROP finder sequences in PE/Elf/Mach-O x86/x64 binaries.
+
+URL: https://warroom.securestate.com/bypassing-gmails-malicious-macro-signatures/
+Description: Bypassing Gmail's Malicious Macro Signatures.
+
+URL: https://github.com/Owlz/pyThaw
+Description: Python Application to Reverse Freezing.
+
+URL: https://github.com/NetSPI/PowerUpSQL
+Description: A PowerShell Toolkit for Attacking SQL Server.
+
+URL: https://github.com/woanware/LogViewer
+Description: LogViewer for viewing and searching large text files.
+
+URL: https://hackerone.com/reports/131202
+Description: Steal OAuth Tokens (Twitter Bug).
+
+URL: https://www.npmjs.com/package/btlejuice
+Description: Bluetooth Low-Energy spoofing and MitM framework.
+
+URL: https://github.com/katjahahn/PortEx
+Description: Java library to analyse PE files.
+
+URL: https://github.com/wbenny/mini-tor
+Description: PoC implementation of tor protocol using Microsoft CryptoAPI.
+
+URL: https://github.com/billziss-gh/winfsp
+Description: WinFsp - Windows File System Proxy.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://www.contextis.com/resources/blog/attacks-https-malicious-pac-files/
+PoC: https://github.com/ctxis/pac-leak-demo
+Description: Attacks on HTTPS via malicious PAC files - Toxic Proxies
+
+URL: http://goo.gl/dh9UDb (+)
+Description: Google Chrome, Firefox Address Bar Spoofing Vulnerability.
+
+URL: https://www.sensepost.com/blog/2016/universal-serial-abuse/
+PoC: https://github.com/sensepost/USaBUSe
+Description: Universal Serial aBUSe.
+
+URL: https://rol.im/securegoldenkeyboot/
+Description: Secure Golden Key Boot (MS16-094/CVE-2016-3287 and MS16-100/CVE-2016-3320).
+
+URL: https://goo.gl/Tn22Hq (+)
+Description: Time To Patch - RCE on Meinberg NTP Time Server.
+
+URL: https://gist.github.com/cure53/521c12e249478c1c50914b3b41d8a750
+Description: The Scriptless Scriptlet.
+
+URL: http://goo.gl/9z1NXK (+)
+Description: Own a printer, own a network with point and print drive-by.
+
+URL: https://gist.github.com/Kopachris/b8bb1de2cada4fdde88666e018167926
+Description: Reverse-engineering statistics commands for JCM bill validators.
+
+URL: https://gist.github.com/anonymous/e48209b03f1dd9625a992717e7b89c4f
+Description: Non-Cryptanalytic attacks against FreeBSD update components.
+
+URL: http://blog.deniable.org/blog/2016/08/09/cracking-orcus-rat/
+Description: Cracking Orcus RAT.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://dnstun.com/
+Description: Public DNS/ICMP Tunnelling Service.
+
+URL: https://github.com/roothaxor/Windows
+Description: Windows One Line Commands to make life easy.
+
+URL: https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
+Description: Writing a Simple Operating System — from Scratch.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?f757a9adf7b32fa0#NTE22ezXpKLQXCeFEsRVFHkUqGMNKEpoHR4Yae7Q7bc=
