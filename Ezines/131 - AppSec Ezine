@@ -48,6 +48,7 @@ URL: https://hackerone.com/reports/131202
 Description: Steal OAuth Tokens (Twitter Bug).
 
 URL: https://www.npmjs.com/package/btlejuice
+Source: https://github.com/DigitalSecurity/btlejuice/
 Description: Bluetooth Low-Energy spoofing and MitM framework.
 
 URL: https://github.com/katjahahn/PortEx
