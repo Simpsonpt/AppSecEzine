@@ -1,0 +1,122 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 35 | Month: September | Year: 2016 | Release Date: 02/09/2016 | Edition: #133 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://www.paulosyibelo.com/2016/08/instagram-stored-oauth-xss.html
+Description: Instagram Stored OAuth XSS.
+
+URL: https://httpsonly.blogspot.pt/2016/08/turning-self-xss-into-good-xss-v2.html
+Description: Turning Self-XSS into Good XSS v2.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://c0nradsc0rner.wordpress.com/2016/07/06/cookie-shadow-path-injection/
+Description: Cookie Shadow Path Injection.
+
+URL: https://averagesecurityguy.github.io/2016/04/21/cracking-mongodb-passwords/
+Description: Cracking MongoDB Passwords.
+
+URL: https://github.com/andrewaeva/gobotnet
+Description: Golang Botnet.
+
+URL: http://legalhackers.com/advisories/vBulletin-SSRF-Vulnerability-Exploit.txt
+Description: vBulletin SSRF Vulnerability (CVE-2016-6483).
+
+URL: https://github.com/sgayou/kindle-5.6.5-jailbreak
+Description: Kindle 5.6.5 exploitation tools.
+
+URL: https://hackerone.com/reports/131210
+Description: Priv. Escalation to access all private groups and repos (GitLab <8.6.9).
+
+URL: https://github.com/RUB-NDS/MS-RMS-Attacks
+Description: Breaking the security of Microsoft's RMS.
+
+URL: https://github.com/Screetsec/TheFatRat
+Description: Backdoor generator with msfvenom and more.
+
+URL: https://github.com/Seba0691/PINdemonium
+Description: A pintool in order to unpack malware.
+
+URL: https://github.com/hugsy/gef
+Description: Multi-Architecture GDB Enhanced Features.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://sh3ifu.com/Breaking-The-Great-Wall-Of-Web-Rafay-Baloch.pdf
+Description: Breaking the great walll of web.
+
+URL: https://ret2libc.wordpress.com/2016/04/04/analysing-swf-files-for-vulnerabilities/
+More: https://olivierbeg.com/finding-xss-vulnerabilities-in-flash-files/
+Description: Analysing SWF files for vulnerabilities.
+
+URL: http://goo.gl/rP8BTW (+)
+Description: Shut up snitch! RE and exploiting Little Snitch.
+
+URL: https://github.com/NoviceLive/research-rootkit
+Description: LibZeroEvil and the Research Rootkit project.
+
+URL: http://goo.gl/KlikSg (+)
+Description: Reverse Engineering a Malicious MS Word Document.
+
+URL: https://www.evonide.com/how-we-broke-php-hacked-pornhub-and-earned-20000-dollar/
+Description: Fuzzing PHP Unserialize.
+
+URL: http://goo.gl/D91R2U (+)
+Description: WindowServer - The privilege chameleon on macOS.
+
+URL: https://hackerone.com/reports/151058
+Description: Shopify - Stealing livechat token and using it to chat as the user.
+
+URL: http://www.exploit-monday.com/2016/07/Win10IoTCore-Build14393-EoP.html
+PoC: https://gist.github.com/mattifestation/6955e1dffa0b0f494d89cf6588eb7c0c
+Description: Misconfigured Service ACL Elevation of Privilege Vulnerability in Win10.
+
+URL: https://chloe.re/2016/07/25/bypassing-paths-with-open-redirects-in-csp/
+Description: Bypassing paths in CSP with open redirects + mitigation.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://pixelat.ion.land/
+Description: Pixelation Land.
+
+URL: https://github.com/charcole/LCDZapper/
+Description: Device for making light gun games playable on LCD TVs.
+
+URL: https://github.com/TheOfficialFloW/VitaShell/
+Description: VitaShell is a file manager for PS Vita HENkaku.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?ceea439a4cde9367#m4AKzz0NyQwUskuNUNhmEhEMTmMOdaoLzzfX8mMpJU4=
