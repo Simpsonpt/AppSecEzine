@@ -1,0 +1,124 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 36 | Month: September | Year: 2016 | Release Date: 09/09/2016 | Edition: #134 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bouk.co/blog/hacking-developers/
+PoC: https://github.com/bouk/extractdata
+Description: How to steal any developer's local database.
+
+URL: https://room362.com/post/2016/snagging-creds-from-locked-machines/
+Description: Snagging creds from locked machines.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ScorchSecurity/systorm
+Description: NASM Standard Library for shellcode.
+
+URL: http://goo.gl/x6TVjl (+)
+Description: Trend Micro Deep Discovery hotfix_upload.cgi filename RCE (CVE-2016-5840).
+
+URL: http://goo.gl/pYL8eZ (+)
+Description: Trend Micro InterScan Web Security ManagePatches filename RCE (ZDI-16-348).
+
+URL: https://github.com/rcvalle/vmmfuzzer
+Description: A hypervisor or virtual machine monitor (VMM) fuzzer.
+
+URL: https://github.com/nccgroup/ABPTTS
+Description: TCP tunneling over HTTP/HTTPS for web application servers.
+
+URL: https://github.com/r00tkillah/HORSEPILL
+Description: Linux Rootkit (BH16 - PoC of a ramdisk based containerizing Linux rootkit).
+
+URL: https://github.com/SafeBreach-Labs/pacdoor
+Description: PoC JavaScript malware implemented as a Proxy Auto-Configuration (PAC) File.
+
+URL: https://gist.github.com/rvrsh3ll/cc93a0e05e4f7145c9eb
+Description: Grab credentials from a running openvpn process in Linux.
+
+URL: https://github.com/p3nt4/PowerShdll
+Description: Run PowerShell with DLLs only (rundll32, PowerShdll.dll or powershdll.exe).
+
+URL: https://sumofpwn.nl/advisory/2016/ajax_load_more_local_file_inclusion_vulnerability.html
+Description: Ajax Load More Local File Inclusion vulnerability.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://goo.gl/VaK5Ts (+)
+More: https://github.com/rastapasta/pokemon-go-xposed
+Description: Reverse engineering and removing Pokémon GO’s certificate pinning.
+
+URL: https://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html
+Description: PEGASUS iOS Kernel Vulnerability Explained (CVE-2016-4656).
+
+URL: http://blog.zorinaq.com/nginx-resolver-vulns/
+Description: Nginx resolver vulnerabilities allow cache poisoning attack.
+
+URL: https://enigma0x3.net/2016/07/22/bypassing-uac-on-windows-10-using-disk-cleanup/
+Description: Bypassing UAC on Windows 10 using Disk Cleanup.
+
+URL: https://sites.utexas.edu/iso/2016/07/21/using-nodejs-to-deobfuscate-malicious-javascript/
+Description: Using NodeJS To Deobfuscate Malicious JavaScript.
+
+URL: http://www.keysniffer.net/
+Description: Security vulns affecting non-Bluetooth wireless keyboards from eight vendors.
+
+URL: https://osandamalith.com/2016/08/01/making-your-shellcode-undetectable-using-net/
+PoC: https://github.com/OsandaMalith/VBShellCode
+Description: Making your Shellcode Undetectable using .NET.
+
+URL: https://stratumsecurity.com/2010/04/26/owasp-2010-adding-it-all-up/
+Description: OWASP Top 10 (A6) in real world (SSRF Exploit).
+
+URL: http://goo.gl/AwXfpT (+)
+Description: Captain Hook - Pirating AVs to Bypass Exploit Mitigations.
+
+URL: https://lcamtuf.blogspot.com/2016/08/css-mix-blend-mode-is-bad-for-keeping.html
+PoC: http://lcamtuf.coredump.cx/whack/
+Description: CSS mix-blend-mode is bad for your browsing history.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/Nummer/Destroy-Windows-10-Spying
+Description: Destroy Windows Spying tool.
+
+URL: https://github.com/mozilla/http-observatory
+Description: Mozilla HTTP Observatory.
+
+URL: https://github.com/cnlohr/channel3
+Description: ESP8266 Analog Broadcast Television Interface.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?1b7f3927304a8b8a#XkWEvJM2axD31l63MWiCcvlnXWXrQm7H6ydSrl1cplM=
