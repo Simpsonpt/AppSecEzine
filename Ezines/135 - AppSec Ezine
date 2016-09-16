@@ -1,0 +1,123 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 37 | Month: September | Year: 2016 | Release Date: 16/09/2016 | Edition: #135 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.fletchto99.com/2016/september/asus-disclosure/
+Description: ASUS Broken API Authentication.
+
+URL: https://goo.gl/kjWNZv (+)
+Description: Reading Uber’s Internal Emails (Bug Bounty report worth $10,000).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/v3n0m-Scanner/V3n0M-Scanner
+Description: Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns.
+
+URL: https://github.com/decalage2/oletools
+Description: Python tools to analyze Microsoft OLE2 files.
+
+URL: https://blog.didierstevens.com/2016/08/12/mimikatz-golden-ticket-dcsync/
+Description: mimikatz - Golden Ticket + DCSync.
+
+URL: https://github.com/endrazine/wcc
+Slides: https://goo.gl/OYhxLC (+)
+Description: The Witchcraft Compiler Collection.
+
+URL: https://github.com/jesusprubio/bluebox-ng/
+Description: Pentesting framework using Node.js powers. Specially focused in VoIP/UC.
+
+URL: https://github.com/hashcat/kwprocessor
+Description: Keyboard-walk generator with configureable basechars, keymap and routes.
+
+URL: https://gist.github.com/chtg/bac6459587dbb79190d0a4c235901f03
+Description: PHP Session Data Injection Vulnerability.
+
+URL: https://gist.github.com/chtg/a2acf86d44315146e85b6f88f4d2b5eb
+Description: Use After Free Vulnerability in unserialize().
+
+URL: https://github.com/tihmstar/partialZipBrowser
+Description: Tool for browsing and downloading files from zip files on remote webserver.
+
+URL: https://github.com/violentshell/rover
+Extra: https://github.com/jduck/challack | https://github.com/Gnoxter/mountain_goat
+Description: Proof of Concept code for CVE-2016-5696.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://honeybadger.readthedocs.io/en/latest/
+PoC: https://github.com/david415/HoneyBadger
+Description: HoneyBadger is a TCP attack inquisitor and 0Day catcher.
+
+URL: https://goo.gl/nj3zNK (+)
+Description: Get Arbitrary Wildcard SSL Certs from Comodo via Dangling Markup Injection.
+
+URL: https://www.vusec.net/projects/flip-feng-shui/
+Description: Flip Feng Shui - New VM attack vector.
+
+URL: https://goo.gl/m1JdoI (+)
+Description: "Fileless" UAC Bypass Using eventvwr.exe and Registry Hijacking.
+
+URL: https://github.com/juliocesarfort/public-pentesting-reports
+Description: Public penetration testing reports Dump.
+
+URL: https://goo.gl/0C91rO (+)
+Description: Samsung's smart camera. A tale of IoT & network security.
+
+URL: https://httpsonly.blogspot.pt/2016/08/cve-2016-0782-writeup.html
+Description: Apache ActiveMQ Pwn (CVE-2016-0782).
+
+URL: https://goo.gl/JIOvxT (+)
+Description: Abusing Kerberos to NTLM fallback to defeat BitLocker FDE.
+
+URL: https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
+Description: The 101 of ELF Binaries on Linux - Understanding and Analysis.
+
+URL: https://blog.exodusintel.com/2016/08/09/vxworks-execute-my-packets/
+Description: VxWorks - Execute My Packets.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://ohshitgit.com/
+Description: Oh shit, git!
+
+URL: https://support.microsoft.com/en-us/kb/261186
+Description: Computer Randomly Plays Classical Music.
+
+URL: https://weblog.sh/
+Description: Blog from the Command-Line.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?60ed8bb64ebfe4f2#oR757GYgwiMifDsGLW6MO1ATivXAVN43jmFHapXgEOQ=
