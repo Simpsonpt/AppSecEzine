@@ -1,0 +1,122 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 38 | Month: September | Year: 2016 | Release Date: 23/09/2016 | Edition: #136 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://sasi2103.blogspot.pt/2016/09/combination-of-techniques-lead-to-dom.html
+Description: Combination of techniques lead to DOM Based XSS in Google.
+
+URL: https://goo.gl/DjOEHf (+)
+Description: Facebook Page Takeover.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://www.blackhillsinfosec.com/?p=5230
+PoC: https://github.com/lukebaggett/google_socks
+Description: Google Docs becomes Google SOCKS - C2 Over Google Drive.
+
+URL: https://goo.gl/tnW7hD (+)
+Description: Spawning a Shell using DDEE and SQL Injection.
+
+URL: https://nixaid.com/encrypted-chat-with-netcat/
+Description: Encrypted chat with netcat.
+
+URL: https://github.com/platomav/MEAnalyzer
+Description: Intel Engine Firmware Analysis Tool.
+
+URL: https://github.com/XiphosResearch/exploits/tree/master/DoubtfullyMalignant
+Description: DoubtfullyMalignant - BenignCertain DoS PoC (Why Not :D).
+
+URL: https://github.com/juliocesarfort/nukemyluks
+Description: Nuke My LUKS (Panic Button!).
+
+URL: https://andreas-mausch.github.io/whatsapp-viewer/
+Description: Android viewer for msgstore.db.crypt5, .crypt7 and .crypt8 databases.
+
+URL: https://github.com/adaptivethreat/BloodHound
+Description: Six Degrees of Domain Admin.
+
+URL: https://github.com/mongodb-labs/disasm
+Description: Interactive Disassembler GUI.
+
+URL: https://github.com/securesocketfunneling/ssf
+Description: Secure Socket Funneling (SSF) is a network tool and toolkit.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://deadcode.me/blog/2016/09/02/Blind-Java-Deserialization-Commons-Gadgets.html
+Part II: https://deadcode.me/blog/2016/09/18/Blind-Java-Deserialization-Part-II.html
+Description: Blind Java Deserialization Vulnerability - Commons Gadgets
+
+URL: https://goo.gl/ClLuZH (+)
+Description: Intercepting Passwords to Escalate Privileges on OS X.
+
+URL: https://goo.gl/ENPsiI (+)
+Description: How a malware could infect digitally signed files (MacOS).
+
+URL: http://blog.nickbloor.co.uk/2016/08/drupal-coder-module-unauthenticated.html
+Description: Drupal Coder Module - Unauthenticated RCE (SA-CONTRIB-2016-039).
+
+URL: https://goo.gl/Uqcs96 (+)
+Description: Samsung Security Manager Multiple RCE Vulnerabilities.
+
+URL: https://hostoftroubles.com/
+Description: Host of Troubles Vulnerabilities.
+
+URL: https://tom.vg/2016/08/request-and-conquer/
+Description: Storage quota side-channel attacks in the browser.
+
+URL: http://antirez.com/news/96
+Description: A few things about Redis security.
+
+URL: https://access.redhat.com/blogs/766093/posts/2592591
+Description: A bite of Python.
+
+URL: https://www.thijsbroenink.com/2016/09/xiaomis-analytics-app-reverse-engineered/
+Description: Reverse Engineering Xiaomi's Analytics app.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/janbrennen/rice
+Description: Scripts used for fun/rice, as seen on TV^H^H the internet.
+
+URL: https://github.com/mandatoryprogrammer/NorthKoreaDNSleak
+Description: Snapshot of North Korea's DNS data taken from zone transfers.
+
+URL: https://44con.com/2016/09/19/getting-started-with-your-hidiot-badge/
+Description: Getting Started With Your HIDIOT Badge.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?974fcc211db6eac8#4Y3Ff835XacV9nTKCFb0uNJ17Syjd+FeDcL7j/7md7c=
