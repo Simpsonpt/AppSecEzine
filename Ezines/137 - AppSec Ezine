@@ -1,0 +1,124 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 39 | Month: September | Year: 2016 | Release Date: 30/09/2016 | Edition: #137 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://blog.k3170makan.com/2016/09/abusing-webvtt-and-cors-for-fun-and.html
+Description: Abusing WebVTT and CORS for fun and profit.
+
+URL: https://goo.gl/sGPM4p (+)
+Description: An unlikely XXE in Hikvision’s Remote Access Camera Cloud.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Shellntel/luckystrike
+Slides: http://www.slideshare.net/NickLanders/outlook-and-exchange-for-the-bad-guys
+Description: A PowerShell utility for the creation of malicious Office macro documents.
+
+URL: https://github.com/mwrlabs/XRulez
+Blog: https://labs.mwrinfosecurity.com/blog/malicous-outlook-rules/
+Description: A command line tool for creating malicious outlook rules.
+
+URL: https://github.com/sensepost/ruler
+More: https://sensepost.com/blog/2016/mapi-over-http-and-mailrule-pwnage/
+Description: A tool to abuse Exchange services.
+
+URL: https://github.com/mozilla/ssh_scan
+Description: A prototype SSH configuration and policy scanner.
+
+URL: https://github.com/shellphish/fuzzer
+Description: A Python interface to AFL.
+
+URL: https://back-flip.blogspot.pt/2016/08/steal-google-account-on-stolen-or.html
+Description: Steal Google account on stolen or unattended unlocked phone.
+
+URL: https://github.com/melvinsh/vcsmap
+Description: Tool to scan public version control systems for sensitive information.
+
+URL: https://gist.github.com/freddyb/29eedc12b3ae4b1a26d645ee90a5912d
+Description: Finding the SqueezeBox Radio Default SSH Password.
+
+URL: https://github.com/jbremer/tracy/tree/master/src/zipjail
+Description: Usermode sandbox for unpacking archives w/ unzip, rar, and 7z utilities. 
+
+URL: https://githubcom/m0nad/HellRaiser
+Description: HellRaiser Vulnerability Scanner.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://jaq.alibaba.com/community/art/show?articleid=532
+PoC: https://github.com/zhengmin1989/OS-X-10.11.6-Exp-via-PEGASUS
+Description: Local privilege escalation for OS X 10.11.6 via PEGASUS.
+
+URL: https://goo.gl/2tSUyp (+)
+Description: Azure 0day Cross-Site Scripting with Sandbox Escape.
+
+URL: https://www.optiv.com/blog/mssql-agent-jobs-for-command-execution
+Description: MSSQL Agent Jobs for Command Execution.
+
+URL: http://lab.truel.it/flash-sandbox-bypass/
+Description: Flash sandbox bypass - local data exfiltration (CVE-2016-4271).
+
+URL: https://goo.gl/P0cFa8 (+)
+Description: ObiHai ObiPhone - Multiple Vulnerabilties.
+
+URL: https://sweet32.info/
+Description: SWEET32 - Birthday attacks on 64-bit block ciphers in TLS and OpenVPN.
+
+URL: https://goo.gl/lVm81H (+)
+Description: Exploiting PHP-7 unserialize.
+
+URL: http://www.sjoerdlangkemper.nl/2016/08/29/kayako-xss/
+Description: XSS in Kayako helpdesk software.
+
+URL: https://www.aidanwoods.com/blog/faulty-login-pages
+Description: Google's Faulty Login Pages.
+
+URL: https://thel3l.me/blog/winprivesc/index.html
+Description: Basic Windows Privilege Escalation.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/ionescu007/lxss
+Description: Fun with the Windows Subsystem for Linux (WSL/LXSS).
+
+URL: http://tinysubversions.com/notes/ethical-ad-blocker/
+Description: The Ethical Ad Blocker.
+
+URL: https://archive.org/details/softwarelibrary_msdos_games
+Description: Software Library - MS-DOS Games.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?31aecb16f8d0226e#iTTiKP7vxH+Wkm9ugbNHufU/QaCXA6mCK0nOJXx1Yj0=
