@@ -1,0 +1,124 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 40 | Month: October | Year: 2016 | Release Date: 07/10/2016 | Edition: #138 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://diracdeltas.github.io/blog/backdooring-js/
+Description: Backdooring your javascript using minifier bugs.
+
+URL: https://5haked.blogspot.pt/2016/10/how-i-hacked-pornhub-for-fun-and-profit.html
+Description: How I hacked Pornhub for fun and profit.
+
+URL: https://hackerone.com/reports/61312
+Description: Bypass of the SSRF protection (Slack commands, Phabricator integration).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/chango77747/AdEnumerator
+Blog: http://securityblog.gr/3617/active-directory-enumeration-from-non-domain-system/
+Description: Active Directory Enumeration from Non-Domain System.
+
+URL: https://github.com/eteran/edb-debugger
+Description: edb is a cross platform x86/x86-64 debugger.
+
+URL: https://github.com/putterpanda/mimikittenz
+Descripion: A post-exploitation PS tool for extracting juicy info from memory.
+
+URL: https://goo.gl/c2opyI (+)
+Description: Remote Root Code Execution/Privilege Escalation (MySQL, MariaDB, PerconaDB).
+
+URL: https://173210.github.io/psp2
+Description: How to Reverse-Engineer PS Vita.
+
+URL: https://github.com/nccgroup/BinProxy/
+Description: BinProxy is a proxy for arbitrary TCP connections.
+
+URL: https://github.com/goldshtn/etrace
+Description: Command-line tool for ETW tracing on files and real-time events.
+
+URL: https://github.com/Naville/WTFJH
+Description: iOS Security Runtime Inspection.
+
+URL: https://github.com/artkond/rpivot
+Description: RPIVOT - reverse socks4 proxy for penetration tests.
+
+URL: https://github.com/mak-/parameth
+Description: This tool can be used to brute discover GET and POST parameters.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://www.mbsd.jp/blog/20160921_2.html
+Description: Safari's URL redirection XSS (CVE-2016-4585).
+
+URL: http://paper.seebug.org/58/
+Description: CSRF protection bypass on Django via GA (CVE-2016-7401).
+
+URL: https://goo.gl/Jt751V (+)
+Description: Hacked - Investigating An Intrusion On My Server.
+
+URL: https://goo.gl/t7rg3A (+)
+Description: How I Could Have Hacked Multiple Facebook Accounts.
+
+URL: http://paper.seebug.org/42/
+Description: BadURLScheme in iOS.
+
+URL: http://mksben.l0.cm/2016/09/safari-uxss-showModalDialog.html
+Description: UXSS in Safari's showModalDialog (CVE-2016-4758).
+
+URL: https://hackerone.com/reports/158148
+Description: RCE and Shell via Image file.
+
+URL: https://www.jardinesoftware.net/2016/09/12/xxe-in-net-and-xpathdocument/
+Description: XXE in .Net and XPathDocument.
+
+URL: https://goo.gl/UiIWfL (+)
+Description: Hidden SNMP community in Cisco SG220 series (SNMP All over again).
+
+URL: http://calebmadrigal.com/hackrf-replay-attack-jeep/
+Description: HackRF Replay Attack Jeep.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/ethicalhack3r/DVWA/issues/101
+Description: SQL injection vulnerability in low.php (😈 or facepalm).
+
+URL: https://goo.gl/pkPDb2 (+)
+Description: Researching protection and recovering Namco System ES1 arcade.
+
+URL: https://github.com/Microsoft/BotBuilder
+Description: The Microsoft Bot Builder SDK.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?5d11d9948a9ebc3f#elAD7AYACnw1nQJ4zAS+NM/JOOds5TCsbETrAzS1GtY=
