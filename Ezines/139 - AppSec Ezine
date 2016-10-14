@@ -1,0 +1,122 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 41 | Month: October | Year: 2016 | Release Date: 14/10/2016 | Edition: #139 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.tarq.io/node-js-request-smuggling/
+Description: Node.JS Request Smuggling (Again!).
+
+URL: http://blog.wesecureapp.com/xss-by-tossing-cookies/
+Description: XSS by tossing cookies.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/mothran/unicorn-decoder
+Description: Simple shellcode decoder using unicorn-engine.
+
+URL: https://github.com/commonexploits/vlan-hopping
+Slides: http://info-assure.co.uk/public_downloads/not-only-frogs-can-hop.pdf
+Description: Not only frogs can hop (VLAN Hopping).
+
+URL: https://github.com/sh4hin/Androl4b
+Description: VM for Assessing Android apps, Reverse Eng. and Malware Analysis.
+
+URL: https://github.com/tcstool/Fireaway
+Description: Next Generation Firewall Audit and Bypass Tool.
+
+URL: https://www.cgsec.co.uk/powershell-empire-cve-2016-0189-profit/
+Description: Powershell Empire + CVE-2016-0189 = Profit.
+
+URL: https://github.com/felixwilhelm/mario_baslr/
+Description: PoC for breaking hypervisor ASLR using branch target buffer collisions.
+
+URL: https://github.com/trylinux/lift/
+Description: Low-Impact Fingerprint Tool.
+
+URL: https://github.com/darkoperator/dnsrecon
+Description: DNS Enumeration Script.
+
+URL: https://github.com/dafthack/MailSniper
+Descripion: Tool for searching through email in a MS Exchange env. for keywords. 
+
+URL: https://github.com/secrary/SSMA
+Description: SSMA - Simple Static Malware Analyzer.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://hackerone.com/reports/53004
+Description: Blacklist bypass on Callback URLs (DNS rebinding FTW!)
+
+URL: https://goo.gl/ZQK5fU (+)
+Description: Reading Uber's Internal Emails (Bug Bounty report worth $10,000).
+
+URL: https://goo.gl/63HPVG (+)
+Description: Breaching a CA - Blind XSS in the GeoTrust SSL Operations Panel.
+
+URL: https://goo.gl/ZxXu7l (+)
+PoC: https://github.com/outflankbv/NetshHelperBeacon
+Description: Using NetShell to execute evil DLLs and persist on a host.
+
+URL: http://rednaga.io/2016/09/21/reversing_go_binaries_like_a_pro/
+Description: Reversing GO binaries like a pro.
+
+URL: https://www.virtuesecurity.com/blog/jquery-security-model/
+Description: Understanding jQuery Security.
+
+URL: https://github.com/jaredmichaelsmith/awesome-vehicle-security
+Description: Resources dump for learning about vehicle security and car hacking.
+
+URL: http://blog.rewolf.pl/blog/?p=1630
+Description: MSI ntiolib.sys/winio.sys local privilege escalation.
+
+URL: https://goo.gl/6KQMdJ (+)
+Description: Multiple vulnerabilities found in the Dlink DWR-932B.
+
+URL: https://blog.nelhage.com/2011/03/exploiting-pickle/
+Description: Exploiting Misuse of Python's "Pickle" (Oldies).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://www.gwan.com/blog/20160405.html
+Description: Google's "Director of Engineering" Hiring Test.
+
+URL: http://nedbatchelder.com//blog/201609/computing_primes_with_css.html
+Description: Computing primes with CSS.
+
+URL: https://github.com/samyk/BPL
+Description: Blind Public License (BPL).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?ae48ff688d0f3e84#c0v4GiLZC5LRm/bFeKT7JY+ogU4Nqy4uLvrZ3W+MIGU=
