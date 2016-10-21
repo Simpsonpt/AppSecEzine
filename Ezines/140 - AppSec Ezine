@@ -1,0 +1,124 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 42 | Month: October | Year: 2016 | Release Date: 21/10/2016 | Edition: #140 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://secalert.net/slack-security-bug-bounty.html
+Description: Slack, a brief journey to mission control.
+
+URL: https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter
+Description: Open redirects that matter (Google VRP).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://goo.gl/o6KYtc (+)
+MSF Module: https://github.com/rapid7/metasploit-framework/pull/7341
+Description: Pre-auth RCE vulnerability in Metasploit Community, Express and Pro 4.12.
+
+URL: https://github.com/ScadaExposure/Shodan-PHP-REST-API
+Description: Advanced PHP5 REST API for Shodan.io.
+
+URL: https://github.com/infosecguerrilla/ReflectiveSOInjection
+Description: Injection technique for loading of a library from memory into a host process.
+
+URL: https://github.com/CrySyS/membrane/
+Description: Memory forensics tool to detect code loading behavior by stealthy malware.
+
+URL: https://github.com/hahwul/droid-hunter
+Description: Android application vulnerability analysis and Android pentest tool.
+
+URL: https://github.com/MooseDojo/myBFF
+Description: myBFF - a Brute Force Framework.
+
+URL: https://github.com/tillmannw/streams
+Description: Interactive command line tool for fast TCP stream processing.
+
+URL: https://github.com/k4m4/onioff
+Description: An onion url inspector for inspecting deep web links.
+
+URL: https://github.com/0x27/linux.mirai
+Description: Leaked Linux.Mirai Source Code for Research/IoC Development Purposes.
+
+URL: https://github.com/DavidBuchanan314/pwn-mbr
+Description: A simple MBR hijack demonstration.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/nG92Fe (+)
+More: https://hackerone.com/reports/132104
+Description: Using Chrome's web-custom-data UTI to inject a stored XSS in Slack.
+
+URL: https://techanarchy.net/2016/10/extracting-lastpass-site-credentials-from-memory/
+PoC: https://github.com/kevthehermit/volatility_plugins/tree/master/lastpass
+Description: Extracting LastPass Site Credentials from Memory.
+
+URL: http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html
+Description: Introduction to MAC OS Kernel Debugging.
+
+URL: https://www.ixiacom.com/company/blog/equation-groups-firewall-exploit-chain
+Description: The Equation Group's Firewall Exploit Chain.
+
+URL: https://goo.gl/oE7r5q (+)
+PoC: https://github.com/infobyte/CVE-2016-2776
+Description: A tale of a DNS packet (CVE-2016-2776).
+
+URL: http://www.seg.inf.uc3m.es/~guillermo-suarez-tangil/papers/2016mal-iot.pdf
+Description: Analysis and Exploitation of Arduino devices in the Internet of Things.
+
+URL: https://archive.is/TpVVg
+Description: Capcom.sys + Usage example -  Street Fighter V, Capcom "rootkit".
+
+URL: https://goo.gl/oHV88F (+)
+Description: Pwning a thin client in less than one minute, again!
+
+URL: https://desc0n0cid0.blogspot.pt/2016/09/stack-based-buffer-overflow.html
+Description: Stack-based Buffer Overflow exploitation to shell by example.
+
+URL: http://www.ms509.com/?p=439
+Description: Exploit analysis and practical - From Crash to hijack PC (CVE-2015-3825).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://goo.gl/1HSx1l (+)
+Description: Two years spamming spammers back.
+
+URL: https://robinlinus.github.io/socialmedia-leak/
+Description: Your Social Media Fingerprint.
+
+URL: https://github.com/JordanMilne/YMail-Pineapple
+Description: MITMing Yahoo! Mail with a Wifi Pineapple Mark V and Flash.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://www.pathonproject.com/zb/?8b1eaed982f180c0#JuBrxOgOvn3fIdkhO3YPug1Nt2VK+vMv/XpZGK4YDXM=
