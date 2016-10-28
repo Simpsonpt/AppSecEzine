@@ -1,0 +1,125 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 43 | Month: October | Year: 2016 | Release Date: 28/10/2016 | Edition: #141 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://robots.thoughtbot.com/is-your-site-leaking-password-reset-links
+Description: Is Your Site Leaking Password Reset Links?
+
+URL: https://henryhoggard.co.uk/blog/Paypal-2FA-Bypass
+Description: Paypal 2FA Bypass (facepalm).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/CoolerVoid/raptor_waf
+Description: Raptor - Web application firewall using DFA.
+
+URL: https://sourceforge.net/projects/rcexploiter/
+Description: Brute-forcing WAN/LAN services.
+
+URL: https://github.com/horrorho/InflatableDonkey
+Description: iOS9 iCloud backup retrieval proof of concept.
+
+URL: https://www.leavesongs.com/HTML/chrome-xss-auditor-bypass-collection.html
+Description: Browser Security a Chrome XSS Auditor bypass Dump.
+
+URL: http://x42.obscurechannel.com/?p=310
+Description: Reverse Meterpreter Shell via Slack Client 2.2.1 – DNSAPI.dll Hijack.
+
+URL: https://github.com/mwrlabs/needle
+Description: The iOS Security Testing Framework.
+
+URL: https://regala.im/2016/10/05/fixing-burp-ssl-handshake-failed-alert/
+Description: Fixing Burp SSL handshake failed alert (Tips and Tricks).
+
+URL: https://github.com/sensepost/DNS-Shell
+Blog: https://sensepost.com/discover/tools/DNS-shell/
+Description: DNS-Shell is an interactive Shell over DNS channel.
+
+URL: https://github.com/uZetta27/EasyROP
+Description: A Python tool to generate ROP chains.
+
+URL: https://github.com/sanvil/vsaudit
+Description: VOIP Security Audit Framework.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/yzBzCN (+)
+More: http://paper.seebug.org/86/ (CVE-2016-8870)
+More II: http://paper.seebug.org/88/ (CVE-2016-8869) 
+PoC CVE-2016-8869: https://github.com/XiphosResearch/exploits/tree/master/Joomraa 
+Description: Joomla (< 3.6.4) Account Creation/Elevated Privileges write-up and exploit.
+
+URL: http://dirtycow.ninja/
+More: https://www.martijnlibbrecht.nu/2/
+Description: Privilege escalation vulnerability in the Linux Kernel (CVE-2016-5195).
+
+URL: https://www.vusec.net/projects/drammer/
+Description: Drammer - Flip Feng Shui Goes Mobile (Android Rowhammer).
+
+URL: https://hackerone.com/reports/150179
+Description: Html Injection and Possible XSS in sms-be-vip.twitter.com.
+
+URL: http://paper.seebug.org/91/
+Description: Bypass unsafe-inline mode CSP.
+
+URL: https://www.thanassis.space/android.html
+Description: Freeing my tablet (Android hacking, SW and HW) Epic!
+
+URL: https://www.pietroalbini.org/blog/gandi-security-vulnerability-2fa-bypass/
+Description: Gandi security vulnerability - 2FA Bypass (Such Security!).
+
+URL: http://www.miasm.re/blog/2016/09/03/zeusvm_analysis.html#first-stages
+Description: ZeusVM analysis.
+
+URL: https://zone13.io/post/Snagging-credentials-over-WiFi-Part1/
+Description: Snagging Active Directory credentials over WiFi.
+
+URL: https://goo.gl/XczEiJ (+)
+Description: Finding the right exploit code (Tips and Tricks).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://www.gifcities.org/#/
+Description: The Geocities Animated GIF Search Engine.
+
+URL: https://shubs.io/guide-to-building-the-tastic-rfid-thief/
+Description: Guide to building the Tastic RFID Thief.
+
+URL: https://codepo8.github.io/logo-o-matic/
+Description: C-64 charset logo generator.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?d4de528bfeb09939#WsKUq4sPXSPOibH46KYVDEWSzbXsxeB0qCsCQv15g/Q=
