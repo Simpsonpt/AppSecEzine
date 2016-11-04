@@ -1,0 +1,120 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 44 | Month: November | Year: 2016 | Release Date: 04/11/2016 | Edition: #142 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://www.blackhillsinfosec.com/?p=5396
+Description: Bypassing Two-Factor Authentication on OWA and Office365 Portals.
+
+URL: https://hackerone.com/reports/178152
+Description: GitLab read files on application server, leads to RCE.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/shipcod3/mySapAdventures
+Description: A quick methodology on testing/hacking SAP Applications for n00bz.
+
+URL: http://blog.x1622.com/2016/01/poc-how-to-steal-httponly-session.html
+Description: Get httponly session cookies via Apache cookie overflow (CVE-2012-0053).
+
+URL: https://gist.github.com/anonymous/908a087b95035d9fc9ca46cef4984e97
+Description: WordPress RCE via specially crafted .mo language file.
+
+URL: https://github.com/CoolerVoid/0d1n/
+Description: Web security tool to make fuzzing at HTTP.
+
+URL: https://osandamalith.com/2016/10/10/fun-with-sqlite-load_extension/
+Description: Fun with SQLite Load_Extension.
+
+URL: https://github.com/thomaspatzke/WASE
+Description: The Web Audit Search Engine - Index and Search HTTP Requests and Responses.
+
+URL: https://github.com/praetorian-inc/pyshell
+Description: PyShell - Shellify Your HTTP Command Injection!
+
+URL: https://github.com/cloudburst/libheap/
+Description: gdb python library for examining the glibc heap (ptmalloc).
+
+URL: https://bitquark.co.uk/blog/2016/10/03/exfiltrating_files_with_busybox
+Description: Exfiltrating files with BusyBox (Tips and Tricks).
+
+URL: https://github.com/ebux/AVTECH
+Description: Avtech devices multiple vulnerabilities.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bloggerbust.ca/2016/10/26/browsersmack-a-browser-stack-proxy-vulnerability/
+Description: BrowserSmack – a browser stack proxy vulnerability.
+
+URL: https://goo.gl/4JiEfd (+)
+Description: Host header injection and lax host parsing serving malicious data.
+
+URL: https://goo.gl/LFF2Qa (+)
+Description: Sniffing Out Trusts With BloodHound.
+
+URL: https://goo.gl/czhcHM (+)
+Description: Breaking JEA, PowerShel'’s New Security Barrier.
+
+URL: http://www.alexkyte.me/2016/10/how-textsecure-protocol-signal-whatsapp.html
+Description: How the Textsecure Protocol (Signal, WhatsApp, Facebook, Allo) Works.
+
+URL: https://vah13.github.io/AVDetection/
+Description: A simple way for detection the remote user's antivirus.
+
+URL: http://blog.senr.io/blog/jtag-explained
+Description: JTAG Explained - Why "IoT", Engineers and Manufacturers Should Care.
+
+URL: https://rudk.ws/2016/10/17/reverse-engineering-by-using-chrome/
+Description: Reverse Engineering using Chrome.
+
+URL: https://goo.gl/Z7Aly4 (+)
+Description: From PouchDB to RCE - a Node.js injection vector.
+
+URL: https://devwerks.net/blog/16/how-not-to-use-html-purifier/
+Description: How NOT to use HTML Purifier (Collabtive Bug).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://goo.gl/D8jxL8 (+)
+Description: They Live and the secret history of the Mozilla logo.
+
+URL: https://www.cs.umd.edu/hcil/members/bshneiderman/nsd/rejection_letter.html
+Description: Rejection letter from the Communications of the ACM.
+
+URL: https://github.com/jonitrythall/svgpocketguide
+Description: Pocket Guide to Writing SVG.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://www.pathonproject.com/zb/?25116e4fdfebc7e9#R3mAYpFguehYua7+HNlVTALJofX+gRbJN6Y7i5QQ48I=
