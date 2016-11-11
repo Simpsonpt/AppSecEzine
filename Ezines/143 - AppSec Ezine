@@ -1,0 +1,125 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 45 | Month: November | Year: 2016 | Release Date: 11/11/2016 | Edition: #143 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://www.blacknurse.dk/
+PoC: https://github.com/jedisct1/blacknurse
+Description: ICMP DoS attack causes high CPU load on firewalls.
+
+URL: http://blog.andrewlang.net/post/152805939304/tumblr-xss-exploit
+Description: Tumblr XSS Exploit (or oficial feature).
+
+URL: http://blog.securityfuse.com/2016/11/gmail-account-hijacking-vulnerability.html
+Description: Gmail Account Hijacking Vulnerability.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/stufus/parse-mimikatz-log
+Blog: https://labs.mwrinfosecurity.com/tools/parsing-mimikatz-log-files/
+Description: A relatively flexible tool to parse mimikatz output.
+
+URL: https://github.com/ernw/knxmap
+Description: KNXnet/IP scanning and auditing tool for KNX home automation installs.
+
+URL: https://github.com/flipchan/LayerProx
+Description: An encrypted traffic obfuscation proxy, simulates general webtraffic.
+
+URL: http://secalert.net/#CVE-2016-4977
+Description: RCE in Spring Security OAuth (CVE-2016-4977).
+
+URL: https://github.com/manwhoami/MMeTokenDecrypt
+Description: Decrypts and extracts iCloud and MMe authorization tokens for MacOS.
+
+URL: https://www.netzob.org/
+Description: Reverse Engineering Communication Protocols.
+
+URL: https://github.com/michenriksen/birdwatcher
+Description: Data analysis and OSINT framework for Twitter.
+
+URL: https://github.com/arthepsy/ssh-audit
+Description: SSH server auditing tool.
+
+URL: https://github.com/suraj-root/spade
+Description: Android APK backdoor embedder.
+
+URL: https://github.com/x64dbg/x64dbgbinja
+Description: Official x64dbg plugin for Binary Ninja.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://slashcrypto.org/2016/11/07/Netflix/
+Description: Netflix Account Takeover through Automated Phone Calls.
+
+URL: https://goo.gl/CXHtg5 (+)
+Description: OpenSSL 1.1.0 - Remote client memory corruption.
+
+URL: https://hosakacorp.net/p/systemd-user.html
+Description: Abusing systemd user services.
+
+URL: https://goo.gl/KAEZe6 (+)
+Description: Server-side JavaScript (Remote Code) Execution in ASP.
+
+URL: https://goo.gl/rcf3ao (+)
+Description: SQL Injection - Calling Stored Procedures Dynamically.
+
+URL: https://zuh4n.blogspot.co.uk/2016/10/adobe-importance-of-up-to-date.html
+Description: Adobe Bug Bounty Journey.
+
+URL: https://cyseclabs.com/blog/cve-2016-6187-heap-off-by-one-exploit
+Description: Exploiting Linux kernel heap off-by-one (CVE-2016-6187).
+
+URL: http://www.fuzzysecurity.com/tutorials/27.html
+Description: Anatomy of UAC Attacks.
+
+URL: http://b.fl7.de/2016/08/d-link-nas-dns-xss-via-smb.html
+Description: D-Link NAS, DNS Series - Stored XSS via Unauthenticated SMB.
+
+URL: https://www.invincealabs.com/blog/2016/11/wemo-hardware-bypass/
+Description: Breaking BHAD - Getting Local Root on the Belkin WeMo Switch.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://websdr.ewi.utwente.nl:8901/?tune=7030usb
+Description: Wide-band WebSDR.
+
+URL: http://386bsd.org/
+Description: 386BSD was the first open source Berkeley UNIX OS.
+
+URL: https://hackerone.com/reports/180074
+Description: BAD Code!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?68428e25709f57bd#lVjKeRzmg02ElQsFR2QGf6UcZSH6ppLEKGaHDCNy34w=
