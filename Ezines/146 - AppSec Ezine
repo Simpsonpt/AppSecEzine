@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 48 | Month: December | Year: 2016 | Release Date: 02/12/2016 | Edition: #146 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/182358
+More: https://hackerone.com/reports/186230
+Description: "Export as .zip" feature nightmare (Geez).
+
+URL: http://blog.intothesymmetry.com/2016/11/all-your-paypal-tokens-belong-to-me.html
+Description: All your Paypal OAuth tokens belong to me - localhost for the win.
+
+URL: http://ianduffy.ie/blog/2016/11/26/azure-bug-bounty-pwning-red-hat-enterprise-linux/
+Description: Azure bug bounty Pwning Red Hat Enterprise Linux.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://legalhackers.com/exploits/tomcat-rootprivesc-deb.sh
+Blog: http://legalhackers.com/videos/Apache-Tomcat-DebPkg-Root-PrivEsc-Exploit.html
+Description: Tomcat on Debian-based distros - Local Root PE Exploit (CVE-2016-1240). 
+
+URL: https://github.com/stamparm/fetch-some-proxies
+Description: Simple Python script for fetching "some" (usable) proxies.
+
+URL: https://github.com/szimeus/evalyzer
+Description: Using WinDBG to tap into JavaScript (deobfuscation helper and more).
+
+URL: https://github.com/ryhanson/phishery
+Description: Auth Credential Harvester with a Word Document Template URL Injector.
+
+URL: https://github.com/1N3/PrivEsc
+Description: Dump of Windows, Linux and MySQL PE scripts and exploits.
+
+URL: https://github.com/B4rD4k/Vproxy
+Description: Forward HTTP/S Traffic To Proxy Instance via PPTP VPN.
+
+URL: https://github.com/whoot/TelphOWN
+Description: Telpho10 (German "Hybrid ISDN/VoIP Telefonanlage") Ownage Tool.
+
+URL: https://github.com/violentshell/Rollmac
+Description: Automated WiFi time or data limit evasion (Airport pwnage).
+
+URL: https://gist.github.com/subTee/c51ea995dfaf919fd4bd36b3f7252486
+Description: Turn Msbuild.exe into a keylogger.
+
+URL: https://github.com/gerry/pyevilgrade
+Description: mitmproxy inline script to implement some evilgrade functionality.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://paper.seebug.org/95/ 
+Report: http://www.talosintelligence.com/reports/TALOS-2016-0220/
+Description: Memcached Command Execution (CVE-2016-8704/CVE-2016-8705/CVE-2016-8706).
+
+URL: http://research.aurainfosec.io/bypassing-saml20-SSO/
+Description: Bypassing SAML 2.0 SSO with XML Signature Attacks.
+
+URL: https://goo.gl/bCn3yk (+)
+Description: The art of Golden Ticket Kerberos Keys.
+
+URL: https://github.com/dakami/ratelock
+Description: Restricting Data Loss with Serverless Cloud Enforcement.
+
+URL: https://www.contrastsecurity.com/security-influencers/dom-xss-in-wix.com
+Description: DOM XSS in wix.com.
+
+URL: https://g-laurent.blogspot.pt/2016/11/ms16-137-lsass-remote-memory-corruption.html
+PoC: https://github.com/lgandx/PoC/tree/master/LSASS
+Description: LSASS SMB NTLM Exchange Remote Memory Corruption.
+
+URL: https://goo.gl/HskhRe (+)
+Description: Atom.io Misconfiguration Allowed Code Execution on Untrusted Networks.
+
+URL: https://eprint.iacr.org/2016/1013.pdf
+Description: A Formal Security Analysis of the Signal Messaging Protocol.
+
+URL: http://labs.lastline.com/evasive-jscript
+Description: Evasive JScript.
+
+URL: https://deadcode.me/blog/2016/11/05/Active-Deauth-Kismet-Wardriving.html
+Description: Active WiFi deauth with Kismet for Wardriving.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://gist.github.com/kennwhite/1f3bc4d889b02b35d8aa
+Description: Most VPN Services are Terrible.
+
+URL: https://github.com/joke2k/faker
+Description: Faker is a Python package that generates fake data for you.
+
+URL: https://natmchugh.blogspot.pt/2014/10/how-i-created-two-images-with-same-md5.html
+Description: How I created two images with the same MD5 hash.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://www.pathonproject.com/zb/?d5e6030c425de429#58wft7E85MPHWOC8G7et9xagdpn7FUHPhUYVwSvCWKM=
