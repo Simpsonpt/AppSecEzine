@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 49 | Month: December | Year: 2016 | Release Date: 09/12/2016 | Edition: #147 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/QAtMIt (+)
+Description: Taking Over 120K Domains via a DNS Vulnerability in major providers.
+
+URL: https://insert-script.blogspot.pt/2016/12/firefox-svg-cross-domain-cookie.html
+Description: Firefox - SVG cross domain cookie vulnerability.
+
+URL: https://goo.gl/jX2CTk (+)
+Description: Backdoor in Sony IPELA Engine IP Cameras.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/offensive-security/exploit-database
+Blog: https://www.exploit-db.com/searchsploit/
+Description: The Exploit Database Git Repository.
+
+URL: https://github.com/upgoingstar/datasploit
+Description: A tool to perform various OSINT techniques.
+
+URL: https://github.com/gchq/CyberChef
+Description: Tool for encryption, encoding, compression, data analysisa nd more.
+
+URL: https://github.com/chaitin/pro
+Description: PRO - PROgramming ROP like a PRO.
+
+URL: https://github.com/mandatoryprogrammer/cloudflare_enum
+Description: Cloudflare Enumeration Tool v1.2.
+
+URL: https://github.com/jedisct1/iptoasn-webservice
+Description: Web service to map IP addresses to AS information, using iptoasn.com.
+
+URL: https://sintonen.fi/advisories/tar-extract-pathname-bypass.proper.txt
+Description: Tar extract pathname bypass.
+
+URL: https://github.com/xdavidhu/mitmAP
+Description: A python program, to create a fake AP, and sniff data.
+
+URL: https://github.com/tinysec/jswd
+Description: Chakra-based windbg javascript extension.
+
+URL: https://github.com/pyupio/safety-db
+Description: A curated database of insecure Python packages.
+
+URL: https://github.com/Bioruebe/UniExtract2
+Description: Universal Extractor (ZIP, RAR, self-extracting, apps installers, ...).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://objective-see.com/blog/blog_0x14.html
+More: https://apple.lib.utah.edu/?p=1444
+Description: Bypassing Apple's System Integrity Protection.
+
+URL: http://www.adlice.com/google-chrome-secure-preferences/
+Description: Google Chrome - Bypassing Secure Preferences.
+
+URL: http://colin.keigher.ca/2016/12/going-viral-on-imgur-with-powershell.html
+Description: Going viral on Imgur with Powershell and PNG.
+
+URL: https://mambrui.github.io/2016/11/rooting-vm
+Description: Rooting an appliance for fun (and maybe profit?).
+
+URL: https://blog.paranoidsoftware.com/dirty-cow-cve-2016-5195-docker-container-escape/
+Description: Dirty COW - (CVE-2016-5195) - Docker Container Escape.
+
+URL: https://goo.gl/yCPYpL (+)
+Description: Digging Into SysInternals - PsExec.
+
+URL: https://dougallj.wordpress.com/2016/11/13/exploiting-dolphin-part-1/
+Description: Exploiting Dolphin (Wii emulator).
+
+URL: https://blog.ripstech.com/2016/roundcube-command-execution-via-email/
+Description: Roundcube 1.2.2 - Command Execution via Email.
+
+URL: https://goo.gl/eIfu9b (+)
+Description: Security Testing of WebSockets.
+
+URL: https://blog.zimperium.com/analysis-of-multiple-vulnerabilities-in-airdroid/
+Description: Analysis of multiple vulnerabilities in AirDroid.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/seiferteric/qrtun
+Description: IP Over QR Code Tunnel.
+
+URL: https://peteris.rocks/blog/htop/
+Description: htop explained.
+
+URL: https://laurent22.github.io/so-injections/
+Description: SQL injections vulnerabilities in Stack Overflow PHP questions.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?51bdcca9107d686d#SDs4Ow10dP5JHgg54dVFpqVOclMcRb+c0kujVFReObM=
