@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 50 | Month: December | Year: 2016 | Release Date: 16/12/2016 | Edition: #148 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://urlscan.io
+Description: Letting you know what your website is doing.
+
+URL: https://klikki.fi/adv/yahoo2.html
+Description: Yahoo Mail stored XSS.
+
+URL: https://vulnsec.com/2016/netgear-router-rce/
+More: https://kalypto.org/research/netgear-vulnerability-expanded/
+Description: NetGear Router Vulnerability Expanded.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX
+Slides: http://www.slideshare.net/PacSecJP/moony-li-pacsec18
+Description: OSX kernel vuln. fuzzer based on passive inline hook mechanism.
+
+URL: https://github.com/YalcinYolalan/WSSAT
+Description: WSSAT - Web Service Security Assessment Tool.
+
+URL: https://github.com/benjamin-42/Trident
+Description: Trident PoC CVE-2016-4655 and CVE-2016-4656.
+
+URL: https://github.com/SpamScope/spamscope
+Blog: https://honeynet.org/node/1329
+Description: Fast Advanced Spam Analysis Tool.
+
+URL: https://github.com/pmsosa/duckhunt
+Description: Prevent RubberDucky (or other keystroke injection) attacks.
+
+URL: https://github.com/unix-ninja/shellfire
+Description: Exploitation shell for LFI, RFI, and command injection vulns.
+
+URL: https://github.com/chrisallenlane/novahot
+Description: A webshell framework for penetration testers.
+
+URL: https://github.com/adde88/hostapd-mana-openwrt
+Description: hostapd-mana - build-files, and installation-files for OpenWRT.
+
+URL: https://github.com/dflemstr/rq
+Description: Tool for doing record analysis and transformation (Handy).
+
+URL: https://github.com/robertdavidgraham/telnetlogger
+Description: Simple program to log login attempts on Telnet (port 23).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://github.com/rootkovska/codehash.db
+Description: A public database for software and firmware hashes.
+
+URL: https://humblesec.wordpress.com/2016/12/08/escaping-a-restricted-shell/
+Description: Escaping a restricted shell.
+
+URL: https://goo.gl/MLt1p7 (+)
+Description: Trango Systems Hidden root Account Vulnerability (all models).
+
+URL: https://goo.gl/xvrb0T (+)
+Description: GitLab Vulnerabilities Analysis (CVE-2016-9086 and more).
+
+URL: https://gist.github.com/dergachev/7916152
+Description: Why You Can't Un-Root a Compromised Machine.
+
+URL: https://jolmos.blogspot.pt/2016/11/rtldecompresbuffer-vulnerability.html
+Description: RtlDecompresBuffer vulnerability.
+
+URL: https://goo.gl/CKQPZv (+)
+Description: Word Up! Microsoft Word OneTableDocumentStream Underflow.
+
+URL: https://blog.lizzie.io/notes-about-cve-2016-7117.html
+Description: Notes about CVE-2016-7117 (Linux RCE).
+
+URL: https://github.com/pierre-ernst/s11n-hackfest2016
+Description: Fixing the Java Serialization mess.
+
+URL: https://goo.gl/3BHsWQ (+)
+Description: Compromising a Linux D. using... 6502 processor opcodes on the NES?!
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/commaai
+More: https://github.com/udacity/self-driving-car
+Description: Make your own self-driving car.
+
+URL: http://www.ateijelo.com/blog/2016/09/13/making-an-msx-font
+Description: Making an MSX font.
+
+URL: https://github.com/thejoshwolfe/yauzl/issues/48
+Description: The .zip file specification is flawed.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?3eec27a2d7c2ab89#8fJPji6ZnAiWZpWuJLaSVV0phw6uWHaJnOUZ1nqffDY=
