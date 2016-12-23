@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 51 | Month: December | Year: 2016 | Release Date: 23/12/2016 | Edition: #149 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://labs.detectify.com/2016/12/15/postmessage-xss-on-a-million-sites/
+Description: postMessage XSS on a million sites.
+
+URL: https://goo.gl/ULx7Ud (+)
+Description: Critical Vulnerability Compromising Verizon Email Accounts.
+
+URL: https://donncha.is/2016/12/compromising-ubuntu-desktop/
+Description: Reliably compromising Ubuntu desktops by attacking the crash reporter.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/riyazwalikar/adbrute
+Description: ADBrute allows you to test the security of users in an AD Environment. 
+
+URL: https://goo.gl/CTp8We (+)
+Description: Root Privilege Escalation in  MySQL/MariaDB/PerconaDB (CVE-2016-6664/CVE-2016-5617).
+
+URL: https://github.com/mempodippy/vlany
+Description: Linux LD_PRELOAD rootkit (x86 and x86_64 architectures).
+
+URL: https://github.com/Wh1t3Rh1n0/air-hammer/
+Description: A WPA Enterprise horizontal brute-force attack tool.
+
+URL: https://github.com/fdiskyou/hunter
+Description: (l)user hunter using WinAPI calls only.
+
+URL: https://github.com/stanislav-web/OpenDoor
+Description: OWASP Directory Access scanner.
+
+URL: https://goo.gl/fb63MI (+)
+Description: Root Privilege Escalation in Nginx (CVE-2016-1247).
+
+URL: https://github.com/mazen160/bfac
+Description: BFAC (Backup File Artifacts Checker).
+
+URL: https://github.com/cryptax/fittools
+Description: Wristband research tools.
+
+URL: https://github.com/tinysec/public/tree/master/CVE-2016-7255
+Description: PoC for CVE-2016-7255 (Win32k Elevation of Privilege Vulnerability).
+
+URL: https://github.com/google/sandbox-attacksurface-analysis-tools
+Description: Suite of tools to test various properties of sandboxes on Windows.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://nebelwelt.net/publications/files/16STM.pdf
+More: https://sites.google.com/site/exploitdevpshape/
+Description: PSHAPE - Automatically Combining Gadgets for Arbitrary Method Execution.
+
+URL: https://goo.gl/zllfk3 (+)
+Description: GNU tar extract path Bypass Analysis (CVE-2016-6321).
+
+URL: http://blog.skylined.nl/20161206001.html
+Description: MSIE jscript9 Java­Script­Stack­Walker Analysis (MS15-056, CVE-2015-1730).
+
+URL: https://hub.zhovner.com/geek/how-skype-fixes-security-vulnerabilities/
+Description: How Skype fixes security vulnerabilities.
+
+URL: https://c0rni3sm.blogspot.pt/2016/12/fiat-chrysler-automobiles-bug-bounty.html
+Description: Fiat Chrysler Auto BB - Account Takeover due to a Misconfiguration.
+
+URL: http://rednaga.io/2016/11/14/hackingteam_back_for_your_androids/
+Description: HackingTeam back for your Androids, now extra insecure!
+
+URL: http://www.sec-down.com/wordpress/?p=696
+Description: Yahoo! Escalated Remote File Inclusion Vulnerability.
+
+URL: https://goo.gl/xxEiWP (+)
+Description: Fun with Windows binaries – application white-list bypass using msiexec.
+
+URL: https://goo.gl/aZSbLk (+)
+Description: A journey from JNDI/LDAP manipulation ro RCE dream land.
+
+URL: https://www.pelock.com/articles/how-to-write-a-crackme-for-a-ctf-competition
+Description: How to write a CrackMe for a CTF competition.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/simon-whitehead/hakka
+Description: A game where each level requires a bit of hacking.
+
+URL: https://github.com/tunnelshade/pocuito
+Description: Chrome extension to record and replay your web apps PoCs.
+
+URL: https://www.unforgettable.dk/
+Description: 42.zip.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?8dc3984f5df190f9#/5Nw5RW83zkT8mP1oNIGcm5H60iQ5OGW2F93/mr0ckI=
