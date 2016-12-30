@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 52 | Month: December | Year: 2016 | Release Date: 30/12/2016 | Edition: #150 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://randywestergren.com/persistent-xss-verizons-webmail-client/
+Description: Persistent XSS in Verizon’s Webmail Client.
+
+URL: https://chloe.re/2016/12/04/dealing-with-user-uploaded-files/
+Description: Dealing with user uploaded files.
+
+URL: http://tayyabqadir.com/2016/12/17/paypal-2fa-bypass-by-tayyab-qadir/
+Description: PayPal 2Fa Bypass By Tayyab Qadir.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/rapid7/IoTSeeker
+Description: IoT devices scanner looking for default, factory set credentials.
+
+URL: https://github.com/iljavs/ircfuzz
+Description: Fuzzer for IRC clients (Mirror).
+
+URL: https://gitlab.com/e271/usblogger/tree/master
+Description: Usblogger is a keylogger for embedded devices like the RPi.
+
+URL: https://github.com/p0w3rsh3ll/AutoRuns
+Description: Live incident response and enumerate autoruns artifacts.
+
+URL: https://hackerone.com/reports/142549
+Description: Information Disclosure through .DS_Store.
+
+URL: https://github.com/redpois0n/native-tear
+Description: Clone of hidden tear (Ransomware) written in C++.
+
+URL: https://github.com/lgandx/Responder-Windows
+Description: Responder Windows Version Beta.
+
+URL: https://github.com/r00t-3xp10it/morpheus
+Description: Morpheus - Automated Ettercap TCP/IP Hijacking Tool.
+
+URL: https://goo.gl/fsiEqm (+)
+Description: WordPress XMLRPC brute force attacks via BurpSuite.
+
+URL: https://github.com/aszone/avenger-sh
+Description: Project for finding vunerabilities in mass.
+
+URL: https://github.com/cornerpirate/socat-shell
+Description: Get a Reverse shell with bash tab completion and full shell.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://github.com/drduh/macOS-Security-and-Privacy-Guide
+Description: A practical guide to securing macOS.
+
+URL: https://d0hnuts.com/2016/12/21/basics-of-making-a-rootkit-from-syscall-to-hook/
+Description: Basics of Making a Rootkit - From syscall to hook!
+
+URL: https://goo.gl/uMEzce (+)
+Description: FreePBX 13: From Cross-Site Scripting to Remote Command Execution.
+
+URL: https://goo.gl/SFAHof (+)
+Description: A Story About TP-link Device Debug Protocol (TDDP) Research.
+
+URL: https://goo.gl/Vh6ufm (+)
+Description: ASP.NET Core 5-RC1 HTTP Header Injection Vulnerability.
+
+URL: http://blogs.360.cn/360safe/2016/11/29/three-roads-lead-to-rome-2/
+Description: Three roads lead to Rome (CVE-2016-7201).
+
+URL: http://0xthem.blogspot.pt/2015/03/hijacking-ssh-to-inject-port-forwards.html
+Description: Hijacking SSH to Inject Port Forwards.
+
+URL: https://dhavalkapil.com/blogs/SQL-Attack-Constraint-Based/
+Description: SQL Attack (Constraint-based).
+
+URL: https://goo.gl/nzmNqK (+)
+Description: Bypassing Application Whitelisting By Using dnx.exe.
+
+URL: https://www.robertputt.co.uk/2016/11/28/learn-from-your-attackers-ssh-honeypot/
+Description: Learn from your attackers – SSH HoneyPot.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://docker-saigon.github.io/post/Docker-Internals/
+Description: Docker Internals.
+
+URL: https://github.com/ajgon/street-fighter-motd
+Description: Street Fighter MOTDs.
+
+URL: https://github.com/taviso/hotcorner
+Description: Minimal Emulation of GNOME 3 Hot Corners with Windows 10.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?26f553fc7c6d6c32#MUr45b5xh1O0yemGTruwpnRdMwZbgQ1U5uRwpDRoAZs=
