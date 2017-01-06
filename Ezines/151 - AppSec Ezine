@@ -1,0 +1,124 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 01 | Month: January | Year: 2017 | Release Date: 06/01/2016 | Edition: #151 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/NE7btw (+)
+Description: Disclosing the Primary Email address for each Facebook user.
+
+URL: https://github.com/opsxcq/exploit-CVE-2016-10033/
+More: https://goo.gl/JgPZHN (+) | https://goo.gl/g8mZSi (+) | https://goo.gl/TOkEMa (+)
+Description: Exploit PHP’s mail() to get Remote Code Execution (RCE).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://gist.github.com/subTee/c34d0499e232c1501ff9f0a8dd302cbd
+Description: Execute C# From XSLT - Just Interesting.
+
+URL: https://github.com/Sliim/pentest-env
+Description: Pentest environment (kali linux) deployer using vagrant and chef.
+
+URL: https://github.com/mwrlabs/wePWNise
+Description: Tool to generate VBA code that can be used in Office macros/templates.
+
+URL: https://github.com/idanr1986/cuckoo-droid/
+Description: CuckooDroid - Automated Android Malware Analysis.
+
+URL: https://github.com/NytroRST/ShellcodeCompiler
+Description: Compiles C/C++ code, position-independent and NULL-free shellcode (Win).
+
+URL: https://github.com/Cn33liz/MSBuildShell
+Description: MSBuildShell, a Powershell Host running within MSBuild.exe.
+
+URL: https://github.com/CyberPoint/Ruxcon2016ETW
+Description: Make Event Tracing for Widows (ETW) Great Again (Ruxcon 2016).
+ 
+URL: https://github.com/dhamaniasad/HeadlessBrowsers
+Description: A list of (almost) all headless web browsers in existence.
+
+URL: https://github.com/anbud/DroidDucky
+Description: Simple duckyscript interpreter in Bash.
+
+URL: http://security.szurek.pl/e107-cms-211-privilege-escalation.html
+Description: e107 CMS 2.1.1 Privilege Escalation.
+
+URL: https://github.com/milo2012/owaDump
+Description: Search Email Accounts (OWA) for Passwords, PAN numbers and more.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://hacksys.vfreaks.com/research/shellcode-of-death.html
+Description: "Shellcode of Death" (Windows x86).
+
+URL: http://lucumr.pocoo.org/2016/12/29/careful-with-str-format/
+Description: Be Careful with Python's New-Style String Format.
+
+URL: http://asintsov.blogspot.pt/2016/12/bypassing-exploit-protection-of-norton.html
+Description: Bypassing Exploit protection of NORTON Security.
+
+URL: https://goo.gl/f5qb4m (+)
+Description: Covert persistence in Express.js applications.
+
+URL: https://goo.gl/eLAj3P (+)
+Description: Command Injection/Elevation – Environment Variables Revisited.
+
+URL: https://www.swordshield.com/2016/10/multi-tool-multi-user-http-proxy/
+Description: Multi-Tool/User HTTP Proxy - Empire + Metasploit Tweaks (Tips and Tricks).
+
+URL: https://bugs.chromium.org/p/project-zero/issues/detail?id=978
+Description: The Insecurity of Security Software - Kaspersky SSL Interception.
+
+URL: http://www.peter.hartmann.tk/single-post/2016/11/29/Fuzzing-Qt-with-libFuzzer
+Description: Fuzzing Qt with libFuzzer.
+
+URL: https://haveyousecured.blogspot.pt/2016/12/attempting-to-detect-responder-with.html
+Description: (Attempting) to Detect Responder with Sysmon.
+
+URL: https://subt0x10.blogspot.pt/2016/12/mimikatz-delivery-via-clickonce-with.html
+Description: Mimikatz Delivery via ClickOnce with URL Parameters.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/stepchowfun/doesgoogleexecutejavascript
+Description: Does Google Execute JavaScript?
+
+URL: https://github.com/alexertech/python_crash_course
+Description: Python Crash Course.
+
+URL: https://threejs.org
+Description: Web 3D Studio.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?326f34ee24502c9f#hX6+iTIaaxaCg8IhQeKx9xqPF58s9KRbf5VZQAbYMp8=
