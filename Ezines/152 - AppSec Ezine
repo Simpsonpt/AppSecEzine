@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 02 | Month: January | Year: 2017 | Release Date: 13/01/2016 | Edition: #152 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html
+Description: GitHub Enterprise SQL Injection (Bug Bounty).
+
+URL: http://sebastian-lekies.de/csp/bypasses.php
+Description: Collection of CSP bypasses (Dump).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://goo.gl/Qz8NV1 (+)
+PoC: https://goo.gl/U3XVhw (+)
+Description: Exfiltration of User Credentials using WLAN SSID.
+
+URL: https://github.com/lightbulb-framework/lightbulb-framework
+Description: Python framework for auditing web applications firewalls.
+
+URL: https://github.com/mwrlabs/KernelFuzzer
+Description: Cross Platform Kernel Fuzzer Framework.
+
+URL: https://github.com/Sab0tag3d/SIET/
+Description: Smart Install Exploitation Tool.
+
+URL: https://github.com/koczkatamas/kaitai_struct_webide
+Description: Online editor/visualizer for Kaitai Struct .ksy files.
+
+URL: https://github.com/x64dbg/SlothBP
+Description: Collaborative Breakpoint Manager for x64dbg.
+
+URL: https://github.com/dagrz/aws_pwn
+Description: A collection of AWS penetration testing junk.
+
+URL: https://github.com/reevesrs24/WinMACSpoofer
+Description: Windows application for spoofing the MAC address.
+
+URL: https://github.com/codepr/creak
+Description: Poison, reset, spoof, redirect MiTM script.
+
+URL: https://github.com/zxsecurity/gpsnitch
+Description: GPS Spoofer Catcher, the GPS IDS.
+
+URL: https://github.com/rotlogix/lobotomy
+Description: Android Reverse Engineering.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/7diAiw (+)
+PoC: https://github.com/silentsignal/burp-collab-gw
+Description: Exploiting blind SQL injections with Burp Collaborator.
+
+URL: https://lowleveldesign.wordpress.com/2016/11/30/decrypting-asp-net-4-5/
+Description: Decrypting ASP.NET 4.5.
+
+URL: http://www.hemanthjoseph.com/2016/11/how-i-bypassed-apples-most-secure-find.html
+Description: How I Bypassed Apple's Most Secure iCloud Activation Lock.
+
+URL: http://www.kerneronsec.com/2016/02/remote-code-execution-in-cctv-dvrs-of.html
+Description: Remote Code Execution in CCTV-DVR affecting over 70 different vendors.
+
+URL: https://siguza.github.io/cl0ver/
+PoC: https://github.com/Siguza/cl0ver
+Description: tfp0 (task-for-pid-zero) powered by Pegasus.
+
+URL: https://hackmag.com/security/ad-forest/
+Description: The Forest Is Under Control. Taking over the entire AD forest.
+
+URL: http://www.netmux.com/blog/cracking-12-character-above-passwords
+Description: Cracking The 12+ Character Password Barrier, Literally (Tips&Tricks).
+
+URL: http://ramtin-amin.fr/#nvmedma
+Description: Secure Rom extraction on iPhone 6s.
+
+URL: https://github.com/saaramar/Deterministic_LFH
+Description: Have fun with the LowFragmentationHeap (Windowns Research).
+
+URL: https://goo.gl/PVbpJs (+)
+Description: Solving an Android Crackme with a Little Symbolic Execution.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://hackerone.com/reports/5534
+Description: Permanent Denial of Service.
+
+URL: https://www.foo.be/2016/12/OpenPGP-really-works
+Description: OpenPGP really works.
+
+URL: http://chris.beams.io/posts/git-commit/
+Description: How to Write a Git Commit Message.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?145ed6f401b2444c#Bkf2MBNwMq3hBiyn+/bnmQJv59tI9xU/1jnZxy7heu4=
