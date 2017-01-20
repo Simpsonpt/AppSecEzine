@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 03 | Month: January | Year: 2017 | Release Date: 20/01/2016 | Edition: #153 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://finnwea.com/blog/stealing-passwords-from-mcdonalds-users
+Description: Stealing passwords from McDonald's users (AngularJS Security).
+
+URL: http://insert-script.blogspot.pt/2016/10/pdf-how-to-steal-pdfs-by-injecting.html
+Description: PDF - How to steal PDFs by injecting JavaScript.
+
+URL: http://4lemon.ru/2017-01-17_facebook_imagetragick_remote_code_execution.html
+Description: Facebook's ImageTragick Remote Code Execution.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://goo.gl/MdCd6S (+)
+Description: Nagios Core < 4.2.2 - Curl Command Injection (CVE-2016-9565-2008-4796).
+
+URL: https://github.com/zxsecurity/tardgps
+Description: Tool for change the time on a GPS-enabled NTP server.
+
+URL: https://github.com/cheetahsec/avmdbg
+Description: Lightweight debugger for android virtual machine.
+
+URL: http://techlog360.com/all-windows-cmd-commands/
+Description: List Of All Available Windows CMD Commands.
+
+URL: https://github.com/JonnyHightower/neet
+Description: Neet - Network Enumeration and Exploitation Tool.
+
+URL: https://github.com/mandatoryprogrammer/JudasDNS
+Description: Nameserver DNS poisoning attacks made easy.
+
+URL: http://blog.win-fu.com/2016/11/every-windows-10-in-place-upgrade-is.html
+Description: SHIFT+F10 to get a Command Prompt ;).
+
+URL: https://digi.ninja/blog/rdp_show_login_page.php
+Description: Windows RDP client, show login page.
+
+URL: https://gitlab.com/micaksica/CVE-2016-1000304
+Description: Arbitrary code execution vector for PouchDB (CVE-2016-1000304).
+
+URL: http://dumpco.re/cve-2016-7434/
+Description: ntpd remote pre-auth Denial of Service (CVE-2016-7434).
+
+URL: https://github.com/ytisf/PyExfil
+Description: A couple of beta stage tools for data exfiltration.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/U57NCx (+)
+PoC: https://github.com/malerisch/omnivista-8770-unauth-rce
+Description: How I learned GIOP and gained Unauthenticated RCE.
+
+URL: https://github.com/nebgnahz/awesome-iot-hacks
+Description: Hacks in IoT Space so that we can address them (hopefully).
+
+URL: https://goo.gl/ZA2NUG (+)
+Description: A look at how private messengers handle key changes.
+
+URL: http://blog.amossys.fr/intro-to-use-after-free-detection.html
+Description: Use-After-Free detection in binary code by static analysis.
+
+URL: https://goo.gl/abZVVL (+)
+Description: Hacking 27% of the Web via WordPress Auto-Update.
+
+URL: https://insinuator.net/2016/12/analyzing-yet-another-smart-home-device/
+Description: Analyzing yet another Smart Home device.
+
+URL: https://www.curesec.com/blog/article/blog/Tap-039n039-Sniff-185.html
+Description: Tap 'n' Sniff (Red Team Tricks).
+
+URL: https://www.dsinternals.com/en/impersonating-office-365-users-mimikatz/
+Description: Impersonating Office 365 Users With Mimikatz.
+
+URL: https://goo.gl/YXYM3N (+) 
+Description: Practical Android Debugging Via KGDB.
+
+URL: https://hackerone.com/reports/187134
+Description: JSBeautifier BApp - Race condition leads to memory disclosure.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://yolocaust.de/
+Description: YOLOCAUST (Wake up call!).
+
+URL: https://github.com/koalaman/shellcheck
+Description: ShellCheck, a static analysis tool for shell scripts.
+
+URL: https://gist.github.com/marcan/a2eafd605d3d6ac76eb10a7c64f736c3
+Description: Linux kernel initialization, translated to bash.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?9846c18241841d47#yfK5Dr42xxBImo36g1th+OnP/TChs0PibcYBbRAkjus=
