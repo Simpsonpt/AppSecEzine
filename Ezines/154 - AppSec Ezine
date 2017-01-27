@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 04 | Month: January | Year: 2017 | Release Date: 27/01/2017 | Edition: #154 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/90LFIj (+)
+PoC: https://github.com/Mawalu/whatsapp-phishing
+Description: Hijacking Whatsapp accounts using Whatsapp Web.
+
+URL: https://goo.gl/KuuOMq (+)
+Description: Facebook Bug Bounty - Delete Any Video on Facebook.
+
+URL: https://httpsonly.blogspot.pt/2017/01/0day-writeup-xxe-in-ubercom.html
+Description: 0day writeup - XXE in uber.com.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/vvalien/SharpMeter
+Demo: https://pbs.twimg.com/tweet_video/Cym5KtNXcAE9J5H.mp4
+Description: A Simple Way To Make Meterpreter Reverse Payloads.
+
+URL: https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
+Description: Windows Privilege Escalation Methods for Pentesters.
+
+URL: https://gist.github.com/anonymous/f0b9a85e25ea097f810b4d79e9e005a5
+Description: This script attempts to decode common PowerShell encoded scripts.
+
+URL: https://gist.github.com/chtg/4849e0c2cfc1f08eb6532f347594c66c
+Description: GMP Deserialization Type Confusion Vulnerability (MyBB <= 1.8.3 RCE).
+
+URL: https://github.com/JLospinoso/beamgun/
+Description: A USB Rubber Ducky defeat program for Windows.
+
+URL: https://gist.github.com/Wack0/a3435cafa5eb372b190f971190a506b8
+Description: IoT webcams - RCE, reverse shell PoC (qemu).
+
+URL: https://github.com/lanmaster53/honeybadger
+Description: HoneyBadger is a framework for targeted geolocation.
+
+URL: https://github.com/Screetsec/Brutal
+Description: Teensy 3.x payloads generation tool.
+
+URL: https://github.com/IOActive/I-know-where-your-page-lives
+Description: Derandomizing the latest Windows 10 Kernel (ZeroNights 2016).
+
+URL: https://github.com/ewilded/shelling
+Description: OS command injection research and testing.
+
+URL: http://andresriancho.github.io/nimbostratus/
+Description: Tools for fingerprinting and exploiting Amazon cloud infrastructures.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://yurichev.com/writings/toy_decompiler.pdf
+PoC: https://github.com/dennis714/random_notes/tree/master/toy%20decompiler
+Description: Toy decompiler for x86-64 written in Python.
+
+URL: https://woumn.wordpress.com/2016/12/07/rop-heap-spray-for-a-reverse-shell-in-ie8/
+Description: ROP&Heap Spray for a Reverse Shell in IE8.
+
+URL: http://sten0.ghost.io/2016/10/13/abusing-dorking-and-robots-txt/
+Description: Dorking and Robots.txt.
+
+URL: https://nation.state.actor/mcafee.html
+Description: McAfee Virus Scan for Linux (Pwn).
+
+URL: https://boredhackerblog.blogspot.pt/2016/02/how-we-broke-into-your-house.html
+Description: How we broke into your house (RTL-SDR research).
+
+URL: https://pentest.blog/data-ex-filtration-with-dns-in-sqli-attacks/
+Description: Data Exfiltration with DNS in SQLi attacks.
+
+URL: https://securitycafe.ro/2017/01/18/practical-jsonp-injection/
+Description: Practical JSONP Injection.
+
+URL: https://0x00sec.org/t/remote-exploit-shellcode-without-sockets/1440
+Description: Remote Exploit. Shellcode without Sockets.
+
+URL: http://blog.tihmstar.net/2017/01/how-to-downgrade-without-jailbreak.html
+Description: How to downgrade without jailbreak using prometheus.
+
+URL: https://goo.gl/eUDIqC (+)
+Description: Hooking Android System Calls for Pleasure and Benefit.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://astronaut.io/
+Description: Home videos from the past week.
+
+URL: https://goo.gl/N9Ia4k (+)
+Description: A Pentester’s Cache of 0-days.
+
+URL: https://github.com/oneuijs/You-Dont-Need-jQuery
+Description: You Don't Need jQuery.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?967eaad933afd9fc#zA+/C+glEOEwyRy3kaTDlTMEfIzagR/l1JnCtd5VP7A=
