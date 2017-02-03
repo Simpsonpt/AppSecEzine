@@ -17,7 +17,7 @@ URL: https://s1gnalcha0s.github.io/epub/2017/01/25/This-book-reads-you.html
 Description: This book reads you - exploiting ePub book format.
 
 URL: http://phrack.org/papers/cyber_grand_shellphish.html
-Description: Attacking JavaScript Engines (CVE-2016-4622).
+Description: A case study of JSCore and CVE-2016-4622 (Attacking JS Engines).
 
 URL: https://hackerone.com/reports/166942
 Description: Leaking OAuth authorization to 3rd party websites (callbacks).
