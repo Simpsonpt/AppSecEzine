@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 05 | Month: February | Year: 2017 | Release Date: 03/02/2017 | Edition: #155 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://s1gnalcha0s.github.io/epub/2017/01/25/This-book-reads-you.html
+Description: This book reads you - exploiting ePub book format.
+
+URL: http://phrack.org/papers/cyber_grand_shellphish.html
+Description: Attacking JavaScript Engines (CVE-2016-4622).
+
+URL: https://hackerone.com/reports/166942
+Description: Leaking OAuth authorization to 3rd party websites (callbacks).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://doxmyipwindowstool.codeplex.com/
+Description: Simple IP address browser for Windows.
+
+URL: https://github.com/OWASP/glue
+Description: Application Security Automation.
+
+URL: https://github.com/nowsecure/r2frida
+Description: Radare2 and Frida better together.
+
+URL: https://phpinfo.me/2016/07/07/1275.html
+Description: Redis Hacks Dump (Tips&Tricks).
+
+URL: https://github.com/mazen160/server-status_PWN
+Description: Apache server-status monitor and information extraction.
+
+URL: https://github.com/John-Lin/docker-snort
+Description: Snort in Docker for Network Functions Virtualization (NFV).
+
+URL: https://github.com/dxa4481/whatsinmyredis
+Description: Redis ransomware and data stealer.
+
+URL: https://github.com/darryllane/Bluto
+Description: Recon swiss army knife.
+
+URL: https://github.com/govolution/avet
+Description: AntiVirus Evasion Tool.
+
+URL: https://github.com/Cn33liz/HSEVD-ArbitraryOverwriteGDI
+Description: HackSys Extreme Vulnerable Driver.
+
+URL: http://security.szurek.pl/winpower-v4904-privilege-escalation.html
+Description: WinPower V4.9.0.4 Privilege Escalation.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://web-in-security.blogspot.pt/2017/01/printer-security.html
+More: http://seclists.org/fulldisclosure/2017/Jan/89
+Description: Printer Exploitation Research.
+
+URL: https://raz0r.name/articles/universal-isomorphic-web-applications-security/
+Description: Universal (Isomorphic) Web Applications Security (React and Redux).
+
+URL: https://goo.gl/9LGkzY (+)
+Description: Simple domain fronting PoC with GAE C2 server.
+
+URL: https://lukasa.co.uk/2016/12/Debugging_Your_Operating_System/
+Description: Debugging Your Operating System - A Lesson In Memory Allocation.
+
+URL: https://github.com/dennis714/RE-for-beginners
+Description: Reverse Engineering for Beginners (Book).
+
+URL: http://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html
+PoC: http://canarytokens.com/generate
+Description: Quick, Free, Detection for the Masses.
+
+URL: https://goo.gl/qFFdEI (+)
+Description: Exploiting IoT enabled BLE smart bulb security.
+
+URL: https://goo.gl/wrJFoL (+)
+Description: Local Privilege Escalation in Illumos via /proc.
+
+URL: http://blog.volema.com/nginx-insecurities.html#.WFMh_WGLSV5
+Description: Some cases of insecure NGINX configurations.
+
+URL: http://blog.frizk.net/2016/12/filevault-password-retrieval.html
+Description: macOS FileVault2 Password Retrieval.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://incept10n.com/
+Description: Polyglot Inception4 (JPEG = CSS = JS = HTML).
+
+URL: https://www.expeditedssl.com/aws-in-plain-english
+Description: Amazon Web Services in Plain English.
+
+URL: https://cmdchallenge.com/
+Description: Are you up for the command line challenge?
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?2f6e0668d3c83e41#TP8vUp9lofYN5gEmR5j1m7LMTBd0hWd/BYUfLQgGkpc=
