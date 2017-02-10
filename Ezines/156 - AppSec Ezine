@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 06 | Month: February | Year: 2017 | Release Date: 10/02/2017 | Edition: #156 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/9zv6U7 (+)
+More: https://blogs.akamai.com/2017/02/wordpress-web-api-vulnerability.html
+PoCs: https://goo.gl/ZMkHWG (+)
+Description: Content Injection Vulnerability in WordPress.
+
+URL: http://sirdarckcat.blogspot.pt/2017/02/unpatched-0day-jquery-mobile-xss.html
+Description: Unpatched (0day) jQuery Mobile XSS.
+
+URL: https://goo.gl/fuAQaC (+)
+Description: Turning Self-XSS into Good-XSS (AirBnb Bug Bounty).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/secretsquirrel/fido
+More: https://modexp.wordpress.com/2017/02/03/shellcode-iat/
+Description: Teaching old shellcode new tricks.
+
+URL: https://github.com/iadgov/Secure-Host-Baseline
+Description: DoD Windows 10 Secure Host Baseline (Configs and files).
+
+URL: https://sensepost.com/blog/2016/intercepting-passwords-with-empire-and-winning/
+Description: Intercepting passwords with Empire and winning!
+
+URL: https://github.com/mozilla/minion
+Description: Minion is a security testing framework built by Mozilla.
+
+URL: https://github.com/CoalfireLabs/java_deserialization_exploits
+Description: A collection of Java Deserialization Exploits.
+
+URL: https://github.com/trustedsec/tap
+Description: The TrustedSec Attack Platform (TAP).
+
+URL: https://zerosum0x0.blogspot.pt/2016/05/xml-attack-for-c-remote-code-execution.html
+Description: XML Attack for C# Remote Code Execution.
+
+URL: https://github.com/yujokang/epex
+Description: EPEx - Error Path Exploration for Finding Error Handling Bugs.
+
+URL: https://github.com/mateuszk87/PcapViz
+Description: Visualize network topologies and graph statistics based on pcap files.
+
+URL: https://github.com/sensepost/xrdp
+Description: RDP tool for X11 protocol exploiting unauthenticated x11 sessions.
+
+URL: https://goo.gl/8eHB5Y (+)
+Description: Microsoft PowerShell - XML External Entity Injection.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/ssYMu2 (+)
+More: https://goo.gl/yTcjNS (+)
+Description: OpenSSL 1.1.0 Vulnerability Analysis (CVE-2016-7054).
+
+URL: https://goo.gl/CYvxms (+)
+Description: Type Juggling and PHP Object Injection, and SQLi, Oh My!
+
+URL: https://goo.gl/KqHGkN (+)
+Description: Exploiting Node.js deserialization bug for Remote Code Execution.
+
+URL: https://filippo.io/Ticketbleed/
+Description: Ticketbleed - F5 BIG-IP TLS/SSL stack issue (CVE-2016-9244).
+
+URL: https://hackerone.com/reports/172562
+Description: LZMADecompressor.decompress Use After Free in Python.
+
+URL: https://techblog.mediaservice.net/2016/10/exploiting-ognl-injection/
+Description: Exploiting OGNL Inj. of Apache Struts (Expression Language Injection).
+
+URL: https://osandamalith.com/2017/02/03/mysql-out-of-band-hacking/
+Description: MySQL Out-of-Band Hacking.
+
+URL: https://securityresear.ch/2017/02/08/oneplus3-bootloader-vulns/
+Description: Owning a Locked OnePlus 3/3T - Bootloader Vulnerabilities.
+
+URL: https://blog.appcanary.com/2017/http-security-headers.html
+Description: Everything you need to know about HTTP security headers.
+
+URL: http://theori.io/research/chakra-jit-cfg-bypass
+Description: Chakra JIT CFG Bypass.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/andrew-d/emoji256
+Description: Base256 encoding with emoji.
+
+URL: https://github.com/Sliim/pentest-lab
+Description: Pentest Lab on OpenStack with Heat & Chef provisioning.
+
+URL: https://xuset.github.io/planktos/
+Description: Serving websites over bittorrent.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?ec2c4958ba9f26e4#X8vcydFnYNJslVy+xqFc6sGPKO7IlU+s1sk8JWv2i3U=
