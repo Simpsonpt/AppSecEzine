@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 07 | Month: February | Year: 2017 | Release Date: 17/02/2017 | Edition: #157 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://deadpool.sh/2017/RCE-Springs/
+Description: Spring Boot RCE.
+
+URL: https://www.brokenbrowser.com/uxss-ie-htmlfile/
+Description: SOP bypass/UXSS on IE11 htmlFile.
+
+URL: https://goo.gl/nlojkc (+)
+Description: Google Bug Hunter Account Hijack with Two Clicks in IE.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/farrokhi/dnsdiag
+Blog: https://blog.webernetz.net/2016/12/06/detect-dns-spoofing-dnstraceroute/
+Description: DNS Diagnostics and Performance Measurement Tools.
+
+URL: https://github.com/rsmudge/ElevateKit
+Description: Cobalt Strike's Beacon payload w/ 3rd Party PE scripts.
+
+URL: https://goo.gl/R9gdqX (+)
+Description: Adobe Flash Player SOP bypass.
+
+URL: http://blog.inspired-sec.com/archive/2017/02/14/Mail-Server-Setup.html
+Description: Mail Servers Made Easy.
+
+URL: https://github.com/decalage2/ViperMonkey
+Docker: https://github.com/xme/dockers/tree/master/vipermonkey
+Description: A VBA parser and emulation engine to analyze malicious macros.
+
+URL: https://github.com/JakeWharton/pidcat
+Description: Colored logcat to show log entries for a specific application.
+
+URL: https://github.com/techbliss/Python_editor
+Description: Better CodeEditor for Ida Pro.
+
+URL: https://github.com/graniet/Inspector
+Description: Privilege Escalation Unix helper.
+
+URL: https://github.com/refractionPOINT/limacharlie
+Description: Endpoint monitoring stack.
+
+URL: https://github.com/GDSSecurity/xxe-recursive-download
+Description: This tool exploits XXE to retrieve files from a target server. 
+
+URL: https://github.com/PinDemonium/PinDemonium
+Description: An implementation of a generic unpacker based on Intel PIN.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/vOXIvA (+)
+PoC: https://github.com/cloudsek/Mutator
+Description: Cloud-AI – An Artificial Intelligence on the Cloud.
+
+URL: https://goo.gl/ywuBjX (+)
+Description: Arbitrary command execution vulnerabilities in RVM <=1.28.0.
+
+URL: https://what.pwned.me/index.php/2017/01/23/axis-206-pwned/
+Description: How To Pwn An AXIS 206 IP Cam And Have Fun With It Afterwards.
+
+URL: http://exfil.co/2017/01/17/wiegotcha-rfid-thief/
+Related: http://pidoorman.co.uk/
+Description: Wiegotcha – RFID Thief.
+
+URL: https://www.x41-dsec.de/lab/advisories/x41-2016-signal/
+Description: Vulnerabilities in Signal Private Messenger.
+
+URL: https://www.tazj.in/en/1486830338
+Description: Reverse-engineering WatchGuard Mobile VPN.
+
+URL: https://goo.gl/X7rYaC (+)
+Description: Command Injection Vulnerability in Hostinger.
+
+URL: http://blog.ioactive.com/2016/12/in-flight-hacking-system.html
+Description: In Flight Hacking System.
+
+URL: https://www.foo.be/2017/01/Squashfs_As_A_Forensic_Container
+Description: Squashfs As A Forensic Container.
+
+URL: http://pwnanisec.blogspot.pt/2017/02/use-after-free-in-google-hangouts.html
+Description: Use After Free in Google Hangouts ActiveX.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://vulnsec.com/2017/reverse-engineering-a-book-cover/
+Description: Reverse Engineering a book cover (Writeup).
+
+URL: https://gist.github.com/danielfaust/998441
+Description: Samsung TV Remote Control Python Script.
+
+URL: https://goo.gl/lUkrm7 (+)
+Description: Designing a Business Card in LaTeX.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?c49bad8bbb51ca96#FFk/0/DVgf7WNZfmZ1lykZowGnlL/wwz9IJli69yTxo=
