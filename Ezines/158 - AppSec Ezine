@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 08 | Month: February | Year: 2017 | Release Date: 24/02/2017 | Edition: #158 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://shattered.it/
+Description: We have broken SHA-1 in practice.
+
+URL: https://dhavalkapil.com/blogs/Attacking-the-OAuth-Protocol/
+More: https://sakurity.com/oauth
+Description: Attacking the OAuth Protocol.
+
+URL: https://thesbros.github.io/2017/02/16/geforce-experience-vulnerability.html
+Description: Path traversal vulnerability in NVIDIA GeForce Experience.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://goo.gl/Les62U (+)
+PoC: https://github.com/NetSPI/crossdomainscanner
+Description: Defeating CSRF protections through expired cross-domain.xml domains.
+
+URL: https://github.com/olivo/redos-detector
+Description: Detect RegEx denial-of-service vulnerabilities in Android apps.
+
+URL: https://github.com/f-secure/reflash
+Description: ActionScript3 dynamic instrumentation tool.
+
+URL: https://nlnetlabs.nl/projects/dnssec-trigger/
+Description: Dnssec-trigger reconfigures the local unbound DNS server.
+
+URL: https://github.com/yassineaddi/BackdoorMan
+Description: Find malicious, hidden and suspicious PHP scripts/shells.
+
+URL: http://newandroidbook.com/tools/jtrace.html
+Description: jtrace - augmented, Android aware strace (work in Linux).
+
+URL: http://bernardodamele.blogspot.pt/2011/09/reverse-shells-one-liners.html
+Description: Reverse shells one-liners (Oldies).
+
+URL: https://github.com/jakev/pushstore-parser
+Description: Script to parse Apple Push Notification service files (".pushstore").
+
+URL: http://security-assessment.com/files/documents/advisory/SplunkAdvisory.pdf
+Description: Splunk Enterprise 6.4.3 - Server-Side Request Forgery (SSRF).
+
+URL: https://github.com/google/wycheproof
+Description: Project Wycheproof tests crypto libraries against known attacks.
+
+URL: https://github.com/paulgclark/waveconverter
+Description: An Open Source tool for RF reverse engineering.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://ruimarinho.gitbooks.io/yubikey-handbook/content/
+More: http://www.tedunangst.com/flak/post/using-yubikeys-everywhere
+Description: Yubikey Handbook.
+
+URL: https://goo.gl/hE1V1S (+)
+Description: Compromising Domain Admin in Internal Pentest.
+
+URL: https://www.stevencampbell.info/2017/02/configure-pentest-dropbox-dns-tunneling/
+Description: Configure pentest dropbox DNS tunneling.
+
+URL: https://shiftordie.de/blog/2017/02/18/smtp-over-xxe/
+Description: SMTP over XXE − how to send emails using Java's XML parser.
+
+URL: http://blog.blindspotsecurity.com/2017/02/advisory-javapython-ftp-injections.html
+Description: Java/Python FTP Injections Allow for Firewall Bypass.
+
+URL: https://goo.gl/WW01xo (+)
+Description: Hacking Android phone. How deep the rabbit hole goes.
+
+URL: http://www.cs.vu.nl/~herbertb/download/papers/anc_ndss17.pdf
+Blog: https://www.vusec.net/projects/anc/
+Description: ASLR^CACHE Attack Defeats Address Space Layout Randomization.
+
+URL: https://security.tencent.com/index.php/blog/msg/110
+Description: Android Voice mail forgery vulnerability analysis (CVE-2016-6771).
+
+URL: https://goo.gl/TBPei2 (+)
+Description: How to Test Horizontal&Vertical Authorization Issues in Web Apps?
+
+URL: https://goo.gl/R3ehjE (+)
+Research: https://jhalderm.com/pub/papers/interception-ndss17.pdf
+Description: SSL Fingerprinting and Hijacking.
+
+URL: https://lamehackersguide.blogspot.pt/2017/02/weaponizing-postscript.html
+Description: Weaponizing PostScript.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/k4m4/movies-for-hackers
+Description: A curated list of movies every hacker & cyberpunk must watch.
+
+URL: https://github.com/DimitriFourny/csgo-hack
+Description: Counter-Strike - Global Offensive Hack.
+
+URL: https://github.com/SirCmpwn/evilpass
+Description: Slightly evil password strength checker.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?5d4e9726199d93c0#rMm+qeK5Qurcpu+QS9Qnnnr/eiRLMq+huVuvRFuW7mI=
