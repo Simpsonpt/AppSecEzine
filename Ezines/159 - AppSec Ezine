@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 09 | Month: March | Year: 2017 | Release Date: 03/03/2017 | Edition: #159  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/3V9m3m (+)
+PoC: https://github.com/eastee/rebreakcaptcha
+Description: Breaking Google’s ReCaptcha v2 using.. Google.
+
+URL: http://omergil.blogspot.pt/2017/02/web-cache-deception-attack.html
+Description: Web Cache Deception Attack.
+
+URL: https://www.zyantific.com/blog/bypassing-telekom-fon-hotspot-authentication/
+Description: Bypassing Telekom FON hotspot authentication.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://www.xorrior.com/Empire-Domain-Fronting/
+More: https://goo.gl/CsFOFH (+)
+Description: Empire Domain Fronting.
+
+URL: https://github.com/kylemcdonald/FreeWifi
+Description: How to get free wifi.
+
+URL: http://leucosite.com/FireFox-RCE/
+Description: FireFox RCE by chaining small bugs.
+
+URL: https://github.com/adtac/autovpn
+Description: Easily connect to a VPN in a country of your choice.
+
+URL: https://github.com/Kevin-Robertson/Inveigh/
+Description: Inveigh is a Windows PowerShell LLMNR/NBNS spoofer/mitm tool.
+
+URL: https://github.com/tunz/js-vuln-db
+Description: A collection of JavaScript engine CVEs with PoCs.
+
+URL: https://goo.gl/9Z2HmN (+)
+Description: Stack buffer overflow vulnerability in NETGEAR WNR2000 router.
+
+URL: https://github.com/mattifestation/PowerShellArsenal
+Description: A PowerShell Module Dedicated to Reverse Engineering.
+
+URL: https://github.com/dana-at-cp/backdoor-apk
+Description: Shell script to backdoor any Android APK file.
+
+URL: https://akondrat.blogspot.pt/2016/12/pivoting-kerberos-golden-tickets-in.html
+Description: Pivoting kerberos golden tickets in Linux.
+
+URL: https://github.com/pwnsdx/Security-Bypass
+Description: Bypass alerts of Little Flocker/Snitch, HandsOff! and BlockBlock.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.xyz.is/2016/vita-netps-ioctl.html
+PoC: https://github.com/henkaku/henkaku/blob/stage-2/urop/exploit.rop.in
+Description: Vita sceNetIoctl use-after-free
+
+URL: https://goo.gl/YjcDMC (+)
+Description: Unexpected Journey into the AlienVault OSSIM/USM During Engagement.
+
+URL: https://mijailovic.net/2017/01/22/removing-edge-magazine-drm/
+Description: Removing Edge Magazine DRM.
+
+URL: https://mo.github.io/2017/02/20/cross-origin-resource-sharing.html
+Description: Same-Origin Policy, CSRF and CORS (Reference).
+
+URL: https://improsec.com/blog//windows-kernel-shellcode-on-windows-10-part-1
+Description: Windows Kernel Shellcode on Windows 10.
+
+URL: https://goo.gl/3pCejL (+)
+Description: This domain is my domain - G Suite A record vulnerability.
+
+URL: http://timeofcheck.com/time-based-blind-sqli-on-news-starbucks-com/
+Description: Time-based Blind SQLi on news.starbucks.com.
+
+URL: https://goo.gl/aFfO6E (+)
+Description: Lottapixel -My first 500$ bounty!
+
+URL: https://sagi.io/2016/09/cve-2016-3873-arbitrary-kernel-write-in-nexus-9/
+PoC: https://github.com/sagi/Android_POCs/tree/master/CVE-2016-3873
+Description: CVE-2016-3873: Arbitrary Kernel Write in Nexus 9.
+
+URL: https://team-sik.org/trent_portfolio/password-manager-apps/
+Description: Security issues in major Android password manager apps.
+
+URL: https://www.secureworks.com/blog/attacking-windows-smb-zero-day-vulnerability
+Description: Attacking Windows SMB Zero-Day Vulnerability.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/x0rz/tweets_analyzer
+Blog: https://goo.gl/TdgngP (+)
+Description: Tweets metadata scraper & activity analyzer.
+
+URL: https://github.com/Shmoopty/rpi-appliance-monitor
+Description: Raspberry Pi Appliance Monitor.
+
+URL: http://pc.textmod.es/
+Description: Text Art Preservation.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?6acbbbbb33eef20e#eBu7J6QQzHtEKm8GPLWd6KFGlDQre8arc07KOeIfXBQ=
