@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 10 | Month: March | Year: 2017 | Release Date: 10/03/2017 | Edition: #160  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://klikki.fi/adv/bttv.html
+Description: BetterTTV Chrome extension stored XSS.
+
+URL: https://goo.gl/0GUXQJ (+)
+Description: Hacking Slack using postMessage and WebSocket-reconnect.
+
+URL: https://goo.gl/7yUj5d (+)
+Description: Ok Google, Give Me All Your Internal DNS Information!
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/antire-book/dont_panic
+Book: https://leanpub.com/anti-reverse-engineering-linux
+Description: Linux bind shell with anti-reverse engineering techniques.
+
+URL: https://github.com/michael-myers/MacOS-WPA-PSK
+Description: Script to get wireless key from MacOS NVRAM.
+
+URL: https://github.com/nettitude/xss_payloads
+Description: Payloads for practical exploitation of cross site scripting.
+
+URL: https://github.com/sirusdv/EdgeHTTP2Fuzzer
+Description: HTTP/2 Peach Pit for Microsoft Edge.
+
+URL: https://goo.gl/YrxqHQ (+)
+Description: Bypassing Next-Gen AV For Fun and Profit
+
+URL: https://github.com/Rurik/Noriben
+Description: Noriben - Portable, Simple, Malware Analysis Sandbox.
+
+URL: https://github.com/securifera/cowcron
+Blog: http://research.aurainfosec.io/hunting-for-bugs-101/
+Description: Cronbased Dirty Cow Exploit.
+
+URL: https://github.com/subTee/AllTheThings
+Description: Dump of known application WL/control bypasses in one file.
+
+URL: https://www.redteam-pentesting.de/advisories/rt-sa-2016-001.txt
+Description: Padding Oracle in Apache (2.3 to 2.5) mod_session_crypto.
+
+URL: https://github.com/Arno0x/DNSDelivery
+Description: DNSDelivery use DNS requests as a delivery channel.
+
+URL: https://github.com/dekimir/RamFuzz
+Description: A fuzzer for individual method parameters.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.exploitee.rs/2017/hacking_wd_mycloud/
+More: https://www.exploitee.rs/index.php/Western_Digital_MyCloud
+Description: Hacking the Western Digital MyCloud NAS.
+
+URL: https://www.myhackerhouse.com/naenara-browser-3-5-exploit-jackrabbit/
+Description: Naenara Browser 3.5 exploit (JACKRABBIT).
+
+URL: https://squeal.net/bypassing-twitter-account-protection/
+Description: Bypassing Twitter's account lockout protection.
+
+URL: https://alephsecurity.com/2017/03/08/nexus9-fiq-debugger/
+Description: Attacking Nexus 9 with Malicious Headphones.
+
+URL: https://pierrekim.github.io/blog/2017-03-08-camera-goahead-0day.html
+Description: Multiple vulns found in Wireless IP Camera (P2P) WIFICAM cameras.
+
+URL: https://pages.nist.gov/mobile-threat-catalogue/
+Description: Mobile Threat Catalogue.
+
+URL: https://goo.gl/iVOK1o (+)
+Description: Hijacking Broken Nameservers to Compromise Your Target.
+
+URL: https://goo.gl/1Iml0J (+)
+Description: Siklu EtherHaul Unauthenticated RCE Vulnerability (<7.4.0).
+
+URL: https://goo.gl/6t10EZ (+)
+Description: Privilege Escalation in Amazon Web Services.
+
+URL: https://rftap.github.io/blog/2016/09/01/rftap-wifi.html
+Description: Using RFtap to Detect MAC Spoofing.
+
+URL: https://www.toshellandback.com/2017/02/11/psexec/
+Description: *Puff* *Puff* PSExec.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://jamesbvaughan.com/python-twilio-scraping/
+Description: Finding Free Food with Python.
+
+URL: https://goo.gl/ObQkkZ (+)
+Description: The selinux-coloring-book.
+
+URL: https://thehftguy.com/2017/02/23/docker-in-production-an-update/
+Description: Docker in Production - An Update.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?744541c02fb89360#wsfD19ul8qX6lpO7QLFqR0vxX+Cw09qjBcqR1L1nRWk=
