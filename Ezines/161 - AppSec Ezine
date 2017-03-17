@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 11 | Month: March | Year: 2017 | Release Date: 17/03/2017 | Edition: #161  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/wJH2GY (+)
+Description: Trello Bug Bounty - Stealing the power-up tokens.
+
+URL: https://goo.gl/3mVdcz (+)
+Description: How I found a $5k Google Maps XSS (by fiddling with Protobuf).
+
+URL: https://goo.gl/96ZeIk (+)
+Description: Airbnb - Bypass "all" security mechanism to get valid issues.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/mazen160/struts-pwn
+More: https://goo.gl/Ur1vWV (+) | https://goo.gl/0JIJtv (+)
+Description: An exploit for Apache Struts CVE-2017-5638.
+
+URL: https://github.com/Viralmaniar/Wifi-Dumper
+Description: Tool to dump wifi profiles and cleartext passwords (Windows).
+
+URL: https://github.com/plasma-disassembler/plasma
+Description: Plasma is an interactive disassembler for x86/ARM/MIPS.
+
+URL: https://github.com/C0reL0ader/EaST
+Description: Exploits and Security Tools Framework.
+
+URL: https://github.com/warner/magic-wormhole
+Description: Get things from one computer to another, safely. 
+
+URL: https://blog.sourceclear.com/rails_admin-vulnerability-disclosure/
+Description: Rails_admin Vulnerability Disclosure.
+
+URL: https://github.com/cr0hn/dockerscan
+Description: Docker security analysis tools.
+
+URL: https://github.com/moflow/moflow/
+Description: Framework for vulnerability discovery and triage. 
+
+URL: https://github.com/dominicgs/USBProxy
+Description: A USB MiTM device using USB On-The-Go, libUSB and gadgetFS.
+
+URL: https://github.com/sysown/proxysql
+Description: High-performance MySQL proxy with a GPL license. 
+
+URL: https://github.com/matiasb/unpy2exe
+More: https://github.com/4w4k3/rePy2exe
+Python3: https://github.com/NVISO-BE/decompile-py2exe
+Description: Extract .pyc files from executables created with py2exe.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://pentestdan.com/rop-primer-level-0-explained/
+More: https://goo.gl/HJIWzN (+)
+Description: ROP Primer Level 0 Explained.
+
+URL: https://goo.gl/7t86Kw (+)
+Description: Simple and Terrifying Encryption Story (Ruby AES gem).
+
+URL: http://www.economyofmechanism.com/github-saml.html
+Description: The road to your codebase is paved with forged assertions.
+
+URL: https://securitycafe.ro/2017/02/28/time-based-data-exfiltration/
+Description: Exploiting Timed Based RCE.
+
+URL: https://goo.gl/YVYxD4 (+)
+Description: PowerShell Execution Argument Obfuscation.
+
+URL: https://bierbaumer.net/security/asuswrt/
+Description: ASUSWRT - Multiple Vulnerabilities.
+
+URL: https://bo0om.ru/telegram-love-phdays-en
+Description: Telegram mass hack on PHDays.
+
+URL: https://vez.mrsk.me/freebsd-defaults.txt
+Description: FreeBSD - a lesson in poor defaults.
+
+URL: https://goo.gl/XqLInP (+)
+Description: MS Edge Fetch API allows setting of arbitrary request headers.
+
+URL: http://www.redblue.team/2017/02/abusing-google-app-scripting-through.html
+Description: Abusing Google App Scripting Through Social Engineering.
+
+URL: http://jackson.thuraisamy.me/oracle-opera.html
+Description: RCE and PII Data Exfil in Oracle's Hotel Mgmt (CVE-2016-5663/4/5).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/jaebradley/uber-cli
+Description: Uber (CLI), at your fingertips.
+
+URL: https://yurichev.com/blog/minesweeper/
+Description: Cracking Minesweeper with Z3 SMT solver.
+
+URL: https://rsync.samba.org/how-rsync-works.html
+Description: How Rsync Works - A Practical Overview.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?d73a9371fce3e8c1#zb5BGXq8oKQCmEAlVH+F4Nkvt7jSVOlKdj7Arlbihng=
