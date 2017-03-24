@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 12 | Month: March | Year: 2017 | Release Date: 24/03/2017 | Edition: #162  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/r9a3MX (+)
+Description: SQL injection in an UPDATE query - a bug bounty story!
+
+URL: https://goo.gl/n3QisR (+)
+Description: GitHub Enterprise Remote Code Execution.
+
+URL: http://netanelrub.in/2017/03/20/moodle-remote-code-execution/
+Description: Moodle – Remote Code Execution (CVE-2017-2641).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/NickSanzotta/rc4Gen
+Description: MSF Reverse TCP RC4 payload encoded in PS to the clipboard.
+
+URL: https://github.com/j-0-t/staekka
+Description: Stækka Metasploit - Plugin to extends Metasploit features.
+
+URL: https://github.com/a2o/snoopy
+Description: Log every executed command to syslog (a.k.a. Snoopy Logger).
+
+URL: https://gist.github.com/subTee/3610a16a54bcbc1fe0ebc46313f5c02e
+Description: JS Delivery via SCT (Windows).
+
+URL: http://www.hackwhackandsmack.com/?p=1021
+Description: Speeding up Proxychains with Nmap/Xargs (Tips&Tricks).
+
+URL: https://github.com/cocoahuke/ioskextdump
+Description: Dump Kext information from iOS kernel cache.
+
+URL: https://github.com/pwndbg/pwndbg
+Description: Makes debugging suck less.
+
+URL: https://github.com/probablynotablog/usb-canary
+Description: Linux tool that uses pyudev to monitor USB devices.
+
+URL: https://github.com/Kkevsterrr/backdoorme
+Description: Powerful auto-backdooring utility (Post-explotation).
+
+URL: https://github.com/phar/eyephish
+Description: OpenCV based IDN option generator PoC.
+
+URL: https://github.com/richinseattle/Dockerfiles/blob/master/afl-tools.Dockerfile
+Description: Pre-built image of AFL w/ clang/qemu/afl-dyninst/TriforceAFL.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://biterrant.io/
+Description: BitErrant attack.
+
+URL: https://github.com/Dor1s/libfuzzer-workshop
+Description: Materials of "Modern fuzzing of C/C++ Projects" workshop.
+
+URL: http://www.fuzzysecurity.com/tutorials/28.html
+Description: Capcom Rootkit Proof-Of-Concept.
+
+URL: https://goo.gl/RrCmN1 (+)
+Description: Gargoyle, a memory scanning evasion technique.
+
+URL: http://blog.inspired-sec.com/archive/2017/03/17/COM-Moniker-Privesc.html
+Description: From Patch Tuesday to Domain Administrator.
+
+URL: https://goo.gl/ZEw1eh (+)
+Description: Escalating Local Privileges Using Mobile Partner.
+
+URL: https://goo.gl/GB5Hd7 (+)
+Description: How to hijack RDS and RemoteApp sessions transparently.
+
+URL: https://www.hurricanelabs.com/blog/new-xssi-vector-untold-merits-of-nosniff
+Description: A New XSSI Vector (or the untold merits of nosniff).
+
+URL: https://github.com/dapetcu21/crypto-project
+Description: Breaking Node.js 0.12's RNG.
+
+URL: https://openai.com/blog/adversarial-example-research/
+Description: Attacking machine learning with adversarial examples.
+
+URL: https://blogs.securiteam.com/index.php/archives/3052
+Description: Oracle Knowledge Management XXE Leading to a RCE.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/now-examples/linux-desktop
+Description: "Web" Linux desktop w/ a VNC-over-WebSocket.
+
+URL: http://hwreblog.com/projects/arduino_nand_reader.html
+Description: Arduino based NAND chip reader
+
+URL: https://github.com/cr-marcstevens/sha1collisiondetection
+Description: Library and CLI to detect SHA-1 collision in a file.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?ebe9fbdd53e4f110#CD3LCFBn4lZWcA1u5n1TYQjs3Rw9eKqdCk5rgynVAX0=
