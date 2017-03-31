@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 13 | Month: March | Year: 2017 | Release Date: 31/03/2017 | Edition: #163  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/gNY8Dv (+)
+Description: This book reads you - using JavaScript.
+
+URL: https://stephensclafani.com/2017/03/21/stealing-messenger-com-login-nonces/
+Description: Stealing Messenger.com Login Nonces.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/sekirkity/BrowserGather
+More: https://goo.gl/iUmCBi (+)
+Description: Fileless web browser information extraction.
+
+URL: https://github.com/jasondoyle/Google-Nest-Cam-Bug-Disclosures/
+Description: Google-Nest-Cam-Bug-Disclosures.
+
+URL: https://github.com/Maktm/FLIRTDB
+Description: A community driven collection of IDA (FLIRT) signatures.
+
+URL: https://github.com/theori-io/chakra-2016-11
+Description: PoC for Edge bugs (CVE-2016-7200 & CVE-2016-7201).
+
+URL: https://github.com/CunningLogic/PixelDump_CVE-2016-8462
+Description: Pixel bootloader exploit for reading flash storage (CVE-2016-8462).
+
+URL: https://github.com/bitbeans/SimpleDnsCrypt
+Description: A simple management tool for dnscrypt-proxy (Windows).
+
+URL: https://github.com/docileninja/dress
+Description: Add symbols back into a stripped ELF binary (~strip).
+
+URL: https://github.com/Raikia/FirePhish
+Description: Full-fledged phishing framework to manage all phishing engagements. 
+
+URL: https://github.com/comaeio/Hibr2Bin
+Description: Comae Hibernation File Decompressor.
+
+URL: https://artkond.com/2017/03/23/pivoting-guide/
+Description: A Red Teamer's guide to pivoting.
+
+URL: https://github.com/dafthack/HostRecon
+Description: Reconnaissance phase helper tool avoiding system commands.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/5Zq7Hw (+)
+Description: Improving the security of your SSH private key files.
+
+URL: https://goo.gl/n4fhc3 (+)
+Description: Escaping a Python sandbox with a memory corruption bug.
+
+URL: https://saelo.github.io/posts/firefox-script-loader-overflow.html
+Description: Exploiting a Cross-mmap Overflow in Firefox. (CVE-2016-9066).
+
+URL: http://bugkraut.de/posts/tainting
+Description: Taint me if you can (Ruby Security).
+
+URL: https://www.ibrahim-elsayed.com/?p=150
+Description: SQLi+XXE+File path traversal Deutsche Telekom – recon never ends!
+
+URL: https://blog.silentsignal.eu/2017/02/17/not-so-unique-snowflakes/
+Description: Not so unique snowflakes (UUIDs Security).
+
+URL: https://goo.gl/Ysh7W7 (+)
+Description: First Step to Browser Exploitation.
+
+URL: https://goo.gl/nOQ2iQ (+)
+Description: Getting read access on TGI Friday’s online ordering system.
+
+URL: https://www.invincea.com/2017/03/powershell-exploit-analyzed-line-by-line/
+Description: Powershell Exploit Analyzed Line-by-Line.
+
+URL: http://bugkraut.de/posts/bounty-txt
+Description: GitHub RCE by Environment variable injection Bug Bounty writeup.
+
+URL: https://alephsecurity.com/2017/03/26/oneplus3t-adb-charger/
+Description: Owning OnePlus 3/3T w/ a Malicious Charger - The Last Piece of the Puzzle.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.dancounsell.com/building-a-hackintosh-pro/
+Description: Building a Hackintosh Pro.
+
+URL: https://github.com/Mte90/FB-Android-Crash
+Description: Let's crash the integrated browser in Facebook.
+
+URL: http://cybersquirrel1.com/#
+Description: Disrupting at the highest levels, its #CyberWar4Ever!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?9153ac593046c4c4#pIDhGPuys9TofwBaEY+NcwiR1Q0+oP/aFQbwZzJf0vo=
