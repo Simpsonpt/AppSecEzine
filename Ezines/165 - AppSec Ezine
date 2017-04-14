@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 15 | Month: April | Year: 2017 | Release Date: 14/04/2017 | Edition: #165  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.notsosecure.com/anatomy-hack-sqli-via-crypto/
+Description: Anatomy of a Hack - SQLi via Crypto.
+
+URL: http://blog.intothesymmetry.com/2017/04/csrf-in-facebookdropbox-mallory-added.html
+Description: CSRF in Facebook/Dropbox - "Mallory added a file using Dropbox".
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/beehive-lab/mambo
+Slides: http://www.cs.man.ac.uk/~gorgovc9/slides_hipeac.pdf
+Description: A Low-Overhead Dynamic Binary Modification Tool for ARM.
+
+URL: https://gist.github.com/anonymous/5fd967b3fe5d9201e0ec7a1d35c03a19
+Description: Xiaomi's locked bootloader is insecure and useless.
+
+URL: https://github.com/x0rz/EQGRP 
+More: https://github.com/x0rz/EQGRP_Lost_in_Translation
+Description: Decrypted content of ShadowBrokers (NSA Leaks).
+
+URL: https://github.com/opsdisk/batchconfig
+Description: Create custom Windows batch files from a configuration file.
+
+URL: https://cedricvb.be/post/tracing-api-calls-in-burp-with-frida/
+Description: Tracing API calls in Burp with Frida.
+
+URL: https://github.com/droope/pwlist
+Description: Password lists from strangers attempting to login into my server.
+
+URL: https://github.com/LeonardoNve/dns2proxy
+Description: Offensive DNS server.
+
+URL: https://github.com/comsecuris/gdbida
+Description: Visual bridge between a GDB session and IDA Pro's disassembler.
+
+URL: https://github.com/montyly/gueb
+Description: Static analyzer that performs use-after-free detection on binary. 
+
+URL: https://github.com/CyberDefenseInstitute/CDIR
+Description: CDIR Collector - live collection tool based on oss tool/library.
+
+URL: https://github.com/wkleinhenz/PowerShell-Botnet
+Description: A POC powershell botnet.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.uperesia.com/booby-trapped-shortcut-generator
+Python: https://github.com/carnal0wnage/python_lnk_maker
+Description: Booby trap a shortcut with a backdoor.
+
+URL: https://goo.gl/JA65ce (+)
+Description: Word Up! Microsoft Word OneTableDocumentStream Underflow.
+
+URL: https://www.vgrsec.com/post20170402.html
+Description: A look at how Windows handles Unicode.
+
+URL: https://goo.gl/xQ8tdz (+)
+Description: Cryptographic Flaws In Skype For Business.
+
+URL: http://struct.github.io/oilpan_metadata.html
+Description: Chrome Oilpan - Meta Data, Freelists and more.
+
+URL: https://blogs.securiteam.com/index.php/archives/3107
+Description: Horde Groupware Webmail Multiple RCE Vulnerabilities.
+
+URL: https://a13xp0p0v.github.io/2017/03/24/CVE-2017-2636.html
+Description: Race condition in n_hdlc Linux kernel driver (CVE-2017-2636).
+
+URL: https://goo.gl/GnSddg (+)
+Description: Exploring UNIFI IPTV Notes v1.0.
+
+URL: https://github.com/true-systems/om5p-ac-v2-unlocker/wiki
+Description: Open Mesh OM5P-AC v2 U-Boot unlocker.
+
+URL: https://artkond.com/2017/04/10/cisco-catalyst-remote-code-execution/
+PoC: https://github.com/artkond/cisco-rce/
+Description: Cisco Catalyst RCE Proof-Of-Concept (CVE-2017-3881).
+
+URL: https://goo.gl/ObZ5eL (+)
+Description: WD My Cloud Mirror 2.11.153 RCE and Authentication Bypass.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/cgvwzq/writeups/blob/master/how-to-wasm.md
+Description: How to WebAssembly.
+
+URL: https://github.com/solusipse/spectrology
+Description: Images to audio files with corresponding spectrograms encoder.
+
+URL: https://github.com/spacehuhn/DeauthDetector
+Description: Detect deauthentication frames using an ESP8266.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://www.pathonproject.com/zb/?8cf0b53a4f0ae881#MFPmGDLziA3ohGCz0scRQRLvTl4XS0K65YMJhnjEBSA=
