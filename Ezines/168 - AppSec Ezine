@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 18 | Month: May | Year: 2017 | Release Date: 05/05/2017 | Edition: #168   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://www.paulosyibelo.com/2017/05/twitter-xss-csp-bypass.html
+Description: Twitter XSS + CSP Bypass.
+
+URL: https://hackerone.com/reports/212696
+Description: RCE by command line argument injection (Imgur Bug Bounty).
+
+URL: https://goo.gl/HZn7Yb (+)
+Description: WordPress Core 4.6 - Unauthenticated Remote Code Execution (RCE).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/tyranid/ExploitDotNetDCOM
+PoC: https://bugs.chromium.org/p/project-zero/issues/detail?id=1075
+Description: A tool to exploit .NET DCOM for EoP and RCE.
+
+URL: https://github.com/berzerk0/Probable-Wordlists
+Description: Wordlists sorted by probability (Testing Helper).
+
+URL: https://github.com/Nitr4x/whichCDN
+Description: WhichCDN allows to detect if a given website is protected by a CDN. 
+
+URL: https://github.com/EtixLabs/cameradar
+Description: Cameradar hacks its way into RTSP CCTV cameras.
+
+URL: https://github.com/alainesp/HashSuiteDroid
+Description: Hash Suite Droid.
+
+URL: https://github.com/m4ll0k/WPSeku
+Description: Simple Wordpress Security Scanner.
+
+URL: https://github.com/skahwah/automato
+Description: Automate some of the user-focused enumeration tasks during an pentest.
+
+URL: https://goo.gl/le4nvm (+)
+Description: Microsoft Remote Desktop Client for Mac Remote Code Execution.
+
+URL: https://github.com/dxflatline/flatpipes
+Description: A TCP proxy over named pipes, keep your meterpreter session over 445.
+
+URL: https://github.com/lateralblast/lunar
+Description: A UNIX security auditing tool based on several security frameworks.
+
+URL: https://github.com/tyranid/DotNetToJScript
+Description: Create a JScript file which loads a .NET v2 assembly from memory.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://improsec.com/blog//bypassing-control-flow-guard-in-windows-10
+PoC: https://github.com/MortenSchenk/RtlCaptureContext-CFG-Bypass
+Description: Bypassing Control Flow Guard in Windows 10.
+
+URL: https://stringbleed.github.io
+Description: Stringbleed CVE 2017-5135 SNMP authentication bypass.
+
+URL: https://goo.gl/F1xBst (+)
+Description: Apache and Java Information Disclosures Lead to Shells.
+
+URL: https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/
+Description: Android Applications Reversing 101.
+
+URL: https://blog.joshlemon.com.au/protecting-your-pdf-files-and-metadata/
+Description: Removing Your PDF Metadata & Protecting PDF Files.
+
+URL: http://www.abatchy.com/2017/05/tcp-bind-shell-in-assembly-null.html
+Description: TCP Bind Shell in Assembly (null-free/Linux x86).
+
+URL: https://goo.gl/V6EsOr (+)
+Description: QuickZip 4.60 - Win7x64 SEH Overflow (Egghunter) w/ Custom Encoder.
+
+URL: https://www.vgrsec.com/post20170219.html
+More: https://goo.gl/KTPvGT (+)
+Description: Unicode Domains are bad and you should feel bad for supporting them.
+
+URL: http://blog.jpcert.or.jp/2016/01/windows-commands-abused-by-attackers.html
+Description: Windows Commands Abused by Attackers.
+
+URL: https://poshsecurity.com/blog/deconstructing-secure-http-without-https
+Description: Deconstructing Secure HTTP without HTTPS (Review).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/sidtechnical/hakuna-metadata-1
+Description: Browsing history visualization.
+
+URL: https://github.com/kamranahmedse/developer-roadmap
+Description: Roadmap to becoming a web developer in 2017.
+
+URL: https://theshell.xyz/
+Description: Ghost in the Shell (remake).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?136abd49d06f2543#21B2SOdd8kJTGfE9l3C+CebNBsYJ9oPJJpL4TutU3lc=
