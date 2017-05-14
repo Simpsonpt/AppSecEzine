@@ -1,0 +1,125 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 19 | Month: May | Year: 2017 | Release Date: 12/05/2017 | Edition: #169   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bugs.chromium.org/p/project-zero/issues/detail?id=1252&desc=5
+Description: Remotely Exploitable Type Confusion in Windows 8,10, Server and more.
+
+URL: https://hackerone.com/reports/88719
+Description: Multiple DOMXSS on Amplify Web Player (Twitter Bug Bounty - Oldies).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/dfirfpi/decwindbx
+Description: A sort of a toolkit to decrypt Dropbox Windows DBX files.
+
+URL: https://github.com/corna/me_cleaner
+Description: Tool for partial deblobbing of Intel ME/TXE firmware images.
+
+URL: https://github.com/DamonMohammadbagher/NativePayload_DNS
+Blog: https://goo.gl/Xdz99b (+)
+Description: C# code for Backdoor Payloads transfer by DNS and Bypassing AVs.
+
+URL: https://github.com/doyensec/ajpfuzzer
+Description: A command-line fuzzer for the Apache JServ Protocol (ajp13).
+
+URL: https://github.com/masatokinugawa/filterbypass/wiki
+Description: Browser's XSS Filter Bypass Cheat Sheet.
+
+URL: https://github.com/hasherezade/chimera_loader
+Description: A PE injector type - alternative to RunPE and ReflectiveLoader.
+
+URL: https://github.com/uber/focuson
+Description: A tool to surface security issues in python code.
+
+URL: https://github.com/cs01/gdbgui/
+Description: A browser-based frontend/gui for GDB.
+
+URL: https://github.com/Kevin-Robertson/Tater
+Description: Tater is a PowerShell implementation of the Hot Potato Windows EoP.
+
+URL: https://github.com/r00t-3xp10it/backdoorppt
+Description: Transform your payload.exe into one fake Word Doc.
+
+URL: https://github.com/kd0kkv/intel_amt_bypass/blob/master/amibypass.py
+Description: Simple POC for Intel Amt CVE-2017-5689.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://quanyang.github.io/part-1-continuous-pwning/
+PoC: http://taint.spro.ink/
+Description: Continuous Pwning of the Top 1000 WordPress Plugins.
+
+URL: https://goo.gl/h2dWbh (+)
+Description: From 404 and default pages to RCE via .cshtml webshell
+
+URL: https://phoenhex.re/2017-05-04/pwn2own17-cachedcall-uaf
+Description: Pwn2Own 2017 - UAF in JSC::CachedCall (WebKit).
+
+URL: https://insinuator.net/2017/05/git-shell-bypass-by-abusing-less-cve-2017-8386/
+Description: Git Shell Bypass By Abusing Less (CVE-2017-8386).
+
+URL: https://goo.gl/728eER (+)
+Description: RPCBomb - Remote rpcbind denial-of-service + patches.
+
+URL: https://goo.gl/4J95NW (+)
+Description: A long old way to Domain Admin: Propagating Infections.
+
+URL: https://micahflee.com/2017/04/breaking-the-security-model-of-subgraph-os/
+Description: Breaking the Security Model of Subgraph OS.
+
+URL: https://bugs.chromium.org/p/project-zero/issues/detail?id=1096
+Description: Cisco - Magic WebEx URL Allows Arbitrary Remote Command Execution.
+
+URL: https://blogs.securiteam.com/index.php/archives/3171
+Description: CloudBees Jenkins Unauthenticated Code Execution.
+
+URL: http://snf.github.io/2017/05/04/exploit-protection-i-page-heap/
+Description: How to Protect an Exploit: Detecting PageHeap.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/pirate/pocket-archive-stream
+Description: Save an archived copy of all websites starred using Pocket.
+
+URL: https://github.com/hobby-kube/guide
+Description: Kubernetes clusters for the hobbyist.
+
+URL: https://goo.gl/3npUqt (+)
+Description: CAN bus reverse-engineering with Arduino and iOS.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?0d20bd7c8fd3f05c#gTzXY4VUbrp8Y+JB2txwAFZZRCftQJFl2LFZ0e/SHPQ=
