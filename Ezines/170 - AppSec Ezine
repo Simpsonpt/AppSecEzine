@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 20 | Month: May | Year: 2017 | Release Date: 19/05/2017 | Edition: #170   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://slashcrypto.org/2017/05/17/5k_Error_Page/
+Description: Google Bug Bounty - The 5k Error Page.
+
+URL: https://goo.gl/ium1x1 (+)
+Description: One Cloud-based Local File Inclusion = Many Companies affected.
+
+URL: https://goo.gl/QNgi0K (+)
+Description: Chaining 3 Minor Issues To Takeover Flickr Accounts (Yahoo Bug Bounty).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://goo.gl/9TL0an (+)
+Description: Internet Explorer XSS Filter Bypass for POST with PDF.
+
+URL: https://github.com/freener/exploits/tree/master/CVE-2016-5342
+Description: EoP vulnerability in Qualcomm Wi-Fi (CVE-2016-5342).
+
+URL: https://github.com/artkond/Invoke-Vnc
+Description: Powershell VNC injector.
+
+URL: https://goo.gl/XQohRS (+)
+Description: Powershell Script that will use ADS to achieve persistence.
+
+URL: https://github.com/504ensicsLabs/LiME
+Description: LiME ~ Linux Memory Extractor.
+
+URL: https://github.com/hteso/iaito
+Description: A Qt and C++ GUI for radare2 reverse engineering framework.
+
+URL: https://klue.github.io/blog/2017/04/macos_kernel_debugging_vbox/
+Description: Debugging macOS Kernel using VirtualBox.
+
+URL: https://github.com/XiphosResearch/exploits/tree/master/screen2root
+Description: Get root with the help of Screen version 4.05.00.
+
+URL: https://github.com/aainz/TinyNuke
+Description: Source code of TinyNuke which is a zeus-style trojan.
+
+URL: https://github.com/eliasgranderubio/dagda
+Description: Static analysis of known vulnerabilities in docker images/containers.
+
+URL: https://github.com/openstack/bandit
+Description: Python AST-based static analyzer from OpenStack Security Group.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://checkmarx.gitbooks.io/go-scp/
+Description: Go Language - Web Application Secure Coding Practices.
+
+URL: https://irssi.org/2017/05/12/fuzzing-irssi/
+Description: Fuzzing Irssi using AFL.
+
+URL: https://shhnjk.blogspot.pt/2017/05/is-your-epub-reader-secure-enough.html
+Description: Is your ePub reader secure enough?
+
+URL: https://unmitigatedrisk.com/?p=586
+Description: How to keep a secret in Windows.
+
+URL: https://goo.gl/AuoG68 (+)
+More: https://goo.gl/XpJGvM (+)
+Description: Meraki RCE - When Red Team and Vulnerability Research fell in love.
+
+URL: https://modexp.wordpress.com/2017/01/24/shellcode-x84/
+Description: Multimode PIC for x86 (Reverse and Bind Shells for Windows).
+
+URL: https://blog.bi.tk/2017/01/20/findbug/
+Description: FindBUG XSS Challenge.
+
+URL: https://goo.gl/7eGSu8 (+)
+Description: Penetration Testing Amazon Web Services (AWS).
+
+URL: https://xerub.github.io/ios/kpp/2017/04/13/tick-tock.html
+Description: iOS Kernel Integrity Protection bypass.
+
+URL: http://www.unixwiz.net/techtips/sql-injection.html
+Description: SQL Injection Attacks by Example.
+
+URL: https://goo.gl/KKSSqD (+)
+Description: WordPress Core <= 4.7.4 Potential Unauthorized Password Reset.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://goo.gl/DGJIZJ (+)
+Description: OH LORDY! Comey Wanna Cry Edition.
+
+URL: https://devnull-as-a-service.com/features/
+Description: /dev/null as a Service.
+
+URL: https://github.com/schollz/howmanypeoplearearound
+Description: Count the number of people around you by monitoring wifi signals.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?9df6367e14bde16e#XtrRlxeImnoWr+NFLQJmMnvQKVr1TcbsVaVtbJLQyg8=
