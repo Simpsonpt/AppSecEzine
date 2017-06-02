@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 22 | Month: June | Year: 2017 | Release Date: 02/06/2017 | Edition: #172  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://research.rootme.in/h1-xssi/
+Description: HackerOne XSSI - Stealing multi line strings.
+
+URL: https://ysx.me.uk/road-to-unauthenticated-recovery-downloading-github-saml-codes/
+More: http://blog.intothesymmetry.com/2017/05/cross-origin-brute-forcing-of-saml-and.html
+Description: Road to (unauthenticated) recovery - downloading GitHub SSO bypass codes.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/0x4D31/honeybits
+Description: Create and place breadcrumbs, honeytokens/traps or honeybits.
+
+URL: https://github.com/v-p-b/ivmi
+Demo: https://asciinema.org/a/3j9el72b51ap041wezz06xsmp
+Description: Interactive Virtual Machine Introspection.
+
+URL: https://goo.gl/rkzXun (+)
+Description: How to TCPdump effectively in Docker.
+
+URL: https://github.com/ddurvaux/WebShoot
+Description: Framework for analysis of suspicious website.
+
+URL: https://github.com/lgandx/PoC/tree/master/SMBv3%20Tree%20Connect
+Description: SMBv3 DoS - Windows 2012/2016 affected.
+
+URL: https://github.com/olacabs/jackhammer
+Description: Jackhammer - One Security vulnerability assessment/management tool.
+
+URL: https://github.com/XiphosResearch/exploits/tree/master/Joomblah
+Description: Exploit for Joomla 3.7.0 (CVE-2017-8917).
+
+URL: https://github.com/anshumanbh/brutesubs
+Description: Framework for running multiple open sourced subdomain bruteforcing tools.
+
+URL: https://github.com/0x00string/oldays/blob/master/CVE-2015-1158.py
+Description: CUPS Reference Count Over Decrement Remote Code Execution (CVE-2015-1158).
+
+URL: https://github.com/4w4k3/Insanity-Framework
+Description: Generate Payloads and Control Remote Machines.
+
+URL: http://www.thegreycorner.com/2017/01/exploiting-difficult-sql-injection.html
+Description: Exploiting difficult SQL injection vulnerabilities using sqlmap.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://hackerone.com/reports/217745
+Description: XSS in $shop$.myshopify.com/admin/ via "Button Objects" in malicious app.
+
+URL: https://github.com/DhavalKapil/heap-exploitation
+Description: Heap Exploitation Book.
+
+URL: https://goo.gl/OBoFZ1 (+)
+Description: Pivoting from blind SSRF to RCE with HashiCorp Consul.
+
+URL: https://scarybeastsecurity.blogspot.pt/2017/05/bleed-more-powerful-dumping-yahoo.html
+Description: Dumping Yahoo! authentication secrets with an out-of-bounds read.
+
+URL: https://goo.gl/vHiyry (+)
+Description: How to find 56 potential vulnerabilities in FreeBSD code in one evening.
+
+URL: http://wphutte.com/avada-5-1-4-stored-xss-and-csrf/
+Description: WordPress Avada 5.1.4 stored XSS and CSRF.
+
+URL: https://winscripting.blog/2017/05/12/first-entry-welcome-and-uac-bypass/
+Description: Welcome and fileless UAC bypass.
+
+URL: https://goo.gl/p0molg (+)
+Description: Bypassing Control Flow Guard with Structured Exception Handler.
+
+URL: https://sizzop.github.io/2016/07/05/kernel-hacking-with-hevd-part-1.html
+Description: Kernel Hacking With HEVD (Part 1 - 5).
+
+URL: https://lowleveldesign.org/2017/03/07/how-to-securely-sign-dotnet-assemblies/
+Description: How to securely sign .NET assemblies?
+
+URL: https://ysx.me.uk/a-pair-of-plotly-bugs-stored-xss-and-aws-metadata-ssrf/
+Description: A pair of Plotly bugs - Stored XSS and AWS Metadata SSRF.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/
+Description: Using Microsoft Word with git.
+
+URL: http://kubernetesbyexample.com/
+Description: Kubernetes By Example.
+
+URL: https://www.shodan.io/host/203.254.47.164
+Description: "Office of the president".
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?06a9fae33c29a18a#2l/lzVz4eXt0Z/7fVMQPrUFJcUj83u+kAla1CDpgLLo=
