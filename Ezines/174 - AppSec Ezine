@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 24 | Month: June | Year: 2017 | Release Date: 16/06/2017 | Edition: #174  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://pentestit.com/wordsteal-steal-ntlm-hashes-remotely/
+Description: WordSteal - Steal NTLM Hashes from a Remote Computer!
+
+URL: https://www.hackerone.com/blog-How-To-Server-Side-Request-Forgery-SSRF
+Description: How To - Server-Side Request Forgery (SSRF).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/knapsy/scripts/blob/master/PingExfil2.ps1
+Description: Exfiltrate data over ICMP (Windows).
+
+URL: https://goo.gl/Zy8Nhe (+)
+Description: Custom Infected MS Word generator for Metasploit.
+
+URL: https://github.com/m4b/bingrep
+Description: Greps through binaries from various OSs and architectures.
+
+URL: https://github.com/ufrisk/pcileech
+Description: Direct Memory Access (DMA) Attack Software.
+
+URL: https://firefart.at/post/turning_piwik_superuser_creds_into_rce/
+Description: Turning Piwik Superuser Credentials into Remote Code Execution.
+
+URL: https://github.com/thomasdullien/functionsimsearch
+Description: Perform code similarity searches using MinHashing of small subgraphs.
+
+URL: https://github.com/ajinabraham/NodeJsScan/
+Description: NodeJsScan is a static security code scanner for Node.js applications.
+
+URL: https://github.com/airbus-seclab/crashos
+Description: Vuln research in hypervisors by creating unusual system configurations.
+
+URL: https://github.com/ALSchwalm/dwarfexport
+Description: Export dwarf debug information from IDA Pro.
+
+URL: https://goo.gl/Tv6uRg (+)
+Description: A Simple Tool for Linux Kernel Audits.
+
+URL: https://0x00sec.org/t/c-a-simple-runtime-crypter/519
+Description: C# - A Simple Runtime Crypter.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://0patch.blogspot.pt/2017/01/micropatching-remote-code-execution-in.html
+Bug I: https://goo.gl/FQVajY (+) | Bug II: https://goo.gl/KirfPE (+)
+Description: Micropatching RCE in WebEx Browser Extension (CVE-2017-3823).
+
+URL: http://blog.blindspotsecurity.com/2016/09/nodejs-breaking-jade-pug-dlopen.html
+Description: Node.js - Breaking Out of Jade/Pug with process.dlopen().
+
+URL: https://goo.gl/AL1b7q (+)
+Description: Analysis of a Ford Sync Gen 1 Module.
+
+URL: https://www.securitysift.com/understanding-wordpress-auth-cookies
+Description: Understanding WordPress Auth Cookies.
+
+URL: https://medium.com/@br4nsh/from-linux-to-ad-10efb529fae9
+Description: From Linux to AD - ...or how to read the SAMBA machine account.
+
+URL: https://goo.gl/ea1gwR (+)
+Description: How to Write Malleable C2 Profiles for Cobalt Strike.
+
+URL: https://borgandrew.blogspot.pt/2017/01/h1-margin-bottom-0.html
+Description: Format String Exploitation.
+
+URL: https://goo.gl/t23oea (+)
+Description: DLL Tricks with VBA to Improve Offensive Macro Capability.
+
+URL: http://el.che.moe/Writeup_VoiceAttack.html
+Description: A writeup about REing VoiceAttack.
+
+URL: https://blog.kchung.co/rfid-hacking-with-the-proxmark-3/
+Description: RFID Hacking with The Proxmark 3.
+
+URL: https://habrahabr.ru/company/aladdinrd/blog/329166/
+Description: A bug in NTFS, or hang the entire system.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://switchbrew.org
+Description: Wiki dedicated to homebrew on the Nintendo Switch.
+
+URL: http://www.lofibucket.com/articles/64k_intro.html
+Description: How a 64k intro is made.
+
+URL: https://angelmmiguel.github.io/svgi/
+Description: The SVG inspection tool.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://www.pathonproject.com/zb/?e597b5be9b175a5c#2OLGrnSCMoALrlmr8GF5qrGhmVAOkA9KtxDp2y/fBC4=
