@@ -1,0 +1,124 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 26 | Month: June | Year: 2017 | Release Date: 30/06/2017 | Edition: #176  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://ngailong.com/uber-login-csrf-open-redirect-account-takeover/
+Description: Uber - Login CSRF + Open Redirect = Account Takeover.
+
+URL: https://github.com/ChALkeR/notes/blob/master/Gathering-weak-npm-credentials.md
+Description: Gathering weak npm credentials.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/eurialo/vsaudit
+Description: VOIP Security Audit Framework.
+
+URL: https://github.com/leostat/rtfm
+Description: A DB of common, interesting or useful commands.
+
+URL: https://github.com/sourceincite/tools/blob/master/pymsrpc/
+Description: RPC marshalling and transport helper.
+
+URL: https://goo.gl/WyXvVf (+)
+Description: Monitoring HTTPS traffic of a single app on OSX.
+
+URL: https://github.com/vysec/RedTips
+Description: Red Team Tips as posted by @vysecurity on Twitter.
+
+URL: https://github.com/0x09AL/WordSteal
+Description: Steal NTML hashes from a computer via Word Document.
+
+URL: https://github.com/nccgroup/LazyDroid
+Description: Android application assessment helper (Bash).
+
+URL: https://github.com/lief-project/LIEF
+Description: LIEF - Library to Instrument Executable Formats.
+
+URL: http://ostinato.org/
+Description: Network Traffic Generator and Analyzer.
+
+URL: https://github.com/D35m0nd142/LFISuite
+Description: Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner.
+
+URL: https://securityonline.info/bypass-waf-php-webshell-without-numbers-letters/
+Description: PHP webshell without numbers and letters (Bypass WAF).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/ygKLLx (+)
+More: https://goo.gl/dDqfEA (+)
+Description: Reverse Engineering Samsung S6 SBOOT.
+
+URL: https://blog.cylance.com/running-executables-on-macos-from-memory
+Description: Running executables on MacOS from Memory.
+
+URL: https://github.com/straightblast/UnRadAsyncUpload/wiki
+Description: The danger of using Telerik's RadAsyncUpload by default (ASP.NET).
+
+URL: https://www.bishopfox.com/blog/2017/06/how-i-built-an-xss-worm-on-atmail/
+Description: How I Built An XSS Worm On Atmail.
+
+URL: https://goo.gl/PU7zc2 (+)
+Description: Yahoo Small Business (Luminate) and the Not-So-Secret Keys.
+
+URL: https://yurichev.com/blog/symbolic/
+Description: Symbolic execution (by example).
+
+URL: https://www.contextis.com/resources/blog/hacking-unicorns-web-bluetooth/
+Description: Hacking Unicorns with Web Bluetooth.
+
+URL: https://goo.gl/ezUM9n (+)
+Description: Loading and Debugging Windows Kernel Shellcodes with Windbg.
+
+URL: https://jamescoote.co.uk/phishlulz-tutorial/
+Description: Setup and run a Phishlulz campaign for free using Amazon AWS.
+
+URL: https://jankopecky.net/index.php/2017/04/18/0day-textplain-considered-harmful/
+Description: Text/Plain Considered Harmful.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://inspirobot.me/
+Description: I'm InspiroBot.
+
+URL: https://github.com/maierfelix/poxi
+Description: A modern hackable pixel art editor.
+
+URL: https://arogozhnikov.github.io/3d_nn/
+Description: Visualizing level surfaces of a neural network with raymarching.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?d29b634a9dab0852#SbQZR52mLpDXf0JM9VXL24epvuEygn5AW5RnuDlyh0Y=
