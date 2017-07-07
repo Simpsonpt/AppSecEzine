@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 27 | Month: July | Year: 2017 | Release Date: 07/07/2017 | Edition: #177  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/h7QdzQ (+)
+Description: Escalating XSS in PhantomJS Image Rendering to SSRF/Local-File Read.
+
+URL: https://medium.com/@FreedomCoder/following-the-white-rabbit-5e392e3f6fb9
+Description: Following the white Rabbit - Down the SAML Code.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/neex/ffmpeg-avi-m3u-xbin
+Bug: https://goo.gl/5sxNTW (+) | https://goo.gl/vFgmbE (+)
+Description: AVI+M3U+XBIN ffmpeg exploit generator.
+
+URL: https://github.com/mikeryan/crackle
+Description: Crack and decrypt BLE encryption.
+
+URL: https://github.com/iovisor/bcc
+Description: Tools for BPF-based Linux IO analysis, networking and monitoring.
+
+URL: https://github.com/pimps/wsuxploit
+Description: Weaponize the use of WSUSpect Proxy.
+
+URL: https://mrpapercut.com/sites/wscript/
+Description: WScript Emulator.
+
+URL: https://github.com/Cisco-Talos/MBRFilter 
+Description: Cisco Talos MBR Filter Driver (Readonly Sector 0 on disks).
+
+URL: https://github.com/psych0tr1a/elScripto
+Description: XSS explot kit/Blind XSS framework/BurpSuite extension.
+
+URL: https://github.com/DenizParlak/Zeus
+Description: AWS Auditing and Hardening Tool.
+
+URL: https://www.mzrst.com/
+Description: PPEE (puppy) is a Professional PE file Explorer.
+
+URL: https://github.com/nccgroup/mnemosyne
+Description: A Generic Windows Memory Scraping Tool.
+
+URL: https://github.com/sam-b/windows_syscalls_dumper
+Description: IDAPython script to dump windows sys call number/name as JSON.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://hacking-printers.net
+PoC: https://github.com/RUB-NDS/PRET
+Description: Hacking Printers Wiki - Printers (in)security Dump.
+
+URL: https://goo.gl/VD8BxF (+)
+Description: Avast Antivirus - Remote Stack Buffer Overflow with Magic Numbers.
+
+URL: http://vegardno.blogspot.pt/2017/03/fuzzing-openssh-daemon-using-afl.html
+Description: Fuzzing the OpenSSH daemon using AFL.
+
+URL: https://lowleveldesign.org/2017/07/04/decrypting-tfs-secret-variables/
+Description: Decrypting TFS secret variables.
+
+URL: https://github.com/travisgoodspeed/md380tools/wiki/IDAPro
+Description: Reversing MD380 Firmware with IDA Pro.
+
+URL: https://www.itsec.nl/en/2017/06/26/drive-by-remote-code-execution-by-mamp/
+Description: Drive-by remote code execution by MAMP.
+
+URL: https://goo.gl/Jsze4P (+)
+More: https://goo.gl/b1ZFP7 (+)
+Description: Windows Keylogger (Attack on User-Land).
+
+URL: https://goo.gl/41PZHT (+)
+Description: Jenkins to meterpreter toying with powersploit.
+
+URL: https://blog.rubidus.com/2017/02/06/preventing-subdomain-takeover/
+Description: Preventing Subdomain Takeovers for Shared Hosting Providers.
+
+URL: https://dev.to/fenceposterror/hacking-open-source-software-for-fun-and-non-profit
+Description: Hacking Open Source Software for Fun and Non-Profit.
+
+URL: https://zerosum0x0.blogspot.pt/2017/07/puppet-strings-dirty-secret-for-free.html
+Description: Puppet Strings - Dirty Secret for Windows Ring 0 Code Execution.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://blog.haschek.at/post/f2fda
+Description: How to defend your website with ZIP bombs.
+
+URL: https://github.com/drego85/Why-VLC-NEED-to-enforce-HTTPS
+Related: https://github.com/etix/mirrorbits/issues/59
+Description: Why-VLC-NEED-to-enforce-HTTPS.
+
+URL: http://www.righto.com/2017/07/bitcoin-mining-on-vintage-xerox-alto.html
+Description: Bitcoin mining on a vintage Xerox Alto.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?80a917d962c5abfa#GW+oshLW467A83tFfnwhLylv5psNrRAw9G/0bOi/yNk=
