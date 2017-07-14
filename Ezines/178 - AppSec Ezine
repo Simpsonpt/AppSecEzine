@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 28 | Month: July | Year: 2017 | Release Date: 14/07/2017 | Edition: #178  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.zsec.uk/blind-xxe-learning/
+Description: Hunting in the Dark - Blind XXE.
+
+URL: https://goo.gl/5TNzwu (+)
+Description: Making an XSS triggered by CSP bypass on Twitter.
+
+URL: https://goo.gl/Y3odmB (+)
+Description: Authentication bypass on Uber’s Single Sign-On via subdomain takeover.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/sensepost/objection
+Blog: https://sensepost.com/blog/2017/objection-mobile-runtime-exploration/
+Description: objection - Runtime Mobile Exploration.
+
+URL: https://github.com/aploium/shootback
+Description: Reverse TCP tunnel for NAT or firewall bypass (ngrok alternative).
+
+URL: https://github.com/itsreallynick/office-crackros
+Description: Crack your macros like the math pros.
+
+URL: https://github.com/michenriksen/aquatone
+Description: A Tool for Domain Flyovers.
+
+URL: https://gist.github.com/hasherezade/e3b5682fee27500c5dabf5343f447de3
+Description: Persistence key not visible for sysinternals autoruns (PoC).
+
+URL: https://github.com/ac-pm/Inspeckage
+Description: Android Package Inspector (Xposed Module).
+
+URL: https://gist.github.com/ryhanson/227229866af52e2d963cf941af135a52
+Description: Execute DLL via the Excel.Application object's RegisterXLL() method.
+
+URL: https://github.com/secwiki/windows-kernel-exploits
+Description: Windows kernel exploits (Dump).
+
+URL: https://github.com/mdsecactivebreach/RDPInception
+Blog: https://www.mdsec.co.uk/2017/06/rdpinception/
+Description: Remote Desktop Protocol (RDP) Inception Attack.
+
+URL: https://github.com/vitaly-kamluk/bitscout
+Description: Remote forensics meta tool.
+
+URL: https://github.com/didi/VirtualAPK
+Description: A powerful and lightweight plugin framework for Android.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/BhW3Lt (+)
+More: https://goo.gl/TVTVrg (+)
+Description: Unitrends Vulnerability Hunting - RCE (CVE-2017-7280).
+
+URL: https://goo.gl/GSGgjX (+)
+Description: Coinbase AngularJS DOM XSS via Kiteworks.
+
+URL: https://www.rcesecurity.com/2014/07/slae-shell-reverse-tcp-shellcode-linux-x86/
+Description: SLAE - Shell Reverse TCP Shellcode (Linux/x86).
+
+URL: https://myexploit.wordpress.com/hunt-for-the-domain-admin-da/
+Description: Hunt for the Domain Admin (DA).
+
+URL: https://krbtgt.pw/oracle-oam-10g-session-hijacking/
+Description: Oracle OAM 10g Session Hijacking.
+
+URL: https://goo.gl/is7Tyu (+)
+Description: Samsung sBrowser – Android Forensics, A Look Into The Cache Files.
+
+URL: http://boosterok.com/blog/broadpwn/
+Description: A cursory analysis of @nitayart's Broadpwn bug (CVE-2017-9417).
+
+URL: http://www.nmattia.com/posts/2017-03-05-crack-luks-stutter-gnu-parallel.html
+Description: Recover a partial LUKS passphrase with GNU parallel.
+
+URL: https://medium.com/wemake-services/testing-bash-applications-85512e7fe2de
+Description: Testing Bash applications.
+
+URL: https://blog.preempt.com/new-ldap-rdp-relay-vulnerabilities-in-ntlm
+Description: New LDAP & RDP Relay Vulnerabilities in NTLM (CVE-2017-8563).
+
+URL: http://acez.re/the-weak-bug-exploiting-a-heap-overflow-in-vmware/
+Description: The Weak Bug - Exploiting a Heap Overflow in VMware.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://hacker-news.verylegit.link/
+Description: Turn any link into a suspicious looking one.
+
+URL: http://aem1k.com/symmetry/
+Source: https://github.com/aemkei/symmetry/
+Description: Symmetric JavaScript.
+
+URL: https://trueschool.se/html/fonts.html
+Description: Faithfully remade multi platform Amiga fonts in Amiga aspect.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?13fbe299a99c6953#sCGUs0LUpqXhv2185STNEJ6Bjj0kkCeFLr96L5qQ96A=
