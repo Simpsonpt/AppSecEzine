@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 29 | Month: July | Year: 2017 | Release Date: 21/07/2017 | Edition: #179  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/wSKFLS (+)
+Description: How to find internal subdomains? YQL, Yahoo! and bug bounty.
+
+URL: https://xakep.ru/2017/07/06/safari-localfile-read/
+PoC: https://github.com/Bo0oM/Safiler
+Description: How to steal MacOS user data using a single document.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ikoz/jdwp-lib-injector
+Blog: https://koz.io/library-injection-for-debuggable-android-apps/
+Description: Library injection for debuggable Android apps.
+
+URL: https://github.com/Song-Li/cross_browser
+Paper: http://yinzhicao.org/TrackingFree/crossbrowsertracking_NDSS17.pdf
+Description: (Cross-)Browser Fingerprinting via OS and Hardware Level Features.
+
+URL: https://gist.github.com/jobertabma/e9a383a8ad96baa189b65cdc8d74a845
+Description: Commands to exfiltrate command output via ICMP packet size.
+
+URL: https://github.com/graniet/gshark-framework
+Description: Web post exploitation framework.
+
+URL: https://blog.netspi.com/attacking-javascript-web-service-proxies-burp/
+Description: Attacking JavaScript Web Service Proxies with Burp.
+
+URL: https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
+Description: Upgrading simple shells to fully interactive TTYs.
+
+URL: https://github.com/brannondorsey/sniff-probes
+Description: Plug-and-play bash script for sniffing 802.11 probes requests.
+
+URL: https://goo.gl/uLeBCf (+)
+Description: Automating the Empire with the Death Star - Easy Domain Admin.
+
+URL: https://github.com/skavanagh/KeyBox
+Description: KeyBox is a web-based management SSH console.
+
+URL: https://github.com/wafpassproject/wafpass
+Description: Tool for benchmarking security solutions like WAF.
+
+URL: https://goo.gl/ehHr8U (+)
+Description: Auditing CSP headers with Burp and ZAP.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/RmmyFJ (+)
+Description: From fuzzing Apache httpd server to CVE-2017-7668.
+
+URL: http://blog.deniable.org/blog/2017/07/16/inject-all-the-things/
+Description: Inject All the Things (DLL injection).
+
+URL: http://wapiflapi.github.io/2015/04/22/single-null-byte-heap-overflow/
+Description: Visualizing a single null-byte heap overflow exploitation.
+
+URL: https://pentestarmoury.com/2017/07/19/s3-buckets-for-good-and-evil/
+Description: S3 Buckets for Good and Evil.
+
+URL: https://oneupsecurity.com/research/remote-code-execution-in-source-games
+Description: Remote Code Execution in Source Games (CS:GO, TF2, Hl2:DM, ...).
+
+URL: https://www.coresecurity.com/blog/solving-post-exploitation-issue-cve-2017-7308
+PoC: https://github.com/xairy/kernel-exploits/blob/master/CVE-2017-7308/poc.c
+Description: Solving a post exploitation issue with CVE-2017-7308.
+
+URL: http://news.dieweltistgarnichtso.net/posts/gnome-thumbnailer-msi-fail.html
+Description: VBScript Injection via GNOME Thumbnailer.
+
+URL: https://goo.gl/Qc7ZPm (+)
+Description: Understanding the Internet of vibrating things - Lovense's toys.
+
+URL: http://blog.sec-consult.com/2017/06/ghosts-from-past-authentication-bypass.html
+Description: Authentication bypass and OEM backdoors in WiMAX routers.
+
+URL: https://goo.gl/YGBuph (+)
+Description: Dive into AWS S3 access controls – taking control over your assets.
+
+URL: https://goo.gl/vfkPjf (+)
+Description: MySQL Injection in Update, Insert and Delete.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://dmitry.gr/index.php?r=05.Projects&proj=25.%20VMU%20Hacking
+Description: VMU hackery (2017).
+
+URL: https://github.com/leozide/leocad/
+Description: A CAD program for creating virtual LEGO models.
+
+URL: https://github.com/P1kachu/talking-with-cars
+Description: CAN analysis - Use your car as a gamepad!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?9f33699cb27df4ed#sg1Ot7PQbEfmC1QtQXEGhBfbzuVTEfCfRrmrlA6a6s4=
