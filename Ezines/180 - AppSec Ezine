@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 30 | Month: July | Year: 2017 | Release Date: 28/07/2017 | Edition: #180  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/vDEMKL (+)
+Description: Unrestricted File Upload to RCE (PayPal Bug Bounty).
+
+URL: https://gerbenjavado.com/the-race-to-the-top-of-a-bug-bounty-program/
+Description: The race to the top of a bug bounty program.
+
+URL: https://goo.gl/jQJK3U (+)
+Description: Cracking the Lens - Targeting HTTP's Hidden Attack Surface.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/tijme/not-your-average-web-crawler
+Description: Not Your Average Web Crawler.
+
+URL: https://github.com/fireeye/flare-vm
+Description: Windows-based security distribution for security research.
+
+URL: https://github.com/Oros42/IMSI-catcher
+Description: This program show you IMSI numbers of cellphones around you.
+
+URL: https://github.com/brannondorsey/wifi-cracking
+Description: Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat.
+
+URL: https://github.com/bsmali4/xssfork
+Description: Xssfork - A xss detection tool.
+
+URL: https://github.com/ScottyBauer/Android_Kernel_CVE_POCs
+Description: Android Kernel Proofs of concept Exploits.
+
+URL: https://asciinema.org/a/130730
+Description: Unpack OSX malware packed with a modified UPX version.
+
+URL: https://github.com/wallix/awless
+Description: Fast, powerful and easy-to-use CLI to manage Amazon Web Services.
+
+URL: https://github.com/marin-m/pbtk
+Description: A toolset for reverse engineering and fuzzing Protobuf-based apps.
+
+URL: https://github.com/skyleronken/owa_brute
+Description: Horizontal Brute Forcing tool for OWA.
+
+URL: https://github.com/malwareinfosec/EKFiddle
+Description: A framework to study Exploit Kits.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://security.gerhardt.link/RCE-in-Factorio/
+Description: Remote Code Execution in Factorio. 
+
+URL: https://bling.kapsi.fi/blog/jvm-deserialization-broken-classldr.html
+Description: Exploiting JVM deserialization vulns despite a broken class loader.
+
+URL: https://elaineou.com/2017/01/19/how-the-twitter-app-bypasses-paywalls/
+Description: How the Twitter App Bypasses Paywalls.
+
+URL: https://goo.gl/s5Eyy4 (+)
+Description: GoodSAM – CSRF/Stored XSS Chain Full Disclosure.
+
+URL: https://goo.gl/kLaawx (+)
+Description: Phishing Against Protected View.
+
+URL: https://pierrekim.github.io/blog/2017-02-09-tplink-c2-and-c20i-vulnerable.html
+Description: TP-Link C2 and C20i vulnerabilities analysis (root RCE, DoS and more).
+
+URL: https://www.gironsec.com/blog/2017/07/keylogger-using-directx/
+Description: KeyLogger using DirectX.
+
+URL: http://rh0dev.github.io/blog/2017/the-return-of-the-jit/
+Description: The Return of the JIT in Mozilla Firefox (x86) (CVE-2017-5375).
+
+URL: https://bneg.io/2017/07/26/empire-without-powershell-exe/
+Description: Empire without PowerShell.exe.
+
+URL: https://goo.gl/aEPUuS (+)
+Description: Finding Domain frontable Azure domains.
+
+URL: https://goo.gl/djcEh1 (+)
+Description: Code Injection in VMware Horizon’s macOS Client (CVE-2017-4918).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.stefanjudis.de/hidden-messages-in-javascript-property-names.html
+Description: Hidden messages in JavaScript property names.
+
+URL: https://hackernoon.com/a-collision-too-perfect-279a47fb5d42
+Description: A Collision Too-Perfect.
+
+URL: https://doesmysiteneedhttps.com/
+Description: YES! Your site needs HTTPS.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?b2ffb30586619fbc#VdsIHFIp36WYytLuwlO1XMOLvJWD1N048LJbMr9dg7E=
