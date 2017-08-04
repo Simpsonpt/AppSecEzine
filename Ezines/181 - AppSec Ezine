@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 31 | Month: August | Year: 2017 | Release Date: 04/08/2017 | Edition: #181  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.innerht.ml/testing-new-features/
+Description: CSRF on Periscope Web OAuth authorization via Reverse iOS App.
+
+URL: http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html
+Description: From SSRF Execution Chain to RCE! (GitHub Enterprise).
+
+URL: https://blog.zsec.uk/rce-starwars/
+Description: May the Shells be with You - A Star Wars RCE Adventure!
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/vah13/extractTVpasswords
+Description: Extract password from TeamViewer memory using Frida.
+
+URL: https://github.com/xtiankisutsa/twiga
+Description: Android device information gather and internals dump tool.
+
+URL: https://github.com/mateuszk87/BadIntent
+Description: Attack Android's Binder transactions using Burp Suite.
+
+URL: https://github.com/mame82/P4wnP1
+Description: P4wnP1 is a highly customizable USB attack platform for RPi0/W.
+
+URL: https://github.com/matteyeux/triple_fetch
+Description: Remote lldb debugserver for debugging userspace procs on iOS (CVE-2017-7047).
+
+URL: https://github.com/adi0x90/attifyos
+Description: Attify OS - Distro for pentesting IoT devices.
+
+URL: https://github.com/ANSSI-FR/pycrate
+Description: Tool for dev of encoders/decoders for various protocols and file formats.
+
+URL: https://vallejo.cc/2017/07/16/anti-antidebugging-windbg-scripts/
+Description: Anti-Antidebugging WinDbg Scripts.
+
+URL: https://github.com/hjc4869/UacBypass
+Description: Bypass Win10 default UAC config using IFileOperation and dll hijacking.
+
+URL: https://gist.github.com/marcan/6a2d14b0e3eaa5de1795a763fb58641e
+Description: SMBLoris attack Proof of Concept (MSF won't fix!).
+
+URL: https://github.com/YalcinYolalan/WSSAT/
+Description: Web Service Security Assessment Tool.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://paper.seebug.org/230/
+Description: DokuWiki fetch.php SSRF vulnerability.
+
+URL: https://0x00sec.org/t/reverse-engineering-101/1233
+Description: Reverse Engineering 101.
+
+URL: https://goo.gl/h5EJDE (+)
+Description: Exploiting Script Injection Flaws in ReactJS Apps.
+
+URL: http://rohk.io/free-bits-on-twitch/
+Description: Acquire free bits on twitch.tv.
+
+URL: https://goo.gl/mqi664 (+)
+Description: Code Exec in SQLServer via Fileless CLR-based Custom Stored Procedures.
+
+URL: http://blog.huntingmalware.com/notes/WMI
+Description: Hooking Windows events without knowing anything about C/C++ (WMI PWR).
+
+URL: https://comsecuris.com/blog/posts/path_of_least_resistance/
+Description: Cellular Baseband to Application Processor Escalation on Mediatek Devices.
+
+URL: https://scarybeastsecurity.blogspot.pt/2017/03/black-box-discovery-of-memory.html
+Description: Black box discovery of memory corruption RCE on box.com.
+
+URL: https://goo.gl/986jDv (+)
+Description: A Technical Survey Of Common And Trending Process Injection.
+
+URL: https://cybersyndicates.com/2017/02/os-x-packet-capture--empire/
+Description: OS X Packet Capture & Empire.
+
+URL: https://medium.com/0xcc/how-to-turn-photoshop-into-a-remote-access-tool-805485a9480
+Description: How to turn Photoshop into a remote access tool.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://z4ziggy.wordpress.com/2017/07/21/zigfrid-a-passive-rfid-fuzzer/
+Description: Zigfrid – A Passive RFID Fuzzer.
+
+URL: https://blog.lessonslearned.org/building-a-more-secure-development-chromebook/
+Description: Need a cheap "burner" laptop for travelling?
+
+URL: https://github.com/denysdovhan/wtfjs
+Description: What the f*ck JavaScript?
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?81962b8271774e1f#q5AmJsZbH7/58LLX+vm32uIsJneT+uMvfrs1zZpFGNY=
