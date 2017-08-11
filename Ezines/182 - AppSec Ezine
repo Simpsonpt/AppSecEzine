@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 32 | Month: August | Year: 2017 | Release Date: 11/08/2017 | Edition: #182  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bo0om.ru/xss-everywhere
+Description: The adventures of xss vectors in curious places.
+
+URL: https://sites.google.com/site/testsitehacking/10k-host-header
+Description: $10k Host Header Bug - Google Bug Bounty (Report Everything!).
+
+URL: http://staaldraad.github.io/pentest/phishing/2017/08/02/o356-phishing-with-oauth/
+Description: Phishing with OAuth and o365/Azure.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/hannob/ctgrab
+Blog: https://goo.gl/Z5uKeC (+)
+Description: Monitoring hosts from Cert. Transparency for unprotected installers.
+
+URL: https://github.com/jamie72/IPAPatch
+Description: Patch iOS Apps, The Easy Way, Without Jailbreak.
+
+URL: https://github.com/stealth/sshttp
+Description: Run a webserver and a sshd on the same port w/o changes. 
+
+URL: https://github.com/guelfoweb/knock
+Description: Knock Subdomain Scan.
+
+URL: https://github.com/RoliSoft/ReconScan
+Description: Network reconnaissance and vulnerability assessment tools.
+
+URL: http://blog.safebuff.com/2016/07/03/SSRF-Tips/
+Related: https://goo.gl/vjVbKZ (+)
+Description: Server Side Request Forgery (SSRF) Tips.
+
+URL: https://github.com/D4Vinci/Dr0p1t-Framework
+Description: A framework that creates an advanced FUD dropper with some tricks.
+
+URL: https://github.com/CheckPointSW/android_unpacker
+Description: A (hopefully) generic unpacker for packed Android apps.
+
+URL: https://github.com/0x09AL/DropboxC2C/
+Description: DropboxC2C is a post-exploitation agent which uses Dropbox for C&C Ops.
+
+URL: https://github.com/ambionics/phpggc
+Blog: https://www.ambionics.io/blog/php-generic-gadget-chains
+Description: PHP Generic Gadget Chains - Exploiting unserialize in unknown environments.
+
+URL: https://github.com/flowztul/keyexec
+Description: Collection of scripts to automatically unlock LUKS devices on kexec reboot.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://blog.securelayer7.net/thick-client-penetration-testing-1/
+More: https://goo.gl/ym5jYP (+) | https://goo.gl/s6WsNU (+)
+Related: https://goo.gl/gXbBzw (+)
+Description: Thick Client Penetration Testing.
+
+URL: http://www.rvrsh3ll.net/blog/offensive/ssl-domain-fronting-101/
+Description: SSL Domain Fronting 101.
+
+URL: https://blog.doyensec.com/2017/08/03/electron-framework-security.html 
+Description: Modern Alchemy - Turning XSS into RCE (CVE-2017-12581).
+
+URL: https://zerosum0x0.blogspot.pt/2017/04/doublepulsar-initial-smb-backdoor-ring.html
+Description: DoublePulsar Initial SMB Backdoor Ring 0 Shellcode Analysis.
+
+URL: https://goo.gl/FdwEKQ (+)
+Advisory: https://goo.gl/3zHjkp (+)
+Description: Win10 default user profile is potentially world writable (CVE-2017-0295).
+
+URL: https://landave.io/2017/07/bitdefender-remote-stack-buffer-overflow-via-7z-ppmd/
+Description: Bitdefender - Remote Stack Buffer Overflow via 7z PPMD.
+
+URL: https://goo.gl/3xEuby (+)
+Description: Why you should never use passwords on your SSH server.
+
+URL: https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/
+Description: Docker and the PID 1 zombie reaping problem.
+
+URL: https://ysx.me.uk/managed-apps-and-music-a-tale-of-two-xsses-in-google-play/
+Description: Managed Apps and Music - A tale of two XSSes in Google Play.
+
+URL: https://github.com/g0tmi1k/debian-ssh
+Description: Debian OpenSSL Predictable PRNG - CVE-2008-0166 (Oldies!).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://www.phreedom.org/research/tinype/
+Description: Creating the smallest possible PE executable.
+
+URL: https://github.com/n1try/telegram-middleman-bot
+Description: Translates push messages sent via HTTP into Telegram messages.
+
+URL: https://goo.gl/fu93Mg (+)
+Description: Operation Luigi -How I hacked my friend without her noticing.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?7b02c6e8ddb8caf8#6bWwYNFMLBdOYpnLgtMBmD0M86Dm2WkAFZDZrSuTK/M=
