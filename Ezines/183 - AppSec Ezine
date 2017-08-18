@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 33 | Month: August | Year: 2017 | Release Date: 18/08/2017 | Edition: #183  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/XAq8qW (+)
+Description: Backdoor of All Flickr API Calls by XSSI.
+
+URL: http://lightningsecurity.io/blog/password-not-provided/
+Description: Compromising Any Flurry User's Account (Yahoo Bug Bounty).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Manouchehri/CVE-2017-1000117
+Demo: https://asciinema.org/a/133009
+Description: Git's vulnerability CVE-2017-1000117.
+
+URL: https://github.com/MooseDojo/apt2/
+Description: Automated penetration toolkit.
+
+URL: https://github.com/nccgroup/demiguise
+Description: Demiguise - HTA encryption tool.
+
+URL: https://github.com/kudelskisecurity/check_all_apks
+Description: Scripts for checking your phone for malware (Drozer).
+
+URL: https://github.com/0x4D31/burpa
+Description: A Burp Suite Automation Tool with Slack Integration.
+
+URL: https://github.com/nccgroup/gitpwnd
+Description: Tool that lets you use a git repo for C&C of compromised machines.
+
+URL: https://github.com/EgeBalci/HERCULES
+Description: HERCULES is a special payload generator that can bypass AV softwares.
+
+URL: https://github.com/phpstan/phpstan
+Description: PHP Static Analysis Tool - Discover bugs in your code w/out running it!
+
+URL: http://redplait.blogspot.pt/2017/08/wincheck-rc858.html
+Description: Tool that inspects undocumented Windows internal structures.
+
+URL: https://gist.github.com/marcan/23e1ec416bf884dcd7f0e635ce5f2724
+Description: Simple Bloom filter in Py3 for use with the HIBP password list.
+
+URL: https://github.com/jessfraz/amicontained
+Description: Find out what container runtime is being used/features available.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://illmatics.com/carhacking.html
+Description: Car Hacking by Charlie Miller and Chris Valasek (Dump).
+
+URL: https://goo.gl/Yg4QHV (+)
+Description: Exploiting Second Order SQLi Flaws by using Burp & Custom Sqlmap Tamper.
+
+URL: https://l.avala.mp/?p=241
+Description: Turning LFI into RFI.
+
+URL: https://lowlevelbits.org/reverse-engineering-stickies.app/
+Description: Reverse Engineering Stickies.app.
+
+URL: https://www.psattack.com/articles/20170810/application-compatibility-shims/
+Description: Application Compatibility Shims.
+
+URL: https://lolware.net/2017/08/01/capturing-mfa-logons.html
+PoC: https://github.com/technion/3652fa
+Description: Intercepting and Capturing MFA Logons.
+
+URL: https://github.com/casperreverser/CasperReverse/blob/master/writeup.md
+Description: Casper API Reverse Engineering.
+
+URL: https://blog.netspi.com/attacking-sso-common-saml-vulnerabilities-ways-find/
+Description: Attacking SSO - Common SAML Vulnerabilities and Ways to Find Them.
+
+URL: https://goo.gl/P8EdJH (+)
+Description: Mitigating PHP's long standing issue with OPCache leaking sensitive data.
+
+URL: https://aspe1337.blogspot.pt/2017/04/writeup-of-cve-2017-7199.html
+Description: Local privilege escalation in Tenable Nessus Agent 6.10.3 (CVE-2017-7199).
+
+URL: http://www.exploit-monday.com/2017/07/bypassing-device-guard-with-dotnet-methods.html
+Description: Bypassing Device Guard with .NET Assembly Compilation Methods.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://hackethereum.com/
+Description: Don't just get hacked, experience it.
+
+URL: https://gist.github.com/MerryMage/797c523724e2dc02ada86a1cfadea3ee
+Description: Dumping the GBA BIOS.
+
+URL: https://github.com/EdOverflow/security-txt
+Description: A standard that allows websites to define security policies.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?0e592d8d379594a7#HE7xhhwPXNj6thUi2M4RVSRie4/mt/p+ESVd1tAPN9U=
