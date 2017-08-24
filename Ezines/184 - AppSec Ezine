@@ -1,0 +1,123 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 34 | Month: August | Year: 2017 | Release Date: 25/08/2017 | Edition: #184  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://sheepsec.com/blog/username_enumeration_via_jar.html
+Description: Needle in a haystack of .jar files (username enumeration).
+
+URL: https://hackerone.com/reports/198690
+Description: SSRF in alerts.newrelic.com exposes entire internal network.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Plazmaz/LNKUp
+Description: Generates malicious LNK file payloads for data exfiltration.
+
+URL: https://github.com/modzero/mod0Umleitung
+Description: A Masquerading DNS Server for Windows.
+
+URL: https://github.com/alephsecurity/abootool
+Description: Tool to dynamically discover hidden fastboot OEM commands.
+
+URL: https://github.com/doadam/ziVA
+Description: An iOS kernel exploit designated to work on all iOS devices <= 10.3.1.
+
+URL: https://github.com/chrisfosterelli/dockerrootplease
+Description: Gives you root on the hostOS, if you're a member of the 'docker' group.
+
+URL: https://github.com/dweinstein/node-google-play
+Description: Get details and download apps from Google Play.
+
+URL: https://github.com/fozavci/viproy-voipkit
+Description: VIPROY - VoIP Pen-Test Kit for Metasploit Framework.
+
+URL: https://github.com/google/fscrypt
+Description: Go tool for managing Linux filesystem encryption.
+
+URL: https://github.com/mak/mlib
+Description: Your bag of handy codes for malware researchers.
+
+URL: https://github.com/derrekr/android_security/blob/master/CVE-2017-0576/
+Description: Qualcomm crypto engine driver buffer overflow (CVE-2017-0576).
+
+URL: https://github.com/SpiderLabs/portia
+Description: Internal network pentest helper (Privilege escalation, Lateral movement,++).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/zsevzD (+)
+Description: libFuzzer-gv - New techniques for dramatically faster fuzzing.
+
+URL: https://duo.com/blog/hunting-malicious-npm-packages
+Description: Hunting Malicious npm Packages.
+
+URL: https://iayanpahwa.github.io/Reverse-Engineering-IoT-Devices/
+Description: Reverse Engineering IoT Devices.
+
+URL: https://toshellandback.com/2017/08/16/mousejack/
+Description: Hostile Airwaves - Mousejacking.
+
+URL: https://0x00sec.org/t/game-hacking-winxp-minesweeper/1266
+Description: Game Hacking - WinXP Minesweeper.
+
+URL: http://thecyberrecce.net/2017/02/12/reversing-the-trendnet-ts-402/
+Description: Reversing the Trendnet TS-402.
+
+URL: https://zhuanlan.zhihu.com/p/28575189
+Description: Node.js postgres from SQL injection into code execution.
+
+URL: https://goo.gl/KBsZtt (+)
+Description: Trezor — security glitches reveal your private keys!
+
+URL: https://goo.gl/ViLaih (+)
+Description: Taking Down Entire Domain Using Vulnerabilities of a SIEM Product.
+
+URL: http://nahamsec.com/secure-your-jenkins-instance-or-hackers-will-force-you-to/
+Description: Secure your Jenkins instance or hackers will force you to!
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://ae7.st/g/
+Description: Passphrase and Password Generator.
+
+URL: https://dave.cheney.net/2017/08/21/the-here-is-key
+Description: The HERE IS key.
+
+URL: http://gbppr.dyndns.org/~gbpprorg/l0pht/l0pht.html
+Description: The complete L0pht website from ~Sep ’97.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?1e0a6e4b9df2681d#u7WSy+MTijk6cAT0hv2su5pYzQdxq2jvSiWA4wyoO6I=

@@ -57,8 +57,8 @@ Description: Tater is a PowerShell implementation of the Hot Potato Windows EoP.
 URL: https://github.com/r00t-3xp10it/backdoorppt
 Description: Transform your payload.exe into one fake Word Doc.
 
-URL: https://github.com/kd0kkv/intel_amt_bypass/blob/master/amibypass.py
-Description: Simple POC for Intel Amt CVE-2017-5689.
+URL: https://github.com/embedi/amt_auth_bypass_poc
+Description: Intel AMT authentication bypass example (CVE-2017-5689).
 
 
 '  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
