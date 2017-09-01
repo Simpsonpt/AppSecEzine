@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 35 | Month: September | Year: 2017 | Release Date: 01/09/2017 | Edition: #185 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/207042
+Description: Stealing contact form data on HackerOne (XSS,frame-jumping and JSONP).
+
+URL: https://medium.com/@arbazhussain/pre-domain-wildcard-cors-exploitation-2d6ac1d4bd30
+Description: Pre-domain wildcard CORS Exploitation.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/monoxgas/sRDI
+Blog: https://silentbreaksecurity.com/srdi-shellcode-reflective-dll-injection/
+Description: Shellcode implementation of Reflective DLL Injection.
+
+URL: https://github.com/ucsb-seclab/BootStomp
+Paper: https://seclab.cs.ucsb.edu/media/uploads/papers/bootstomp.pdf
+Description: BootStomp - A bootloader vulnerability finder.
+
+URL: https://github.com/brannondorsey/mitm-router
+Description: Man-in-the-middle wireless access point inside a docker.
+
+URL: https://github.com/bruce30262/TWindbg
+Description: PEDA-like debugger UI for WinDbg.
+
+URL: https://goo.gl/d15wVv (+)
+Description: Bypassing antivirus on OSX 10.11 with Metasploit – Avast.
+
+URL: https://phoenixpwn.com/
+Description: Semi-untethered jailbreak for 9.3.5. All 32-bit devices supported.
+
+URL: https://github.com/xerub/kexty
+Description: iOS KEXT (kernel) loader 7.x-9.x
+
+URL: https://github.com/tintinweb/scapy-ssl_tls
+Description: SSL/TLS layers for scapy the interactive packet manipulation tool.
+
+URL: https://github.com/4w4k3/BeeLogger
+Description: Generate Gmail Emailing Keyloggers to Windows on Linux.
+
+URL: https://github.com/tklengyel/drakvuf
+Description: DRAKVUF Black-box Binary Analysis.
+
+URL: https://github.com/SafeBreach-Labs/BITSInject
+Description: Inject jobs into the BITS (Background Intelligent Transfer Service) queue.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://sintonen.fi/advisories/qnap-qts-42-multiple-vulnerabilities.txt
+Description: QNAP QTS 4.2.x multiple vulnerabilities.
+
+URL: http://bsmt.me/posts/openxc-reversing/
+Description: OpenXC Reversing (Car Hacking).
+
+URL: https://goo.gl/7grxsj (+)
+Description: EE 4GEE Mobile WiFi Router – Multiple Vulnerabilities Writeup.
+
+URL: https://raw.githubusercontent.com/hatRiot/token-priv/master/abusing_token_eop_1.0.txt
+Blog: https://goo.gl/V5axyJ (+)
+Description: Abusing Token Privileges For Windows Local Privilege Escalation.
+
+URL: https://gerbenjavado.com/manual-sql-injection-discovery-tips/
+Description: Manual SQL injection discovery tips.
+
+URL: https://goo.gl/7psV1M (+)
+Description: Making third-party hosted scripts safer with Subresource Integrity.
+
+URL: https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
+Description: Wiki to collect Red Team infrastructure hardening resources.
+
+URL: https://appscreener.us/blog/?code=reading-ios-app-binary-files
+More: https://appscreener.us/blog/?code=reading-ios-app-binary-files-part-2-swift
+Description: Reading iOS app binary files.
+
+URL: https://goo.gl/2JbZAv (+)
+Description: Smuggling HTA files in Internet Explorer/Edge.
+
+URL: https://goo.gl/xFHvXr (+)
+Description: Exploitation of IMS in absence of confidentiality and integrity protection.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://research.swtch.com/zip
+Description: Zip Files All The Way Down.
+
+URL: https://chris.bolin.co/offline/
+Description: You must go offline to view this page.
+
+URL: http://madeintheusbwebsite.azurewebsites.net
+Description: Nusbio - Hardware for .NET software.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?1741c5a4691e8d63#dCePat8DRfcRvcSfOC3rZ8+GrqZ0qpkoWDP4P7X7zKI=
