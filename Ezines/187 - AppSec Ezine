@@ -1,0 +1,125 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 37 | Month: September | Year: 2017 | Release Date: 15/09/2017 | Edition: #187 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/H8T3kz (+)
+Description: Exploiting JSON Cross Site Request Forgery (CSRF) using Flash.
+
+URL: https://goo.gl/tkrdbm (+)
+Description: Gaining Access To An Internal Chat System (SAML Hack - Uber BB).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/xorrior/RemoteRecon
+Description: Remote Recon and Collection (post-exploitation).
+
+URL: https://github.com/Cn33liz/StarFighters/
+Description: A JS and VBScript Based Empire Launcher.
+
+URL: https://github.com/DataSploit/datasploit
+Description: A tool to perform various OSINT techniques.
+
+URL: https://goo.gl/omukkh (+)
+Description: How I got your phone number through Facebook.
+
+URL: https://github.com/cujanovic/SSRF-Testing/
+Description: SSRF (Server Side Request Forgery) testing resources.
+
+URL: https://goo.gl/54L7rS (+)
+Description: Posh-Sysmon Module for Creating Sysmon Configuration Files.
+
+URL: https://github.com/securifybv/ShellLink
+Description: A .NET Class Library for processing ShellLink (LNK) files.
+
+URL: https://github.com/ex0dus-0x/D0xk1t
+Description: Web-based OSINT and active reconaissance suite.
+
+URL: https://github.com/gvb84/pbscan
+Description: Faster and more efficient stateless SYN scanner and banner grabber.
+
+URL: https://github.com/s4n7h0/Halcyon
+Description: First IDE for Nmap Script (NSE) Development.
+
+URL: https://github.com/jiayy/android_vuln_poc-exp
+Description: This project contains PoCs and Exploits for Android vulnerabilities.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://rtpbleed.com/
+Description: The RTP bleed Bug.
+
+URL: http://go.armis.com/hubfs/BlueBorne%20Technical%20White%20Paper-1.pdf
+Site: https://www.armis.com/blueborne/
+Description: The IoT Attack Vector “BlueBorne” Exposes Almost Every Connected Device.
+
+URL: https://goo.gl/3DfDJT (+)
+Description: How I Snatched 153,037 ETH After A Bad Tinder Date (Epic!).
+
+URL: https://goo.gl/WZXckr (+)
+Description: Enlarge your botnet with top D-Link routers (DIR8xx).
+
+URL: https://goo.gl/2CgsS4 (+)
+Description: Detecting Reverse Engineering on Android Apps (Apktool XXE and DT). 
+
+URL: https://courk.fr/index.php/2017/09/10/reverse-engineering-exploitation-connected-clock/
+Description: Reverse Engineering & Exploitation of a “Connected Alarm Clock”.
+
+URL: http://tinyhack.com/2017/09/05/mastercard-internet-gateway-service-hashing-design-flaw/
+Description: Mastercard Internet Gateway Service: Hashing Design Flaw.
+
+URL: https://www.mdsec.co.uk/2017/09/exploiting-cve-2017-8759-soap-wsdl-parser-code-injection/
+PoC: https://goo.gl/kzaTu2 (+) | https://goo.gl/JrsR8c (+)
+Description: Exploiting SOAP WSDL Parser Code Injection (CVE-2017-8759).
+
+URL: https://diablohorn.com/2017/09/09/understanding-practicing-java-deserialization-exploits/
+Description: Understanding & practicing Java deserialization exploits.
+
+URL: http://www.exploit-monday.com/2017/08/exploiting-powershell-code-injection.html
+Description: Exploiting PS Code Injection Vulnerabilities to Bypass Constrained Language Mode.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://jesuscoin.network/
+Description: Decentralizing Jesus on the Blockchain.
+
+URL: https://quoteinvestigator.com/2013/03/06/artists-steal/amp/
+Description: Good Artists Copy; Great Artists Steal.
+
+URL: https://safiire.github.io/blog/2017/08/19/solving-danish-defense-intelligence-puzzle/
+Description: Solving a Danish Defense Intelligence Puzzle.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?1db9f8e7b28c7ba1#J6Q6jLoe4mQayLsJ2R+51tg8Cr0eaaF8/fDnmKRa1bM=
