@@ -89,7 +89,7 @@ URL: http://tinyhack.com/2017/09/05/mastercard-internet-gateway-service-hashing-
 Description: Mastercard Internet Gateway Service: Hashing Design Flaw.
 
 URL: https://www.mdsec.co.uk/2017/09/exploiting-cve-2017-8759-soap-wsdl-parser-code-injection/
-PoC: https://goo.gl/kzaTu2 (+) | https://goo.gl/JrsR8c (+)
+PoC: https://goo.gl/kzaTu2 (+) | https://goo.gl/JrsR8c (+) | https://goo.gl/oAnNek (+)
 Description: Exploiting SOAP WSDL Parser Code Injection (CVE-2017-8759).
 
 URL: https://diablohorn.com/2017/09/09/understanding-practicing-java-deserialization-exploits/
