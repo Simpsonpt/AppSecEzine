@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 38 | Month: September | Year: 2017 | Release Date: 22/09/2017 | Edition: #188 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/SsWjW6 (+)
+Description: How I hacked hundreds of companies through their helpdesk.
+
+URL: https://goo.gl/NTE4H9 (+)
+Description: Joomla! (v3.7.5) Takeover in 20 Seconds with LDAP Injection.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://www.virtuesecurity.com/blog/aws-penetration-testing-s3-buckets/
+Plugin: https://github.com/VirtueSecurity/aws-extender
+Description: AWS Penetration Testing - S3 Buckets.
+
+URL: https://github.com/zyantific/zydis
+Description: Fast and lightweight x86/x86-64 disassembler library.
+
+URL: https://blog.avuln.com/article/4
+Description: A couple more common OAuth 2.0 vulnerabilities.
+
+URL: https://github.com/ucsb-seclab/dr_checker
+Description: A Soundy Vulnerability Detection Tool for Linux Kernel Drivers.
+
+URL: https://github.com/GDSSecurity/EvilAbigail
+Description: Automated Linux evil maid attack.
+
+URL: https://github.com/FireFart/burpcollaborator
+Description: This runs Burp Collaborator as a non root user using systemd.
+
+URL: https://github.com/byt3bl33d3r/Invoke-AutoIt
+Description: Loads the AutoIt DLL and PowerShell into memory and get code exec.
+
+URL: https://github.com/google/tamperchrome
+Blog: https://www.sjoerdlangkemper.nl/2017/08/30/tamper-chrome/
+Description: Hacking from within the browser with Tamper Chrome.
+
+URL: https://github.com/IoTsec/Z3sec
+Description: Penetration testing framework for ZigBee security research.
+
+URL: https://github.com/anshumanbh/kubebot
+Description: Slackbot built with a Kubernetes backend on the Google Cloud Platform.
+
+URL: https://github.com/mrschyte/pentestkoala
+Description: Modified dropbear server which acts as a client and allows authless login.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://patrickhurd.pro/blog/posts/popjsanalysis.html
+More: http://patrickhurd.pro/blog/posts/616020jsanalysis.html
+Description: pop.js Analysis.
+
+URL: http://qiita.com/alfa/items/b0e807ae040fc8f61d20
+Description: Vue can easily generate XSS when it is put on SSR (server side rendering).
+
+URL: https://www.hopperapp.com/blog/?p=219
+Description: Injecting missing methods at runtime (Hopper Disassembler).
+
+URL: https://goo.gl/QTqj8t (+)
+Description: Multi-Platform Macro Phishing Payloads.
+
+URL: http://guptashubham.com/all-about-hackerone-private-program-terapeak/
+Description: All About Hackerone Private Program Terapeak.
+
+URL: https://wtf.horse/2017/09/19/common-wifi-attacks-explained/
+Description: Common WiFi Attacks And How To Detect Them.
+
+URL: https://0x10f8.wordpress.com/2017/08/07/reverse-engineering-an-eclipse-plugin/
+Description: Reverse Engineering an Eclipse Plugin.
+
+URL: https://www.antid0te.com/blog.html
+Description: setattrlist() iOS Kernel Vulnerability Explained.
+
+URL: http://blog.quarkslab.com/make-confide-great-again-no-we-cannot.html
+Description: Make Confide great again? No, we cannot.
+
+URL: https://goo.gl/fcmP1Y (+)
+Description: Microsoft didn’t sandbox Windows Defender, so I did.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://dev.to/tkaczanowski/explaining-programming-to-6-years-old-kids
+Description: Explaining Programming to 6 Years Old Kids.
+
+URL: https://goo.gl/GbJLyc (+)
+Description: The Curious Case of Null >= 0 (Javascript).
+
+URL: https://learn.sparkfun.com/tutorials/gas-pump-skimmers
+Description: Gas Pump Skimmers.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?6c2a11c1ae4f2e37#1jIWnW4zQ1tBt1gF4Dh98+Uu8EdRM+/ySD1+rx85MUw=
