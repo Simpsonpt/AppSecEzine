@@ -71,7 +71,7 @@ Description: The RTP bleed Bug.
 
 URL: http://go.armis.com/hubfs/BlueBorne%20Technical%20White%20Paper-1.pdf
 Site: https://www.armis.com/blueborne/
-PoC: https://github.com/ojasookert/CVE-2017-0785
+PoC: https://github.com/ojasookert/CVE-2017-0785 | https://goo.gl/r6axfB (+)
 Description: The IoT Attack Vector “BlueBorne” Exposes Almost Every Connected Device.
 
 URL: https://goo.gl/3DfDJT (+)
