@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 39 | Month: September | Year: 2017 | Release Date: 29/09/2017 | Edition: #189 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/D2HWmu (+)
+Description: Luminate Internal Privilege Escalation — Admin to Owner (No-brainer).
+
+URL: https://goo.gl/mtUa28 (+)
+Description: Filter Bypass to Reflected XSS on //finance.yahoo.com (Mobile version).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/federicodotta/HandyCollaborator
+Blog: https://goo.gl/jHxuyU (+)
+Description: Because Burp Suite Collaborator is useful also during manual testing!
+
+URL: https://github.com/OpenJailbreak/evasi0n6
+Description: Evasi0n6 Jailbreak by Evad3rs for iOS 6.0-6.1.2 (Oldies).
+
+URL: https://github.com/rednaga/keystore-shim
+Description: Shim to grab keystore backed data (Android).
+
+URL: https://github.com/BeetleChunks/redsails
+Description: Post-exploitation tool to bypass host based security monitoring/logging.
+
+URL: https://github.com/utiso/dorkbot
+Description: Command-line tool to scan Google search results for vulnerabilities.
+
+URL: https://github.com/evilsocket/bleah
+Description: A BLE scanner for "smart" devices hacking.
+
+URL: https://github.com/secretsquirrel/SigThief
+Related: https://twitter.com/subTee/status/912769644473098240
+Description: Stealing Signatures and Making One Invalid Signature at a Time.
+
+URL: https://github.com/spacehuhn/esp8266_deauther
+Description: Deauthentication attack and other hacks using an ESP8266.
+
+URL: https://github.com/jordanpotti/AWSBucketDump
+Description: Security Tool to Look For Interesting Files in S3 Buckets.
+
+URL: https://github.com/OALabs/BlobRunner
+Description: Tool to quickly debug shellcode extracted during malware analysis.
+
+URL: http://www.shawarkhan.com/2017/08/sarahah-xss-exploitation-tool.html
+Description: Sarahah XSS Exploitation Tool - Compromising Sarahah Users.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://rails-sqli.org/
+Description: Rails SQL Injection.
+
+URL: https://un-excogitate.org/dormant-domination
+Description: Dormant DOMination.
+
+URL: https://goo.gl/SwBQnX (+)
+Description: Fuzzing Mimikatz On Windows With WinAFL & Heatmaps.
+
+URL: http://hatriot.github.io/blog/2017/09/19/abusing-delay-load-dll/
+Description: Abusing Delay Load DLLs for Remote Code Injection.
+
+URL: https://www.incapsula.com/blog/blocking-session-hijacking-on-gitlab.html
+Description: Discovering a Session Hijacking Vulnerability in GitLab.
+
+URL: https://specterops.io/assets/resources/SpecterOps_Subverting_Trust_in_Windows.pdf
+PoC: https://github.com/mattifestation/PoCSubjectInterfacePackage
+Description: Subverting Trust in Windows.
+
+URL: http://defencely.com/blog/defencely-clarifies-python-object-injection-exploitation/
+Description: Defencely Clarifies Python Object Injection Exploitation.
+
+URL: https://www.twistlock.com/2017/06/25/alpine-linux-pt-1-2/
+More: https://www.twistlock.com/2017/07/13/alpine-linux-pt-2-twistlock-security-alert/
+Description: From vulnerability discovery to code exec (CVE-2017-9669/CVE-2017-9671).
+
+URL: https://medium.com/@th3g3nt3l/900-xss-in-yahoo-recon-wins-65ee6d4bfcbd
+Description: 900$ XSS in yahoo (Recon Win!).
+
+URL: https://blog.rapid7.com/2013/07/02/a-penetration-testers-guide-to-ipmi/
+Description: A Penetration Tester's Guide to IPMI and BMCs.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://pokeinthe.io/2017/09/14/http-status-code-handling/
+Description: HTTP Status Code Handling.
+
+URL: https://github.com/xd4rker/MinerBlock
+Description: Web extension to block web based cryptocurrency miners.
+
+URL: https://github.com/KrauseFx/detect.location
+Description: Access the user's iOS location data without actually having access.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?843aca10e9f82a05#p/XmPgH9dieDPGMRS2Cd2Su3tvjtDSNkTkGw+4gxLgA=
