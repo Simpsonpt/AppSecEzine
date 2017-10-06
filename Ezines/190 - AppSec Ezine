@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 40 | Month: October | Year: 2017 | Release Date: 06/10/2017 | Edition: #190 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://blog.blackfan.ru/2017/09/devtwittercom-xss.html
+Report: https://hackerone.com/reports/260744
+Description: XSS and Open Redirect at dev.twitter.com.
+
+URL: https://forsec.nl/2017/09/smart-home-remote-command-execution-rce/
+Description: Smart home (Fibaro Home Center) - Remote Command Execution (RCE).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/NetSPI/BurpCollaboratorDNSTunnel
+Blog: https://blog.netspi.com/dns-tunneling-with-burp-collaborator/
+Description: A DNS tunnel utilizing the Burp Collaborator.
+
+URL: https://github.com/Bo0oM/CVE-2017-7089
+Description: Safari 10 Exploit SOP Bypass -> UXSS (CVE-2017-7089).
+
+URL: https://github.com/nluedtke/linux_kernel_cves
+Description: Tracking CVEs for the linux Kernel.
+
+URL: https://github.com/lennartkoopmann/nzyme
+Blog: https://goo.gl/Wbf8wk (+)
+Description: WiFi Monitoring, Intrusion Detection And Forensics.
+
+URL: https://github.com/cagataycali/xss-listener
+Description: Simple XSS Listener with telegram integration.
+
+URL: https://github.com/Netflix/Stethoscope
+Description: Stethoscope - User-Focused Security.
+
+URL: https://github.com/stealth/call-graphs
+Description: Building call graphs for OpenSSH...
+
+URL: https://github.com/e-ago/bitcracker
+Description: Open source password cracking tool for memory units encrypted w/ BitLocker.
+
+URL: https://wmie.codeplex.com/
+Description: Browse and view WMI namespaces/classes/instances/props in a single view .
+
+URL: https://github.com/PierreBlazquez/appbleed-ios
+Description: AppBleed - Display the currently installed apps on a device (No Jailbreak).
+
+URL: https://github.com/gdelugre/shell-factory
+Description: Compiling shellcodes from a C++ src for multiple systems and architectures.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/X5tmUW (+)
+Description: Mac OS X Local Javascript Quarantine Bypass.
+
+URL: http://noxxi.de/research/breaking-dkim-on-purpose-and-by-chance.html
+Description: Breaking DKIM - on Purpose and by Chance.
+
+URL: https://phoenhex.re/2017-06-09/pwn2own-diskarbitrationd-privesc
+More: https://phoenhex.re/2017-07-06/pwn2own-sandbox-escape
+Description: Pwn2Own - Safari Sandbox (CVE-2017-2533).
+
+URL: https://github.com/Plailect/keyshuffling
+Description: Code Execution in the Nintendo 3DS Secure Bootchain.
+
+URL: https://blog.filippo.io/we-need-to-talk-about-session-tickets/
+Description: We need to talk about Session Tickets (TLS 1.2).
+
+URL: https://goo.gl/AZ8qRV (+)
+Description: Illusion Gap – Antivirus Bypass.
+
+URL: https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/
+Description: Exploiting a V8 OOB write.
+
+URL: https://sockpuppet.org/blog/2015/01/15/against-dnssec/
+Description: Against DNSSEC (Oldies).
+
+URL: https://goo.gl/Fk6FpM (+)
+PoC: https://github.com/hannob/optionsbleed
+Description: Optionsbleed - HTTP OPTIONS method can leak Apache's server memory.
+
+URL: https://blog.ropchain.com/2017/04/03/disarming-emet-5-52/
+Description: Disarming EMET 5.52 - Controlling it all with a single write action.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/k3170makan/PyMLProjects/tree/master/passwords
+Description: Generating Passwords with an LSTM.
+
+URL: https://ro-che.info/articles/2017-09-17-booking-com-manipulation
+Description: How Booking.com manipulates you.
+
+URL: https://jordaneldredge.com/projects/winamp2-js/
+Description: A reimplementation of Winamp 2.9 in HTML5 and Javascript.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?2e0cba9388420ab0#VRq4VU1dZi5b2vACgpsWzJ3XOOXN23XgTvOdrk/uNhk=
