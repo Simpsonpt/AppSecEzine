@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 41 | Month: October | Year: 2017 | Release Date: 13/10/2017 | Edition: #191 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://georgemauer.net/2017/10/07/csv-injection.html
+Description: The Absurdly Underestimated Dangers of CSV Injection.
+
+URL: https://justi.cz/security/2017/10/07/rubygems-org-rce.html
+Description: Remote Code Execution on rubygems.org.
+
+URL: https://blog.zsec.uk/subdomainhijack/
+Description: My First CloudFront Domain Takeover/Hijack.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/sakurity/racer
+Description: One-click utility to test race conditions.
+
+URL: https://github.com/in7egral/ios-jailbreak-patchfinder64
+Description: iOS kernel analyser for jailbreak research.
+
+URL: https://github.com/dalmoz/sonoff-evil
+Slides: https://goo.gl/FQoxvU (+)
+Description: Sonoff evil firmware PoC.
+
+URL: https://github.com/suraj-root/smap
+Description: Shellcode mapper.
+
+URL: https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest
+Description: Automated Penetration Testing tool.
+
+URL: https://github.com/eldraco/Salamandra
+Description: Salamandra Spy Microphone Detection Tool.
+
+URL: https://github.com/NickstaDB/BaRMIe
+Description: Java RMI enumeration and attack tool.
+
+URL: https://github.com/nopernik/sshpry
+Description: Seamlessly spy on SSH session like it is your tty.
+
+URL: https://github.com/gelim/censys
+Description: Python code to query the Censys public scan database.
+
+URL: https://github.com/JohnTroony/Blisqy
+Description: Exploit Time-based blind-SQL injection in HTTP-Headers (MySQL/MariaDB).
+
+URL: https://github.com/cyberheartmi9/CVE-2017-12617
+Description: JSP Upload Bypass/RCE vulnerability in Apache Tomcat (CVE-2017-12617).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/d6XGkh (+)
+Description: Token-Based Authentication Protocols without Side-Channels.
+
+URL: https://goo.gl/96rGuw (+)
+Description: iOS Privacy - Easily get the user's Apple ID password, just by asking.
+
+URL: http://www.chokepoint.net/2017/10/exposing-server-ips-behind-cloudflare.html
+Description: Exposing Server IPs Behind CloudFlare.
+
+URL: https://goo.gl/HEpNnN (+)
+Tool: https://github.com/b-mueller/mythril/
+Description: Mythril - A framework for bug hunting on the Ethereum blockchain.
+
+URL: https://smartlockpicking.com/tutorial/my-smart-lock-vendor-disappeared/
+Description: My smart lock vendor disappeared and shut the servers.
+
+URL: https://goo.gl/z1zesp (+)
+Slides: https://goo.gl/9yz6VL (+)
+Description: Escalating Privileges in Linux using Voltage Fault Injection.
+
+URL: https://blog.liftsecurity.io/2017/04/14/sql-and-more-via-xss-in-pgadmin4/
+Description: SQL Injection & more via XSS in pgAdmin 4.
+
+URL: https://goo.gl/F7fdBb (+)
+Description: Introduction to Dynamic instrumentation in Mobile Security.
+
+URL: https://sensepost.com/blog/2017/macro-less-code-exec-in-msword/
+Description: Macro-less Code Exec in MSWord.
+
+URL: https://medium.com/websec/wordpress-sqli-bbb2afcc8e94
+Related: https://medium.com/websec/wordpress-sqli-how-to-find-ebee713457e4
+Description: Wordpress SQLi Issue and How to Find.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/virtualabs/radiobit
+Board: https://os.mbed.com/platforms/Microbit/
+Description: BBC Micro - Bit RF firmware.
+
+URL: http://clickheretosavetheworld.com/
+Description: Click here to save the world.
+
+URL: https://gavv.github.io/blog/pulseaudio-under-the-hood/
+Description: PulseAudio under the hood.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?92542cb9de867c23#xRAcBFcxTqQkaZq4vmXLNTZGFT0vm87G7ioOrdknsX0=
