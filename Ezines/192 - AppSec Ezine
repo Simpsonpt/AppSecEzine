@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 42 | Month: October | Year: 2017 | Release Date: 20/10/2017 | Edition: #192 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://kate.io/blog/git-bomb/
+Description: Exploding Git Repositories.
+
+URL: https://blogs.securiteam.com/index.php/archives/3430
+Description: Webmin XSS -> RCE + CSRF + SSRF.
+
+URL: https://kciredor.com/taking-over-every-ad-on-olx-automated-an-idor-story.html
+Description: Taking over every Ad on OLX (automated), an IDOR story.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://goo.gl/fZufLi (+)
+Description: Extract Java Sources from Android APK Archives.
+
+URL: https://github.com/4w4k3/Umbrella
+Description: A Phishing Dropper designed to Pentest.
+
+URL: https://github.com/tomwimmenhove/subarufobrob
+Related: https://goo.gl/D6DyfA (+)
+Description: Hijack a Subaru's key fob and steal all the things.
+
+URL: https://github.com/Paradoxis/StegCracker
+Description: Steganography Brute-Force tool to uncover hidden data inside files.
+
+URL: https://github.com/floyd-fuh/JKS-private-key-cracker-hashcat
+Description: Cracking passwords of private key entries in a JKS file.
+
+URL: https://github.com/CylanceVulnResearch/ReflectiveDLLRefresher
+Description: ReflectiveDLLRefresher - Universal Unhooking.
+
+URL: https://github.com/wetw0rk/malicious-wordpress-plugin
+Description: Simply generates a WP Plugin that will grant you a reverse shell.
+
+URL: https://github.com/georgenicolaou/nfi
+Description: Silensec's Nyuki Forensics Investigator (Mobile Forensics).
+
+URL: https://github.com/minisllc/metatwin
+Blog: https://goo.gl/SSHGQs (+)
+Description: Borrowing Microsoft Metadata and Digital Signatures to "Hide" Binaries.
+
+URL: https://github.com/realgam3/pymultitor
+Description: Python Multithreaded Tor Script (Algorithm).
+
+URL: https://github.com/agustingianni/memrepl
+Description: Memory inspection REPL interface.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.nomotion.net/blog/sharknatto/
+Description: SharknAT&To.
+
+URL: https://warroom.securestate.com/cve-2017-9769/
+Description: Razer rzpnk.sys IOCTL 0x226050 ZwOpenProcess (CVE-2017-9769).
+
+URL: https://www.krackattacks.com/
+PoC: https://goo.gl/3G5wNM (+)
+More: https://github.com/kristate/krackinfo | https://goo.gl/zLiuea (+)
+Description: Key Reinstallation Attacks - Breaking WPA2 by forcing nonce reuse.
+
+URL: http://hexdetective.blogspot.pt/2017/02/exploiting-android-s-boot-getting.html
+Description: Exploiting Android S-Boot - Arbitrary Code Exec in the Samsung Bootloader.
+
+URL: https://goo.gl/kqbzgz (+)
+Description: Apache Solr (XXE & RCE).
+
+URL: http://codepool.me/NET-Reverse-Enginering-Part-1/
+Description: .NET Reverse Engineering.
+
+URL: https://goo.gl/Ap47c2 (+)
+Description: Flipping Bits and Opening Doors (Reverse Engineering Research).
+
+URL: https://crocs.fi.muni.cz/public/papers/rsa_ccs17
+Related: https://goo.gl/QVJihq (+) | https://github.com/crocs-muni/roca
+Description: ROCA - Vulnerable RSA generation (CVE-2017-15361).
+
+URL: https://www.bamsoftware.com/papers/fronting/
+PoC: https://github.com/rvrsh3ll/FindFrontableDomains
+Description: Blocking-resistant communication through domain fronting.
+
+URL: https://blog.flanker017.me/cve-2017-2416-gif-remote-exec/
+Description: RCE by malformed GIF in iOS/MacOS ImageIO framework (CVE-2017-2416).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://goo.gl/sSF3up (+)
+Description: NULL vs Empty Strings – Why Oracle Was Right and Apple Is Not.
+
+URL: https://gist.github.com/1wErt3r/4048722
+Description: A Comprehensive Super Mario Bros. Disassembly.
+
+URL: https://github.com/d33tah/call-for-wpa3
+Description: Call for WPA3 - What's wrong with WPA2 security and how to fix it!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?7611ccfcdf2bbb6d#608sGXEuJNwirT96Nxh+c7PNMWPFy8MF96itkONwyw4=
