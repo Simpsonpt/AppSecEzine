@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 43 | Month: October | Year: 2017 | Release Date: 27/10/2017 | Edition: #193 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html
+Description: Slack SAML authentication bypass.
+
+URL: https://goo.gl/hMHdD7 (+)
+Description: Access both iPhone cameras any time your app is running (iOS Privacy).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/insp3ctre/race-the-web
+Description: Tests for race conditions in web applications.
+
+URL: https://github.com/koenbuyens/kalirouter
+Description: Intercepting kali router.
+
+URL: https://github.com/p292/DDEAutoCS
+Description: A cobaltstrike script that integrates DDEAuto Attacks.
+
+URL: https://github.com/ecthros/uncaptcha
+Description: Defeating Google's audio reCaptcha with 85% accuracy.
+
+URL: https://github.com/TryCatchHCF/DumpsterFire
+Description: DumpsterFire Toolset.
+
+URL: https://github.com/Proteas/native-lldb-for-ios
+Description: Native LLDB(v3.8) for iOS.
+
+URL: https://github.com/operatorequals/chmod-stego
+Description: Passing data through UNIX file privilege numbers (RWX Triplets).
+
+URL: http://infosecninja.blogspot.pt/2017/09/android-kiosk-browser-lock-down.html
+Description: Android Kiosk Browser Lock down Security Testing Checklist.
+
+URL: http://subt0x10.blogspot.pt/2017/08/msxslexe-working-as-designed.html
+Description: msxsl.exe Working As Designed.
+
+URL: https://github.com/CredDefense/CredDefense
+Media: https://goo.gl/nvC6uB (+) | https://goo.gl/PVomj1 (+)
+Description: Credential and Red Teaming Defense for Windows Environments.
+
+URL: https://goo.gl/5jwWoj (+)
+Description: Security Issue in ASP.NET MVC3 JsonValueProviderFactory (Oldies).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://0.me.uk/ev-phishing/
+Description: Phishing with EV.
+
+URL: https://www.fidusinfosec.com/tp-link-remote-code-execution-cve-2017-13772/
+Description: A Curious Tale of RCE, The TP-Link Story (CVE-2017-13772).
+
+URL: http://bobao.360.cn/learning/detail/4534.html
+Helper: https://github.com/feicong/lua_re
+Description: Technical Analysis of Lua File Format in Lua Program.
+
+URL: http://www.sysadminjd.com/adv170014-ntlm-sso-exploitation-guide/
+Related: https://room362.com/post/2016/smb-http-auth-capture-via-scf/
+Description: NTLM SSO - Exploitation Guide (SCF Hack Strikes Again).
+
+URL: https://appelsiini.net/2017/reverse-engineering-location-services/
+Description: Reverse Engineering Apple Location Services Protocol.
+
+URL: https://nickcano.com/reversing-league-of-legends-client/
+Description: Reversing the League of Legends Client.
+
+URL: https://fail0verflow.com/blog/2017/ps4-namedobj-exploit/
+Description: The First PS4 Kernel Exploit - Adieu.
+
+URL: http://www.geeknik.net/7k9et2d9e
+Description: Out of bounds bug in libcurl's IMAP FETCH (CVE-2017-1000257).
+
+URL: https://embedi.com/blog/uefi-bios-holes-so-much-magic-dont-come-inside
+Description: UEFI BIOS holes. So Much Magic. Don’t Come Inside.
+
+URL: https://goo.gl/rYdJdk (+)
+Description: Split Tunnel SMTP Exploit Explained.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://goo.gl/xASVx1 (+)
+Description: Writing a retro 3D FPS engine from scratch.
+
+URL: http://www.dicewarepasswords.com/
+Description: DiceWARE.
+
+URL: http://webjack.io/
+Description: Arduino library for communication between a browser and an Arduino.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?140aa06c9cb62d41#1kwL6Hy3knpMNpV0xoYdpnOnW4tC9biOTNasy5psit0=
