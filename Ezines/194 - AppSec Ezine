@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 44 | Month: November | Year: 2017 | Release Date: 03/11/2017 | Edition: #194 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/Up218B (+)
+Description: How i found an SSRF in Yahoo! Guesthouse (Recon Wins).
+
+URL: http://stamone-bug-bounty.blogspot.pt/2017/10/dom-xss-auth_14.html
+Description: DOM Cross-site scripting (XSS) at Uber.
+
+URL: https://goo.gl/Arvvgp (+)
+Description: Messing with the Google Buganizer System for $15,600 in Bounties.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/cldrn/macphish
+Description: Office for Mac Macro Payload Generator.
+
+URL: https://github.com/milesrichardson/docker-onion-nmap
+Related: https://goo.gl/enkmpw (+)
+Description: Scan .onion hidden services with nmap using Tor, proxychains and dnsmasq.
+
+URL: https://github.com/airbus-seclab/powersap
+Description: Powershell SAP assessment tool.
+
+URL: https://github.com/Arno0x/NtlmRelayToEWS
+Description: ntlm relay attack to Exchange Web Services.
+
+URL: https://github.com/chaitin/passionfruit
+Description: Simple iOS app blackbox assessment tool.
+
+URL: https://github.com/lclevy/unarcrypto
+Description: Tool to depict cryptography usage in zip, rar and 7zip archives.
+
+URL: https://benkowlab.blogspot.pt/2017/05/feedback-on-how-to-build-smb-honeypot.html
+Description: Feedback on how build SMB Honeypot.
+
+URL: https://github.com/checkyfuntime/iMessagesBackdoor
+Description: Script to setup an event handler in order to install a backdoor.
+
+URL: https://github.com/trustedsec/trevorc2
+Description: TrevorC2 - Command and Control via Legitimate Behavior over HTTP.
+
+URL: https://github.com/osqzss/gps-sdr-sim
+Description: Software-Defined GPS Signal Simulator.
+
+URL: https://github.com/sensepost/kwetza
+Description: Script to inject existing Android apps with a Meterpreter payload.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/kojasB (+)
+Related: https://goo.gl/B5Xmhi (+)
+Description: Use CLR to maintain persistence (No-Admin).
+
+URL: https://edoverflow.com/2017/broken-link-hijacking/
+Description: Broken Link Hijacking - How expired links can be exploited.
+
+URL: https://security.tencent.com/index.php/blog/msg/116
+PoC: https://gist.github.com/PaulCher/324690b88db8c4cf844e056289d4a1d6
+Description: FFmpeg Heap Overflow Vulnerability Analysis (CVE-2016-10190).
+
+URL: https://lucasg.github.io/2017/10/15/Api-set-resolution/
+Description: Windows API Sets schema (resolution).
+
+URL: https://goo.gl/n6rbcT (+)
+Description: Hacking with dex-oracle for Android Malware Deobfuscation.
+
+URL: https://goo.gl/STZHRC (+)
+Description: Browser security beyond sandboxing (Google Chrome).
+
+URL: https://goo.gl/jkFJjg (+)
+Description: Hey Chef, What's the Length of your Encrypted Password?
+
+URL: https://goo.gl/mJoCR2 (+)
+Description: Fake Crypto - MS Outlook S/MIME Cleartext Disclosure (CVE-2017-11776).
+
+URL: http://agrrrdog.blogspot.pt/2017/03/autobinding-vulns-and-spring-mvc.html
+Description: Autobinding vulns and Spring MVC.
+
+URL: https://adamcaudill.com/2017/10/04/exploiting-jackson-rce-cve-2017-7525/
+Description: Exploiting the Jackson RCE (CVE-2017-7525).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/exploitagency/ESP-RFID-Thief
+Description: ESP-RFID-Thief.
+
+URL: https://www.sneakymonkey.net/2016/10/30/raspberrypi-nsm/
+Description: RaspberryPi NSM.
+
+URL: https://goo.gl/geiujj (+)
+Description: How we found @rogerkver’s $1000 wallet obfuscated private key.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?fdd0321ceb02c62f#ebUqssubsR8azfxFquc0c5ejhky1VVgV8JjhnH3X+SM=
