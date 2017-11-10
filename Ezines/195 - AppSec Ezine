@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 45 | Month: November | Year: 2017 | Release Date: 10/11/2017 | Edition: #195 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://philippeharewood.com/posting-gifs-as-anyone-on-facebook/
+Description: Posting GIFs as anyone on Facebook.
+
+URL: https://ysx.me.uk/app-maker-and-colaboratory-a-stored-google-xss-double-bill/
+Description: App Maker and Colaboratory - A stored Google XSS double-bill.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/UltimateHackers/Blazy/
+Description: Login BF which also tests for CSRF, Clickjacking, Cloudflare and WAF.
+
+URL: https://goo.gl/Apc2Mr (+)
+Description: Dark Web OSINT With Python and OnionScan.
+
+URL: https://diablohorn.com/2017/08/15/brute-forcing-encrypted-web-login-forms/
+Description: Brute forcing encrypted web login forms.
+
+URL: https://git.stan.sh/SL-Process/DataBuster-VPN
+Description: Network-wide adblocker, anti-tracker, and privacy guardian.
+
+URL: https://github.com/neex/gifoeb
+Description: Exploit for ImageMagick's uninitialized memory disclosure in gif coder.
+
+URL: https://github.com/enjoiz/BSQLinjector
+Description: Blind SQL injection exploitation tool written in ruby.
+
+URL: https://github.com/GraxCode/JByteMod-Beta
+Description: JByteMod is a multifunctional bytecode editor.
+
+URL: https://github.com/mwrlabs/OSXFuzz
+Description: macOS 10.13 kernel fuzzer using multiple different methods.
+
+URL: https://github.com/xairy/kernel-exploits/tree/master/CVE-2017-6074
+Description: DCCP double-free vulnerability - Linux kernel local root (CVE-2017-6074).
+
+URL: https://github.com/xairy/kernel-exploits/blob/master/CVE-2017-1000112/poc.c
+Description: Local root PoC Includes KASLR and SMEP bypasses (CVE-2017-1000112).
+
+URL: https://github.com/alepacheco/AndroRW
+Description: PoC Ransomware for android.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://pentestlab.blog/2017/08/29/command-and-control-dropbox/
+PoC: https://github.com/Arno0x/DBC2
+Description: Command and Control – DropBox.
+
+URL: https://goo.gl/DD871b (+)
+Description: Apache James 3.0.1 JMX Server Deserialization (CVE-2017-12628).
+
+URL: https://reverse.put.as/2017/11/07/exploiting-cve-2017-5123/
+Related: https://salls.github.io/Linux-Kernel-CVE-2017-5123/
+Description: Exploiting CVE-2017-5123.
+
+URL: https://pleasestopnamingvulnerabilities.com/
+Description: Remote Kernel Bugs Affecting Android Phones.
+
+URL: https://gdelugre.github.io/2017/11/06/samba-path-pivot-attack/
+PoC: https://github.com/gdelugre/path-pivot
+Description: Samba race CVE-2017-2619 using USB gadget.
+
+URL: https://jesux.es/exploiting/blueborne-android-6.0.1/
+Description: BlueBorne RCE on Android 6.0.1 - How to (CVE-2017-0781).
+
+URL: https://modexp.wordpress.com/2017/10/30/poly-mutex-names/
+Description: Polymorphic Mutex Names ("Malware" Research).
+
+URL: http://research.rootme.in/stealing-csvs-crossdomain/
+Description: Stealing CSVs crossdomain.
+
+URL: https://goo.gl/QyY7fX (+)
+Description: flatCore CMS 1.4.6 - Remote Code Execution and Easteregg.
+
+URL: https://whereisk0shl.top/Dark%20Composition%20Exploit%20in%20Ring0.html
+Description: Win32k Dark Composition - Attacking the Shadow Part of Graphic Subsys.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/xxhomey19/nba-go
+Description: The finest NBA CLI.
+
+URL: http://trillian.mit.edu/~jc/humor/ATT_Copyright_true.html
+Description: The /bin/true Command and Copyright
+
+URL: https://gamehistory.org/aladdin-source-code/
+Description: Digging for treasure in Aladdin’s source code.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?87937b1d95cfe00a#8Yhy7HMdmMQrcZyMjqhkL7a6g3S6I8y2hu8ZoftTBR8=
