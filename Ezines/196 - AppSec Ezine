@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 46 | Month: November | Year: 2017 | Release Date: 17/11/2017 | Edition: #196 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html
+Description: Local File Read via XSS in Dynamically Generated PDF.
+
+URL: https://justi.cz/security/2017/11/14/couchdb-rce-npm.html
+Description: Remote Code Execution in CouchDB (CVE-2017-12635).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/D4Vinci/Cr3dOv3r
+Description: Know the dangers of credential reuse attacks.
+
+URL: https://github.com/UnkL4b/GitMiner
+Description: Tool for advanced mining for content on Github.
+
+URL: https://github.com/theori-io/pwnjs
+Description: A Javascript library for browser exploitation.
+
+URL: https://github.com/techbliss/EHF_attachment_converter
+Description: Electronic Commerce Format (EHF) Attachment converter.
+
+URL: https://github.com/orf/xcat
+Description: Automate XPath injection attacks to retrieve documents.
+
+URL: http://blog.vulspy.com/2017/11/09/Wordpress-4-8-2-SQL-Injection-POC/
+Description: Wordpress <= 4.8.2 SQL Injection PoC.
+
+URL: http://rickyhan.com/jekyll/update/2017/11/10/bypassing-recaptcha.html
+Description: Hacking Google reCaptcha.
+
+URL: https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads
+Description: Generate Office documents using macro-less command execution technique.
+
+URL: https://www.illuminatejs.com
+Description: IlluminateJs is a static javascript analysis engine (aka deobfuscator).
+
+URL: https://github.com/salesforce/AutoTriageBot
+Description: Verifies, deduplicates, and suggests payouts for incoming HackerOne reports.
+
+URL: https://github.com/kgretzky/dcrawl
+Description: Multi-threaded crawler for randomly gathering lists of unique domain names.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bo0om.ru/chrome-and-safari-uxss
+PoC: https://github.com/Bo0oM/CVE-2017-5124
+Description: Chrome < 62 uxss exploit (CVE-2017-5124).
+
+URL: https://staaldraad.github.io/2017/11/12/polycom-hdx-rce/
+Description: Polycom HDX Series RCE.
+
+URL: https://goo.gl/zgaNZu (+)
+Description: Windows Defender Exploit Guard ASR VBScript/JS Rule.
+
+URL: https://ionize.com.au/stealing-amazon-ec2-keys-via-xss-vulnerability/
+Description: Stealing Amazon EC2 Keys via an XSS Vulnerability.
+
+URL: https://rot.fi/2017/11/07/wan-to-lan-exploitation-of-4g-broadband-modem/
+Description: WAN-to-LAN exploitation of 4G broadband modem.
+
+URL: https://goo.gl/oPM722 (+)
+Description: Getting Local Admin by Abusing the Anti-Virus Quarantine (#AVGater).
+
+URL: https://goo.gl/k6wTv6 (+)
+Description: Detecting CrackMapExec (CME) with Bro, Sysmon, and Powershell logs.
+
+URL: https://depthsecurity.com/blog/using-python-to-get-a-shell-without-a-shell
+Description: Using Python To Get A Shell Without A Shell.
+
+URL: http://antonioparata.blogspot.pt/2017/11/shed-inspect-net-malware-like-sir.html
+Tool: https://github.com/enkomio/shed
+Description: Shed - Inspect .NET malware like a Sir.
+
+URL: https://xorl.wordpress.com/2017/11/11/cve-2017-13089-wget-http-integer-overflow/
+Description: wget HTTP integer overflow (CVE-2017-13089).
+
+URL: https://edoverflow.com/2017/ruby-resolv-bug/
+Description: Bypassing SSRF filters by abusing a bug in Ruby's resolver (CVE-2017-0904).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://korban.net/posts/postgres/2017-11-02-the-case-against-orms/
+Description: The case against ORMs.
+
+URL: https://martinmelhus.com/web-audio-modem/
+Description: Web Audio Modem.
+
+URL: https://github.com/Lallassu/voxelengine3
+Description: Voxel-engine in Javascript.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?59ccb826bf08e455#U1tCnVoh7ponnPYnXhKZUaCX/vA80PWLdozujotRr9M=
