@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 47 | Month: November | Year: 2017 | Release Date: 24/11/2017 | Edition: #197 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://statuscode.ch/2017/11/from-markdown-to-rce-in-atom/
+Description: From Markdown to RCE in Atom.
+
+URL: https://blog.zsec.uk/rce-chain/
+Description: Leading the Blind to Light! - A Chain to RCE.
+
+URL: https://embedi.com/blog/skeleton-closet-ms-office-vulnerability-you-didnt-know-about
+PoCs: https://goo.gl/WDq2Ki (+) | https://github.com/0x09AL/CVE-2017-11882-metasploit
+Description: Skeleton in the closet. MS Office vulnerability you didn’t know about.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/zodiacon/DriverMon
+Description: Monitor activity of any driver.
+
+URL: https://goo.gl/Mh8xdi (+)
+Description: Analyzing a .NET Core Core Dump on Linux.
+
+URL: https://github.com/n4xh4ck5/V1D0m
+Description: Enumerate subdomains through Virustotal.
+
+URL: https://github.com/b3rito/yotter
+Description: Yotter - Find information leakage.
+
+URL: https://github.com/hacktics/vehicle
+Description: Viewstate Hidden Control Enumerator.
+
+URL: https://ss64.com/ps/
+Description: An A-Z Index of Windows PowerShell commands.
+
+URL: https://mike-n1.github.io/ExtensionsOverview
+Description: Why BlackList < WhiteList (XSS with various types of extensions).
+
+URL: https://github.com/tiagorlampert/sAINT
+Description: (s)AINT is a Spyware Generator for Windows systems written in Java.
+
+URL: https://github.com/evilsocket/sg1
+Description: Swiss army knife for data encryption, exfil and covert communication.
+
+URL: https://goo.gl/sXaCHB (+)
+Description: Windows oneliners to download remote payload and execute arbitrary code.
+
+URL: https://github.com/hzqst/Syscall-Monitor
+Description: System monitor program (like Sysinternal's Process Monitor) for Windows7+. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/6kXDq6 (+)
+Description: Moodle URL Manipulation Remote Account Information Disclosure.
+
+URL: https://openeffect.ca/snifflab-an-environment-for-testing-mobile-devices/
+Code: https://github.com/andrewhilts/snifflab
+Description: Snifflab - An environment for testing mobile devices.
+
+URL: https://github.com/GrrrDog/TLS-Redirection
+Description: TLS Redirection (and Virtual Host Confusion).
+
+URL: https://goo.gl/SF3fE2 (+)
+Description: Xplico Unauthenticated Remote Code Execution CVE-2017-16666.
+
+URL: https://digi.ninja/blog/xss_steal_csrf_token.php
+Description: Stealing CSRF tokens with XSS.
+
+URL: https://goo.gl/UWPKNC (+)
+Description: Auditing code for crypto flaws - The first 30 minutes.
+
+URL: https://blog.xpnsec.com/becoming-system/
+Description: Alternative methods of becoming SYSTEM.
+
+URL: https://goo.gl/3LbCnL (+)
+Description: Attacking Uninitialized Variables with Recursion.
+
+URL: https://samczsun.com/privilege-escalation-legalrobot/
+Description: Privilege Escalation on LegalRobot through Type Confusion.
+
+URL: https://diablohorn.com/2017/05/21/quantum-insert-bypassing-ip-restrictions/
+Description: Quantum Insert - Bypassing IP restrictions.
+
+URL: https://blog.conscioushacker.io/index.php/2017/10/25/evading-microsofts-autoruns/
+Description: Evading Microsoft's AutoRuns.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://goo.gl/hVo9SC (+)
+Description: Disabling the Intel Management Engine. 
+
+URL: https://nickjanetakis.com/blog/run-the-first-edition-of-unix-1972-with-docker
+Description: Run the First Edition of Unix (1972) with Docker.
+
+URL: https://goo.gl/oQexiF (+)
+Description: 10 Year Old Root Exploit Found in 'man' Command.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?ef8742c61c284257#v5wacfcebn+K/+uwIxcHlzHzcYhNROBi6UfiQxo+j0I=
