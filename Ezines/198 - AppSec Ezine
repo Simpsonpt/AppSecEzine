@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 48 | Month: December | Year: 2017 | Release Date: 01/12/2017 | Edition: #198 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ysx.me.uk/taking-note-xss-to-rce-in-the-simplenote-electron-client/
+Description: Taking note: XSS to RCE in the Simplenote Electron client.
+
+URL: https://objective-see.com/blog/blog_0x24.html
+More: https://goo.gl/NVfhHN (+)
+Description: macOS High Sierra easy root analysis (CVE-2017–13872).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://c0d3g33k.blogspot.pt/2017/11/story-of-json-xss.html
+Description: Story of a JSON XSS.
+
+URL: https://github.com/droidefense/engine
+Description: Droidefense - Advance Android Malware Analysis Framework.
+
+URL: https://github.com/depthsecurity/haveIbeenHarvested
+Description: Automated HaveIbeenPwned lookups using theharvester results.
+
+URL: https://github.com/mhelwig/apk-anal
+Description: Android APK analyzer based on radare2 and others.
+
+URL: https://github.com/intezer/linux-explorer
+Description: Easy-to-use live forensics toolbox for Linux endpoints.
+
+URL: https://github.com/frranck/asm2c
+Description: Swift tool to transform DOS/PMODEW 386 TASM Assembly code to C code.
+
+URL: https://github.com/tiagorlampert/CHAOS
+Description: CHAOS Framework allow generate payloads and control remote machines.
+
+URL: https://github.com/int0/ltmdm64_poc
+Description: Windows 7 SP1 x64 Code Integrity Bypass POC using ltmdm64.sys.
+
+URL: https://github.com/OsandaMalith/Exe2Image
+Description: A simple utility to convert EXE files to JPEG images and vice versa.
+
+URL: https://osandamalith.com/2017/03/24/places-of-interest-in-stealing-netntlm-hashes
+Description: Places of Interest in Stealing NetNTLM Hashes.
+
+URL: https://github.com/LordNoteworthy/al-khaser
+Description: Public malware techniques used in the wild (VM, Emulation, Debuggers,...).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://jacksonbaker.net/reverse-engineering-the-misfit-bolt-btle-protocol/
+More: https://goo.gl/UJX5RY (+)
+Description: Reverse Engineering the Misfit Bolt BTLE Protocol.
+
+URL: https://medium.com/bindecy/huge-dirty-cow-cve-2017-1000405-110eca132de0
+PoC: https://github.com/bindecy/HugeDirtyCowPOC
+Description: "Huge Dirty COW" - The incomplete Dirty COW patch (CVE-2017–1000405).
+
+URL: https://haiderm.com/fully-undetectable-backdooring-pe-files/
+Description: Fully undetectable backdooring PE files.
+
+URL: https://goo.gl/k5FhZY (+)
+Description: Find the True IP Address for a .Onion Hidden Service with Burp.
+
+URL: https://goo.gl/1oGthj (+)
+PoC: https://github.com/appsecco/spaces-finder
+Description: Hunting publicly accessible DigitalOcean Spaces.
+
+URL: https://raesene.github.io/blog/2017/05/01/Kubernetes-Security-etcd/
+Related: https://github.com/kayrus/kubelet-exploit
+Description: Kubernetes Attack Surface - etcd.
+
+URL: https://medium.com/@5yx/dde-word-exec-3e57cc45b401
+Related: https://gist.github.com/xillwillx/171c24c8e23512a891910824f506f563
+Description: MSWord script injection using DDE.
+
+URL: https://www.xorrior.com/You-Have-The-Right-to-Remain-Cylance/
+Description: Bypass Cylance Memory Exploitation Defense & Script Cntrl.
+
+URL: https://medium.com/@infodox/pwning-red-team-toys-crunchrat-rce-ce83e1d09ae9
+Description: Pwning Red Team Toys - CrunchRAT RCE.
+
+URL: http://blog.sec-consult.com/2017/04/what-unites-hp-philips-and-fujitsu-one.html
+Description: What unites HP, Philips and Fujitsu? One service and millions of vul. devices.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://tldr.sh/
+Description: Simplified and community-driven man pages.
+
+URL: http://www.readylinux.com/
+Description: Operating System Version 0.1.
+
+URL: https://www.darkoperator.com/blog/2017/11/20/some-comments-and-thoughts-on-tradecraft
+Description: Some Comments and Thoughts on Tradecraft.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?39678c2e55d3350e#UaaLHMWo090h7I8jLuARRhcQQ2IghTuE2LoE8nsC9X0=
