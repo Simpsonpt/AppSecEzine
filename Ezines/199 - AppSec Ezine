@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 49 | Month: December | Year: 2017 | Release Date: 08/12/2017 | Edition: #199 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/XrGehX (+)
+Description: XXE OOB extracting via HTTP+FTP using single opened port.
+
+URL: https://goo.gl/VdAeoT (+)
+Description: LFI to Command Execution - Deutche Telekom Bug Bounty.
+
+URL: https://www.mailsploit.com/index
+Description: Bugs in email clients that allow spoofing and code injection attacks.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/gellin/TeamViewer_Permissions_Hook_V1
+Description: TeamViewer Pwn via sharing a desktop session.
+
+URL: https://goo.gl/oTx3iE (+)
+Description: An Introduction to Writing .NET Executables for Pentesters.
+
+URL: https://github.com/eth0izzle/bucket-stream
+Related: https://github.com/bbb31/slurp
+Description: Find interesting Amazon S3 Buckets by watching CT logs. 
+
+URL: https://github.com/AlessandroZ/LaZagne
+Description: Credentials recovery project.
+
+URL: https://github.com/microsoft/procdump-for-linux
+Description: A Linux version of the ProcDump Sysinternals tool.
+
+URL: https://github.com/cryptolok/CryKeX
+Description: Linux Memory Cryptographic Keys Extractor.
+
+URL: https://bitrot.sh/post/30-11-2017-domain-fronting-with-meterpreter/
+Description: Domain Fronting with Meterpreter.
+
+URL: https://github.com/rnehra01/arp-validator
+Description: Security Tool to detect arp poisoning attacks.
+
+URL: https://github.com/vysec/morphHTA
+Description: morphHTA - Morphing Cobalt Strike's evil.HTA.
+
+URL: https://github.com/rapid7/metasploit-aggregator
+Description: The Metasploit Aggregator is a proxy for Meterpreter sessions.
+
+URL: https://github.com/sourceclear/ransomware-poc
+Description: Ransomware for Spring MVC Apps.
+
+URL: https://github.com/yandex/burp-molly-scanner/
+Description: Use Burp as a headless active WebApp vulnerability scanner.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://decidedlygray.com/2017/08/10/modifying-and-building-burp-extensions/
+Description: Modifying and Building Burp Extensions.
+
+URL: https://blog.elcomsoft.com/2017/11/ios-11-horror-story-the-rise-and-fall-of-ios-security/
+Description: iOS 11 Horror Story - The Rise and Fall of iOS Security.
+
+URL: https://goo.gl/FZuEMi (+)
+Description: FireEye Security Bug - Possible connection to physical host and adjacent network.
+
+URL: https://codinguy.net/2013/06/03/insertion-encoderdecoder-shellcode/
+Description: Encoder/Decoder Shellcode (Oldies).
+
+URL: http://blog.bentkowski.info/2017/11/yet-another-google-caja-bypasses-hat.html
+Description: Yet Another Google Caja bypasses hat-trick. 
+
+URL: http://az4n6.blogspot.fr/2017/10/finding-and-decoding-malicious.html
+Description: Finding and Decoding Malicious PowerShell Scripts.
+
+URL: https://www.chrisdcmoore.co.uk/post/oneplus-analytics/
+Description: OnePlus OxygenOS built-in analytics.
+
+URL: http://blog.talosintelligence.com/2017/11/exploiting-cve-2016-2334.html
+Description: Vulnerability Walkthrough - 7zip CVE-2016-2334 HFS+ Code Execution Vulnerability.
+
+URL: https://blog.xpnsec.com/windows-warbird-privesc/
+Description: Kernel Exploit Demo - Windows 10 privesc via WARBIRD.
+
+URL: https://www.twistlock.com/2017/11/20/cve-2017-16544-busybox-autocompletion-vulnerability/
+Description: A Busybox autocompletion vulnerability (CVE-2017-16544).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://karl-voit.at/2016/02/07/accessing-home-ssh-via-tor/
+Description: Accessing Your Home Server Via SSH over the Tor Network. 
+
+URL: http://dmitry.gr/?r=05.Projects&proj=07.%20Linux%20on%208bit
+Description: Linux on an 8-bit micro?
+
+URL: https://github.com/xtr4nge/FruityWifi
+Description: FruityWiFi is a wireless network auditing tool. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?e53c503cd8a076a6#7mJUqSrKOifH/bDU9dx14NGqCuSfhfCgX8SQsZNclGk=
