@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 50 | Month: December | Year: 2017 | Release Date: 15/12/2017 | Edition: #200 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://robotattack.org/
+Description: The ROBOT Attack.
+
+URL: https://medium.com/bugbountywriteup/bug-bounty-fastmail-feeda67905f5
+Description: Bug Bounty Fastmail - SSRF, XXE.
+
+URL: https://goo.gl/v2uyi2 (+)
+Description: How signing up for an account w/ an corp email can have unexpected results.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Tencent/tinker
+Description: Tinker is a hot-fix solution library for Android.
+
+URL: https://github.com/mehulj94/BrainDamage
+Description: A fully featured backdoor that uses Telegram as a C&C server.
+
+URL: https://github.com/giMini/mimiDbg
+Description: PowerShell oneliner to retrieve wdigest passwords from the memory.
+
+URL: https://github.com/Siguza/v0rtex/blob/master/v0rtex.m
+Description: iOS IOSurface exploit root for A7-A9 devices <=10.3.3.
+
+URL: https://github.com/003random/003Recon
+Description: Scripts to automate some recon processes.
+
+URL: https://github.com/Spajed/processrefund
+Description: An attempt at Process Doppelgänging.
+
+URL: https://github.com/JiaoXianjun/BTLE
+Blog: https://sdr-x.github.io/BTLE-SNIFFER/
+Description: A BTLE (Bluetooth Low energy) radio packet sniffer/scanner and sender.
+
+URL: https://github.com/Intrinsec/comission
+Description: CoMisSion is a tool to quickly analyze a CMS setup.
+
+URL: https://github.com/tinysec/dbghelp.js
+Description: Windows dbghelp.dll wrapper for JS.
+
+URL: https://github.com/CalebWhiting/java-asm-obfuscator
+Description: Obfuscates compiled Java code to make it harder to reverse engineer.
+
+URL: https://github.com/Cisco-Talos/Decept
+Description: Yay, another network proxy.
+
+URL: https://github.com/secrary/Hooking-via-InstrumentationCallback
+Description: Hooking via InstrumentationCallback.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://www.pwntester.com/blog/2013/12/23/rce-via-xstream-object-deserialization38/
+PoC: https://github.com/pwntester/XStreamServer
+Description: RCE via XStream object deserialization.
+
+URL: https://goo.gl/1knbkp (+)
+Description: Exploiting an Arbitrary Hard Disk Read/Write Vulnerability Over NTFS.
+
+URL: https://www.tarlogic.com/en/blog/exploiting-word-cve-2017-11826/
+Description: Exploiting Word (CVE-2017-11826).
+
+URL: https://lewisardern.github.io/2017/12/10/blind-xss/
+Description: Ode To Blind XSS.
+
+URL: https://benkowlab.blogspot.pt/2017/12/an-inside-view-of-password-stealer.html
+Description: An inside view of a password stealer campaign.
+
+URL: https://research.kudelskisecurity.com/2017/11/01/zigbee-security-basics-part-1/
+Description: ZigBee Security - Basics.
+
+URL: https://medium.com/@palantir/osquery-across-the-enterprise-3c3c9d13ec55
+Repo: https://github.com/palantir/osquery-configuration
+Descriptiton: OSQuery Across the Enterprise.
+
+URL: https://symeonp.github.io/2017/09/17/fuzzing-winafl.html
+Description: Fuzzing the MSXML6 library with WinAFL
+
+URL: https://goo.gl/RchdtG (+)
+Description: Multiple Joomla! Core XSS Vulnerabilities Are Discovered.
+
+URL: https://goo.gl/GxynDa (+)
+Description: Using DNS to Break Out of Isolated Networks in a AWS Cloud Environment.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://dnstrails.com
+Description: The World's Largest Repository of historical DNS data.
+
+URL: https://github.com/reinderien/mimic
+Description: [ab]using Unicode to create tragedy.
+
+URL: https://github.com/watson/airplanejs
+Description: From ADS-B radio signals from airplanes to your browser.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?80033a13913cbb0e#iD8jMe9qt+A+dFUj1RdaFvdPwkVVtpJxcYtK3wJIXo4=
