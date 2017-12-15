@@ -38,7 +38,7 @@ Description: A fully featured backdoor that uses Telegram as a C&C server.
 URL: https://github.com/giMini/mimiDbg
 Description: PowerShell oneliner to retrieve wdigest passwords from the memory.
 
-URL: https://github.com/Siguza/v0rtex/blob/master/v0rtex.m
+URL: https://github.com/Siguza/v0rtex
 Description: iOS IOSurface exploit root for A7-A9 devices <=10.3.3.
 
 URL: https://github.com/003random/003Recon
@@ -54,7 +54,7 @@ Description: A BTLE (Bluetooth Low energy) radio packet sniffer/scanner and send
 URL: https://github.com/Intrinsec/comission
 Description: CoMisSion is a tool to quickly analyze a CMS setup.
 
-URL: https://github.com/tinysec/dbghelp.js
+URL: https://github.com/453483289/dbghelp.js
 Description: Windows dbghelp.dll wrapper for JS.
 
 URL: https://github.com/CalebWhiting/java-asm-obfuscator
