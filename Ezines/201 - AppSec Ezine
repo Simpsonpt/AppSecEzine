@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 51 | Month: December | Year: 2017 | Release Date: 22/12/2017 | Edition: #201 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://medium.com/@shinkurt/exploiting-a-tricky-xss-in-zendesk-80bdeaea4dad
+Description: Exploiting a tricky XSS in Zendesk.
+
+URL: http://www.sxcurity.pro/2017/12/17/hackertarget/
+Description: Hacking the Hackers - Leveraging an SSRF in HackerTarget.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/OsandaMalith/ApiMon
+Description: A simple API monitor for Windbg.
+
+URL: https://github.com/secrary/makin
+Description: makin - Reveal anti-debug tricks.
+
+URL: https://nyansatan.github.io/dualboot/
+Description: iOS Dualboot.
+
+URL: https://github.com/0xdea/tactical-exploitation
+Description: Modern tactical exploitation toolkit.
+
+URL: https://packettotal.com/
+Description: Engine for analyzing, categorizing, and sharing .pcap files.
+
+URL: https://github.com/elkokc/reflector/
+Description: Burp plugin able to find reflected XSS in real-time while browsing.
+
+URL: https://github.com/draios/sysdig-inspect/
+Description: Interface for container troubleshooting and security investigation.
+
+URL: https://github.com/peewpw/Invoke-PSImage
+Description: Embeds a PS script in the pixels of a PNG and get a oneliner to exec.
+
+URL: https://github.com/Cisco-Talos/mutiny-fuzzer
+Description: Network fuzzer that operates by replaying PCAPs via a mutational fuzzer. 
+
+URL: https://github.com/Hand-of-Cthulhu/rust-winapi-keylogger
+Description: A rust keylogger for windows that saves encrypted logs on disk.
+
+URL: https://bsdmag.org/freebsd-port-knocking-abdorrahman-homaei/
+Description: FreeBSD Port-Knocking.
+
+URL: https://github.com/wrinkl3/MineSweepR
+Description: Detect embedded cryptocurrency miners based on CPU usage.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.talosintelligence.com/reports/TALOS-2017-0432
+Description: Google PDFium TIFF Image Flate Decoder Code Execution Vulnerability.
+
+URL: https://goo.gl/k67GVK (+)
+PoC: https://github.com/odensc/janus
+Description: Modify Android apps without affecting their signatures (CVE-2017-13156).
+
+URL: http://riscy.business/2017/12/lenovos-unsecured-objects/
+Description: Code Execution via Insecure Synaptics Section Objects.
+
+URL: http://blog.blindspotsecurity.com/2017/12/advanced-sql-server-mitm-attacks.html
+Description: Advanced SQL Server Man-in-the-Middle Attacks.
+
+URL: https://goo.gl/7i24Kk (+)
+Description: Elevation of Privilege vulnerability in QNX Qnet (CVE-2017-3891).
+
+URL: https://msitpros.com/?p=3909
+Description: Bypassing Device guard UMCI using CHM (CVE-2017-8625).
+
+URL: http://www.alexlambert.com/2017/12/18/kernel-debugging-for-newbies.html
+Description: Kernel debugging for newbies.
+
+URL: https://goo.gl/KUrtkX (+)
+Description: How I have exploited reflected self-XSS or CORS is not the end.
+
+URL: https://www.twosixlabs.com/bluesteal-popping-gatt-safes/
+Description: Remotely Cracking Bluetooth Enabled Gun Safes.
+
+URL: http://blog.stratumsecurity.com/2016/06/13/websockets-auth/
+Description: Journey into WebSockets Authentication/Authorization.
+
+URL: https://goo.gl/EKsvWq (+)
+Description: Bypassing OTR Signature Verification to Steal iCloud Keychain Secrets.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://wiki.postgresql.org/wiki/Sudoku_solver
+Description: Sudoku solver in PostgreSQL.
+
+URL: https://github.com/moul/sshportal
+Description: Simple, fun and transparent SSH bastion.
+
+URL: https://ha.cking.ch/s8_data_line_locator/
+Description: Inside a low budget consumer hardware espionage implant.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?32df4f93dbb83245#SLidKUSG3qzCia+2O+NyakkmVZqMeUBWTe2OjlXjsvY=
