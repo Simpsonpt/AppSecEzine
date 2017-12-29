@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 52 | Month: December | Year: 2017 | Release Date: 29/12/2017 | Edition: #202 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.zsec.uk/subdomainhijack/
+Description: My First CloudFront Domain Takeover/Hijack.
+
+URL: https://hawkinsecurity.com/2017/12/13/rce-via-spring-engine-ssti/
+Description: Yahoo! RCE via Spring Engine SSTI.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://www.cyberis.co.uk/burp_macros.html
+Description: Creating Macros For Burp Suite.
+
+URL: https://github.com/Ne0nd0g/merlin
+Blog: https://medium.com/@Ne0nd0g/introducing-merlin-645da3c635a
+Description: Post-exploitation HTTP/2 C&C server and agent written in golang.
+
+URL: https://github.com/Hadesy2k/sqliv
+Description: Massive SQL injection vulnerability scanner.
+
+URL: https://github.com/Neo23x0/munin
+Description: Online hash checker for Virustotal and other services.
+
+URL: https://github.com/ernw/AndroTickler
+Description: Penetration testing and auditing toolkit for Android apps.
+
+URL: https://github.com/VerSprite/research/tree/master/exploits/VS-2017-001
+Description: Dolphin Browser for Android Backup&Restore Arbitrary File Write.
+
+URL: https://github.com/BrunoMCBraga/PympMyBinary
+Description: Python tool to infect Windows binaries with shellcode.
+
+URL: https://github.com/x0rz/phishing_catcher
+Description: Phishing catcher using Certstream.
+
+URL: https://github.com/bugbountyforum/XSS-Radar
+Description: A Chrome extension for fast and easy XSS fuzzing.
+
+URL: https://github.com/BryanSharp/hibeaver
+Description: Android plugin for modifying your library jars byte code.
+
+URL: https://github.com/ChrisMcMStone/spinner
+Paper: http://www.cs.bham.ac.uk/~garciaf/publications/spinner.pdf
+Description: Semi-Automatic Detection of Pinning without Hostname verification.
+
+URL: https://github.com/gast04/r4ge
+Description: radare2 Plugin to perform symbolic execution with a simple macro call.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://secrary.com/ReversingMalware/UnpackingShade/
+Description: Unpacking Shade Ransomware.
+
+URL: https://staaldraad.github.io/2017/12/20/netstat-without-netstat/
+Description: netstat without netstat.
+
+URL: https://goo.gl/NpBqrf (+)
+Exploit: https://github.com/Cryptogenic/PS4-4.05-Kernel-Exploit
+Description: PS4 "NamedObj" 4.05 Kernel Exploit Writeup.
+
+URL: https://goo.gl/R5sLzw (+)
+Description: ParseDroid - Targeting The Android Development & Research Community.
+
+URL: https://lbarman.ch/blog/stack_smashing/
+Description: A journey into stack smashing.
+
+URL: https://lanrat.com/tethr/
+Description: Tethr - Android Tethering Provisioning Check Bypass (CVE-2017-0554).
+
+URL: http://blog.gaurangbhatnagar.com/2017/12/02/Hacking-a-dating-app.html
+Description: Hacking a Dating App for Fun and Profit.
+
+URL: https://laskowski-tech.com/2017/12/19/setting-up-a-honeypot-using-opencanary/
+Description: Setting up a Honeypot using Opencanary.
+
+URL: https://goo.gl/c3uMW2 (+)
+Description: Leveraging web application vulnerabilities to steal NTLM hashes.
+
+URL: https://qiita.com/_pochi/items/4e20e38deee16a7615e1
+Description: Modify notepad.exe into a body without Java code (DLL Injection and Hooks). 
+
+URL: https://www.fireeye.com/blog/threat-research/2017/05/gaining-root-on-lenovo-vibe.html
+Description: Gaining Root on the Lenovo Vibe (CVE-2017-3750/3749/3748).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://sshtron.zachlatta.com/
+Description: Multiplayer Tron in your terminal.
+
+URL: https://gist.github.com/keo/00f20ef27eddcdae78ab
+Description: Setup encrypted partition for Docker containers.
+
+URL: https://github.com/danielmiessler/SecLists/pull/155
+Description: Remove my password from lists so hackers won't be able to hack me #155.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?91eeabf079da25ea#Oakt3qo+sk0vymKkAbsLztpsjRonvljQJMCcQKL3K1U=
