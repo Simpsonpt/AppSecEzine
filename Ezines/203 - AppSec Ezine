@@ -1,0 +1,136 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 01 | Month: January | Year: 2018 | Release Date: 05/01/2018 | Edition: #203 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://meltdownattack.com/
+More: https://goo.gl/Fn1viX (+)
+Description: Meltdown and Spectre Bugs.
+
+URL: http://blog.blackfan.ru/2018/01/polygooglecom-xss.html
+Description: Clever XSS Vulnerability in poly.google.com.
+
+URL: https://goo.gl/a3jJxR (+)
+Description: The Good, The Bad and The Ugly of Safari in Client-Side Attacks.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://www.blackhillsinfosec.com/?p=5633
+Description: Power Posing with PowerOPS (Pentest Tips&Tricks).
+
+URL: https://github.com/google/ssl_logger
+Description: Decrypts and logs a process's SSL traffic.
+
+URL: https://github.com/quasar/QuasarRAT
+Description: Remote Administration Tool for Windows.
+
+URL: https://github.com/vanhauser-thc/thc-ipv6
+Description: IPv6 attack toolkit.
+
+URL: https://github.com/tienex/apfs
+Description: Mount, dump and analyze APFS volumes and containers.
+
+URL: https://github.com/nmalcolm/Inventus
+Description: Spider designed to find subdomains of a specific domain.
+
+URL: https://github.com/quarkslab/QBDI
+Blog: https://qbdi.quarkslab.com/
+Description: A Dynamic Binary Instrumentation framework based on LLVM. 
+
+URL: https://github.com/wangyu-/udp2raw-tunnel
+Description: A UDP Tunnel via FakeTCP/UDP/ICMP Traffic by using Raw Socket.
+
+URL: https://github.com/nurupo/rootkit
+Description: Linux rootkit for Ubuntu x86/x64 16.04/10.04 (Kernels 4.4.0/2.6.32).
+
+URL: https://github.com/WiredPulse/PoSh-R2
+Description: Set of WMI scripts that investigators and forensic analysts can use.
+
+URL: https://github.com/bkerler/opencl_brute
+Description: PBKDF2 SHA1 and SHA256 Bruteforce using OpenCL (GPU) and Python.
+
+URL: https://github.com/smeso/MTPwn
+Description: Arbitrary file R/W in locked Samsung Android via MTP (SVE-2017-10086).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://devco.re/blog/2017/12/11/Exim-RCE-advisory-CVE-2017-16943-en/
+PoC: https://github.com/LetUsFsck/PoC-Exploit-Mirror/blob/master/CVE-2017-16944/poc.py
+Description: Abusing Unsafe Memory Allocator in the Most Popular MTA (CVE-2017-16944).
+
+URL: http://arnaucode.com/blog/coffeeminer-hacking-wifi-cryptocurrency-miner.html
+Description: CoffeeMiner - Hacking WiFi to inject cryptocurrency miner to HTML requests.
+
+URL: https://www.elttam.com.au/blog/goahead/
+PoC: https://github.com/elttam/advisories/tree/master/CVE-2017-17562
+Description: Remote LD_PRELOAD Exploitation (CVE-2017-17562).
+
+URL: http://saleemrashid.com/2017/08/17/extracting-trezor-secrets-sram/
+Description: Extracting TREZOR secrets from SRAM.
+
+URL: https://github.com/xairy/linux-kernel-exploitation
+Description: A bunch of links related to Linux kernel fuzzing and exploitation.
+
+URL: https://goo.gl/iyryvz (+)
+Description: Windows DMA Attacks - Gaining SYSTEM shells using a generic patch.
+
+URL: https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview
+Description: An small overview of known Android vulnerabilities.
+
+URL: https://goo.gl/MPbfyS (+)
+Description: All you need to know about SSRF and how may we write tools to do auto-detect.
+
+URL: https://objective-see.com/blog/blog_0x22.html
+Description: Reversing an av engine to compose signatures to detect classified documents.
+
+URL: https://goo.gl/BdbbZg (+)
+Description: Escaping from Restricted Shell and Gaining Root in SolarWinds Log&Event M. (SIEM).
+
+URL: https://0x0.li/trackmageddon/
+Description: Multiple vulnerabilities in online services of (GPS) location tracking devices.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://damow.net/building-a-thermal-camera/
+Description: Building a Thermal Camera.
+
+URL: https://ml-cheatsheet.readthedocs.io/en/latest/index.html
+Description: Machine Learning Cheatsheet.
+
+URL: https://github.com/EdOverflow/bug-bounty-responses
+Description: A collection of response templates for invalid bug bounty reports.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?05ac9649225d6617#+TqTWZFiA9cZ0WschU8LzgGvvD5JLhkJxUjSK5HQpJo=
