@@ -71,8 +71,9 @@ Description: A fuzzer for individual method parameters.
 '  All about security issues.
 
 
-URL: https://blog.exploitee.rs/2017/hacking_wd_mycloud/
-More: https://www.exploitee.rs/index.php/Western_Digital_MyCloud
+URL: https://www.exploitee.rs/index.php/Western_Digital_MyCloud
+Blog: https://blog.exploitee.rs/2017/hacking_wd_mycloud/
+More: http://gulftech.org/advisories/WDMyCloud%20Multiple%20Vulnerabilities/125
 Description: Hacking the Western Digital MyCloud NAS.
 
 URL: https://www.myhackerhouse.com/naenara-browser-3-5-exploit-jackrabbit/
