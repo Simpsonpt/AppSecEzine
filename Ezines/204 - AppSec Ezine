@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 02 | Month: January | Year: 2018 | Release Date: 12/01/2018 | Edition: #204 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://cr0n1c.wordpress.com/2018/01/08/exploiting-cheap-labor/
+Description: Exploiting cheap labor! For D-Link lovers.
+
+URL: https://rcoh.me/posts/two-factor-auth/
+Description: Demystifying Two Factor Auth.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/gchaincl/httplab
+Description: HTTPLabs let you inspect HTTP requests and forge responses.
+
+URL: https://github.com/Arno0x/DNSExfiltrator
+Description: Data exfiltration over DNS request covert channel.
+
+URL: https://www.xorrior.com/In-Memory-Python-Imports/
+Description: In Memory Imports with (Python) Empire (Pentest Tips&Tricks).
+
+URL: https://github.com/ptresearch/unME11
+Related: http://blog.ptsecurity.com/2017/08/disabling-intel-me.html
+Description: Intel ME 11.x Firmware Images Unpacker.
+
+URL: https://github.com/Dionach/reposcanner
+Description: Python script to scan Git repos for interesting strings.
+
+URL: https://github.com/artkond/cisco-snmp-rce
+Description: Cisco IOS SNMP Remote Code Execution PoC (CVE-2017-6736).
+
+URL: https://github.com/hlldz/wildPwn
+Description: Brute forcer and shell deployer for WildFly.
+
+URL: https://github.com/rxwx/CVE-2017-8570
+Description: Proof of Concept exploit for CVE-2017-8570.
+
+URL: https://github.com/austin-taylor/VulnWhisperer
+Description: VulnWhisperer is a vulnerability data and report aggregator. 
+
+URL: https://github.com/emptymonkey/shelljack
+More: https://github.com/JusticeRage/freedomfighting/blob/master/autojack.py
+Description: A tool for man-in-the-middle pseudoterminal injection in Linux.
+
+URL: https://github.com/bkerler/dump_avb_signature
+Description: Dump/Verify Android Verified Boot Signature Hash.
+
+URL: https://github.com/almandin/fuxploider
+Description: File upload vulnerability scanner and exploitation tool.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://nickbloor.co.uk/2018/01/01/rce-with-bmc-server-automation/
+Description: Remote Code Execution with BMC Server Automation.
+
+URL: https://siguza.github.io/IOHIDeous/
+Description: IOHIDeous - IOHIDFamily once again (macOS-only vulnerability).
+
+URL: http://www.sxcurity.pro/2017/11/27/tricky-CORS/
+Description: Tricky CORS Bypass in Yahoo! View.
+
+URL: https://wpshout.com/complete-guide-sanitizing-escaping/
+Description: Preventing XSS Attacks in WordPress - Complete Guide.
+
+URL: https://goo.gl/MGEbmE (+)
+PoC: https://github.com/nixawk/labs/tree/master/CVE-2017-17411
+Description: Remote Root in DirecTV's Wireless Video Bridge - Linksys WVBR0-25.
+
+URL: https://www.anquanke.com/post/id/94210
+Description: Microsoft fixes the first Office 0day vulnerability (CVE-2018-0802).
+
+URL: http://www.shelliscoming.com/2017/05/post-exploitation-mounting-vmdk-files.html
+Description: Mounting vmdk files from Meterpreter - Post-exploitation.
+
+URL: http://blog.en.elevenpaths.com/2017/12/breaking-out-hsts-and-hpkp-on-firefox.html
+Slides: https://goo.gl/a5eDYy (+)
+Description: Breaking Out HSTS (and HPKP) on Firefox, IE/Edge and (possibly) Chrome.
+
+URL: https://www.digitalinterruption.com/single-post/2018/01/04/ToyTalkBugBountyWriteup
+Description: "F**k you Thomas" - ToyTalk bug bounty writeup.
+
+URL: https://medium.com/@palantir/alerting-and-detection-strategy-framework-52dc33722df2
+Description: Alerting and Detection Strategy (ADS) Framework.
+
+URL: https://goo.gl/Nkrdni (+)
+Description: Exploiting MS16-145 - MS Edge TypedArray.sort Use-After-Free (CVE-2016-7288).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://iknowwhatyoudownload.com/
+Description: I know what you download.
+
+URL: https://www.zachaysan.com/writing/2017-12-30-zero-width-characters
+Description: Zero-Width Characters.
+
+URL: https://blog.kintoandar.com/2018/01/Building-healthier-containers.html
+Description: Building healthier containers.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?bcd0e9133a3b88c3#ROvUvpBuw/y7psG1eypvZ81gV8v1LwDF3HW4qF7/LRA=
