@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 03 | Month: January | Year: 2018 | Release Date: 19/01/2018 | Edition: #205 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.xpnsec.com/evernote-webclipper-uxss/
+Description: Universal XSS via Evernote WebClipper.
+
+URL: http://www.sxcurity.pro/2018/01/11/chaining-yahoo-bugs/
+Description: Chaining Bugs to Steal Yahoo Contacts!
+
+URL: https://www.josipfranjkovic.com/blog/hacking-facebook-oculus-integration-csrf
+Description: Hacking Facebook accounts using CSRF in Oculus-Facebook integration.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/sysdream/hershell
+Description: Simple TCP reverse shell written in Go.
+
+URL: https://github.com/cyberark/shimit
+Description: A tool that implements the Golden SAML attack.
+
+URL: https://github.com/UltimateHackers/Cloak
+Description: Cloak can backdoor any python script with some tricks.
+
+URL: https://github.com/DanMcInerney/icebreaker
+Description: Gets plaintext AD credentials if you're on the internal network.
+
+URL: https://github.com/GraxCode/ReverseCrypt
+Description: Tool to extract jar archives crypted by various java-crypters.
+
+URL: https://gist.github.com/singe/cba85800dd6e701c53d0614d8506b281
+Blog: https://medium.com/@notsinge/cheap-scriptable-web-interactions-dbd7c19c664d
+Description: Cheap Scriptable Web Interactions.
+
+URL: https://github.com/rxwx/CVE-2018-0802
+Description: PoC Exploit for CVE-2018-0802 (and optionally CVE-2017-11882).
+
+URL: https://github.com/giMini/PowerMemory/
+Description: Exploit the credentials present in files and memory.
+
+URL: https://github.com/Ekultek/WhatWaf
+Description: Detect and bypass web application firewalls and protection systems.
+
+URL: https://github.com/jbremer/httpreplay
+Description: Replay HTTP and HTTPS requests from a PCAP based on TLS Master Secrets.
+
+URL: https://github.com/chrisk44/Hijacker
+Description: Aircrack, Airodump, Aireplay, MDK3 and Reaver GUI App for Android.
+
+URL: https://github.com/james-proxy/james
+Description: Web Debugging Proxy Application (open-source alternative to Charles).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/aXGp9i (+)
+Description: Nylas Mail Command Injection on macOS.
+
+URL: https://www.nvteh.com/news/problems-with-public-ebs-snapshots
+Description: Introduction to Public AWS EBS Snapshots.
+
+URL: https://goo.gl/kw77MT (+)
+Description: Abusing Microsoft Word Features for Phishing - "subDoc".
+
+URL: https://duo.com/blog/understanding-bluetooth-security
+Related: https://goo.gl/3EwMsn (+)
+Description: Understanding Bluetooth Security.
+
+URL: https://blog.fox-it.com/2018/01/11/mitm6-compromising-ipv4-networks-via-ipv6/
+Description: mitm6 – Compromising IPv4 networks via IPv6.
+
+URL: https://goo.gl/tzHsjA (+)
+Description: The journey of exploiting a Sharepoint vulnerability.
+
+URL: https://johanengelen.github.io/ldc/2018/01/14/Fuzzing-with-LDC.html
+Description: Fuzzing D code with LDC.
+
+URL: https://klikki.fi/adv/formidable.html
+Description: Formidable Forms vulnerabilities (WordPress plugin).
+
+URL: https://dhavalkapil.com/blogs/FILE-Structure-Exploitation/
+Description: FILE Structure Exploitation ('vtable' check bypass).
+
+URL: https://goo.gl/qgb6YU (+)
+Description: How to extract data and timeline from Master File Table on NTFS FS.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://www.keras4kindergartners.com/
+Description: Will Your Child Get Into Harvard?
+
+URL: https://github.com/satnogs/gr-satnogs
+Description: SatNOGS GNU Radio Out-Of-Tree Module.
+
+URL: https://blog.benjojo.co.uk/post/dns-filesystem-true-cloud-storage-dnsfs
+Description: DNSFS Store your files in others DNS resolver caches.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?55728d190826880a#M/Y6/HDLdIWNN1yqCzTRfs0hzT1UfR609s7MvxTDuiA=
