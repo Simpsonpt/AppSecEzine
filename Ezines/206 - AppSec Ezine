@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 04 | Month: January | Year: 2018 | Release Date: 26/01/2018 | Edition: #206 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.rcesecurity.com/2017/08/from-lfi-to-rce-via-php-sessions/
+Description: Upgrade from LFI to RCE via PHP Sessions.
+
+URL: http://blog.orange.tw/2018/01/php-cve-2018-5711-hanging-websites-by.html
+Description: PHP - Hanging Websites by a Harmful GIF (CVE-2018-5711).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/vusec/vuzzer
+Description: Application-aware Evolutionary Fuzzing.
+
+URL: http://az4n6.blogspot.pt/2018/01/mounting-apfs-image-in-linux.html
+Description: Mounting an APFS image in Linux.
+
+URL: https://github.com/capsule8/capsule8/
+Description: Open-source cloud-native behavioral security monitoring.
+
+URL: https://github.com/cclabsInc/RFCrack
+Description: A Software Defined Radio Attack Tool.
+
+URL: https://github.com/D4Vinci/One-Lin3r
+Description: Gives you one-liners that aids in penetration testing operations.
+
+URL: https://github.com/mindedsecurity/JStillery
+Description: Advanced JavaScript Deobfuscation via Partial Evaluation.
+
+URL: https://github.com/dotnet-security-guard/roslyn-security-guard
+Description: Roslyn analyzers that aim to help security audit on .NET applications. 
+
+URL: https://github.com/brouhaha/mac-encheez
+Description: Run a program with a modified view of network MAC addresses.
+
+URL: https://diablohorn.com/2017/10/26/port-scanning-without-an-ip-address/
+Description: Port scanning without an IP address.
+
+URL: https://github.com/rehh86/BeautifulSky
+Description: W32/W64 cross-platform x86/x64 code base for (my) PoC self-replicators. 
+
+URL: https://github.com/ThunderCls/xAnalyzer
+Description: Analyzer is a plugin for the x86/x64 x64dbg debugger.
+
+URL: https://pseudolaboratories.github.io/DarkComet-upload-vulnerability/
+Description: DarkComet’s C&C upload vulnerability.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://pentesterslife.blog/2017/11/24/x64-egg-hunting-in-linux-systems/
+Description: x64 Egg hunting in Linux systems.
+
+URL: https://github.com/yellowbyte/reverse-engineering-reference-manual
+Description: Reverse Engineering Reference Manual (beta).
+
+URL: https://franklinta.com/2014/08/31/predicting-the-next-math-random-in-java/
+Description: Predicting the next Math.random() in Java (Oldies).
+
+URL: https://blog.zsec.uk/out-of-band-xxe-2/
+Description: XXE - Things Are Getting Out of Band.
+
+URL: https://goo.gl/tDcRZs (+)
+Description: Load Alternate Data Stream (ADS) DLL/CPL Binaries to Bypass AppLocker.
+
+URL: https://whereisk0shl.top/post/2018-01-17
+PoC: https://github.com/k0keoyo/Dark_Composition_case_study_Integer_Overflow
+Description: Dark Composition kernel exploitation Case Study - Integer Overflow.
+
+URL: https://klikki.fi/adv/wpgform.html
+Description: Google Forms (WordPress plugin) SSRF vulnerability.
+
+URL: https://github.com/sgayou/medfusion-4000-research/blob/master/doc/README.md
+Description: Remote Code Execution on the Smiths Medical Medfusion 4000.
+
+URL: https://ownyourbits.com/2017/10/29/sandbox-your-applications-with-firejail/
+Description: Sandbox your applications with Firejail.
+
+URL: https://blogs.securiteam.com/index.php/archives/3649
+Description: Oracle VirtualBox Multiple Guest to Host Escape Vuln (CVE-2018-2698).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://makecode.com/
+Description: Microsoft MakeCode.
+
+URL: https://startyourownisp.com/
+Description: Start Your Own ISP.
+
+URL: http://nullprogram.com/blog/2014/12/23/
+Description: Interactive Programming in C.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?799a00343abec3c5#DHB1wlInSt+QkUjPfHLqdh1zzZ6pgzHGkl5wIZeouk8=
