@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 05 | Month: February | Year: 2018 | Release Date: 02/02/2018 | Edition: #207 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://blog.jr0ch17.com//2018/No-RCE-then-SSH-to-the-box/
+Description: No RCE? Then SSH to the box!
+
+URL: https://goo.gl/e4HC7r (+)
+Description: Full Account Takeover through CORS with connection Sockets.
+
+URL: http://whitehatstories.blogspot.in/2018/01/how-i-could-have-hacked-facebook.html
+Description: How I could have hacked Facebook Analytics to view any FB page's Analytics.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/SigPloiter/GTScan
+Description: The Nmap Scanner for Telco.
+
+URL: https://github.com/p3nt4/Invoke-SocksProxy
+Description: Socks proxy server using powershell.
+
+URL: https://github.com/integrity-sa/droidstatx
+Slides: https://goo.gl/ptcfsa (+)
+Description: Droidstat-X, Android Applications Security Analyser Xmind Generator.
+
+URL: https://github.com/dev-sec
+Description: Security + DevOps - Automatic Server Hardening.
+
+URL: https://github.com/Screetsec/Vegile
+Description: Tool for Post exploitation Techniques in Linux.
+
+URL: https://github.com/m8r0wn/enumdb
+Description: MySQL and MSSQL brute force and post exploitation tool.
+
+URL: https://github.com/sevagas/macro_pack
+Description: Tool to automatize obfuscation and generation of MS Office documents.
+
+URL: https://homjxi0e.wordpress.com/2018/01/20/whitelisting-bypassing-using-netsh-exec/
+Description: Whitelisting/Bypassing Using Netsh-Exec.
+
+URL: http://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/
+Description: Windows Privilege Escalation Guide.
+
+URL: https://github.com/pwntester/ysoserial.net
+Description: Deserialization payload generator for a variety of .NET formatters.
+
+URL: https://github.com/thehappydinoa/iOSRestrictionBruteForce
+Description: Crack iOS Restriction Passcodes with Python (iOS Passcode Brute Force).
+
+URL: https://github.com/cryptax/androidre
+Description: This is a docker image for reverse engineering of Android applications.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://blog.swiecki.net/2018/01/fuzzing-tcp-servers.html
+Tool: https://github.com/google/honggfuzz/
+Description: Fuzzing TCP servers.
+
+URL: https://goo.gl/7QyUuJ (+)
+Description: RDP hijacking - How to hijack RDS and RemoteApp sessions transparently.
+
+URL: https://goo.gl/Wtt6CB (+)
+Description: Linux Heap Exploitation Intro Series - (BONUS) printf might be leaking!
+
+URL: https://goo.gl/UGB2Ce (+)
+Description: Azure CSV Injection Vulnerability.
+
+URL: https://depthsecurity.com/blog/exploiting-custom-template-engines
+Description: Exploiting Custom Template Engines.
+
+URL: https://www.codemetrix.net/when-your-dns-leaks-your-infrastructure/
+Description: When your DNS leaks your infrastructure.
+
+URL: https://sqlwiki.netspi.com/
+Description: NetSPI SQL Injection Wiki.
+
+URL: https://bazad.github.io/2017/09/live-kernel-introspection-ios/
+Description: Live kernel introspection on iOS.
+
+URL: http://blog.ptsecurity.com/2018/01/running-unsigned-code-in-intel-me.html
+Description: How to Hack a Turned-off Computer, or Running Unsigned Code in Intel ME.
+
+URL: https://goo.gl/K7hbDW (+)
+Description: Using WebSockets and IE/Edge for C2 communications.
+
+URL: https://landave.io/2018/01/7-zip-multiple-memory-corruptions-via-rar-and-zip
+Description: 7Zip - Multiple Mem. Corruptions via RAR and ZIP (CVE-2018-5996/CVE-2017-17969).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/relativty/Relativ
+Description: Build your own VR headset for $100.
+
+URL: http://ponzicoin.co/home.html
+Description: The World's First Legitimate Ponzi Scheme.
+
+URL: https://ponnuki.net/2012/09/kindleberry-pi/
+Description: KindleBerry Pi.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?45c723487a36cfcd#vElZoayrEDMigZPt3ORQqDVOkArcg2hwUyxyArYCV/o=
