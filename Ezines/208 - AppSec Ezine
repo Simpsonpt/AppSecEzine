@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 06 | Month: February | Year: 2018 | Release Date: 09/02/2018 | Edition: #208 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ahussam.me/Amazon-leaking-csrf-token-using-service-worker/
+Description: Leaking Amazon.com CSRF Tokens Using Service Worker API.
+
+URL: https://github.com/dxa4481/cssInjection
+Description: Stealing CSRF tokens with CSS injection (without iFrames).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/meliht/mr.sip
+Description: SIP-Based Audit and Attack Tool.
+
+URL: https://github.com/IOActive/XDiFF
+Paper: https://goo.gl/ogrXE2 (+)
+Description: Extended Differential Fuzzing Framework.
+
+URL: https://github.com/levyitay/AddSecurityExceptionAndroid
+Description: Add Security Exception to APK.
+
+URL: https://inteltechniques.com/buscador/
+Description: Buscador Investigative Operating System (OSINT VM).
+
+URL: https://github.com/artkond/ios_mips_gdb
+Description: Cisco IOS MIPS GDB remote serial protocol implementation.
+
+URL: https://github.com/gen2brain/url2img
+Description: HTTP server with API for capturing screenshots of websites.
+
+URL: https://xorl.wordpress.com/2018/02/04/ssh-hijacking-for-lateral-movement/
+Description: SSH Hijacking for lateral movement.
+
+URL: https://github.com/rk700/VirtualHook
+Description: Android application hooking tool based on VirtualApp.
+
+URL: https://github.com/WiPi-Hunter/PiDense
+Description: Monitor illegal wireless network activities aka Fake Access Points.
+
+URL: https://github.com/mthbernardes/rsg
+Description: ReverShellGenerator - Tool to generate various ways to do a reverse shell.
+
+URL: https://github.com/tandasat/DotNetHooking
+Description: This project demonstrates how to use the .NET native code hooking technique.
+
+URL: https://github.com/nsmfoo/antivmdetection
+Description: Script to create templates to use w/ VirtualBox to make VM detection harder.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.tarq.io/vestacp-root-privilege-escalation/
+Description: VestaCP - Root Privilege Escalation.
+
+URL: https://xorl.wordpress.com/2017/11/20/reverse-engineering-isdebuggerpresent/
+Description: Reverse Engineering isDebuggerPresent().
+
+URL: https://goo.gl/8pqJek (+)
+Description: Exploiting CSRF on JSON endpoints with Flash and redirects.
+
+URL: https://goo.gl/646izH (+)
+Description: Studying APK Reverse Eng. by breaking the anonymity of BlindSpot app.
+
+URL: http://trackwatch.com/windows-kernel-pool-spraying/
+PoC: https://github.com/cbayet/PoolSprayer
+Description: Windows Kernel Pool Spraying.
+
+URL: https://goo.gl/8JYRYz (+)
+Description: Paperclip's Server Side Request Forgery (SSRF) vulnerability (CVE-2017–0889).
+
+URL: https://thatoddmailbox.github.io/2017/01/28/iotaseed.html
+Description: How a malicious seed generation website stole $4 million.
+
+URL: https://goo.gl/V3dMKJ (+)
+Description: I'm harvesting credit card numbers and passwords from your site. Here’s how.
+
+URL: https://www.n00py.io/2017/01/removing-backdoors-powershell-empire-edition/
+Description: Removing Backdoors – Powershell Empire Edition.
+
+URL: http://www.paulosyibelo.com/2018/02/hotspot-shield-cve-2018-6460-sensitive.html
+Description: Hotspot Shield - Sensitive Info Disclosure w/ XSSI & DNS Rebinding (CVE-2018-6460).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://jsnes.fir.sh/
+Description: A JavaScript NES emulator.
+
+URL: https://x8x.net/2017/11/19/home-alarm-vs-bus-pirate/
+Description: Home Alarm vs Bus Pirate.
+
+URL: https://diagprov.ch/posts/2017/03/a-polyglot-mbrpdfjarzip-cv.html
+Description: A polyglot MBR/PDF/JAR/ZIP CV.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?1e1294756d2684bb#cmauydo6Xhur4hPcBWe3byGw0QV+DL47LI1AMTa2xEo=
