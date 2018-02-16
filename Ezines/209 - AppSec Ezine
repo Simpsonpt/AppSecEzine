@@ -1,0 +1,137 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 07 | Month: February | Year: 2018 | Release Date: 16/02/2018 | Edition: #209 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.jensec.co/clickjacking-in-google-root-picker/
+Description: ClickJacking In Google Root picker - A Successful Bug-chase.
+
+URL: https://sites.google.com/site/testsitehacking/-7-5k-Google-services-mix-up
+Description: Google services mix-up (Bug Bounty).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/B4ckP0r7/RogueSploit
+Description: Powerfull social engeering Wi-Fi trap! 
+
+URL: https://github.com/tomsteele/blacksheepwall
+Description: Blacksheepwall is a hostname reconnaissance tool.
+
+URL: https://github.com/jivoi/awesome-osint
+Description: A curated list of amazingly awesome OSINT.
+
+URL: https://github.com/ParsingTeam/TeleShadow2
+Description: TeleShadow - Telegram Desktop Session Stealer (Windows).
+
+URL: https://github.com/sevagas/swap_digger
+Blog: http://blog.sevagas.com/?Digging-passwords-in-Linux-swap
+Description: Digging passwords in Linux swap.
+
+URL: https://github.com/modzero/modjoda
+Description: Android Java Deserialization Vulnerability Tester.
+
+URL: https://gist.github.com/PseudoLaboratories/260b6f24844785aacc1e2fb61dd05c01
+Blog: https://pseudolaboratories.github.io/DarkComet-upload-vulnerability/
+Description: DarkComet upload vulnerability.
+
+URL: https://github.com/christophetd/censys-subdomain-finder
+Description: Subdomain enumeration using the certificate transparency logs from Censys.
+
+URL: https://github.com/cyberark/ketshash
+Description: Detect suspicious privileged NTLM connections (Pass-The-Hash) on event viewer.
+
+URL: https://github.com/vincentcox/StaCoAn
+Description: StaCoAn is a crossplatform tool for static code analysis on mobile apps.
+
+URL: https://github.com/landscapeio/prospector
+Description: Analyse Python code and output info. about errors, potential problems and more.
+
+URL: https://goo.gl/si8EhL (+)
+Description: Enumerating files using Server Side Request Forgery and the request module.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/21Vtnp (+)
+Slides: https://goo.gl/jdss9r (+)
+Description: Predicting Random Numbers in Ethereum Smart Contracts.
+
+URL: https://mohemiv.com/all/evil-xml/
+Description: Evil XML with two encodings.
+
+URL: http://sploit3r.xyz/blueborne-exploitation-nexus-4/
+Description: BlueBorne exploitation on Nexus 4.
+
+URL: http://www.greyhathacker.net/?p=1006
+Description: Exploiting System Shield AntiVirus (CVE-2018-5701).
+
+URL: https://x-c3ll.github.io/posts/javascript-antidebugging/
+Description: JavaScript AntiDebugging Tricks.
+
+URL: https://osandamalith.com/2018/02/11/mysql-udf-exploitation/
+Description: MySQL UDF Exploitation.
+
+URL: http://baraktawily.blogspot.pt/2018/02/how-to-dos-29-of-world-wide-websites.html
+PoC: https://github.com/quitten/doser.py
+Description: How to DoS 29% of the World Wide Websites (CVE-2018-6389).
+
+URL: https://www.halfdog.net/Security/2017/LibcRealpathBufferUnderflow/
+Description: Libc Realpath Buffer Underflow (CVE-2018-1000001).
+
+URL: https://www.cybereason.com/blog/new-lateral-movement-techniques-abuse-dcom-technology
+Related: https://attactics.org/2018/02/03/lateral-movement-with-powerpoint-and-dcom/
+Description: New lateral movement techniques abuse DCOM technology.
+
+URL: https://www.secforce.com/blog/2014/02/from-cvs-import-to-cmd-exe-via-sql-injection/
+Description: From CVS import to cmd.exe – via SQL injection.
+
+URL: https://blog.pnb.io/2018/02/bruteforcing-linux-full-disk-encryption.html
+Description: Bruteforcing Linux Full Disk Encryption (LUKS) w/ hashcat - The Forensic way! 
+
+URL: http://sandboxescaper.blogspot.pt/2018/02/how-to-escape-sandboxes-without.html
+Description: How to escape sandboxes without technical skills!.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://www.tomanthony.co.uk/blog/googlebot-javascript-random/
+Description: Googlebot's Javascript random() function is deterministic.
+
+URL: https://transfer.sh/
+Description: Easy file sharing from the command line.
+
+URL: http://0x90909090.blogspot.pt/2015/07/no-one-expect-command-execution.html
+Description: No one expect command execution!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?593f3b5523e7ef88#dqtA+p4+kNkWaBdE0fMYl46rnCx/8xvqV5ANiPy81no=
