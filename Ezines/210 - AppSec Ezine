@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 08 | Month: February | Year: 2018 | Release Date: 23/02/2018 | Edition: #210 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bughunt1307.herokuapp.com/googlebugs.html
+Description: Google bugs stories and the shiny pixelbook.
+
+URL: https://bugs.chromium.org/p/project-zero/issues/detail?id=1524
+Description: uTorrent Nightmare via JSON-RPC (RCE, Information Disclosure, etc).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/truekonrads/bigear/
+Description: Opening CobaltStrike to a wider world.
+
+URL: https://github.com/viraintel/OWASP-Nettacker
+Description: Automated Penetration Testing Framework.
+
+URL: https://github.com/rk700/YAHFA
+Description: YAHFA is a hook framework for Android ART.
+
+URL: https://github.com/kvesel/zipbrk
+Description: Zip file format fuzzer and multi-tool.
+
+URL: http://woshub.com/port-forwarding-in-windows/
+Description: Port Forwarding in Windows.
+
+URL: https://github.com/desowin/usbpcap
+Description: USB packet capture for Windows.
+
+URL: https://github.com/Col-E/Recaf/
+Description: A modern Java bytecode editor.
+
+URL: https://github.com/vysec/CVE-2018-4878
+More: https://github.com/mdsecactivebreach/CVE-2018-4878
+Description: Aggressor Script to launch IE driveby for CVE-2018-4878.
+
+URL: https://github.com/Coalfire-Research/sqlinator
+Description: Forward HTTP GET & POST requests to SQLMap's API to test for SQLi and XSS.
+
+URL: https://github.com/jollheef/libreoffice-remote-arbitrary-file-disclosure
+Description: LibreOffice remote arbitrary file disclosure vulnerability (CVE-2018-6871).
+
+URL: https://github.com/maxchehab/CSS-Keylogging
+Description: Chrome extension and Express server to exploit keylogging ability of CSS.
+
+URL: https://github.com/malfunkt/hyperfox
+Description: HTTP/HTTPs MiTM proxy and traffic recorder w/ on-the-fly TLS cert generation. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://malpedia.caad.fkie.fraunhofer.de/
+Description: Malware resource for rapid identification and actionable context.
+
+URL: https://goo.gl/MEEp3F (+)
+Description: Sysinternals Sysmon suspicious activity guide.
+
+URL: https://0x00sec.org/t/malware-reversing-burpsuite-keygen/5167
+Description: Malware Reversing - Burpsuite Keygen.
+
+URL: https://medium.com/@petergombos/lm-ntlm-net-ntlmv2-oh-my-a9b235c58ed4
+Description: LM, NTLM, Net-NTLMv2, oh my!
+
+URL: http://riscy.business/2018/02/ida-remote-execution/
+Description: IDA double click RCE.
+
+URL: http://konukoii.com/blog/2018/02/16/5-min-tutorial-root-via-uart/
+Description: Gaining Root via UART.
+
+URL: https://zachgrace.com/2018/02/20/cobalt_strike_redirectors.html
+Description: Hybrid Cobalt Strike Redirectors.
+
+URL: https://medium.com/@europa_/recoinnassance-7840824b9ef2
+Description: Reconnaissance - a eulogy in three acts.
+
+URL: http://blog.frizn.fr/glibc/glibc-heap-to-rip
+Description: Getting code execution from pure glibc heap mechanics.
+
+URL: https://textslashplain.com/2018/02/14/understanding-the-limitations-of-https/
+Description: Understanding the Limitations of HTTPS.
+
+URL: https://medium.com/@appmattus/android-security-ssl-pinning-1db8acb6621e
+Description: Android Security - SSL Pinning.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://ipx.ac/run
+Description: IP info and leak test suite.
+
+URL: https://github.com/octref/polacode
+Description: Polaroid for your code.
+
+URL: https://ide.onelang.io/
+Description: Write code in 11 languages at the same time!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?a2c6e00cad427b31#SEnp6HAWdSHf2xg5dspyWNHWBTTkuOwDipVcmHgwskw=
