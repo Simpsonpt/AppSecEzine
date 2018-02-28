@@ -52,8 +52,8 @@ Description: Let's put all Sys Admins Crazy!
 
 
 URL: http://netinfiltration.com/
-Description: Oracle Reports Exploits Release.
 Exploit: https://github.com/Mekanismen/pwnacle-fusion
+Description: Oracle Reports Exploits Release.
 
 URL: http://www.sensepost.com/blog/10178.html
 Description: Revisiting XXE and abusing protocols.
@@ -68,7 +68,7 @@ URL: http://www.vulnerability-lab.com/get_content.php?id=1182
 Description: Mozilla Thunderbird - WireTap Remote 0Day Vulnerability.
 
 URL: http://blog.mdsec.co.uk/2014/01/voip-attacks-skype-proof-of-concept.html
-Description: VoIP Attacks: Skype Proof of Concept Released.
+Description: VoIP Attacks - Skype Proof of Concept Released.
 
 
 '  ╔═╗┬ ┬┌┐┌
@@ -81,7 +81,7 @@ URL: https://www.youtube.com/watch?v=oJagxe-Gvpw
 Description: World's Worst Hacker! (Learn something about: wget, tar, cd, more wget, cd, tar) :D
 
 URL: http://it.toolbox.com/blogs/securitymonkey/the-worlds-worst-penetration-test-report-by-scumbagpentester-58747
-Description: "IT Professionals" (facepalm)
+Description: "IT Professionals" (facepalm).
 
 
 '  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
