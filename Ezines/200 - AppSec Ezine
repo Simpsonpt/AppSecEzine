@@ -95,7 +95,7 @@ Description: ZigBee Security - Basics.
 
 URL: https://medium.com/@palantir/osquery-across-the-enterprise-3c3c9d13ec55
 Repo: https://github.com/palantir/osquery-configuration
-Descriptiton: OSQuery Across the Enterprise.
+Description: OSQuery Across the Enterprise.
 
 URL: https://symeonp.github.io/2017/09/17/fuzzing-winafl.html
 Description: Fuzzing the MSXML6 library with WinAFL
