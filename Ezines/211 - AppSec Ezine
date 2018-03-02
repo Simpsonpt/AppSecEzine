@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 09 | Month: March | Year: 2018 | Release Date: 02/03/2018 | Edition: #211  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/LAUsok (+)
+Description: I figured out a way to hack any of Facebook's 2 billion accounts.
+
+URL: https://slashcrypto.org/2018/02/27/TenX_Account_Takeover/
+Description: Steal Funds from TenX Users – Just Another Bug Bounty Story.
+
+URL: https://hackerone.com/reports/303061
+Description: RCE using bash command injection on /system/images.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/decoder-it/psgetsystem
+Blog: https://decoder.cloud/2018/02/02/getting-system/ 
+Description: Get SYSTEM with a standalone .ps1 using the "parent process" technique.
+
+URL: https://github.com/SECFORCE/Tunna
+Description: Set of tools which will wrap and tunnel any TCP communication over HTTP. 
+
+URL: https://github.com/0xM3R/cgPwn
+Description: A lightweight VM for hardware hacking, RE and wargaming tasks.
+
+URL: https://github.com/uber-common/metta
+Description: An information security preparedness tool to do adversarial simulation.
+
+URL: https://github.com/Marten4n6/EvilOSX
+Description: Python post-exploitation RAT (Remote Administration Tool) for macOS.
+
+URL: https://github.com/DNS-OARC/dnsjit
+Description: Engine for capturing, parsing and replaying DNS.
+
+URL: https://github.com/Mister2Tone/metasploit-webapp
+Description: Metasploit framework via HTTP services.
+
+URL: https://github.com/hfiref0x/Stryker
+Description: Multi-purpose proof-of-concept tool based on CPU-Z (CVE-2017-15303).
+
+URL: https://github.com/hdm/nextnet
+Description: Nextnet is a pivot point discovery tool written in Go.
+
+URL: https://github.com/dkhuuthe/MADLIRA
+Description: Malware detection using learning and information retrieval for Android.
+
+URL: https://github.com/dotboris/vuejs-serverside-template-xss
+Description: Vue.js app that mixes both clientside/serverside templates leading to XSS.
+
+URL: https://goo.gl/NnoZPp (+)
+Description: Bypassing CSRF tokens with Python's CGIHTTPServer.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/YjRkGK (+)
+Description: Improper ticket activation checks in corethree mTicket applications.
+
+URL: http://jsyang.ca/hacks/gear-vr-rev-eng/
+Description: Gear VR Controller Reverse Engineering.
+
+URL: https://nickbloor.co.uk/2018/02/28/popping-wordpress/
+Description: POPping WordPress.
+
+URL: http://agrrrdog.blogspot.pt/2018/01/java-deserialization-misusing-ojdbc-for.html
+Description: Java Deserialization: Misusing OJDBC for SSRF.
+
+URL: http://www.freebuf.com/articles/terminal/160041.html
+Description: Vulnerability Analysis and Utilization - Root Android 7.x (CVE-2017-8890).
+
+URL: https://tunnelshade.in/blog/2018/01/afl-internals-compile-time-instrumentation/
+Description: Internals of AFL fuzzer - Compile Time Instrumentation.
+
+URL: https://krbtgt.pw/smbv3-null-pointer-dereference-vulnerability/
+PoC: https://github.com/KINGSABRI/CVE-in-Ruby/tree/master/CVE-2018-0833
+Description: SMBv3 Null Pointer Dereference vulnerability (CVE-2018-0833).
+
+URL: http://blog.ptsecurity.com/2018/02/new-bypass-and-protection-techniques.html
+Description: New bypass and protection techniques for ASLR on Linux.
+
+URL: https://www.mike-gualtieri.com/posts/stealing-data-with-css-attack-and-defense
+Description: Stealing Data With CSS - Attack and Defense.
+
+URL: https://disconnect3d.pl/2018/02/24/log-injection-aka-tailing-logs-is-unsafe/
+Description: Logs injection or why is logs tailing unsafe.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://waveforms.surge.sh/waveforms-intro
+Description: Let's Learn About Waveforms.
+
+URL: https://medium.com/@malcomvetter/responsible-red-teams-1c6209fd43cc
+Description: Responsible Red Teams.
+
+URL: https://github.com/khrome/ascii-art
+Description: Node.js lib for ansi codes, figlet fonts, ascii art and others.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?cc3101426c3e9f3e#HePUfa0NXKM/KQwFrDMSy48S5kECeyCwz75bJ4W4Djk=
