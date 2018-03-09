@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 10 | Month: March | Year: 2018 | Release Date: 09/03/2018 | Edition: #212  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://goo.gl/eSAL6F (+)
+Description: How I hacked Tinder accounts using Facebook's Account Kit.
+
+URL: https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html
+Description: Stored XSS, and SSRF in Google using the Dataset Publishing Language.
+
+URL: https://goo.gl/epujHQ (+)
+Description: Bypassing Google's authentication to access their Internal Admin panels.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/snooze6/FiOS
+Description: FiOS - new iOS pentesting tool based on Frida.
+
+URL: https://github.com/sa7mon/S3Scanner
+Description: Scan for open S3 buckets and dump.
+
+URL: https://zeltser.com/analyzing-malicious-documents/
+Description: Analyzing Malicious Documents Cheat Sheet.
+
+URL: https://github.com/agustingianni/symrepl
+Description: Small REPL tool to investigate symbols inside binaries.
+
+URL: https://github.com/JPCERTCC/impfuzzy
+Blog: http://blog.jpcert.or.jp/2016/12/a-new-tool-to-d-d6bc.html
+Description: Impfuzzy is Fuzzy Hash calculated from import API of PE files.
+
+URL: https://github.com/Viralmaniar/Passhunt
+Description: Passhunt is a simple tool for searching of default credentials.
+
+URL: https://github.com/ajinabraham/Droid-Application-Fuzz-Framework
+Description: Android application fuzzing framework with fuzzers and crash monitor.
+
+URL: https://github.com/jacob-baines/longtime-sunshine
+Description: Nashorn (JS engine that Oracle introduced in Java 8) Post Exploitation.
+
+URL: https://github.com/UnaPibaGeek/ctfr
+Description: Abusing Certificate Transparency logs to get HTTPS websites subdomains.
+
+URL: https://github.com/responsibleD/memcached-PoC
+More: https://github.com/649/Memcrashed-DDoS-Exploit/
+Description: Memcached PoC for amplification via spoofed UDP packets (CVE-2018-1000115).
+
+URL: https://github.com/mdsecactivebreach/SharpShooter
+Blog: https://www.mdsec.co.uk/2018/03/payload-generation-using-sharpshooter/
+Description: Framework for the retrieval and execution of arbitrary CSharp source code.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/46qXeQ (+)
+Description: Gaining Domain Admin from Outside Active Directory.
+
+URL: https://heap-exploitation.dhavalkapil.com/
+Description: Heap Exploitation.
+
+URL: https://github.com/iDaN5x/Switcheroo/wiki/Article
+Description: Exploiting CVE-2016-4657 to Jailbreak the Nintendo Switch.
+
+URL: https://goo.gl/S4zdcJ (+)
+Description: Exim Off-by-one Remote Code Execution (CVE-2018-6789).
+
+URL: https://erpscan.com/press-center/blog/adapting-hashcat-for-sap-half-hashes/
+Description: Adapting hashcat for SAP 'half hashes'.
+
+URL: https://goo.gl/iNxWA1 (+)
+PoC: https://github.com/zodiacon/InterceptionDemo
+Description: Intercepting COM Objects with CoGetInterceptor.
+
+URL: https://blog.varonis.com/understanding-malware-free-hacking-part/
+Description: Adventures in Malware-Free Hacking, Series.
+
+URL: https://bazad.github.io/2018/03/a-fun-xnu-infoleak/
+Description: A fun XNU infoleak (CVE-2017-13868).
+
+URL: https://arxiv.org/pdf/1710.08864.pdf
+PoC: https://github.com/Hyperparticle/one-pixel-attack-keras
+Description: One pixel attack for fooling deep neural networks.
+
+URL: https://osandamalith.com/2018/02/01/exploiting-format-strings-in-windows/
+Description: Exploiting Format Strings in Windows.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://hackmd.io/s/rJ-3VKNPG
+Description: Awesome DarkWeb Research.
+
+URL: https://github.com/erroneousboat/slack-term
+Description: Slack client for your terminal.
+
+URL: http://blog.koehntopp.info/index.php/3075-how-not-to-run-a-ca/
+Description: How not to run a CA.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?932558ff0aa5d55d#1mFOJLSsmRqWayK5KrevSJN8XfD1cJz7Y9P8MZP3z/E=
