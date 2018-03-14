@@ -45,6 +45,7 @@ URL: https://blog.netspi.com/attacking-javascript-web-service-proxies-burp/
 Description: Attacking JavaScript Web Service Proxies with Burp.
 
 URL: https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
+Related: https://medium.com/@honze_net/reverse-shell-and-some-magic-39629ccd0e5c
 Description: Upgrading simple shells to fully interactive TTYs.
 
 URL: https://github.com/brannondorsey/sniff-probes
