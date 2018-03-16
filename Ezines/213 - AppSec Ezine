@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 11 | Month: March | Year: 2018 | Release Date: 16/03/2018 | Edition: #213  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://lightningsecurity.io/blog/bypassing-payments-using-webhooks/
+Description: Bypassing Payments Using Webhooks.
+
+URL: https://www.josipfranjkovic.com/blog/facebook-friendlist-paymentcard-leak
+Description: Getting any Facebook user's friend list and partial payment card details.
+
+URL: https://labs.detectify.com/2018/03/14/graphql-abuse/
+Description: Bypass account level permissions through parameter smuggling (GraphQL).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/rani-i/bluetoothdPoC
+Blog: https://goo.gl/4RvH9T (+)
+Description: Escaping the sandbox by misleading bluetoothd (CVE-2018-4087).
+
+URL: https://github.com/Proteas/unstripped-ios-kernels
+Description: Kernels of iOS 11.0 with all debug symbols!
+
+URL: https://github.com/BigNerd95/Chimay-Red
+Description: Working POC of Mikrotik exploit from Vault 7 CIA Leaks.
+
+URL: https://github.com/CoolerVoid/rootstealer
+Description: Spy all GUI windows interactions and inject commands only in root terms.
+
+URL: https://github.com/merrychap/shellen
+Description: Interactive shellcoding environment to easily craft shellcodes.
+
+URL: https://github.com/brompwnie/uitkyk
+Description: Android Frida library to hunt Android Malware.
+
+URL: https://github.com/erpscanteam/CVE-2018-2380
+Description: RCE via Log injection on SAP NetWeaver AS JAVA CRM (CVE-2018-2380).
+
+URL: https://github.com/0xSobky/Regaxor
+Description: Regaxor (RegExp Haxxor) is a regular expression fuzzer, written in ES6.
+
+URL: https://github.com/ZephrFish/DockerAttack
+Description: Various Tools and Docker Images.
+
+URL: https://github.com/sola-da/Synode
+Blog: https://goo.gl/LqwQvL (+)
+Description: Automatically Preventing Code Injection Attacks on Node.js.
+
+URL: https://github.com/Metnew/uxss-db
+Description: Universal Cross-site Scripting DB (+ other browser vulnerabilities).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/vNVzN1 (+)
+Description: z00mtrack - User Tracking via The Browser Zoom Levels.
+
+URL: https://www.eideon.com/2018-03-02-THL03-WMIBackdoors/
+Description: Following the trace of WMI Backdoors & other nastiness.
+
+URL: http://blog.japaric.io/safe-dma/
+Description: Memory safe DMA transfers (Rust).
+
+URL: https://goo.gl/iz1hLP (+)
+PoC: https://github.com/alex91ar/randomstringutils
+Description: A practical application for insecure randomness. 
+
+URL: https://secdevops.ai/ios-static-analysis-and-recon-c611eaa6d108
+Description: iOS Static Analysis and Recon.
+
+URL: https://goo.gl/ND8WeR (+)
+Description: Getting to the Bottom of CVE-2018-0825 Heap Overflow Buffer.
+
+URL: https://reboare.github.io/lxd/lxd-escape.html
+Description: Privilege Escalation via lxd.
+
+URL: https://medium.com/@vysec.private/alibaba-cdn-domain-fronting-1c0754fa0142
+Description: Alibaba CDN Domain Fronting.
+
+URL: https://blog.stealthbits.com/dcshadow-attacking-active-directory-with-rogue-dcs/
+More: https://blog.stealthbits.com/privilege-escalation-with-dcshadow/
+Description: DCShadow - Attacking Active Directory with Rogue DCs.
+
+URL: https://medium.com/secjuice/php-ssrf-techniques-9d422cb28d51
+Description: PHP SSRF Techniques - How to bypass filter_var(), preg_match() and more.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://infocon.org/
+Description: Hacking Conference Archive.
+
+URL: https://github.com/intel/acat
+Blog: https://goo.gl/BsVqjV (+)
+Description: Assistive Context-Aware Toolkit (ACAT).
+
+URL: https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio
+Description: Nexmon Software Defined Radio (Turns Broadcom Wi-Fi chips into SDRs).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?754171833baacbea#2cKNMaohx2F/yYdDNZAKnUbxF/TEUHR1gN/Wb8KlMC4=
