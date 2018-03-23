@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 12 | Month: March | Year: 2018 | Release Date: 23/03/2018 | Edition: #214  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://opnsec.com/2018/03/stored-xss-on-facebook/
+Description: Stored XSS on Facebook.
+
+URL: https://ahussam.me/Leaking-WordPress-CSRF-Tokens/
+Description: Leaking WordPress CSRF Tokens for Fun (CVE-2017-5489).
+
+URL: https://hackerone.com/reports/300748
+Description: Ethereum account balance manipulation.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Eplox/TCP-Starvation
+Description: TCP-Starvation.
+
+URL: https://github.com/MozillaSecurity/octo
+Description: A fuzzing framework in JavaScript.
+
+URL: https://www.unix-ninja.com/p/A_cheat-sheet_for_password_crackers
+Description: A cheat-sheet for password crackers.
+
+URL: https://github.com/tihmstar/doubleH3lix
+Description: Jailbreak for iOS 10.x 64bit devices without KTRR.
+
+URL: https://github.com/nongiach/arm_now
+Description: Multi arch VM working out of the box for everyone.
+
+URL: http://developers-club.com/posts/250999/
+Description: We recover local and domain passwords from hiberfil.sys.
+
+URL: https://github.com/Eterna1/puszek-rootkit
+Description: Yet another LKM rootkit for Linux. It hooks syscall table.
+
+URL: https://github.com/Viralmaniar/Powershell-RAT
+Description: Python backdoor that uses Gmail to exfiltrate data as an e-mail attachment.
+
+URL: https://github.com/PsychoTea/maf_server
+Description: Memory Analysis Framework - Port of Ian Beer's extra_recipe server stub.
+
+URL: https://github.com/HA71/WhatCMS
+Description: CMS Detection and Exploit Kit based on Whatcms.org API.
+
+URL: https://github.com/riverloopsec/tumblerf
+Description: A unified fuzzing framework for low-level RF and HW protocol/PHY/MAC analysis.
+
+URL: https://goo.gl/cAHW3N (+)
+Description: Logs in High Sierra (10.13) Show Passwords for APFS Encrypted External Volumes.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://rastamouse.me/2018/03/laps---part-1/
+More: https://rastamouse.me/2018/03/laps---part-2/
+Description: Abuse Local Administrator Password Solution (LAPS).
+
+URL: https://saleemrashid.com/2018/03/20/breaking-ledger-security-model/
+Description: Breaking the Ledger Security Model.
+
+URL: https://ryan.govost.es/2018/03/09/deepsound.html 
+Description: Password recovery on DeepSound steganography.
+
+URL: https://staaldraad.github.io/post/2018-03-16-quick-win-with-graphql/
+Description: Quick win with GraphQL.
+
+URL: https://goo.gl/y1y8bn (+)
+Description: Top Five Ways I gained access to Your Corporate Wireless Network.
+
+URL: https://blog.jessfraz.com/post/building-container-images-securely-on-kubernetes/
+Description: Building Container Images Securely on Kubernetes.
+
+URL: https://oddvar.moe/2018/03/21/persistence-using-runonceex-hidden-from-autoruns-exe/
+Description: Persistence using RunOnceEx – Hidden from Autoruns.exe.
+
+URL: https://www.guardicore.com/2018/03/recovering-plaintext-passwords-azure/
+Description: Recovering Plaintext Passwords from Azure Virtual Machines.
+
+URL: https://goo.gl/64sxc8 (+)
+Description: Visual Studio Code silently fixed a remote code execution vulnerability.
+
+URL: http://misteralfa-hack.blogspot.pt/2018/03/leaking-facebook-internal-ip.html
+PoC: https://github.com/ezelf/f5_cookieLeaks
+Description: Leaking Facebook Internal IP Infrastructure.
+
+URL: https://codewhitesec.blogspot.pt/2018/03/exploiting-adobe-coldfusion.html
+Description: Exploiting Adobe ColdFusion before CVE-2017-3066.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://tech.jonathangardner.net/wiki/Why_Java_Sucks
+Description: Why Java Sucks.
+
+URL: https://gethead.info/
+Description: A free guide to <head> elements.
+
+URL: https://github.com/securitywithoutborders/hardentools
+Description: Hardentools is a utility that disables a number of risky Windows features.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?a32089ecec117a97#fdyLiqipCYRLMZWv2YovGEtHQcmHn+yRljLssCK+kKI=
