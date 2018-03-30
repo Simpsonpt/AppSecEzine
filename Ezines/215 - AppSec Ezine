@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 13 | Month: March | Year: 2018 | Release Date: 30/03/2018 | Edition: #215  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://medium.com/@Alra3ees/google-adwords-3133-7-stored-xss-27bb083b8d27
+Description: Google adwords Stored XSS.
+
+URL: https://hawkinsecurity.com/2018/03/24/gaining-filesystem-access-via-blind-oob-xxe/
+Description: Gaining Filesystem Access via Blind OOB XXE.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/lukechilds/reverse-shell
+Description: Reverse Shell as a Service.
+
+URL: https://github.com/Moham3dRiahi/Th3inspector
+Description: Th3Inspector - best tool for Information Gathering.
+
+URL: https://github.com/Lanchon/haystack
+Description: Signature Spoofing Patcher for Android.
+
+URL: https://github.com/nullbind/Other-Projects/tree/master/GDA
+Description: Get Domain Admins (GDA).
+
+URL: https://github.com/quentinhardy/msdat
+Description: MSDAT - Microsoft SQL Database Attacking Tool.
+
+URL: https://github.com/franccesco/getaltname
+Description: Get Subject Alt Name from SSL Certificates.
+
+URL: https://zero-day.io/modifyexploits/
+Description: Modifying exploits - hands-on example (101).
+
+URL: https://github.com/guardicore/monkey
+Description: Infection Monkey - An automated pentest tool.
+
+URL: https://github.com/0x09AL/DNS-Persist
+Description: DNS-Persist is a post-exploitation agent which uses DNS for C&C.
+
+URL: https://github.com/zi0Black/POC-CVE-2018-0114
+Description: This repository contains the POC of an exploit for node-jose < 0.11.0.
+
+URL: https://github.com/dsopas/assessment-mindset
+Description: Security Mindmap useful for pentest, bug bounty or red-team assessments.
+
+URL: https://github.com/UltimateHackers/Arjun
+Description: Arjun is a python script for finding hidden GET & POST parameters.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.jli.host/posts/cf-auto-minify/
+Description: Uncovering a Bug in Cloudflare's Minification Service.
+
+URL: https://www.leavesongs.com/PENETRATION/client-session-security.html
+Description: Client session caused security issues (Flask).
+
+URL: https://goo.gl/fnxgfx (+)
+Description: Remote Code Execution with Drupal core (SA-CORE-2018–002).
+
+URL: https://jellyhive.com/activity/posts/2018/03/26/csp-implementations-are-broken/
+Description: CSP implementations are broken.
+
+URL: https://magisterquis.github.io/2018/03/11/process-injection-with-gdb.html
+Description: Process Injection with GDB.
+
+URL: https://medium.com/@cloudyforensics/how-to-perform-aws-cloud-forensics-309a03a77aee
+Description: How to perform AWS Cloud Forensics.
+
+URL: https://goo.gl/93GuBP (+)
+Description: DiskShadow - The Return of VSS Evasion, Persistence, and AD Database Exfil.
+
+URL: https://github.com/trishmapow/rf-jam-replay
+Description: Jam and Replay Attack on Vehicular Keyless Entry Systems.
+
+URL: https://goo.gl/5Nu3xo (+)
+Description: The phenomenon of smart contract honeypots.
+
+URL: https://goo.gl/Vunae1 (+)
+Description: Here's a List of 29 Different Types of USB Attacks.
+
+URL: https://ncona.com/2015/02/consuming-a-google-id-token-from-a-server/
+Description: Consuming a Google ID Token from a server.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://jeremyrickard.github.io/post/fun-with-aci/
+Description: Fun With ACI.
+
+URL: https://pjreddie.com/darknet/yolo/
+Description: YOLO - Real-Time Object Detection.
+
+URL: https://jgthms.com/javascript-in-14-minutes/
+Description: JavaScript in 14 minutes.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?2f1104c7ad42ca9c#UXQ4hV+pQ25n231+V5BHI3v/Lr2vwq/RkNjcb8Cka7c=
