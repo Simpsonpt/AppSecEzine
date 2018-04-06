@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 14 | Month: April | Year: 2018 | Release Date: 06/04/2018 | Edition: #216  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ngailong.wordpress.com/2018/02/13/the-mystery-of-postmessage/
+Description: The Mystery of postMessage.
+
+URL: http://bit.ly/2IxLqdT (+)
+Description: Google bug bounty for security exploit that influences search results.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/endgameinc/RTA
+Description: Red Team Automation (RTA).
+
+URL: https://github.com/redhuntlabs/RedHunt-OS
+Description: RedHunt Linux Distribution (VM).
+
+URL: https://github.com/0xbadjuju/Tokenvator
+Description: A tool to elevate privilege with Windows Tokens.
+
+URL: https://github.com/chrismaddalena/ODIN
+Description: Tool for automating penetration testing tasks (in development).
+
+URL: https://github.com/redcanaryco/atomic-red-team
+Description: Small and highly portable detection tests.
+
+URL: http://www.getmantra.com/web-app-security-testing-with-browsers/
+Description: Web app security testing with browsers.
+
+URL: https://github.com/peewpw/Invoke-BSOD
+Description: Invoke a BSOD and get a crash dump after search for passwords in the dump.
+
+URL: https://github.com/UnaPibaGeek/CBM
+More: https://hackinparis.com/data/files/talks_2018/the-bicho-v21-sheila-berta.pdf
+Description: Car Backdoor Maker (CBM) and hardware-backdoor for CAN bus.
+
+URL: https://github.com/bazad/ida_kernelcache
+Description: ida_kernelcache - An IDA Toolkit for analyzing iOS kernelcaches.
+
+URL: https://github.com/nshalabi/SysmonTools
+Description: Utilities for Sysmon - Sysmon View and Sysmon Shell.
+
+URL: https://github.com/inurlx/CLOUDKiLL3R
+Description: CLOUDKiLL3R bypasses Cloudflare protection service via TOR Browser!
+
+URL: https://github.com/android-hacker/VirtualXposed
+Description: A Simple App to use Xposed without root. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://syscall.eu/blog/2018/03/12/aigo_part1/
+More: https://syscall.eu/blog/2018/03/12/aigo_part2/
+Description: Aigo Chinese encrypted HDD.
+
+URL: http://gosecure.net/2018/04/03/beyond-xss-edge-side-include-injection/
+Description: Beyond XSS - Edge Side Include (ESI) Injection. 
+
+URL: http://bluec0re.blogspot.pt/2018/03/cve-2018-7160-pwning-nodejs-developers.html
+Description: Pwning NodeJS Developers (CVE-2018-7160).
+
+URL: https://blog.ice9.us/2018/04/stealing-credit-cards-from-fuze-bluetooth.html
+Description: Stealing Credit Cards from FUZE via Bluetooth (CVE-2018-9119).
+
+URL: https://magisterquis.github.io/2018/03/31/in-memory-only-elf-execution.html
+Description: In-Memory-Only ELF Execution (Without tmpfs).
+
+URL: https://medium.com/@cintainfinita/knocking-down-the-big-door-8e2177f76ea5
+Description: Knocking Down the Big Door - How We Bypassed the Auth0 Authentication.
+
+URL: http://blog.orange.tw/2018/03/pwn-ctf-platform-with-java-jrmp-gadget.html
+Description: Pwn a CTF Platform with Java JRMP Gadget.
+
+URL: https://phoenhex.re/2018-03-25/not-a-vagrant-bug
+Description: This is fine - Vagrant guests can access the entire host filesystem.
+
+URL: https://lightbulbone.com/posts/2016/10/dsmos-kext/
+Description: Reversing a macOS Kernel Extension.
+
+URL: https://krbtgt.pw/windows-remote-assistance-xxe-vulnerability/
+Description: Windows Remote Assistance XXE vulnerability (CVE-2018-0878).
+
+URL: http://bit.ly/2Gz3aJj (+)
+Description: How I was able to bypass Open Redirection Protection from LinkedIn.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://holeybeep.ninja/
+PoC: https://gist.github.com/fkt/5f8f9560ef54e11ff7df8bec09dc8f9a
+Description: Holey Beep (CVE-2018-0492).
+
+URL: http://bit.ly/2q81V8U (+)
+Description: Making a PS2 Emulator - From Bits to Pixels.
+
+URL: https://www.anishathalye.com/2018/04/03/macbook-touchscreen/
+Description: Turning a MacBook into a Touchscreen with $1 of Hardware.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?b609dc044abc5f8d#MON0m4jh0o0974jSHv3zvSvr7mSHaLe5WFaT8Ezioe8=
