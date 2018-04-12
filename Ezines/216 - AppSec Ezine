@@ -112,6 +112,7 @@ Description: How I was able to bypass Open Redirection Protection from LinkedIn.
 
 
 URL: https://holeybeep.ninja/
+Related: https://sigint.sh/#/holeybeep
 PoC: https://gist.github.com/fkt/5f8f9560ef54e11ff7df8bec09dc8f9a
 Description: Holey Beep (CVE-2018-0492).
 
