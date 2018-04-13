@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 15 | Month: April | Year: 2018 | Release Date: 13/04/2018 | Edition: #217  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://philippeharewood.com/facebook-graphql-csrf/
+Description: Facebook GraphQL CSRF.
+
+URL: http://bit.ly/2v6ODPN (+)
+Description: How I broke into Google Issue Tracker.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://secrary.com/Random/BypassUserHooks/
+Description: Bypasss User-Mode Hooks.
+
+URL: https://github.com/DedSecInside/TorBoT
+Description: OSINT tool for Deep and Dark Web.
+
+URL: https://github.com/blechschmidt/massdns
+Related: https://github.com/Den1al/pymassdns
+Description: A high-performance DNS stub resolver for bulk lookups and reconnaissance.
+
+URL: https://github.com/RiotGames/cloud-inquisitor
+Description: Enforce ownership and data security within AWS.
+
+URL: https://github.com/UltimateHackers/Decodify
+Description: It can detect and decode encoded strings, recursively.
+
+URL: http://bit.ly/2HvXjSg (+)
+Description: Persistence using GlobalFlags in Image File Execution Options.
+
+URL: https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/
+Description: Web Application Penetration Testing Cheat Sheet.
+
+URL: https://github.com/NextronSystems/APTSimulator
+Description: A toolset to make a system look as if it was the victim of an APT attack.
+
+URL: https://github.com/k4m4/dcipher
+Description: Decipher hashes using online rainbow & lookup table attack services.
+
+URL: https://blog.fabiopires.pt/running-your-instance-of-burp-collaborator-server/
+Description: Running Your Instance of Burp Collaborator Server.
+
+URL: https://github.com/noxrnet/researchservers
+Description: Simple servers (HTTP and DNS) which allow configurable/scriptable responses.
+
+URL: https://github.com/vysec/DomLink
+Blog: https://medium.com/@vysec.private/domlink-automating-domain-discovery-467704375d0a
+Description: Link a domain with registered organisation names and emails to other domains.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2GSKOmB (+)
+Description: The story behined the Strong XSS filter bypass!
+
+URL: http://bit.ly/2EGBVGP (+)
+Description: Abusing Exported Functions and Exposed DCOM Interfaces.
+
+URL: https://medium.com/@yassergersy/xss-to-session-hijack-6039e11e6a81
+Description: Stealing HttpOnly Cookie via XSS.
+
+URL: https://snyk.io/blog/attacking-an-ftp-client/
+Description: Attacking an FTP Client - MGETting more than you bargained for.
+
+URL: https://www.mindpointgroup.com/blog/pen-test/cloudfront-hijacking/
+Description: CloudFront Hijacking.
+
+URL: https://embedi.com/blog/reflecting-upon-owasp-top-10-iot-vulnerabilities/
+Description: Reflecting upon OWASP TOP-10 IoT Vulnerabilities.
+
+URL: https://clo.ng/blog/osquery_reverse_shell/
+Description: Using Osquery to Detect Reverse Shells on MacOS.
+
+URL: https://medium.com/@jeremy.trinka/event-log-auditing-demystified-75b55879f069
+Description: Event Log Auditing, Demystified.
+
+URL: https://github.com/eladshamir/Internal-Monologue
+Description: Internal Monologue Attack - Retrieving NTLM Hashes without Touching LSASS.
+
+URL: http://bit.ly/2EFUPhc (+)
+Description: My journey towards Reverse Engineering a Smart Band — Bluetooth-LE RE.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/cryptodashie/ipfs
+Related: https://ipfs.io/
+Description: IPFS Scanner.
+
+URL: https://osandamalith.com/2018/04/07/haxing-minesweeper/
+Description: Haxing Minesweeper.
+
+URL: https://blog.benjojo.co.uk/post/tor-onions-to-v6-with-iptables-proxy
+Description: Giving every Tor Hidden Service a IPv6 address.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?51173ced8a7b3d4d#uKozsNc0RF6b/BlWbz4JC2mCU354bogzH27oPk2+/E8=
