@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 16 | Month: April | Year: 2018 | Release Date: 20/04/2018 | Edition: #218  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2HfV9ZS (+)
+Description: Piercing the Veil - Server Side Request Forgery to NIPRNet access.
+
+URL: http://bit.ly/2HylK3L (+)
+Description: Bypass CSP by Abusing XSS Filter in Edge.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/m0nad/Diamorphine
+Description: Diamorphine is a LKM rootkit for Linux Kernels 2.6.x/3.x/4.x.
+
+URL: https://github.com/kennethreitz/s3monkey
+Description: Amazon S3 Buckets as if they are your local filesystem.
+
+URL: https://github.com/fireeye/ReelPhish
+Description: A Real-Time Two-Factor Phishing Tool.
+
+URL: https://github.com/preempt/credssp
+Blog: https://blog.preempt.com/how-we-exploited-the-authentication-in-ms-rdp
+Description: Exploit Authentication in MS-RDP (CVE-2018-0886).
+
+URL: https://github.com/daudmalik06/ReconCat
+Description: PHP application to fetch archive url snapshots from archive.org.
+
+URL: https://github.com/dsopas/rfd-checker
+Description: RFD Checker - security CLI tool to test Reflected File Download.
+
+URL: http://bit.ly/2HbjccF (+)
+Description: Living off the land with Kerberos and netsh interface portproxy.
+
+URL: https://github.com/hannob/snallygaster
+Description: Tool to scan for secret files on HTTP servers.
+
+URL: https://github.com/m8r0wn/pymeta
+Description: Tool to search the web for files on a domain for extracting metadata. 
+
+URL: https://github.com/extremecoders-re/Virtual-File-System-Editor
+Description: A tool to extract embedded files from application virtualizers.
+
+URL: https://github.com/iabem97/securityd-racer2
+Description: Securityd PoC overflow vulnerability (iOS 11.3/15E5189f)
+
+URL: https://github.com/pageflt/gdb-box
+Description: GDB extension for displaying memory contents in different byte orders.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.dasp.co/
+Description: Decentralized Application Security Project (or DASP) Top 10.
+
+URL: https://gist.github.com/sirdarckcat/fe8ce94ef25de375d13b7681d851b7b4
+Description: /sbin/dhclient Ubuntu AppArmor profile bypass.
+
+URL: https://pythontips.com/2018/04/15/reverse-engineering-soundcloud-api/
+Description: Reverse Engineering Soundcloud API.
+
+URL: http://byte-atlas.blogspot.pt/2018/04/apivectors.html
+Description: Introducing ApiVectors (ApiScout Update).
+
+URL: http://bit.ly/2qL2dCT (+)
+Description: Take full control of online compilers through a common exploit.
+
+URL: http://bit.ly/2HMh9c9 (+)
+Description: JTAG on-chip debugging - Extracting passwords from memory.
+
+URL: https://ifc0nf1g.xyz/blog/post/pwning-admin-panel-with-recon/
+Description: Pwning admin panel with recon.
+
+URL: http://www.duskborn.com/how-to-read-write-llvm-bitcode/
+Description: How to read & write LLVM bitcode.
+
+URL: http://bit.ly/2JbbAU5 (+)
+PoC: https://github.com/securifera/CVE-2018-6546-Exploit
+Description: AMD Gaming Evolved (Raptr - Plays.tv) Remote File Execution.
+
+URL: https://paper.seebug.org/563/
+PoC: http://cyseclabs.com/exploits/upstream44.c
+Description: Four sets aside - Ubuntu kernel eBPF 0day analysis (CVE-2017-16995).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/NVlabs/MUNIT
+Description: MUNIT - Multimodal UNsupervised Image-to-image Translation.
+
+URL: https://github.com/fransr/bountyplz
+Description: Automated security reporting from markdown templates.
+
+URL: https://blog.benjojo.co.uk/post/encoding-data-into-dubstep-drops
+Description: Encoding data in dubstep drops.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?9fdaa228aef59706#r9A2ZrmT8y+U5rOI0BeDBlIzo0wUCYb4jzmAHjFmPPs=
