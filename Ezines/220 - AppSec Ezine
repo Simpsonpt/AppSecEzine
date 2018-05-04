@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 18 | Month: May | Year: 2018 | Release Date: 04/05/2018 | Edition: #220  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://eligrey.com/blog/google-inbox-spoofing-vulnerability/
+Description: Google Inbox spoofing vulnerability.
+
+URL: http://bit.ly/2Ib7xua (+)
+Description: Abusing internal API to achieve IDOR in New Relic.
+
+URL: http://bit.ly/2rjGMcf (+)
+Description: Bypass firewall to get RCE and then from server shell to get root!
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/fopina/syncme_exposed
+Description: Sync.me sucks.
+
+URL: https://github.com/ezelf/CVE-2018-9995_dvr_credentials
+Description: Get DVR Credentials (CVE-2018-9995).
+
+URL: https://github.com/PreOS-Security/awesome-firmware-security/
+Description: Awesome Firmware Security & Other Helpful Documents.
+
+URL: http://bit.ly/2rjC1zr (+)
+Description: Reversing and Patching .NET Binaries with Embedded References.
+
+URL: https://github.com/integrity-sa/burpcollaborator-docker
+Description: Burp Collaborator Server docker container with LetsEncrypt certificate.
+
+URL: https://erpscan.com/press-center/blog/oracle-ebs-penetration-testing-tool/
+Description: Oracle EBS Penetration testing tool.
+
+URL: https://www.exploit-db.com/exploits/44553/
+Description: Oracle Weblogic Server Deserialization RCE Vulnerability (CVE-2018-2628).
+
+URL: https://github.com/cldrn/rainmap-lite
+Description: Rainmap Lite - Responsive web based interface for Nmap.
+
+URL: https://github.com/Neo23x0/sigma
+Description: Generic Signature Format for SIEM Systems.
+
+URL: https://github.com/jobertabma/virtual-host-discovery
+Description: A script to enumerate virtual hosts on a server.
+
+URL: https://telekomsecurity.github.io/2018/04/trovebox-vulnerabilities.html
+Description: Trovebox - Authentication Bypass, SQLi, SSRF.
+
+URL: https://github.com/saaramar/execve_exploit
+Description: Hardcore corruption of my execve() vulnerability in WSL (CVE-2018-0743).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://keenlab.tencent.com/en/2018/04/23/A-bunch-of-Red-Pills-VMware-Escapes/
+Description: A bunch of Red Pills - VMware Escapes.
+
+URL: https://www.computest.nl/wp-content/uploads/2018/04/connected-car-rapport.pdf
+Description: The Connected Car - Ways to get unauthorized access and potential implications.
+
+URL: http://bit.ly/2jqx9oP (+)
+Description: How I exploited a bug in the Avios Travel rewards programme.
+
+URL: http://www.danielbohannon.com/blog-1/2018/3/19/test-your-dfir-tools-sysmon-edition
+Description: Test Your DFIR Tools - Sysmon Edition.Cisco Smart Install Remote Code Execution.
+
+URL: http://bit.ly/2HNPhHA (+)
+Description: Cooking Up Shells with Chef.
+
+URL: https://insert-script.blogspot.pt/2018/05/adobe-reader-pdf-client-side-request.html
+Description: Adobe Reader PDF - Client Side Request Injection.
+
+URL: http://blog.nsfocus.net/cve-2018-6574/
+Description: Go language arbitrary code execution vulnerability analysis (CVE-2018-6574).
+
+URL: https://0x00rick.com/research/2018/04/20/afl_intro.html
+Description: Fuzzing open source projects with american fuzzy lop (AFL).
+
+URL: http://bit.ly/2jt5eVl (+)
+Description: Android Bluetooth Vulnerabilities in the March 2018 Security Bulletin.
+
+URL: https://www.atredis.com/blog/cylance-privilege-escalation-vulnerability
+Description: Escalating Privileges with CylancePROTECT.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://hanno-rein.de/archives/349
+Description: LaTeX Coffee Stains.
+
+URL: https://blog.benjojo.co.uk/post/tls-https-server-from-a-yubikey
+Description: Yubikey/Smartcard backed TLS servers.
+
+URL: https://github.com/mindedsecurity/shhlack
+Description: Slack message encryptor/decryptor for desktop app and browser.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?c195e1bae2f48d07#W/4SyGY12+UUjRvYO5TD+LYQ8PCE/+opQMm3Mt1nPzA=
