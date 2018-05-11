@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 19 | Month: May | Year: 2018 | Release Date: 11/05/2018 | Edition: #221  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://charles.dardaman.com/js_coinhive_in_excel
+Description: JavaScript Coinhive in Excel.
+
+URL: http://blog.mindedsecurity.com/2018/04/dom-based-cross-site-scripting-in.html
+Description: DOM XSS in Google VRView library.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/caffix/amass
+Description: Subdomain Enumeration in Go.
+
+URL: https://github.com/deepzec/Bad-Pdf
+Description: Steal NTLM Hashes with Bad-PDF.
+
+URL: https://github.com/nccgroup/tracy
+Description: Find all sinks and sources of a web application.
+
+URL: http://bit.ly/2rzhJCi (+)
+Description: Invoke-Adversary – Simulating Adversary Operations.
+
+URL: https://github.com/Mind0xP/Frida-Python-Binding
+Description: Easy to use Frida python binding script.
+
+URL: https://michael-eder.net/post/2018/native_rdp_pass_the_hash/ 
+Description: Passing the hash with native RDP client (mstsc.exe).
+
+URL: https://github.com/danigargu/heap-viewer
+Description: IDA Pro plugin to examine the glibc heap, focused on exploit dev.
+
+URL: https://github.com/trimstray/sandmap
+Description: Network and system reconnaissance using the massive Nmap engine.
+
+URL: https://github.com/samhaxr/hackbox
+Description: HackBox is the combination of awesome techniques.
+
+URL: https://github.com/flipkart-incubator/astra
+Description: Automated Security Testing For REST API's.
+
+URL: https://github.com/yuvadm/viewstate
+Description: Python library for ASP.NET view state decoding.
+
+URL: https://github.com/rootm0s/WinPwnage
+Description: Dump of tools for Windows Pwnage (UAC bypass, persistence, PE...).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://goo.gl/JyAG1p (+)
+Description: Command and control server in social media (Twitter, Instagram, ...).
+
+URL: https://xiaodaozhi.com/exploit/117.html
+Description: UAF vulnerability in Menu Management Component (CVE-2017-0263).
+
+URL: http://blog.redactedsec.net/exploits/2018/04/26/nagios.html
+Description: NagiosXI Vulnerability Chaining; Death By a Thousand Cuts (CVE-2018-873X).
+
+URL: http://bit.ly/2rwqr5c (+)
+Description: Detecting Password Spraying with Security Event Auditing.
+
+URL: https://diablohorn.com/2018/02/04/identify-a-whitelisted-ip-address/
+Description: Identify a whitelisted IP address.
+
+URL: https://medium.com/101-writeups/hacking-json-web-token-jwt-233fe6c862e6
+More: http://bit.ly/2IvRJCd (+)
+Description: Hacking JSON Web Token (JWT).
+
+URL: http://bit.ly/2wuN0Mn (+)
+Description: Rooting a Logitech Harmony Hub - Improving Security in Today's IoT World.
+
+URL: http://sploit3r.xyz/cve-2017-13284-injection-in-configuration-file/
+Description: Injection in configuration file (CVE-2017-13284).
+
+URL: https://medium.com/@vysec.private/domain-fronting-who-am-i-3c982ccd52e6
+Description: Domain Fronting - Who Am I?
+
+URL: http://everdox.net/popss.pdf
+Description: Spurious #DB exceptions with the "POP SS" instruction (CVE-2018-8897).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://gdprchecklist.io/
+Description: The GDPR Checklist.
+
+URL: http://bit.ly/2KdA5k3 (+)
+Description: Offline Object Detection and Tracking on a Raspberry Pi.
+
+URL: https://momo5502.com/blog/?p=34
+PoC: https://github.com/momo5502/cod-exploit
+Description: CoD Modern Warfare 2 RCE via CoD's custom network protocol.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?5fcd4658e9081d7d#aUXyffXjLSQ2F0jyhV0WlYvrkoouD3I7xSmkiOwERYw=
