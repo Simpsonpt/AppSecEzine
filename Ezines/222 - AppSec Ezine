@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 20 | Month: May | Year: 2018 | Release Date: 18/05/2018 | Edition: #222   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2rNr5LC (+)
+Description: Microsoft Word Document Upload to Stored XSS - A Case Study.
+
+URL: http://bit.ly/2rKklhB (+)
+Description: "Client-Side" CSRF.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/andresriancho/websocket-fuzzer
+Description: Simple HTML5 WebSocket fuzzer.
+
+URL: https://github.com/sp1d3r/swf_json_csrf/
+Description: SWF-based JSON CSRF exploitation.
+
+URL: https://github.com/jcesarstef/dotdotslash
+Description: Tool to help you search for Directory Traversal Vulnerabilities.
+
+URL: https://github.com/ciscocsirt/netsarlacc
+Description: High performance enterprise HTTP (and SMTP) sinkhole.
+
+URL: https://ivrodriguez.com/reverse-engineer-ios-apps-ios-11-edition-part1/
+Description: Reverse Engineering iOS Apps - iOS 11 Edition.
+
+URL: https://github.com/EmpireProject/Empire-GUI
+Description: Graphical interface to the Empire post-exploitation Framework.
+
+URL: https://github.com/Jamalc0m/wphunter
+Description: WPHunter A Wordpress Vulnerability Scanner.
+
+URL: https://github.com/PaulSec/metasearch-public
+Description: Stop searching for sample hashes on 10 different sites.
+
+URL: https://github.com/mattzeunert/fromjs
+Description: Find the source of every HTML character in a JavaScript app.
+
+URL: https://github.com/vaguileradiaz/tinfoleak
+Description: The most complete open-source tool for Twitter intelligence analysis.
+
+URL: https://github.com/ConsciousHacker/GreatSCT
+Description: Generate msf payloads that bypass common AV solutions and whitelists.
+
+URL: https://github.com/NetSPI/goddi
+Blog: https://blog.netspi.com/dumping-active-directory-domain-info-in-go/
+Description: Goddi (go dump domain info) dumps Active Directory domain information.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.ensilo.com/ctrl-inject
+Description: Ctrl-Inject Research.
+
+URL: http://bit.ly/2KuMPCX (+)
+Description: Tearing New Holes into Intel/iPhone Cellular Modems.
+
+URL: http://bit.ly/2Iofw7L (+)
+Repo: https://github.com/vysec/CloudFrontHijacks
+Description: Hijackable CloudFront Domain Names - Protect yourself.
+
+URL: https://gdelugre.github.io/2018/05/10/3gpp-ota-security-evolution/
+Description: Evolution of 3GPP over-the-air security.
+
+URL: https://systemoverlord.com/2018/04/16/the-iot-hackers-toolkit.html
+Description: The IoT Hacker's Toolkit.
+
+URL: https://musings.konundrum.org/2018/05/03/debugging-windows-services.html
+Description: Debugging Windows Services.
+
+URL: https://0xpatrik.com/asset-discovery/
+Description: Asset Discovery - Doing Reconnaissance the Hard Way.
+
+URL: http://bit.ly/2Kyi5AT (+)
+Description: 7-Zip - From Uninitialized Memory to RCE (CVE-2018-10115).
+
+URL: http://www.insomniacsecurity.com/2018/05/09/boblobblob.html
+Description: Experiments with GitHub and binary blobs.
+
+URL: https://neonsea.uk/blog/2018/04/15/pwn910nd.html
+Description: Abusing OpenWRT's printer server to become root (CVE-2018-10123).
+
+URL: https://efail.de/
+Description: Breaking S/MIME and OpenPGP Email Encryption using Exfiltration Channels.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://ryan.govost.es/2018/03/27/sakuracam.html
+Description: Sakura Time-Lapse Camera.
+
+URL: https://try.mydatarequest.com/
+Description: Request your personal data from 100+ companies.
+
+URL: https://github.com/jparise/chrome-utm-stripper
+Description: Browser extension that strips Google Analytics (UTM) tokens from the URL.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?9d287acea7803f13#xcWOUFCzqS7v4ngrjyADEtZEGCt3BPsyHqJSaKRzU7I=
