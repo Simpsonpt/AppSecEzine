@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 21 | Month: May | Year: 2018 | Release Date: 25/05/2018 | Edition: #223  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/341876
+Description: Shopify SSRF in Exchange leads to ROOT access in all instances.
+
+URL: https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce
+PoC: https://github.com/ezequielpereira/GAE-RCE
+Description: $36k Google App Engine Remote Code Execution.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/OJ/gobuster
+Description: Directory/file & DNS busting tool written in Go.
+
+URL: https://github.com/david942j/honest
+Description: Honest - Are your installed packages honest?
+
+URL: https://github.com/HoLyVieR/dnsbin
+Description: The request.bin of DNS request.
+
+URL: https://github.com/jymcheong/AutoTTP
+Description: Automated Tactics Techniques & Procedures.
+
+URL: https://github.com/felipedaragon/sandcat
+Description: Pentest and developer-oriented web browser using Lua.
+
+URL: https://github.com/ropnop/windows_sshagent_extract
+Blog: https://blog.ropnop.com/extracting-ssh-private-keys-from-windows-10-ssh-agent/
+Description: Extract private keys from Windows 10's built in ssh-agent service.
+
+URL: https://github.com/anordal/shellharden
+Description: A bash syntax highlighter that encourages proper quoting of variables.
+
+URL: https://github.com/stephenfewer/grinder
+Description: Automate the fuzzing of web browsers and the management of crashes.
+
+URL: https://github.com/Ice3man543/SubOver
+Description: A Powerful Subdomain Takeover Tool.
+
+URL: https://github.com/0x00-0x00/ShellPop
+Description: Pop shells like a master.
+
+URL: https://github.com/pathetiq/BurpSmartBuster
+Description: Burp Suite content discovery plugin that add the smart into the Buster!
+
+URL: http://newosxbook.com/tools/jtool.html
+Description: JTool (Mach-O Analyzer).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://x1m.nl/posts/laravel-xss-vuln/
+Description: Laravel Stored XSS Vulnerability.
+
+URL: https://jaiverma.github.io/blog/ios-game-hacking
+Description: iOS Game Hacking - Minesweeper.
+
+URL: http://bit.ly/2KT59WD (+)
+Description: JavaScript prototype pollution attack in NodeJS.
+
+URL: http://deniable.org/reversing/symbolic-execution
+Description: Practical Symbolic Execution and SATisfiability Module Theories (SMT).
+
+URL: http://bit.ly/2GMLZ1V (+)
+Description: How your ethereum can be stolen through DNS rebinding.
+
+URL: https://blog.jli.host/posts/cloudflare-scrape-shield/
+Description: An Analysis of Cloudflare's Email Address Obfuscation.
+
+URL: https://security.szurek.pl/gitbucket-unauthenticated-rce.html
+Description: GitBucket 4.23.1 Unauthenticated Remote Code Execution.
+
+URL: https://medium.com/@canavaroxum/xxe-on-windows-system-then-what-76d571d66745
+Description: XXE on Windows system... then what??
+
+URL: http://bit.ly/2s4NrHM (+)
+Description: .NET Deserialization To NTLM Hashes.
+
+URL: http://www.harmj0y.net/blog/powershell/command-and-control-using-active-directory/
+Related: http://bit.ly/2s5guMd (+)
+Description: Command and Control Using Active Directory.
+
+URL: https://github.com/nccgroup/TPMGenie
+Description: TPM Genie is an I2C bus interposer for discrete Trusted Platform Modules.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://blog.benjojo.co.uk/post/bgp-battleships
+Description: Playing battleships over BGP.
+
+URL: http://www.computerhistory.org/atchm/adobe-photoshop-source-code/
+Description: Adobe Photoshop Source Code.
+
+URL: https://github.com/evilsocket/eve
+Description: Tool that isolates human faces from a webcam stream in realtime.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?6bccec39c79aad78#6B757qfKw2HOYlVd3izJ/UDGTOmZX2VbvoL1P6NwX7E=
