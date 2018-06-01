@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 22 | Month: June | Year: 2018 | Release Date: 01/06/2018 | Edition: #224  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.robertxiao.ca/hacking/locationsmart/
+Description: LocationSmart API Vulnerability.
+
+URL: https://hackerone.com/reports/85624
+Description: Highly wormable clickjacking in Twitter player card.
+
+URL: https://poc-server.com/blog/2018/05/22/rce-by-uploading-a-web-config/
+Description: Remote code execution by uploading a web.config.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/CoolerVoid/ninja_shell/
+Description: Port Knocking technique with AES256-GCM.
+
+URL: https://github.com/securing/DumpsterDiver
+Description: Tool to search secrets in various filetypes.
+
+URL: http://www.orionforensics.com/w_en_page/USB_forensic_tracker.php
+Description: USB Forensic Tracker (USBFT).
+
+URL: https://github.com/api0cradle/LOLBAS
+Related: https://gtfobins.github.io/
+Description: Living Off The Land Binaries, Libraries and Scripts.
+
+URL: https://github.com/google/docker-explorer/
+Description: This project helps a forensics analyst explore offline Docker FS.
+
+URL: http://bit.ly/2J4uc8r (+)
+Description: Common format strings obfuscation technics.
+
+URL: https://github.com/m4ll0k/AutoNSE
+Description: Massive NSE (Nmap Scripting Engine) AutoSploit and AutoScanner.
+
+URL: https://github.com/zodiacon/AllTools
+Description: Windows audit tools (Dump).
+
+URL: https://github.com/iGio90/uDdbg
+Description: A gdb like debugger that provide a runtime env to unicorn emulator.
+
+URL: https://github.com/kd8bny/LiMEaide
+Description:  Remotely dump RAM of a Linux client and create a volatility profile.
+
+URL: https://github.com/CodeCracker-Tools/MegaDumper
+Description: Dump native and .NET assemblies.
+
+URL: https://github.com/D4Vinci/Cuteit
+More: http://agarri.fr/docs/ipobf.py
+Description: Make a malicious IP a bit cuter (HEX, OCT, Mixed encodings and more).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://andresriancho.com/recaptcha-bypass-via-http-parameter-pollution/
+Description: reCAPTCHA bypass via HTTP Parameter Pollution.
+
+URL: https://justi.cz/security/2018/05/23/cdn-tar-oops.html
+Description: Compromising Thousands of Websites Through a CDN.
+
+URL: http://bit.ly/2kGAXmA (+)
+Description: Automatically Stealing Password Hashes with Microsoft Outlook and OLE.
+
+URL: http://blogs.360.cn/blog/eos-node-remote-code-execution-vulnerability/
+Description: EOS Node RCE — EOS WASM Contract Function Table Array Out of Bounds.
+
+URL: https://rhinosecuritylabs.com/aws/amazon-aws-misconfiguration-amazon-go/
+Description: Amazon's AWS Misconfiguration - Arbitrary Files Upload in Amazon Go.
+
+URL: https://embedi.com/blog/dji-spark-hijacking/
+Related: https://github.com/CunningLogic/DUMLRacer (Root Exploit)
+Description: DJI Spark hijacking.
+
+URL: https://silviavali.github.io/Electron/only_an_electron_away_from_code_execution
+Description: Only an Electron Away from Code Execution.
+
+URL: https://blog.doyensec.com/2018/05/17/graphql-security-overview.html
+Description: GraphQL - Security Overview and Testing Tips.
+
+URL: http://bit.ly/2xwjIgR (+)
+Description: Ethereum, Solidity and integer overflows - programming blockchains like 1970.
+
+URL: http://devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/
+Description: USB Reverse Engineering - Down the rabbit hole.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://gdprhallofshame.com/
+Description: GDPR Hall of Shame.
+
+URL: https://resinos.io/
+Description: Run Docker containers on embedded devices.
+
+URL: http://www.maizure.org/projects/printf/index.html
+Description: Tearing apart printf().
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?da43b1715ef1afc9#f/iZyETjyeiWLcF0I1Wra2yweaXGSl0j7g2p1WIEpYY=
