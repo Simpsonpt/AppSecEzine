@@ -1,0 +1,135 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 23 | Month: June | Year: 2018 | Release Date: 08/06/2018 | Edition: #225  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2Lv2eUp (+)
+Description: Reading Your Emails With A Read&Write Chrome Extension SOP Bypass.
+
+URL: https://blog.innerht.ml/internet-explorer-has-a-url-problem/#rpoingooglefusiontable
+Description: RPO in Google Fusion Table.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/omergunal/PoT
+Description: Phishing on Twitter.
+
+URL: https://hackertarget.com/tcpdump-examples/
+Description: Practical tcpdump examples.
+
+URL: https://github.com/skelsec/pypykatz
+Description: Mimikatz implementation in pure Python.
+
+URL: https://github.com/tlkh/prowler
+Description: Distributed Network Vulnerability Scanner.
+
+URL: https://github.com/hegusung/AVSignSeek
+Description: Tool to determine where the AV signature is located in a binary/payload.
+
+URL: https://github.com/vay3t/pattern
+Description: Reimplementation of pattern_create/pattern_offset in Python.
+
+URL: https://github.com/skelsec/minidump
+Description: Python library to parse and read Microsoft minidump file format.
+
+URL: https://github.com/avast-tl/retdec
+Description: RetDec is a retargetable machine-code decompiler based on LLVM.
+
+URL: https://github.com/islamTaha12/Python-Rootkit
+Description: Python Remote Administration Tool (RAT) to gain meterpreter session.
+
+URL: https://github.com/vanhauser-thc/THC-Archive
+Description: The Hacker's Choice security research group (a.k.a. hackers) Tools Dump.
+
+URL: https://github.com/archerysec/archerysec
+Description: Tool to help developers and pentesters to perform scans and manage vulns.
+
+URL: https://github.com/attify/firmware-analysis-toolkit
+Description: Toolkit to emulate firmware and analyse it for security vulnerabilities.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2HrpwYT (+)
+Description: Dell SupportAssist Driver - Local Privilege Escalation.
+
+URL: https://staaldraad.github.io/post/2018-06-03-cve-2018-11235-git-rce/
+PoC: https://github.com/Rogdham/CVE-2018-11235
+Description: git Remote Code Execution (CVE-2018-11235).
+
+URL: https://blahcat.github.io/2018/03/11/fuzzing-arbitrary-functions-in-elf-binaries/
+Description: Fuzzing arbitrary functions in ELF binaries.
+
+URL: https://www.serializing.me/2018/06/03/rooting-the-technicolor-7210/
+Description: Rooting the Technicolor 7210.
+
+URL: http://bit.ly/2JzKqtY (+)
+Description: PowerShell - In-Memory Injection Using CertUtil.exe.
+
+URL: http://gosecure.net/2018/05/15/beware-of-the-magic-spell-part-1-cve-2018-1273/
+More: http://gosecure.net/2018/05/17/beware-of-the-magic-spell-part-2-cve-2018-1260/
+Description: Beware of the Magic SpEL(L) (CVE-2018-1273 and CVE-2018-1260).
+
+URL: https://github.com/yellowbyte/analysis-of-anti-analysis
+Description: Analysis of Anti-Analysis.
+
+URL: https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/
+Description: The real power of Linux executables.
+
+URL: https://blogs.securiteam.com/index.php/archives/3689
+Description: QRadar Remote Command Execution (CVE-2018-1418).
+
+URL: https://nytrosecurity.com/2018/05/30/understanding-java-deserialization/
+Description: Understanding Java deserialization.
+
+URL: https://nbulischeck.io/posts/misusing-debugfs-for-in-memory-rce
+Description: Misusing debugfs for In-Memory RCE.
+
+URL: http://bigric3.blogspot.pt/2018/05/cve-2018-8120-analysis-and-exploit.html
+PoC: https://github.com/bigric3/cve-2018-8120/ | http://bit.ly/2kW0ybi (+)
+Description: Windows local privilege escalation - Analysis and Exploit (CVE-2018-8120).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://eklitzke.org/lobotomizing-gnome
+Description: Lobotomizing GNOME.
+
+URL: https://wtfutil.com
+Description: A personal information dashboard for your terminal.
+
+URL: https://github.com/s-matyukevich/raspberry-pi-os
+Description: Learning operating system development using Linux kernel and Raspberry Pi.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?0d54ce73248e7de1#u6hHX9FMnZz1JwyR3VWQ5nlHipVum0gVGjSgcm0P6hQ=
