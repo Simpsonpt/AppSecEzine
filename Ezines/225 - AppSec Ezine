@@ -73,7 +73,7 @@ URL: http://bit.ly/2HrpwYT (+)
 Description: Dell SupportAssist Driver - Local Privilege Escalation.
 
 URL: https://staaldraad.github.io/post/2018-06-03-cve-2018-11235-git-rce/
-PoC: https://github.com/Rogdham/CVE-2018-11235
+PoC: https://github.com/Rogdham/CVE-2018-11235 | http://bit.ly/2xUIKqj (+)
 Description: git Remote Code Execution (CVE-2018-11235).
 
 URL: https://blahcat.github.io/2018/03/11/fuzzing-arbitrary-functions-in-elf-binaries/
