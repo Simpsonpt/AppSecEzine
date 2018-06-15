@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 24 | Month: June | Year: 2018 | Release Date: 15/06/2018 | Edition: #226  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2JFjwl2 (+)
+Description: Bypassing Host Header to SQL injection to dumping Database.
+
+URL: https://www.bishopfox.com/blog/2018/06/server-side-spreadsheet-injections/
+Description: Server-Side Spreadsheet Injection – Formula Injection to RCE.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/InQuest/omnibus
+Description: The OSINT Omnibus.
+
+URL: https://github.com/mbechler/serjs
+Blog: https://mbechler.github.io/2018/05/21/Java-CVE-2018-2800/
+Description: A Java serializer in JavaScript (CVE-2018-2800).
+
+URL: https://github.com/deroko/SPPLUAObjectUacBypass
+Description: UAC Bypass via SPPLUAObject Class.
+
+URL: http://rift.stacktitan.com/debug-survival-the-compiled-dll/
+Description: Debug a Compiled DLL.
+
+URL: https://gist.github.com/ricardojba/ecdfe30dadbdab6c514a530bc5d51ef6
+Description: A Windows hardening script.
+
+URL: https://github.com/JiounDai/Bluedroid
+Description: PoCs of Vulnerabilities on Bluedroid.
+
+URL: https://github.com/RhinoSecurityLabs/SleuthQL
+Description: Burp History parsing tool to discover potential SQL injection points.
+
+URL: https://github.com/trimstray/multitor
+Descripion: A tool that lets you create multiple TOR instances with a load-balancing.
+
+URL: https://github.com/snyk/zip-slip-vulnerability
+Description: Zip Slip Vulnerability (Arbitrary file write through archive extraction).
+
+URL: https://github.com/evilmog/ntlmv1-multi
+Description: Tool to modify NTLMv1/NTLMv1-ESS/MSCHAPv2 hashes to be cracked by hashcat.
+
+URL: http://bit.ly/2JT6dNe (+)
+Description: Executing Meterpreter in Memory on Windows 10 and Bypassing AntiVirus.
+
+URL: https://github.com/EdOverflow/can-i-take-over-xyz
+Description: List of services and how to claim (sub)domains w/ dangling DNS records.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.umangis.me/persistent-r-w-on-ios-11-2-6/
+PoC: https://github.com/pwn20wndstuff/iOS-Apfs-Persistence-Exploit
+Description: Persistent R/W on iOS 11.2.6+.
+
+URL: https://wojciechregula.blog/your-encrypted-photos-in-macos-cache/
+Description: Your encrypted photos revealed in macOS cache.
+
+URL: https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/
+Description: A Methodical Approach to Browser Exploitation.
+
+URL: https://blog.ripstech.com/2018/moodle-remote-code-execution/
+Description: Evil Teacher - Code Injection in Moodle.
+
+URL: https://intoli.com/blog/not-possible-to-block-chrome-headless/
+Description: It is *not* possible to detect and block Chrome headless.
+
+URL: http://bit.ly/2JOjXp8 (+)
+Description: Bypassing Content-Security-Policy with DNS prefetching.
+
+URL: https://neopg.io/blog/enigmail-signature-spoof/
+Description: SigSpoof 2 - More ways to spoof signatures in GnuPG (CVE-2018-12019).
+
+URL: https://github.com/Nhoya/MycroftAI-RCE
+Description: "Zero Click" Remote Code Execution in Mycroft AI vocal assistant.
+
+URL: https://blog.spaceduck.io/siaberry-1/
+Description: Siaberry's Command Injection Vulnerability.
+
+URL: https://github.com/gdedrouas/Exchange-AD-Privesc
+Description: Exchange privilege escalations to Active Directory.
+
+URL: http://bit.ly/2JQFTTP (+)
+Description: A Public Disclosure of Issues Around Third Party Code Signing Checks.
+
+URL: http://bit.ly/2JAq4l3 (+)
+Description: Electron Windows Protocol Handler MITM/RCE (bypass for CVE-2018-1000006).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://undercurrents.io/
+Description: Undercurrents BBS.
+
+URL: https://bernsteinbear.com/blog/how-to-mess-with-your-roommate/
+Description: How to mess with your roommate.
+
+URL: https://jamchamb.github.io/2018/06/09/animal-crossing-developer-mode.html
+Description: Reverse engineering Animal Crossing's developer mode.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?b20d3cb2b304f166#tjbd/WzGYGwpk1fH7E0RsvWB1ZjteM7LEW433HM+Dk8=
