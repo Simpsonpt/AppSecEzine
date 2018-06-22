@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 25 | Month: June | Year: 2018 | Release Date: 22/06/2018 | Edition: #227  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://sekurak.pl/xss-w-google-colaboratory-obejscie-content-security-policy/
+Description: XSS in Google Colaboratory + workaround Content-Security-Policy.
+
+URL: http://bit.ly/2yFRocH (+)
+Description: Using a GitHub app to escalate to an organization owner for $10k bounty.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/allfro/BurpKit
+Description: Next-gen BurpSuite penetration testing tool.
+
+URL: https://github.com/ssl/ezXSS
+Description: ezXSS is an easy way to test (blind) XSS.
+
+URL: https://github.com/jordanpotti/CloudScraper
+Description: Tool to enumerate targets in search of cloud resources.
+
+URL: https://github.com/bontchev/pcodedmp
+Description: A VBA p-code disassembler.
+
+URL: https://github.com/Busindre/dumpzilla
+Description: Extract all interesting information of Firefox/Iceweasel/Seamonkey.
+
+URL: https://github.com/brightiup/research/tree/master/macOS/CVE-2018-4242
+Related: http://bit.ly/2KbbnUV (+)
+Description: Look at The XNU Through A Tube CVE-2018-4242 Write-up.
+
+URL: https://github.com/skelsec/minikerberos
+Description: Kerberos manipulation library in pure Python.
+
+URL: https://github.com/sxcurity/theftfuzzer
+Description: Tool that fuzzes CORS implementations for common misconfigurations.
+
+URL: https://github.com/v1s1t0r1sh3r3/airgeddon
+Description: Multi-use bash script for Linux systems to audit wireless networks.
+
+URL: https://github.com/HexHive/T-Fuzz
+Description: Fuzzing tool based on program transformation.
+
+URL: https://github.com/Cybereason/Invoke-WMILM
+Description: Script for various methods to acheive authenticated RCE via WMI.
+
+URL: https://github.com/toniblyx/prowler
+Description: AWS Security Best Practices Assessment.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://10degres.net/testing-flash-swf/
+Description: Find vulnerabilities in Flash SWF.
+
+URL: https://codewhitesec.blogspot.com/2018/06/cve-2018-0624.html
+Description: Marshalling to SYSTEM - An analysis of CVE-2018-0824.
+
+URL: https://www.sxcurity.pro/advanced-cors-techniques/
+Description: Advanced CORS Exploitation Techniques.
+
+URL: https://medium.com/secjuice/waf-evasion-techniques-718026d693d8
+Description: Web Application Firewall (WAF) Evasion Techniques.
+
+URL: https://payatu.com/guide-linux-privilege-escalation/
+Description: A guide to Linux Privilege Escalation.
+
+URL: https://blog.sigmaprime.io/solidity-security.html
+Description: Solidity Security - Comprehensive list of known attack vectors.
+
+URL: https://blog.vulnspy.com/2018/06/21/phpMyAdmin-4-8-x-Authorited-CLI-to-RCE/
+Description: phpMyAdmin 4.8.x LFI to RCE (Authorization Required).
+
+URL: http://bit.ly/2MJqvHL (+)
+Description: Creating signed and customized backdoored macOS applications.
+
+URL: http://bit.ly/2tgPERM (+)
+Description: A Story of UXSS via DOM-XSS & Clickjacking in Steam Inventory Helper.
+
+URL: https://www.tarlogic.com/en/blog/red-team-tales-0x01/
+Description: Red Team Tales 0x01 - From MSSQL to RCE.
+
+URL: https://www.sec-1.com/blog/2017/office365-activesync-username-enumeration
+PoC: https://bitbucket.org/grimhacker/office365userenum
+Description: Office365 ActiveSync Username Enumeration.
+
+URL: http://bit.ly/2KacLqQ (+)
+Description: Lateral Movement Using internetexplorer.Application Object (COM).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/google/gif-for-cli
+Description: GIF for CLI.
+
+URL: https://github.com/rby90/Project-Based-Tutorials-in-C
+Description: A curated list of project-based tutorials in C.
+
+URL: https://github.com/008karan/Face-recognition/tree/master
+Description: Face recognition and its application as attendance system.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?89c329139b5ecba8#q9GrHPpaQZ+ZAeX/DnMEudouUO2NbzCCRxAhA/VpuOk=
