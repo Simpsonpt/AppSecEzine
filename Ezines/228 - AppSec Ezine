@@ -1,0 +1,139 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 26 | Month: June | Year: 2018 | Release Date: 29/06/2018 | Edition: #228  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2MxC5V9 (+)
+Description: Unrestricted File Upload at Apple.com.
+
+URL: https://finnwea.com/blog/stealing-passwords-from-mcdonalds-users/
+Description: Stealing passwords from McDonald's users.
+
+URL: https://blog.bentkowski.info/2018/06/setting-arbitrary-request-headers-in.html
+Description: Setting arbitrary request headers in Chromium via CRLF injection.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/orangetw/tsh
+Description: Tiny SHell is an open-source UNIX backdoor.
+
+URL: https://0xpatrik.com/subdomain-takeover-starbucks/
+Description: Subdomain Takeover - Starbucks points to Azure.
+
+URL: https://github.com/xfernando/go2seccomp
+Description: Generate seccomp profiles from go binaries.
+
+URL: https://github.com/nccgroup/Scout2
+Description: Security auditing tool for AWS environments.
+
+URL: http://mattwarren.org/2018/06/15/Tools-for-Exploring-.NET-Internals/
+Description: Tools for Exploring .NET Internals (Dump).
+
+URL: https://github.com/peterjaric/archaeologit
+Description: Archaeologit scans the history of a user's GitHub repositories.
+
+URL: https://github.com/johnnyxmas/ScanCannon
+Description: Combines the speed of masscan with the reliability of nmap.
+
+URL: https://blog.netspi.com/databases-and-clouds-sql-server-as-a-c2/
+Description: Databases and Clouds - SQL Server as a C2.
+
+URL: https://github.com/rrrfff/AndHook
+Description: AndHook is a lightweight hook framework for android.
+
+URL: http://agarri.fr/docs/ipobf.py
+Related: https://github.com/vysec/IPFuscator
+Description: Tool to automatically generate alternative IP representations.
+
+URL: https://github.com/milo2012/CVE-2018-0296
+Description: Tool to extract usernames from vulnerable Cisco ASA (CVE-2018-0296).
+
+URL: https://github.com/0x4D31/salt-scanner
+Description: Linux vulnerability scanner based on Salt Open and Vulners audit API.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2KgbW0I (+)
+PoC: https://github.com/brannondorsey/dns-rebind-toolkit
+Description: Attacking Private Networks from the Internet with DNS Rebinding.
+
+URL: http://bit.ly/2yyota8 (+)
+Description: Practical DMA attack on Windows 10.
+
+URL: http://bit.ly/2N7QCrJ (+)
+Description: Reverse Shell from an OpenVPN Configuration File.
+
+URL: https://latacora.singles/2018/06/21/loud-subshells.html
+Description: Loud subshells.
+
+URL: https://www.codewatch.org/blog/?p=453
+Description: PRTG < 18.2.39 Command Injection Vulnerability (CVE-2018-9276).
+
+URL: http://bit.ly/2tCi7BH (+)
+Description: Attacking Deserialization in JS.
+
+URL: https://alephsecurity.com/2018/06/26/spectre-browser-query-cache/
+Description: Overcoming (some) Spectre browser mitigations.
+
+URL: http://bit.ly/2KhAN4f (+)
+Description: Using filepickers to escape sandboxes.
+
+URL: https://stek29.rocks/2018/06/26/nvram.html
+Description: iOS nvram primer.
+
+URL: https://modexp.wordpress.com/2018/06/08/stop-event-logger/
+Description: Stopping the Event Logger via Service Control Handler.
+
+URL: https://medium.com/0xcc/bypass-macos-rootless-by-sandboxing-5e24cca744be
+PoC: https://github.com/ChiChou/10.13.5-sip-bypass
+Description: Bypass macOS rootless by sandboxing.
+
+URL: https://srcincite.io/blog/2018/05/21/adobe-me-and-a-double-free.html
+Description: Adobe, Me and a Double Free :: Analyzing the CVE-2018-4990 Exploit.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/galaxyhaxz/devilution
+Description: Diablo devolved - magic behind the 1996 computer game.
+
+URL: https://github.com/crmulliner/usbnetstore
+Blog: https://www.mulliner.org/blog/blosxom.cgi/hardware/usbnetstore.html
+Description: USB Mass Storage with Network Access.
+
+URL: http://bit.ly/2Kup8ec (+)
+Description: Windows Command-Line - The Evolution of the Windows Command-Line.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?bd0ebd3d8aed7c11#BiiErvEp74EB/mwj+F8MKlLu1w8Fr4YB62LODEc3l34=
