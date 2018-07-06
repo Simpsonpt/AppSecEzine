@@ -1,0 +1,135 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 27 | Month: July | Year: 2018 | Release Date: 06/07/2018 | Edition: #229  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2KQdVoE (+)
+Description: Bypassing Web-Application Firewalls by abusing SSL/TLS.
+
+URL: http://bit.ly/2tXqWX4 (+)
+Description: The 12$k Intersection between Clickjacking, XSS, and Denial of Service.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/mwrlabs/dref
+Description: DNS Rebinding Exploitation Framework.
+
+URL: https://github.com/gpoguy/GetVulnerableGPO
+Blog: http://bit.ly/2NpMBz8 (+)
+Description: PowerShell script to find 'vulnerable' security-related GPOs.
+
+URL: https://github.com/flipkart-incubator/watchdog
+Description: A Comprehensive Security Scanning and a Vulnerability Management Tool.
+
+URL: https://github.com/smiegles/mass3
+Description: Quickly enumerate through a pre-compiled list of AWS S3 buckets via DNS.
+
+URL: https://github.com/DominicBreuker/pspy
+Description: Monitor linux processes without root permissions.
+
+URL: https://github.com/V-E-O/PoC/tree/master/CVE-2018-9341
+Description: Heap Buffer OOB Write - Android libmpeg2 (CVE-2018-9341).
+
+URL: https://gitlab.com/0x4ndr3/blog/tree/master/JSgen
+Blog: https://pentesterslife.blog/2018/06/28/jsgen/
+Description: Bind and reverse shell JS code generator for SSJI in Node.js.
+
+URL: https://github.com/phoenhex/files/tree/master/exploits/ios-11.3.1
+Description: Safari exploit for iPhone 8, iOS 11.3.1 (CVE-2018-4233/CVE-2018-4243).
+
+URL: https://github.com/p3nt4/Invoke-TmpDavFS
+Description: In Memory Powershell WebDav Server.
+
+URL: https://github.com/glennzw/koekiemonster
+Description: Load cookies from FireFox, to be used by Requests etc.
+
+URL: https://github.com/vmware/burp-rest-api/
+Description: REST/JSON API to the Burp Suite security tool.
+
+URL: https://hansesecure.de/backdooring-pe-file-with-aslr/
+Description: Backdooring PE-File (with ASLR).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://alter-attack.net/
+Description: Breaking LTE on Layer Two.
+
+URL: https://lucasg.github.io/2017/06/07/listing-known-dlls/
+Description: Listing KnownDlls.
+
+URL: http://bit.ly/2tXrs7s (+)
+Description: Abusing SeLoadDriverPrivilege for privilege escalation.
+
+URL: http://bit.ly/2tYVsjf (+)
+Description: Attacking Machine Learning Detectors - the state of the art review.
+
+URL: https://www.wst.space/ssl-part1-ciphersuite-hashing-encryption/
+More: http://bit.ly/2MS2oWy (+) | http://bit.ly/2KPEsFG (+)
+Description: SSL/TLS for dummies.
+
+URL: https://www.jeremydaly.com/event-injection-a-new-serverless-attack-vector/
+Description: Event Injection - A New Serverless Attack Vector.
+
+URL: http://nullprogram.com/blog/2018/06/23/
+Description: Intercepting and Emulating Linux System Calls with Ptrace.
+
+URL: https://www.shelliscoming.com/2018/06/windows-reuse-shellcode-based-on.html
+Description: Windows reuse shellcode based on socket's lifetime.
+
+URL: http://bit.ly/2zd0Ap7 (+)
+Description: This popular Facebook app publicly exposed your data for years.
+
+URL: https://rampageattack.com/
+Description: Vulns in modern phones enable unauthorized access (CVE-2018-9442).
+
+URL: https://landlock.io/
+Description: Stackable Linux Security Module (LSM) to create security sandboxes. 
+
+URL: http://bit.ly/2tKjNs3 (+)
+Description: Abusing the COM Registry Structure (CLSID,LocalServer32&InprocServer32).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/LoranKloeze/WhatsAllApp
+Description: Collecting huge amounts of data with WhatsApp.
+
+URL: http://natashenka.ca/reversing-my-tamagotchi-forever-evolution/
+Description: Reversing My Tamagotchi Forever Evolution.
+
+URL: http://bit.ly/2zd35I1 (+)
+Description: Getting the router shell using UART interface and bus pirate.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?7f07600147046587#+xSb0QXcL4aDaYLa3PpGQqJ9M/Q1tQlmOGVVy8UUHCI=
