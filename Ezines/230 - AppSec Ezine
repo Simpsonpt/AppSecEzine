@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 28 | Month: July | Year: 2018 | Release Date: 13/07/2018 | Edition: #230  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2L1rTYd (+)
+Description: Latex to RCE, Private Bug Bounty Program.
+
+URL: http://bit.ly/2JgS3RR (+)
+Description: How to trick CSP in letting you run whatever you want.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/wzw19890321/Exploits/tree/master/CVE-2018-4192
+Related: https://blog.ret2.io/2018/07/11/pwn2own-2018-jsc-exploit/
+Description: Apple Safari WebKit code execution (CVE-2018-4192).
+
+URL: https://github.com/iGio90/frick
+Description: Frida cli for RE inspired by the epic GDB init gef.
+
+URL: https://github.com/reblaze/sshpki
+Description: SSH PKI management tool with yubikey support.
+
+URL: https://github.com/francisck/DanderSpritz_lab
+Description: A fully functional DanderSpritz lab in 2 commands.
+
+URL: https://github.com/necst/crave
+Description: Test and explore the capabilities of generic AV engines.
+
+URL: https://x-c3ll.github.io/posts/Frida-Pwn-Adventure-3/
+Description: Hacking a game to learn FRIDA basics.
+
+URL: https://github.com/Nekmo/dirhunt
+Description: Find web directories without bruteforce.
+
+URL: https://github.com/Raz0r/aemscan
+Description: Adobe Experience Manager Vulnerability Scanner.
+
+URL: https://github.com/yahoo/yfuzz
+Description: A project to run fuzzing jobs at scale with Kubernetes.
+
+URL: https://github.com/FiloSottile/mkcert
+Description: Zero-config tool to make locally-trusted development certificates.
+
+URL: https://github.com/sense-of-security/ADRecon
+Description: ADRecon is a tool which gathers information about the Active Directory.
+
+URL: http://bit.ly/2N7w8P8 (+)
+Description: How to Secure Nginx with NAXSI Firewall on Ubuntu 16.04.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2mfSKBI (+)
+Description: Dissecting modern browser exploit - case study of CVE-2018–8174.
+
+URL: https://www.forcepoint.com/blog/security-labs/analyzing-webassembly-binaries
+Description: Analyzing WebAssembly binaries.
+
+URL: https://dyn.com/blog/shutting-down-the-bgp-hijack-factory/
+Description: Shutting down the BGP Hijack Factory.
+
+URL: http://bit.ly/2mfL1mZ (+)
+Description: A Tale of Two Mallocs - On Android libc Allocators.
+
+URL: https://rootkits.xyz/blog/2017/06/kernel-setting-up/
+Description: Windows Kernel Exploitation Tutorial Series.
+
+URL: https://blog.netspi.com/bypass-sql-logon-triggers/
+Description: Bypassing SQL Server Logon Trigger Restrictions.
+
+URL: https://0xpatrik.com/phishing-domains/
+Description: Finding Phishing - Tools and Techniques.
+
+URL: https://objective-see.com/blog/blog_0x34.html
+Description: A Remote iOS Bug (CVE-2018-4290).
+
+URL: http://bazad.github.io/2018/07/xpc-string-leak/
+PoC: https://github.com/bazad/xpc-string-leak
+Description: Reading process memory using XPC strings (CVE-2018-4248).
+
+URL: https://www.fastly.com/blog/hijacking-control-flow-webassembly-program
+Description: Hijacking the control flow of a WebAssembly program.
+
+URL: http://bit.ly/2KQK83a (+)
+Description: Easy Hosting Control Panel - SQLi & Multiple XSS Vulnerabilities.
+
+URL: https://nahamsec.com/chaining-multiple-vulnerabilities-to-gain-admin-access/
+Description: Chaining Multiple Vulnerabilities to Gain Admin Access.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/rhysd/vim.wasm
+Description: Vim editor ported to WebAssembly.
+
+URL: http://craftinginterpreters.com/
+Description: A handbook for making programming languages.
+
+URL: http://bit.ly/2NLEwF3 (+)
+Description: Reading hotel key cards with a credit card magstripe reader.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?49b043fad0fb2332#i+/0So9lgN1Xc/5UE8vRI88Yjh95HgRgnQ3PWK6B9Ko=
