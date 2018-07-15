@@ -92,6 +92,7 @@ URL: http://carnal0wnage.attackresearch.com/2016/08/got-any-rces.html
 Description: NTOP/NBOX RCE Pwn! 
 
 URL: https://hshrzd.wordpress.com/2016/07/21/how-to-turn-a-dll-into-a-standalone-exe/
+PoC: https://github.com/hasherezade/dll_to_exe
 Description: How to turn a DLL into a standalone EXE.
 
 URL: https://github.com/struct/mms
