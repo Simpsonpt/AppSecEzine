@@ -1,0 +1,136 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 29 | Month: July | Year: 2018 | Release Date: 20/07/2018 | Edition: #231  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2uC7Yp4 (+)
+Description: Gsuite Hangouts Chat 5k IDOR.
+
+URL: https://haiderm.com/how-i-was-able-to-delete-13k-microsoft-translator-projects/
+Description: How I was able to delete 13k+ Microsoft Translator projects.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/CERTCC/keyfinder
+Description: A tool for analyzing private (and public) key files.
+
+URL: https://github.com/thelinuxchoice/instashell
+Description: Instagram Brute Forcer without password limit.
+
+URL: https://github.com/strukt93/exploits/blob/master/CVE-2018-1000094.py
+More: http://dev.cmsmadesimple.org/bug/view/11741
+Description: CMS Made Simple 2.2.5 Authenticated RCE (CVE-2018-1000094).
+
+URL: https://github.com/airbus-seclab/cpu_rec
+Description: Recognize CPU instructions in an arbitrary binary file.
+
+URL: https://github.com/zricethezav/gitleaks
+Description: Searches full repo history for secrets and keys.
+
+URL: https://scund00r.com/all/rfid/tutorial/2018/07/12/rfid-theif-v2.html
+Description: RFID Thief v2.0.
+
+URL: https://github.com/initiate6/ZOHO-Vault-d3crypt3r
+Blog: https://init6.me/zoho-story-of-where-not-to-store-keys/
+Description: Tool to Decrypt passwords that were encrypted by ZOHO Vault.
+
+URL: https://github.com/ThoughtfulDev/EagleEye
+Description: Find your friends using Image Recognition and Reverse Image Search.
+
+URL: https://github.com/SySS-Research/Seth
+Description: Tool to MitM and extract clear text credentials from RDP connections.
+
+URL: https://github.com/si9int/cc.py
+Description: Extracting URLs of a specific target using results of "commoncrawl.org".
+
+URL: https://github.com/davehardy20/PoSHBypass
+Description: PoSHBypass is a PoC to bypass PS Constrianed Language Mode, AMSI and more.
+
+URL: https://github.com/qqwaszx/blackowl
+Description: Blackowl's a simple tool to gather information, based on Operative-Framework.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.anitian.com/blog/owning-saml/
+Description: Exploiting a SAML Implementation.
+
+URL: http://bit.ly/2LtgXPX (+)
+Description: Blind XSS Stored on Telegram app (iOS) via html file.
+
+URL: https://www.endgame.com/blog/technical-blog/hunting-memory-net-attacks
+Description: Hunting For In-Memory .NET Attacks.
+
+URL: https://posts.specterops.io/shelling-apache-felix-with-java-bundles-2450d3a099a
+Description: Shelling Apache Felix With Java Bundles
+
+URL: http://bit.ly/2O21CYc (+)
+Description: Local root jailbreak via network file sharing in all ADB Broadband Gateways.
+
+URL: http://www.mohamedharon.com/2018/01/practical-jsonp-injection.html
+Description: Practical JSONP Injection.
+
+URL: https://nytrosecurity.com/2018/02/26/hooking-chromes-ssl-functions/
+Description: Hooking Chrome’s SSL functions.
+
+URL: http://bit.ly/2LxaXFU (+)
+Description: Passing-the-Hash to NTLM Authenticated Web Applications
+
+URL: https://www.peckshield.com/2018/07/12/tradeRifle/
+Description: The tradeRifle Vuln Identified in LBank Mobile Service (CVE-2018-13363).
+
+URL: http://bit.ly/2O5x7k2 (+)
+Description: Google Chrome pdfium shading drawing integer overflow to RCE (CVE-2018-6120).
+
+URL: https://www.ambionics.io/blog/prestashop-privilege-escalation
+Description: PrestaShop 1.6.x Privilege Escalation (CVE-2018-13784).
+
+URL: https://j00ru.vexillium.org/2018/07/exploiting-a-windows-10-pagedpool-off-by-one/
+PoC: https://gist.github.com/j00ru/2347cf937366e61598d1140c31262b18
+Description: Exploiting a Windows 10 PagedPool off-by-one overflow (WCTF 2018).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://jamie.build/how-to-build-an-npm-worm
+Related: http://bit.ly/2O4kFkz (+) | http://bit.ly/2L5fgw1 (+)
+Description: How to build an npm worm.
+
+URL: https://github.com/reactos/reactos
+Description: A free Windows-compatible Operating System.
+
+URL: https://iandouglasscott.com/2018/07/04/canon-dslr-bluetooth-remote-protocol/
+Description: Canon DSLR Bluetooth Remote Protocol.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?1d6bed3c132d546c#Qi7jIzTcDGdGdrFQJtYikkySxusd3tYNdiaI+e8Pjts=
