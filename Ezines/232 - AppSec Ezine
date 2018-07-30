@@ -1,0 +1,136 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 30 | Month: July | Year: 2018 | Release Date: 27/07/2018 | Edition: #232  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://medium.com/@d0nut/exfiltration-via-css-injection-4e999f63097d
+Description: Exfiltration via CSS Injection.
+
+URL: http://bit.ly/2mL4nAZ (+)
+Description: Forging OAuth tokens using discovered client id and client secret.
+
+URL: https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/
+Description: Into the Borg – SSRF inside Google production network.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/potmdehex/multipath_kfree
+Description: Low effort jb for iOS 11.3.1.
+
+URL: http://bit.ly/2OgSvmB (+)
+Description: Running system commands through Nvidia signed binaries.
+
+URL: https://github.com/externalist/exploit_playground
+Description: Analysis of public exploits or my 1day exploits (Dump).
+
+URL: https://github.com/ElevenPaths/ibombshell
+Description: ibombshell - Dynamic Remote Shell (PowerShell).
+
+URL: https://github.com/kevingosse/windbg-extensions
+Description: Extensions for the new WinDbg.
+
+URL: https://hackerone.com/reports/334488
+Description: Blind XXE via Powerpoint files.
+
+URL: https://github.com/trimstray/htrace.sh
+Description: Simple shell script to debugging http/https traffic tracing.
+
+URL: https://github.com/quentinhardy/scriptsAndExploits
+Description: Oracle WebLogic Java Deserialization RCE (CVE-2017-3248).
+
+URL: https://github.com/GhostPack/
+Blog: http://www.harmj0y.net/blog/redteaming/ghostpack/
+Description: A collection of security related toolsets.
+
+URL: http://bit.ly/2LDtSSN (+)
+Description: Reverse Engineering the XignCode Anti-Cheat Library.
+
+URL: https://github.com/saucelabs/isign
+Description: Code sign iOS applications, without proprietary Apple software or hardware.
+
+URL: https://github.com/s0md3v/Photon
+Description: Fast crawler which extracts urls, emails, files, website accounts and more.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://blog.sevagas.com/?Advanced-USB-key-phishing
+Description: Advanced USB key phishing.
+
+URL: http://deniable.org/reversing/binary-instrumentation
+Description: Dynamic Binary Instrumentation Primer.
+
+URL: https://blog.jse.li/posts/marveloptics-malware/
+Description: Reversing JS Malware From marveloptics.com.
+
+URL: https://medium.com/@jonathanbouman/persistent-xss-at-ah-nl-198fe7b4c781
+Description: Persistent XSS at AH.nl
+
+URL: https://codecat.nl/2018/05/reverse-engineering-and-exploiting-a-game-trainer/
+Description: Reverse engineering and "exploiting" a game trainer.
+
+URL: http://bit.ly/2LqhndN (+)
+Description: Hidden caches in macOS - Where your private data gets stored.
+
+URL: https://blog.doyensec.com/2018/07/19/instrumenting-electron-app.html
+Description: Instrumenting Electron Apps for Security Testing.
+
+URL: https://arp242.net/weblog/yaml_probably_not_so_great_after_all.html
+Description: YAML - Probably not so great after all.
+
+URL: http://obtruse.syfrtext.com/2018/07/oracle-privilege-escalation-via.html
+Description: Oracle Privilege Escalation via Deserialization (CVE-2018-3004).
+
+URL: https://modexp.wordpress.com/2018/07/12/process-injection-writing-payload/
+Description: Process Injection - Writing the payload.
+
+URL: https://neonsea.uk/blog/2018/07/21/tmp-to-rce.html
+Description: From writing to /tmp to a root shell on Inteno IOPSYS (CVE-2018-14533).
+
+URL: http://asintsov.blogspot.com/2018/07/cisco-webex-teams-remote-code-execution.html
+Description: Cisco Webex Teams Remote Code Execution Vulnerability (CVE-2018-0387).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://manpages.bsd.lv/history.html
+Description: History of UNIX Manpages.
+
+URL: https://github.com/coreos/fero
+Description: YubiHSM2-backed signing server.
+
+URL: http://wouter.coekaerts.be/2018/java-type-system-broken
+Description: The Java type system is broken.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?aaa1cd7cc18e0037#+yWt58wzxodLmGEDjTy0V4Tf0GG0t0G2kJl8IH8mYFo=
