@@ -1,0 +1,136 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 31 | Month: August | Year: 2018 | Release Date: 03/08/2018 | Edition: #233 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.bentkowski.info/2018/07/vulnerability-in-hangouts-chat-aka-how.html
+Description: Issue in Hangouts Chat - How Electron makes open redirect great again.
+
+URL: https://medium.com/@tomnomnom/crlf-injection-into-phps-curl-options-e2e0d7cfe545
+Description: CRLF Injection Into PHP’s cURL Options.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/dienuet/crossdomain
+Description: Checking for CORS misconfiguration.
+
+URL: https://github.com/Netflix-Skunkworks/diffy
+Blog: http://bit.ly/2O2Iw3C (+)
+Description: Diffy is a triage tool used during cloud-centric security incidents.
+
+URL: https://github.com/colental/byob
+Description: BYOB (Build Your Own Botnet).
+
+URL: https://github.com/secana/PeNet
+Description: Portable Executable (PE) library written in .Net.
+
+URL: http://bit.ly/2AGDeZs (+)
+Description: Notes on Windows Privilege Escalation.
+
+URL: https://github.com/e3prom/bst
+Description: Binary String Toolkit (BST) - Exploit development helper. 
+
+URL: https://github.com/1N3/Findsploit
+Description: Find exploits in local and online databases instantly.
+
+URL: https://gitlab.com/expliot_framework/expliot
+Description: Expliot - Internet of Things Exploitation framework.
+
+URL: https://github.com/elevenpaths/neto
+Description: A Toolkit for Analysing Browser Plugins.
+
+URL: https://github.com/Kevin-Robertson/Powermad
+Description: PowerShell MachineAccountQuota and DNS exploit tools.
+
+URL: https://github.com/evyatarmeged/Raccoon
+Description: Tool for reconnaissance and vulnerability scanning.
+
+URL: https://github.com/malcomvetter/ManagedInjection
+PoC: https://medium.com/@malcomvetter/net-process-injection-1a1af00359bc
+Description: Dynamically loading .NET assemblies at runtime (.NET Process Injection).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2JUBHU1 (+)
+Description: Reverse Engineering APIs - Coffee Meets Bagel.
+
+URL: https://asaf.me/2018/07/23/attacking-the-attackers/
+Description: Attacking the attackers.
+
+URL: http://bit.ly/2KmNOV4 (+)
+Related: http://www.cs.technion.ac.il/~biham/BT/
+Description: Bluetooth Hacking - Cheating in Elliptic Curve Billiards.
+
+URL: http://bit.ly/2MdGmxp (+)
+Description: Exploitation of SSTI with Craft CMS plugin SEOmatic (CVE-2018-14716).
+
+URL: https://medium.com/@Wflki/exploiting-electron-rce-in-exodus-wallet-d9e6db13c374
+Related: http://kazu1130-h.hatenablog.jp/entry/2018/01/26/223022 (CVE-2018-1000006)
+Description: Exploiting Electron RCE in Exodus wallet. 
+
+URL: http://liberty-shell.com/sec/2018/07/28/netshlep/
+Description: Netsh DLL Helpers - Hack the Helpers.
+
+URL: http://bit.ly/2AAIPAE (+)
+Description: Making a Blind SQL Injection a Little Less Blind.
+
+URL: http://bit.ly/2OEFCmE (+)
+Description: From e-mail to NTLM hashes with Microsoft Outlook.
+
+URL: https://movaxbx.ru/2018/07/16/bypass-data-execution-protection-dep/
+Description: Bypass Data Execution Protection (DEP).
+
+URL: https://blog.xpnsec.com/hevd-null-pointer/
+Description: Exploiting Windows 10 Kernel Drivers - NULL Pointer Dereference.
+
+URL: http://bit.ly/2v9IbFk (+)
+Description: Detecting CMSTP-Enabled Code Execution and UAC Bypass With Sysmon.
+
+URL: https://github.com/shieldfy/API-Security-Checklist
+Description: Security countermeasures when designing, testing, and releasing your API.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://ntcore.com/?p=488
+Description: The decay of the IT industry.
+
+URL: https://brewpress.beer/
+Description: A WordPress plugin that brews beer.
+
+URL: https://github.com/m4tx/uefi-jitfuck
+Description: A JIT compiler for Brainfuck running on x86_64 UEFI.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?0ebbb79e7f20fee3#d1mRRWw7av2+2oXxQATXvr6k+pTf+oDNYrVolHVYkIo=
