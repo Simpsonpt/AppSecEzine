@@ -98,6 +98,7 @@ URL: https://medium.com/@vysec.private/domain-fronting-who-am-i-3c982ccd52e6
 Description: Domain Fronting - Who Am I?
 
 URL: http://everdox.net/popss.pdf
+PoC: https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897
 Description: Spurious #DB exceptions with the "POP SS" instruction (CVE-2018-8897).
 
 
