@@ -1,0 +1,136 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 32 | Month: August | Year: 2018 | Release Date: 10/08/2018 | Edition: #234 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/260697
+Description: Web Cache Deception bug in Discourse.
+
+URL: http://bit.ly/2vvsgBc (+)
+Description: How I gained commit access to Homebrew in 30 minutes.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/its-a-feature/Apfell
+Description: A macOS, post-exploit, red teaming framework.
+
+URL: https://github.com/owtf/owtf
+Description: Offensive Web Testing Framework (OWTF).
+
+URL: https://github.com/nfc-tools/mfcuk
+Description: MiFare Classic Universal toolKit (MFCUK).
+
+URL: https://github.com/tihmstar/jelbrekTime
+Description: An almost complete developer jailbreak for Apple watch S3 watchOS 4.1.
+
+URL: https://github.com/sensepost/apostille
+Description: Tool to clone one or more X509 certificate (chain)s.
+
+URL: http://10degres.net/colorize-your-hunt/
+Description: Colorize your hunt - Bug Bounties Tips&Tricks.
+
+URL: https://github.com/samyk/frisky
+Description: Tool to assist in binary application reversing and augmentation.
+
+URL: https://github.com/JusticeRage/FFM
+Description: Freedom Fighting Mode - Open source hacking harness.
+
+URL: https://medium.com/@adam.toscher/new-attack-on-wpa-wpa2-using-pmkid-96c3119f7f99
+More: http://bit.ly/2B71EvN (+) | http://bit.ly/2nog1Ss (+)
+Description: New attack on WPA/WPA2 using PMKID.
+
+URL: https://github.com/UKHomeOffice/repo-security-scanner
+Description: CLI tool that finds secrets accidentally committed to a git repo.
+
+URL: https://github.com/ionescu007/r0ak
+Description: A CLI Utility To Read/Write/Execute Ring Zero on for Windows 10 Systems.
+
+URL: https://labs.mwrinfosecurity.com/blog/repacking-and-resigning-ios-applications/
+Description: A Guide to Repacking iOS Applications.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2vyB2NU (+)
+Description: CVE-2017-2446 or JSC::JSGlobalObject::isHavingABadTime.
+
+URL: http://bit.ly/2OWNkbW (+)
+Description: Sending out phishing e-mails from @microsoft.com.
+
+URL: https://tpx.mx/blog/2018/google-pay-replay-attack.html
+Description: Google Pay-Replay attack.
+
+URL: http://bit.ly/2AYffFu (+)
+Description: "Evil Mai﻿d" Firmware Attacks Using USB Debug.
+
+URL: https://noncombatant.org/application-principals/
+Description: Isolating Application-Defined Principals.
+
+URL: https://edoverflow.com/2018/logic-flaws-in-wot-services
+Description: An analysis of logic flaws in web-of-trust services.
+
+URL: https://grimhacker.com/2018/03/09/just-a-printer/
+Description: It's just a printer... What's the worst that could happen?
+
+URL: https://neonsea.uk/blog/2018/08/01/hikvision-keygen.html
+Description: Creating a key generator to reset a Hikvision IP camera's admin password.
+
+URL: http://bit.ly/2OWtGwK (+)
+Related: http://bit.ly/2vVOVpC (+)
+Description: Save Your Cloud - Gain Root Access to VMs in OpenNebula 4.6.1.
+
+URL: https://vztekoverflow.com/2018/07/31/tbal-dpapi-backdoor/
+Description: TBAL - an (accidental?) DPAPI Backdoor for local users.
+
+URL: https://manishearth.github.io/blog/2018/02/15/picking-apart-the-crashing-ios-string/
+Related: https://openradar.appspot.com/radar?id=4987859723354112
+Description: Picking Apart the Crashing iOS String.
+
+URL: http://blogs.360.cn/blog/eos-asset-multiplication-integer-overflow-vulnerability/
+Description: EOS Asset Multiplication Integer Overflow Vulnerability.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://regexcrossword.com/
+Description: Regex Cross­word.
+
+URL: https://www.masswerk.at/nowgobang/2018/anatomy-of-an-rng
+Description: Anatomy of a Random Number Generator.
+
+URL: http://matthewearl.github.io/2018/06/28/smb-level-extractor/
+Related: https://gist.github.com/1wErt3r/4048722
+Description: Extracting Super Mario Bros levels with Python.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?175688e12594cc02#+2W0vkpvKqFFTHNKJwwi1cxnw61W+ryE9vDH23LmYOs=
