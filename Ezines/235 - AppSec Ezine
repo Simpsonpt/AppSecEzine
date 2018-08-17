@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 33 | Month: August | Year: 2018 | Release Date: 17/08/2018 | Edition: #235 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://portswigger.net/blog/practical-web-cache-poisoning
+Description: Practical Web Cache Poisoning.
+
+URL: http://blog.orange.tw/2018/08/how-i-chained-4-bugs-features-into-rce-on-amazon.html
+Description: How I Chained 4 Bugs(Features?) into RCE on Amazon Collaboration System.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://bit.ly/2MkBTgE (+)
+Description: Disabling OkHttp’s SSL Pinning on Android Apps.
+
+URL: https://ohpe.github.io/juicy-potato/
+Description: Juicy Potato (abusing the golden privileges).
+
+URL: https://github.com/trimstray/sslmerge
+Description: Tool to help you build a valid SSL certificate chain.
+
+URL: https://github.com/Pepelux/sippts
+Description: Set of tools to audit SIP based VoIP Systems.
+
+URL: https://github.com/didi/kemon
+Description: Callback-Based (Pre/Post) Framework for macOS Kernel Monitoring.
+
+URL: https://github.com/3gstudent/Eventlogedit-evtx--Evolution
+Description: Remove individual lines from Windows XML Event Log (EVTX) files.
+
+URL: https://github.com/gyoisamurai/GyoiThon
+Description: GyoiThon is a growing penetration test tool using Machine Learning.
+
+URL: http://www.pwncode.club/2018/08/macro-used-to-spoof-parent-process.html
+Description: Macro used to spoof the Parent Process.
+
+URL: https://github.com/avatartwo/avatar2
+Description: Framework with focus on dynamic analysis of embedded devices' firmware!
+
+URL: https://github.com/Souhardya/UBoat
+Description: HTTP Botnet designed to replicate a full weaponised commercial botnet.
+
+URL: https://github.com/nccgroup/BLESuite
+Description: Tool that provides an easier way to test Bluetooth Low Energy (BLE) device.
+
+URL: https://cofense.com/abusing-microsoft-windows-utilities-deliver-malware-fun-profit/
+Description: Abusing Microsoft Windows Utilities to Deliver Malware for Fun and Profit.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.fox-it.com/2018/08/14/phishing-ask-and-ye-shall-receive/
+Description: Phishing – Ask and ye shall receive.
+
+URL: http://bit.ly/2MpV8of (+)
+Description: Rooting your Router ZTE F670E by abusing an old Samba.
+
+URL: https://hackerone.com/reports/386807
+Description: Account takeover due to blind MongoDB injection in password reset.
+
+URL: https://blog.trailofbits.com/2018/08/14/fault-analysis-on-rsa-signing/
+Description: Fault Analysis on RSA Signing.
+
+URL: http://bit.ly/2Mhs0QG (+)
+Description: Kotlin and Java - How Hackers See Your Code.
+
+URL: http://bit.ly/2Mx7cnB (+)
+Description: Voicemail Vandalism - Getting RCE on Microsoft Exchange Server.
+
+URL: https://rayanfam.com/topics/inside-windows-page-frame-number-part1/
+More: https://rayanfam.com/topics/inside-windows-page-frame-number-part2/
+Description: Inside Windows Page Frame Number (PFN).
+
+URL: https://pequalsnp-team.github.io/writeups/analisys_telegram_passport
+Description: Padding Oracle attack against Telegram Passport.
+
+URL: https://foreshadowattack.eu
+Description: Breaking the Vir. Memory Abstraction with Transient Out-of-Order Execution.
+
+URL: https://bohops.com/2018/08/04/capturing-netntlm-hashes-with-office-dot-xml-documents/
+Description: Capturing NetNTLM Hashes with Office [DOT] XML Documents.
+
+URL: http://bit.ly/2KYQngG (+)
+Description: Bypass in Microsoft ADFS Multi-Factor Authentication protocol (CVE-2018-8340).
+
+URL: http://bit.ly/2Mg11oJ (+)
+PoC: https://github.com/IOActive/AOSP-ExploitUserDictionary
+Description: Discovering/Exploiting a Vuln. in Android’s Personal Dictionary (CVE-2018-9375).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://shkspr.mobi/blog/2018/08/twitters-secret-guest-mode/
+Description: Twitter's Secret "Guest Mode".
+
+URL: https://github.com/asingh33/CNNGestureRecognizer
+Description: Gesture recognition via CNN. Implemented in Keras + Theano + OpenCV.
+
+URL: https://jumpespjump.blogspot.com/2018/08/how-to-build-burner-device-for-def-con.html
+Description: How to build a "burner device" for DEFCON in one easy step.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?165401e31307f4b3#sCIBr3w2zjYH2pUlm0k4yfCTM2dfcQe1Q6gZhCHB+7k=
