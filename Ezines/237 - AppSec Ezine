@@ -1,0 +1,138 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 35 | Month: August | Year: 2018 | Release Date: 31/08/2018 | Edition: #237 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hawkinsecurity.com/2018/08/27/traversing-the-path-to-rce/
+Description: Traversing the Path to RCE.
+
+URL: https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/
+Description: Remote Code Execution on a Facebook server.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://www.powershellgallery.com/packages/InjectionHunter/1.0.0
+More: http://bit.ly/2Nxd5yu (+)
+Description: PS Injection Hunter - Security Auditing for PowerShell Scripts.
+
+URL: https://hackerone.com/reports/401136
+Description: Remote Code Execution on Proxy Service (as root) in AWS EC2.
+
+URL: https://github.com/awslabs/git-secrets
+Description: Prevents you from committing secrets and credentials into git repos.
+
+URL: https://laconicwolf.com/2018/04/13/burp-extension-python-tutorial/
+Description: Burp Extension Python Tutorial.
+
+URL: https://hunter2.gitbook.io/darthsidious/privilege-escalation/alpc-bug-0day
+Poc: https://github.com/SandboxEscaper/randomrepo/blob/master/PoC-LPE.rar
+Description: 0day for a local priv esc for Windows (ALPC-TaskSched-LPE).
+
+URL: https://gist.github.com/PaulSec/26251d56134c7fedb2176f2290202546
+Description: Default passwords from CIRT website (https://cirt.net/passwords).
+
+URL: https://github.com/panda-re/lava
+Description: LAVA - Large-scale Automated Vulnerability Addition.
+
+URL: https://gist.github.com/williballenthin/1c2bc539041ee3bea7a4c7129072a9ac
+Description: IDA Pro script to identify functions that are referenced as data.
+
+URL: https://github.com/nccgroup/house
+Description: Runtime mobile app analysis toolkit with a Web GUI (W/Frida and Python).
+
+URL: https://github.com/Viralmaniar/Remote-Desktop-Caching-/
+Description: Tool to recover old RDP (mstsc) session information in "PNG" files.
+
+URL: https://github.com/theevilbit/injection
+Description: Injection techniques by Example (Dump).
+
+URL: https://github.com/BornToBeRoot/NETworkManager
+Description: Tool for managing networks and troubleshoot network problems!
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2MCbMBL (+)
+Description: DNS Rebinding Headless Browsers.
+
+URL: https://mike-n1.github.io/Unusual_XSS
+Description: Unusual cases of Reflected XSS.
+
+URL: https://objective-see.com/blog/blog_0x36.html
+Description: Synthetic Reality - Breaking macOS one click at a time.
+
+URL: http://bit.ly/2o0Mm27 (+)
+Description: TerraMaster NAS Vulns Discovered and Exploited (CVE-2018–13354).
+
+URL: https://www.voidsecurity.in/2018/08/from-compiler-optimization-to-code.html
+PoC: https://github.com/renorobert/virtualbox-cve-2018-2844
+Description: VirtualBox VM Escape (CVE-2018-2844).
+
+URL: http://bit.ly/2o9oTvT (+)
+Description: Bug or Backdoor - Exploiting a Remote Code Execution in ISPConfig.
+
+URL: https://landgrey.me/struts2-045-debugging/
+Description: Struts2-045 (CVE-2017-5638) vulnerability debugging and POC analysis.
+
+URL: https://payatu.com/redteaming-from-zero-to-one-part-1/
+More: https://payatu.com/redteaming-zero-one-part-2/
+Description: RedTeaming from Zero to One.
+
+URL: https://b2dfir.blogspot.com/2016/10/touch-screen-lexicon-forensics.html
+PoC: https://github.com/B2dfir/wlrip
+Description: Touch Screen Lexicon Forensics (TextHarvester/WaitList.dat).
+
+URL: https://lowleveldesign.org/2018/08/15/randomness-in-net/
+Description: Randomness in .NET.
+
+URL: https://mattwarren.org/2018/08/28/Fuzzing-the-.NET-JIT-Compiler/
+Description: Fuzzing the .NET JIT Compiler.
+
+URL: https://www.contrastsecurity.com/security-influencers/cve-2018-15685
+PoC: https://github.com/matt-/CVE-2018-15685
+Description: Electron WebPreferences Remote Code Execution (CVE-2018-15685).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://bitmidi.com/
+Description: Popular MIDIs.
+
+URL: https://github.com/sylvainhalle/textidote
+Description: Spelling, grammar and style checking on LaTeX documents.
+
+URL: https://github.com/felixrieseberg/windows95
+Description: Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?b333......
