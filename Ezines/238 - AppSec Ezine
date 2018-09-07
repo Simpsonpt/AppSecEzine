@@ -1,0 +1,138 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 36 | Month: September | Year: 2018 | Release Date: 07/09/2018 | Edition: #238 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2MQEqzs (+)
+Description: XSS using quirky implementations of ACME http-01.
+
+URL: https://philippeharewood.com/view-private-instagram-photos/
+Description: View Private Instagram Photos.
+
+URL: https://blog.reigningshells.com/2018/09/hacking-rpi-cam-web-interface.html
+Description: Hacking The RPi Cam Web Interface.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/r3vn/badKarma
+Description: Advanced network reconnaissance toolkit.
+
+URL: https://github.com/jobertabma/relative-url-extractor
+Description: A small tool that extracts relative URLs from a file.
+
+URL: https://bneg.io/2018/01/15/iterm2-customizations-for-hackers/
+Description: iTerm2 Customizations.
+
+URL: https://github.com/CyberSaxosTiGER/androidDump
+Description: A tool pulls loaded binaries ordered by memory regions.
+
+URL: https://github.com/phage-nz/ph0neutria
+Description: Malware zoo builder that sources samples straight from the wild.
+
+URL: https://github.com/maddiestone/IDAPythonEmbeddedToolkit/tree/master/Android
+More: https://ubm.io/2PDBbIu (+)
+Description: IDAPython scripts for automating analysis of firmware - Android Segment.
+
+URL: https://github.com/NetsOSS/headless-burp
+Description: Burp extensions and a maven plugin to automate security tests.
+
+URL: https://github.com/1lastBr3ath/2ndOrder
+Description: Chrome extension to find domains that don't resolve or have expired.
+
+URL: https://github.com/jakeajames/dylibify
+Description: Transform any ARM Mach-O executable to a dynamic library.
+
+URL: https://github.com/Darm64/XNU/wiki/Debuging-XNU-with-CLion
+Description: Debuging XNU with CLion.
+
+URL: https://medium.com/@hakluke/haklukes-guide-to-hacking-without-metasploit-1bbbe3d14f90
+Description: Hakluke’s Guide to Hacking Without Metasploit.
+
+URL: https://hackerone.com/reports/363971
+Description: Insecure Infra. Integrations YML Loading leads to Wins. Privilege Escalation.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://openwall.com/lists/oss-security/2018/05/17/1
+Description: Procps-ng Audit Report by Qualys.
+
+URL: https://engineering.riotgames.com/news/riots-approach-anti-cheat
+Description: Riot Games Approach to Anti-Cheat.
+
+URL: https://dangokyo.me/2018/08/26/analysis-on-cve-2017-3000/
+PoC: https://github.com/dangokyo/CVE-2017-3000
+Description: Weak Flash Constant Blinding PRNG Analysis (CVE-2017-3000).
+
+URL: https://phoenhex.re/2018-08-26/csgo-fuzzing-bsp
+PoC: https://github.com/niklasb/bspfuzz
+Description: Fuzzing Counter-Strike - Global Offensive maps files with AFL.
+
+URL: https://justi.cz/security/2018/08/28/packagist-org-rce.html
+Description: Remote Code Execution on packagist.org.
+
+URL: https://insecure.design/
+Description: Demoing SSL certificates outliving their domain ownership.
+
+URL: http://bit.ly/2oKrYTd (+)
+Description: Netflix Cloud Security - Detecting Credential Compromise in AWS.
+
+URL: http://hatriot.github.io/blog/2018/08/22/dell-digital-delivery-eop/
+Description: Dell Digital Delivery - Local Privilege Escalation (CVE-2018-11072).
+
+URL: http://bit.ly/2MQSeK5 (+)
+Description: Click me if you can, Office social engineering with embedded objects.
+
+URL: http://williamshowalter.com/a-universal-windows-bootkit/
+Description: A Universal Windows Bootkit - An analysis of the MBR bootkit aka "HDRoot".
+
+URL: http://bit.ly/2MTheQP (+)
+Description: Analyzing and Exploiting an PE Vuln. in Docker for Windows (CVE-2018-15514).
+
+URL: http://bit.ly/2M2eX0C (+)
+Description: MS Office 2016 for Mac Priv. Escalation via a Legacy Package (CVE-2018–8412).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://rya.nc/bitfi-wallet.html
+Description: Bitfi's hardware wallet is terrible.
+
+URL: https://github.com/darlinghq/darling
+Description: Darwin/macOS emulation layer for Linux.
+
+URL: https://medium.com/@elkentaro/nothing-to-see-here-the-not-so-charger-62a51e3aab22
+Description: Nothing to see here. The not-so-charger.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?c3a972fdff9b93b9#zYZt8attgLtKYfWygNmO/YaywYG0UB5CaGJQw5SaRN8=
