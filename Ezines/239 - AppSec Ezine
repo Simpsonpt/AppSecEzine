@@ -1,0 +1,136 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 37 | Month: September | Year: 2018 | Release Date: 14/09/2018 | Edition: #239 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/317476
+Description: Account Takeover in Periscope TV.
+
+URL: https://ash-king.co.uk/facebook-bug-bounty-09-18.html
+Description: Making the Facebook App more secure - $8500 Bounty.
+
+URL: http://bit.ly/2CS01CN (+)
+Description: Love story, from closed as info. to $3,5k. XSS Stored in Yahoo! iOS Mail App.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/quickbreach/smbetray
+Description: SMB MiTM tool with several attacks.
+
+URL: https://github.com/omerporze/brokentooth
+Description: Brokentooth - PoC for CVE-2018-4327.
+
+URL: https://github.com/wargio/r2dec-js
+Description: radare2 plugin - converts asm to pseudo-C code.
+
+URL: https://github.com/RetireNet/dotnet-retire
+Description: CLI extension to check your project for known vulnerabilities.
+
+URL: https://gitlab.com/technotame/cookie-decrypter
+Description: A Burp extension for decrypting/decoding various types of cookies.
+
+URL: https://github.com/api0cradle/UltimateAppLockerByPassList
+Description: Repository to document the most common techniques to bypass AppLocker.
+
+URL: https://github.com/s1kr10s/Apache-Struts-v3
+Description: Apache Struts RCE  Exploiter (CVE-2013-2251/CVE-2017-5638/CVE-2018-11776).
+
+URL: http://exceptionlevelone.blogspot.pt/2018/02/creating-your-own-ios-1112-jailbreak.html
+Description: Creating Your Own iOS 11.1.2 Jailbreak With The QiLin Toolkit.
+
+URL: https://github.com/mxmssh/drltrace
+Description: Drltrace is a library calls tracer for Windows and Linux applications.
+
+URL: https://github.com/two06/Inception
+Description: In-memory compilation and reflective loading of C# apps for AV evasion.
+
+URL: https://github.com/TryCatchHCF/PacketWhisper
+Description: Stealthily exfil data and defeat attribution w/ DNS queries and steganography.
+
+URL: https://gist.github.com/maldevel/1d46329e00ab0c076150ddbce90d94cd
+Description: PassCat Decrypt WinSCP passwords snippet.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://quentinkaiser.be/pentesting/2018/09/07/node-red-rce/
+Description: Gaining RCE by abusing Node-RED.
+
+URL: https://www.rfk.id.au/blog/entry/security-bugs-ssrf-via-request-splitting/
+Description: Security Bugs in Practice - SSRF via Request Splitting.
+
+URL: http://reversing.io/posts/introducing-finch/
+Tool: https://github.com/falconre/finch
+Description: Finch is a Symbolic Executor built on top of Falcon.
+
+URL: https://blogs.projectmoon.pw/2018/08/17/Edge-InlineArrayPush-Remote-Code-Execution/
+Description: Edge InlineArrayPush Remote Code Execution (CVE-2018-8372).
+
+URL: http://bit.ly/2xaQu4q (+)
+Description: Using the macOS/iOS knowledgeC.db DB to Determine Precise User and App Usage.
+
+URL: https://adapt-and-attack.com/2017/11/15/keying-payloads-for-scripting-languages/
+Description: Keying Payloads for Scripting Languages.
+
+URL: https://gracefulbits.com/2018/07/26/system-call-dispatching-for-windows-on-arm64/
+Description: System call dispatching on Windows ARM64.
+
+URL: https://versprite.com/blog/json-deserialization-memory-corruption-vulnerabilities/
+Description: Analyzing JSON Deserialization Memory Corruption Vulnerabilities on Android.
+
+URL: http://bit.ly/2NcA6dG (+)
+Description: Arbitrary, Unsigned Code Execution Vector in Microsoft.Workflow.Compiler.exe.
+
+URL: https://siguza.github.io/KTRR/
+Description: Allegedly "Kernel Text Readonly Region" (Apple’s A10 chips research). 
+
+URL: http://bit.ly/2p3wcpa (+)
+Description: Injecting .Net Assemblies Into Unmanaged Processes.
+
+URL: https://int0xcc.svbtle.com/using-concolic-execution-for-static-analysis-of-malware
+Description: Using concolic execution for static analysis of malware.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.michaelfogleman.com/rush/
+Description: Solving Rush Hour, the Puzzle.
+
+URL: http://nandgame.com/
+Description: The Nand Game - You are going to build a simple computer.
+
+URL: https://github.com/1tayH/noisy
+Description: Simple random DNS, HTTP/S internet traffic noise generator.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?2c7e9996556d3404#dUsrV4UPOGe1Zp/7pRP/UuqlcJTen3ApnnzzudFc6eM=
