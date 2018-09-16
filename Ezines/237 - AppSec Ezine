@@ -40,8 +40,8 @@ URL: https://laconicwolf.com/2018/04/13/burp-extension-python-tutorial/
 Description: Burp Extension Python Tutorial.
 
 URL: https://hunter2.gitbook.io/darthsidious/privilege-escalation/alpc-bug-0day
-Poc: https://github.com/SandboxEscaper/randomrepo/blob/master/PoC-LPE.rar
-Description: 0day for a local priv esc for Windows (ALPC-TaskSched-LPE).
+Poc: http://bit.ly/2QzpWSw | https://github.com/OneLogicalMyth/zeroday-powershell
+Description: Windows Local Priv. Escalation - ALPC-TaskSched-LPE (CVE-2018-8440).
 
 URL: https://gist.github.com/PaulSec/26251d56134c7fedb2176f2290202546
 Description: Default passwords from CIRT website (https://cirt.net/passwords).
