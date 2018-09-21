@@ -80,6 +80,7 @@ URL: http://jsyang.ca/hacks/gear-vr-rev-eng/
 Description: Gear VR Controller Reverse Engineering.
 
 URL: https://nickbloor.co.uk/2018/02/28/popping-wordpress/
+PoC: https://github.com/NickstaDB/PoC
 Description: POPping WordPress.
 
 URL: http://agrrrdog.blogspot.pt/2018/01/java-deserialization-misusing-ojdbc-for.html
