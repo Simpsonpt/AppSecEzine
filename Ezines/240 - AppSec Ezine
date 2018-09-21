@@ -1,0 +1,136 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 38 | Month: September | Year: 2018 | Release Date: 21/09/2018 | Edition: #240 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://justi.cz/security/2018/09/13/alpine-apk-rce.html
+Description: Remote Code Execution in Alpine Linux.
+
+URL: https://hackerone.com/reports/408583
+Description: PII of all Dutch public transport cards "OV-Chipkaart" accessible.
+
+URL: https://medium.com/@jonathanbouman/local-file-inclusion-at-ikea-com-e695ed64d82f
+Description: Local file inclusion (LFI) at IKEA.com.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://cornerpirate.com/2018/07/24/grep-extractor-a-burp-extender/
+Description: Grep Extractor a Burp Extender.
+
+URL: https://gamozolabs.github.io/fuzzing/2018/09/16/scaling_afl.html
+Description: Scaling AFL to a 256 thread machine.
+
+URL: https://github.com/TKCERT/mail-security-tester
+Description: A testing framework for mail security and filtering solutions.
+
+URL: http://bit.ly/2NWlZcd (+)
+Description: Windows oneliners to download remote payload and execute arbitrary code.
+
+URL: https://blog.thomasorlita.cz/vulns/google-csp-evaluator/
+Description: How to use Google’s CSP Evaluator to bypass CSP.
+
+URL: https://github.com/Lz1y/CVE-2018-8420 
+Description: MS XML Remote Code Execution Vulnerability (CVE-2018-8420).
+
+URL: https://github.com/anantshri/svn-extractor
+Description: Extract all web resources by exposed .SVN folder.
+
+URL: https://rastamouse.me/2017/08/jumping-network-segregation-with-rdp/
+Description: Jumping Network Segregation with RDP.
+
+URL: https://github.com/cys3c/roxysploit
+Description: roxysploit - Penetration Testing Suite.
+
+URL: https://github.com/danleh/wasabi
+Description: A dynamic analysis framework for WebAssembly programs. 
+
+URL: https://uncoder.io/
+Description: Uncoder - One common language for cyber security (SOC Analysts Helper).
+
+URL: https://github.com/cornerpirate/java-stager
+Description: Java Stager which can download, compile, and execute code in memory.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://medium.com/@vishwaraj101/ocr-to-xss-42720d85f7fa
+Description: OCR to XSS.
+
+URL: http://bit.ly/2OHA7mD (+)
+Description: Bypassing Hotstar Premium with DOM manipulation and some JavaScript.
+
+URL: http://blog.nsfocus.net/cve-2018-804-analysis/
+Description: Analysis of Joomla Kernel SQL Injection Vulnerability (CVE-2018-8045).
+
+URL: https://www.contextis.com/blog/wap-just-happened-my-samsung-galaxy
+Related: https://bugs.chromium.org/p/project-zero/issues/detail?id=1532
+Description: WAP just happened to my Samsung Galaxy?.
+
+URL: http://bit.ly/2NZYf78 (+)
+Description: EE 4GEE Mini Local Privilege Escalation Vulnerability (CVE-2018-14327).
+
+URL: http://bit.ly/2poFVXa (+)
+Description: A Technical Survey Of Common And Trending Process Injection Techniques.
+
+URL: https://blog.cylance.com/cracking-ransomware
+Description: Cracking Ransomware.
+
+URL: https://rastating.github.io/creating-a-custom-shellcode-encoder/
+Description: Creating a Custom Shellcode Encoder.
+
+URL: https://rhinosecuritylabs.com/aws/aws-privilege-escalation-methods-mitigation/
+Description: AWS Privilege Escalation – Methods and Mitigation.
+
+URL: http://bit.ly/2wiFctW (+)
+Description: The call is coming from inside the house - DNS rebinding in EOSIO keosd wallet.
+
+URL: https://oddvar.moe/2018/09/06/persistence-using-universal-windows-platform-apps-appx/
+Description: Persistence using Universal Windows Platform apps (APPX).
+
+URL: http://rinseandrepeatanalysis.blogspot.com/2018/09/dde-downloaders-excel-abuse-and.html
+Description: DDE Downloaders, Excel Abuse, and a PowerShell Backdoor.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://tonsky.me/blog/disenchantment/
+Description: Software disenchantment.
+
+URL: https://lcq2.github.io/x86_iphone/
+Description: x86 finds its way into your iPhone.
+
+URL: https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections
+Description: APT & CyberCriminal Campaign Collection.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?6c49179b0c988f73#nICDroiH7iwCAr4/7udMNRtnqmazVEYx/v7W/QSKMwU=
