@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 39 | Month: September | Year: 2018 | Release Date: 28/09/2018 | Edition: #241 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2NMLnC0 (+)
+Description: Subdomain Takeover via Unsecured S3 Bucket Connected to the Website.
+
+URL: https://medium.com/@jonathanbouman/reflected-xss-at-philips-com-e48bf8f9cd3c
+Description: Reflected XSS at Philips.com.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://bit.ly/2Qf34Ha (+)
+Description: From RDS app to Empire shell.
+
+URL: https://github.com/jthuraisamy/DIRT
+Description: Driver Initial Reconnaissance Tool.
+
+URL: https://github.com/trailofbits/winchecksec
+Blog: http://bit.ly/2Iklu6B (+)
+Description: Tool that detects security features in Windows binaries.
+
+URL: https://github.com/DownWithUp/CVE-2018-16712/
+Description: PoC Code for CVE-2018-16712 (exploit MmMapIoSpace).
+
+URL: https://github.com/itm4n/VBA-RunPE
+Description: A VBA implementation of the RunPE technique (bypass app whitelisting).
+
+URL: https://www.n00py.io/2018/08/bypassing-duo-two-factor-authentication-fail-open/
+Description: Bypassing Duo Two-Factor Authentication (Fail Open).
+
+URL: https://github.com/capt-meelo/Telewreck
+Related: https://capt-meelo.github.io/pentest/2018/08/03/pwning-with-telerik.html
+Description: Burp extension - Pwning Web Applications via Telerik Web UI (CVE-2017-9248).
+
+URL: https://astr0baby.wordpress.com/2018/09/08/understanding-how-dll-hijacking-works/
+Description: Understanding how DLL Hijacking works.
+
+URL: https://github.com/ohpe/juicy-potato
+Description: Juicy Potato (abusing the golden privileges) - Another LPE tool.
+
+URL: https://blog.secarma.co.uk/labs/hacking-with-git-git-enum-metasploit-module-release
+Description: Hacking with Git - Git-Enum metasploit module release.
+
+URL: https://github.com/bazad/blanket
+Description: Mach port replacement vulnerability in launchd on iOS 11.2.6 (CVE-2018-4280).
+
+URL: https://github.com/byt3bl33d3r/SprayingToolkit
+Description: Scripts to make password spraying attacks against Lync/S4B & OWA more efficient.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.benjojo.co.uk/post/qemu-monitor-socket-rce-vnc
+Description: From VNC to reverse shell.
+
+URL: https://www.hackerone.com/blog/Guide-Subdomain-Takeovers
+Description: A Guide To Subdomain Takeovers.
+
+URL: http://krystalgamer.me/spidey-breaking/
+Description: Reversing Spiderman 2000 - Breaking CD-ROM protection.
+
+URL: https://cyseclabs.com/blog/linux-kernel-heap-spray
+Description: Linux Kernel universal heap spray.
+
+URL: http://bit.ly/2N6yWM5 (+)
+Description: Discovering GraphQL endpoints and SQLi vulnerabilities.
+
+URL: http://www.s3.eurecom.fr/projects/modern-android-phishing/
+Description: Phishing Attacks on Modern Android.
+
+URL: http://bit.ly/2R3ohVC (+)
+Description: AFL-based Java fuzzers and the Java Security Manager.
+
+URL: http://bit.ly/2xGnLEO (+)
+Description: Reverse engineering an LCD wall's communications protocol.
+
+URL: https://github.com/trailofbits/not-so-smart-contracts
+Description: Examples of Solidity security issues (Dump).
+
+URL: https://medium.com/tenable-techblog/advantech-webaccess-unpatched-rce-ffe9f37f8b83
+Description: Advantech WebAccess Unpatched RCE (CVE-2017–16720).
+
+URL: http://bit.ly/2xUAdQT (+)
+Description: Hunting mobile devices endpoints - the RF and the Hard way (IOT Audit).
+
+URL: https://tunnelshade.in/blog/2018/09/hongfuzz-intel-pt-instrumentation/
+Description: Internals of Hongfuzz - Intel Processor Trace (coverage guided blackbox fuzzing).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://truepolyglot.hackade.org/
+Description: Truepolyglot is polyglot file generator project.
+
+URL: https://safekeepcybersecurity.github.io/posts/2018/09/carhack_urh/
+Description: Unlock a Mustang GT - HackRF/Universal Hacker Radio.
+
+URL: https://medium.com/@the4rchangel/email-spoofing-with-netcat-telnet-e558e4a10c1
+Description: Email Spoofing With Netcat/Telnet.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?f690105ffbbaed34#VVFM63ss4u23eYI2NsKlzSHrSGS+m+F2ZygvyiM8FQ0=
