@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 40 | Month: October | Year: 2018 | Release Date: 05/10/2018 | Edition: #242 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://medium.com/@brs.sgdc/google-stored-xss-in-payments-350cd7ba0d1b
+Description: Google Stored XSS in Payments.
+
+URL: http://bit.ly/2OzZOsx (+)
+Description: Applying a small bypass to steal Facebook Session tokens in Uber.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://www.n00py.io/2018/10/popping-shells-on-splunk/
+Description: Popping shells on Splunk.
+
+URL: https://github.com/n0dec/MalwLess
+Description: Test Blue Team detections without running any attack.
+
+URL: https://github.com/Ebryx/AES-Killer
+Description: Burpsuite Plugin to decrypt AES Encrypted mobile app traffic.
+
+URL: https://gitlab.com/gitlab-org/gitlab-ce/issues/49133
+Description: Vulnerability in project import leads to arbitrary command execution.
+
+URL: https://github.com/GhostPack/Rubeus
+Blog: http://www.harmj0y.net/blog/redteaming/from-kekeo-to-rubeus/
+Description: Rubeus is a C# toolset for raw Kerberos interaction and abuses.
+
+URL: https://jacksonvd.com/pwned-passwords-and-ntlm-hashes/
+Description: Pwned Passwords and NTLM Hashes!
+
+URL: https://github.com/esmog/nodexp
+Description: Server Side JS Injection tool for detecting/exploit Node.js vulns.
+
+URL: https://github.com/skelsec/windows_ad_dos_poc
+Description: PoC code for crashing windows active directory.
+
+URL: https://github.com/evilsocket/shellz/
+Description: Utility to track and control your ssh, telnet, web and custom shells.
+
+URL: https://github.com/malwaredllc/byob
+Description: BYOB (Build Your Own Botnet).
+
+URL: https://github.com/jeremybuis/jsscanner
+Description: Docker image to perform static scans against JavaScript code bases.
+
+URL: https://github.com/sinfocol/vboxdie-cracker
+Description: VirtualBox Disk Image Encryption password cracker.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.x41-dsec.de/lab/blog/fax/
+Description: Researching The FAX Machine Attack Surface.
+
+URL: https://medium.com/@efkan162/how-i-xssed-uber-and-bypassed-csp-9ae52404f4c5
+Description: How I XSS’ed Uber and Bypassed CSP.
+
+URL: https://jordanpotti.com/2018/10/03/violating-your-personal-space-with-webex/
+Description: Violating Your Personal Space with Webex.
+
+URL: http://bit.ly/2OUsLMP (+)
+Description: Malicious Command Execution via bash-completion (CVE-2018-7738).
+
+URL: http://bit.ly/2DWsXtT (+)
+Description: A static analysis approach relying on symbolic execution.
+
+URL: https://letsencrypt.org/docs/certificates-for-localhost/
+Description: Certificates for localhost.
+
+URL: https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html
+Description: A step-by-step Linux Kernel exploitation (CVE-2017-11176).
+
+URL: https://eli.thegreenplace.net/2011/01/23/how-debuggers-work-part-1/
+More: http://bit.ly/2OAonFQ (+) | http://bit.ly/2QsA5zO (+)
+Description: How debuggers work (Basics/Breakpoints/Debugging information).
+
+URL: https://www.gironsec.com/blog/2018/01/expiring-payloads-in-the-metasploit-framework/
+Description: Expiring Payloads in the Metasploit Framework.
+
+URL: http://ly0n.me/2015/08/01/writing-exploits-with-an-egghunter-part-1/
+Description: Writing exploits with an egghunter.
+
+URL: https://blog.smartdec.net/smartdec-smart-contract-audit-beginners-guide-d04cc7f1c571
+Description: SmartDec smart contract audit beginner’s guide.
+
+URL: http://blog.ptsecurity.com/2018/10/intel-me-manufacturing-mode-macbook.html
+Description: Intel ME Manufacturing Mode - Obscured dangers and Apple MacBook CVE-2018-4251.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.linuxboot.org/
+Description: Linux as Firmware.
+
+URL: http://www.lambdashell.com/
+Description: Is serverless insecure? Let's find out..
+
+URL: https://github.com/Microsoft/MS-DOS
+Description: The original sources of MS-DOS 1.25 and 2.0, for reference purposes.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?5df3e2bb24e83148#oNR4hQQXl5eZ6zeDFRoMFtBxeE9jfz9lIivoGFHj+ME=
