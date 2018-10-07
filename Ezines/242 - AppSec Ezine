@@ -27,6 +27,7 @@ Description: Applying a small bypass to steal Facebook Session tokens in Uber.
 
 
 URL: https://www.n00py.io/2018/10/popping-shells-on-splunk/
+Related: https://github.com/TBGSecurity/weaponize_splunk
 Description: Popping shells on Splunk.
 
 URL: https://github.com/n0dec/MalwLess
