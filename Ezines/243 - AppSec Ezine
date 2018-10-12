@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 41 | Month: October | Year: 2018 | Release Date: 12/10/2018 | Edition: #243 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.sheddow.xyz/css-timing-attack/
+Description: A timing attack with CSS selectors and Javascript.
+
+URL: http://www.sec-down.com/wordpress/?p=809
+Description: An interesting Google vulnerability that got me 3133.7 reward.
+
+URL: http://bit.ly/2OQkWuJ (+)
+Description: Get as image() pulls Insights/NRQL data from New Relic accounts (IDOR).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/hdm/mac-ages
+Description: MAC address age tracking.
+
+URL: https://github.com/nulpwn/WiPray
+Description: Wifi Password Spray in EAP-MSCHAPv2 networks.
+
+URL: https://github.com/hausec/ADAPE-Script
+Description: Active Directory Assessment and Privilege Escalation Script.
+
+URL: https://github.com/LewisArdern/eslint-plugin-angularjs-security-rules
+Description: Rules for detecting security issues in Angular 1.x.
+
+URL: https://github.com/samhaxr/TakeOver-v1
+Description: Takeover script extracts CNAME record of all subdomains at once.
+
+URL: https://github.com/blueudp/DorkMe
+Description: Making easier the searching of vulnerabilities with Google Dorks.
+
+URL: https://github.com/sdnewhop/sdwan-harvester
+Description: SD-WAN Harvester - Automatically enumerate/fingerprint SD-WAN nodes.
+
+URL: https://github.com/JackOfMostTrades/bluebox
+Description: Automated Exploit Toolkit for CVE-2015-6095 and CVE-2016-0049.
+
+URL: https://github.com/cobbr/SharpSploit
+Description: SharpSploit is a .NET post-exploitation library written in C#.
+
+URL: https://github.com/Cr4sh/fwexpl
+Description: PC firmware exploitation tool and library.
+
+URL: https://github.com/P1CKLES/SharpBox
+Description: Tool for compressing, encrypt and exfil data to DropBox via API.
+
+URL: https://github.com/chudel/openfender
+Description: Quest One Identity Defender Soft Token to Google Auth QR Code Converter.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://flatkill.org/
+Description: Flatpak - a security nightmare.
+
+URL: http://bit.ly/2C601gF (+)
+Description: Bitcoin Core Bug CVE-2018–17144 - An Analysis.
+
+URL: https://geosn0w.github.io/Jailbreaks-Demystified/
+Description: Jailbreaks Demystified.
+
+URL: https://www.nc-lp.com/blog/disguise-phar-packages-as-images
+Description: Disguise PHAR packages as images.
+
+URL: http://bit.ly/2yxlRWY (+)
+Description: Collecting Shells by the Sea of NAS Vulnerabilities.
+
+URL: http://bit.ly/2NC71nl (+)
+Description: PRTG Network Monitor Privilege Escalation (CVE-2018-17887).
+
+URL: https://prdeving.wordpress.com/2018/09/21/hiding-malware-in-windows-code-injection/
+Description: Hiding malware in Windows – The basics of code injection.
+
+URL: https://ewilded.blogspot.pt/2018/01/vulnserver-my-kstet-exploit-delivering.html
+Related: http://www.thegreycorner.com/2010/12/introducing-vulnserver.html
+Description: My KSTET exploit - Delivering the final shellcode via active server socket.
+
+URL: http://bit.ly/2C9esjR (+)
+Description: Authentication bypass vulnerability (W/PE) in WD My Cloud (CVE-2018-17153).
+
+URL: https://alephsecurity.com/2018/01/22/qualcomm-edl-1/
+Code: https://github.com/alephsecurity/edlrooter
+Description: Exploiting Qualcomm EDL Programmers (CVE-2017-13174/CVE-2017-5947).
+
+URL: http://0xeb.net/2018/03/using-z3-with-ida-to-simplify-arithmetic-operations-in-functions/
+Description: Using Z3 with IDA to simplify arithmetic operations in functions.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://telegra.ph/
+Description: Write and Share!
+
+URL: https://blog.bejarano.io/hardening-macos.html
+Description: Hardening macOS.
+
+URL: https://github.com/opsxcq/docker-tor-hiddenservice-nginx
+Description: Easily setup a hidden service inside the Tor network.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?bd9723b02fbfd937#yd67VcLVa6gjqmBAZlH49vnYaL9P4JQXphKksNUwU2o=
