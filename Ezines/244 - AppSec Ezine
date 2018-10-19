@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 42 | Month: October | Year: 2018 | Release Date: 19/10/2018 | Edition: #244 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2EuxUKF (+)
+Description: Add description to Instagram Posts on behalf of other users.
+
+URL: http://bit.ly/2EttVhF (+)
+Description: Persistent XSS (unvalidated Open Graph embed) at LinkedIn.com.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/JoelGMSec/AutoRDPwn
+Description: The Shadow Attack Framework.
+
+URL: https://github.com/AlexAltea/libelf.js
+Description: LibELF port for JavaScript.
+
+URL: https://hackerone.com/reports/405100
+Description: Stealing Users OAUTH Tokens via redirect_uri.
+
+URL: https://digi.ninja/blog/hiding_bash_history.php
+Description: Hiding from Bash history.
+
+URL: https://github.com/pxb1988/dex2jar
+Description: Tools to work with android .dex and java .class files.
+
+URL: https://hackernoon.com/how-i-hacked-modern-vending-machines-43f4ae8decec
+Description: How I hacked modern Vending Machines.
+
+URL: https://github.com/SoledaD208/CVE-2018-10933/
+More: http://bit.ly/2EwN0PS (+) | http://bit.ly/2pYISxW (+) | http://bit.ly/2q0fFml (+)
+Description: PoC for libssh 0.6++ Auth bypass in server code (CVE-2018-10933). 
+
+URL: https://github.com/r4wd3r/RID-Hijacking/
+Description: Windows RID Hijacking persistence technique.
+
+URL: https://github.com/leechristensen/SpoolSample
+More: https://gist.github.com/3xocyte/cfaf8a34f76569a8251bde65fe69dccc
+Description: Force Windows hosts authenticate in other machines via MS-RPRN RPC.
+
+URL: https://github.com/securifera/serviceFu
+Blog: https://www.securifera.com/blog/2018/10/07/servicefu/
+Description: Automates credential skimming from service accounts in Windows Registry.
+
+URL: https://github.com/mxmssh/drAFL
+Description: AFL + DynamoRIO = fuzzing binaries with no source code on Linux.
+
+URL: https://github.com/jonatan1024/clrinject
+Description: Injects C# EXE or DLL Assembly into CLR and AppDomain of another process.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2AhbatG (+) 
+Description: Report Spam. Get Owned.
+
+URL: https://oddcoder.com/BROP-102/
+Description: Blind Return Oriented Programming 102.
+
+URL: http://bit.ly/2J3ItTT (+)
+Description: Uncovering a massive Binance phishing campaign.
+
+URL: https://leucosite.com/Microsoft-Edge-RCE/
+Description: Microsoft Edge Remote Code Execution (CVE-2018-8495).
+
+URL: https://www.xorrior.com/persistent-credential-theft/
+Description: Persistent Credential Theft with Authorization Plugins.
+
+URL: http://bit.ly/2NNfkgs (+)
+Description: In-Depth Analysis of Yahoo! Authentication Schemes (Oldies).
+
+URL: http://bit.ly/2yLKjDY (+)
+Description: Protecting internal applications with a SAML-aware reverse-proxy.
+
+URL: https://paper.seebug.org/716/
+More: https://gist.github.com/joernchen/38dd6400199a542bc9660ea563dcf2b6
+Description: Analysis of Git Submodule Vulnerability (CVE-2018-17456).
+
+URL: https://medium.com/bugbountywriteup/bug-bounty-mail-ru-234fa6f5a5a
+Description: Admin panel pwn and data disclosure of 2 million users from mail.ru.
+
+URL: https://outflank.nl/blog/2018/10/12/sylk-xlm-code-execution-on-office-2011-for-mac/
+Description: Sylk + XLM = Code execution on Office 2011 for Mac.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://tls.ulfheim.net/
+Description: The Illustrated TLS Connection.
+
+URL: http://serveo.net/
+Description: Expose local servers to the internet.
+
+URL: https://github.com/webdigi/AWS-VPN-Server-Setup
+Description: Setup your own private, secure, free* VPN on the Amazon AWS Cloud.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?f7a87e9c119220e4#S0UAIJ84dAdnwUoFLoKo6EL0THMKOWfFS5KK7VD+bHg=
