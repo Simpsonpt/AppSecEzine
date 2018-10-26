@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 43 | Month: October | Year: 2018 | Release Date: 26/10/2018 | Edition: #245 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.martinvigo.com/googlemeetroulette/
+Description: GoogleMeetRoulette - Joining random meetings.
+
+URL: https://rpadovani.com/facebook-responsible-disclosure
+Description: Responsible disclosure - Retrieving a user's private Facebook friends.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/sensepost/goDoH
+Description: A DNS-over-HTTPS C2.
+
+URL: https://github.com/joanbono/Gurp
+Description: Burp Commander written in Go.
+
+URL: https://github.com/dutchcoders/vncscan
+Description: OCR open VNC framebuffers to console.
+
+URL: https://github.com/McGill-DMaS/Kam1n0-Community
+Description: The Kam1n0 Assembly Analysis Platform.
+
+URL: https://fosterelli.co/privilege-escalation-via-docker.html
+Description: Privilege escalation via Docker.
+
+URL: https://github.com/samratashok/Deploy-Deception
+Description: A PowerShell module to deploy active directory decoy objects.
+
+URL: http://bit.ly/2Jig0ti (+)
+Description: Remote NTLM relaying through meterpreter on Windows port 445.
+
+URL: https://github.com/xoreaxeaxeax/sandsifter
+Description: The x86 processor fuzzer.
+
+URL: https://github.com/LeonardoNve/edm
+Description: HTTP proxy for infecting files on-the-fly and SSLstrip2.
+
+URL: https://github.com/RUB-NDS/Metadata-Attacker
+Description: A tool to generate media files with malicious metadata.
+
+URL: https://github.com/tevora-threat/SharpView
+Description: C# implementation of harmj0y's PowerView.
+
+URL: https://github.com/WinHeapExplorer/WinHeap-Explorer
+Description: Tool for heap-based bugs detection in x86 machine code for Windows apps.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bugid.skylined.nl/20181017001.html
+Description: Fuzz in sixty seconds.
+
+URL: https://alephsecurity.com/2018/10/22/StackOverflowException/
+Description: StackOverflowException (SOE) - CVE-2018-8269 Analysis.
+
+URL: https://mp.weixin.qq.com/s/ebKHjpbQcszAy_vPocW0Sg
+PoC: https://github.com/voidfyoo/CVE-2018-3191/
+Description: WebLogic Remote Code Execution Vulnerability (CVE-2018-3191).
+
+URL: https://blog.skullsecurity.org/2018/technical-rundown-of-webexec
+More: http://bit.ly/2PULNmT (+) | http://bit.ly/2ELhpdz (+)
+Description: Technical Rundown of WebExec (CVE-2018-15442).
+
+URL: http://bit.ly/2PlwTsN (+)
+Description: Password and Credential Management in 2018.
+
+URL: https://liberty-shell.com/sec/2018/10/20/living-off-the-land/
+Description: Living Off the Land (With Windows Binaries).
+
+URL: https://hackerone.com/reports/348076
+Description: New Relic Stored XSS in Brower `name` field reflected in two pages.
+
+URL: https://gamozolabs.github.io/fuzzing/2018/10/18/terrible_android_fuzzer.html
+Description: Writing the worlds worst Android fuzzer, and then improving it.
+
+URL: https://blog.stratumsecurity.com/2018/10/17/route-53-as-a-pentest-infrastructure/
+Description: Route 53 as Pentest Infrastructure.
+
+URL: https://shadowfile.inode.link/blog/2018/10/source-level-debugging-the-xnu-kernel/
+Description: Source Level Debugging the XNU Kernel.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/derricw/asciisciit
+Description: ASCII Art, Video, and Plotting Toolbox.
+
+URL: https://ops.tips/blog/how-linux-tcp-introspection/
+Description: The inner workings of bind and listen on Linux.
+
+URL: https://research.kudelskisecurity.com/2018/10/23/build-your-own-hardware-implant/
+Description: Build Your Own Hardware Implant.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?01b7bb45449d117d#0Jm7t6FiImDJeVEOHuILXHUAzJSSGyksWfrZNbRFoQU=
