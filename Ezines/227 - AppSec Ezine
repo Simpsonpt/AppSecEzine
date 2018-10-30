@@ -74,6 +74,7 @@ URL: http://10degres.net/testing-flash-swf/
 Description: Find vulnerabilities in Flash SWF.
 
 URL: https://codewhitesec.blogspot.com/2018/06/cve-2018-0624.html
+PoC: https://github.com/realsanjay/UnmarshalPwn
 Description: Marshalling to SYSTEM - An analysis of CVE-2018-0824.
 
 URL: https://www.sxcurity.pro/advanced-cors-techniques/
