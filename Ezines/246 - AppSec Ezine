@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 44 | Month: November | Year: 2018 | Release Date: 02/11/2018 | Edition: #246 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2qnqbnO (+)
+Description: Journey through Google referer leakage bugs (KISS).
+
+URL: http://bit.ly/2QcNf46 (+)
+Description: How I hacked Anda, the public transportation app of Porto (CVE-2018-13342).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/CalebFenton/simplify
+Description: Generic Android Deobfuscator.
+
+URL: https://github.com/OsandaMalith/PESecInfo
+More: http://bit.ly/2yLa2x7 (+)
+Description: A Simple Tool to Manipulate ASLR and DEP Flags.
+
+URL: https://bitrot.sh/post/01-16-2018-password_spraying_adfs_with_burp/
+Related: http://bit.ly/2AGiI9r (+)
+Description: Password Spraying ADFS with Burp.
+
+URL: https://github.com/Rev3rseSecurity/WebMap
+Description: Nmap Web Dashboard and Reporting.
+
+URL: https://github.com/AMOSSYS/MemITM/
+Description: Tool to make in memory man in the middle.
+
+URL: https://github.com/ninoseki/mitaka
+Description: OSINT friendly IOC (Indicator of Compromise) search tool.
+
+URL: https://github.com/anthemtotheego/SharpCradle
+Description: Tool designed to help execute .NET binaries into memory.
+
+URL: https://github.com/singe/hashcat-brain
+Description: A docker container for running the hashcat brain server.
+
+URL: https://github.com/ecx86/tcpbin
+Description: Very crude and poorly written HTTP(s) and SMTP bin.
+
+URL: http://bit.ly/2DjQT9m (+)
+Description: How to bypass AMSI and execute ANY malicious Powershell code.
+
+URL: https://github.com/salesforce/hassh
+Description: Network fingerprinting standard to identify SHH Clients and Servers.
+
+URL: https://github.com/TunisianEagles/winspy
+Description: Windows reverse shell Backdoor creator with an Automatic IP Poisener.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://acru3l.github.io/2018/10/20/ropping-through-shady-corners/
+Description: ROPping through shady corners.
+
+URL: https://jerrygamblin.com/2018/10/29/google-home-insecurity/
+Description: Google Home (in)Security.
+
+URL: https://www.unix-ninja.com/p/attacking_google_authenticator
+Description: Attacking Google Authenticator.
+
+URL: https://www.securepatterns.com/2018/10/cve-2018-14665-xorg-x-server.html
+More: http://bit.ly/2PBYrKk (+) | http://bit.ly/2qvmn4h (+)
+Description: Xorg X Server Vulnerabilities (CVE-2018-14665).
+
+URL: https://blog.quarkslab.com/playing-with-the-windows-notification-facility-wnf.html
+More: https://github.com/ustayready/CasperStager
+Description: Playing with the Windows Notification Facility (WNF).
+
+URL: https://sandboxescaper.blogspot.com/2018/10/reversing-alpc-where-are-your-windows.html
+Description: Reversing ALPC - Where are your windows bugs and sandbox escapes?
+
+URL: https://rhaidiz.net/2018/10/25/dribble-stealing-wifi-password-via-browsers-cache-poisoning
+Description: Project Dribble - Hacking Wi-Fi with cached JavaScript.
+
+URL: https://lgtm.com/blog/apple_xnu_icmp_error_CVE-2018-4407
+Description: Kernel RCE - Buffer overflow in Apple's ICMP packet-handling code (CVE-2018-4407).
+
+URL: http://bit.ly/2zkcxpG (+)
+Description: Unauthenticated Out-of-Band XML External Entity (OOB-XXE) in a Help Desk Software.
+
+URL: http://bit.ly/2Jx7RBw (+)
+PoC: https://github.com/tamirzb/CVE-2018-9411
+Description: Critical vulnerability in multiple high-privileged Android services (CVE-2018-9411).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/ChrisKnott/Algojammer
+Description: An experimental code editor for writing algorithms.
+
+URL: https://github.com/yandexdataschool/nlp_course
+Description: Yandex Data School - Course in Natural Language Processing.
+
+URL: http://bit.ly/2ETzzKg (+)
+Description: How Mitnick hacked Tsutomu Shimomura with an IP sequence attack.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?7d1aab45b12c4133#ypKW18d6n0ZoWOT21n1ppo6rivLGj/26+sQsuYlOMQY=
