@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 45 | Month: November | Year: 2018 | Release Date: 09/11/2018 | Edition: #247 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://mango.pdf.zone/stealing-chrome-cookies-without-a-password
+Description: Stealing Chrome cookies without a password.
+
+URL: https://hackerone.com/reports/303730
+Description: Defacement of catalog.data.gov via web cache poisoning to stored DOMXSS.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/joxeankoret/pigaios
+Description: A tool for diffing source codes directly against binaries.
+
+URL: https://github.com/TheSecondSun/Shellab
+Description: Linux and Windows shellcode development/enrichment utility.
+
+URL: https://github.com/lcashdol/Exploits/tree/master/CVE-2018-9206
+More: https://github.com/gunnerstahl/JQShell
+Description: Unauth file upload issue in Blueimp jQuery-File-Upload (CVE-2018-9206).
+
+URL: https://github.com/MrSqar-ye/Door404
+Description: PHP Backdoor For Web Servers.
+
+URL: https://github.com/OALabs/frida-wshook
+Description: Script analysis tool based on Frida.re.
+
+URL: https://github.com/ReneLergner/WPinternals
+Description: Source-code of Windows Phone Internals.
+
+URL: https://github.com/dcsync/pycobalt
+Description: PyCobalt is a Python API for Cobalt Strike.
+
+URL: https://github.com/Hypnoze57/FShell
+Description: Tool designed to get an interactive tty using RCE via a stageless protocol.
+
+URL: https://github.com/bbbrumley/portsmash
+More: https://seclists.org/oss-sec/2018/q4/123
+Description: Side-channel vuln on SMT/Hyper-Threading architectures (CVE-2018-5407).
+
+URL: https://serializethoughts.com/2018/10/07/bypassing-android-flag_secure-using-frida/
+Description: Bypassing Android FLAG_SECURE using FRIDA.
+
+URL: https://github.com/deepzec/Win-PortFwd
+Description: Powershell script to setup windows port forwarding using native netsh client.
+
+URL: https://github.com/quentinhardy/jndiat
+Description: Test the security of Weblogic servers through T3 protocol - JNDI Attacking Tool.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://danshumway.com/blog/gamasutra-vulnerabilities/
+Description: Disclosing Multiple Gamasutra Vulnerabilities.
+
+URL: https://habr.com/post/429004/
+PoC: https://github.com/MorteNoir1/virtualbox_e1000_0day
+Description: VirtualBox 0day Escape Vulnerability.
+
+URL: https://wbenny.github.io/2018/11/04/wow64-internals.html
+Description: WoW64 internals ...re-discovering Heaven's Gate on ARM.
+
+URL: https://blog.xpnsec.com/rundll32-your-dotnet/
+Description: RunDLL32 your .NET (AKA DLL exports from .NET).
+
+URL: http://bit.ly/2QoKsol (+)
+Description: An anti-sandbox/anti-reversing trick using the GetClipboardOwner API.
+
+URL: http://bit.ly/2ROJSRt (+)
+Description: Oracle WebLogic RCE Deserialization Vulns (CVE-2018-3252/CVE-2018-3245).
+
+URL: https://www.tarlogic.com/en/blog/red-team-tales-0x02-from-sqli-to-domain-admin/
+Description: Red Team Tales 0x02 - From SQLi to Domain Admin.
+
+URL: https://paper.seebug.org/737/
+Description: Evernote For Windows Read Local File and Command Execute Vulnerabilities.
+
+URL: https://lgtm.com/blog/icecast_snprintf_CVE-2018-18820
+Description: The problem with snprintf - A vulnerability in Icecast (CVE-2018-18820).
+
+URL: https://poppopret.blogspot.com/2011/09/playing-with-mof-files-on-windows-for.html
+Description: Playing with MOF files on Windows, for fun & profit (MS10-061).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/jenssegers/imagehash/
+Description: Perceptual image hashing for PHP.
+
+URL: https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/
+Description: Debugging an evil Go runtime bug.
+
+URL: https://github.com/vergeml/vergeml
+Description: Environment for exploring, training and running Machine Learning models. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?95e94bda49346df8#dttqQiZm48BBbIB/v40F/DJZJ0lOj6qloOVkwrwmWu0=
