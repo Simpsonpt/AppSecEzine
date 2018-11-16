@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 46 | Month: November | Year: 2018 | Release Date: 16/11/2018 | Edition: #248 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500/
+Description: Clickjacking on Google MyAccount Worth 7,500$.
+
+URL: https://xlab.tencent.com/en/2018/11/13/cve-2018-4277/
+Description: Spoof All Domains Containing 'd' in Apple Products (CVE-2018-4277).
+
+URL: https://medium.com/@mrnikhilsri/oob-xxe-in-prizmdoc-cve-2018-15805-dfb1e474345c
+Description: OOB XXE in PrizmDoc (CVE-2018–15805).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/honorarybot/PulseDbg
+Description: Hypervisor-based debugger.
+
+URL: https://github.com/genuinetools/amicontained
+Description: Container introspection tool.
+
+URL: https://github.com/s0md3v/Arjun
+Description: Arjun is a HTTP parameter discovery suite.
+
+URL: https://github.com/tamirzb/CVE-2018-9539/
+Description: Android Media framework UaF PoC (CVE-2018-9539).
+
+URL: https://github.com/sdnewhop/sdwan-infiltrator
+Description: NSE script to automatically discover SD-WAN nodes.
+
+URL: https://github.com/aatlasis/Chiron
+Description: Chiron - An IPv6 Security Assessment framework.
+
+URL: https://strm.sh/post/abusing-insecure-docker-deployments/
+Description: Abusing insecure docker deployments.
+
+URL: https://github.com/droberson/ssh-honeypot
+Description: Fake sshd that logs ip addresses, usernames, and passwords.
+
+URL: https://github.com/RhinoSecurityLabs/Swagger-EZ
+Blog: http://bit.ly/2B8XAJl (+)
+Description: A tool geared towards pentesting APIs using OpenAPI definitions.
+
+URL: https://github.com/hacksysteam/WpadEscape
+Description: Sandbox escape using WinHTTP Web Proxy Auto-Discovery Service.
+
+URL: https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/
+Description: Domain hacks with unusual Unicode characters.
+
+URL: https://github.com/SpiderLabs/Firework/
+Description: Tool to interact w/ MS Workplaces and create files for the provisioning proc.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.xyz.is/2018/enso.html
+Description: Ensō - A PS Vita bootloader exploit.
+
+URL: https://ibm.co/2FqIXoO (+)
+Description: How to Use Passive DNS to Inform Your Incident Response.
+
+URL: http://blogs.360.cn/post/VBScript_vul_EN.html
+Description: A Missed 0day? - Reveal another Cyber Arsenal of APT-C-06.
+
+URL: https://security-bits.de/posts/2018/11/11/exposed_sonos_interface.html
+Description: Exposed Sonos Webinterface (1400/TCP).
+
+URL: https://wwws.nightwatchcybersecurity.com/2018/11/11/cve-2018-15835/
+Description: Android Sensitive Data Exposure via Battery Info. Broadcasts (CVE-2018-15835).
+
+URL: https://www.ixiacom.com/company/blog/trinity-p2p-malware-over-adb
+Description: Trinity - P2P Malware Over ADB.
+
+URL: https://maxkersten.nl/binary-analysis-course/malware-analysis/dot-net-rat/
+Description: Dot Net RAT.
+
+URL: https://medium.com/tenable-techblog/uac-bypass-by-mocking-trusted-directories-24a96675f6e
+PoC: https://github.com/tenable/poc/tree/master/UACBypass
+Description: UAC Bypass by Mocking Trusted Directories.
+
+URL: http://bit.ly/2RWjjtj (+)
+Description: Executing Commands and Bypassing AppLocker with PS Diagnostic Scripts.
+
+URL: https://medium.com/@mattharr0ey/lateral-movement-using-url-protocol-e6f7d2d6cf2e
+Description: Lateral movement using URL Protocol.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/hannob/tls-what-can-go-wrong
+Description: TLS - What can go wrong?
+
+URL: https://github.com/maxmcd/webtty
+Description: Share a terminal session over WebRTC.
+
+URL: https://twobithistory.org/2018/11/12/cat.html
+Description: The Source History of Cat.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?ceaa06ff50ed585e#GFVMlLTCyB26JSonL/aCTzeTnn+Xkciz01dQCVFYpYY=
