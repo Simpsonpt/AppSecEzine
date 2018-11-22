@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 47 | Month: November | Year: 2018 | Release Date: 23/11/2018 | Edition: #249 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2DSeKgK (+)
+Description: XS-Searching Google's bug tracker to find out vulnerable source code.
+
+URL: http://bit.ly/2R6zbcG (+)
+Description: "How I hacked Google's bug tracking system itself for $15,600 in bounties." 
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/iddoeldor/frida-snippets
+Description: Hand-crafted Frida examples.
+
+URL: https://github.com/ptresearch/IntelTXE-PoC
+Description: Intel Management Engine JTAG Proof of Concept.
+
+URL: https://out-of-tree.io/
+Slides: http://bit.ly/2qZ3kiP (+)
+Description: Out-of-tree kernel {module, exploit} development tool.
+
+URL: https://diary.shift-js.info/js-comment-block/
+Description: Bypassing JavaScript Deobfuscator by Using *Comments*.
+
+URL: https://github.com/pwn20wndstuff/Osiris
+Description: Osiris developer jailbreak for iOS 11.0 - 11.4b3.
+
+URL: https://github.com/cornelinux/yubikey-luks
+Related: https://github.com/agherzan/yubikey-full-disk-encryption
+Description: Yubikey for LUKS.
+
+URL: https://github.com/j3ssie/Osmedeus
+Description: Automatic Reconnaisance and Scanning in Penetration Testing.
+
+URL: https://github.com/Bo0oM/PHP_imap_open_exploit
+Related: https://antichat.com/threads/463395/#post-4254681
+Description: Bypassing disabled exec functions in PHP via imap_open.
+
+URL: https://ionize.com.au/multiple-transports-in-a-meterpreter-payload/
+Description: Multiple Transports in a Meterpreter Payload.
+
+URL: https://www.hahwul.com/2018/11/waf-bypass-xss-payload-only-hangul.html
+Description: WAF Bypass XSS Payload Only Hangul.
+
+URL: https://github.com/airbus-seclab/android_emuroot
+Description: Script to grant root privileges to Google API Playstore emulator shells.
+
+URL: https://github.com/TarlogicSecurity/SaSSHimi
+Blog: https://www.tarlogic.com/en/blog/sasshimi-evading-allowtcpforwarding/
+Description: SSH Tunneling in "RAW mode" via STDIN/OUT - evading AllowTcpForwarding.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://justi.cz/security/2018/11/14/gvisor-lpe.html
+Description: Privilege Escalation in gVisor, Google's Container Sandbox.
+
+URL: https://tinyhack.com/2018/11/21/reverse-engineering-pokemon-go-plus/
+Description: Reverse Engineering Pokémon GO Plus.
+
+URL: https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/
+Description: Restricted Linux Shell Escaping Techniques.
+
+URL: http://bit.ly/2zn0f0F (+)
+PoC: https://github.com/ttffdd/XBadManners
+Description: Yet another memory leak in ImageMagick or how to exploit CVE-2018–16323.
+
+URL: http://bit.ly/2DCUGy1 (+)
+Description: Symmetric Encryption with AES in Java and Android.
+
+URL: https://www.elttam.com.au/blog/ruby-deserialization/
+Description: Ruby 2.x Universal RCE Deserialization Gadget Chain.
+
+URL: http://bit.ly/2DTokQm (+)
+Description: Escaping from Mozilla Firefox in Restricted Environments.
+
+URL: https://blog.cotten.io/hacking-gmail-with-weird-from-fields-d6494254722f
+Description: Hacking Gmail's UX With From Fields.
+
+URL: https://menschers.com/2018/10/30/what-is-cve-2018-8493/
+Description: Exploiting Windows' IP ID Randomization to Leak Kernel Data (CVE-2018-8493).
+
+URL: https://wojciechregula.blog/your-signal-messages-can-leak-via-locked-screen-on-macos/
+Description: Your Signal messages can leak via locked screen on macOS.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://signedmalware.org/
+Description: Signed Malware.
+
+URL: https://nginxconfig.io/
+Description: NGiИX configuration generator.
+
+URL: https://medium.com/@copyconstruct/socat-29453e9fc8a6
+Description: Socat primer.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?dc593c9192422bfd#F3cbAFeEFmUKIxPESFfJ6fNXC/7xoMyD6vzdFpg5nVw=
