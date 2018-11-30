@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 48 | Month: November | Year: 2018 | Release Date: 30/11/2018 | Edition: #250 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://slashcrypto.org/2018/11/28/eBay-source-code-leak/
+Description: Pwning eBay - How I Dumped eBay Japan's Website Source Code.
+
+URL: https://www.ory.sh/sign-in-with-user-impersonation-oauth2-openid-connect
+Description: Impersonating users by abusing broken “Sign in with” implementations.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/0xR0/shellver
+Description: Reverse Shell Cheat Sheet Tool.
+
+URL: https://github.com/wagoodman/dive
+Description: A tool for exploring each layer in a docker image.
+
+URL: https://github.com/ViDA-NYU/ache
+Description: ACHE is a web crawler for domain-specific search. 
+
+URL: https://github.com/cisco-config-analysis-tool/ccat
+Description: Cisco Config Analysis Tool.
+
+URL: https://github.com/xillwillx/skiptracer
+Description: OSINT python webscaping framework.
+
+URL: https://github.com/Chainfire/librootjava
+Description: Run Java (and Kotlin) code as root!
+
+URL: https://github.com/regit/pshitt
+Description: Passwords of SSH Intruders Transferred to Text.
+
+URL: https://github.com/woanware/bgp-watcher
+Description: Prototype system to monitor BGP routes and alert anomalies.
+
+URL: https://github.com/fox-it/dissect.cstruct
+Description: A no-nonsense c-like structure parsing library for Python.
+
+URL: https://medium.com/@Bank_Security/undetectable-c-c-reverse-shells-fab4c0ec4f15
+Description: Undetectable C# & C++ Reverse Shells.
+
+URL: https://github.com/TunisianEagles/Androspy
+Description: Framework to Backdoor Crypter & Creator with Automatic IP Poisener.
+
+URL: https://medium.com/@petergombos/smb-named-pipe-pivoting-in-meterpreter-462580fd41c5
+Description: SMB Named Pipe Pivoting in Meterpreter.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://l.avala.mp/?p=285
+PoC: https://github.com/lavalamp-/ipv666
+Description: IPv666 - Address of the Beast.
+
+URL: https://saleemrashid.com/2018/11/26/breaking-into-bitbox/
+Description: Breaking into the (Digital) BitBox.
+
+URL: http://bit.ly/2RnTVNd (+)
+Description: Xipology (⅓) — Exploiting DNS caching as a carrier.
+
+URL: http://bit.ly/2zzlQmu (+)
+Description: My name is Johann Wolfgang von Goethe – I can prove it.
+
+URL: https://medium.com/@SweetRollBandit/aws-slurp-github-takeover-f8c80b13e7b5
+Description: AWS Slurp Github Takeover.
+
+URL: https://blog.timac.org/2018/1126-deobfuscated-libmobilegestalt-keys-ios-12/
+Description: Deobfuscated libMobileGestalt keys (iOS 12).
+
+URL: http://bit.ly/2rbKlBV (+)
+Description: Local File Inclusion via phpinfo() Exploit (Race Condition) to RCE.
+
+URL: https://github.com/sgayou/subaru_starlink_research/blob/master/doc/README.md
+Description: Jailbreaking Subaru StarLink.
+
+URL: http://bit.ly/2P8u5v1 (+)
+Description: Bypassing Microsoft XOML Workflows Protection Mechanisms w/ Deserialisation.
+
+URL: http://bit.ly/2TPBLWx (+)
+Description: Microsoft Windows win32k.sys - Invalid Pointer Vulnerability (MSRC Case 48212).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://gcemetery.co/
+Description: List of dead Google products.
+
+URL: https://github.com/emvivre/limesdr_toolbox
+Description: Toolbox for the LimeSDR / LimeSDR-Mini.
+
+URL: http://bit.ly/2FXmMGS (+)
+Description: What Happened When I Peeked Into My Node_Modules Directory.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?aa123a36ee5306b2#f+yZAKizA88VzjBIK7kBw7PjTM20+25ENZRk3aX7Hxo=
