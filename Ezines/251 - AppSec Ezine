@@ -56,7 +56,7 @@ Blog: https://blog.ice9.us/2018/12/uberducky-ble-wireless-usb-rubber-ducky.html
 Description: Uberducky - a wireless USB Rubber Ducky triggered via BLE.
 
 URL: https://github.com/gravitational/cve-2018-1002105
-More: http://bit.ly/2EiNqsp (+)
+More: http://bit.ly/2EiNqsp (+) | https://github.com/evict/poc_CVE-2018-1002105
 Description: PoC for Kubernetes apiserver vulnerability (CVE-2018-1002105).
 
 URL: https://github.com/byt3bl33d3r/OffensiveDLR
