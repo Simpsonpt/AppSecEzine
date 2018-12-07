@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 49 | Month: December | Year: 2018 | Release Date: 07/13/2018 | Edition: #251 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://pwning.re/2018/12/04/github-desktop-rce/
+Description: GitHub Desktop RCE (OSX).
+
+URL: https://medium.com/@r0t1v/pwning-jboss-seam-2-like-a-boss-da5a43da6998
+Description: Pwning JBoss Seam 2 like a boss.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Bo0oM/WAF-bypass-Cheat-Sheet
+Description: WAF/IPS/DLP bypass Cheat Sheet.
+
+URL: https://github.com/radenvodka/PENTOL
+Description: PENTOL - Pentester Toolkit for Fiddler2.
+
+URL: https://github.com/prsecurity/CVE-2018-15982
+Description: Flash use-after-free flaw (CVE-2018-15982).
+
+URL: https://secrary.com/Random/injectionwithoutinjection/
+Description: 'Injection' Without Injection.
+
+URL: https://github.com/TarlogicSecurity/Arecibo
+More: http://bit.ly/2Qig1nQ (+) | http://bit.ly/2AVZRGn (+)
+Description: Endpoint for Out-of-Band Exfiltration (DNS & HTTP).
+
+URL: https://www.justinoblak.com/2018/12/02/Smashing-AFL.html
+Description: Smashing American Fuzzy Lop with Hack the Box.
+
+URL: https://github.com/bitsadmin/nopowershell
+Description: PowerShell rebuilt in C# for Red Teaming purposes.
+
+URL: https://github.com/jofpin/trape
+Description: People tracker on the Internet - OSINT analysis and research tool.
+
+URL: https://github.com/mikeryan/uberducky
+Blog: https://blog.ice9.us/2018/12/uberducky-ble-wireless-usb-rubber-ducky.html
+Description: Uberducky - a wireless USB Rubber Ducky triggered via BLE.
+
+URL: https://github.com/gravitational/cve-2018-1002105
+More: http://bit.ly/2EiNqsp (+)
+Description: PoC for Kubernetes apiserver vulnerability (CVE-2018-1002105).
+
+URL: https://github.com/byt3bl33d3r/OffensiveDLR
+Description: Toolbox containing research notes & PoC for weaponizing .NET's DLR.
+
+URL: https://github.com/smgorelik/Windows-RCE-exploits
+Description: Exploit samples DB is a repository for RCE exploits and PoCs for Windows.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://dylankatz.com/digging-in-to-scp-command-injection/
+Description: Digging in to SCP Command Injection.
+
+URL: https://blog.intothesymmetry.com/2018/12/billion-laugh-attack-in.html
+Description: Billion Laugh Attack in https://sites.google.com.
+
+URL: http://bit.ly/2zJXw1o (+)
+Description: Exploiting developer infrastructure is insanely easy.
+
+URL: https://geosn0w.github.io/Debugging-macOS-Kernel-For-Fun/
+Description: Debugging macOS Kernel For Fun.
+
+URL: https://secureidentity.se/delete-domain-admin-accounts/
+Description: What is required to delete Domain Admin accounts?
+
+URL: https://salmg.net/2018/12/01/intro-to-nfc-payment-relay-attacks/
+Description: Intro to NFC Payment Relay Attacks.
+
+URL: http://bit.ly/2SARmI9 (+)
+Description: Authentication bypass in NodeJS application — a bug bounty story.
+
+URL: https://medium.com/tenable-techblog/remotely-exploiting-zoom-meetings-5a811342ba1d
+Description: Remotely Hijacking Zoom Clients (CVE-2018–15715).
+
+URL: https://modexp.wordpress.com/2018/10/30/arm64-assembly/
+Description: A Guide to ARM64/AArch64 Assembly on Linux with Shellcodes and Cryptography.
+
+URL: https://www.voidsecurity.in/2018/11/virtualbox-nat-dhcpbootp-server.html
+PoC: https://github.com/renorobert/virtualbox-nat-dhcp-bugs
+Description: VirtualBox NAT DHCP/BOOTP server vulnerabilities (CVE-2016-5610/CVE-2016-5611).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://gist.github.com/grugq/03167bed45e774551155
+Description: Operational PGP.
+
+URL: http://bit.ly/2KYmIpj (+)
+Description: ꓘamerka — Build interactive map of cameras from Shodan.
+
+URL: https://jamchamb.github.io/2018/12/03/gamecube-memory-card-raspi.html
+Description: Making a GameCube memory card editor with Raspberry Pi.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?81ff5475f718c4e2#JYmfm1jYuHaBmyTH2a+lkvF9fxFHIg3fY64eyPDneOA=
