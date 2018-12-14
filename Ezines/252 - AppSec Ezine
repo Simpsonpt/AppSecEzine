@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 50 | Month: December | Year: 2018 | Release Date: 14/12/2018 | Edition: #252 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.honoki.net/2018/12/from-blind-xxe-to-root-level-file-read-access/
+Description: From blind XXE to root-level file read access.
+
+URL: https://www.betterhacker.com/2018/12/rce-in-hubspot-with-el-injection-in-hubl.html
+Description: RCE in Hubspot with EL injection in HubL.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ufrisk/MemProcFS
+Description: The Memory Process File System.
+
+URL: https://github.com/zigoo0/JSONBee
+Description: A ready to use JSONP endpoints to help bypass CSP of different websites.
+
+URL: https://github.com/olafhartong/ThreatHunting
+Description: A Splunk app mapped to MITRE ATT&CK to guide your threat hunts.
+
+URL: https://github.com/zaproxy/zap-hud
+Blog: https://segment.com/blog/hacking-with-a-heads-up-display/
+Description: Interface that provides the functionality of ZAP directly in the browser.
+
+URL: https://github.com/DenizParlak/hayat
+Description: Google Cloud Platform ~ Auditing & Hardening Script.
+
+URL: https://landgrey.me/influxdb-api-unauthorized-exploit/
+Description: InfluxDB API Unauthorized Access Vulnerability.
+
+URL: https://github.com/OSSIndex/DevAudit
+Description: Open-source, cross-platform, multi-purpose security auditing tool.
+
+URL: https://github.com/Ullaakut/cameradar
+Description: Cameradar hacks its way into RTSP videosurveillance cameras.
+
+URL: https://ardern.io/2018/12/07/angularjs-bxss/
+Description: Blind XSS AngularJS Payloads.
+
+URL: https://github.com/SadProcessor/EmpireDog
+Description: A collection of PowerShell Modules for BloodHound/Empire Orchestration.
+
+URL: https://github.com/threatexpress/domainhunter
+Description: Checks expired domains for categorization/reputation and Archive.org history.
+
+URL: https://github.com/r3dxpl0it/Apache-Superset-Remote-Code-Execution-PoC-CVE-2018-8021
+Description: Apache Superset pickle library code execution (CVE-2018-8021).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.corben.io/XSS-to-XXE-in-Prince/
+Description: XSS to XXE in Prince v10 and below (CVE-2018-19858).
+
+URL: http://bit.ly/2RW53kT (+)
+Description: RCE in PHP or how to bypass disable_functions in PHP (CVE-2018–19518).
+
+URL: https://medium.com/@SecurityBender/exploiting-a-hql-injection-895f93d06718
+Description: Exploiting a HQL injection.
+
+URL: https://cyber.wtf/2018/03/28/dissecting-olympic-destroyer-a-walk-through/
+Description: Dissecting Olympic Destroyer (Malware) – a walk-through.
+
+URL: https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob
+Description: JSON hijacking - "State of Nation".
+
+URL: http://bit.ly/2EutRx7 (+)
+Description: Windows Event Log to the Dark Side — Storing Payloads and Configurations.
+
+URL: https://www.fidusinfosec.com/remote-code-execution-cve-2018-5767/
+Description: Remote Code Execution (CVE-2018-5767) Walkthrough on Tenda AC15 Router.
+
+URL: https://blog.intothesymmetry.com/2018/12/persistent-xsrf-on-kubernetes-dashboard.html
+Description: XSRF on Kubernetes Dashboard using Redhat Keycloak Gatekeeper on MS Azure.
+
+URL: https://medium.com/javascript-security/avoiding-xss-in-react-is-still-hard-d2b5c7ad9412
+Description: Avoiding XSS in React is Still Hard.
+
+URL: https://www.cybereason.com/blog/fauxpersky-credstealer-malware-autohotkey-kaspersky-antivirus
+Description: Malware written in AutoHotKey masquerades as Kaspersky AV spreading via USB drives.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/rfjakob/earlyoom
+Description: Early OOM Daemon for Linux.
+
+URL: http://fabiensanglard.net/dreamcast_hacking/
+Description: How the Dreamcast copy protection was defeated.
+
+URL: https://www.reaperbugs.com/index
+Description: This website allows you to crash or freeze your browser.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?0d324a3813807e68#DwF611QiBeoLmK/cF5sNnVJc7GFg1XPjISA0BtQF/Tk=
