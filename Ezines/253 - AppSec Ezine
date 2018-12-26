@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 51 | Month: December | Year: 2018 | Release Date: 21/12/2018 | Edition: #253 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/
+Description: Exploiting XXE with local DTD files.
+
+URL: https://blog.avatao.com/How-I-could-steal-your-photos-from-Google/
+Description: How I could have stolen your photos from Google.
+
+URL: https://hackerone.com/reports/426944
+Description: Linux privilege escalation via trusted $PATH in keybase-redirector.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://bit.ly/2Rd09mc (+)
+Description: Recovering Plaintext Domain Credentials from WPA2 Enterprise.
+
+URL: https://github.com/9176324/Shark
+Description: Turn off PatchGuard in real time for win7 (7600) ~ win10 (17763). 
+
+URL: https://medium.com/@jamie.shaw/pass-the-cache-to-domain-compromise-320b6e2ff7da
+Description: Pass-the-Cache to Domain Compromise.
+
+URL: https://www.joachim-bauch.de/tutorials/loading-a-dll-from-memory/
+Description: Loading a DLL from memory without storing it on the hard-disk first.
+
+URL: https://github.com/jpiechowka/zip-shotgun
+Description: Utility script to test zip file upload functionality.
+
+URL: https://github.com/sethsec/celerystalk
+Description: An asynchronous enumeration & vulnerability scanner.
+
+URL: https://blog.cm2.pw/length-restricted-xss/
+Description: XSS with length restriction.
+
+URL: https://github.com/OALabs/frida-extract
+Description: Frida.re based RunPE (and MapViewOfSection) extraction tool.
+
+URL: https://github.com/invictus1306/beebug
+Description: A tool for checking exploitability.
+
+URL: https://github.com/infosecn1nja/AD-Attack-Defense/
+Description: Active Directory Kill Chain Attack & Defense.
+
+URL: https://github.com/spencerdodd/kernelpop
+Description: kernel privilege escalation enumeration and exploitation framework.
+
+URL: https://github.com/Warflop/CloudBunny
+Description: Tool to capture the origin server that uses a WAF as a proxy/protection.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2Rf4FAG (+)
+Description: Übersicht Remote Code Execution, Spotify takeover.
+
+URL: https://bnbdr.github.io/posts/swisscheese/
+More: https://bnbdr.github.io/posts/extracheese/
+Description: YARA Internals - Compiled Rule Format and Bytecode.
+
+URL: https://blog.sektor7.net/#!res/2018/pure-in-memory-linux.md
+Description: Pure In-Memory (Shell)Code Injection In Linux Userland.
+
+URL: https://samcurry.net/reading-asp-secrets-for-17000/
+Description: Reading ASP secrets for $17,000.
+
+URL: http://bit.ly/2PMOBl7 (+)
+Description: WebAuthn/FIDO2 - Verifying Android KeyStore Attestation.
+
+URL: https://bordplate.no/blog/en/post/interactive-rop-tutorial/
+Description: Interactive Beginner's Guide to ROP.
+
+URL: http://bit.ly/2S8mfU9 (+)
+Description: Hidden directories and files as a source of sensitive information.
+
+URL: http://blog.digital-forensics.it/2017/04/brush-up-on-dropbox-dbx-decryption.html
+Description: Brush up on Dropbox DBX decryption.
+
+URL: http://bit.ly/2LrTRKk (+)
+Description: NoMachine - The Road To Code Execution Without Fuzzing (CVE-2018-6947).
+
+URL: https://security.szurek.pl/kallithea-0-3-4-incorrect-access-control-and-xss.html
+Description: Kallithea <= 0.3.4 Incorrect access control and XSS.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/antscode/MacPlayer
+More: http://bit.ly/2A3lg0L (+)
+Description: A Spotify Connect client for 68k Macs.
+
+URL: https://github.com/a13xp0p0v/linux-kernel-defence-map
+Description: Linux Kernel Defence Map.
+
+URL: https://smallstep.com/blog/everything-pki.html
+Description: Everything you should know about certificates and PKI.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?a24061db418a3bf8#zQdRUdhz4MZrJg3qiDRxs5PNRyFaB9ybcWq5lI027yI=
