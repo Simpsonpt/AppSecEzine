@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 52 | Month: December | Year: 2018 | Release Date: 28/12/2018 | Edition: #254 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://leucosite.com/WebExtension-Security/
+More: https://leucosite.com/WebExtension-Security-Part-2/
+Description: WebExtension Security .
+
+URL: http://bit.ly/2SmvFf6 (+)
+Description: How I accidentally found a clickjacking "feature" in Facebook.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/fbkcs/ThunderDNS
+Description: Tool to forward TCP traffic over DNS protocol.
+
+URL: https://github.com/atmoner/Ustealer
+Description: Ubuntu stealer, steal ubuntu information in local PC.
+
+URL: https://jtnydv.xyz/2018/12/24/basic-xpath-injection/
+Description: Basic XPath Injection.
+
+URL: https://github.com/WyAtu/CVE-2018-8581/
+Description: MS Exchange Server Elevation of Privilege Vulnerability (CVE-2018-8581).
+
+URL: https://no1zy.hatenablog.com/entry/static-analysis-of-javascript-for-bughunters
+Description: Static analysis of client side JavaScript for Bug Hunters.
+
+URL: https://github.com/dreadl0ck/netcap
+Description: A framework for secure and scalable network traffic analysis.
+
+URL: https://github.com/mkorman90/sysmon-config-bypass-finder
+Description: Sysmon configuration bypass finder.
+
+URL: https://github.com/palkeo/pakala
+Description: Symbolic execution tool and vulnerability scanner for the Ethereum VM.
+
+URL: https://github.com/iGio90/Dwarf
+Description: Debugger for android reverse engineers and crackers. 
+
+URL: https://github.com/gosecure/pyrdp
+Blog: https://gosecure.net/2018/12/19/rdp-man-in-the-middle-smile-youre-on-camera/
+Description: Remote Desktop Protocol (RDP) Man-in-the-Middle (MITM) and library.
+
+URL: https://github.com/NickstaDB/SerializationDumper
+Description: A tool to dump Java serialization streams in a more human readable form.
+
+URL: https://github.com/securemode/Get-DefenderExcludes
+Description: PowerShell script to extract any exclusions configured for Windows Defender.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.ropnop.com/serverless-toolkit-for-pentesters/
+Description: Serverless Toolkit for Pentesters.
+
+URL: https://0xrick.github.io/BinaryExploitation-BOF/
+Description: Binary Exploitation - Buffer Overflow Explained in Detail.
+
+URL: http://bit.ly/2Q7lnNO (+)
+Description: Improper CSRF token handling leads to site-wide CSRF issue.
+
+URL: https://blog.cm2.pw/ms-edge-http-access-control-cors-bypass/
+Description: MS Edge – HTTP Access Control (CORS) Bypass (CVE-2017-11872).
+
+URL: http://bit.ly/2SoL9iP (+)
+Description: Cisco Webex Desktop App Update Service DLL Planting EoP (CVE-2018-15442).
+
+URL: https://blog.certfa.com/posts/the-return-of-the-charming-kitten/
+Description: A review of the latest wave of organized phishing attacks.
+
+URL: http://bit.ly/2Q8Lzbb (+)
+Description: IDORs over Fortify Software Security Center (CVE-2018-7690/CVE-2018-7691).
+
+URL: https://blog.k3170makan.com/2018/11/glibc-heap-exploitation-basics.html
+Description: Glibc Heap Exploitation Basics - Introduction to ptmalloc2 internals.
+
+URL: https://blog.erratasec.com/2018/10/systemd-is-bad-parsing-and-should-feel.html
+More: https://bugs.launchpad.net/ubuntu/+source/systemd/+bug/1795921
+Description: Systemd is bad parsing and should feel bad (CVE-2018-15688).
+
+URL: https://mksben.l0.cm/2018/05/cve-2018-5175-firefox-csp-strict-dynamic-bypass.html
+Description: Universal CSP strict-dynamic bypass in Firefox (CVE-2018-5175).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.ipify.org/
+Description: A Simple IP Address API.
+
+URL: https://github.com/corkami/pocs/tree/master/collisions
+Description: Hash collisions exploitation for MD5 and SHA1.
+
+URL: https://github.com/sfzhang15/FaceBoxes
+Description: A CPU Real-time Face Detector with High Accuracy.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?4c30eab92714e56e#f4dERqG7P296RzDC20/2S4HPldDdKG82vXDlJTMl7bY=
