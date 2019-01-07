@@ -88,6 +88,7 @@ URL: http://bit.ly/2QoKsol (+)
 Description: An anti-sandbox/anti-reversing trick using the GetClipboardOwner API.
 
 URL: http://bit.ly/2ROJSRt (+)
+PoC: https://github.com/pyn3rd/CVE-2018-3252
 Description: Oracle WebLogic RCE Deserialization Vulns (CVE-2018-3252/CVE-2018-3245).
 
 URL: https://www.tarlogic.com/en/blog/red-team-tales-0x02-from-sqli-to-domain-admin/
