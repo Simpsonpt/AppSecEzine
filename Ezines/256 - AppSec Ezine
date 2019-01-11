@@ -27,6 +27,7 @@ Description: Open redirects - The vuln class no one but attackers cares about.
 
 
 URL: https://github.com/serain/kubelet-anon-rce
+Blog: https://alex.kaskaso.li/post/kubelet-from-anonymous-to-cluster-admin
 Description: Kubelet Anonymous RCE.
 
 URL: https://github.com/zeromq/libzmq/issues/3351
