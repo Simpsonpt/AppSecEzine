@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 02 | Month: January | Year: 2019 | Release Date: 11/01/2019 | Edition: #256 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/409850
+Description: XSS in Steam react chat client.
+
+URL: http://bit.ly/2RoDTqv (+)
+Description: Open redirects - The vuln class no one but attackers cares about.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/serain/kubelet-anon-rce
+Description: Kubelet Anonymous RCE.
+
+URL: https://github.com/zeromq/libzmq/issues/3351
+Description: ZeroMQ libzmq RCE PoC and Analysis.
+
+URL: https://github.com/0vercl0k/windbg-scripts
+Description: A bunch of JavaScript extensions for WinDbg Preview.
+
+URL: https://github.com/depletionmode/wsIPC
+Description: Working Set Page Cache side-channel IPC PoC.
+
+URL: https://github.com/woj-ciech/LeakLooker
+Blog: http://bit.ly/2TDMaUf (+)
+Description: Find open databases with Shodan.
+
+URL: https://github.com/emtunc/SlackPirate
+Description: Slack Enumeration and Extraction Tool.
+
+URL: https://github.com/drk1wi/Modlishka
+Description: Modlishka - Reverse proxy for phishing NG.
+
+URL: https://github.com/s0uthwest/futurerestore
+Description: iOS upgrade and downgrade tool utilizing SHSH blobs.
+
+URL: http://bit.ly/2AER4JH (+)
+Description: Extracting Activity History from PowerShell Process Dumps.
+
+URL: https://github.com/ncsa/ssh-auditor
+Description: The best way to scan for weak ssh passwords on your network.
+
+URL: https://github.com/phoenhex/files/blob/master/pocs/cve-2018-8629-chakra.js
+Description: Chakra Scripting Engine Memory Corruption Vulnerability (CVE-2018-8629).
+
+URL: https://www.roguesecurity.in/2018/12/02/a-guide-for-windows-penetration-testing/
+Description: A guide for windows penetration testing.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://medium.com/bugbountywriteup/ping-power-icmp-tunnel-31e2abb2aaea
+Description: Ping Power — ICMP Tunnel.
+
+URL: https://wietzebeukema.nl/blog/spoofing-google-search-results
+Description: Spoofing Google Search results.
+
+URL: https://wunderwuzzi23.github.io/blog/passthecookie.html
+Description: Pivot to the Cloud using Pass the Cookie.
+
+URL: https://mn3m.info/posts/suid-vs-capabilities/
+Description: SUID vs Capabilities.
+
+URL: https://niemand.com.ar/2019/01/01/how-to-hook-directx-11-imgui/
+Description: How to Hook DirectX 11 + ImGui (Vermintide 2).
+
+URL: http://bit.ly/2QDF93N (+)
+Description: Evaluating the effectiveness of current anti-ROP defenses.
+
+URL: https://sites.google.com/view/ltefuzz
+Description: Dynamic Security Analysis of the LTE Control Plane.
+
+URL: https://www.veracode.com/blog/research/exploiting-jndi-injections-java
+Description: Exploiting JNDI Injections in Java.
+
+URL: https://tyranidslair.blogspot.com/2018/12/abusing-mount-points-over-smb-protocol.html
+Description: Abusing Mount Points over the SMB Protocol.
+
+URL: https://revers.engineering/syscall-hooking-via-extended-feature-enable-register-efer/
+Description: Syscall Hooking via Extended Feature Enable Register (EFER).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/divan/txqr
+Description: Transfer data via animated QR codes.
+
+URL: https://github.com/guitmz/virii
+Description: Collection of ancient computer virus source codes.
+
+URL: https://ericchiang.github.io/post/containers-from-scratch/
+Description: Containers from Scratch.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?70ab1bd09ebaa87b#7DD6IppcVPJZmpUKrqi5yKNhXW5tsOU+hpFk8Vd1b/s=
