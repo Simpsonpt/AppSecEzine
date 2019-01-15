@@ -52,6 +52,7 @@ URL: https://github.com/palkeo/pakala
 Description: Symbolic execution tool and vulnerability scanner for the Ethereum VM.
 
 URL: https://github.com/iGio90/Dwarf
+Blog: http://www.giovanni-rocca.com/debugging-android-and-ios-like-a-real-gs-with-dwarf-gui/
 Description: Debugger for android reverse engineers and crackers. 
 
 URL: https://github.com/gosecure/pyrdp
