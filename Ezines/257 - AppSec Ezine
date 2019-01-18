@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 03 | Month: January | Year: 2019 | Release Date: 18/01/2019 | Edition: #257 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://research.checkpoint.com/hacking-fortnite/
+Description: Hacking Fortnite Accounts.
+
+URL: http://bit.ly/2RVTUDO (+)
+Description: Gaining access to Uber's user data through AMPScript evaluation.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/fs0c131y/ESFileExplorerOpenPortVuln
+Description: ES File Explorer Open Port Vulnerability (CVE-2019-6447).
+
+URL: https://github.com/Jacquais/BlinkVuln/
+Description: Blink Sync Module Vulnerability (CVE-2018-20161).
+
+URL: https://github.com/Siguza/imobax
+Description: iOS Mobile Backup Extractor.
+
+URL: https://0xdf.gitlab.io/2018/11/02/pwk-notes-tunneling.html
+Description: PWK Notes - Tunneling and Pivoting.
+
+URL: https://github.com/honze-net/nmap-bootstrap-xsl/
+Description: A Nmap XSL implementation with Bootstrap.
+
+URL: https://default-password.info/
+Description: Default passwords list.
+
+URL: https://github.com/aquasecurity/kube-hunter
+Description: Hunt for security weaknesses in Kubernetes clusters.
+
+URL: https://github.com/xerub/empty_list
+Description: iOS 11.3.1 exploit.
+
+URL: https://github.com/GoSecure/malboxes
+Description: Builds malware analysis Windows VMs so that you don't have to.
+
+URL: https://netsec.ws/?p=262
+Description: Converting Metasploit Module to Stand Alone.
+
+URL: https://github.com/0xbug/SQLiScanner
+Description: Automatic SQL injection with Charles and sqlmapapi.
+
+URL: https://github.com/Alex3434/wmi-static-spoofer
+Description: Spoofing the Win10 HDD serialnumber from kernel without hooking.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2APgbtm (+)
+Description: How to write a rootkit without really trying.
+
+URL: http://bit.ly/2FDzxoy (+)
+Description: Try RPC vulnerability mining.
+
+URL: https://niemand.com.ar/2019/01/13/creating-your-own-wallhack/
+Description: Creating your own Wallhack
+
+URL: https://scorpiosoftware.net/2019/01/15/fun-with-appcontainers/
+Description: Fun with AppContainers.
+
+URL: http://bit.ly/2MhbFrV (+)
+Description: How I Hacked Play-with-Docker and Remotely Ran Code on the Host.
+
+URL: https://blogs.cisco.com/security/smb-and-the-return-of-the-worm
+Description: SMB and the return of the worm.
+
+URL: http://bit.ly/2Hig3bq (+)
+Description: Bypassing Crowdstrike Falcon detection, from phishing to reverse shell.
+
+URL: https://blog.benpri.me/2019/01/13/why-you-shouldnt-be-using-bcrypt-and-scrypt/
+Description: Why You Shouldn’t be Using BCrypt and Scrypt.
+
+URL: https://sysdig.com/blog/privilege-escalation-kubernetes-dashboard/
+Description: Privilege escalation through Kubernetes dashboard (CVE-2018-18264).
+
+URL: http://www.greyhathacker.net/?p=1041
+Description: Dokany/Google Drive File Stream Kernel Stack-based BoF (CVE-2018-5410).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://dontkillmyapp.com/
+Description: Don't kill my app!
+
+URL: https://devhints.io/
+Description: Devhints — TL;DR for developer documentation.
+
+URL: https://blog.haschek.at/2018/the-curious-case-of-the-RasPi-in-our-network.html
+Description: The curious case of the Raspberry Pi in the network closet.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?b50e710890cc5536#xJDi9aVuWG/Xj2QoVRBoP7U5cpdTUqLc0yjLkyRM7mY=
