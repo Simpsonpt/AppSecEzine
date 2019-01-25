@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 04 | Month: January | Year: 2019 | Release Date: 25/01/2019 | Edition: #258 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://justi.cz/security/2019/01/22/apt-rce.html
+Description: Remote Code Execution in apt/apt-get.
+
+URL: https://medium.com/tenable-techblog/rooting-nagios-via-outdated-libraries-bb79427172
+Description: Rooting Nagios Via Outdated Libraries.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://bit.ly/2HuSb4y (+)
+Description: IDAPython Cheatsheet.
+
+URL: https://github.com/hannob/apache-uaf/
+Description: Apache use after free bugs.
+
+URL: https://github.com/shenril/Sitadel
+Description: Sitadel - Web Application Security Scanner.
+
+URL: https://medium.com/@int0x33/upload-htaccess-as-image-to-bypass-filters-71dfcf797a86
+Description: Upload .htaccess as image to bypass filters.
+
+URL: https://github.com/docker/docker-bench-security
+Description: Script to check best-practices around deploying Docker containers.
+
+URL: https://www.inputzero.io/2019/01/fuzzing-http-servers.html
+Description: Fuzzing HTTP Server (PDF.js).
+
+URL: https://github.com/SixGenInc/break-free
+Blog: https://www.sixgen.io/single-post/2019/01/22/BreakFree
+Description: Escaping Restricted Environments and Bypassing DLP.
+
+URL: https://github.com/WildByDesign/Privexec
+Description: Less Privileged AppContainer (LPAC) Sandbox Launcher released.
+
+URL: https://github.com/a13xp0p0v/kconfig-hardened-check
+Description: A script for checking the hardening options in the Linux kernel config.
+
+URL: https://github.com/depletionmode/VirtualAllocSecure
+Description:  PoC for allocating memory secured using AMD Secure Memory Encryption.
+
+URL: https://github.com/bahaabdelwahed/killshot
+Description: A Penetration Testing Framework, Info. gathering & Website Vuln. Scanner.
+
+URL: https://neonsea.uk/blog/2018/12/26/firewall-includes.html
+Description: Unsafe FW includes allowing for RCE on Inteno's IOPSYS devices (CVE-2018-20487).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2UgpUQO (+)
+Description: Frappé Technologies ERPNext Server Side Template Injection.
+
+URL: http://bit.ly/2FZ8hAT (+)
+Description: Exploiting the Magellan bug on 64-bit Chrome Desktop.
+
+URL: http://bit.ly/2FMAKdN (+)
+Related: http://bit.ly/2CIyhxj (+)
+Description: Bypass EDR’s memory protection, introduction to hooking.
+
+URL: http://bit.ly/2Mudulx (+)
+Description: Gaining control of BMC from the host processor (CVE-2019-6260).
+
+URL: https://enigma0x3.net/2019/01/21/razer-synapse-3-elevation-of-privilege/
+Description: Razer Synapse 3 Elevation of Privilege.
+
+URL: https://dirkjanm.io/abusing-exchange-one-api-call-away-from-domain-admin/
+Description: Abusing Exchange - One API call away from Domain Admin.
+
+URL: https://medium.com/@_mattata/packet-editing-live-connections-with-python-c0ed221dafcd
+Description: Packet Editing Live Connections with Python.
+
+URL: https://www.mdsec.co.uk/2019/01/abusing-office-web-add-ins-for-fun-and-limited-profit/
+Description: Abusing Office Web Add-ins (for fun and limited profit).
+
+URL: http://bit.ly/2FMev7U (+)
+Description: The best way to store secrets in your app is not to store secrets in your app.
+
+URL: https://lgtm.com/blog/ghostscript_typeconfusion
+Description: Performing variant analysis w/ QL to find type confusion vulns in Ghostscript.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/maestron/botnets
+Description: This is a collection of botnet source codes.
+
+URL: https://github.com/transatomic/reactor
+Description: Open source Molten salt nuclear reactor design.
+
+URL: https://bogner.sh/2019/01/querying-virustotal-from-excel/
+Description: Querying VirusTotal from Excel.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?94b5c0ed71739900#vP1sTpD1rC0YqspwyMvHYwpfqiiUF1lSUvnOPjtn2Xo=
