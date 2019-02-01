@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 05 | Month: February | Year: 2019 | Release Date: 01/02/2019 | Edition: #259 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.ezequiel.tech/2019/01/75k-google-cloud-platform-organization.html
+Description: $7.5k Google Cloud Platform organization issue.
+
+URL: http://bit.ly/2Wxv50A (+)
+Description: How I abused 2FA to maintain persistence after a password change.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/countercept/RemotePSpy
+Blog: http://bit.ly/2DKEkTR (+)
+Description: Remote PowerShell Visibility for Older Versions.
+
+URL: https://github.com/wiglenet/wigle-wifi-wardriving 
+Description: Nethugging client for Android, from wigle.net.
+
+URL: https://github.com/sap/vulnerability-assessment-tool/
+Description: Vulnerability scanner for Java and Python by SAP.
+
+URL: https://github.com/vincentcox/bypass-firewalls-by-DNS-history
+Description: Firewall bypass script based on DNS history records.
+
+URL: https://gist.github.com/sarazasasa/9450d63f96e7ff799824fc98fc7f3b43
+Description: Some issues with GitHub Forks.
+
+URL: https://egre55.github.io/system-properties-uac-bypass/
+Description: UAC Bypass via SystemPropertiesAdvanced.exe and DLL Hijacking.
+
+URL: https://github.com/stigtsp/CVE-2019-6690-python-gnupg-vulnerability
+Description: Improper Input Validation in python-gnupg 0.4.3 (CVE-2019-6690).
+
+URL: https://github.com/fcavallarin/htcrawl
+Blog: https://htcrawl.org/
+Description: Tool to recursive crawling of single page applications (SPA) using JS.
+
+URL: https://gist.github.com/3xocyte/0dc0bd4cb48cc7b4075bdc90a1ccc7d3
+Description: PoC MSSQL RCE exploit using Resource-Based Constrained Delegation.
+
+URL: https://github.com/Shimmur/shipspotter
+Description: Tool for tunneling a port forward into remote Docker containers over SSH.
+
+URL: https://github.com/NotMedic/NetNTLMtoSilverTicket
+Description: SpoolSample -> Responder -> NetNTLMv1 -> NTLM -> Kerberos Silver Ticket.
+
+URL: https://insert-script.blogspot.com/2019/01/adobe-reader-pdf-callback-via-xslt.html
+Description: Adobe Reader - PDF callback via XSLT stylesheet in XFA.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://engineering.linecorp.com/en/blog/air-go-apk-signing/
+Description: AIR GO and APK Signing.
+
+URL: https://www.contextis.com/en/blog/basic-electron-framework-exploitation
+PoC: https://github.com/ctxis/beemka
+Description: Basic Electron Framework Exploitation.
+
+URL: https://lab.wallarm.com/xxe-that-can-bypass-waf-protection-98f679452ce0
+Description: XXE that can Bypass WAF Protection.
+
+URL: http://bit.ly/2sYgLQY (+)
+Description: Learning about Universal Links and Fuzzing URL Schemes on iOS with Frida.
+
+URL: https://www.adyta.pt/en/2019/01/29/writeup-samsung-app-store-rce-via-mitm-2/
+Description: Writeup – Samsung Galaxy Apps Store RCE via MITM (CVE-2018-20135).
+
+URL: https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html
+Description: Abusing Resource-Based Constrained Delegation to Attack Active Directory.
+
+URL: http://bit.ly/2DLSrIl (+)
+Description: A Simple CORS Misconfig Leaked Private Post Of Twitter, Facebook & Instagram.
+
+URL: https://blog.scrt.ch/2019/01/24/magento-rce-local-file-read-with-low-privilege-admin-rights/
+Description: Magento – RCE & Local File Read with low privilege admin rights
+
+URL: https://alsid.com/company/news/abusing-s4u2self-another-sneaky-active-directory-persistence
+Description: Abusing S4U2Self - Another Sneaky Active Directory Persistence.
+
+URL: http://bit.ly/2sYg76j (+)
+Description: IE Scripting Flaw Still a Threat to Unpatched Systems - Analyzing (CVE-2018-8653).
+
+URL: https://medium.com/tenable-techblog/reversing-the-rachio3-smart-sprinkler-controller-ae7fc06aab9
+Description: Reversing the Rachio Smart Sprinkler Controller.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://evolt.org/node/564
+Description: Napster A New Killer Internet App.
+
+URL: https://github.com/linuxthor/uul
+Description: ELF binary that runs on several different *nix flavours.
+
+URL: https://alexhude.github.io/2019/01/24/hacking-leica-m240.html
+Description: How to Hack an Expensive Camera and Not Get Killed by Your Wife.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?10ece153c2ff2960#mIZLUS+yAKVypqHjVs8jui1Xxxhcorcav/fgPpTTAEE=
