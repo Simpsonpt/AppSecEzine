@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 06 | Month: February | Year: 2019 | Release Date: 08/02/2019 | Edition: #260 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2BpGab7 (+)
+Description: My first XML External Entity (XXE) attack with .gpx file.
+
+URL: http://bit.ly/2UNSyZH (+)
+Description: SSRF Protocol Smuggling in Plaintext Credential Handlers - LDAP.
+
+URL: https://www.shawarkhan.com/2019/01/hijacking-accounts-by-retrieving-jwt.html
+Description: Hijacking accounts by retrieving JWT tokens via unvalidated redirects.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/koutto/jok3r
+Description: Jok3r - Network and Web Pentest Framework.
+
+URL: https://github.com/wisk/fw2elf
+Description: Convert a raw firmware image to an ELF file.
+
+URL: https://github.com/bkerler/MR
+Description: Tool for smartphone forensics (Windows/Linux).
+
+URL: https://github.com/huku-/research/wiki/Intel-CPU-security-features
+Description: Intel CPU security features.
+
+URL: https://github.com/antoniozekic/bfinject
+Description: Dylib injection for iOS 11.0-11.1.2 w/ LiberiOS and Electra JB.
+
+URL: https://github.com/pavanw3b/sh00t
+Description: A Testing Environment for Manual Security Testers.
+
+URL: https://github.com/no0be/DNSlivery
+Description: Easy files and payloads delivery over DNS.
+
+URL: https://github.com/tunnelshade/rinnegan
+Blog: https://tunnelshade.in/blog/2018/12/rinnegan-walkthrough/
+Description: Tool to understand and reverse complex distributed systems.
+
+URL: https://gist.github.com/mehaase/63e45c17bdbbd59e8e68d02ec58f4ca2
+Description: OpenSSH scp arbitrary file write PoC (CVE-2019-6111/CVE-2019-6110).
+
+URL: https://github.com/censys/nmap-censys
+Description: NSE script which leverages Censys IPv4-API for passive data collection.
+
+URL: https://github.com/paranoidninja/CarbonCopy
+Description: Create spoofed certificate of any site and sign an Exe for AV Evasion. 
+
+URL: https://github.com/secdec/adapt
+Description: ADAPT is a tool that performs automated Penetration Testing for WebApps.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2MT26jg (+)
+Description: Chaining 2 low impact bugs into Gitlab RCE.
+
+URL: http://bit.ly/2UKEKis (+)
+Related: https://github.com/razmashat/voucher_swap
+Description: IPC Voucher UaF Remote Jailbreak Stage 2.
+
+URL: https://versprite.com/blog/hacking-remote-start-system/
+More: http://bit.ly/2UJvs6r (+)
+Description: Hacking an Aftermarket Remote Start System.
+
+URL: https://vulnmind.io/i-heard-you-like-eop-to-system/
+Description: I heard you like EoP to System?
+
+URL: https://maskop9.wordpress.com/2019/02/06/analysis-of-jacksbot-backdoor/
+Description: Analysis of multiplatform Java Jacksbot Backdoor.
+
+URL: https://doar-e.github.io/blog/2019/01/28/introduction-to-turbofan/
+Description: Introduction to TurboFan (JIT compiler).
+
+URL: https://acru3l.github.io/2019/02/02/exploiting-mb-anti-exploit/
+Description: Exploiting Malwarebytes Anti-Exploit.
+
+URL: https://medium.com/@mattharr0ey/round-of-use-winrm-code-execution-xml-6e3219d3e31
+Description: Round of use Winrm code execution XML.
+
+URL: http://bit.ly/2MTPDfh (+)
+Description: Tracing an offshore bank and a dark web service using the blockchain.
+
+URL: http://bit.ly/2MUUJrx (+)
+Description: Steganography Based Ad Payload That Drops Shlayer Trojan On Mac Users.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/jledet/waterfall
+Description: HTML Canvas Waterfall Plot.
+
+URL: https://github.com/steffest/bassoontracker
+Description: Webbased old-school Amiga music tracker in plain old Javascript.
+
+URL: https://blog.benjojo.co.uk/post/eve-online-bgp-internet
+Description: Using BGP to calculate fastest paths around the London Underground.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?28b57f77d0f6d5d2#jkdrx+K3Lh3ZTufRzoc40sAenDvWtLu+YTYMjO932HE=
