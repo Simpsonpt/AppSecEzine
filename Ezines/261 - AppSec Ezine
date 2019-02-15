@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 07 | Month: February | Year: 2019 | Release Date: 15/02/2019 | Edition: #261 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://outpost24.com/blog/X-forwarded-for-SQL-injection
+Description: X Forwarded for SQL injection.
+
+URL: https://ysamm.com/?p=185
+Description: Facebook CSRF protection bypass which leads to Account Takeover.
+
+URL: http://bit.ly/2SyIqaE (+)
+Description: Disclose private attachments in Facebook Messenger Infrastructure.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/aflsmart/aflsmart
+Description: Smart Greybox Fuzzing.
+
+URL: https://github.com/graneed/bwpot
+Description: High-interactive honey pot that target HTTP or HTTPS.
+
+URL: https://github.com/feexd/pocs/tree/master/CVE-2019-5736
+PoCs: https://github.com/q3k/cve-2019-5736-poc | http://bit.ly/2X1QbEm (+)
+More: https://blog.dragonsector.pl/2019/02/cve-2019-5736-escape-from-docker-and.html
+Description: RunC container breakout (CVE-2019-5736).
+
+URL: https://github.com/Neo23x0/Fnord
+Description: Pattern Extractor for Obfuscated Code.
+
+URL: https://github.com/Bashfuscator/Bashfuscator
+Description: A fully configurable and extendable Bash obfuscation framework. 
+
+URL: https://gist.github.com/adamyordan/96da0ad5e72cbc97285f2df340cac43b
+Description: Jenkins RCE PoC (CVE-2019-1003000).
+
+URL: https://github.com/rokups/virtual-reality
+Description: Stealthy backdoor for Windows operating systems.
+
+URL: https://github.com/initstring/uptux
+Description: Privilege escalation checks for Linux systemd.
+
+URL: https://plainsec.org/how-to-bypass-instagram-ssl-pinning-on-android-v78/
+Description: How to bypass Instagram SSL Pinning on Android (v78).
+
+URL: https://github.com/ericpskl/exportEC2VolumeImage
+Description: A Bash script which uses AWS CLI to create an image of an AWS EC2 volume.
+
+URL: https://github.com/Ullaakut/Gorsair
+Description: Gorsair hacks its way into remote docker containers that expose their APIs.
+
+URL: https://github.com/idiom/pftriage
+Description: Python tool/library to help analyze files during malware triage and analysis.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2TQYTmW (+) 
+Description: LNK & ISESteroids Powershell dropper.
+
+URL: https://shenaniganslabs.io/2019/02/13/Dirty-Sock.html
+PoC: https://github.com/initstring/dirty_sock/
+Description: Privilege Escalation in Ubuntu Linux (dirty_sock exploit).
+
+URL: http://bit.ly/2BCPZSX (+)
+Description: Bypassing MS Application Control Solutions (CVE-2018-8492).
+
+URL: https://perception-point.io/resources/research/cve-2019-0539-root-cause-analysis/
+Description: CVE-2019-0539 Root Cause Analysis.
+
+URL: https://medium.com/@x41x41x41/unauthenticated-ssrf-in-oracle-ebs-765bd789a145
+Description: Unauthenticated Blind SSRF in Oracle EBS.
+
+URL: https://offensi.com/2019/01/31/lfi-in-apigee-portals/
+Description: LFI in Apigee portals (Import FTW!).
+
+URL: https://medium.com/tenable-techblog/make-it-rain-with-mikrotik-c90705459bc6
+Description: Make It Rain with MikroTik.
+
+URL: https://www.secjuice.com/modsecurity-web-application-firewall-dns-over-https/
+Description: DNS over HTTPS (+ModSecurity WAF).
+
+URL: https://lgtm.com/blog/ghostscript_CVE-2018-19134_exploit
+Description: Remote code execution through type confusion in Ghostscript (CVE-2018-19134).
+
+URL: https://www.secureauth.com/labs/advisories/asus-drivers-elevation-privilege-vulnerabilities
+Description: ASUS Drivers EoP Vulnerabilities (CVE-2018-18537/CVE-2018-18536/CVE-2018-18535).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://cantunsee.space/
+Description: Can't Unsee.
+
+URL: https://github.com/wesbos/dad-jokes
+Description: Dad style programming jokes.
+
+URL: https://github.com/ernw/hardening/tree/master/operating_system
+Description: Base hardening guidelines for Linux and MacOS.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?09bf4f079067d2af#foZuZr/M/dLj1I+FLhJyDIy8LgKAHhTVXU4PjTc9sYA=
