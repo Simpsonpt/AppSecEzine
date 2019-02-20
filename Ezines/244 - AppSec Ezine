@@ -82,6 +82,7 @@ URL: http://bit.ly/2J3ItTT (+)
 Description: Uncovering a massive Binance phishing campaign.
 
 URL: https://leucosite.com/Microsoft-Edge-RCE/
+PoC: https://github.com/kmkz/exploit/blob/master/CVE-2018-8495.html
 Description: Microsoft Edge Remote Code Execution (CVE-2018-8495).
 
 URL: https://www.xorrior.com/persistent-credential-theft/
