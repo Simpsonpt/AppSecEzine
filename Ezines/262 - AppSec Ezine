@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 08 | Month: February | Year: 2019 | Release Date: 22/02/2019 | Edition: #262 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://leucosite.com/Microsoft-Office-365-Outlook-XSS/
+Description: Outlook XSS using SVG emoji.
+
+URL: https://medium.com/@elberandre/1-000-ssrf-in-slack-7737935d3884
+Description: Server Side Request Forgery (SSRF) in Slack.
+
+URL: http://bit.ly/2U0BPCz (+)
+Description: Leakage of Client Secret, Server tokens of all Uber developer applications.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/citronneur/detours.net
+Description: Hook native API with C#.
+
+URL: https://github.com/erbbysam/DNSGrep
+More: https://blog.erbbysam.com/index.php/2019/02/09/dnsgrep/
+Description: Quickly Search Large DNS Datasets.
+
+URL: https://pwn.no0.be/exploitation/wifi/wpa_enterprise/
+Description: Attacks against WPA-Enterprise.
+
+URL: http://bit.ly/2tvFFaS (+)
+Description: Volatility Workflow for Basic Incident Response.
+
+URL: https://github.com/swisskyrepo/SSRFmap
+Description: Automatic SSRF fuzzer and exploitation tool.
+
+URL: https://github.com/rasta-mouse/TikiTorch
+Description: Process Hollowing version of CACTUSTORCH.
+
+URL: https://bordplate.no/blog/en/post/debugging-a-windows-service/
+Description: Debugging Windows services - With windbg of course.
+
+URL: https://medium.com/@localh0t/unveiling-amazon-s3-bucket-names-e1420ceaf4fa
+Description: Unveiling Amazon S3 bucket names.
+
+URL: https://medium.com/@rvrsh3ll/hardening-your-azure-domain-front-7423b5ab4f64
+Description: Hardening Your Azure Domain Front.
+
+URL: https://github.com/sud0woodo/DCOMrade
+Description: Powershell script for enumerating vulnerable DCOM Applications.
+
+URL: https://github.com/pownjs/pown-recon
+Description: A powerful target reconnaissance framework powered by graph theory.
+
+URL: https://github.com/hrkfdn/deckard
+Description: Tool for static and dynamic analysis on APKs to extract Xposed hooks.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://erfur.github.io/down_the_rabbit_hole_pt1/
+More: https://erfur.github.io/down_the_rabbit_hole_pt2/
+Description: Down the Rabbit Hole - A Journey into the UEFI Land.
+
+URL: https://toshellandback.com/2015/11/24/ms-priv-esc/
+Description: Common Windows Privilege Escalation Vectors.
+
+URL: http://bit.ly/2GWaCx9 (+)
+Description: Brute-forcing Active Directory credentials via RD Gateway.
+
+URL: https://vmcall.github.io/reversal/2019/02/10/battleye-anticheat.html
+Description: BattlEye anticheat - analysis and mitigation.
+
+URL: http://bit.ly/2IsFpny (+)
+Description: Windows Privilege Abuse - Auditing, Detection, and Defense.
+
+URL: https://research.checkpoint.com/extracting-code-execution-from-winrar/
+Description: Extracting a 19 Year Old Code Execution from WinRAR.
+
+URL: https://0x00sec.org/t/using-uri-to-pop-shells-via-the-discord-client/11673/2
+Description: Using URI to pop shells via the Discord Client.
+
+URL: http://bit.ly/2NhVGup (+)
+Description: Tracking the trackers - Draw connections between scripts and domains.
+
+URL: https://www.bishopfox.com/news/2019/02/openmrs-insecure-object-deserialization/
+Description: OpenMRS – Insecure Object Deserialization.
+
+URL: https://blog.orange.tw/2019/01/hacking-jenkins-part-1-play-with-dynamic-routing.html
+More: https://blog.orange.tw/2019/02/abusing-meta-programming-for-unauthenticated-rce.html
+Description: Hacking Jenkins Part 1 and 2 (CVE-2018-1000861 and CVE-2019-1003000).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://worldwideweb.cern.ch/
+Description: CERN 2019 WorldWideWeb Rebuild.
+
+URL: https://github.com/Valve/fingerprintjs2
+Related: http://bit.ly/2SgBARZ
+Description: Modern & flexible browser fingerprinting library.
+
+URL: https://github.com/NVlabs/stylegan
+Related: https://thispersondoesnotexist.com/
+Description: Style-Based Generator Architecture for Generative Adversarial Networks.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?71e03569eb6a7576#PIhYafr41kbZLzY5sBT/2pcpJjZjPK4OJcKGTY+Nu98=
