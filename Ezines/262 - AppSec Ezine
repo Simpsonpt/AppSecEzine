@@ -90,6 +90,7 @@ URL: http://bit.ly/2IsFpny (+)
 Description: Windows Privilege Abuse - Auditing, Detection, and Defense.
 
 URL: https://research.checkpoint.com/extracting-code-execution-from-winrar/
+PoC: https://github.com/Ridter/acefile
 Description: Extracting a 19 Year Old Code Execution from WinRAR.
 
 URL: https://0x00sec.org/t/using-uri-to-pop-shells-via-the-discord-client/11673/2
