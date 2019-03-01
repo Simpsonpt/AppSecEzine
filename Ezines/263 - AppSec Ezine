@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 09 | Month: March | Year: 2019 | Release Date: 01/03/2019 | Edition: #263 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ysamm.com/?p=240
+Description: Bypass password confirmation in Facebook "DYI" feature.
+
+URL: http://bit.ly/2tDRA6O (+)
+Description: Web Cache Deception Attack leads to user info disclosure.
+
+URL: https://medium.com/intigriti/abusing-autoresponders-and-email-bounces-9b1995eb53c2
+Description: Abusing autoresponders and email bounces.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://www.inputzero.io/2019/02/fuzzing-webkit.html
+Description: Fuzzing Webkit.
+
+URL: https://rootsh3ll.com/evil-twin-attack/
+Description: Evil Twin ATTACK - The Definitive Guide
+
+URL: https://github.com/aencode/elf_analysis
+Description: Perform Static and dynamic analysis on 32 bit ELF binary.
+
+URL: https://thebabush.github.io/dumbo-llvm-based-dumb-obfuscator.html
+PoC: https://github.com/thebabush/dumb-obfuscator
+Description: Dumbo - LLVM-based Dumb Obfuscator.
+
+URL: https://github.com/stamparm/hontel
+Description: HonTel is a Honeypot for Telnet service.
+
+URL: http://bit.ly/2XpR4qN (+)
+Description: Locked File Access Using ESENTUTL.exe.
+
+URL: https://www.ambionics.io/blog/drupal8-rce
+Description: Exploiting Drupal8's REST RCE (CVE-2019-6340).
+
+URL: https://github.com/checkymander/VaultBreaker/
+Related: https://www.securityevaluators.com/casestudies/password-manager-hacking/
+Description: A toolset designed for attacks against common password managers.
+
+URL: https://gitlab.com/invuls/iot-projects/iotsecfuzz
+Description: IoT framework for security testing.
+
+URL: https://github.com/mushorg/snare
+Description: Super Next generation Advanced Reactive honEypot.
+
+URL: https://github.com/uxmal/reko
+Description: Reko is a binary decompiler. 
+
+URL: https://github.com/netsniff-ng/netsniff-ng
+Description: A Swiss army knife for your daily Linux network plumbing. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2GODica (+)
+More: http://bit.ly/2GUTUz5 (+)
+Description: Reverse Engineering a Philips TriMedia CPU based IP camera.
+
+URL: http://thunderclap.io/
+Description: Modern computers are vulnerable to malicious peripheral devices.
+
+URL: http://bit.ly/2IGJKUf (+)
+Description: Nexus Repository Manager 3 RCE (CVE-2019-7238).
+
+URL: https://www.pdf-insecurity.org
+Description: How to break PDF Signatures.
+
+URL: https://eklitzke.org/the-cbc-padding-oracle-problem
+Description: The CBC Padding Oracle Problem.
+
+URL: http://www.jackson-t.ca/lg-driver-lpe.html
+Description: Local Privilege Elevation in LG Kernel Driver (CVE-2019-8372).
+
+URL: https://paper.seebug.org/822/
+PoC: https://github.com/cfreal/exploits/tree/master/CVE-2019-6977-imagecolormatch
+Description: WordPress 5.0 RCE detailed analysis (CVE-2019-6977).
+
+URL: https://movaxbx.ru/2019/02/20/triaging-the-exploitability-of-ie-edge-crashes/
+Description: Triaging the exploitability of IE/EDGE crashes.
+
+URL: http://bit.ly/2NxPIWm (+)
+Description: Reversing a Black Desert Online Dump - Restoring IAT with IDAPython nd FLIRT.
+
+URL: https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915
+Description: Chain of hacks leading to Database Compromise!
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://noclip.website/
+Description: Model Viewer for random games.
+
+URL: https://github.com/rokups/crossbuild
+Description: Multiarch cross compiling environments.
+
+URL: http://www.kwasstuff.altervista.org/RIP/index.html
+Description: RIP Graphics - some BBS nostalgia.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?823241871a6bff52#UcT9uknaQH1ZpCquHWXFjAh9rneWtIIbOXhAfW2Zz1M=
