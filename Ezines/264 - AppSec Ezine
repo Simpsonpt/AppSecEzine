@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 10 | Month: March | Year: 2019 | Release Date: 08/03/2019 | Edition: #264 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://staaldraad.github.io/post/2019-03-02-universal-rce-ruby-yaml-load/
+Description: Universal RCE with Ruby YAML.load.
+
+URL: https://www.vulnano.com/2019/03/facebook-messenger-server-random-memory.html
+Description: Facebook Messenger server random memory exposure through corrupted GIF image.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/parsiya/Hacking-with-Go
+Description: Golang for Security Professionals.
+
+URL: https://github.com/vngkv123/aSiagaming
+Description: Browser, VMEscape and Kernel Exploitation.
+
+URL: https://ghidra-sre.org/
+Related: http://0xeb.net/2019/03/ghidra-a-quick-overview/
+Description: A software reverse engineering (SRE) suite of tools developed by NSA.
+
+URL: https://github.com/joaquinlpereyra-ml/afip-grails
+Description: Static code analyzer for Groovy/Grails.
+
+URL: https://github.com/SafeBreach-Labs/SirepRAT
+Description: Remote Command Execution as SYSTEM on Windows IoT Core.
+
+URL: https://github.com/chaostoolkit/chaostoolkit
+Description: Chaos Engineering Experiments Automation & Orchestration.
+
+URL: https://github.com/bitsadmin/wesng
+Description: Windows Exploit Suggester - Next Generation.
+
+URL: https://github.com/0x27/CiscoRV320Dump
+Description: Exploit for dumping Cisco RV320 Config&Debugging Data (CVE-2019-1653).
+
+URL: https://github.com/0xInfection/Awesome-WAF
+Description: A curated list of awesome web-app firewall (WAF) stuff.
+
+URL: https://github.com/BusesCanFly/rpi-hunter
+Description: Automate discovering and dropping payloads on LAN Raspberry Pi's via SSH.
+
+URL: https://0x90909090.blogspot.com/2019/02/executing-payload-without-touching.html
+Description: Executing payload without touching the filesystem (memfd_create syscall).
+
+URL: https://github.com/RhinoSecurityLabs/GCPBucketBrute
+Blog: https://rhinosecuritylabs.com/gcp/google-cloud-platform-gcp-bucket-enumeration/
+Description: Tool to enumerate Google Storage bucket and check authz.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://disloops.com/cloudfront-hijacking/
+PoC: https://github.com/disloops/cloudfrunt
+Description: CloudFront Hijacking.
+
+URL: http://bit.ly/2XIF4AQ (+)
+Description: iOS kernel.backtrace Information Leak Vulnerability.
+
+URL: http://blog.ptsecurity.com/2019/02/detecting-web-attacks-with-seq2seq.html
+PoC: https://github.com/PositiveTechnologies/seq2seq-web-attack-detection
+Description: Detecting Web Attacks with a Seq2Seq Autoencoder.
+
+URL: http://bit.ly/2FMAKdN (+)
+Description: Bypass EDR’s memory protection, introduction to hooking.
+
+URL: https://www.veracode.com/blog/research/exploiting-spring-boot-actuators
+PoC: https://github.com/artsploit/actuator-testbed
+Description: Exploiting Spring Boot Actuators.
+
+URL: https://movaxbx.ru/2019/02/16/windows-process-injection-sharing-the-payload/
+Description: Windows Process Injection - Sharing the payload.
+
+URL: https://blog.0day.rocks/hiding-through-a-maze-of-iot-devices-9db7f2067a80
+Description: How to create the perfect anonymizing botnet by abusing UPnP features.
+
+URL: http://bit.ly/2HjDsaQ (+)
+Description: BACNet JS Injection - Persistent XSS in BACNet devices (CVE-2019–7408).
+
+URL: http://bit.ly/2TB245t (+)
+Description: SHAREit Multiple Vuls Enable Unrestricted Access to Adjacent Devices’ Files.
+
+URL: http://blogs.360.cn/post/Binder_Kernel_Vul_EN.html
+Description: The ‘Waterdrop’ in Android - A destructive Binder kernal vul (CVE-2019-2025).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/netdata/netdata
+Description: Real-time performance monitoring, done right!
+
+URL: https://js1k.com/2019-x/demos
+Description: JS1k - The JavaScript code golfing competition.
+
+URL: https://blog.littlevgl.com/2019-02-02/use-ipod-nano6-lcd-for-littlevgl
+Description: How to use the iPod Nano 6 LCD for LittlevGL.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?66dc0d0a4555ed08#eecY+uPIY6BpW8qKXtorAY9m3bqvlTF5fSqLsZUW6aA=
