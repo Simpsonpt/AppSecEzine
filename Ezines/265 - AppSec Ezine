@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 11 | Month: March | Year: 2019 | Release Date: 15/03/2019 | Edition: #265 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/411140
+Description: Vanilla Forums AddonManager Dir Traversal - File Inclusion - RCE.
+
+URL: https://hackerone.com/reports/398799
+Description: Unauthenticated blind SSRF in OAuth Jira authorization controller.
+
+URL: https://medium.com/@rootxharsh_90844/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e
+Description: Vimeo SSRF with code execution potential.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/mushorg/conpot
+Description: ICS/SCADA honeypot.
+
+URL: https://github.com/secrary/idenLib
+Description: idenLib - Library Function Identification.
+
+URL: https://pentest.blog/n-ways-to-unpack-mobile-malware/
+Description: N Ways to Unpack Mobile Malware.
+
+URL: https://github.com/stevenaldinger/decker
+Description: Declarative penetration testing orchestration framework.
+
+URL: https://github.com/ViRb3/TrustMeAlready
+Description: Disable SSL verification and pinning on Android, system-wide.
+
+URL: https://ijustwannared.team/2019/03/11/browser-pivot-for-chrome/
+Description: Browser Pivot for Chrome.
+
+URL: https://hausec.com/2019/03/05/penetration-testing-active-directory-part-i/
+More: https://hausec.com/2019/03/12/penetration-testing-active-directory-part-ii/
+Description: Penetration Testing Active Directory.
+
+URL: https://d4stiny.github.io/Reading-Physical-Memory-using-Carbon-Black/
+Description: Reading Physical Memory using Carbon Black's Endpoint driver.
+
+URL: https://github.com/mpgn/CVE-2019-0192/
+Description: Apache Solr RCE 5.0.0 to 5.5.5 and 6.0.0 to 6.6.5 (CVE-2019-0192).
+
+URL: http://woshub.com/copying-large-files-using-bits-and-powershell/
+Description: Copying Large Files over an Unreliable Network Using BITS and PowerShell.
+
+URL: https://github.com/MicrosoftEdge/JsDbg
+Description: Debugging extensions for Microsoft Edge and other Chromium-based browsers.
+
+URL: https://github.com/mpgn/CVE-2019-9580/
+Description: Exploiting CORS misconfiguration (null origin) to gain RCE (CVE-2019-9580).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://webrtchacks.com/fuzzing-janus/
+Description: How Janus Battled libFuzzer and Won.
+
+URL: https://pulsesecurity.co.nz/articles/TPM-sniffing
+Description: Extracting BitLocker keys from a TPM.
+
+URL: https://www.stuffithoughtiknew.com/2019/02/detecting-bloodhound.html
+Description: Detecting BloodHound.
+
+URL: http://bit.ly/2UGmozO (+)
+Description: Scripting Engines inside Games? You can hack them too! (AngelScript).
+
+URL: https://licenciaparahackear.github.io/en/posts/bypassing-a-restrictive-js-sandbox/
+Description: Bypassing a restrictive JS sandbox.
+
+URL: https://redtimmysec.wordpress.com/2019/03/07/flexpaper-remote-code-execution/
+PoC: https://pastebin.com/7ahymH9p
+Description: FlexPaper <= 2.3.6 Remote Code Execution (2018-11686).
+
+URL: http://bit.ly/2T4IBWA (+)
+Description: PXE Dust - Finding a Vulnerability in Windows Servers Deployment Services.
+
+URL: http://travisaltman.com/windows-privilege-escalation-via-weak-service-permissions/
+Description: Windows Privilege Escalation (PE) via Weak Service Permissions (Oldies).
+
+URL: http://blogs.360.cn/post/RootCause_CVE-2019-0808_EN.html
+Description: Root Cause of the Kernel Privilege Escalation Vulnerabilities (CVE-2019-0808).
+
+URL: https://rhinosecuritylabs.com/application-security/exploiting-cve-2018-1335-apache-tika/
+Description: Exploiting Command Injection in Apache Tika (CVE-2018-1335).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://archivebox.io/
+Description: The open source self-hosted web archive.
+
+URL: https://github.com/mrusme/ninjaberry
+Description: Ninjaberry - Raspberry Pi UI for @bettercap.
+
+URL: https://litherum.blogspot.com/2019/03/addition-font.html
+Description: Turing completeness of font shaping rules.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?2a46f1278422b0c6#sXT3f9ja7+p/3RzcQm9rIZWBWVILySr9x46+7uRbjG4=
