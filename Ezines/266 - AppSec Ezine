@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 12 | Month: March | Year: 2019 | Release Date: 22/03/2019 | Edition: #266 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/470520
+Description: RCE on Steam Client via buffer overflow in Server Info.
+
+URL: http://bit.ly/2ulwA56 (+)
+Description: Write up - $1k in 5 minutes, Stored XSS in Outlook.com (iOS Browsers).
+
+URL: https://medium.com/@terjanq/cross-site-content-and-status-types-leakage-ef2dab0a492
+Related: http://sirdarckcat.blogspot.com/2019/03/http-cache-cross-site-leaks.html
+Description: Cross-Site Content and Status Types Leakage.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/cnotin/SplunkWhisperer2
+Blog: http://bit.ly/2HM3J1R (+)
+Description: LPE or RCE, through Splunk Universal Forwarder (UF) misconfigurations.
+
+URL: http://bit.ly/2Fo9zDP (+)
+Description: Using Firefox webextensions as c2 client.
+
+URL: https://github.com/yassineaboukir/sublert
+Blog: http://bit.ly/2WgBlc1 (+)
+Description: Automated monitoring of subdomains for fun and profit.
+
+URL: https://github.com/google/turbinia
+Description: Automation and Scaling of Digital Forensics Tools.
+
+URL: https://medium.com/@benoit.sevens/windows-10-emulation-with-qemu-f41870ed464d
+Description: Windows 10 emulation with QEMU.
+
+URL: https://medium.com/@0x0FFB347/writing-a-custom-shellcode-encoder-31816e767611
+Description: Writing a Custom Shellcode Encoder.
+
+URL: https://github.com/mpgn/CVE-2019-5418
+Blog: http://bit.ly/2YeqbXd (+)
+Description: File Content Disclosure on Rails (CVE-2019-5418).
+
+URL: https://polict.net/blog/CVE-2018-17057
+Description: Yet another phar deserialization in TCPDF (CVE-2018-17057).
+
+URL: https://github.com/thehappydinoa/rootOS
+Description: macOS Root Helper.
+
+URL: https://github.com/CheckPointSW/Karta/blob/master/README.md
+Description: Karta - source code assisted fast binary matching plugin for IDA.
+
+URL: https://github.com/marco-lancini/goscan
+Description: Interactive Network Scanner.
+
+URL: https://github.com/jnider/delinker
+Description: Unlinks a binary executable to get back a set of .o object files.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2HwT1wN (+)
+Description: Reverse engineering the router Technicolor TG582N.
+
+URL: https://blog.tint0.com/2019/03/a-saga-of-code-executions-on-zimbra.html
+Description: A Saga of Code Executions on Zimbra.
+
+URL: https://jarlob.github.io/en/blog/not-a-bug-sqli
+Description: A story of one not-a-bug SQL injection.
+
+URL: https://liberty-shell.com/sec/2019/03/12/dll-hijacking/
+Description: DLL Hijacking & Ghidra.
+
+URL: https://lgtm.com/blog/facebook_fizz_CVE-2019-3560
+Description: DoS in Facebook Fizz due to integer overflow (CVE-2019-3560).
+
+URL: http://offsec.provadys.com/intro-to-file-operation-abuse-on-Windows.html
+Description: An introduction to privileged file operation abuse on Windows.
+
+URL: https://medium.com/tenable-techblog/mikrotik-firewall-nat-bypass-b8d46398bf24
+Description: MikroTik Firewall & NAT Bypass - Exploitation from WAN to LAN.
+
+URL: http://bit.ly/2ULRPsg (+)
+Description: Details of a Microsoft SharePoint RCE Vulnerability (CVE-2019-0604).
+
+URL: https://blog.assetnote.io/bug-bounty/2019/03/19/rce-on-mozilla-zero-day-webpagetest/
+Description: Discovering a zero day and getting code execution on Mozilla's AWS Network.
+
+URL: https://proofofcalc.com/cve-2019-6453-mIRC/
+PoC: https://github.com/proofofcalc/cve-2019-6453-poc
+Description: mIRC <7.55 RCE using arg injection via custom URIs handlers (CVE-2019-6453).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://blog.regehr.org/archives/1653
+Description: Explaining Code using ASCII Art.
+
+URL: https://securitytxt.org/
+Description: A proposed standard which allows websites to define security policies.
+
+URL: https://www.niceideas.ch/roller2/badtrash/entry/deciphering-the-bengladesh-bank-heist
+Description: Deciphering the Bangladesh bank heist.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?531587be2e6c327b#oTQHcGWYpvhiTHO9OGPEJ3+llWYP1H09MsDBe8IIVnU=
