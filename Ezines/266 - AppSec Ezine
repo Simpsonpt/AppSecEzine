@@ -98,6 +98,7 @@ URL: https://medium.com/tenable-techblog/mikrotik-firewall-nat-bypass-b8d46398bf
 Description: MikroTik Firewall & NAT Bypass - Exploitation from WAN to LAN.
 
 URL: http://bit.ly/2ULRPsg (+)
+PoC: https://github.com/k1n9/CVE-2019-0604/
 Description: Details of a Microsoft SharePoint RCE Vulnerability (CVE-2019-0604).
 
 URL: https://blog.assetnote.io/bug-bounty/2019/03/19/rce-on-mozilla-zero-day-webpagetest/
