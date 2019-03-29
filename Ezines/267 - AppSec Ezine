@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 13 | Month: March | Year: 2019 | Release Date: 29/03/2019 | Edition: #267 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/297478
+Description: SQL injection via User-agent.
+
+URL: http://bit.ly/2OqLKz2 (+)
+Description: Disclosure of Pending Roles for any Facebook Page.
+
+URL: https://medium.com/tenable-techblog/owning-the-network-with-badusb-72daa45d1b00
+PoC: https://github.com/tenable/router_badusb
+Description: Owning the Network with BadUSB.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/googleprojectzero/fuzzilli
+Description: A JavaScript Engine Fuzzer.
+
+URL: https://github.com/rootbsd/fridump3
+Description: A universal memory dumper using Frida for Python 3.
+
+URL: https://github.com/rgov/http-translator
+Description: Translate curl commands to Python Requests code.
+
+URL: https://github.com/zodiacon/EtwExplorer
+Description: View ETW Provider manifest.
+
+URL: https://github.com/ismailtasdelen/shodansploit
+Description: ShodanSploit - Get shodan features in your Terminal.
+
+URL: https://github.com/Microsoft/pyright
+Description: Static type checker for Python.
+
+URL: https://mogwailabs.de/blog/2019/03/repacking-ios-applications/
+Description: Repacking iOS applications.
+
+URL: https://github.com/ropnop/kerbrute
+Description: A tool to perform Kerberos pre-auth bruteforcing.
+
+URL: https://github.com/daenerys-sre/source
+Description: A framework for interoperability between IDA and Ghidra.
+
+URL: https://github.com/SpiderLabs/SharpCompile
+Description: Aggressor script for Cobalt Strike to compile and execute C# in realtime.
+
+URL: https://github.com/yampelo/beagle
+Description: IR and Forensics tool which transforms security logs and data into graphs.
+
+URL: https://raw.githubusercontent.com/pedrib/PoC/master/advisories/nuuo-cms-ownage.txt
+Description: Multiple vulnerabilities in NUUO Central Management Server.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2YujGj1 (+)
+Description: SQL Injection Data Extraction through .NET framework error.
+
+URL: http://bit.ly/2Ow20ij (+)
+Description: RCE via Path Traversal in the Device Metadata Authoring Wizard.
+
+URL: https://outflank.nl/blog/2018/10/06/old-school-evil-excel-4-0-macros-xlm/
+Description: Old school - Evil Excel 4.0 macros (XLM).
+
+URL: http://bit.ly/2JJXpdQ (+)
+Description: Introduction to Network Protocol Fuzzing & Buffer Overflow Exploitation.
+
+URL: https://securelist.com/hacking-microcontroller-firmware-through-a-usb/89919/
+Description: Hacking microcontroller firmware through a USB.
+
+URL: https://medium.com/0xcc/one-liner-safari-sandbox-escape-exploit-91082ddbe6ef
+Description: One-liner Safari sandbox escape exploit.
+
+URL: https://medium.com/@princechaddha/an-unusal-bug-on-braintree-paypal-b8d3ec662414
+Description: An Unusual Bug on Braintree (PayPal).
+
+URL: https://blog.zecops.com/vulnerabilities/analysis-and-reproduction-of-cve-2019-7286/
+More: https://blog.zecops.com/vulnerabilities/exploit-of-cve-2019-7286/
+Description: Analysis and Reproduction of iOS/OSX Vulnerability (CVE-2019-7286).
+
+URL: http://bit.ly/2UXZAM1 (+)
+Description: Why is My Perfectly Good Shellcode Not Working? Cache Coherency on MIPS/ARM.
+
+URL: https://medium.com/@howard.poston/mapping-the-owasp-top-ten-to-blockchain-69c904394e69
+Description: Mapping the OWASP Top Ten to Blockchain.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://nullprogram.com/blog/2019/03/22/
+Description: Endlessh - an SSH Tarpit.
+
+URL: https://github.com/diasurgical/devilutionX
+Description: Diablo build for modern operating systems.
+
+URL: https://blog.jessfraz.com/post/digging-into-risc-v-and-how-i-learn-new-things/
+Description: Digging into RISC-V and how I learn new things.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?03da64fbbab968ba#v2VuKblqcuw17LnzEl91w1zm7fHfldbTxqny+he8QOo=
