@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 14 | Month: April | Year: 2019 | Release Date: 05/04/2019 | Edition: #268 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/511044
+Description: Availing Zomato Gold membership for free by tampering plan id(s).
+
+URL: https://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html
+Description: Handlebars template injection and RCE in a Shopify app.
+
+URL: https://blog.doyensec.com/2019/04/03/subverting-electron-apps-via-insecure-preload.html
+Description: Subverting Electron Apps via Insecure Preload.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/scarvell/grandstream_exploits
+More: http://bit.ly/2I0gvKO (+)
+Description: Multiple Vulnerabilities in Grandstream Products.
+
+URL: https://github.com/0x36/powend
+More: https://ssd-disclosure.com/archives/3944
+Description: Sandbox escape to root for Apple iOS < 12.2 on A11 devices.
+
+URL: http://bit.ly/2TVqqTJ (+)
+Description: Circumventing SSL Pinning in obfuscated apps with OkHttp.
+
+URL: https://masthoon.github.io/exploit/2019/03/29/cygeop.html
+Poc: https://gist.github.com/masthoon/6435384f8ee6c4dae25f263977347732
+Description: Exploiting a privileged zombie process handle leak on Cygwin.
+
+URL: https://github.com/mindedsecurity/graphqlschema2payload
+Description: Reverse engineers GQL Schema and generates template payloads.
+
+URL: https://github.com/mwrlabs/SharpGPOAbuse
+More: https://labs.mwrinfosecurity.com/tools/sharpgpoabuse
+Description:  Abuse of a user’s edit rights on a Group Policy Object (GPO).
+
+URL: https://github.com/xFreed0m/KatzKatz
+Description: Python script to parse txt files containing Mimikatz output.
+
+URL: https://github.com/Critical-Start/pastebin_scraper
+Description: Automated tool to monitor pastebin for interesting information.
+
+URL: https://github.com/SecureThisShit/WinPwn
+Description: Automation for internal Windows Penetrationtest/AD-Security.
+
+URL: https://github.com/C0RB3N/subjs
+Description: A tool to get javascript files from a list of URLS or subdomains.
+
+URL: https://github.com/hlldz/APC-PPID
+Description: Adds APC obj to the APC queue of a thread and spoof the Parent Process.
+
+URL: https://github.com/ustayready/fireprox
+Description: AWS API Gateway tool for HTTP pass-through proxies for unique IP rotation.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://digi.ninja/blog/domain_fronting.php
+Description: A 101 on Domain Fronting.
+
+URL: https://gkbrk.com/2019/01/reverse-engineering-the-godot-file-format/
+Description: Reverse Engineering the Godot File Format.
+
+URL: https://modexp.wordpress.com/2019/03/07/process-injection-print-spooler/
+Description: Windows Process Injection - Print Spooler.
+
+URL: https://cfreal.github.io/carpe-diem-cve-2019-0211-apache-local-root.html
+Description: CARPE (DIEM) - Apache Root Privilege Escalation (CVE-2019-0211).
+
+URL: https://www.drewgreen.net/vulnerabilities-in-tightrope-media-systems-carousel/
+Description: Tightrope Media Systems Carousel <=7.0.4.104 (and likely newer).
+
+URL: https://snyk.io/blog/severe-security-vulnerability-in-bowers-zip-archive-extraction/
+Description: Severe Security Vulnerability in Bower’s Zip Archive Extraction.
+
+URL: https://www.secjuice.com/finding-real-ips-of-origin-servers-behind-cloudflare-or-tor/
+Description: Finding The Real Origin IPs Hiding Behind CloudFlare or Tor.
+
+URL: https://medium.com/tenable-techblog/filezilla-untrusted-search-path-bc3a7b3ae51e
+Description: FileZilla Untrusted Search Path.
+
+URL: http://bit.ly/2UzN9c0 (+)
+Description: How Cross-Site WebSocket Hijacking could lead to full Session Compromise.
+
+URL: http://bit.ly/2HXhjAb (+)
+Description: From http:// domain to res:// domain XXS by using IE Adobe's PDF ActiveX plugin.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/web-dom/joss/
+Description: JSON Operating System Schema.
+
+URL: https://github.com/ElevenPaths/SDK-SMS-Stack
+Description: SMS Stack is a Framework to provided TPC/IP to the GSM Short Message Service.
+
+URL: https://www.zoomeye.org/topic?id=ZoomEye-series-report-VE-en
+Description: Impact of 2019 Venezuelan Blackouts on Its Network Critical Infras/Information Systems.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?8cd15981ea55a70c#kPEnb2HBamNRfcLuD1nbHur3Ho6u84GD5bmz+kZ0HNI=
