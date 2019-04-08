@@ -86,6 +86,7 @@ URL: https://modexp.wordpress.com/2019/03/07/process-injection-print-spooler/
 Description: Windows Process Injection - Print Spooler.
 
 URL: https://cfreal.github.io/carpe-diem-cve-2019-0211-apache-local-root.html
+PoC: https://github.com/cfreal/exploits/tree/master/CVE-2019-0211-apache
 Description: CARPE (DIEM) - Apache Root Privilege Escalation (CVE-2019-0211).
 
 URL: https://www.drewgreen.net/vulnerabilities-in-tightrope-media-systems-carousel/
