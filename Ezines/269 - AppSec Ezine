@@ -1,0 +1,136 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 15 | Month: April | Year: 2019 | Release Date: 12/04/2019 | Edition: #269  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/381356
+Description: Client-Side Race Condition using Marketo.
+
+URL: https://medium.com/@d0nut/better-exfiltration-via-html-injection-31c72a2dae8b
+Description: Better Exfiltration via HTML Injection.
+
+URL: http://bit.ly/2X5eTCX (+)
+More: https://paper.seebug.org/884/
+PoC: https://github.com/pyn3rd/CVE-2019-3396
+Description: SSTI and RCE in Confluence Server via Widget Connector (CVE-2019-3396).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/wapiflapi/villoc
+Description: Visualization of heap operations.
+
+URL: https://github.com/rasta-mouse/EWSToolkit
+Description: Abusing Exchange via EWS.
+
+URL: https://github.com/rek7/mXtract
+Description: mXtract - Memory Extractor & Analyzer.
+
+URL: https://github.com/hc0d3r/mysql-magic
+Description: Dump mysql client password from memory.
+
+URL: https://github.com/leoloobeek/LAPSToolkit
+Description: Tool to audit and attack LAPS environments.
+
+URL: https://github.com/Synacktiv/stuffz/blob/master/android-ks-decryptor.py
+More: https://www.synacktiv.com/ressources/keystore_decryptor.pdf
+Description: Script to decode and decrypt Android Keystores (only software).
+
+URL: https://github.com/decoder-it/powershellveryless/
+Description: Constrained Language Mode + AMSI bypass all in one.
+
+URL: https://blog.zsec.uk/el-injection-rce/
+Description: Leveraging Expression Language Injection (EL Injection) for RCE.
+
+URL: https://github.com/bazelbuild/sandboxfs
+More: http://julio.meroh.net/2019/02/hello-sandboxfs-0.1.0.html
+Description: A virtual file system for sandboxing.
+
+URL: https://github.com/pkb1s/SharpAllowedToAct
+Description: Computer object takeover through Resource-Based Constrained Delegation.
+
+URL: https://github.com/cobbr/Covenant
+Blog: http://bit.ly/2Gg8gs1 (+)
+Description: Covenant is a .NET C&C that aims to highlight the attack surface of .NET.
+
+URL: https://github.com/exodusintel/CVE-2019-5786/
+Description: Chrome 72.0.3626.119 stable FileReader UaF for Windows 7 x86 (CVE-2019-5786).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://rastamouse.me/2019/01/gpo-abuse-part-1/
+More: https://rastamouse.me/2019/01/gpo-abuse-part-2/
+Description: Group Policy Objects (GPOs) Abuse.
+
+URL: http://bit.ly/2Ksl6HR (+)
+Description: SSRF vulnerability via FFmpeg HLS processing.
+
+URL: http://tomasuh.github.io/2018/12/28/retefe-unpack.html
+Description: Retefe unpacker writeup.
+
+URL: http://bit.ly/2Uvj2DH (+)
+PoC: https://github.com/danielthatcher/moodle-login-csrf/
+Description: Obtaining XSS Using Moodle Features and Minor Bugs.
+
+URL: https://www.shielder.it/blog/nagios-xi-5-5-10-xss-to-root-rce/
+Description: Nagios XI 5.5.10 - From XSS to root.
+
+URL: https://wpa3.mathyvanhoef.com/
+Description: Dragonblood - Analysing WPA3's Dragonfly Handshake.
+
+URL: https://habr.com/en/post/446238/
+Description: Exploiting signed bootloaders to circumvent UEFI Secure Boot.
+
+URL: https://blog.exodusintel.com/2019/04/03/a-window-of-opportunity/
+Description: A window of opportunity - exploiting a Chrome 1day vulnerability.
+
+URL: https://www.notsosecure.com/exploiting-ssrf-in-aws-elastic-beanstalk/
+Description: Exploiting SSRF in AWS Elastic Beanstalk.
+
+URL: https://mp.weixin.qq.com/s/OissE9gAVkKmAXuiIUeOLA
+Description: Windows DHCP Server RCE Vulnerability Analysis (CVE-2019-0626).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://cturt.github.io/pinball.html
+Description: Reverse Engineering and Modding Mario Pinball Land (GBA).
+
+URL: http://www.righto.com/2019/04/iconic-consoles-of-ibm-system360.html
+Description: Iconic consoles of the IBM System/360 mainframes, 55 years old.
+
+URL: https://github.com/JPaulMora/Pyrit
+Description: Pyrit - The famous WPA precomputed cracker, Migrated from Google.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?c2e3c48a2355c3e5#APOlEH4g1o+3VLXe/LKygq+/C63lS4UrGIqJdpKlcus=
