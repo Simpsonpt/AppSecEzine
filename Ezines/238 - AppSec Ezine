@@ -109,6 +109,7 @@ URL: http://bit.ly/2MTheQP (+)
 Description: Analyzing and Exploiting an PE Vuln. in Docker for Windows (CVE-2018-15514).
 
 URL: http://bit.ly/2M2eX0C (+)
+PoC: https://github.com/ChiChou/sploits/tree/master/CVE-2018-8412
 Description: MS Office 2016 for Mac Priv. Escalation via a Legacy Package (CVE-2018–8412).
 
 
