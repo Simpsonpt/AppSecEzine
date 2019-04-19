@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 16 | Month: April | Year: 2019 | Release Date: 19/04/2019 | Edition: #270 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.underdogsecurity.com/rce_in_origin_client/
+Description: RCE in EA's Origin Desktop Client.
+
+URL: https://hackerone.com/reports/369451
+Blog: https://dylankatz.com/attacking-cloud-containers-using-ssrf/
+Description: Attacking Cloud Containers Using SSRF (GitLab CI PoC).
+
+URL: http://bit.ly/2KMwUF1 (+)
+Description: Old but GOLD Dot Dot Slash to Get the Flag — Uber Microservice.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/nccgroup/dirble
+Description: Fast directory scanning and scraping tool.
+
+URL: https://gist.github.com/glenux/3e705387e30f229c242ea153de6e6a4d
+Description: Faking DNS from userland.
+
+URL: https://github.com/enigmatos/Fuzzlon
+Blog: https://www.enigmatos.com/2019/03/24/fuzzlon/
+Description: FUZZLON - a 802.15.4 Random Fuzz.
+
+URL: https://github.com/arbazkiraak/certasset
+Description: Takes ip range, Scan all open SSL Certs, Grab Cnames.
+
+URL: https://github.com/s0md3v/Arjun/
+Description: HTTP parameter discovery suite.
+
+URL: https://github.com/sophoslabs/CVE-2018-18500/
+Description: Firefox Use-After-Free PoC (CVE-2018-18500).
+
+URL: http://bit.ly/2ItRHvg (+)
+Description: Writing a Password Protected Reverse Shell (Linux/x64).
+
+URL: https://github.com/sepehrdaddev/Xerxes
+Description: Xerxes dos tool enhanced with many features for stress testing.
+
+URL: https://github.com/nongiach/sudo_inject
+Description: Privilege Escalation by injecting process possessing sudo tokens.
+
+URL: https://github.com/ultrasecurity/TeleKiller
+Description: A Tools Session Hijacking And Stealer Local Passcode Telegram Windows.
+
+URL: https://hackerone.com/reports/473888
+Description: Ruby on Rails RCE via Marshal as the default serializer (CVE-2019-5420).
+
+URL: https://github.com/cheetz/sslScrape
+Description: SSLScrape - A scanning tool for scaping hostnames from SSL certificates.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md
+Description: Jailbreaking Subaru StarLink.
+
+URL: https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/
+More: https://rastamouse.me/2019/04/weaponizing-cve-2019-0841-with-laps/
+Description: DACL Permissions Overwrite Privilege Escalation (CVE-2019-0841).
+
+URL: https://www.shielder.it/blog/exploit-apache-solr-through-opencms/
+Description: Exploiting Apache Solr through OpenCMS.
+
+URL: https://dejandayoff.com/the-danger-of-exposing-docker.sock/
+Description: The Danger of Exposing Docker.Sock.
+
+URL: https://parzelsec.de/timing-attacks-with-machine-learning/
+Description: Timing Attacks using Machine Learning.
+
+URL: http://bit.ly/2vgAlsN (+)
+PoC: https://github.com/ChiChou/sploits/tree/master/CVE-2019-8513
+Description: Rootpipe Reborn - TimeMachine root command injection (CVE-2019-8513).
+
+URL: http://bit.ly/2Gydmz1 (+)
+Description: A Series of Unfortunate Images - Drupal 1-click to RCE Chain Detailed.
+
+URL: http://newosxbook.com/articles/OTA.html
+Description: Taking apart iOS OTA Updates - Peeking into Over-The-Air Update bundles.
+
+URL: https://hackerone.com/reports/110293
+Description: Insufficient OAuth callback validation leads to Periscope account takeover.
+
+URL: https://www.labofapenetrationtester.com/2019/04/abusing-PAM.html
+Description: How NOT to use the PAM - Leveraging Shadow Principals for Cross Forest Attacks.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://bit.ly/2Xk9t7l (+)
+Description: When pigs fly - Optimising bytecode interpreters.
+
+URL: https://github.com/boyEstrogen/Anime-Girls-Holding-Programming-Books
+Description: Anime Girls Holding Programming Books.
+
+URL: https://jerrington.me/posts/2019-01-29-self-hosted-ngrok.html
+Description: Roll your own Ngrok w/ Nginx, Letsencrypt, and SSH reverse tunnelling.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?cab06af13153e10b#EGEfVgZWWmZT2CAr8YhAb3bhlC5k2ZU6If2IhJVjK2s=
