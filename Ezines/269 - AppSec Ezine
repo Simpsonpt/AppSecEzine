@@ -20,7 +20,7 @@ URL: https://medium.com/@d0nut/better-exfiltration-via-html-injection-31c72a2dae
 Description: Better Exfiltration via HTML Injection.
 
 URL: http://bit.ly/2X5eTCX (+)
-More: https://paper.seebug.org/884/
+More: https://paper.seebug.org/884/ | http://bit.ly/2UTG16p (+)
 PoC: https://github.com/pyn3rd/CVE-2019-3396
 Description: SSTI and RCE in Confluence Server via Widget Connector (CVE-2019-3396).
 
