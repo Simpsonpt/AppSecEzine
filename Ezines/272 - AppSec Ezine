@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 18 | Month: May | Year: 2019 | Release Date: 03/05/2019 | Edition: #272   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/210779
+Description: Invalidating OAuth2 Bearer token makes TweetDeck unavailable.
+
+URL: http://bit.ly/2VE8WQE (+)
+Description: The journey of Web Cache,Firewall Bypass to SSRF to AWS creds compromise!
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/chris2511/xca/
+Description: XCA - Certificate and Key management.
+
+URL: http://bit.ly/2Y1LhHa (+)
+Description: How I found 5 ReDOS Vulnerabilities in Mod Security CRS.
+
+URL: https://github.com/needmorecowbell/sniff-paste
+Description: Sniff-Paste - OSINT Pastebin Harvester.
+
+URL: https://github.com/x41sec/beanstack
+Description: Java Fingerprinting using Stack Traces.
+
+URL: https://github.com/We5ter/Flerken
+Description: Open-Source Obfuscated Command Detection Tool.
+
+URL: https://research.801labs.org/developing-a-dll-injector/
+Description: DLL injection - Developing a simple injector.
+
+URL: https://github.com/unknownv2/CoreHook
+Description: CoreHook - Function Intercept Framework.
+
+URL: https://github.com/vulmon/Vulmap
+Description: Vulmap Online Local Vulnerability Scanners Project.
+
+URL: https://github.com/fireeye/flashmingo
+Description: Automatic analysis of SWF files based on some heuristics.
+
+URL: http://bit.ly/2Jbahrp (+)
+Description: Fun with Burp Suite Session Handling, Extensions, and SQLMap.
+
+URL: https://github.com/Coalfire-Research/DeathMetal
+Blog: https://www.coalfire.com/The-Coalfire-Blog/April-2019/The-Death-Metal-Suite
+Description: DeathMetal is a suite of tools that interact with Intel AMT.
+
+URL: https://www.darkmatter.ae/blogs/security-flaws-uncovered-in-sony-smart-tvs/
+Description: Security flaws uncovered in Sony Smart TVs (CVE-2019-11336/CVE-2019-10886).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://paper.seebug.org/910/
+More: https://mp.weixin.qq.com/s/tWgRhtFtabL-ceLaRWlY7g  
+Description: WebLogic RCE (CVE-2019-2725) Debug Diary.
+
+URL: http://eternalsakura13.com/2019/04/29/CVE-2016-5198/
+Description: Case study CVE-2016-5198.
+
+URL: https://securityriskadvisors.com/blog/aws-iam-exploitation/
+Description: AWS IAM Exploitation.
+
+URL: https://capsule8.com/blog/exploiting-systemd-journald-part-1/
+More: https://capsule8.com/blog/exploiting-systemd-journald-part-2/
+Description: Exploiting SystemD JournalD.
+
+URL: https://edoverflow.com/2019/ci-knew-there-would-be-bugs-here/
+Description: Exploring Continuous Integration Services as a Bug Bounty Hunter.
+
+URL: https://medium.com/tenable-techblog/eight-devices-one-exploit-f5fc28c70a7c
+Description: Eight Devices, One Exploit OEM Vulnerabilities (CVE-2019–3929).
+
+URL: https://d4stiny.github.io/Remote-Code-Execution-on-most-Dell-computers/
+Description: Remote Code Execution on most Dell computers.
+
+URL: http://bit.ly/2GWPxAL (+)
+Description: Recreating known universal windows password backdoors with Frida.
+
+URL: http://www.tomanthony.co.uk/blog/xss-attacks-googlebot-index-manipulation/
+Description: XSS attacks on Googlebot allow search index manipulation.
+
+URL: http://bit.ly/2IYijVt (+) 
+More: https://github.com/jas502n/CVE-2019-0232 | http://bit.ly/2V6dsI1 (+)
+Description: Apache Tomcat Remote Code Execution on Windows - CGI-BIN (CVE-2019-0232).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/tsl0922/ttyd
+Description: Share your terminal over the web.
+
+URL: https://github.com/taylorconor/quinesnake
+Description: A quine that plays snake over its own source!
+
+URL: https://github.com/ravens/docker-nextepc
+Description: Docker-based end-to-end LTE network (NextEPC + srsLTE).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?dcf3dbf9511eb402#w2OugbwNz0gq6CumeqkzR2a+lPuf1qY74qn0nlgdEyI=
