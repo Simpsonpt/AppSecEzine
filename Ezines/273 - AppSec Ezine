@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 19 | Month: May | Year: 2019 | Release Date: 10/05/2019 | Edition: #273   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.virtuesecurity.com/tale-of-a-wormable-twitter-xss/
+Description: Tale of a Wormable Twitter XSS.
+
+URL: https://hackerone.com/reports/563870
+Description: 1-click HackerOne account takeover on all Android devices (CVE-2019-5765).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://bit.ly/2H9qH0X (+)
+Description: Metasploit payloads evasion against Linux AV.
+
+URL: https://github.com/netevert/dnsmorph
+Description: Domain name permutation engine written in Go. 
+
+URL: https://github.com/target/strelka
+Description: Scanning files at scale with Python and ZeroMQ.
+
+URL: https://github.com/jaxBCD/Zeebsploit
+Description: Web scanner - Exploitation - Information gathering.
+
+URL: https://github.com/dirkjanm/adidnsdump
+Blog: http://bit.ly/2vPXjrk (+)
+Description: Active Directory Integrated DNS dumping by any authenticated user.
+
+URL: https://github.com/dnkolegov/spiffe-noisesocket-example
+Description: SPIFFE with NoiseSocket.
+
+URL: http://bit.ly/2Lxly8o (+)
+Description: x-up-devcap-post-charset Header in ASP.NET to Bypass WAFs Again!
+
+URL: http://bit.ly/2LyXKks (+)
+Description: Malicious DLL execution using Apple's APSDaemon.exe signed binary.
+
+URL: https://github.com/ninoseki/mihari
+Description: Mihari is a framework for continuous malicious hosts monitoring.
+
+URL: https://github.com/SpiderLabs/HostHunter
+Description: Recon tool for discovering hostnames using OSINT techniques.
+
+URL: https://github.com/rot42/gnuk-extractor
+Description: Extract PGP secret keys from Gnuk / Nitrokey Start firmwares.
+
+URL: https://github.com/outflanknl/EvilClippy
+Blog: https://outflank.nl/blog/2019/05/05/evil-clippy-ms-office-maldoc-assistant/
+Description: A cross-platform assistant for creating malicious MS Office documents.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.tarlogic.com/en/blog/attacking-selenium-grid/
+Tool: https://github.com/TarlogicSecurity/seleniumInformer
+Description: Attacking QA platforms - Selenium Grid.
+
+URL: http://bit.ly/2LwQ1mK (+)
+Description: A closer (beginners) look at (CVE-2019–0539).
+
+URL: http://bit.ly/2Hbwowt (+)
+Description: New jQuery prototype pollution vulnerability.
+
+URL: http://bit.ly/2PUMZr3 (+)
+Description: macOS - Persisting through Application script files.
+
+URL: https://hackerone.com/reports/509924
+Description: Gitlab Information leak via JSON serialization of Project model.
+
+URL: http://blog.0x42424242.in/2019/03/vstarcam-investigational-security.html
+More: http://blog.0x42424242.in/2019/03/vstarcam-investigational-security_22.html
+Description: VStarCam - An Investigative Security Journey.
+
+URL: http://bit.ly/2JaLkNv (+)
+Description: ActiveX Exploitation in 2019 (CVE-2018-19418/CVE-2018-19447).
+
+URL: http://bit.ly/2Jbl0Da (+)
+Description: Write-after-free vulnerability analysis in Firefox (CVE-2018-18500).
+
+URL: https://medium.com/0xcc/rootpipe-reborn-part-ii-e5a1ffff6afe
+PoC: https://github.com/ChiChou/sploits/tree/master/CVE-2019-8565
+Description: Feedback Assistant race condition leads to root LPE (CVE-2019-8565).
+
+URL: https://www.nc-lp.com/blog/reverse-engineering-games-for-fun-and-ssrf-part-1
+More: https://www.nc-lp.com/blog/reverse-engineering-games-for-fun-and-ssrf-part-2
+Description: Reverse engineering games for fun and SSRF. 
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://classic.minecraft.net
+Description: Minecraft in the browser.
+
+URL: https://www.my-internet-explorer.com/
+Description: Internet Explorer Browser Collection.
+
+URL: https://hackerone.com/reports/419883
+Description: GraphQL discloses internal beer consumption.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?8c2a38295284eabb#/duTHkb611KEJPdO/WKSuO+I/66p+BNblBxO/5e5qaU=
