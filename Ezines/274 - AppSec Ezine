@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 20 | Month: May | Year: 2019 | Release Date: 17/05/2019 | Edition: #274   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/450365
+Description: Remote Code Execution in epoch via epmd.
+
+URL: https://zeropwn.github.io/2019-05-13-xss-to-rce/
+Description: A Questionable Journey From XSS to RCE (CVE-2019-11354).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Tuhinshubhra/ExtAnalysis
+Description: Browser Extension Analysis Framework.
+
+URL: https://github.com/ningzhenyu/nailgun
+Description: Nailgun -Break the privilege isolation in ARM devices.
+
+URL: https://github.com/vletoux/TestAntivirus/blob/master/testAV.ps1
+Description: Ever wanted to know if your servers have an antivirus installed?
+
+URL: https://github.com/phayes/sidefuzz
+Description: Fuzzer to automatically find side-channel (timing) vulnerabilities.
+
+URL: https://github.com/knqyf263/trivy
+Description: A Simple and Comprehensive Vulnerability Scanner for Containers.
+
+URL: https://github.com/Leviathan36/kaboom
+Description: Kaboom is a sript that automates the penetration test.
+
+URL: https://security.lauritz-holtmann.de/advisories/cve-2019-11832/
+Description: TYPO3 CMS is vulnerable to RCE using PostScript (CVE-2019-11832).
+
+URL: https://gist.github.com/jupenur/e5d0c6f9b58aa81860bf74e010cf1685
+Description: Multiple vulnerabilities in jQuery Mobile.
+
+URL: https://astr0baby.wordpress.com/2019/01/26/custom-meterpreter-loader-in-2019/
+Description: Custom-Meterpreter loader in 2019.
+
+URL: https://github.com/FrenchYeti/dexcalibur
+Description: Dynamic binary instrumentation tool designed for Android powered by Frida. 
+
+URL: https://github.com/Microsoft/AttackSurfaceAnalyzer
+Description: Attack Surface Analyzer can help you analyze your OS security configuration.
+
+URL: https://github.com/streaak/keyhacks
+Description: KeyHacks shows ways in which particular API keys found on a BBP can be used.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://mdsattacks.com/
+Description: RIDL and Fallout - MDS attacks.
+
+URL: https://thewover.github.io/Introducing-Donut/
+PoC: https://github.com/TheWover/donut/
+Description: Donut - Injecting .NET Assemblies as Shellcode.
+
+URL: https://zombieloadattack.com/
+PoC: https://github.com/IAIK/ZombieLoad
+Description: ZombieLoad - Cross-Privilege-Boundary Data Sampling.
+
+URL: https://wojciechregula.blog/post/stealing-bear-notes-with-url-schemes/
+Description: Stealing Bear Notes With Url Schemes.
+
+URL: http://bit.ly/2Ep1u23 (+)
+Description: Latest Bypassing Techniques Beat SOAP/XML API Protection.
+
+URL: https://modexp.wordpress.com/2019/05/10/dotnet-loader-shellcode/
+Description: Shellcode Loading .NET Assemblies From Memory.
+
+URL: http://bit.ly/2WQBt2E (+)
+PoC: https://github.com/silentsignal/eazfuscator.net-symbol-decrypter
+Description: Mass decryptor for Eazfuscator.NET Symbol Names Encryption.
+
+URL: https://rce4fun.blogspot.com/2019/05/panda-antivirus-local-privilege.html
+Description: Panda Antivirus - Local Privilege Escalation (CVE-2019-12042).
+
+URL: http://bit.ly/2LY1qfw (+)
+Description: Exploiting RFI in PHP and bypassing remote URL inclusion restriction.
+
+URL: https://landgrey.me/richfaces-cve-2018-14667/
+Description: RichFaces Deserialization-induced EL Expression Injection (CVE-2018-14667).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://gist.github.com/wybiral/c8f46fdf1fc558d631b55de3a0267771
+Description: Tracking cursor position in real-time without JavaScript.
+
+URL: https://liveoverflow.com/the-origin-of-script-kiddie-hacker-etymology/
+Description: The Origin of Script Kiddie - Hacker Etymology.
+
+URL: https://www.wpadblock.com/
+Description: WPADblock initiative - Monitoring and blocking WPAD traffic since 2007.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?91c63260363d5329#jh1y9mo5tZ1V+SwAfjUvXDcShvtPP9KVDGcaaU91Pvw=
