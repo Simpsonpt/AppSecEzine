@@ -99,7 +99,7 @@ URL: https://blog.doyensec.com/2019/04/24/rubyzip-bug.html
 Description: On insecure zip handling, Rubyzip and Metasploit RCE (CVE-2019-5624).
 
 URL: https://sensepost.com/blog/2019/understanding-peap-in-depth/ 
-PoC: https://github.com/sensepost/understanding-eap
+PoC: http://bit.ly/2Hzcbzv (+) | https://github.com/qingxp9/CVE-2019-6203-PoC
 Description:  Write-up of the EAP bug that affected all Apple devices (CVE-2019-6203).
 
 URL: https://www.linkedin.com/pulse/micro-patching-vulnerabilities-tutorial-0patch-t-k/
