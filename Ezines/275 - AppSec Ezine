@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 21 | Month: May | Year: 2019 | Release Date: 24/05/2019 | Edition: #275   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/341908
+Description: XSS via Direct Message deeplinks.
+
+URL: http://bit.ly/2WjQywF (+)
+Description: SVG XLink SSRF fingerprinting libraries version.
+
+URL: https://medium.com/tenable-techblog/stealing-downloads-from-slack-users-be6829a55f63
+Description: Stealing Downloads from Slack Users.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/DanMcInerney/pymetasploit3
+Description: Automation library for Metasploit.
+
+URL: https://github.com/ThisIsLibra/AndroidProjectCreator
+Description: Convert an APK to an Android Studio Project.
+
+URL: https://snikt.net/blog/2019/05/22/to-fuzz-a-websocket/
+Description: To Fuzz a WebSocket.
+
+URL: https://medium.com/@ghostlulzhacks/wayback-machine-e678a3567ec
+Description: Wayback Machine "Recon".
+
+URL: https://github.com/baguswiratmaadi/reverie
+Description: Automated Pentest Tools Designed For Parrot Linux.
+
+URL: https://github.com/Edu4rdSHL/findomain
+Description: A tool that use Certificate Transparency logs to find subdomains.
+
+URL: http://lordofpwn.kr/index.php/writeup/cve-2019-8506-javascriptcore-exploit/
+Description: JavaScriptCore exploit (CVE-2019-8506).
+
+URL: https://github.com/Chainfire/injectvm-binderjack
+Description: Android VM injection and BinderJacking PoC and some ramblings about root.
+
+URL: https://github.com/anantshri/DS_Store_crawler_parser
+Description: A parser + crawler for .DS_Store files exposed publically.
+
+URL: https://github.com/MyNameIsMeerkat/pyREtic
+Description: Extensible framework for in-memory Python bytecode reverse engineering.
+
+URL: https://github.com/0vercl0k/CVE-2019-9810
+Description: Exploit for CVE-2019-9810 Firefox on Windows 64 bits.
+
+URL: https://github.com/muraenateam/muraena
+Description: Almost-transparent reverse proxy aimed at automating phishing and post-phishing.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://medium.com/@fs0c131y/how-to-brick-all-samsung-phones-6aae4389bea
+PoC: https://github.com/fs0c131y/SamsungLocker
+Description: How to brick all Samsung phones.
+
+URL: https://www.tarlogic.com/en/blog/backdoors-modulos-apache/
+Description: Backdoors in XAMP stack - Apache Modules.
+
+URL: https://zeropwn.github.io/2019-05-22-fun-with-uri-handlers/
+Description: Fun With Custom URI Schemes.
+
+URL: https://hackerone.com/reports/505424
+Description: Twitter ID exposure via error-based side-channel attack.
+
+URL: https://www.darkmatter.ae/papers-articles/from-zero-to-tfp0-part-1-prologue/
+More: http://bit.ly/2HKhMmQ (+)
+Description: From Zero to tfp0 - Prologue and Voucher_swap Exploit Analysis.
+
+URL: http://bit.ly/2JY17yV (+)
+PoC: https://srcincite.io/pocs/src-2019-0034.py.txt
+Description: Unauthenticated RCE in Cisco Prime Infrastructure (CVE-2019-1821).
+
+URL: http://bit.ly/2EroJZ4 (+)
+Description: Think Outside the Scope - Advanced CORS Exploitation Techniques.
+
+URL: https://theevilbit.github.io/posts/vmware_fusion_11_guest_vm_rce_cve-2019-5514/
+Description: VMware Fusion 11 - Guest VM RCE (CVE-2019-5514).
+
+URL: https://web-in-security.blogspot.com/2019/02/how-to-spoof-pdf-signatures.html
+Description: How To Spoof PDF Signatures.
+
+URL: https://shenaniganslabs.io/2019/05/21/LXD-LPE.html
+Description: Linux Privilege Escalation via LXD & Hijacked UNIX Socket Credentials.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://keikai.io/blog/p/currency-exchange
+Description: Turn Your Excel File Into a Web Application.
+
+URL: http://bit.ly/2M6nDrV (+)
+Description: Love is in the air - Reverse Engineering a shitty drone.
+
+URL: https://petergarner.net/notes/index.php?thisnote=20180202-Travels+with+a+Pi
+Description: Travels with a Pi.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?e5c08de236a24b2a#6uBWZk1V1RTOrl+nqylJFfhQ7w1wExPmKHltlAeCz9w=
