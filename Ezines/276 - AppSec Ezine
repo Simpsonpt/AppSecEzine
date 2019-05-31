@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 22 | Month: May | Year: 2019 | Release Date: 31/05/2019 | Edition: #276   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ysamm.com/?p=272
+Description: Disclose files content from Facebook internal CDNs.
+
+URL: https://portswigger.net/blog/abusing-jquery-for-css-powered-timing-attacks
+Description: Abusing jQuery for CSS powered timing attacks.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/kpcyrd/sniffglue
+Description: Secure multithreaded packet sniffer.
+
+URL: https://github.com/enkomio/Sojobo
+Description: Sojobo - A binary analysis framework.
+
+URL: https://medium.com/@subTee/flying-toruk-makto-b1bff8f6603c
+Description: Using Equation Group Tools to manipulate Process Privileges.
+
+URL: https://github.com/chromium/trickuri
+More: https://www.youtube.com/watch?v=RPoAc0ScdTM
+Description: Tool designed to allow testing of applications' display of URLs.
+
+URL: https://github.com/TarlogicSecurity/tickey
+Description: Tool to extract Kerberos tickets from Linux kernel keys.
+
+URL: https://www.fcvl.net/vulnerabilities/macosx-gatekeeper-bypass
+Description: MacOS X GateKeeper Bypass.
+
+URL: https://github.com/bromiley/pollen
+Description: Pollen - A command-line tool for interacting with TheHive.
+
+URL: http://bit.ly/2wyCHUx (+)
+Description: Calling iOS Native Functions from Python Using Frida and RPC.
+
+URL: https://github.com/OCSAF/freevulnsearch
+Description: NMAP NSE script to query vulnerabilities via the cve-search.org API.
+
+URL: https://github.com/00xc/h2buster
+Description: A threaded, recursive, web directory brute-force scanner over HTTP/2.
+
+URL: https://github.com/vonahi-security/leprechaun 
+Description: Tool to map out the network data flow and identify potentially targets.
+
+URL: https://github.com/Gerenios/AADInternals
+Blog: http://o365blog.com/aadinternals/
+Description: AADInternals PowerShell module for administering Azure AD and Office 365.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2IcgEc2 (+)
+Description: Exfiltration series - Certexfil.
+
+URL: https://habr.com/en/company/drweb/blog/452076/
+Description: Breaking UC Browser.
+
+URL: https://phoenhex.re/2019-05-15/non-jit-bug-jit-exploit
+Description: Non JIT Bug, JIT Exploit (CVE-2019-0812).
+
+URL: https://labs.spotify.com/2013/06/18/creative-usernames/
+Description: Creative usernames and Spotify account hijacking (Oldies).
+
+URL: https://blog.devsecurity.eu/en/blog/dnspy-deserialization-vulnerability
+Description: Vulnerable deserialization in dnSpy and Resource.NET.
+
+URL: https://blog.devsecurity.eu/en/blog/joplin-electron-rce
+Description: Joplin ElectronJS based Client - From XSS to RCE.
+
+URL: https://whereisk0shl.top/post/2019-05-11
+Description: About CVE-2018-8550 (DfMarshal series vulnerability).
+
+URL: https://bnbdr.github.io/posts/wd/
+Description: WD My Cloud RCE (CVE-2019-9950/CVE-2019-9951/CVE-2019-9949).
+
+URL: http://standa-note.blogspot.com/2018/02/amsi-bypass-with-null-character.html
+PoC: https://github.com/airman604/amsi_bypassr
+Description: AMSI Bypass With a Null Character.
+
+URL: http://bit.ly/2EH1I4m (+)
+Description: Exploitation of a Write-What-Where in Internet Explorer (CVE-2019-0752).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://techblog.mediaservice.net/2019/03/a-journey-into-iot-hardware-hacking-uart/
+Description: A journey into IoT – Hardware hacking: UART.
+
+URL: https://www.magiclantern.fm/
+Description: Canon DSLR cameras software enhancement.
+
+URL: http://bit.ly/2Wr8O7v (+)
+Description: Find hidden friends and communities for any Facebook user.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?bcff48c2a9861bed#HR5Z+MGuttKhulrVDVXGtfgrIV50eLFwShABpIhgPeU=
