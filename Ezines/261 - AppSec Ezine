@@ -78,7 +78,7 @@ URL: http://bit.ly/2TQYTmW (+)
 Description: LNK & ISESteroids Powershell dropper.
 
 URL: https://shenaniganslabs.io/2019/02/13/Dirty-Sock.html
-PoC: https://github.com/initstring/dirty_sock/
+PoC: https://github.com/initstring/dirty_sock/ | https://github.com/Dhayalanb/Snapd-V2
 Description: Privilege Escalation in Ubuntu Linux (dirty_sock exploit).
 
 URL: http://bit.ly/2BCPZSX (+)
