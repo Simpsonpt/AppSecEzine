@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 23 | Month: June | Year: 2019 | Release Date: 07/06/2019 | Edition: #277  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.inputzero.io/2019/06/hacking-smart-tv.html
+Description: Hacking Smart TV - Supra Smart Cloud TV  (CVE-2019-12477).
+
+URL: http://bit.ly/2I0PuWB (+)
+Description: The Unusual Case of Status code 301 Redirection to AWS Credentials Leak.
+
+URL: http://bit.ly/31aZJz2 (+)
+Description: Google bug bounty - LFI on production servers in //springboard.google.com.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/cryptax/droidlysis
+Description: Property extractor for Android apps.
+
+URL: https://github.com/LinusHenze/Keysteal
+Description: A macOS <= 10.14.3 Keychain exploit (CVE-2019-8526).
+
+URL: https://www.tarlogic.com/en/blog/how-to-attack-kerberos/
+Description: How to attack Kerberos.
+
+URL: https://github.com/lucasg/Dependencies
+Description: Dependencies - An open-source modern Dependency Walker.
+
+URL: https://github.com/Microsoft/AaronLocker
+Description: Robust and practical application whitelisting for Windows.
+
+URL: https://github.com/CoolerVoid/HiddenWall
+Description: Linux kernel module generator for custom rules with netfilter.
+
+URL: http://bit.ly/2K3whps (+)
+Description: Patching Yourself into Windows Code Integrity - On-Disk Patching.
+
+URL: http://homepages.laas.fr/rcayre/mirage-documentation/index.html
+Description: Framework dedicated to the security analysis of wireless communications.
+
+URL: https://orangewirelabs.wordpress.com/2019/05/30/hacking-ios-xamarin-apps-with-frida/
+Description: Hacking iOS Xamarin apps with Frida.
+
+URL: https://github.com/numirias/security/blob/master/doc/2019-06-04_ace-vim-neovim.md
+Description: Vim/Neovim Arbitrary Code Execution via Modelines.
+
+URL: https://github.com/patois/mrspicky
+Description: IDAPython decompiler that helps auditing calls to the memcpy() and memmove().
+
+URL: http://bit.ly/2Ipk2Ab (+)
+Description: Build an easy RDP Honeypot for BlueKeep (CVE-2019–0708) with RPI3.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/31fBbVN (+)
+More: http://bit.ly/2wGH7ZM (+)
+Description: Microsoft Edge full-chain exploit (CVE-2019-0940/CVE-2019-0938).
+
+URL: https://theevilbit.github.io/posts/getting_root_with_benign_appstore_apps/
+Description: macOS - Getting root with benign AppStore apps
+
+URL: http://www.catch22.net/tuts/undocumented-createprocess
+Description: Undocumented CreateProcess (Windows programming).
+
+URL: http://bit.ly/2Z5lwGu (+)
+Description: Remote Code Execution on Safari.
+
+URL: https://0x41.cf/infosec/2019/05/28/skype-web-plugin-ez-rce.html
+Description: 1-click RCE with Skype Web Plugin and Qt apps.
+
+URL: http://bit.ly/2WsWu7t (+)
+Description: Reverse-engineering Samsung Exynos 9820 bootloader and TZ.
+
+URL: https://leakfree.wordpress.com/2015/03/12/php-object-instantiation-cve-2015-1033/
+Description: PHP Object Instantiation CVE-2015-1033 (Oldies).
+
+URL: https://blog.duszynski.eu/domain-hijack-through-http-301-cache-poisoning/
+Description: Permanent URL Hijack Through 301 HTTP Redirect Cache Poisonin.
+
+URL: https://www.fireeye.com/blog/threat-research/2019/06/hunting-com-objects.html
+Description: Hunting COM Objects.
+
+URL: https://medium.com/@lerner98/skiptracing-reversing-spotify-app-3a6df367287d
+Description: Skiptracing - Reversing Spotify.app.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/nanochess/Invaders
+Description: Invaders game in 512 bytes (boot sector).
+
+URL: https://secretgeek.github.io/html_wysiwyg/html.html
+Description: This page is a truly naked, brutalist HTML quine.
+
+URL: https://medium.com/@notdan/curl-slight-of-hand-exploit-hysteria-29a82e5851d
+Description: Curl, Slight of Hand, & Exploit Hysteria.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?9d63d72ac9700959#uoro4Y9kcvBAO/uVHN9yeEmcUj5OZwXnAEf/N95ofyM=
