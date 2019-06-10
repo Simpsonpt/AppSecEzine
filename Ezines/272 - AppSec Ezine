@@ -91,7 +91,8 @@ URL: https://medium.com/tenable-techblog/eight-devices-one-exploit-f5fc28c70a7c
 Description: Eight Devices, One Exploit OEM Vulnerabilities (CVE-2019–3929).
 
 URL: https://d4stiny.github.io/Remote-Code-Execution-on-most-Dell-computers/
-Description: Remote Code Execution on most Dell computers.
+PoC: https://github.com/D4stiny/Dell-Support-Assist-RCE-PoC
+Description: Remote Code Execution on most Dell computers (CVE-2019-3719).
 
 URL: http://bit.ly/2GWPxAL (+)
 Description: Recreating known universal windows password backdoors with Frida.
