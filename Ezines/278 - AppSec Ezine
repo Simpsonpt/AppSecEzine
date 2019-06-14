@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 24 | Month: June | Year: 2019 | Release Date: 14/06/2019 | Edition: #278  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.ripstech.com/2019/mybb-stored-xss-to-rce/
+Description: MyBB <= 1.8.20: From Stored XSS to RCE.
+
+URL: https://appio.dev/vulns/googleplex-com-blind-xss/
+Description: XSSing Google Employees — Blind XSS on googleplex.com.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/matonis/ripVT
+Description: Virus Total API Maltego Transform Set For Canari.
+
+URL: https://github.com/skavngr/rapidscan
+Description: The Multi-Tool Web Vulnerability Scanner.
+
+URL: https://github.com/idaholab/Malcolm
+Description: Malcolm is a powerful network traffic analysis tool suite.
+
+URL: https://github.com/patois/dsync
+Description: IDAPython plugin that synchronizes disassembler and decompiler views.
+
+URL: https://github.com/DoubleLabyrinth/Windows10-CustomKernelSigners
+Description: Load self-signed drivers without TestSigning or disable DSE.
+
+URL: https://github.com/thalium/icebox
+Description: Virtual Machine Introspection, Tracing & Debugging.
+
+URL: https://github.com/FuzzySecurity/Fermion
+Description: Fermion, an electron wrapper for Frida & Monaco.
+
+URL: https://github.com/microsoft/avml
+Description: AVML - Acquire Volatile Memory for Linux.
+
+URL: https://github.com/google/vxsig
+Description: Tool to generate AV byte signatures from sets of similar binaries. 
+
+URL: https://github.com/maldiohead/CVE-2019-8627
+Description: Kernel information leak on macOS<= 10.14.4 (CVE-2019-8627).
+
+URL: https://github.com/dhn/exploits/tree/master/CVE-2019-10149
+Description: Exim 4.87 < 4.91 Local Privilege Escalation (CVE-2019-10149).
+
+URL: https://github.com/Sheisback/CVE-2019-0859-1day-Exploit
+Description: Local Privilege Escalation vulnerability in Windows (CVE-2019-0859).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://rce.wtf/2019/06/10/w2k.html
+Description: MSRC-52108 A Case of a Win32k Race Condition.
+
+URL: https://rambleed.com/
+Description: Reading Bits in Memory Without Accessing Them (CVE-2019-0174).
+
+URL: https://habr.com/ru/company/dsec/blog/454592/
+Description: WAF through the eyes of hackers.
+
+URL: https://medium.com/@two06/fun-with-frida-5d0f55dd331a
+Description: Fun With Frida (steal credentials from KeePass).
+
+URL: https://www.sneakymonkey.net/2019/05/22/trickbot-analysis/
+Description: TRICKBOT is an info-stealer/banking trojan analysis.
+
+Blog: http://bit.ly/2X4iXY0 (+)
+Tool: https://github.com/Static-Flow/CloudCopy
+Description: Stealing hashes from Domain Controllers in the Cloud.
+
+URL: http://bit.ly/2WiM2KD (+)
+Description: Key generation vulnerability found on WalletGenerator.net.
+
+URL: https://eybisi.run/Mobile-Malware-Analysis-Overlay-and-How-to-Counter-it/
+Description: Mobile Malware Analysis - Overlay and How to Counter it (partly).
+
+URL: http://bit.ly/2ID9Y6Y (+)
+Description: Debug UEFI code by single-stepping your Coffee Lake-S hardware CPU.
+
+URL: https://payatu.com/microsoft-edge-extensions-host-permission-bypass-cve-2019-0678/
+Description: Microsoft EDGE Extensions host permission bypass (CVE-2019-0678).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://howhttps.works/
+Description: How HTTPS works ...in a comic!
+
+URL: https://harrisonsand.com/imsi-catcher/
+Description: Building a Passive IMSI Catcher.
+
+URL: https://wookey-project.github.io/
+Description: Build trusted USB devices and IoTs.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?7494290780e58951#lqofPnO1ZmR+b72yAfXL468G+ffWy/GnYzMgt8od7Lo=
