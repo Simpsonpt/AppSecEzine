@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 25 | Month: June | Year: 2019 | Release Date: 21/06/2019 | Edition: #279  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://medium.com/@mr_hacker/a-5000-idor-f4268fffcd2e
+Description: A $5000 IDOR...
+
+URL: http://bit.ly/2ZzYurC (+)
+Description: Chaining Three Bugs to Get RCE in Microsoft AttackSurfaceAnalyzer.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/urbanadventurer/WhatWeb
+Description: WhatWeb - Next generation web scanner.
+
+URL: https://github.com/mzfr/liffy/
+Description: Local file inclusion exploitation tool.
+
+URL: https://jpminty.github.io//cheatsheet/DFIR/
+Description: Digital Forensics and Incident Response.
+
+URL: https://github.com/inquest/python-iocextract
+Description: Advanced Indicator of Compromise (IOC) extractor.
+
+URL: http://bit.ly/2x8SGJe (+)
+Description: Deploy a private Burp Collaborator Server in Azure.
+
+URL: https://github.com/houjingyi233/office-exploit-case-study
+Description: Office exploits used in the real world with samples and writeup.
+
+URL: https://github.com/Coalfire-Research/Slackor
+Description: A Golang implant that uses Slack as a command and control server.
+
+URL: https://blog.redteam.pl/2019/04/dns-based-threat-hunting-and-doh.html
+Description: DNS based threat hunting and DoH (DNS over HTTPS).
+
+URL: https://github.com/rndinfosecguy/Scavenger
+Description: Crawler (Bot) searching for credential leaks on different paste sites.
+
+URL: https://github.com/InitRoot/BurpJSLinkFinder
+Description: Burp Extension for a passive scanning JS files for endpoint links.
+
+URL: https://github.com/ajxchapman/CmdRunner
+Description: Modular command encoder used to encode data run through various systems.
+
+URL: https://github.com/Securityautomation/DumpTheGit
+Description: Searches through public repositories to find uploaded sensitive information.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://hackerone.com/reports/576504
+Description: Authentication Bypass by abusing Insecure crypto tokens.
+
+URL: https://jaiverma.github.io/blog/ac-hack
+Description: Headshot - Game Hacking on macOS.
+
+URL: https://theofficialflow.github.io/2019/06/18/trinity.html
+Description: Trinity - PSP Emulator Escape.
+
+URL: https://blog.xpnsec.com/evading-sysmon-dns-monitoring/
+Description: Evading Sysmon DNS Monitoring.
+
+URL: http://bit.ly/2ItogYP (+)
+Description: Remote Code Execution on a Major IPTV Platform.
+
+URL: https://xor.cat/2019/06/19/fortinet-forticam-vulns/
+Description: Fortinet FortiCam FCM-MB40 - Multiple Vulnerabilities.
+
+URL: http://bit.ly/2x2tKmW (+)
+Description: The detailed analysis of WordPress 5.0 RCE (CVE-2019–6977).
+
+URL: https://www.twistlock.com/labs-blog/breaking-out-of-coresos-rkt-3-new-cves/
+Description: Breaking Out of rkt – 3 New Unpatched CVEs.
+
+URL: https://habr.com/ru/company/pt/blog/448378/
+Description: DHCP security in Windows 10 -  Disassemble critical vuln. CVE-2019-0726.
+
+URL: https://dmsec.io/hacking-thousands-of-websites-via-third-party-javascript-libraries/
+Description: Hacking thousands of websites via third-party JavaScript libraries.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://dassur.ma/things/c-to-webassembly/
+Description: Compiling C to WebAssembly without Emscripten.
+
+URL: https://github.com/whid-injector/WHID-Mobile-Connector
+Description: Android Mobile App for Controlling WHID Injector remotely.
+
+URL: https://blog.benjojo.co.uk/post/dive-into-the-world-of-dos-viruses
+Description: A dive into the world of MS-DOS viruses.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?c93db9de93686b72#fDR3qVtcLCQ1kqceJt6YHCemqAF8fakLAgMztkbQ4K8=
