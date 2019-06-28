@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 26 | Month: June | Year: 2019 | Release Date: 28/06/2019 | Edition: #280  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackademic.co.in/youtube-bug/
+Description: How I could have hijacked a victim’s YouTube notifications! 
+
+URL: https://www.cyberark.com/threat-research-blog/outlook-for-android-xss/
+Description: Outlook for Android XSS (CVE-2019-1105).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://alephsecurity.com/2019/06/17/xnu-qemu-arm64-1/
+More: https://alephsecurity.com/2019/06/25/xnu-qemu-arm64-2/
+Description: Running iOS in QEMU to an interactive bash shell.
+
+URL: https://github.com/teemu-l/execution-trace-viewer
+Description: Tool for viewing and analyzing execution traces.
+
+URL: https://www.wzdftpd.net/blog/rust-fuzzers.html
+Description: Fuzzing rust code with cargo-fuzz and honggfuzz.
+
+URL: https://github.com/s-s/dnscloak
+Description: iOS GUI and wrapper for dnscrypt-proxy 2.
+
+URL: https://github.com/shr3ddersec/Shr3dKit
+Description: Red Team Tool Kit.
+
+URL: https://github.com/yashpl/mongoBuster
+Description: Hunt Open MongoDB instances.
+
+URL: https://github.com/chipik/SAP_GW_RCE_exploit
+Description: SAP Gateway RCE exploits.
+
+URL: https://github.com/terjanq/JS-Alpha
+Description: Encoder/obfuscator ĴS code to /[a-z().]/ characters.
+
+URL: https://github.com/hc0d3r/sshd-poison
+Description: Tool to get creds of pam based sshd authentication.
+
+URL: https://github.com/c0rvax/project-black
+Description: Pentest/BugBounty progress control with scanning modules.
+
+URL: https://github.com/hook-s3c/CVE-2018-18852
+Description: CERIO authenticated web RCE as root user (CVE-2018-18852).
+
+URL: https://labs.jumpsec.com/2019/06/20/bypassing-antivirus-with-golang-gopher-it/
+Description: Bypassing Antivirus with Golang – Gopher it!
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2XyprhR (+)
+Description: Metaforic - Reverse engineering and cracking.
+
+URL: https://objective-see.com/blog/blog_0x43.html
+Description: A firefox 0day drops a macOS backdoor.
+
+URL: https://www.gironsec.com/blog/2019/06/yet-another-botnet-writeup/
+Description: Yet Another Botnet Writeup.
+
+URL: https://ledger-donjon.github.io/Ellipal-Security/
+Description: Extracting seed from Ellipal wallet.
+
+URL: http://bit.ly/2LnK35Z (+)
+Description: About a Sucuri RCE...and How Not to Handle Bug Bounty Reports.
+
+URL: https://exp101t.blogspot.com/2019/04/cve-2017-5121-escape-analysis.html
+Bug: https://bugs.chromium.org/p/chromium/issues/detail?id=765433
+Description: CVE-2017-5121 Escape Analysis.
+
+URL: https://dolosgroup.io/blog/2019/6/20/pillaging-the-jenkins-treasure-chest
+Description: Pillaging The Jenkins Treasure Chest.
+
+URL: http://bit.ly/2NeWeVf (+)
+More: https://github.com/tyranid/DeviceGuardBypasses | http://bit.ly/2Nja0q1 (+)
+Description: DG on Windows 10 S - Executing Arbitrary Code.
+
+URL: https://blog.duszynski.eu/tor-ip-disclosure-through-http-301-cache-poisoning/
+Description: Disclosing Tor users' real IP through 301 HTTP Redirect Cache Poisoning.
+
+URL: https://blog.jessfraz.com/post/why-open-source-firmware-is-important-for-security/
+Description: Why open source firmware is important for security.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://www.enforcementtracker.com/
+Description: GDPR Enforcement Tracker.
+
+URL: https://playclassic.games/
+Description: Play CLASSIC game online, in a web browser!
+
+URL: https://github.com/nbedos/termtosvg
+Description: Record terminal sessions as SVG animations.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?491ce481c719fc04#xMYbZfjNqXu4grQmth2pbmHgWc/AOsHaSf+OofXmu3s=
