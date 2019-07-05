@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 27 | Month: July | Year: 2019 | Release Date: 05/07/2019 | Edition: #281  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/562335
+Description: RCE through Deserialization Attack in OwnBackup app.
+
+URL: https://shhnjk.blogspot.com/2019/07/intro-to-chromes-gold-features.html
+Description: Intro to Chrome's (g)old features.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://ssl-config.mozilla.org/
+Description: SSL Configuration Generator.
+
+URL: https://github.com/i-net-software/JWebAssembly
+Description: Java to WebAssembly compiler.
+
+URL: https://github.com/Zucccs/PhoneSploit
+Description: Using open Adb ports we can exploit a devive.
+
+URL: https://github.com/k0fin/eternalrelayx
+Blog: http://bit.ly/2FQsece (+)
+Description: Non-Admin NTLM Relaying & ETERNALBLUE Exploitation.
+
+URL: https://github.com/maldiohead/CVE-2019-6207
+More: http://iosre.com/t/cve-2019-6207-port-address-low-4-bytes/15029
+Description: XNU Kernel heap info leak (CVE-2019-6207).
+
+URL: https://github.com/root4loot/rescope
+Description: Tool to define scopes for Burp Suite and OWASP ZAP.
+
+URL: https://github.com/m1nl/pompa
+Description: Fully-featured spear-phishing toolkit - web front-end.
+
+URL: https://github.com/WangYihang/Platypus
+Description: A modern multiple reverse shell sessions manager written in go.
+
+URL: https://github.com/cwerling/psptool
+Description: Display, extract, and manipulate PSP firmware inside UEFI images.
+
+URL: https://github.com/Cr4sh/ThinkPwn
+Description: Lenovo ThinkPad System Management Mode arbitrary code execution.
+
+URL: https://gitlab.com/kennbroorg/iKy
+Description: Collect information from a mail, Gather, Profile, Timeline (OSINT).
+
+URL: https://github.com/vanhauser-thc/AFLplusplus
+Description: AFL updated with the major community patches and QEMU instrumentation.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.ripstech.com/2019/magento-rce-via-xss/
+Description: Magento 2.3.1 - Unauthenticated Stored XSS to RCE.
+
+URL: https://decoder.cloud/2019/07/04/creating-windows-access-tokens/
+Description: Creating Windows Access Tokens.
+
+URL: https://nytrosecurity.com/2019/06/30/writing-shellcodes-for-windows-x64/
+Description: Writing shellcodes for Windows x64.
+
+URL: https://kripken.github.io/blog/binaryen/2019/06/11/fuzz-reduce-productivity.html
+Description: Fuzzers & Reducers as Productivity Tools.
+
+URL: https://medium.com/bugbountywriteup/knocking-the-idor-6f80e8126ee4
+Description: Knocking the IDOR (Oldies).
+
+URL: https://ktln2.org/2019/04/30/from-zero-to-hero/
+Description: Reverse engineering a pico projector to fix it.
+
+URL: http://bit.ly/2LxSeNn (+)
+Description: How to Create a Malware Detection System With Machine Learning.
+
+URL: http://bit.ly/2Jnc235 (+)
+Description: The Most Expensive Lesson Of My Life - Details of SIM port hack.
+
+URL: http://bit.ly/2xyhr1G (+)
+Description: Nuget/Squirrel uncontrolled endpoints leads to arbitrary code execution.
+
+URL: https://medium.com/@alex91ar/debugging-the-samsung-android-kernel-part-1-ab2a9b87c162
+More: http://bit.ly/2LCGnh4 (+) | http://bit.ly/2XJYUP0 (+)
+Description: Debugging the Samsung Android Kernel.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://vulnerablecontainers.org/
+Description: Vulnerable Containers.
+
+URL: https://github.com/chilik/Mi365Locker-iOS
+Description: Mi365Locker - iOS Client build on Adafruit's Basic-Chat.
+
+URL: https://www.youtube.com/watch?v=VwH6B7aJYDU
+Description: Norcal veteran coder customizes off-grid home with sensors.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?ac40515e3d535c95#ppPAXjrVqiIAT9OVqm8uwUo836OCArktp6OQnA4n9co=
