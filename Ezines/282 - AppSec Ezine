@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 28 | Month: July | Year: 2019 | Release Date: 12/07/2019 | Edition: #282  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/403417
+Description: RCE via ImageTragick on SEMrush (Triage WTF!).
+
+URL: http://bit.ly/32mecsz (+)
+Description: 4+ Million Webcams & maybe an RCE? Just get them to visit your website!
+
+URL: https://blog.rakeshmane.com/2019/07/u-xss-in-operamini-for-ios-browser-0-day.html
+Description: U-XSS in OperaMini for iOS Browser.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/crytic/echidna
+Description: Ethereum fuzz testing framework.
+
+URL: https://github.com/aurel26/gpocheck
+Description: GPOCheck - Auditing GPO on Windows AD.
+
+URL: https://github.com/anteater/anteater
+Description: Anteater - CI/CD Gate Check Framework.
+
+URL: https://github.com/niemand-sec/AntiCheat-Testing-Framework
+Description: Framework for testing any Anti-Cheat.
+
+URL: https://chryzsh.github.io/exploiting-privexchange/
+Description: Exploiting PrivExchange.
+
+URL: https://www.cambus.net/fuzzing-dns-zone-parsers/
+Description: Fuzzing DNS zone parsers.
+
+URL: https://github.com/phra/rustbuster
+Description: A Comprehensive Web Fuzzer and Content Discovery Tool.
+
+URL: https://github.com/b1ack0wl/linux_mint_poc
+Description: Linux Mint 18.3-19.1 'yelp' command injection bug.
+
+URL: https://github.com/sipcapture/HEPjack.js
+Description: Frida - Elegantly Sniff Forward-Secrecy TLS/SIP to HEP.
+
+URL: https://github.com/janniskirschner/horn3t
+Description: Horn3t bee - Better Subdomain Reconnaissance.
+
+URL: http://lordofpwn.kr/index.php/writeup/cve-2019-5825-v8-exploit/
+Description: CVE-2019-5825 v8 Exploit.
+
+URL: https://github.com/nbs-system/snuffleupagus
+More: https://dustri.org/b/snuffleupagus-versus-recent-high-profile-vulnerabilities.html
+Description: Security module for php7 - Killing bugclasses and virtual-patching the rest!
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://withatwist.dev/strong-password-rubygem-hijacked.html
+Description: Strong_password v0.0.7 rubygem hijacked.
+
+URL: http://bit.ly/2KXINHu (+)
+Description: Tale of a Windows Error Reporting Zero-Day (CVE-2019-0863).
+
+URL: https://www.secjuice.com/abusing-php-query-string-parser-bypass-ids-ips-waf/
+Description: Abusing PHP query string parser to bypass IDS, IPS, and WAF.
+
+URL: https://enigma0x3.net/2019/07/05/cve-2019-13142-razer-surround-1-1-63-0-eop/
+Description: Razer Surround EoP through Insecure folder/file permissions (CVE-2019-13142).
+
+URL: https://medium.com/tenable-techblog/an-exploit-chain-against-citrix-sd-wan-709db08fb4ac
+Description: An Exploit Chain Against Citrix SD-WAN.
+
+URL: https://medium.com/tenable-techblog/an-analysis-of-arlo-6f1b691236b5
+Description: An Analysis of Netgear Arlo.
+
+URL: https://staaldraad.github.io/post/2019-07-11-bypass-docker-plugin-with-containerd/
+Description: Bypassing Docker Authz Plugin and Using Docker-Containerd for Privesc.
+
+URL: https://ledger-donjon.github.io/Unfixable-Key-Extraction-Attack-on-Trezor/
+Description: Unfixable Seed Extraction on Trezor - A practical and reliable attack.
+
+URL: https://medium.com/netscape/hacking-it-out-when-cors-wont-let-you-be-great-35f6206cc646
+Description: Hacking It Out - When CORS won’t let you be great.
+
+URL: http://bit.ly/2XYhMdc (+)
+Description: QCSuper - Tool for capturing your 2G/3G/4G air traffic on Qualcomm-based phones.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.bamsoftware.com/hacks/zipbomb/
+Description: A better zip bomb.
+
+URL: https://techblog.eyeson.team/post/memelearning/
+Description: Memelearning.
+
+URL: https://github.com/ronangaillard/logitech-mouse
+Description: Use an arduino as a logitech wireless mouse.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?1e976949029daea2#hKPMzZkdOucA5Lh7pi0t8o9pvYZxcii5RNzbOfhAxHw=
