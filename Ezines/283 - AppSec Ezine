@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 29 | Month: July | Year: 2019 | Release Date: 19/07/2019 | Edition: #283  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://thezerohack.com/hack-any-instagram
+Description: How I Could Have Hacked Any Instagram Account.
+
+URL: https://medium.com/@ruvlol/rce-in-jira-cve-2019-11581-901b845f0f
+Description: Remote Code Execution (RCE) in Jira (CVE-2019–11581).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/racepwn/racepwn
+Description: Race Condition framework.
+
+URL: https://github.com/Mr-Un1k0d3r/Shellcoding
+Description: Simplest inline shellcode loader.
+
+URL: https://github.com/gigajew/WinXRunPE-x86_x64
+Description: C# RunPE's capable of x86 and x64 injections.
+
+URL: http://bit.ly/2Lrs6o8 (+)
+Description: RCE Exploits of Redis Based on Master-Slave Replication.
+
+URL: https://github.com/vah13/Oracle-BI-bugs
+Description: Oracle-BI-bugs (CVE-2019-2767/CVE-2019-2768/CVE-2019-2771).
+
+URL: https://github.com/SpiderLabs/youzer
+Description: Fake User Generator for Active Directory Environments.
+
+URL: https://gist.github.com/realoriginal/3a00478efd67b554f09f739380e2c3ba
+Description: Rotten Potato DLL loader directly into memory.
+
+URL: http://bit.ly/2JBDGuB (+)
+Description: Using Frida to Monitor Encryption using Frida Python bindings. 
+
+URL: https://github.com/sripathikrishnan/redis-rdb-tools
+Description: Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON.
+
+URL: https://github.com/diego-treitos/linux-smart-enumeration
+Description: Linux enumeration tool for pentesting and CTFs with verbosity levels.
+
+URL: https://github.com/mame82/munifying_pre_release
+Description: Logitech receivers AES link keys extractor (CVE-2019-13054/13055/13052).
+
+URL: http://bit.ly/2LtS6PJ (+)
+Description: Java Deserialization - From Discovery to Reverse Shell on Limited Envs.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.corben.io/atlassian-crowd-rce/
+Description: Analysis of an Atlassian Crowd RCE (CVE-2019-11580).
+
+URL: https://sysrant.com/500-bounty-man-in-the-middle-on-slack/
+Description: 500$ bounty - Man in the Middle on Slack.
+
+URL: https://medium.com/@sansyrox/hacking-tinders-premium-model-43f9f699d44
+Description: Hacking into Tinder’s Premium Model.
+
+URL: https://phoenhex.re/2019-07-10/ten-months-old-bug
+Description: Remote Code Execution (RCE) in ChakraCore.
+
+URL: http://bit.ly/2Lz6lD1 (+)
+Description: Introduction to analysing full disk encryption solutions.
+
+URL: https://staaldraad.github.io/post/2019-07-16-cve-2019-13139-docker-build/
+Description: Docker build code execution (CVE-2019-13139).
+
+URL: http://bit.ly/2XVf4B6 (+)
+Description: "Web scraping considered dangerous" - Exploiting telnet in scrapy < 1.5.2.
+
+URL: https://harry.garrood.me/blog/malicious-code-in-purescript-npm-installer/
+Description: Malicious code in the purescript npm installer.
+
+URL: https://medium.com/@ScatteredSecrets/how-to-crack-billions-of-passwords-6773af298172
+Description: How to crack billions of passwords?
+
+URL: http://bit.ly/2JN677F (+)
+Description: Discovering CVE-2019-13504/CVE-2019-13503 and the importance of API Fuzzing.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://latacora.micro.blog/2019/07/16/the-pgp-problem.html
+Description: The PGP Problem.
+
+URL: https://github.com/chrislgarry/Apollo-11
+Description: Original Apollo 11 Guidance Computer (AGC) source code.
+
+URL: https://github.com/fwkz/riposte
+Description: Python package for wrapping applications inside a tailored interactive shell.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?b362a419fd0fdd93#6IIQV4t7uKOYPBJ7KCakc33o0655WKd+5tTW5eNVQc4=
