@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 30 | Month: July | Year: 2019 | Release Date: 26/07/2019 | Edition: #284  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ardern.io/2019/06/20/payload-bxss/
+Description: Advanced Blind XSS Payloads.
+
+URL: http://bit.ly/2GtDPyi (+)
+Description: Pwning child company to get access to ParentCompany's Slack Team.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://blog.ropnop.com/docker-for-pentesters/
+Description: Docker for Pentesters.
+
+URL: https://github.com/nightwatchcybersecurity/airflowscan
+Description: Checklist and tools for increasing security of Apache Airflow.
+
+URL: https://github.com/marcinguy/CVE-2019-2107
+Description: PoC for Android CVE-2019-2107 RCE.
+
+URL: https://github.com/MozillaSecurity/grizzly
+Description: A cross-platform browser fuzzing framework.
+
+URL: https://github.com/mdsecactivebreach/o365-attack-toolkit
+Blog: https://www.mdsec.co.uk/2019/07/introducing-the-office-365-attack-toolkit/
+Description: A toolkit to attack Office365.
+
+URL: https://github.com/akamajoris/luarocks-prng-attack
+Description: PoC for Luarocks site PRNG attack (Security Incident March 2019).
+
+URL: https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation
+Description: AWS IAM privilege escalation methods Dump by Rhino Security Labs.
+
+URL: https://github.com/BishopFox/GitGot
+Description: Tool to search through troves of sensitive public data on GitHub.
+
+URL: https://github.com/GoSecure/dtd-finder
+Blog: http://bit.ly/2GtOclD (+)
+Description: List DTDs and generate XXE payloads using those local DTDs.
+
+URL: https://github.com/DarkSecDevelopers/HiddenEye
+Description: Modern Phishing Tool With Advanced Functionality.
+
+URL: http://bit.ly/2YiYOd9 (+)
+Description: Create a backdoor to take-over an object in AD.
+
+URL: https://github.com/TH3xACE/SUDO_KILLER
+Description: Identify and exploit sudo rules' misconfigurations and vulns within sudo.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2Ohxb4A (+)
+Description: Automated Bug Hunting by Modeling Vulnerable Code.
+
+URL: https://paper.seebug.org/990/
+Description: Analysis of CVE-2019-11229 - From Git Config to RCE.
+
+URL: https://zero.lol/2019-07-21-axway-securetransport-xml-injection/
+Description: Axway SecureTransport 5.x XML Injection / XXE.
+
+URL: https://blog.assetnote.io/bug-bounty/2019/07/17/rce-on-zoom/
+Description: Zoom Zero Day Followup - Getting the RCE.
+
+URL: http://bit.ly/2GtMW1R (+)
+Description: COModo - From Sandbox to SYSTEM (CVE-2019–3969).
+
+URL: https://trustfoundry.net/basic-rop-techniques-and-tricks/
+Description: Basic ROP Techniques and Tricks.
+
+URL: https://blog.doyensec.com/2019/07/22/jackson-gadgets.html
+Description: Jackson deserialization vulnerability and RCE using JDBC/H2 driver.
+
+URL: https://blog.trailofbits.com/2019/07/19/understanding-docker-container-escapes/
+Description: Understanding Docker container escapes.
+
+URL: https://mthbernardes.github.io/rce/2018/03/14/abusing-h2-database-alias.html
+Description: Abusing H2 Database ALIAS.
+
+URL: https://pentest.blog/android-malware-analysis-dissecting-hydra-dropper/
+Description: Android Malware Analysis - Dissecting Hydra Dropper (GDB, Ghidra and Frida).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://orbis.stanford.edu/
+Description: The Stanford Geospatial Network Model of the Roman World.
+
+URL: http://bit.ly/2Mdl3Pt (+)
+Description: Darkweb Vendors and the Basic Opsec Mistakes They Keep Making.
+
+URL: https://github.com/bcapptain/dockernymous
+Description: Script used to create a whonix like gateway with docker containers.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?b333......
