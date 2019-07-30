@@ -100,6 +100,7 @@ PoC: https://github.com/airman604/amsi_bypassr
 Description: AMSI Bypass With a Null Character.
 
 URL: http://bit.ly/2EH1I4m (+)
+PoC: https://github.com/smgorelik/Windows-RCE-exploits/tree/master/Web/VBScript
 Description: Exploitation of a Write-What-Where in Internet Explorer (CVE-2019-0752).
 
 
