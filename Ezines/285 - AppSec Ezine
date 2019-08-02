@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 31 | Month: August | Year: 2019 | Release Date: 02/08/2019 | Edition: #285 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2YIS8cQ (+)
+Description: How to bypass "slider CAPTCHA" with JS and Puppeteer.
+
+URL: http://bit.ly/2Mx0ygL (+)
+Description: LibreOffice - A Python Interpreter (Code Execution vuln. CVE-2019-9848).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/WeebSec/weebdns
+Description: DNS Enumeration with Asynchronicity.
+
+URL: https://github.com/grapheneX/grapheneX
+Description: Automated System Hardening Framework.
+
+URL: http://bit.ly/2ypIexV (+)
+Description: PE Section Header Injection using Code Cave.
+
+URL: https://github.com/d4rk007/RedGhost
+Description: Linux post exploitation framework written in bash.
+
+URL: https://github.com/tillson/git-hound
+Description: Find exposed keys across GitHub using code search keywords.
+
+URL: https://github.com/bet4it/build-an-efficient-pwn-environment
+Description: How to build an efficient pwn development environment in 2019.
+
+URL: https://github.com/hfiref0x/WDExtract
+Description: Extract Windows Defender database from vdm files and unpack it.
+
+URL: https://github.com/0xAlexei/WindowsDefenderTools
+Description: Tools for instrumenting Windows Defender's mpengine.dll.
+
+URL: https://github.com/freach/kubernetes-security-best-practice
+Description: Kubernetes Security - Best Practice Guide.
+
+URL: https://github.com/jas502n/CVE-2019-13272
+Description: Linux 4.10 < 5.1.17 PTRACE_TRACEME local root (CVE-2019-13272).
+
+URL: https://github.com/snovvcrash/usbrip
+Description: CLI forensics tool for tracking USB device artifacts (history of USB events).
+
+URL: https://github.com/butterflyhack/CVE-2019-10207/
+Description:  Bluetooth (hci_uart) - Linux Kernel NULL pointer dereference (CVE-2019-10207).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://raw-data.gitlab.io/post/autoit_fud/
+Description: Exploring AutoIT FUD Crypter.
+
+URL: https://86hh.github.io/cfg2.html
+Related: https://86hh.github.io/cfg.html
+Description: Control Flow Guard Teleportation.
+
+URL: https://rhinosecuritylabs.com/aws/mfa-phishing-on-aws/
+Description: Phishing Users with MFA on AWS.
+
+URL: https://akayn.github.io/2019/07/25/PwningWebkit.html
+Description: Pwning Webkit (CVE-2019-8658).
+
+URL: http://bit.ly/2AAIPAE (+)
+Description: Making a Blind SQL Injection a Little Less Blind.
+
+URL: http://bit.ly/332Tnmm (+)
+Description: A simple protection against HMValidateHandle technique.
+
+URL: https://medium.com/0xcc/what-the-heck-is-tcp-port-18800-a16899f0f48f
+Description: Reverse engineering a hidden api from Amazon Music client.
+
+URL: http://bit.ly/2Yvu8FK (+)
+Description: How to lock a GitHub user out of their repos (bug or feature?).
+
+URL: http://bit.ly/2MvQhkY (+)
+Description: Digging Deeper into Gmail URLs & Introducing Gmail URL Decoder.
+
+URL: https://maxkersten.nl/binary-analysis-course/binary-types/browser-plug-in/
+Description: Malicious Browser Plug-in Analysis.
+
+URL: https://d4stiny.github.io/Local-Privilege-Escalation-on-most-Dell-computers/
+Description: Local Privilege Escalation on Dell machines running Windows.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/meyskens/NokiaRemote
+Description: J2ME app for Nokia 3510i to remote control Google slides.
+
+URL: http://bit.ly/2Oy9Rzu (+)
+Description: 8 methods for bypassing cameras and facial recognition software.
+
+URL: https://github.com/xqtr/null
+Description: NULL is an old style emag about BBSes and retro-computing in general. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?417013d4eed7d8d1#FtwOEGCp+1i9Z691tjqAsw9YUsL072sDyHLjeQFETsQ=
