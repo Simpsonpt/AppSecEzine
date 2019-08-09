@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 32 | Month: August | Year: 2019 | Release Date: 09/08/2019 | Edition: #286 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bo0om.ru/telegram-bugbounty-writeup
+Description: How I broke Telegram.
+
+URL: https://amonitoring.ru/article/steamclient-0day/
+PoC: https://gist.github.com/enigma0x3/03f065be011c5980b96855e2741bf302
+Description: Steam Windows Client Local Privilege Escalation 0day.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Cyb3rWard0g/HELK
+Description: The Hunting ELK.
+
+URL: https://github.com/s0md3v/goop
+Description: Google Search Scraper.
+
+URL: http://bit.ly/2GWT1UK (+)
+Description: Static Analysis with Hiew.
+
+URL: https://github.com/rocky/python-uncompyle6
+Description: A cross-version Python bytecode decompiler.
+
+URL: https://github.com/CoderPirata/XPL-SEARCH
+Description: Search exploits in multiple exploit databases!
+
+URL: https://github.com/christophetd/IPv6teal
+Description: Stealthy data exfiltration via IPv6 covert channel.
+
+URL: https://github.com/cruise-automation/fwanalyzer
+Description: Tool to analyze filesystem images.
+
+URL: https://github.com/trailofbits/krf
+Description: KRF is a Kernelspace Randomized Faulter.
+
+URL: https://github.com/beched/hehdirb
+Description: Asynchronous HTTP pipelining directory buster.
+
+URL: http://bit.ly/2ZJVcCs (+)
+Description: Analyzing your MS Defender ATP data in real-time in ELK.
+
+URL: https://m0chan.github.io/2019/07/31/How-To-Attack-Kerberos-101.html
+Description: How To Attack Kerberos 101.
+
+URL: https://github.com/Josue87/Airopy
+Description: Airopy - Wireless Packet Capture (Get clients and access points).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2YTEBuS (+)
+Description: Hacking Radio Blasting Systems for Fun & Explosions.
+
+URL: https://tactifail.wordpress.com/2019/07/26/three-vulns-for-the-price-of-one/
+Description: Three (And A Half) Vulns For The Price of One!
+
+URL: https://blog.flanker017.me/galaxy-leapfrogging-pwning-the-galaxy-s8/
+Description: Galaxy Leapfrogging - Pwning the Galaxy S8.
+
+URL: http://bit.ly/2YwaWMQ (+)
+Description: The Fully Remote Attack Surface of the iPhone.
+
+URL: http://bit.ly/33kIexb (+)
+Description: Leveraging AngularJS based XSS to Privilege Escalation.
+
+URL: https://icyphox.sh/blog/fb50/
+Description: Picking the FB50 smart lock (CVE-2019-13143).
+
+URL: https://paper.seebug.org/993/
+Description: How to Explore the Camera Vulnerability (Firmware).
+
+URL: https://gravitational.com/blog/how-saml-authentication-works/
+Description: How SAML 2.0 Authentication Works.
+
+URL: http://mahmoudsec.blogspot.com/2019/08/exploiting-out-of-band-xxe-using.html
+Description: Exploiting Out Of Band XXE using internal network and php wrappers.
+
+URL: http://blog.orange.tw/2019/07/attacking-ssl-vpn-part-1-preauth-rce-on-palo-alto.html
+Description: Attacking SSL VPN - PreAuth RCE on Palo Alto GlobalProtect.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://vimeo.com/341663153
+Description: The Art Of Warez.
+
+URL: http://www.nothingsecurity.com/
+Description: Nothing Security - Total Security Oversight.
+
+URL: https://www.baseapp.com/iot/antenna-tuning-for-beginners/
+Description: Antenna Tuning for Beginners.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?1eb902ea083bebd2#s8FMFqVZF2Kwaj2Ia0zhQRL3UGbrZKkBeMllFnjarxQ=
