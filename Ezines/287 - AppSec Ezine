@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 33 | Month: August | Year: 2019 | Release Date: 16/08/2019 | Edition: #287 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://appio.dev/vulns/clickjacking-xss-on-google-org/
+Description: Clickjacking DOM XSS on Google.org.
+
+URL: https://medium.com/rangeforce/meteor-blind-nosql-injection-29211775cd01
+Description: Meteor Blind NoSQL Injection.
+
+URL: https://blog.jse.li/posts/chrome-76-incognito-filesystem-timing/
+Description: Detecting incognito mode in Chrome 76 with a timing attack.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/daeken/httprebind
+Description: Automatic tool for DNS rebinding-based SSRF attacks.
+
+URL: https://github.com/zodiacon/ApiSetView
+Description: Windows API Set Viewer.
+
+URL: https://github.com/david942j/seccomp-tools
+Description: Provide powerful tools for seccomp analysis.
+
+URL: https://github.com/carbonblack/binee
+Description: Binee - binary emulation environment.
+
+URL: https://github.com/Jsitech/JShielder
+Description: Automated Hardening Script for Linux Servers.
+
+URL: https://github.com/Jemurai/gaa
+Description: GAA = Go Away Auditor.
+
+URL: https://go-re.tk
+Description: Go Reverse Engineering Tool Kit.
+
+URL: https://github.com/Tib3rius/AutoRecon
+Description: Multi-threaded network reconnaissance tool.
+
+URL: https://a13xp0p0v.github.io/2019/08/10/cfu.html
+Description: Searching for a vulnerability pattern in the Linux kernel.
+
+URL: https://github.com/swimlane/pyattck
+Description: A Python Module to interact with the Mitre ATT&CK Framework.
+
+URL: https://modexp.wordpress.com/2019/08/12/windows-process-injection-knowndlls/
+Description: Windows Process Injection - KnownDlls Cache Poisoning.
+
+URL: https://raesene.github.io/blog/2019/08/10/making-it-rain-shells-in-Kubernetes/
+Description: Making it Rain shells in Kubernetes.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://siguza.github.io/APRR/
+Description: APRR - Of Apple hardware secrets.
+
+URL: https://github.com/artsploit/solr-injection
+Description: Apache Solr Injection Research.
+
+URL: http://bit.ly/2Hbr77Q (+)
+Description: One Misconfig (JIRA) to Leak Them All. 
+
+URL: https://medium.com/cruise/container-platform-security-7a3057a27663
+Description: Container Platform Security at Cruise.
+
+URL: https://zero.lol/2019-08-11-the-year-of-linux-on-the-desktop/
+Description: The Year of Linux on the Desktop (CVE-2019-14744).
+
+URL: http://bit.ly/2YQMhTl (+)
+Description: Analysis of Thinkphp5 Remote Code Execution Vulnerability.
+
+URL: http://www.peppermalware.com/2019/07/analysis-of-frenchy-shellcode.html
+Description: Analysis of the Frenchy Shellcode.
+
+URL: http://bit.ly/2KGOVBa (+)
+PoC: https://github.com/milo2012/CVE-2018-13382 | http://bit.ly/2KCtSBe (+)
+Description: Attacking SSL VPN - Breaking the Fortigate SSL VPN.
+
+URL: https://research.checkpoint.com/select-code_execution-from-using-sqlite/
+Description: Gaining code execution using a malicious SQLite database.
+
+URL: https://initblog.com/2019/switcheroo/
+Description: LAN-Based Blind SSRF Attack Primitive for Windows Systems (switcheroo).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.janmeppe.com/blog/regex-for-noobs/
+Description: Regex For Noobs (like me!) - An Illustrated Guide.
+
+URL: https://salibra.com/p/buying-tea-with-wechat-pay-d3931febd2be
+Description: Buying tea with WeChat Pay in a dystopian future.
+
+URL: https://github.com/ian13456/mc.js
+Description: Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?8af7c072332a849a#/qyMXplqoLnq1CMjXFor/C1JWpk0g8Bgn9qxLjkRTCM=
