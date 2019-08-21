@@ -17,7 +17,7 @@ URL: https://bo0om.ru/telegram-bugbounty-writeup
 Description: How I broke Telegram.
 
 URL: https://amonitoring.ru/article/steamclient-0day/
-PoC: https://gist.github.com/enigma0x3/03f065be011c5980b96855e2741bf302
+More: https://xiaoyinl.github.io/steam_EoP_bypass.html | http://bit.ly/2P5e0LL (+)
 Description: Steam Windows Client Local Privilege Escalation 0day.
 
 
