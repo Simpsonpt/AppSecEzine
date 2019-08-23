@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 34 | Month: August | Year: 2019 | Release Date: 23/08/2019 | Edition: #288 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2KM6v8c (+)
+Description: Attacks on Applications of K-Anonymity — For the Rest of Us.
+
+URL: https://hackerone.com/reports/637194
+Description: Bypass of Android biometrics security functionality in Shopify.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/TheSph1nx/AbsoluteZero
+Description: Python APT Backdoor.
+
+URL: https://secrary.com/Random/anti_re_simple/
+Description: Simple Anti-RE Trick.
+
+URL: https://hausec.com/2019/08/12/offensive-lateral-movement/
+Description: Offensive Lateral Movement.
+
+URL: https://heapspray.io/automating-pentests-with-webdriver.html
+Description: Automating pentests with WebDriver.
+
+URL: https://github.com/Dankirk/RegSLScan
+Description: A tool for scanning registery key permissions.
+
+URL: https://blog.firosolutions.com/exploits/webmin/
+More: http://bit.ly/2HgQW6b (+) | http://bit.ly/2PbECus (+)
+Description: Webmin 0day remote code execution (CVE-2019-15107).
+
+URL: https://github.com/jc21/nginx-proxy-manager
+Description: Docker container for managing Nginx proxy hosts.
+
+URL: https://github.com/lc/secretz
+Description: Minimizing the large attack surface of Travis CI.
+
+URL: https://github.com/bishopfox/eyeballer
+Description: Convolutional neural network for analyzing pentest screenshots.
+
+URL: https://github.com/Vlad-tri/CVE-2019-1132/
+Description: PoC for Win32k Elevation of Privilege Vulnerability (CVE-2019-1132).
+
+URL: https://github.com/ChrisTheCoolHut/Firmware_Slap
+Description: Firmware analysis through concolic analysis and function clustering.
+
+URL: https://github.com/itm4n/UsoDllLoader
+Description: Weaponizing privileged file writes w/ the Update Session Orchestrator.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/33VrwoL (+)
+Description: Analysis of Front-End SSRF in Discuz x3.4.
+
+URL: https://nullprogram.com/blog/2019/07/10/
+PoC: https://github.com/skeeto/passphrase2pgp
+Description: Predictable, Passphrase-Derived PGP Keys.
+
+URL: http://bit.ly/31PNCa6 (+)
+Description: How Secure is your Android Keystore Authentication?
+
+URL: https://knobattack.com
+PoC: https://github.com/francozappa/knob
+Description: Key Negotiation of Bluetooth Attack (CVE-2019-9506).
+
+URL: https://davejingtian.org/2019/07/17/usb-fuzzing-a-usb-perspective/
+Description: USB Fuzzing - A USB Perspective
+
+URL: http://bit.ly/2Zkb1Px (+)
+Description: Solr Injection by abusing Local Parameters on Zomato.com.
+
+URL: https://wojciechregula.blog/post/dangerous-get-task-allow-entitlement/
+Description: Dangerous Get Task Allow Entitlement on iExplorer example.
+
+URL: https://amonitoring.ru/article/onemore_steam_eop_0day/
+Description: One more Steam Windows Client Local Privilege Escalation 0day.
+
+URL: https://gts3.org/2019/cve-2019-0609.html
+Description: Analysis of a use-after-unmap vulnerability in Edge (CVE-2019-0609).
+
+URL: https://www.tarlogic.com/en/blog/vulnerabilities-in-ampache/
+Description: Vulnerabilities in Ampache (<=3.9.1) (CVE-2019-12385/CVE-2019-12386).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://blog.regehr.org/archives/1687
+Description: Write Fuzzable Code.
+
+URL: https://github.com/seemoo-lab/opendrop
+Description: An open Apple AirDrop implementation written in Python.
+
+URL: https://github.com/CorentinJ/Real-Time-Voice-Cloning
+Description: Clone a voice in 5 seconds to generate arbitrary speech in real-time.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?c2da9ab49b95f493#1iH9ha6/t2PWCTs4zm/XjQyaC3mV8l3EUPRx2FnELo8=
