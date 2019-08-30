@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 35 | Month: August | Year: 2019 | Release Date: 30/08/2019 | Edition: #289 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://jordanpotti.com/2019/08/26/phishing-with-saml-and-sso-providers/
+Description: Phishing with SAML and SSO Providers.
+
+URL: http://bit.ly/2ZyvrrT (+)
+Description: CSRF Email Confirmation Vulnerability for Gmail & G-Suite in Facebook.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/NetSPI/AWSSigner
+Description: Burp Extension for AWS Signing.
+
+URL: https://github.com/orangecertcc/pwnss7
+Description: Toolset to detect and demonstrate SIGTRAN vulnerabilities.
+
+URL: https://github.com/tsarpaul/FBUnpinner
+Description: Bypass Facebook/Instagram Certificate Pinning for Android.
+
+URL: https://github.com/tim124058/ASUS-SmartHome-Exploit/
+Description: ASUS SmartHome Exploit for CVE-2019-11061 and CVE-2019-11063.
+
+URL: https://gist.github.com/nstarke/ed0aba2c882b8b3078747a567ee00520
+Description: Reversing Raw Binary Firmware Files in Ghidra.
+
+URL: https://osandamalith.com/2019/08/27/running-shellcode-directly-in-c/
+Description: Running Shellcode Directly in C.
+
+URL: https://github.com/platdrag/UnblockableChains
+Description: PoC on using blockchain as infrastructure for malware operations.
+
+URL: http://bit.ly/2MJy1pg (+)
+Description: Mount a Kubernetes Worker's Root Filesystem as a container volume.
+
+URL: https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a
+Description: A cheatsheet with commands that can be used to perform kerberos attacks.
+
+URL: http://bit.ly/2ZkSZkW (+)
+Description: A Telegram bug that disclose phone numbers of any users in public groups.
+
+URL: https://github.com/projectzeroindia/CVE-2019-11510
+Description: Exploit for Arbitrary File Read on Pulse Secure SSL VPN (CVE-2019-11510).
+
+URL: https://github.com/Regala/burp-scope-monitor
+Description: Burp extension to help you keep track of unique endpoints in your history.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2L3Sq69 (+)
+Description: QEMU VM Escape (CVE-2019-14378).
+
+URL: http://bit.ly/2Ugodnw (+)
+Description: Uploading web.config for Fun and Profit 2.
+
+URL: https://blog.semmle.com/uboot-rce-nfs-vulnerability/
+Description: U-Boot NFS RCE Vulnerabilities (CVE-2019-14192).
+
+URL: https://verifpal.com/
+Description: Cryptographic protocol analysis for students and engineers. 
+
+URL: https://labs.mwrinfosecurity.com/blog/autocad-designing-a-kill-chain/
+Description: AutoCAD - Designing a Kill Chain.
+
+URL: https://samczsun.com/the-0x-vulnerability-explained/
+Description: The 0x vulnerability, explained.
+
+URL: https://blog.bi0s.in/2019/08/18/Pwn/Browser-Exploitation/cve-2019-11707-writeup/
+Description: Writeup for Type confusion in Array.pop - Firefox (CVE-2019-11707).
+
+URL: https://palant.de/2019/08/19/kaspersky-in-the-middle-what-could-possibly-go-wrong/
+Description: Kaspersky in the Middle - what could possibly go wrong?
+
+URL: https://medium.com/tenable-techblog/rooting-routeros-with-a-usb-drive-16d7b8665f90
+Description: Rooting RouterOS with a USB Drive.
+
+URL: http://hatriot.github.io/blog/2019/08/22/exploiting-leaked-process-and-thread-handles/
+Description: Exploiting Leaked Process and Thread Handles.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://winworldpc.com/library/operating-systems
+Description: Operating Systems Dump.
+
+URL: https://iximiuz.com/en/posts/from-docker-container-to-bootable-linux-disk-image/
+Description: From Docker Container to Bootable Linux Disk Image.
+
+URL: http://www.windytan.com/2019/08/capturing-pal-video-with-sdr-and-few.html
+Description: Capturing PAL video with an SDR (and a few dead-ends).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?03d4aa5a221d24ec#0ctm4T+M2yU4TVlzXVDd6VbRundQm49DGmuPoBYab4M=
