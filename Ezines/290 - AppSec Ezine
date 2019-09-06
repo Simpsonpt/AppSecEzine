@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 36 | Month: September | Year: 2019 | Release Date: 06/09/2019 | Edition: #290 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/498052
+Description: Password theft login.newrelic.com via Request Smuggling.
+
+URL: https://ysamm.com/?p=280
+Description: HTML to PDF converter bug leads to RCE in Facebook server.
+
+URL: https://hackerone.com/reports/446593
+Description: GitLab's GitHub integration is vulnerable to SSRF vulnerability.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/nopernik/mpDNS
+Description: Multi-Purpose DNS Server.
+
+URL: https://github.com/jas502n/oracleShell
+Description: Oracle database command execution.
+
+URL: https://github.com/woj-ciech/kamerka
+Description: Build interactive map of cameras from Shodan.
+
+URL: https://github.com/lawrenceamer/0xsp-Mongoose/
+Description: Privilege Escalation Enumeration Toolkit.
+
+URL: https://github.com/nccgroup/fuzzowski
+Description: Network Protocol Fuzzer that we will want to use. 
+
+URL: https://github.com/4n4nk3/Wordlister
+Description: A simple wordlist generator and mangler written in python.
+
+URL: https://www.corben.io/jenkins-to-full-pwnage/
+Description: Exposed Jenkins to RCE on 8 Adobe Experience Managers.
+
+URL: https://github.com/staz0t/hashcatch
+Description: Capture handshakes of nearby WiFi networks automatically.
+
+URL: https://github.com/mwrlabs/C3
+More: https://labs.mwrinfosecurity.com/tools/c3/ | http://bit.ly/2lC1Qvt (+)
+Description: Custom Command and Control (C3).
+
+URL: https://github.com/Screetsec/Sudomy
+Description: Sudomy is a subdomain enumeration tool, created using a bash script.
+
+URL: https://github.com/lgandx/CCrawlDNS
+Description: Retrieve from the CommonCrawl data set unique subdomains for a given domain.
+
+URL: https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension
+Description: Burp Extension which uses AWS API Gateway to rotate your IP on every request.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.contextis.com/en/blog/common-language-runtime-hook-for-persistence
+Description: Common Language Runtime Hook for Persistence.
+
+URL: https://mogwailabs.de/blog/2019/04/attacking-rmi-based-jmx-services/
+Description: An attack primer on how to hack into RMI based JMX services.
+
+URL: https://research.securitum.com/security-analysis-of-portal-element/
+Description: Security analysis of <portal> element.
+
+URL: https://blog.trailofbits.com/2019/09/02/rewriting-functions-in-compiled-binaries/
+Tool: https://github.com/trailofbits/fennec
+Description: Rewriting Functions in Compiled Binaries.
+
+URL: http://bit.ly/2lGFkBx (+)
+Description: Kernel Write-What-Where in Qualcomm Driver == LPE.
+
+URL: http://bit.ly/2k22O3H (+)
+Description: A Beginner’s Guide to Windows Shellcode Execution Techniques.
+
+URL: https://gist.github.com/roycewilliams/cf7fce5777d47a8b22265515dba8d004
+Description: Client-side software update verification failures.
+
+URL: http://bit.ly/2k53EwL (+)
+Description: How to Escape SandBox And Get Root on iOS 12.x once you've got tfp0.
+
+URL: https://leveldown.de/blog/tensorflow-sidechannel-analysis/
+Description: Using TensorFlow/ML for automated RF side-channel attack classification.
+
+URL: https://medium.com/@byte_St0rm/adventures-in-the-wonderful-world-of-amsi-25d235eb749c
+Description: Adventures in the Wonderful World of AMSI.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://losttraindude.itch.io/zfrag
+Description: zFRAG - Zen Hard Disk Management Tool.
+
+URL: https://pfery.com/create-your-own-portable-rfid-pentest-kit/
+Description: Create your own portable RFID pentest kit.
+
+URL: https://github.com/voidcosmos/npkill
+Description: Easily find and remove old and heavy node_modules folders.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?94650715f66bd7e0#z3mrNPYUSUoXLMnTBe4/wh+AdqL8LtUK03+dOVwzyr8=
