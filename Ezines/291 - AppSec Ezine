@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 37 | Month: September | Year: 2019 | Release Date: 13/09/2019 | Edition: #291 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://habr.com/en/post/466801/
+Description: Bypassing LinkedIn Search Limit by Playing With API.
+
+URL: https://leucosite.com/Microsoft-Edge-uXSS/
+Description: Microsoft Edge - Universal XSS (uXSS) (CVE-2019-1030).
+
+URL: https://www.komodosec.com/post/an-accidental-ssrf-honeypot-in-google-calendar
+Description: An Accidental "SSRF" Honeypot in Google Calendar.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/d3vilbug/HackBar
+Description: HackBar plugin for Burpsuite v1.0.
+
+URL: https://incogbyte.github.io/pathtraversal/
+Description: RCE using Path Traversal.
+
+URL: https://github.com/gquere/pwn_jenkins
+Description: Notes about attacking Jenkins servers.
+
+URL: https://github.com/varchashva/LetsMapYourNetwork
+Description: Tool to visualise your physical network in form of graph.
+
+URL: http://bit.ly/2kxhWGM (+)
+Description: Run PowerShell without Powershell.exe — Best tools & techniques.
+
+URL: https://github.com/SpiderMate/B-XSSRF
+Description: Toolkit to detect and keep track on Blind XSS, XXE & SSRF.
+
+URL: https://github.com/lucasg/findrpc
+Description: Idapython script to carve binary for internal RPC structures.
+
+URL: https://github.com/GitHackTools/FTPBruter
+Description: A FTP Server brute forcing tool written in Python 3.
+
+URL: http://bit.ly/2kGM0Q0 (+)
+Description: Hail Frida!! The Universal SSL pinning bypass for Android applications.
+
+URL: https://github.com/yeggor/UEFI_RETool
+Description: A tool for finding proprietary protocols in UEFI firmware and UEFI modules.
+
+URL: https://giuliocomi.blogspot.com/2019/08/insecure-secrets-encryption-at-rest.html
+Description: Weak credentials encryption at rest with DPAPI - NordVPN case study.
+
+URL: https://github.com/ashutosh1206/Crypton
+Description: Educational library to learn and practice Offensive and Defensive Cryptography.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://simjacker.com/
+Description: Simjacker - Next Generation Spying Over Mobile.
+
+URL: http://bit.ly/2lSCoSp (+)
+Description: Hyper-V memory internals. Guest OS memory access.
+
+URL: https://blog.openzeppelin.com/libra-vulnerability-summary/
+Description: Libra’s Move IR Compiler Vulnerability - Technical Description.
+
+URL: http://blogs.360.cn/post/When-GC-Triggers-Callback.html
+Description: When GC Triggers Callback.
+
+URL: https://blog.aquasec.com/dns-spoofing-kubernetes-clusters
+Description: DNS Spoofing on Kubernetes Clusters.
+
+URL: https://blog.cystack.net/subdomain-takeover/
+More: https://blog.cystack.net/subdomain-takeover-chapter-two-azure-services/
+Description: Subdomain takeover - Methodology and Azure Services.
+
+URL: https://xlab.tencent.com/en/2019/09/12/deep-analysis-of-cve-2019-8014/
+Description: Deep Analysis of CVE-2019-8014 - The Vulnerability Ignored 6 Years Ago.
+
+URL: http://bit.ly/2meGnJr (+)
+PoC: https://github.com/0xDezzy/CVE-2019-11539
+Description: The Golden Pulse Secure SSL VPN RCE Chain, with Twitter as Case Study! 
+
+URL: http://bit.ly/2mc1A6F (+)
+Description: From Quiz to Admin - Chaining Two 0-Days to Compromise An Uber Wordpress.
+
+URL: https://www.vusec.net/projects/netcat/
+Description: NetCAT network-based cache attack on the processor’s cache (CVE-2019-11184).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/Genymobile/scrcpy
+Description: Display and control your Android device.
+
+URL: http://blog.lambdaconcept.com/doku.php?id=research:graywire
+Description: Graywire Lightning Cable Implant.
+
+URL: http://allenchou.net/2019/08/trigonometry-basics-sine-cosine/
+Description: Gamedev Tutorial - Trigonometry Basics – Sine & Cosine.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?47caac185a95448f#QITqDUug9YrNTM7cBDfu+BmhKI23nhfaKNzC+p6h8V0=
