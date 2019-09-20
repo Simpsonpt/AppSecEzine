@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 38 | Month: September | Year: 2019 | Release Date: 20/09/2019 | Edition: #292 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.ripstech.com/2019/bitbucket-path-traversal-to-rce/
+Description: Bitbucket 6.1.1 Path Traversal to RCE (CVE-2019-3397).
+
+URL: https://iwantmore.pizza/posts/cve-2019-10392.html
+Description: Yet Another 2k19 Authenticated RCE in Jenkins (CVE-2019-10392).
+
+URL: http://bit.ly/2lWASis (+)
+Description: How two dead accounts allowed REMOTE CRASH of any Instagram Android user.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/rohanpadhye/FuzzFactory
+Description: Domain-Specific Fuzzing with Waypoints.
+
+URL: https://github.com/chinarulezzz/pixload
+Description: Image Payload Creating/Injecting tools.
+
+URL: https://github.com/A2nkF/macOS-Kernel-Exploit/
+Description: macOS Kernel Exploit 0Day.
+
+URL: https://github.com/4n4nk3/TinkererShell
+Description: A simple python reverse shell written just for fun.
+
+URL: https://0x00sec.org/t/reversing-hackex-an-android-game/16243
+Description: Reversing HackEx - An android game.
+
+URL: https://github.com/Metnew/abusing-helpviewer-parallels-for-mac
+Description: Revisiting Helpviewer.app to hack Parallels for Mac.
+
+URL: https://github.com/AMOSSYS/Fragscapy
+Blog: https://blog.amossys.fr/fragscapy-fuzzing-protocols-to-evade-firewalls.html
+Description: Fuzzing protocols to evade firewalls and IDS.
+
+URL: https://teamrot.fi/2019/05/23/self-hosted-burp-collaborator-with-custom-domain
+Description: Self-hosted Burp collaborator with custom domain.
+
+URL: https://github.com/Barakat/CVE-2019-16098
+Description: Micro-Star MSI Afterburner Driver v4.6.2.15658 LPE PoC (CVE-2019-16098).
+
+URL: https://github.com/Ziconius/FudgeC2
+Description: C2 framework for purple-teaming written in Python3, Powershell and .NET.
+
+URL: https://github.com/Synacktiv-contrib/Modmobmap
+More: https://github.com/Synacktiv-contrib/Modmobjam
+Description: Map 2G/3G/4G and more cellular networks in real live with a smartphone.
+
+URL: https://vavkamil.cz/2019/09/11/serverless-blind-xss-hunter-with-cloudflare-workers/
+Description: Serverless Blind XSS hunter with Cloudflare Workers.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2kI1fbK (+)
+Description: HTTP Smuggling, Apache Traffic Server.
+
+URL: https://blog.semmle.com/android-deserialization-vulnerabilities/
+Description: Android deserialization vulnerabilities - A brief history.
+
+URL: http://bit.ly/2kRpyUv (+)
+Description: A Closer Look at Recent HTTP/2 Vulnerabilities Affecting K8s.
+
+URL: https://carvesystems.com/news/command-injection-with-usb-peripherals/
+Description: Command Injection with USB Peripherals.
+
+URL: https://docs.google.com/document/d/1XWzlOOuoTE7DUK60qTk1Wz1VNhbPaHqKEzyxPfyW4GQ
+Description: From APK to Golden Ticket.
+
+URL: https://dirkjanm.io/azure-ad-privilege-escalation-application-admin/
+Description: Azure AD privilege escalation - Taking over default application permissions.
+
+URL: https://research.securitum.com/server-side-template-injection-on-the-example-of-pebble/
+Description: Server Side Template Injection – on the example of Pebble.
+
+URL: http://bit.ly/2lX3yI2 (+)
+Description: Another LPE Vulnerability Using Process Creation Impersonation (CVE-2019-1287).
+
+URL: https://blog.openzeppelin.com/bypassing-smart-contract-timelocks/
+Description: Bypassing Smart Contract Timelocks.
+
+URL: http://bit.ly/2lZczQP (+)
+Description: Ok Google! Please reveal everyone’s public calendar.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://aem1k.com/oo/
+Description: Ꝏ - Encode Javascript with only one symbol.
+
+URL: https://github.com/ehrishirajsharma/SwiftnessX
+Description: A cross-platform note-taking & target-tracking app for penetration testers.
+
+URL: https://smallstep.com/blog/everything-pki/
+Description: Everything you should know about certificates and PKI but are too afraid to ask.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?045f3aebc98d88db#ipmrfxIlFaJFp1JF0orQ4R6814NB8wK7L4ytvEM1Rjo=
