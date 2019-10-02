@@ -33,6 +33,7 @@ URL: https://hackertarget.com/tcpdump-examples/
 Description: Practical tcpdump examples.
 
 URL: https://github.com/skelsec/pypykatz
+More: https://github.com/skelsec/pypykatz_wasm
 Description: Mimikatz implementation in pure Python.
 
 URL: https://github.com/tlkh/prowler
