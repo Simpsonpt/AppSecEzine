@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 40 | Month: October | Year: 2019 | Release Date: 04/10/2019 | Edition: #294 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://nathandavison.com/blog/haproxy-http-request-smuggling
+Description: HAProxy HTTP request smuggling.
+
+URL: https://frederik-braun.com/firefox-ui-xss-leading-to-rce.html
+Description: Remote Code Execution in Firefox beyond memory corruptions.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/DeNA/PacketProxy/
+Description: Local proxy tool in Java.
+
+URL: https://github.com/nccgroup/sniffle/
+Description: A sniffer for Bluetooth 5 and 4.x LE.
+
+URL: http://bit.ly/2o9MCPZ (+)
+Description: Raspberry PI WiFi Access Point with TLS Inspection.
+
+URL: https://github.com/hunters-forge/API-To-Event
+Description: API functions mapped to security events across diverse platforms.
+
+URL: https://frichetten.com/blog/bypass-guardduty-pentest-alerts
+Description: Bypass AWS GuardDuty PenTest Alerts.
+
+URL: https://enciphers.github.io/Mobexler/
+Description: MOBEXLER - A Mobile Application Penetration Testing Platform.
+
+URL: https://github.com/Josue87/GiveMeSecrets
+Description: Use regular expressions to get sensitive information from a given repo.
+
+URL: https://github.com/mm0r1/exploits/tree/master/php-json-bypass
+Description: PHP 7.1-7.3 disable_functions bypass.
+
+URL: https://pentestlab.blog/2017/06/07/uac-bypass-fodhelper/
+PoC: https://gist.github.com/netbiosX/a114f8822eb20b115e33db55deee6692
+Description: UAC Bypass – Fodhelper.
+
+URL: https://github.com/shinvou/decrypt0r
+Description: Download and decrypt iOS SecureRom stuff (iBSS, iBEC, iBoot, etc.).
+
+URL: https://github.com/chrispetrou/HRShell
+Description: HRShell is an HTTPS/HTTP reverse shell (advanced C2 server) built with flask.
+
+URL: https://github.com/nozaq/terraform-aws-secure-baseline
+Description: Terraform module to set up your AWS account with the secure baseline configs.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2nfcQ3d (+)
+Description: WIB sim-browser vulnerability research.
+
+URL: http://bit.ly/2pCAqHL (+)
+Description: phpBB CSRF Token Hijacking leading to Stored XSS.
+
+URL: http://bit.ly/2oN3uvR (+)
+Description: Java Deserialization Tool Gadgetinspector First Glimpse.
+
+URL: https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/
+Description: How a double-free bug in WhatsApp turns to RCE.
+
+URL: https://starlabs.sg/advisories/19-8038/
+More: https://starlabs.sg/advisories/19-8039/
+Description: Adobe Acrobat/Reader CTextWidget and CtextField Use-after-Free.
+
+URL: http://bit.ly/2VaTQ2d (+)
+Description: Gaining Shell using Server Side Template Injection (SSTI).
+
+URL: https://sysenter-eip.github.io/VBParser
+Description: Visual Basic 5/6 compiler memory leak inside created executable files.
+
+URL: http://bit.ly/2pIHGCh (+)
+Description: PowerShellRunBox - Analyzing PowerShell Threats Using PowerShell Debugging.
+
+URL: https://thesw4rm.gitlab.io/nfqueue_c2/2019/09/15/Command-and-Control-via-TCP-Handshake/
+Description: Command and Control via TCP Handshake.
+
+URL: https://medium.com/intigriti/gotcha-taking-phishing-to-a-whole-new-level-72eda9e30bef
+Description: GOTCHA - Taking phishing to a whole new level.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://eddiez.me/spotify-vacuum/
+Description: Spotify on My Xiaomi Vacuum Cleaner.
+
+URL: http://rl337.org/2012/07/31/in-java-when-is-math-abs-negative/
+Description: When is Math.abs(x) < 0?.
+
+URL: http://bit.ly/2oOXGSq (+)
+Description: Huawei’s Undocumented APIs — A Backdoor to Reinstall Google Services.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?40a0a72febfc864d#WaxfdbxWqXdbUfHmMQFcl/ftsj2Q+brs3C4ROO7op2g=
