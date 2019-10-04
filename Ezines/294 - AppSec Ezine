@@ -80,6 +80,7 @@ URL: http://bit.ly/2oN3uvR (+)
 Description: Java Deserialization Tool Gadgetinspector First Glimpse.
 
 URL: https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/
+PoC: https://github.com/dorkerdevil/CVE-2019-11932
 Description: How a double-free bug in WhatsApp turns to RCE.
 
 URL: https://starlabs.sg/advisories/19-8038/
