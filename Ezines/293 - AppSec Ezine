@@ -20,6 +20,7 @@ URL: https://medium.com/@terjanq/dom-clobbering-techniques-8443547ebe94
 Description: Clobbering the clobbered — Advanced DOM Clobbering.
 
 URL: https://samcurry.net/analysis-of-cve-2019-14994/
+PoC: https://github.com/bugbounty-site/exploits/tree/master/CVE-2019-14994
 Description: Jira Service Desk Path Traversal leads to Info. Disclosure (CVE-2019-14994).
 
 
