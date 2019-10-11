@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 41 | Month: October | Year: 2019 | Release Date: 11/10/2019 | Edition: #295 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/631956
+Description: Valve Panorama UI XSS leads to RCE via Kick/Disconnect Message.
+
+URL: https://5alt.me/2019/10/HackMD%20Stored%20XSS%20and%20HackMD%20Desktop%20RCE/
+Description: HackMD Stored XSS and HackMD Desktop RCE.
+
+URL: https://medium.com/bugbountywriteup/sql-injection-to-lfi-to-rce-536bed29a862
+Description: SQL injection to Remote Code Execution.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/bkerler/tee_research
+Description: IDA and ghidra plugins for tee research.
+
+URL: https://github.com/gcmartinelli/entroPy
+Description: Binary file entropy visualizer written in Python.
+
+URL: https://github.com/axi0mX/ipwndfu
+More: http://bit.ly/2OHZmbD (+)
+Description: Open-source jailbreaking tool for older iOS devices.
+
+URL: https://github.com/cispa/persistent-clientside-xss
+Description: Exploit generator and Taint Engine to find client-side XSS.
+
+URL: https://github.com/nccgroup/GTFOBLookup
+Description: Offline command line lookup utility for GTFOBins and LOLBAS.
+
+URL: https://github.com/jsecurity101/Windows-API-To-Sysmon-Events
+Blog: https://posts.specterops.io/uncovering-the-unknowns-a47c93bb6971
+Description: A repository that maps API calls to Sysmon Event ID's.
+
+URL: https://github.com/Neo23x0/Fenrir
+Description: Simple Bash IOC Scanner.
+
+URL: https://nightowl131.github.io/AAPG/
+Description: [A]ndroid [A]pplication [P]entest [G]uide.
+
+URL: https://github.com/ricardojba/poi-slinger
+Description: Automatically identify serialization issues in PHP Frameworks.
+
+URL: https://github.com/AlmondOffSec/PoCs/tree/master/Windows_wermgr_eop
+More: http://bit.ly/2IFODdH (+)
+Description: Windows Error Reporting Manager arbitrary file move EoP (CVE-2019-1315).
+
+URL: https://github.com/BullsEye0/shodan-eye
+Description: Shodan Eye - Collect information about connected devices using a keyword.
+
+URL: https://github.com/danigargu/deREferencing
+Description: IDA Pro plugin that implements more user-friendly register and stack views.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://theappanalyst.com/bird.html
+Description: App Analysis - Bird.
+
+URL: http://bit.ly/33ljTql (+)
+Description: OpenSSH Pre-Auth XMSS Integer Overflow.
+
+URL: https://securing.github.io/SCSVS/
+Description: Smart Contract Security Verification Standard.
+
+URL: https://alex.kaskaso.li/post/revisiting-email-spoofing
+Tool: https://github.com/serain/mailspoof
+Description: Revisiting Email Spoofing.
+
+URL: http://bit.ly/2B5NZSt (+)
+Description: Azure AD and Common WS-Trust MFA Bypass explained.
+
+URL: http://bit.ly/2IEgpay (+)
+Description: Race Condition that could Result to Remote Code Execution.
+
+URL: https://medium.com/swlh/php-type-juggling-vulnerabilities-3e28c4ed5c09
+Description: PHP Type Juggling Vulnerabilities.
+
+URL: https://xerub.github.io/ios/iboot/2018/05/10/de-rebus-antiquis.html
+PoC: https://github.com/dora2-iOS/iloader
+Description: How to exploit the recursive stack overflow bug in the iOS 7 bootchain.
+
+URL: https://x-c3ll.github.io//posts/CVE-2018-7081-RCE-ArubaOS/
+Description: Remote Code Execution in Aruba Mobility Controller - ArubaOS (CVE-2018-7081).
+
+URL: https://www.preempt.com/blog/drop-the-mic-2-active-directory-open-to-more-ntlm-attacks/
+Description: Drop The MIC 2 (CVE 2019-1166) & Exploiting LMv2 Clients (CVE-2019-1338).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://collapseos.org/
+Description: Bootstrap post-collapse technology.
+
+URL: http://www.pouet.net/prod.php?which=83222
+Description: MySQL Raytracer.
+
+URL: http://bit.ly/2Mtnpbj (+)
+Description: Censorship-resilient apps with Progressive Web Applications.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?f19540227db0a49f#iVZBrRasmSzFxiJOj87ekyC46UtvYLonFEf1SNmtBlg=
