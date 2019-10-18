@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 42 | Month: October | Year: 2019 | Release Date: 18/10/2019 | Edition: #296 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2J0wSpP (+)
+Description: CSS Injection (+ Recursive Import) Principle and Attack Method.
+
+URL: http://bit.ly/2IXw455 (+)
+Description: How "Recon" helped Samsung protect their production repositories.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://redteamzone.com/ThinVNC/
+Description: ThinVNC Client Authentication Bypass.
+
+URL: https://github.com/thelinuxchoice/getwin/
+Description: FUD Win32 payload generator and listener.
+
+URL: https://github.com/nccgroup/acCOMplice
+Description: Tools for discovery and abuse of COM hijacks.
+
+URL: https://iwantmore.pizza/posts/meterpreter-psattack.html
+Description: We Don’t Need PowerShell.exe - Meterpreter Edition!
+
+URL: https://github.com/0x4D31/fatt
+Description: Script for extracting network metadata and fingerprints from a pcap.
+
+URL: https://github.com/kendfinger/MacHack/
+Description: A list of built-in tools in macOS that you probably didn't know about.
+
+URL: https://github.com/threatrack/ghidra-patchdiff-correlator
+Description: Additional Ghidra Version Tracking Correlators suitable for patch diffing.
+
+URL: https://www.praetorian.com/blog/running-a-net-assembly-in-memory-with-meterpreter
+Description: Running a .NET Assembly in Memory with Meterpreter.
+
+URL: https://medium.com/@netscylla/pentesters-guide-to-oracle-hacking-1dcf7068d573
+Description: Pentesters Guide to Oracle Hacking.
+
+URL: https://github.com/cyberark/KubiScan
+Description: A tool to scan Kubernetes cluster for risky permissions.
+
+URL: https://github.com/PAGalaxyLab/uniFuzzer
+Description: A fuzzing tool for closed-source binaries based on Unicorn and LibFuzzer.
+
+URL: https://osandamalith.com/2019/10/12/bypassing-the-webarx-web-application-firewall-waf/
+Description: Bypassing the WebARX Web Application Firewall (WAF).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2VQ3ac8 (+)
+Description: Red Teamer's Guide to Pulse Secure SSL VPN.
+
+URL: http://bit.ly/31oU5bi (+)
+Description: How I "found" the database of the Donald Daters App.
+
+URL: https://www.sudo.ws/alerts/minus_1_uid.html
+Description: sudo bypass of Runas user restrictions (CVE-2019-14287).
+
+URL: http://bit.ly/32s7JMc (+)
+Description: "No grave but the SIP" - Reversing a VoIP phone firmware.
+
+URL: https://dmaasland.github.io/posts/mcafee.html
+Description: Bypass McAfee Endpoint Security with McAfee (CVE-2019-3653).
+
+URL: https://hernan.de/blog/2019/10/15/tailoring-cve-2019-2215-to-achieve-root/
+Description: Tailoring CVE-2019-2215 to Achieve Root.
+
+URL: https://blog.paloaltonetworks.com/2019/10/cloud-kubernetes-vulnerabilities/
+Description: Analysis of Two Kubernetes Vulnerabilities (CVE-2019-16276/CVE-2019-11253).
+
+URL: https://dirkjanm.io/office-365-network-attacks-via-insecure-reply-url/
+Description: Gaining access to emails and files via an insecure Reply URL - Office 365.
+
+URL: http://bit.ly/2IF9X3f (+)
+Description: Checking Custom Correctness Properties of Smart Contracts Using MythX.
+
+URL: https://christopher-vella.com/2019/09/06/recent-edr-av-observations/
+Description: Recent EDR & AV Observations (CrowdStrike, Defender ATP, McAfee...).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://bit.ly/33BSlx5 (+)
+Description: IT Security and Privacy for the rebellions of the world.
+
+URL: http://bit.ly/35KORdl (+)
+Description: Setting up a mail server with OpenSMTPD, Dovecot and Rspamd.
+
+URL: https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/
+Description: SQL queries don't start with SELECT.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?4fb696805ac5f74e#6Nc5MV5bDGu4iIIZOt9HZQfqvv3fp+d4jekqvQW4lK4=
