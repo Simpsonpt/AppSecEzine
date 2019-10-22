@@ -88,6 +88,7 @@ URL: https://hernan.de/blog/2019/10/15/tailoring-cve-2019-2215-to-achieve-root/
 Description: Tailoring CVE-2019-2215 to Achieve Root.
 
 URL: https://blog.paloaltonetworks.com/2019/10/cloud-kubernetes-vulnerabilities/
+PoC: https://gist.github.com/bgeesaman/0e0349e94cd22c48bf14d8a9b7d6b8f2
 Description: Analysis of Two Kubernetes Vulnerabilities (CVE-2019-16276/CVE-2019-11253).
 
 URL: https://dirkjanm.io/office-365-network-attacks-via-insecure-reply-url/
