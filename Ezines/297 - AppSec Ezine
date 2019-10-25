@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 43 | Month: October | Year: 2019 | Release Date: 25/10/2019 | Edition: #297 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://buer.haus/2019/10/18/a-tale-of-exploitation-in-spreadsheet-file-conversions/
+Description: A Tale of Exploitation in Spreadsheet File Conversions.
+
+URL: https://www.shielder.it/blog/exploiting-an-old-novnc-xss-cve-2017-18635-in-openstack/
+Description: Exploiting an old noVNC XSS (CVE-2017-18635) in OpenStack.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/theodo/RisXSS
+Description: Find XSS flaws of your React or Vue application using ESLint.
+
+URL: https://x-c3ll.github.io//posts/CSS-Injection-Primitives/
+Description: CSS Injection Primitives (Dump).
+
+URL: https://github.com/neex/phuip-fpizdam
+Description: Bug in php-fpm (CVE-2019-11043).
+
+URL: https://github.com/demantz/frizzer
+Description: Frida-based general purpose fuzzer.
+
+URL: https://github.com/nfcgate/nfcgate
+Description: An NFC relay application for Android.
+
+URL: https://github.com/wish-i-was/femida
+Description: Automated blind-xss search for Burp Suite.
+
+URL: https://github.com/kiranreddyrebel/PostMessage_Fuzz_Tool
+Description: PostMessage Fuzz Tool Chrome App & Extension.
+
+URL: https://github.com/fdiskyou/iris
+Description: WinDbg extension to display Windows process mitigations.
+
+URL: https://github.com/gigajew/PowerDropper
+Description: App that generates PowerShell dropper scripts for .NET executables.
+
+URL: https://github.com/ghostlulzhacks/waybackSqliScanner
+Description: Gather urls from wayback machine then test each GET parameter for SQLi.
+
+URL: https://github.com/trimstray/nginx-admins-handbook
+Description: How to improve NGINX performance, security, and other important things.
+
+URL: https://github.com/hisxo/gitGraber
+Description: Tool to monitor GitHub and search/find sensitive data from Google, Amazon...
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2Jg9J2v (+)
+Description: Сookie-based XSS exploitation.
+
+URL: https://cturt.github.io/ps2-yabasic.html
+Description: Hacking the PS2 with Yabasic.
+
+URL: https://habr.com/en/company/dsec/blog/472762/
+Description: Technical analysis of the checkm8 exploit.
+
+URL: http://bit.ly/2PhNa1k (+)
+Description: Understanding usbmux and the iOS lockdown service.
+
+URL: https://research.securitum.com/jwt-json-web-token-security/
+Description: JWT (JSON Web Token) (in)security.
+
+URL: http://bit.ly/32Ja1XH (+)
+Description: Using macOS Internals for Post Exploitation.
+
+URL: http://bit.ly/2qJmUmx (+)
+Description: Vulnerability Root Cause Analysis With Time Travel Debugging.
+
+URL: http://bit.ly/2BL3Ypn (+)
+Description: FreeBSD ELF Header Parsing Kernel Memory Disclosure (CVE-2018-6924).
+
+URL: https://medium.com/@MalFuzzer/dissecting-ardamax-keylogger-f33f922d2576
+Description: Dissecting Ardamax Keylogger.
+
+URL: https://medium.com/@philiptsukerman/activation-contexts-a-love-story-5f57f82bccd
+Description: Activation Contexts — A Love Story (Windows Internals).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://www.snaponair.com/
+Description: SMS with no SIM card.
+
+URL: https://github.com/spacehuhn/WiFiDuck
+Description: Keystroke injection attack plattform.
+
+URL: https://binji.github.io/posts/raw-wasm-making-a-maze-race/
+Description: Raw WASM - Making a maze race.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?43ef845debe78ec1#E+I7BLPxrUOwVtBMpToH9j1UZOPZl11JYz2Eq71PBMk=
