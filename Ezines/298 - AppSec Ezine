@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 44 | Month: November | Year: 2019 | Release Date: 01/11/2019 | Edition: #298 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/34kr6aJ (+)
+Description: XXE to RCE in XML plugins for VS Code, Eclipse, Theia...
+
+URL: https://research.securitum.com/prototype-pollution-rce-kibana-cve-2019-7609/
+Description: Exploiting prototype pollution – RCE in Kibana (CVE-2019-7609).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/mazen160/jwt-pwn
+Blog: https://mazinahmed.net/blog/breaking-jwt/
+Description: Security Testing Scripts for JWT.
+
+URL: https://github.com/insanitybit/grapl
+Description: Graph platform for Detection and Response.
+
+URL: https://github.com/gwen001/github-search
+Description: Tools to perform basic search on GitHub (Recon). 
+
+URL: https://github.com/fuzzitdev/jsfuzz
+Description: Coverage guided fuzz testing for javascript.
+
+URL: https://github.com/fcavallarin/domdig
+Description: DOM XSS scanner for Single Page Applications.
+
+URL: https://github.com/devploit/XORpass
+Description: Encoder to bypass WAF filters using XOR operations.
+
+URL: https://github.com/Hackplayers/evil-winrm
+Description: The ultimate WinRM shell for hacking/pentesting.
+
+URL: https://github.com/NotSoSecure/cloud-service-enum
+Description: Enumerate what cloud resources an account has access to.
+
+URL: https://github.com/ElevenPaths/uac-a-mola
+Description: Framework for exploiting and solving UAC bypass weaknesses.
+
+URL: https://github.com/foospidy/web-cve-tests
+Description: A simple framework for sending test payloads for known web CVEs.
+
+URL: https://github.com/yrutschle/sslh
+Description: Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port).
+
+URL: https://github.com/swisskyrepo/GraphQLmap
+Description: Scripting engine to interact with a graphql endpoint for pentesting purposes.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2BVSEqP (+)
+Description: How does the OS Loader loads the essential Drivers.
+
+URL: https://lab.wallarm.com/race-condition-in-web-applications/
+Description: Race Condition in Web Applications.
+
+URL: http://bit.ly/365EwsH (+)
+Description: Finding SQL injections fast with white-box analysis.
+
+URL: https://pulsesecurity.co.nz/advisories/untitled-goose-game-deserialization
+Description: Untitled Goose Game - Insecure Deserialization (Mono).
+
+URL: http://www.hydrogen18.com/blog/reddit-android-app-leaks-images.html
+Description: Android Reddit App leaks images.
+
+URL: https://medium.com/tenable-techblog/routeros-chain-to-root-f4e0b07c0b21
+Description: DNS Request to a Root Busybox Shell.
+
+URL: http://bit.ly/2qchqQY (+)
+Description: rConfig v3.9.2 (un)authenticated RCE (CVE-2019-16663/CVE-2019-16662).
+
+URL: https://hackerone.com/reports/629892
+Description: Lack of CSRF header validation at https://g-mail.grammarly.com/profile.
+
+URL: http://bit.ly/2NrrxcA (+)
+Description: Open Redirects In Improperly Configured mod_rewrite Rules (CVE-2019-10098).
+
+URL: https://incolumitas.com/2019/10/19/model-based-fuzzing-of-the-WPA3-dragonfly-handshake/
+Description: Model Based fuzzing of the WPA3 Dragonfly Handshake.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://hellveticafont.com/
+Description: HELLvetica.
+
+URL: https://byuu.net/compact-discs/structure
+Description: Compact Disc Structure.
+
+URL: https://rastating.github.io/opsec-in-the-after-life/
+Description: OPSEC in The After Life.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?6505ae7a32fecfe0#ceNUt2e0SxUmJzryNn+PmsYsRZbrGRNzKFvf4Edjo/k=
