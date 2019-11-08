@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 45 | Month: November | Year: 2019 | Release Date: 08/11/2019 | Edition: #299 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html
+Description: Bypassing GitHub's OAuth flow.
+
+URL: http://bit.ly/2PWO3g0 (+)
+Description: XSS Issue at Avast Desktop AntiVirus for Windows (Yes, Desktop!)
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/smirnovvad/rbuster
+Description: Yet another dirbuster.
+
+URL: https://github.com/justmao945/mallory
+Description: HTTP/HTTPS proxy over SSH.
+
+URL: https://github.com/nccgroup/SSHession
+Description: The SSH Multiplex Backdoor Tool.
+
+URL: https://dualuse.io/blog/curryfinger/
+Description: SNI & Host header spoofing utility.
+
+URL: https://github.com/3XPL017/LinPwn
+Description: Interactive Post Exploitation Tool.
+
+URL: https://labs.f-secure.com/blog/ou-having-a-laugh/
+Description: OU having a laugh?
+
+URL: https://www.riccardoancarani.it/bloodhound-tips-and-tricks/
+Description: BloodHound Tips and Tricks.
+
+URL: https://pentestlab.blog/2019/11/05/persistence-powershell-profile/
+Description: Persistence – PowerShell Profile.
+
+URL: https://bcdevices.github.io/zephyr/ble/2019/10/30/zephyr-ble-testing.html
+Description: Testing with Zephyr's BLE Stack.
+
+URL: https://github.com/shroudedcode/apk-mitm
+Description: A CLI application that prepares Android APK files for HTTPS inspection.
+
+URL: https://github.com/dustyfresh/PHP-vulnerability-audit-cheatsheet
+Description: Cheatsheet for finding vulnerable PHP code using grep.
+
+URL: https://github.com/DexPatcher/dexpatcher-tool
+Description: Modify Android DEX/APK files at source-level using Java.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2qsNu39 (+)
+Description: The Ethereal Beauty of a Missing Header.
+
+URL: http://bit.ly/2NoUXsX (+)
+Description: Understanding WdBoot (Windows Defender ELAM).
+
+URL: https://blog.netspi.com/escape-nodejs-sandboxes/
+Description: Escape NodeJS Sandboxes.
+
+URL: https://reverse.put.as/2019/10/29/crafting-an-efi-emulator/
+Description: Crafting an EFI Emulator and Interactive Debugger.
+
+URL: https://medium.com/@lerner98/rage-against-the-maschine-3357be1abc48
+Description: Rage Against the Maschine.
+
+URL: https://iwantmore.pizza/posts/cve-2019-1414.html
+Description: Local Command Execution in Visual Studio Code (CVE-2019-1414).
+
+URL: https://nathandavison.com/blog/abusing-http-hop-by-hop-request-headers
+Description: Abusing HTTP hop-by-hop request headers.
+
+URL: https://argus-sec.com/remote-attack-bosch-drivelog-connector-dongle/
+Description: A Remote Attack on the Bosch Drivelog Connector Dongle.
+
+URL: https://maxkersten.nl/binary-analysis-course/malware-analysis/corona-ddos-bot/
+Description: Corona DDoS bot analysis.
+
+URL: https://blog.vastart.dev/2019/10/stack-overflow-cve-2019-17424.html
+Description: Stack Overflow Write-Up and RCE Exploit Walk Through (CVE-2019-17424).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://whythefuckwasibreached.com/
+Description: Why the f*** was I breached?
+
+URL: https://lightcommands.com/
+Description: Laser-Based Audio Injection on Voice-Controllable Systems.
+
+URL: https://github.com/hantuzun/hr-code
+Description: Human Response Code - Designed to be recognized by humans and OCR.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?697de553003cb473#CFHQuHTD/ltoI9lyjMXSJ+ph0hj8x/tzo1F5Gge/urI=
