@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 46 | Month: November | Year: 2019 | Release Date: 15/11/2019 | Edition: #300 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://fletchto99.dev/2019/november/slack-vulnerability/
+Description: Keylogging users via Slack themes.
+
+URL: https://blog.teddykatz.com/2019/11/12/github-actions-dos.html
+Description: How I accidentally took down GitHub Actions.
+
+URL: https://terjanq.github.io/Bug-Bounty/Google/cache-attack-06jd2d2mz2r0/index.html
+Blog: http://bit.ly/34U0rSq (+)
+Description: Mass XS-Search using Cache Attack.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://mike-n1.github.io/Chain_XSS
+Description: Chain exploitation of XSS.
+
+URL: https://github.com/Ky0-HVA/CVE-2019-2890
+Description: Exploit for WebLogic with T3 (CVE-2019-2890).
+
+URL: https://github.com/x899/chrome_password_grabber
+Description: Get unencrypted 'Saved Password' from Google Chrome.
+
+URL: https://github.com/zerobyte-id/NetAss2
+Description: Network Assessment Assistance Framework (PenTest Toolkit).
+
+URL: https://pentestlab.blog/2019/11/13/persistence-accessibility-features/
+Description: Persistence – Accessibility Features.
+
+URL: https://github.com/redhuntlabs/BurpSuite-Asset_Discover
+Description: Burp Suite extension to discover assets from HTTP response.
+
+URL: https://github.com/JohnathanNorman/Mu
+Description: Simple file fuzzing harness for ASAN binaries written in Go.
+
+URL: https://github.com/0x09AL/RdpThief
+Description: Extracting Clear Text Passwords from mstsc.exe using API Hooking.
+
+URL: https://github.com/sqlectron/sqlectron-gui
+Description: A simple and lightweight SQL client desktop w/ cross DB/Platform support.
+
+URL: https://github.com/1N3/BlackWidow/
+Description: Web application scanner to gather OSINT and fuzz for OWASP vulnerabilities.
+
+URL: https://github.com/leebaird/discover
+Description: Custom bash scripts used to automate various penetration testing tasks.
+
+URL: https://github.com/xFreed0m/SMTPTester
+Description: Small python3 tool to check common vulnerabilities in SMTP servers.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://tpm.fail/
+Description: TPM meets Timing and Lattice Attacks.
+
+URL: http://re.alisa.sh/notes/iBoot-address-space.html
+Description: iBoot address space.
+
+URL: https://decoder.cloud/2019/11/13/from-arbitrary-file-overwrite-to-system/
+Description: From arbitrary file overwrite to SYSTEM.
+
+URL: https://c0nradsc0rner.com/2016/07/03/ecb-byte-at-a-time/
+Description: ECB Byte at a Time.
+
+URL: http://bit.ly/374r7S9 (+)
+Description: How I was able to delete Google Gallery Data (IDOR).
+
+URL: http://bit.ly/2qW7JpO (+)
+Description: A Brief Look At macOS Detections and Post Infection Analysis.
+
+URL: https://shenaniganslabs.io/2019/11/12/Ghost-Potato.html
+Description: Ghost Potato - NTLM reflection is back from the dead!
+
+URL: http://bit.ly/34ZdguH (+)
+Description: Pwn the ESP32 Forever - Flash Encryption and SBoot Keys Exfil (CVE-2019-17391).
+
+URL: http://bit.ly/2NMg74t (+)
+Description: Exploiting the Android PacProcessor Service that may lead to RCE (CVE-2019-2205).
+
+URL: http://bit.ly/2CLkyWI (+)
+Description: EoP via UPnP Device Host and Update Orchestrator Services (CVE-2019-1405/CVE-2019-1322).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/stolk/imcat
+Description: Show any image in a terminal window.
+
+URL: https://github.com/firecracker-microvm/firecracker
+Description: Secure and fast microVMs for serverless computing. 
+
+URL: https://github.com/adolfintel/OpenPods
+Description: The Free and Open Source app for monitoring your AirPods on Android.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?b8be8ca515c1b5d4#2Z+Gvd9VGZGxeTBnZhYc/qMqxKilgm4Rt5IpiifM98M=
