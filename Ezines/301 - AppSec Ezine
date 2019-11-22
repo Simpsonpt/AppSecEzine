@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 47 | Month: November | Year: 2019 | Release Date: 22/11/2019 | Edition: #301 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://portswigger.net/research/cracking-recaptcha-turbo-intruder-style
+Description: Cracking reCAPTCHA, Turbo Intruder style.
+
+URL: http://bit.ly/34b23Hk (+)
+Description: Easy-as-Pie Windows 7 Secure Desktop Escalation of Privilege (CVE-2019-1388).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/andrewchambers/sftpplease
+Description: SFTP <-> Cloud service bridge. 
+
+URL: https://www.notsosecure.com/oob-exploitation-cheatsheet/
+Description: Out of Band Exploitation (OOB) CheatSheet.
+
+URL: https://github.com/peterbjornx/me_sa86_exploit
+Description: Exploit generator for Intel ME 11 buffer overflow.
+
+URL: https://github.com/cloudflare/flan
+Description: Flan Scan is a lightweight network vulnerability scanner. 
+
+URL: https://github.com/thisislibra/genesis
+Description: A framework to generate unique test cases based on code snippets.
+
+URL: https://github.com/aas-n/spraykatz
+Description: Tool to retrieve credentials on Windows machines and large AD envs.
+
+URL: https://github.com/jtesta/rainbowcrackalack
+Description: Rainbow table generation & lookup tools. Make Rainbow Tables Great Again! 
+
+URL: https://github.com/S3cur3Th1sSh1t/WinPwn
+Description: Automation for internal Windows Penetrationtest / AD-Security.
+
+URL: https://github.com/JPCERTCC/MalConfScan
+Description: Volatility plugin for extracts configuration data of known malware.
+
+URL: https://github.com/can1357/ByePg
+Description: Defeating Patchguard universally for Windows 8/8.1/10 regardless of HVCI.
+
+URL: https://github.com/Mr-Un1k0d3r/SCShell
+Description: Fileless lateral movement tool that relies on ChangeServiceConfigA to run.
+
+URL: https://github.com/seajaysec/cypheroth
+Description: Automated/Extensible toolset that runs cypher queries against Bloodhound's Neo4j.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2Qh4qUT (+)
+Description: McAfee (MTP/AVP/MIS) - Self-Defense Bypass and Usages (CVE-2019-3648).
+
+URL: http://bit.ly/2OwK1Zv (+)
+Description: Getting Arbitrary Code Execution from fopen's 2nd Argument.
+
+URL: http://bit.ly/2QB0ChD (+)
+Description: Getting Malicious Office Documents to Fire with Protected View Enabled.
+
+URL: http://bit.ly/37ntoIl (+)
+Description: Docker Patched the Most Severe Copy Vulnerability to Date (CVE-2019-14271).
+
+URL: https://medium.com/@two06/amsi-as-a-service-automating-av-evasion-2e2f54397ff9
+Description: AMSI as a Service — Automating AV Evasion.
+
+URL: https://github.com/ssd-secure-disclosure/advisories/tree/master/SSD%20Advisory%20-%204066
+Description: iOS Jailbreak via Sandbox Escape and Kernel R/W leading to RCE.
+
+URL: https://timvisee.com/blog/stealing-private-keys-from-secure-file-sharing-service/
+Description: Stealing private keys from a secure file sharing service.
+
+URL: http://bit.ly/37uwOJl (+)
+Description: Exploiting JSONP and Bypassing Referer Check.
+
+URL: https://blog.silentsignal.eu/2019/04/18/drop-by-drop-bleeding-through-libvips/
+Description: Drop-by-Drop - Bleeding through libvips.
+
+URL: https://www.shelliscoming.com/2019/11/retro-shellcoding-for-current-threats.html
+Description: Retro shellcoding for current threats: rebinding sockets in Windows.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://pomb.us/build-your-own-react/
+Description: Build your own React.
+
+URL: https://webassembly-security.com/polyglot-webassembly-module-html-js-wasm/
+Description: How to create polyglot HTML/JS/WebAssembly module.
+
+URL: https://jcjc-dev.com/2019/11/11/esp32-arduino-bluetooth-halloween-costume/
+Description: Quick development of bluetooth-based costume props using Arduino and ESP32.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?18b9afaf5f77960a#WE5YCJDNfuc4dRdYeFa9jLg3un3wK2FdP8zbE4IE1pc=
