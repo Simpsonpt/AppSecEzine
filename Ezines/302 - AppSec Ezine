@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 48 | Month: November | Year: 2019 | Release Date: 29/11/2019 | Edition: #302 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://research.securitum.com/xss-in-amp4email-dom-clobbering/
+Description: XSS in GMail’s AMP4Email via DOM Clobbering.
+
+URL: https://ysamm.com/?p=343
+Description: Reflected XSS in graph.facebook.com leads to account takeover in IE/Edge.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/sandfs/sandfs.github.io
+Description: Sandboxing File System.
+
+URL: https://github.com/fuzzitdev/javafuzz
+Description: Coverage guided fuzz testing for Java.
+
+URL: https://github.com/AbsoZed/DockerPwn.py
+Description: Python automation of Docker.sock abuse.
+
+URL: https://github.com/controlplaneio/kubesec
+Description: Security risk analysis for Kubernetes resources.
+
+URL: https://github.com/Imtiazkarimik23/ATFuzzer
+Description: Dynamic Analysis of AT Interface for Android Smartphones.
+
+URL: https://github.com/arch4ngel/peasant
+Description: Peasant is a LinkedIn reconnaissance utility written in Python3.
+
+URL: https://github.com/nowsecure/fsmon
+Description: Monitor filesystem on iOS/OSX/Android/FirefoxOS/Linux.
+
+URL: https://github.com/b4rtik/RedPeanut
+Description: Small RAT developed in .Net Core 2 and its agent in .Net 3.5/4.0.
+
+URL: https://github.com/vonahisec/leprechaun
+Description: Tool to map out the network data flow and help PT identify targets.
+
+URL: https://0xeb-bp.github.io/blog/2019/11/21/practical-guide-pass-the-ticket.html
+Description: Practical Guide to Passing Kerberos Tickets From Linux.
+
+URL: https://github.com/gamozolabs/fzero_fuzzer
+Description: A fast Rust-based safe and thead-friendly grammar-based fuzz generator.
+
+URL: https://github.com/guibacellar/DNCI
+Description: DNCI allows the injection of .Net code remotely in unmanaged processes.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.xpnsec.com/exploring-mimikatz-part-1/
+More: https://blog.xpnsec.com/exploring-mimikatz-part-2/
+Description: Exploring Mimikatz - WDigest and SSP.
+
+URL: https://blog.benjojo.co.uk/post/userspace-usb-drivers
+Description: Writing userspace USB drivers for abandoned devices.
+
+URL: https://blog.orange.tw/2019/11/HiNet-GPON-Modem-RCE.html
+Description: Chunghwa Telecom remote code execution vulnerability.
+
+URL: https://staaldraad.github.io/post/2019-11-24-argument-injection/
+Description: Argument injection and getting past shellwords.escape.
+
+URL: https://mrexodia.github.io/reversing/2019/09/28/Analyzing-keyboard-firmware-part-1
+More: http://bit.ly/2qVMxAJ(+) | http://bit.ly/2L2NZZc (+)
+Description: Analyzing Keyboard Firmware.
+
+URL: https://dreadlocked.github.io/2019/10/25/kentico-cms-rce/
+Description: Analysis and explotation of 2019-10068, a RCE in Kentico CMS <= 12.04.
+
+URL: https://medium.com/bugbountywriteup/breaking-down-sha-256-algorithm-2ce61d86f7a3
+Description: Breaking Down - SHA-256 Algorithm.
+
+URL: https://blog.flanker017.me/examining-and-exploiting-android-vendor-binder-services-part1/
+Description: Examining and exploiting android vendor binder services (CVE-2018-9143).
+
+URL: https://bkerler.github.io/2019/11/15/bring-light-to-the-darkness/
+Description: Bring light to the darkness - Reversing a Qualcomm Hexagon QDSP modem for profit.
+
+URL: http://bit.ly/2R13owE (+)
+More: http://bit.ly/2XSGLfq (+)
+Description: Exploiting Intel's Management Engine - Understanding PT’s TXE PoC (INTEL-SA-00086).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://kiwec.net/blog/posts/beating-c-with-brainfuck/
+Description: Beating C with 1 line of Brainfuck.
+
+URL: http://bit.ly/2Dqvj13 (+)
+Description: The mostly complete chart of Neural Networks, explained.
+
+URL: https://s0lly.itch.io/cellivization
+Description: Playable version of Sid Meier’s Civilization in Microsoft Excel.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?680901ad51b1d7f9#8M0vUzDvXDO5EWN5SPBRR3vyi2C0Z6sx3T749klPXpw=
