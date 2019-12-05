@@ -96,6 +96,7 @@ URL: https://blog.flanker017.me/examining-and-exploiting-android-vendor-binder-s
 Description: Examining and exploiting android vendor binder services (CVE-2018-9143).
 
 URL: https://bkerler.github.io/2019/11/15/bring-light-to-the-darkness/
+More: https://bkerler.github.io/2019/11/30/bring-light-to-the-darkness-p2/
 Description: Bring light to the darkness - Reversing a Qualcomm Hexagon QDSP modem for profit.
 
 URL: http://bit.ly/2R13owE (+)
