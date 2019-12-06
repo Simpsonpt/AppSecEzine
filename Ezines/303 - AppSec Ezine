@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 49 | Month: December | Year: 2019 | Release Date: 06/12/2019 | Edition: #303 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2rjDZDX (+)
+Description: Microsoft Azure Account Takeover.
+
+URL: https://about.gitlab.com/blog/2019/11/29/shopping-for-an-admin-account/
+Description: Shopping for an admin account via path traversal.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/skelsec/jackdaw
+Description: Network Recon and Gather Tool.
+
+URL: https://github.com/rohanpadhye/jqf
+Description: Coverage-guided semantic fuzzing for Java.
+
+URL: https://github.com/Magpol/fridafde
+Description: Frida FDE bruteforce Samsung S7 Edge.
+
+URL: https://github.com/mame82/munifying-web
+Description: PoC for CVE-2019-13054 and CVE-2019-13054.
+
+URL: https://github.com/macmade/unicorn-bios
+Description: Basic BIOS emulator for Unicorn Engine.
+
+URL: https://github.com/mzfr/gtfo
+Description: Search gtfobins and lolbas files from your terminal.
+
+URL: https://github.com/sadicann/andor
+Description: Blind SQL Injection Tool with Golang.
+
+URL: https://github.com/everdox/InfinityHook
+Description: Hook system calls, context switches, page faults and more.
+
+URL: https://github.com/portswigger/stepper
+Description: A natural evolution of Burp Suite's Repeater tool.
+
+URL: http://bit.ly/2OS4n0D (+)
+Description: Using an Option ROM to overwrite SMM/SMI handlers in QEMU.
+
+URL: https://github.com/mutpy/mutpy
+Description: MutPy is a mutation testing tool for Python 3.x source code.
+
+URL: https://github.com/TheresAFewConors/Sooty
+Description: The SOC Analysts all-in-one CLI tool to automate and speed up workflow. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit
+Description: Creating a Rootkit to Learn C.
+
+URL: http://bit.ly/2OTDeuv (+)
+Description: A macOS Catalina privilege escalation (CVE-2019-8805).
+
+URL: https://blog.talosintelligence.com/2019/11/hunting-for-lolbins.html
+Description: Hunting for LoLBins.
+
+URL: https://puzzor.github.io/Linksys-Velop-Vulneraibility-Series
+Description: Linksys velop vulneraibility series.
+
+URL: https://rushter.com/blog/public-ssh-keys/
+Description: Public SSH keys can leak your private infrastructure.
+
+URL: http://bit.ly/2PlmQSi (+)
+Description: Authentication vulnerabilities in OpenBSD.
+
+URL: https://medium.com/@drakkars/hacking-an-android-tv-in-2-minutes-7b6f29518ff3
+Related: https://github.com/victorqribeiro/bruteforcetv
+Description: Hacking an Android TV in 2 minutes.
+
+URL: https://m417z.com/The-De-anonymization-of-the-Technion-Confessions-Admin/
+Description: The De-anonymization of the Technion Confessions Admin.
+
+URL: https://medium.com/swlh/hacking-xml-data-a64c870b0988
+Description: Hacking XML Data - Obtaining illegal data access using XPATH injections.
+
+URL: https://sensepost.com/blog/2019/obtaining-shells-via-logitech-unifying-dongles/
+Description: Obtaining shells via Logitech Unifying Dongles.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://xyproblem.info/
+Description: The XY Problem.
+
+URL: https://www.imbushuo.net/blog/archives/725
+Description: So you told me you want to run Windows on a Calculator.
+
+URL: https://www.dylanpaulus.com/2019-11-24-how-fb-avoids-adblockers/
+Description: How Facebook Avoids Ad Blockers.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?4826d30d6266e82f#ZTUOgXR3Ntbb481BS1idu6zWHK1T643idEYa5kY4I4k=
