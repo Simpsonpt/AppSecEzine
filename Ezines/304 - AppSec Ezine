@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 50 | Month: December | Year: 2019 | Release Date: 13/12/2019 | Edition: #304 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hipotermia.pw/bb/http-desync-idor
+Description: HTTP Request Smuggling or HTTP Desync + IDOR.
+
+URL: https://amonitoring.ru/article/origin_lpe_disclosure/
+Description: Local EoP in EA Windows Origin Client (CVE-2019-19247 & CVE-2019-19248).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/s0md3v/Corsy
+Description: CORS Misconfiguration Scanner.
+
+URL: https://github.com/FortyNorthSecurity/EyeWitness
+Description: Tool to take screenshots of websites.
+
+URL: https://github.com/jreppiks/CVE-2017-12149
+Description: Jboss Java Deserialization RCE (CVE-2017-12149).
+
+URL: https://www.ragestorm.net/blogs/?p=486
+Description: SetWindowsHookEx Leaks A Kernel Pointer (CVE-2019-1469).
+
+URL: https://github.com/delvelabs/batea
+Description: AI-based, context-driven network device ranking.
+
+URL: https://github.com/paralax/ObsidianSailboat
+Description: Nmap and NSE command line wrapper in the style of Metasploit.
+
+URL: https://www.coalfire.com/The-Coalfire-Blog/December-2019/Deserialized-Double-Dirty
+Description: Deserialized Double Dirty.
+
+URL: https://x-c3ll.github.io/posts/Pivoting-MySQL-Proxy/
+Description: Tunneling traffic through MySQL service (or your mysqld is my new SOCKS5).
+
+URL: https://github.com/immunityinc/libptrace
+Description: An event driven multi-core process debugging/tracing/manipulation framework. 
+
+URL: https://www.vdalabs.com/2019/09/25/windows-credential-theft-rdp-internet-explorer-11/
+Description: Windows Credential Theft - RDP & Internet Explorer 11.
+
+URL: https://github.com/0vercl0k/CVE-2019-11708
+Description: Full exploit chain (CVE-2019-11708 & CVE-2019-9810) against Firefox on Win64.
+
+URL: https://github.com/chrispetrou/FDsploit
+Description: File Inclusion & Directory Traversal fuzzing, enumeration & exploitation tool.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://itm4n.github.io/cdpsvc-dll-hijacking/
+Related: http://bit.ly/2PBSOKl (+) | http://bit.ly/2YIgX67 (+)
+Description: CDPSvc DLL Hijacking - From LOCAL SERVICE to SYSTEM.
+
+URL: https://medium.com/@ricardoiramar/reusing-cookies-23ed4691122b?
+Description: Reusing Cookies.
+
+URL: https://diverto.github.io/2019/11/18/Cracking-LUKS-passphrases
+Description: Cracking LUKS/dm-crypt passphrases.
+
+URL: https://www.0x90.zone/multiple/reverse/2019/11/28/Anviz-pwn.html
+PoC: https://www.exploit-db.com/exploits/47734
+Description: Anviz Pwn! How broken devices could be?
+
+URL: http://bit.ly/2skmNhQ (+)
+Description: Bots and Crawlers — The automation of information gathering.
+
+URL: https://www.mdsec.co.uk/2019/12/macos-filename-homoglyphs-revisited/
+Description: MacOS Filename Homoglyphs Revisited.
+
+URL: https://promon.co/security-news/strandhogg/
+Description: StrandHogg Android Vulnerability Allows Malware to Hijack Legitimate Apps.
+
+URL: https://medium.com/@ss23/php-autloading-local-file-inclusion-by-design-71aafe627877
+Description: PHP Autoloading - Local File Inclusion by Design.
+
+URL: https://n4r1b.netlify.com/en/posts/2019/11/understanding-wdboot-windows-defender-elam/
+Description: Understanding WdBoot (Windows Defender ELAM).
+
+URL: https://decoder.cloud/2019/12/06/we-thought-they-were-potatoes-but-they-were-beans/
+Description: We thought they were potatoes but they were beans (from Service Account to SYSTEM again).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/deepfakes/faceswap
+Description: Deepfakes Software For All.
+
+URL: https://starship.rs/
+Description: The cross-shell prompt for astronauts.
+
+URL: https://ivrodriguez.com/introducing-security-plist/
+Description: Introducing security.plist.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?26809cada096fcc7#+okOY6Di/VMq16PiOntAXtpQ0ZcVIarUiHVQh4vuxsY=
