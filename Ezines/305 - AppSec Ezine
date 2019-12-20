@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 51 | Month: December | Year: 2019 | Release Date: 20/12/2019 | Edition: #305 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://eng.getwisdom.io/hacking-github-with-unicode-dotless-i/
+Description: Hacking GitHub with Unicode's dotless 'i'.
+
+URL: https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437
+Description: Vimeo upload function SSRF.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/al0ne/nginx_log_check
+Description: Nginx log security analysis script.
+
+URL: https://github.com/Areizen/Android-Malware-Sandbox
+Description: Android Malware Sandbox.
+
+URL: https://github.com/defenxor/dsiem
+Description: Security event correlation engine for ELK stack.
+
+URL: https://brandonhinkel.com/breaking-hardened-mifare-proxmark3/
+Description: Breaking Hardened MIFARE with Proxmark3.
+
+URL: https://github.com/bfuzzy/auditd-attack
+Description: A Linux Auditd rule set mapped to MITRE's Attack Framework.
+
+URL: https://github.com/haroonawanofficial/ReconCobra
+Description: Complete Automated pentest framework for Information Gathering.
+
+URL: https://aboutdfir.com/jailbreaking-checkra1n-configuration/
+Description: How to access and traverse a #checkra1n JB iPhone FS using SSH.
+
+URL: https://github.com/zeropwn/spyse.py
+Description: Py API wrapper and CLI client for the tools hosted on spyse.com.
+
+URL: https://github.com/Dviros/CredsLeaker
+Description: Tool to display a PS credentials box asked the user for credentials. 
+
+URL: https://github.com/xyele/secretx
+Description: Extracting API keys and secrets by requesting each url at the your list.
+
+URL: https://pentest.blog/explore-hidden-networks-with-double-pivoting/
+Description: Explore Hidden Networks With Double Pivoting.
+
+URL: https://github.com/blackarrowsec/advisories/tree/master/2019/CVE-2019-18956
+Description: RCE (Java Deserialization) in Proxia Suite/Proxia PHR/SparkSpace (CVE-2019-18956).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://medium.com/maverislabs/cve-2019-17123-cbc946c99f8
+Description: eGain Web API Email Header Injection (CVE-2019-17123).
+
+URL: https://osintcurio.us/2019/07/16/searching-instagram/
+More: https://osintcurio.us/2019/10/01/searching-instagram-part-2/
+Description: Searching Instagram.
+
+URL: https://decoder.cloud/2019/12/18/from-dropboxupdater-to-nt-authoritysystem/
+Description: From dropbox(updater) to NT AUTHORITY\SYSTEM.
+
+URL: https://medium.com/@rootxharsh_90844/abusing-feature-to-steal-your-tokens-f15f78cebf74
+Description: Abusing feature to steal your tokens (Web Hacking).
+
+URL: https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation
+Description: Interactive guide to Buffer Overflow exploitation.
+
+URL: https://know.bishopfox.com/research/cve-2019-18935-remote-code-execution-in-telerik-ui
+PoC: https://github.com/noperator/CVE-2019-18935
+Description: Remote Code Execution via Insecure Deserialization in Telerik UI (CVE-2019-18935).
+
+URL: https://blog.tetrane.com/2019/11/17/Analyzing_an_Out_of_Bounds_read_in_a_TTF_font_file.html
+Description: Analyzing an Out-of-Bounds read in a TTF font file (CVE-2019-1244).
+
+URL: https://github.com/apple/llvm-project/blob/apple/master/clang/docs/PointerAuthentication.rst
+Description: Pointer Authentication.
+
+URL: https://lab.wallarm.com/securing-and-attacking-graphql-part-1-overview/
+More: http://bit.ly/35zxN9T (+) | https://lab.wallarm.com/graphql-batching-attack/
+Description: Securing GraphQL.
+
+URL: https://dsfile-analysis.blogspot.com/2019/12/normal-0-false-false-false-en-us-x-none.html
+Description: Forensics Analysis on DS file for Android.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://bowero.nl/blog/2019/12/15/c-what-the-fuck/
+Description: C, what the fuck??!
+
+URL: https://neilkakkar.com/unix.html
+Description: How Unix Works - Become a Better Software Engineer.
+
+URL: https://yurichev.com/blog/SA_XOR/
+Description: Cracking simple XOR cipher with simulated annealing.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?be51dd325f80abc6#DuG2EWaN7ChMG5mgKs5EUibXe7Swg/bjad9DGYNvY4c=
