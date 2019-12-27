@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 52 | Month: December | Year: 2019 | Release Date: 27/12/2019 | Edition: #306 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://leucosite.com/Edge-Chromium-EoP-RCE/
+Description: Microsoft Edge (Chromium) - EoP via XSS to Potential RCE.
+
+URL: http://bit.ly/34Rnm0g (+)
+Description: Filling in the Blanks - Exploiting Null Byte Buffer Overflow.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/horsicq/XOpcodeCalc
+Description: OPCode Calculator.
+
+URL: https://github.com/ajxchapman/sshreverseshell
+Description: Full TTY reverse shell over SSH.
+
+URL: https://github.com/NtesEyes/pylane
+Description: An python vm injector with debug tools, based on gdb.
+
+URL: https://github.com/ryu22e/django_cve_2019_19844_poc/
+Description: PoC for CVE-2019-19844.
+
+URL: https://github.com/0x6d69636b/windows_hardening
+Description: Windows Hardening settings and configurations.
+
+URL: https://github.com/momenbasel/keyFinder
+Description: Keyfinderkey is a tool that let you find keys while surfing the web!
+
+URL: https://github.com/masahiro331/CVE-2019-10758/
+Description: mongo-express <0.54.0 RCE via endpoints that uses the `toBSON` method.
+
+URL: https://github.com/MohitDabas/malwinx
+Description: Flask web app to understand win32api with code snippets and references.
+
+URL: https://iwantmore.pizza/posts/meterpreter-ppid-spoofing.html
+Description: Meterpreter + PPID Spoofing — Blending into the Target Environment.
+
+URL: https://anee.me/reversing-a-real-world-249-bytes-backdoor-aadd876c0a32
+Description: Reversing a real-world 249 bytes backdoor!
+
+URL: https://github.com/ThatcherDev/BetterBackdoor
+Description: A backdoor with a multitude of features.
+
+URL: https://github.com/v-p-b/cve-2019-12750/
+Description: Symantec Local Privilege Escalation (CVE-2019-12750).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/35UMgNM (+)
+Description: DoS via Retry-After header in Apache Olingo (CVE-2019-17555).
+
+URL: https://blog.umangis.me/a-deep-dive-into-ios-code-signing/
+Description: A Deep Dive into iOS Code Signing.
+
+URL: https://offensi.com/2019/12/16/4-google-cloud-shell-bugs-explained-introduction/
+Description: 4 Google Cloud Shell bugs explained.
+
+URL: https://medium.com/@R0X4R/graphql-idor-leads-to-information-disclosure-175eb560170d
+Description: GraphQL IDOR leads to information disclosure.
+
+URL: https://know.bishopfox.com/blog/5-privesc-attack-vectors-in-aws
+More: https://know.bishopfox.com/research/privilege-escalation-in-aws
+Description: Escalator to the Cloud - 5 Privesc Attack Vectors in AWS.
+
+URL: https://securitylab.github.com/research/ubuntu-whoopsie-daisy-overview
+Description: Chaining accidental features of Ubuntu’s crash reporter to get LPE.
+
+URL: http://bit.ly/2ZstdI5 (+)
+Description: How to Detect Vulnerabilities in Software When No Source Code Is Available.
+
+URL: https://mp.weixin.qq.com/s/okU2y0izfnKXXtXG3EfLkQ
+PoC: https://github.com/shadow-horse/CVE-2019-17571
+Description: Apache Log4j 1.2.X has deserialization RCE vulnerability (CVE-2019-17571).
+
+URL: https://bertjwregeer.keybase.pub/2019-12-10%20-%20error_page%20request%20smuggling.pdf
+Description: NGINX error_page request smuggling.
+
+URL: https://fredericb.info/2016/10/amlogic-s905-soc-bypassing-not-so.html
+Description: Amlogic S905 SoC - Bypassing the (not so) Secure Boot to dump the BootROM.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/satwikkansal/wtfpython
+Description: What the f*ck Python!
+
+URL: https://www.blackhillsinfosec.com/how-to-hack-hardware-using-uart/
+Description: How to Hack Hardware using UART.
+
+URL: http://bit.ly/2Mulp3y (+)
+Description: Recovering the SIM card PIN from the ZTE WF721 cellular home phone.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?2d67938f578f39ee#KfuZCc8OtNADQaA5sV6/6d22klCYKFHLIQcJtQ6YtMU=
