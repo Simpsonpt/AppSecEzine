@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 01 | Month: January | Year: 2020 | Release Date: 03/01/2020 | Edition: #307 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://alephsecurity.com/2019/12/29/revised-homograph-attacks/
+Description: Revised Homograph Attacks.
+
+URL: http://bit.ly/2tnUn78 (+)
+Description: Using WebRTC ICE Servers for Port Scanning in Chrome.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://jpdias.me/infosec/hardware/2019/12/26/uberhid.html
+Description: UBERHid - Wifi keylogger and HID injector.
+
+URL: https://m0chan.github.io/2019/07/30/Windows-Notes-and-Cheatsheet.html
+Description: Windows Notes/Cheatsheet.
+
+URL: https://github.com/anestisb/qc_image_unpacker
+Description: Qualcomm image unpacker.
+
+URL: https://github.com/abrignoni/iLEAPP
+Description: iOS Logs, Events, And Preferences Parser.
+
+URL: https://github.com/marin-m/vmlinux-to-elf
+Description: A tool to recover a fully analyzable .ELF from a raw kernel.
+
+URL: https://github.com/imperva/automatic-api-attack-tool
+Description: Automatic API attack tool.
+
+URL: https://github.com/21y4d/nmapAutomator
+Description: A script that you can run in the background!
+
+URL: https://github.com/quark-engine/quark-engine
+Description: An Obfuscation-Neglect Android Malware Scoring System.
+
+URL: https://github.com/agis/gtrace
+Description: Experimental system call tracer for Linux x86-64, written in Go.
+
+URL: https://github.com/cve-search/git-vuln-finder
+Description: Finding potential software vulnerabilities from git commit messages.
+
+URL: https://gist.github.com/ykoster/4d2c3792d438e04bb73529017a6e1177
+Blog: https://offsec.almond.consulting/osquery-windows-acl-misconfiguration-eop.html
+Description: Osquery for Windows access right misconfiguration EoP (CVE-2019-3567).
+
+URL: https://github.com/akabe1/windows_exploit_dowser
+Description: Tool which could be useful to identify the exploits afflicting a Windows OS.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://sec.alexflor.es/post/minipwn/
+Description: Abusing Signals with SIGROP Exploits.
+
+URL: https://blog.zeddyu.info/2019/12/08/HTTP-Smuggling-en/
+Description: Help you understand HTTP Smuggling in one article.
+
+URL: https://whereisk0shl.top/post/a-simple-story-of-dssvc
+Description: A simple story of DsSvc, "Live and Die" (Easy EoP).
+
+URL: http://bit.ly/36ecGdz (+)
+Description: D-Link DIR-859 — Unauthenticated RCE (CVE-2019–17621).
+
+URL: http://bit.ly/2PYAQmQ (+)
+Description: Unsafe deserialization in Apache Olingo (CVE-2019-17556).
+
+URL: https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-1.html
+More: https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-2.html 
+Description: A Deep Dive Into Samsung's TrustZone.
+
+URL: https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/
+Description: Exploiting Wi-Fi Stack on Tesla Model S.
+
+URL: https://blog.jonlu.ca/posts/experiments-and-growth-hacking
+Description: Experiments, growth engineering, and exposing company secrets through your API.
+
+URL: https://medium.com/@frycos/yet-another-net-deserialization-35f6ce048df7
+Description: Yet Another .NET deserialization.
+
+URL: http://bit.ly/36kD8lE (+)
+Description: PE Import Table hijack to get persistence - or exploiting DLL side loading.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/CoatiSoftware/Sourcetrail
+Description: Sourcetrail - Free and open-source interactive source explorer.
+
+URL: https://github.com/avishayil/caponeme
+Description: Repository demonstrating the Capital One breach on your AWS account.
+
+URL: https://tech.michaelaltfield.net/2020/01/02/buskill-laptop-kill-cord-dead-man-switch/
+Description: Introducing BusKill - A Kill Cord for your Laptop.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?765b051c270b3dd1#zHSNbhqRmZkVM4XlknAVwYui5R8vnNZmdVgXyoW3aIQ=
