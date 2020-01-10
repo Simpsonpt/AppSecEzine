@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 02 | Month: January | Year: 2020 | Release Date: 10/01/2020 | Edition: #308 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2FBDJUC (+)
+Description: The Bug That Exposed Your PayPal Password.
+
+URL: http://bit.ly/2tGKrG0 (+)
+Description: Bypass SameSite Cookies Default to Lax and GET CSRF.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/milabs/lkrg-bypass
+Description: LKRG bypass methods.
+
+URL: https://github.com/ucsb-seclab/difuze
+Description: Fuzzer for Linux Kernel Drivers.
+
+URL: https://github.com/ph4ntonn/Stowaway
+Description: Multi-hop Proxy Tool for pentesters.
+
+URL: https://github.com/VladRico/apache2_BackdoorMod
+Description: A backdoor module for Apache2.
+
+URL: https://community.turgensec.com/ssh-hacking-guide/
+Description: A Comprehensive Guide to Breaking SSH.
+
+URL: https://github.com/icryo/RFCpwn
+Description: An enumeration and exploitation toolkit using RFC calls to SAP.
+
+URL: https://github.com/yandex/gixy
+Description: Nginx configuration static analyzer.
+
+URL: https://github.com/matterpreter/DefenderCheck
+Description: Identifies the bytes that Microsoft Defender flags on.
+
+URL: https://pentestlab.blog/2020/01/07/persistence-appinit-dlls/
+Description: Persistence – AppInit DLLs.
+
+URL: https://github.com/pentagridsec/5-AFL-suite-docker
+More: https://www.pentagrid.ch/en/blog/pentagrid-aflplusplus-suite-docker-images/
+Description: Dockerfile for AFL++ and helpful other tools.
+
+URL: https://webassembly-security.com/fuzzing-wasm-javascript-dharma-chrome-v8/
+Description: Fuzzing JavaScript WebAssembly APIs using Dharma/Domato (on Chrome/V8).
+
+URL: https://github.com/Leoid/MatchandReplace
+Description: Match and Replace script used to generate JSON option file to BurpSuite.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://cablehaunt.com/
+Description: Vulnerability Report - Broadcom Cable Modems.
+
+URL: https://www.ambionics.io/blog/php-mt-rand-prediction
+Description: Breaking PHP's mt_rand() with 2 values and no bruteforce.
+
+URL: https://gravitational.com/blog/ssh-handshake-explained/
+Description: SSH Handshake Explained.
+
+URL: http://bit.ly/2R6XSau (+)
+PoC: https://github.com/bluefrostsecurity/CVE-2019-1215/
+Description: Analysis of a Use After Free in ws2ifsl (CVE-2019-1215).
+
+URL: https://www.pentagrid.ch/en/blog/fuzzing_java_with_jqf/
+Description: Fuzzing Java with JQF.
+
+URL: https://duo.com/labs/research/secure-boot-in-the-era-of-the-t2
+Description: Secure Boot in the Era of the T2.
+
+URL: https://redfast00.github.io/12-31-2019/reverse-engineering-uefi.html
+Description: Reverse engineering UEFI firmware updater.
+
+URL: https://medium.com/@ryancor/reverse-engineering-encrypted-code-segments-b01aead67701
+Description: Reverse Engineering Encrypted Code Segments.
+
+URL: https://medium.com/@catalyst256/osint-certificate-transparency-lists-a603c9d2b776
+Description: OSINT — Certificate Transparency Lists.
+
+URL: https://www.allysonomalley.com/2020/01/06/saying-goodbye-to-my-favorite-5-minute-p1/
+Description: Saying Goodbye to my Favorite 5 Minute P1.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://rubyplants.com/
+Description: Accelerating Photosynthesis.
+
+URL: http://www.p01.org/defender_of_the_favicon/
+Description: Defender of the favicon.
+
+URL: https://immunant.com/blog/2020/01/quake3/
+Description: Translating Quake 3 into Rust.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?5540179b502b268e#ew3lfo3pBm27OqF5ZrrZuPUiJ2e/l7WvlbCGVhbxZzU=
