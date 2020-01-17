@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 03 | Month: January | Year: 2020 | Release Date: 17/01/2020 | Edition: #309 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.isec.pl/all-is-xss-that-comes-to-the-net/
+Description: All is XSS that comes to the .NET.
+
+URL: http://bit.ly/2FRi1fo (+)
+Description: Busting Cisco's Beans :: Hardcoding Your Way to Hell.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Viralmaniar/XposedOrNot
+Description: Check if a password has been exposed.
+
+URL: https://github.com/antonioCoco/Mapping-Injection
+Description: Just another Windows Process Injection.
+
+URL: https://yeggor.github.io/UEFI_BinDiff/
+Description: UEFI modules analysing with BinDiff IDA plugin.
+
+URL: https://github.com/sahilmgandhi/IotShark
+Description: IotShark - Monitoring and Analyzing IoT Traffic.
+
+URL: https://github.com/fishinabarrel/linux-kernel-module-rust
+Description: Framework for writing Linux kernel modules in safe Rust.
+
+URL: https://blog.redteam.pl/2019/12/chrome-portal-element-fuzzing.html
+Description: Google Chrome portal element fuzzing.
+
+URL: https://github.com/Ayrx/JNIAnalyzer
+Description: Analysis scripts for Ghidra to work with Android NDK libraries.
+
+URL: https://github.com/cutaway-security/chaps
+Description: Configuration Hardening Assessment PowerShell Script (CHAPS).
+
+URL: https://github.com/mpgn/CVE-2019-19781
+More: https://dozer.nz/citrix-decrypt/
+Description: Remote Code Execution on Citrix ADC Netscaler exploit (CVE-2019-19781).
+
+URL: https://github.com/PaperMtn/lil-pwny
+Description: Auditing Active Directory passwords using multiprocessing in Python.
+
+URL: https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC
+Description: Xiaomi Series Router login bypass and RCE (CVE-2019-18370, CVE-2019-18371).
+
+URL: https://github.com/FULLSHADE/POPPOPRET-nullbyte-DLL-bypass
+Description: Bypass a null byte in a POP-POP-RETN address during local SEH exploitation.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://windows-internals.com/cet-on-windows/
+Description: R.I.P ROP - CET Internals in Windows 20H1.
+
+URL: http://bit.ly/2NxAz8G (+)
+PoC: https://github.com/ollypwn/cve-2020-0601
+Description: The ChainOfFools attack explained (CVE-2020-0601).
+
+URL: https://alephsecurity.com/2020/01/14/ruckus-wireless/
+Description: Don't Ruck Us Too Hard - Owning Ruckus AP devices.
+
+URL: http://bit.ly/371T6l9 (+)
+Description: Mysql Client Arbitrary File Reading Attack Chain Extension.
+
+URL: https://httptoolkit.tech/blog/debugging-https-without-global-root-ca-certs/
+Description: Global developer CAs considered harmful.
+
+URL: https://medium.com/tenable-techblog/lets-reverse-engineer-discord-1976773f4626
+Description: Let’s Reverse Engineer Discord.
+
+URL: http://bit.ly/2TubqiN (+)
+Description: Avira VPN Local Privilege Escalation via Insecure Update Location.
+
+URL: https://medium.com/@alexkaskasoli/pull-based-cd-pipelines-for-security-4e044b403f56
+Description: Pull-based CD Pipelines for Security.
+
+URL: https://darvincitech.wordpress.com/2019/12/23/detect-frida-for-android/
+More: http://bit.ly/30quIHm (+)
+Description: Detect Frida for Android.
+
+URL: https://pentest.blog/advisory-seagate-central-storage-remote-code-execution/
+Description: Seagate Central Storage Remote Code Execution.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/MaartenBaert/ssr
+Description: SimpleScreenRecorder, a screen recorder for Linux.
+
+URL: https://blog.jse.li/posts/torrent/
+Description: Building a BitTorrent client from the ground up in Go.
+
+URL: https://citizen428.net/blog/learning-fsharp-writing-a-raytracer/
+Description: Learning F# — Writing A Ray Tracer.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?0259e071c823c541#fPWdGGEHup8FlMG5WovuiJkbDvWD2yPEU16m2+EhyBY=
