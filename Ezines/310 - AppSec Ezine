@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 04 | Month: January | Year: 2020 | Release Date: 24/01/2020 | Edition: #310 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hufman.github.io/stories/bmwconnectedapps
+Description: BMW Connected Apps Protocol.
+
+URL: http://bit.ly/2GiohNo (+)
+Description: GGvulnz — How I hacked hundreds of companies through Google Groups.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/d4em0n/exrop
+Description: Automatic ROP Chain Generation.
+
+URL: https://github.com/m0rv4i/SharpCookieMonster
+Blog: https://jmpesp.me/sharpcookiemonster/
+Description: Extracts cookies from Chrome.
+
+URL: https://github.com/l0ss/Grouper2
+Description: Find vulnerabilities in AD Group Policy.
+
+URL: https://github.com/brimstone/go-shellcode
+Description: Load shellcode into a new process.
+
+URL: http://bit.ly/37kXXxT (+)
+Description: Intruder and CSRF-protected form, without macros.
+
+URL: https://decoder.cloud/2020/01/20/from-hyper-v-admin-to-system/
+Description: From Hyper-V Admin to SYSTEM.
+
+URL: https://github.com/PentHertz/LoRa_Craft
+Description: Some Scapy layers and tools to study LoRa PHY and LoRaWAN.
+
+URL: https://gist.github.com/nstarke/a611a19aab433555e91c656fe1f030a9
+Description: Netgear Signed TLS Cert Private Key Disclosure.
+
+URL: https://github.com/sensepost/gowitness
+Description: Gowitness - a golang, web screenshot utility using Chrome Headless.
+
+URL: https://github.com/motikan2010/CVE-2020-5398/
+Description: Reflected File Download (RFD) Attack for Spring MVC (CVE-2020-5398).
+
+URL: https://github.com/hc0d3r/tas
+Description: A tiny framework for easily manipulate the tty and create fake binaries.
+
+URL: https://github.com/0xthirteen/SharpRDP
+Blog: https://posts.specterops.io/revisiting-remote-desktop-lateral-movement-8fb905cb46c3
+Description: Remote Desktop Protocol .NET CLI for Authenticated Command Execution.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/38AguGU (+)
+Description: Threat Hunting with ETW events and HELK.
+
+URL: https://www.ayrx.me/analyzing-kony-mobile-applications
+Description: Analyzing Kony Mobile Applications.
+
+URL: https://posts.specterops.io/mimidrv-in-depth-4d273d19e148
+Description: Mimidrv In Depth - Exploring Mimikatz’s Kernel Driver.
+
+URL: https://0xsha.io/posts/mass-exploitation-hunting-while-sleeping
+Description: Mass Exploitation, Hunting While Sleeping.
+
+URL: https://securitylab.github.com/research/chromium-ipc-vulnerabilities
+Description: Review of Chromium IPC vulnerabilities.
+
+URL: https://penthertz.com/blog/testing-LoRa-with-SDR-and-handy-tools.html
+Description: Testing LoRa with SDR and some handy tools.
+
+URL: https://sidechannel.tempestsi.com/the-cypher-injection-saga-9698d19bed4
+Description: The Cypher Injection Saga.
+
+URL: https://web-in-security.blogspot.com/2020/01/cve-2020-2655-jsse-client.html
+Description: JSSE Client Authentication Bypass (CVE-2020-2655).
+
+URL: http://bit.ly/2tJ0ROo (+)
+Description: Exploring the iOS screen framebuffer – a kernel reversing experiment.
+
+URL: https://www.perimeterx.com/blog/analyzing_magecart_malware_from_zero_to_hero/#
+Description: Analyzing Magecart Malware – From Zero to Hero.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://trmm.net/Charliewatch
+Description: Charliewatch.
+
+URL: https://github.com/raspi/heksa
+Description: CLI hex dumper with colors.
+
+URL: http://bit.ly/30SbdYr (+)
+Description: Stressed Employee gets me 2x bounty (No Comments!).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?61ccd225ad133b39#rBOYyx8jSB7uDFV2DlVOBsgiwDF54hjd3UPfA8Lk17o=
