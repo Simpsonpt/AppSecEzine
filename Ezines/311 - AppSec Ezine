@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 05 | Month: January | Year: 2020 | Release Date: 31/01/2020 | Edition: #311 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://lapcatsoftware.com/articles/Safari-runs-disabled-extensions.html
+Description: Safari runs disabled extensions.
+
+URL: https://nathandavison.com/blog/exploiting-email-address-parsing-with-aws-ses
+Description: Exploiting email address parsing with AWS SES.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/jas502n/CVE-2020-2551
+Description: Weblogic RCE with IIOP (CVE-2020-2551).
+
+URL: https://github.com/HE-Wenjian/iGPU-Leak
+Description: The iGPU-Leak Vulnerability (CVE-2019-14615).
+
+URL: https://github.com/ClaudiuGeorgiu/Obfuscapk
+Description: A black-box obfuscation tool for Android apps.
+
+URL: https://hackerone.com/reports/759247
+Description: Race Condition allows to redeem multiple times gift cards.
+
+URL: https://rderik.com/blog/using-lldb-for-reverse-engineering/
+Description: Using LLDB for reverse engineering.
+
+URL: https://hacker.house/lab/windows-defender-bypassing-for-meterpreter/
+Description: Windows Defender Bypassing For Meterpreter.
+
+URL: https://github.com/EBWi11/AgentSmith-HIDS
+Description: Open Source Host-based Intrusion Detection System(HIDS).
+
+URL: https://github.com/atredispartners/flamingo
+Blog: https://www.atredis.com/blog/2020/1/26/flamingo-captures-credentials
+Description: Flamingo captures credentials sprayed across the network.
+
+URL: https://github.com/nccgroup/go-pillage-registries
+Description: Pentester-focused Docker registry tool to enumerate and pull images.
+
+URL: https://github.com/IOActive/AOSP-DownloadProviderDbDumperSQLiWhere
+Description: PoC for SQLi Injection in Android's Download Provider (CVE-2019-2198).
+
+URL: https://github.com/redcanaryco/chain-reactor
+Description: Framework for composing executables that simulate adversary behaviors.
+
+URL: https://github.com/Xh4H/Satellian-CVE-2020-7980
+Description: PoC script that shows RCE vulnerability over Intellian Satellite controller.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2uOWK3r (+)
+Description: Reversing XignCode3 Driver.
+
+URL: https://www.crummie5.club/pwning-a-pwned-citrix/
+Description: Pwning A Pwned Citrix (CVE-2019-19781)++.
+
+URL: https://www.onsecurity.co.uk/blog/abusing-kerberos-from-linux
+Description: (Ab)using Kerberos from Linux.
+
+URL: http://bit.ly/38XUNRn (+)
+Description: Kubernetes Security monitoring at scale with Sysdig Falco.
+
+URL: https://insert-script.blogspot.com/2020/01/internet-explorer-mhtml-why-you-should.html
+Description: IE mhtml - Why you should always store user file uploads on another domain.
+
+URL: http://bit.ly/3aT2ObT (+)
+More: http://bit.ly/2OdCBv3 (+)
+Description: Remote Cloud Execution – Critical Vulnerabilities in Azure Cloud Infrastructure.
+
+URL: https://blog.gypsyengineer.com/en/security/cve-2020-1925-ssrf-in-apache-olingo.html
+Description: Requests to arbitrary URLs in Apache Olingo (CVE-2020-1925).
+
+URL: https://medium.com/@maxi./finding-and-exploiting-cve-2018-7445-f3103f163cc1
+Description: Finding and exploiting CVE-2018–7445 (Unauth RCE in MikroTik’s RouterOS SMB).
+
+URL: https://posts.specterops.io/attacking-azure-azure-ad-and-introducing-powerzure-ca70b330511a
+Description: Attacking Azure, Azure AD, and Introducing PowerZure.
+
+URL: https://www.mdsec.co.uk/2020/01/deep-dive-to-citrix-adc-remote-code-execution-cve-2019-19781/
+Description: Deep Dive to Citrix ADC Remote Code Execution (CVE-2019-19781).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://littlegptracker.com/
+Description: The piggy - Music tracker.
+
+URL: https://bad-radio.solutions/notes_nrf51822
+Description: Notes Dumping nRF51822 Firmware.
+
+URL: https://medium.com/@vmsp/blocking-your-adblocker-967d1c6e48f2
+Description: Blocking Your Adblocker.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?ca7553edfb480e1b#hSuMtqU/ywOIf+X+cDkbQ58e6d6mlaBWRBzw+iOAi2g=
