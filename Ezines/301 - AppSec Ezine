@@ -17,6 +17,7 @@ URL: https://portswigger.net/research/cracking-recaptcha-turbo-intruder-style
 Description: Cracking reCAPTCHA, Turbo Intruder style.
 
 URL: http://bit.ly/34b23Hk (+)
+PoC: https://github.com/sv3nbeast/CVE-2019-1388
 Description: Easy-as-Pie Windows 7 Secure Desktop Escalation of Privilege (CVE-2019-1388).
 
 
