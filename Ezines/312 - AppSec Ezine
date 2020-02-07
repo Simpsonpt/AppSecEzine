@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 06 | Month: February | Year: 2020 | Release Date: 07/02/2020 | Edition: #312 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2SmJ7Rn (+)
+Description: Hijacking shared report links in Google Data Studio.
+
+URL: https://www.perimeterx.com/tech-blog/2020/whatsapp-fs-read-vuln-disclosure/
+Description: WhatsApp Desktop Platform Multiple Vulnerabilities (CVE-2019-18426).
+
+URL: https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/
+Description: OK Google - Bypass the authentication!
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/llamasoft/polyshell
+Description: A Bash/Batch/PowerShell polyglot.
+
+URL: https://github.com/BishopFox/dufflebag
+Description: Search exposed EBS volumes for secrets.
+
+URL: https://github.com/qilingframework/qiling
+Description: Qiling Advanced Binary Emulation framework.
+
+URL: https://github.com/aouinizied/nfstream
+Description: A flexible network data analysis framework. 
+
+URL: https://www.n00py.io/2020/02/exploiting-ldap-server-null-bind/
+Description: Exploiting LDAP Server NULL Bind.
+
+URL: https://github.com/mhaskar/Blinder
+Description: A python library to automate time-based blind SQL injection.
+
+URL: https://github.com/xairy/unlockdown
+Description: Disabling kernel lockdown on Ubuntu without physical access.
+
+URL: https://landgrey.me/blog/11/
+Description: Java jdbc anti-sequence vulnerability automated exploitation.
+
+URL: https://github.com/lakiw/pcfg_cracker
+Description: Probabilistic Context Free Grammar (PCFG) password guess generator.
+
+URL: https://github.com/LinusHenze/Fugu
+Description: Fugu is the first open source jailbreak based on the checkm8 exploit.
+
+URL: https://github.com/0x-nope/CVE-2019-12180
+Blog: http://bit.ly/2UxMnMf (+)
+Description: ReadyAPI & SoapUI command execution via malicous project file (CVE-2019-12180).
+
+URL: https://blog.assetnote.io/bug-bounty/2020/02/01/expanding-attack-surface-react-native/
+Description: Expanding the Attack Surface - React Native Android Applications.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2GWYw5F (+)
+Description: Deanonymizing Tor Circuits.
+
+URL: https://blog.doyensec.com/2020/02/03/heap-exploit.html
+Description: Heap Overflow in F-Secure Internet Gatekeeper.
+
+URL: http://bit.ly/31xKocu (+)
+Description: Getting DNS Client Cached Entries with CIM/WMI.
+
+URL: https://www.sudo.ws/alerts/pwfeedback.html
+Description: Buffer overflow when pwfeedback is set in sudoers.
+
+URL: https://blog.kitor.pl/blog/avocent-ip-kvm-any-sip-hack
+Description: Avocent IP KVM Hacking - Use SIP from any OEM on Dell 1082DS.
+
+URL: http://bit.ly/2GZpbij (+)
+Description: Introduction to mobile network intrusions from a mobile phone.
+
+URL: https://sandboxescaper.blogspot.com/2019/12/chasing-polar-bears-part-one.html
+More: https://sandboxescaper.blogspot.com/2020/01/chasing-polar-bears-part-2.html
+Description: Chasing Polar Bears.
+
+URL: http://blog.ant0i.net/2020/02/down-rabbit-hole-of-harvested-personal.html
+Description: Down the Rabbit Hole of Harvested Personal Data.
+
+URL: http://bit.ly/2tJ0ROo (+)
+Description: Exploring the iOS screen framebuffer - a kernel reversing experiment.
+
+URL: https://habr.com/en/post/486856/
+Description: Vulnerability in firmware for HiSilicon-based DVRs, NVRs and IP cameras.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://www.simonweckert.com/googlemapshacks.html
+Description: Google Maps Hacks.
+
+URL: https://www.hackerhealth.net/
+Description: Hacker Health - 75% discounted cyber snake oil.
+
+URL: https://medium.com/bugbountywriteup/haxing-minesweeper-e79ece9f5d16
+Description: Haxing Minesweeper.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?445cb500741d4c70#+ZEJ8PE6ZhudT9uTwqMCatXqkgaHzi45EQoF3NOF5cA=
