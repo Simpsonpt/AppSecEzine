@@ -83,7 +83,8 @@ URL: http://bit.ly/31xKocu (+)
 Description: Getting DNS Client Cached Entries with CIM/WMI.
 
 URL: https://www.sudo.ws/alerts/pwfeedback.html
-Description: Buffer overflow when pwfeedback is set in sudoers.
+More: https://iamalsaher.tech/posts/2020-02-08-cve-2019-18634/
+Description: Buffer overflow when pwfeedback is set in sudoers (CVE 2019-18634).
 
 URL: https://blog.kitor.pl/blog/avocent-ip-kvm-any-sip-hack
 Description: Avocent IP KVM Hacking - Use SIP from any OEM on Dell 1082DS.
