@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 07 | Month: February | Year: 2020 | Release Date: 14/02/2020 | Edition: #313 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2vy4YxC (+)
+Description: CSS data exfiltration in Firefox via a single injection point.
+
+URL: https://saleemrashid.com/2020/02/09/exploiting-netgear-routerlogin/
+Description: Exploiting Netgear's Routerlogin.com.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/shibli2700/Rekon
+Blog: http://bit.ly/2UNN30h (+)
+Description: Fasten your Recon process using Shell Scripting.
+
+URL: https://github.com/tismayil/fockcache
+Description: FockCache - Minimalized Test Cache Poisoning.
+
+URL: https://lab.wallarm.com/blind-ssrf-exploitation/
+Description: Blind SSRF exploitation.
+
+URL: https://github.com/lesnuages/hershell
+Description: Multiplatform reverse shell generator.
+
+URL: https://github.com/securitytest3r/frida-ios-app-patching
+Description: Frida iOS App Patching.
+
+URL: https://khast3x.club/posts/2020-02-09-C2-Protection-Socat-Docker/
+Description: Hosting and hiding your C2 with Docker and Socat.
+
+URL: https://github.com/heroku/terrier
+Description: Tool for Identifying and Analyzing Container and Image Components.
+
+URL: https://github.com/padovah4ck/CVE-2020-0683
+More: https://padovah4ck.github.io/CVE-2020-0683/
+Description: Windows MSI "Installer service" Elevation of Privilege (CVE-2020-0683).
+
+URL: https://github.com/hausec/PowerZure
+Blog: https://hausec.com/2020/01/31/attacking-azure-azure-ad-and-introducing-powerzure/
+Description: PowerShell script written to assist in assessing Azure security. 
+
+URL: http://blog.redxorblue.com/2019/12/no-shells-required-using-impacket-to.html
+Description: Walkthrough on Using Impacket and Kerberos to Delegate Your Way to DA.
+
+URL: https://github.com/gh2o/rvi_capture
+Description: rvictl for Linux and Windows - Capture packets sent/received by iOS devices.
+
+URL: https://github.com/Voulnet/desharialize
+Description: Microsoft SharePoint - Deserialization Remote Code Execution (CVE-2019-0604).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://research.nccgroup.com/2020/02/10/interfaces-d-to-rce/
+Description: Interfaces.d to RCE.
+
+URL: http://bit.ly/38qZHGn (+)
+Description: Linux Kernel Module Rootkit — Syscall Table Hijacking.
+
+URL: https://www.blackarrow.net/mssqlproxy-pivoting-clr/
+Tool: https://github.com/blackarrowsec/mssqlproxy
+Description: Lateral movement via MSSQL - a tale of CLR and socket reuse.
+
+URL: https://gist.github.com/darconeous/2cd2de11148e3a75685940158bddf933
+Description: Tesla Key Card Protocol.
+
+URL: https://blog.jonlu.ca/posts/decrypting-blind?ref=nsf10
+Description: Reverse engineering Blind's API and client side encryption.
+
+URL: https://about.gitlab.com/blog/2019/11/29/shopping-for-an-admin-account/
+Description: Shopping for an admin account via path traversal.
+
+URL: http://bit.ly/2HkkM9B (+)
+Description: Code injection in Workflows leading to SharePoint RCE (CVE-2020-0646).
+
+URL: http://www.nolanbkennedy.com/post/xxe-vulnerability-blackberry-athoc
+PoC: https://github.com/nxkennedy/CVE-2019-8997
+Description: XXE Vulnerability in BlackBerry AtHoc 7.6 Management System (CVE-2019-8997).
+
+URL: https://blog.blazeinfosec.com/the-never-ending-problems-of-local-aslr-holes-in-linux/
+Description: The never ending problems of local ASLR holes in Linux.
+
+URL: https://x-c3ll.github.io/posts/UAF-PHP-disable_functions/
+Description: From memory corruption to disable_functions bypass - Understanding PHP exploits.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://justine-haupt.com/rotarycellphone/
+Description: DIY Rotary Cellphone.
+
+URL: http://www.josephpalmer.com/planes/Airplane.shtml
+Description: Joseph Palmer's Paper Airplanes.
+
+URL: http://bit.ly/2SJsAae (+)
+Description: Is Object-Oriented Programming an Overrated Garbage?
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?f16e173aecce8826#k2+crwe4JPCqJgXD9x/DtyPbS1tnOY/Pr2iuGfVPgjo=
