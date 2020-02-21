@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 08 | Month: February | Year: 2020 | Release Date: 21/02/2020 | Edition: #314 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://jlajara.gitlab.io/posts/2020/02/19/Bypass_WAF_Unicode.html
+Description: WAF Bypassing with Unicode Compatibility.
+
+URL: http://bit.ly/39IdzMS (+)
+Description: Exploiting Insecure XML and ZIP File Parsers to Create a Web Shell.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://aaronyoo.github.io/ptrace-anti-debug.html
+Description: Ptrace Anti-Debug.
+
+URL: https://github.com/guidovranken/network-emulator
+Description: LD_PRELOAD POSIX network API emulator.
+
+URL: https://github.com/jaeles-project/gospider
+Description: Gospider - Fast web spider written in Go.
+
+URL: https://github.com/izar/pytm
+Description: A Pythonic framework for threat modeling.
+
+URL: https://github.com/kentindell/canhack
+Description: A low-level CAN protocol hacking library.
+
+URL: https://github.com/BishopFox/GadgetProbe
+Description: Java serialized objects identifier helper.
+
+URL: https://github.com/s3inlc/hashtopolis
+Description: A Hashcat wrapper for distributed hashcracking.
+
+URL: https://github.com/euphrat1ca/CVE-2020-0618
+More: http://bit.ly/32bRovS (+)
+Description: SQL Server Reporting Services RCE (CVE-2020-0618).
+
+URL: https://github.com/furiousMAC/continuity
+Description: Apple Continuity Protocol Reverse Engineering and Dissector.
+
+URL: https://www.notsosecure.com/hacking-aws-cognito-misconfigurations/
+Description: Hacking AWS Cognito Misconfigurations.
+
+URL: https://medium.com/@notsoshant/a-not-so-blind-rce-with-sql-injection-13838026331e
+Description: A Not-So-Blind RCE with SQL Injection.
+
+URL: https://github.com/0x09AL/IIS-Raid
+Description: A native backdoor module for Microsoft IIS (Internet Information Services).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/32joMkA (+)
+Description: From Recon to Optimizing RCE Results.
+
+URL: https://whynotsecurity.com/blog/teamviewer/
+Description: Find and decrypt stored TeamViewer keys.
+
+URL: https://alexplaskett.github.io/macos-kasan/
+Description: A brief introduction into KASAN on macOS Catalina.
+
+URL: http://bit.ly/2v5eB6X (+)
+Description: Exploiting WebSocket (Application Wide XSS / CSRF).
+
+URL: https://bohops.com/2018/04/28/abusing-dcom-for-yet-another-lateral-movement-technique/
+Description: Abusing DCOM For Yet Another Lateral Movement Technique.
+
+URL: https://itm4n.github.io/cve-2020-0668-windows-service-tracing-eop/
+Description: A Trivial Privilege Escalation Bug in Windows Service Tracing (CVE-2020-0668).
+
+URL: http://bit.ly/2V4KJlL (+)
+Description: Bypass Windows 10 User Group Policy (and more) with this One Weird Trick.
+
+URL: https://medium.com/bugbountywriteup/exploiting-format-strings-in-windows-5f96c9b29dea
+Description: Exploiting Format Strings in Windows.
+
+URL: https://medium.com/@LucaBongiorni/hacking-iot-devices-with-focaccia-board-8c4e009ed488
+Description: Hacking IoT devices with Focaccia-Board.
+
+URL: http://bit.ly/37NUqaJ (+)
+Description: Realtek HD Audio Driver - DLL Preloading and Potential Abuses (CVE-2019-19705).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://faceidmasks.com/
+Description: Face ID compatible respirator masks.
+
+URL: https://habd.as/post/living-without-sim-card/
+Description: Living Without a SIM Card.
+
+URL: https://github.com/glamorous-noob/pwn_adventure_3
+Description: Glamorous_noob attempts to RE pwn_adventure_3.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?c8e2de2caed6dc9e#t0URugetf2kTY4YINAkzh+fl2FjjVmUNCoBnLMLDMNA=
