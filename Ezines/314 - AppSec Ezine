@@ -86,6 +86,7 @@ URL: https://bohops.com/2018/04/28/abusing-dcom-for-yet-another-lateral-movement
 Description: Abusing DCOM For Yet Another Lateral Movement Technique.
 
 URL: https://itm4n.github.io/cve-2020-0668-windows-service-tracing-eop/
+PoC: https://github.com/RedCursorSecurityConsulting/CVE-2020-0668
 Description: A Trivial Privilege Escalation Bug in Windows Service Tracing (CVE-2020-0668).
 
 URL: http://bit.ly/2V4KJlL (+)
