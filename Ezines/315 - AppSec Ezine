@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 09 | Month: February | Year: 2020 | Release Date: 28/02/2020 | Edition: #315 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2uwX4Ei (+)
+Description: AWS Document Signing Security Control Bypass.
+
+URL: http://bit.ly/3abVdnO (+)
+Description: RCE on MS Exchange Server Through Fixed Cryptographic Keys (CVE-2020-0688).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/0vercl0k/kdmp-parser
+Description: Windows kernel dump C++ parser.
+
+URL: https://github.com/thebabush/fuzzilly
+Description: Slow llvm tracing for the masses.
+
+URL: https://blog.xpnsec.com/aws-lambda-redirector/
+Description: AWS Lambda Redirector.
+
+URL: https://github.com/netspooky/gtfoplus
+Description: Linux Local Privesc Helper and Agent.
+
+URL: https://github.com/cinerieus/as3nt
+Description: Another Subdomain ENumeration Tool.
+
+URL: http://1u.ms/
+Description: Small set of zero-configuration DNS utilities.
+
+URL: https://liberty-shell.com/sec/2020/02/25/shim-persistence/
+Description: Persistence via Shims.
+
+URL: https://github.com/projectdiscovery/shuffledns
+Description: shuffleDNS is a wrapper around massdns written in go.
+
+URL: https://github.com/GoSecure/DLLPasswordFilterImplant
+Description: DLL Password Filter Implant with Exfiltration Capabilities.
+
+URL: https://blog.netspi.com/azure-privilege-escalation-using-managed-identities/
+Description: Azure Privilege Escalation Using Managed Identities.
+
+URL: https://github.com/kr1shn4murt1/get_Team_Pass
+Description: Get teamviewer's ID and password from a remote computer in the LAN.
+
+URL: https://github.com/secdev/etherpuppet
+Description: Clone network interface from one host as a tap interface on another host.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/2PvZ4nz (+)
+Description: Exploiting Jira for Host Discovery.
+
+URL: https://bananamafia.dev/post/gb-fuzz/
+Description: Fuzzing A GameBoy Emulator With AFL++.
+
+URL: https://imp4gt-attacks.net/
+Description: IMPersonation Attacks in 4G NeTworks.
+
+URL: https://blog.malwarelab.pl/posts/basfu_aggah/
+Description: (Ab)using bash-fu to analyze recent Aggah sample.
+
+URL: https://en.hackndo.com/kerberos-silver-golden-tickets/
+Description: Silver & Golden Tickets.
+
+URL: https://hackernoon.com/hacking-a-bitcoin-wallet-642u36sa
+Description: How I Hacked a Bitcoin Wallet - A Step By Step Guide.
+
+URL: http://bit.ly/2vcCvO3 (+)
+Description: Signature Validation Bypass Leading to RCE In Electron-Updater.
+
+URL: https://blog.rop.la/en/vulnerabilities/2020/02/25/bluegate-internals.html
+Description: BlueGate Internals (CVE-2020-0609/CVE-2020-0610).
+
+URL: https://duraki.github.io/posts/o/20200214-sketch.app-patch-in-ghidra.html
+Description: Patching MacOS Sketch.App for unlimited Trial in Ghidra.
+
+URL: https://blog.infosectcbr.com.au/2020/02/linux-kernel-stack-smashing.html
+Description: Linux Kernel Stack Smashing.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://boxofcables.dev/running-windows-2000-on-wsl/
+Description: Running Windows 2000 on WSL.
+
+URL: https://www.hanshq.net/zip.html
+Description: Zip Files - History, Explanation and Implementation.
+
+URL: https://ma.ttias.be/loophole-cookie-notices/
+Description: I found a loophole to prevent those pesky cookie notices.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?a13aae7337a5a0e3#0Jn+bQP79yPdhzWCzcJLO8tXQLPerVnNWAS6JzhkbAY=
