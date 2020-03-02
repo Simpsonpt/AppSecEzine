@@ -17,6 +17,7 @@ URL: http://bit.ly/2uwX4Ei (+)
 Description: AWS Document Signing Security Control Bypass.
 
 URL: http://bit.ly/3abVdnO (+)
+PoC: https://github.com/Ridter/cve-2020-0688 | http://bit.ly/2uOvItE (+)
 Description: RCE on MS Exchange Server Through Fixed Cryptographic Keys (CVE-2020-0688).
 
 
