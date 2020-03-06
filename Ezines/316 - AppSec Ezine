@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 10 | Month: March | Year: 2020 | Release Date: 06/03/2020 | Edition: #316  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2xdOLyl (+)
+Description: Exploiting an SSRF - Trials and Tribulations.
+
+URL: https://www.amolbaikar.com/facebook-oauth-framework-vulnerability/
+Description: Facebook OAuth Framework Vulnerability.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/makuga01/dnsFookup
+Description: DNS rebinding toolkit.
+
+URL: https://evasions.checkpoint.com/
+Description: Malware Evasion techniques Dump.
+
+URL: https://github.com/Damian89/extended-ssrf-search
+Description: Smart ssrf scanner using different methods. 
+
+URL: https://github.com/airbus-cert/etl-parser
+Description: Event Trace Log file parser in pure Python.
+
+URL: https://github.com/the-xentropy/xencrypt
+Description: A PowerShell script anti-virus evasion tool.
+
+URL: https://github.com/dxa4481/AttackingAndDefendingTheGCPMetadataAPI
+Description: Attacking And Defending The GCPMetadata API.
+
+URL: https://pentestlab.blog/2020/03/02/phishing-windows-credentials/
+Description: Phishing Windows Credentials.
+
+URL: https://github.com/wargio/fufluns
+Description: Easy to use APK/IPA Mobile App Inspector (experimental).
+
+URL: https://github.com/zhkl0228/unidbg
+Description: Allows you to emulate an Android ARM32 and/or ARM64 native library.
+
+URL: https://weakpass.com/
+Description: Bruteforce find wordlists or unleash the power of them all at once!
+
+URL: https://github.com/1N3/PowerExfil
+Description: A collection of custom data exfiltration scripts for Red Team assessments.
+
+URL: https://khast3x.club/posts/2020-02-14-Intro-Modern-Routing-Traefik-Metasploit-Docker/
+Description: Introduction To Modern Routing For Red Team Infrastructure.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://rpis.ec/blog/mach_inject_32-writeup/
+Description: Injecting into 32-bit programs on macOS Mojave.
+
+URL: https://insinuator.net/2020/03/dns-exfiltration-case-study/
+Description: DNS exfiltration case study.
+
+URL: http://bit.ly/2Ijun14 (+)
+Description: BraveStarr – A Fedora 31 netkit telnetd remote exploit.
+
+URL: https://github.com/piotrflorczyk/cve-2019-1458_POC
+Description: Going from 'in the wild report' to PoC (CVE-2019-1458).
+
+URL: https://moabi.com/advisories/CVE-2019-10064.html
+Description: Hostapd fails at seeding PRNGs (CVE-2016-10743 and CVE-2019-10064).
+
+URL: https://blog.devsecurity.eu/en/blog/mobile-data-leak#proof-of-concept
+Description: Privacy leaks in mobile internet era.
+
+URL: https://medium.com/cybereason/code-integrity-in-the-kernel-66b3f5cce5f
+Description: Code Integrity in the Kernel.
+
+URL: https://reverse.put.as/2020/03/04/a-fruitfly-dropper-and-the-missing-tricks/
+Description: FruitFly's dropper script and its missing tricks.
+
+URL: https://posts.specterops.io/abusing-slack-for-offensive-operations-2343237b9282
+Description: Abusing Slack for Offensive Operations.
+
+URL: https://www.chaitin.cn/en/ghostcat
+PoC: https://github.com/nibiwodong/CNVD-2020-10487-Tomcat-ajp-POC
+Description: Ghostcat is a high-risk file read/include vuln. in Tomcat at (CVE-2020-1938).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://radiooooo.com/
+Description: Radiooooo.
+
+URL: https://projectsandcastle.org/
+Description: Android for the iPhone.
+
+URL: https://github.com/tg-bomze/StyleGAN2-Face-Modificator
+Description: Simple Encoder, Generator and Face Modificator with StyleGAN2.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?64734af7bc1b7f57#BMKCW4k0sFqrPy9ZJO1eCjcywZjTV1IFf8XmlGmSCOo=
