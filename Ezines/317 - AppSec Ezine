@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 11 | Month: March | Year: 2020 | Release Date: 13/03/2020 | Edition: #317  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/3cViP2b (+)
+Description: The unexpected Google wide domain check bypass.
+
+URL: https://hackerone.com/reports/737140
+Description: Mass account takeovers using HTTP Request Smuggling.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/google/ukip
+Description: USB Keystroke Injection Protection.
+
+URL: https://github.com/migueltarga/CVE-2020-9380
+Description: IPTV Smarters Exploit (CVE-2020–9380).
+
+URL: https://github.com/hardenedlinux/harbian-audit
+Description: Hardened Debian GNU/Linux distro auditing.
+
+URL: https://github.com/zeropointdynamics/zelos
+Description: A comprehensive binary emulation platform.
+
+URL: https://github.com/pgarba/King/
+Description: Port of @axi0mX's checkm8 exploit (ipwndfu) to C/C++.
+
+URL: https://github.com/pumasecurity/serverless-prey
+Description: Serverless Functions for establishing Reverse Shells.
+
+URL: https://github.com/fashionproof/UglyEXe
+Blog: https://medium.com/@markmotig/uglyexe-bypass-some-avs-4a10313277aa
+Description: UglyEXe — bypass some AVs.
+
+URL: https://github.com/ollypwn/SMBGhost
+More: https://www.synacktiv.com/posts/exploit/im-smbghost-daba-dee-daba-da.html
+Description: Simple scanner SMBv3 RCE (CVE-2020-0796).
+
+URL: https://github.com/cattius/opcodetester
+Description: Tool to test Intel x86-64 undocumented instructions.
+
+URL: https://github.com/splunk/attack_range
+Description: Tool to simulate attacks against local or cloud environments.
+
+URL: https://github.com/sachinkamath/ntlmrecon/
+Description: Tool to enumerate information from NTLM auth enabled web endpoints.
+
+URL: https://github.com/preempt/ntlm-scanner
+Description: Tool based on Impacket that tests servers for various known NTLM vulns.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://struct.github.io/iso_alloc.html
+Description: Isolation Alloc.
+
+URL: https://saaramar.github.io/str_repeat_exploit/
+Description: str::repeat - Stable wildcopy exploit.
+
+URL: http://bit.ly/2wPMIjS (+)
+More: https://www.synacktiv.com/ressources/thcon2020_binder.pdf
+Description: Binder - Analysis and exploitation of CVE-2020-0041.
+
+URL: https://rot256.io/post/glitch/
+Description: Differential Fault Injection Against AES on Atmega328.
+
+URL: https://lviattack.eu/
+Description: LVI - Hijacking Transient Execution with Load Value Injection.
+
+URL: https://itm4n.github.io/cve-2020-0787-windows-bits-eop/
+Description: An EoP Bug Hidden in an Undocumented RPC Function (CVE-2020-0787).
+
+URL: http://bit.ly/2U1B39j (+)
+Description: Horde Webmail Edition 5.2.22 — RCE in CSV data import (CVE-2020-8518).
+
+URL: https://blog.truesec.com/2020/02/12/from-s3-bucket-to-laravel-unserialize-rce/
+Description: From S3 bucket to Laravel unserialize RCE.
+
+URL: http://bit.ly/33f8UQE (+)
+Description: Understanding The Intel CSME CVE-2019–0090 Vulnerability for Mere Mortals.
+
+URL: https://medium.com/@tobinmshields/qdpm-v9-1-authenticated-rce-exploit-f4b84e19df00
+Description: qdPM v9.1 Authenticated RCE Exploit (CVE-2020–7246).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://geocities.restorativland.org/
+Description: The Geocities Gallery.
+
+URL: https://github.com/lydiahallie/javascript-questions
+Description: JavaScript Questions.
+
+URL: https://bo0om.ru/icloud-phishers
+Description: Icloud phishers and where do they live.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?21f9af491a55b9a1#oVZ1JEqvGTQPujrk7tO2/Rkw1jVo1/t7FFdAvvfK4Tc=
