@@ -27,6 +27,7 @@ Description: Exploiting email address parsing with AWS SES.
 
 
 URL: https://github.com/jas502n/CVE-2020-2551
+More: http://bit.ly/3aXQiak (+)
 Description: Weblogic RCE with IIOP (CVE-2020-2551).
 
 URL: https://github.com/HE-Wenjian/iGPU-Leak
