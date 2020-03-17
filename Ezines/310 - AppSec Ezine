@@ -55,6 +55,7 @@ URL: https://github.com/sensepost/gowitness
 Description: Gowitness - a golang, web screenshot utility using Chrome Headless.
 
 URL: https://github.com/motikan2010/CVE-2020-5398/
+More: https://securitylab.github.com/research/rfd-spring-mvc-CVE-2020-5398
 Description: Reflected File Download (RFD) Attack for Spring MVC (CVE-2020-5398).
 
 URL: https://github.com/hc0d3r/tas
