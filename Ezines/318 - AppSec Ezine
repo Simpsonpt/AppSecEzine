@@ -74,6 +74,7 @@ URL: https://hackerone.com/reports/513236
 Description: Nginx memory disclosure via null byte.
 
 URL: https://www.mdsec.co.uk/2020/03/hiding-your-net-etw/
+PoC: https://github.com/outflanknl/TamperETW
 Description: Hiding Your .NET – ETW.
 
 URL: http://bit.ly/3dfPteL (+)
