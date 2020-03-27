@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 13 | Month: March | Year: 2020 | Release Date: 27/03/2020 | Edition: #319  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ysamm.com/?p=379
+Description: Facebook CSRF bug which lead to Instagram Partial account takeover.
+
+URL: https://bit.ly/2wHPxn8 (+)
+Description: Remote Image Upload Leads to RCE (Inject Malicious Code to PHP-GD Image).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/m3n0sd0n4ld/uDork
+Description: uDork - Google Hacking Tool.
+
+URL: https://bit.ly/3aseT7u (+)
+Description: Frida scripting guide for Java.
+
+URL: https://github.com/adnane-X-tebbaa/Katana
+Description: A Python Tool For google Hacking.
+
+URL: https://github.com/TheSecondSun/GoSH
+Description: Golang reverse/bind shell generator.
+
+URL: https://github.com/luisfontes19/xxexploiter
+Description: Tool to help exploit XXE vulnerabilities.
+
+URL: https://github.com/googleprojectzero/BrokenType
+Description: TrueType and OpenType font fuzzing toolset.
+
+URL: https://github.com/duasynt/xfrm_poc
+Description: Linux kernel XFRM UAF poc (3.x - 5.x kernels).
+
+URL: https://github.com/BC-SECURITY/Starkiller
+Description: Starkiller is a Frontend for PowerShell Empire.
+
+URL: https://github.com/horsicq/PDBRipper
+Description: PDBRipper is a utility for extract an information from PDB-files.
+
+URL: https://0entropy.blogspot.com/2020/03/solving-captcha-using-burp-suite-proxy.html
+Description: Solving CAPTCHA using Burp suite proxy and mitmproxy.
+
+URL: https://github.com/jrmdev/mitm_relay
+Description: Hackish way to intercept and modify non-HTTP protocols through Burp.
+
+URL: https://github.com/woj-ciech/LeakLooker-X
+Blog: https://bit.ly/3dqVRjH (+)
+Description: LeakLooker GUI - Discover, browse and monitor database/source code leaks.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://deniable.org/windows/windows-callbacks
+Description: Windows Kernel Ps Callbacks Experiments.
+
+URL: http://blogs.360.cn/post/macOS_Bluetoothd_0-click.html
+Description: Take Down MacOS Bluetooth with Zero-click RCE.
+
+URL: https://bit.ly/2WKYHdq (+)
+Description: Autopsy of the Most Stable MediaTek Rootkit (CVE-2020-0069).
+
+URL: https://www.wilbursecurity.com/2020/03/trickbot-to-ryuk-in-two-hours/
+Description: Trickbot to Ryuk in Two Hours.
+
+URL: https://blog.jldc.me/posts/decrypting-blind
+Description: Reverse engineering Blind's API and client side encryption.
+
+URL: https://www.imperva.com/blog/the-resurrection-of-phpunit-rce-vulnerability/
+Description: The Resurrection of PHPUnit RCE Vulnerability (CVE-2017-9841).
+
+URL: https://bit.ly/2QPiBzY (+)
+PoC: https://github.com/redtimmy/Richsploit
+Description: Richsploit - One tool to exploit all versions of RichFaces ever released.
+
+URL: http://sketchymoose.blogspot.com/2020/03/a-study-of-chrome-remote-desktop_25.html
+Description: A Study of Chrome Remote Desktop Extension.
+
+URL: https://blog.forallsecure.com/uncovering-openwrt-remote-code-execution-cve-2020-7982
+Description: Uncovering OpenWRT remote code execution (CVE-2020-7982).
+
+URL: https://itm4n.github.io/cve-2020-0863-windows-diagtrack-info-disclo/
+Description: Arbitrary File Read Vuln. in Windows Diagnostic Tracking Serv. (CVE-2020-0863).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/42wim/matterbridge
+Description: A simple chat bridge.
+
+URL: https://simonschreibt.de/gat/gta-v-wormy-fountain/
+Description: GTA V – The Wormy Fountain.
+
+URL: https://gist.github.com/patois/4d945e09a2b618f93c6d50a3793886b0
+Description: Kloppy a friend for your IDA sessions.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?e70da9d7b2593fec#5GDqrQvUKruLx6W2Af3hS00tty7FskI6ztCX3ZQ7ETw=
