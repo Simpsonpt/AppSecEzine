@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 14 | Month: April | Year: 2020 | Release Date: 03/04/2020 | Edition: #320  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/791775
+Description: Bypass Shopify's email verification.
+
+URL: https://www.secjuice.com/hiding-javascript-in-png-csp-bypass/
+Description: How To Bypass CSP By Hiding JavaScript In A PNG Image.
+
+URL: https://natedotred.wordpress.com/2020/03/28/cve-2020-8816-pi-hole-remote-code-execution/
+Description: Pi-hole Remote Code Execution (CVE-2020-8816).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/mrlnc/LTE-ciphercheck
+Description: Check LTE Network Cipher Support.
+
+URL: https://github.com/panther-labs/panther
+Description: A Cloud-Native SIEM for the Modern Security Team.
+
+URL: https://github.com/S3cur3Th1sSh1t/Get-System-Techniques
+Description: Get System Techniques (Dump).
+
+URL: https://github.com/Keramas/mssqli-duet
+Description: MSSQL Injection-based Domain User Enumeration Tool.
+
+URL: https://github.com/doyensec/inql
+Blog: https://blog.doyensec.com/2020/03/26/graphql-scanner.html
+Description: InQL - A Burp Extension for GraphQL Security Testing.
+
+URL: https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security
+Description: Manipulate Android Java Classes and Methods at Runtime.
+
+URL: https://bit.ly/39xMdZr (+)
+Description: Using K3s for command and control on compromised Linux hosts.
+
+URL: https://github.com/vivami/SauronEye
+Description: Search tool to find specific files containing specific words.
+
+URL: https://github.com/dark-warlord14/JSScanner
+Blog: https://securityjunky.com/scanning-js-files-for-endpoint-and-secrets/
+Description: Scanning JS Files for Endpoint and Secrets.
+
+URL: https://www.infosecmatter.com/cisco-password-cracking-and-decrypting-guide/
+Description: Cisco Password Cracking and Decrypting Guide.
+
+URL: https://github.com/SnaffCon/Snaffler/
+Description: Tool to find credentials and whatnot on poorly secured file shares.
+
+URL: https://github.com/iGio90/FridaAndroidTracer
+Blog: http://www.giovanni-rocca.com/a-self-basic-audit-for-android-applications/
+Description: Android application tracer powered by Frida.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://syscall.eu/blog/2020/03/30/asus_gio/
+Description: ASUS ASIO2.sys driver fun.
+
+URL: http://blog.diffense.co.kr/2020/03/26/SearchIndexer.html
+Description: Analyzing a Windows Search Indexer LPE bug.
+
+URL: https://en.hackndo.com/kerberoasting/
+More: https://blog.redforce.io/oh-my-kerberos-do-not-get-kerberoasted/
+Description: Kerberoasting.
+
+URL: https://th0mas.nl/2020/03/26/getting-root-on-a-zyxel-vmg8825-t50-router/
+Description: Getting root on a Zyxel VMG8825-T50 router.
+
+URL: https://secret.club/2020/03/31/battleye-developer-tracking.html
+Description: BattlEye reverse engineer tracking.
+
+URL: https://securitylab.github.com/advisories/GHSL-2020-056-openssl
+Description: Double free in OpenSSL client (GHSL-2020-056).
+
+URL: https://bit.ly/3dKSDrf (+)
+Description: Semi Universal XSS affecting Firefox for iOS (CVE-2019-17004).
+
+URL: https://xy2.dev/article/re-bab/
+Description: How an anti ad-blocker works - Reverse-engineering BlockAdBlock.
+
+URL: https://www.blackarrow.net/disable-functions-bypasses-and-php-exploitation/
+Description: A deep dive into disable_functions bypasses and PHP exploitation.
+
+URL: https://0x90.psaux.io/2020/03/01/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-I/
+More: https://bit.ly/3dNDUMf (+) | https://bit.ly/2w6mI3A (+)
+Description: Taking Back What Is Already Yours - Router Wars Episode I.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.pagetable.com/?p=1384
+Description: Dumping MiniDisc Media.
+
+URL: https://github.com/fs0c131y/covid19-tracker-apps
+Description: Covid19 Tracker Apps.
+
+URL: https://firejaildns.wordpress.com/2020/03/21/firejail-bittorrent-sandboxing-guide/
+Description: Firejail BitTorrent Sandboxing Guide.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?25e71bbe6e393d54#MGncz2B+5c7juqkSSwQEIdds+QWb7vRncjQYC8EYdWA=
