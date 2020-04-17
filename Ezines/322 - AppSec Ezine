@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 16 | Month: April | Year: 2020 | Release Date: 17/04/2020 | Edition: #322  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.isec.pl/xss-fun-with-animated-svg/
+Description: XSS fun with animated SVG.
+
+URL: http://adventures.michaelfbryan.com/posts/lastpass/
+Description: How I Reverse Engineered the LastPass CLI Tool.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://carlo.marag.no/posts/qemu-ioctl-hooks/
+Description: QEMU IOCTL Hooks.
+
+URL: https://github.com/mattnotmax/cyberchef-recipes
+Description: A list of cyber-chef recipes.
+
+URL: https://github.com/netspooky/inhale
+Description: A malware analysis and classification tool.
+
+URL: https://github.com/kgretzky/pwndrop
+Description: Pwndrop - Self-hosting Your Red Team Payloads.
+
+URL: https://shells.systems/adventures-in-burp-extender-land/
+Description: Adventures in Burp Extender Land.
+
+URL: https://shenaniganslabs.io/2020/04/14/Internal-DNS-C2.html
+Description: DNS Peer-to-Peer Command and Control with ADIDNS.
+
+URL: https://github.com/fox-it/Invoke-ACLPwn
+Blog: https://bit.ly/3coQtMG (+)
+Description: Escalating privileges with ACLs in Active Directory.
+
+URL: https://github.com/fdiskyou/CVE-2018-19320
+Description: Exploiting ring0 memcpy-like functionality to disable DSE.
+
+URL: https://bit.ly/2XGvGQD (+)
+Description: Targeting a macOS Application? Update Your Path Traversal Lists.
+
+URL: https://github.com/seemoo-lab/frankenstein/
+Description: Frankenstein provides a virtual environment to fuzz wireless firmwares.
+
+URL: https://github.com/outflanknl/Ps-Tools
+Description: Ps-Tools, an advanced process monitoring toolkit for offensive operations.
+
+URL: https://github.com/DSecurity/crauEmu
+Description: uEmu extension for developing and analyzing payloads for code-reuse attacks.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://m1el.github.io/oculus-tls-extract/
+Description: Extracting TLS keys from an unwilling application.
+
+URL: https://jhalon.github.io/utilizing-syscalls-in-csharp-1/
+Description: Utilizing Syscalls in C# - Prerequisite Knowledge.
+
+URL: https://www.hypn.za.net/blog/2020/04/11/hacking-unity-games/
+Description: Hacking Unity Games.
+
+URL: https://blog.pentesterlab.com/i-considered-harmful-6e20936ea65f
+Description: /i considered harmful.
+
+URL: https://medium.com/@schirrmacher/analyzing-whatsapp-calls-176a9e776213
+Description: Analyzing WhatsApp Calls with Wireshark, radare2 and Frida.
+
+URL: https://bit.ly/2XI6g4P (+)
+Description: Several Critical Vulnerabilities on most HP machines running Windows.
+
+URL: https://zeta-two.com/software/exploit/2020/04/05/exploiting-starcraft1.html
+Description: Exploiting the Starcraft 1 EUD Bug.
+
+URL: http://www.nuckingfoob.me/android-webview-csp-iframe-sandbox-bypass/index.html
+Description: Android Webview Exploited.
+
+URL: https://swapcontext.blogspot.com/2020/02/maxsecure-maxvulnerabilities-or-yet.html
+Description: MaxSecure = MaxVulnerabilities or yet another legalized FakeAV.
+
+URL: https://alexplaskett.github.io/CVE-2020-3919/
+Description: IOHIDFamily Uninitialised Kernel Memory Vulnerability (CVE-2020-3919).
+
+URL: https://bit.ly/2Vck7ig (+)
+Description: Windows Local Privilege Escalation in many Ricoh Printer Drivers (CVE-2019-19363).
+
+URL: https://maxkersten.nl/binary-analysis-course/malware-analysis/emotet-javascript-downloader/
+Description: Emotet JavaScript downloader analysis.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://poolside.fm/
+Description: Poolside FM.
+
+URL: https://shipilev.net/jvm/objects-inside-out/
+Description: Java Objects Inside Out.
+
+URL: https://flak.tedunangst.com/post/embedding-binary-objects-in-c
+Description: Embedding binary objects in C.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?461fdfd6ca734054#mq478NSJnC2eQkQka+c0bnZmCVROQn20kK13GnRV5Sw=
