@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 18 | Month: May | Year: 2020 | Release Date: 01/05/2020 | Edition: #324   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.shielder.it/blog/1-click-rce-on-keybase/
+Description: 1-click RCE on Keybase.
+
+URL: https://bit.ly/3bRPzIF (+)
+Description: Abusing HTTP Path Normalization and Cache Poisoning for profit.
+
+URL: https://hackerone.com/reports/827052
+Description: Arbitrary file read via the UploadsRewriter when moving and issue.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/FooBallZ/pulsar
+Description: Network footprint scanner platform.
+
+URL: https://bit.ly/2xljdqA (+)
+Description: The road from sandboxed SSTI to SSRF and XXE.
+
+URL: https://www.infosecmatter.com/terminal-escape-injection/
+Description: Terminal Escape Injection.
+
+URL: https://github.com/blackarrowsec/pivotnacci
+Description: A tool to make socks connections through HTTP agents.
+
+URL: https://gist.github.com/dogrocker/86881d2403fee138487054da82d5dc2e
+Description: Wireless Penetration Testing Cheat Sheet (Oldies).
+
+URL: https://iwantmore.pizza/posts/arbitrary-write-accessibility-tools.html
+Description: Windows Old Tricks Are Always Useful.
+
+URL: https://decoder.cloud/2020/04/28/exploiting-feedback-hub-in-windows-10/
+Description: Exploiting Feedback Hub in Windows 10.
+
+URL: https://github.com/CERT-Polska/drakvuf-sandbox
+Description: DRAKVUF Sandbox - automated hypervisor-level malware analysis system.
+
+URL: https://github.com/thelinuxchoice/eviloffice
+Description: Inject Macro and DDE code into Excel and Word documents (reverse shell).
+
+URL: https://github.com/phl4nk/devtoolreader
+Description: Parses Indexeddb files - used to extract Firefox devtools console history.
+
+URL: https://github.com/mandatoryprogrammer/CursedChrome
+Description: Chrome-extension to turn a victim browsers into fully-functional HTTP proxy.
+
+URL: https://github.com/NorthwaveNL/fridax
+Description: Node package for dealing with Xamarin applications while using the Frida API.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bit.ly/2VOSA6Q (+)
+Description: From directory deletion to SYSTEM shell.
+
+URL: https://expel.io/blog/finding-evil-in-aws/
+Description: Finding evil in AWS - A key pair to remember.
+
+URL: https://flattsecurity.hatenablog.com/entry/2020/04/10/122834
+Description: Firebase Security - Security Overview and Practice at Firebase.
+
+URL: https://h0mbre.github.io/atillk64_exploit
+Description: PE in ATI Technologies Inc. Driver atillk64.sys (CVE-2020-12138).
+
+URL: https://bit.ly/35lofzO (+)
+Description: Simple Remote Code Execution Vulnerability Examples for Beginners.
+
+URL: https://github.com/pedrib/PoC/blob/master/advisories/IBM/ibm_drm/ibm_drm_rce.md
+Description: Multiple Vulnerabilities in IBM Data Risk Manager.
+
+URL: https://rhinosecuritylabs.com/gcp/iam-privilege-escalation-gcp-cloudbuild/
+Description: Working-As-Intended - RCE to IAM Privilege Escalation in GCP Cloud Build.
+
+URL: https://bit.ly/2YjkbPb (+)
+Description: Cisco AnyConnect Privilege Elevation through Path Traversal (CVE-2020-3153).
+
+URL: https://github.com/ChrisMiuchiz/Plasma-Writeup
+Description: Restoring Picroma Plasma w/o Patching it and RE an Unknown Instruction Set.
+
+URL: https://labs.f-secure.com/blog/how-are-we-doing-with-androids-overlay-attacks-in-2020/
+Description: How are we doing with Android's overlay attacks in 2020?
+
+URL: https://github.com/skysafe/reblog/tree/master/0000-defeating-a-laptops-bios-password
+Description: Defeating a Laptop's BIOS Password.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://jg.sn.sg/ir/
+Description: Controlling my A/C with a Gameboy.
+
+URL: https://themer.dev/
+Description: Themer takes a set of colors and generates themes for your apps.
+
+URL: https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/
+Description: Teleforking a process onto a different computer!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?3d479b70e15e81bf#O/rSvsw9hOCeQuV30J2LiYjn1avEBRbyXCICJTjOiPQ=
