@@ -1,0 +1,137 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 19 | Month: May | Year: 2020 | Release Date: 08/05/2020 | Edition: #325   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.doyensec.com/2020/04/30/polymorphic-images-for-xss.html
+Description: Researching Polymorphic Images for XSS on Google Scholar.
+
+URL: https://opnsec.com/2020/05/dom-xss-in-gmail-with-a-little-help-from-chrome/
+Description: DOM XSS in Gmail with a little help from Chrome.
+
+URL: https://bit.ly/2SMtvaL (+)
+Description: Stealing Trello token by abusing a cross-iframe XSS on the Butler Plugin.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/odedshimon/BruteShark
+Description: Network Analysis Tool.
+
+URL: https://github.com/fransr/postMessage-tracker
+Description: Chrome Extension to track postMessage usage.
+
+URL: https://bit.ly/3ftttOY (+)
+Description: Decrypting and analyzing HTTPS traffic without MiTM.
+
+URL: https://github.com/decoder-it/NetworkServiceExploit
+Blog: https://decoder.cloud/2020/05/04/from-network-service-to-system/
+Description: POC for NetworkService Privilege Escalation.
+
+URL: https://github.com/horsicq/XELFViewer
+Description: ELF file viewer/editor for Windows, Linux and MacOS. 
+
+URL: https://git.lsd.cat/g/nokia-keygen
+Description: WPA and admin password generator for Nokia and Alcatel CPEs.
+
+URL: https://www.cyclon3.com/Bypass-Instagram-SSL-Certificate-Pinning-for-iOS
+Description: Bypass Instagram SSL Certificate Pinning for iOS.
+
+URL: https://ijustwannared.team/2020/05/05/com-hijacking-for-lateral-movement/
+Description: COM Hijacking for Lateral Movement.
+
+URL: https://anubissec.github.io/How-To-Call-Windows-APIs-In-Golang/#
+Related: https://github.com/zlowram/gopart | https://github.com/zlowram/gowin
+Description: How To Call Windows APIs in Golang.
+
+URL: https://blog.sambal0x.com/2020/04/30/Hacking-razer-pay-ewallet-app.html
+Description: Hacking Razer Pay Ewallet App.
+
+URL: https://github.com/thezdi/PoC/tree/master/CVE-2020-0558
+Blog: https://bit.ly/3cekL54 (+)
+Description: PoC for Trio of RCE Bugs in Intel Wireless Adapters (CVE-2020-0558).
+
+URL: https://github.com/HoShiMin/Kernel-Bridge
+Description: Windows kernel hacking framework, driver template, hypervisor and API.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://exploit.ph/crossing-trusts-4-delegation.html
+Description: Crossing Trusts 4 Delegation.
+
+URL: https://johannesbader.ch/blog/the-dga-of-zloader/
+Description: The Domain Generation Algorithm (DGA) of Zloader.
+
+URL: https://www.gremwell.com/node/955
+Description: Remote Command Execution on RemotePC for Windows.
+
+URL: https://www.notsosecure.com/exploiting-vlan-double-tagging/
+Description: Exploiting VLAN Double Tagging.
+
+URL: https://cturt.github.io/shogihax.html
+Description: Remote Code Execution on Nintendo 64 through Morita Shogi 64.
+
+URL: https://bit.ly/35GJaxN (+)
+Description: Piercing the Veal - Short Stories to Read with Friends (SSRF).
+
+URL: https://itm4n.github.io/printspoofer-abusing-impersonate-privileges/
+Description: Abusing Impersonation Privileges on Windows 10 and Server 2019.
+
+URL: https://blog.redforce.io/windows-authentication-and-attacks-part-1-ntlm/
+More: https://blog.redforce.io/windows-authentication-attacks-part-2-kerberos/ 
+Description: Windows authentication attacks.
+
+URL: https://bit.ly/2Wzky5U (+)
+Description: Closing the Loop - Practical Attacks and Defences for GraphQL APIs.
+
+URL: https://siguza.github.io/psychicpaper/
+More: https://wojciechregula.blog/post/stealing-your-sms-messages-with-ios-0day/
+Description: "Psychic Paper" - iOS XML <3.
+
+URL: https://shells.systems/open-audit-v3-3-1-remote-command-execution-cve-2020-12078/
+Description: Open-AudIT v3.3.1 Remote Command Execution (CVE-2020-12078).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://jdan.github.io/98.css/
+Description: 98.css.
+
+URL: https://github.com/oseiskar/corona-sniffer
+Description: BLE contact tracing sniffer PoC.
+
+URL: https://dev.to/angt/how-to-store-your-little-secrets-l8e
+Description: How to store your little secrets.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?f89dc295e4f10889#7ESR060uTofCi606g+Pr1+907f39CV11fChOqrtRcN4=
