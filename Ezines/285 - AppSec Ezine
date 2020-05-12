@@ -39,6 +39,7 @@ URL: https://github.com/d4rk007/RedGhost
 Description: Linux post exploitation framework written in bash.
 
 URL: https://github.com/tillson/git-hound
+Blog: https://tillsongalloway.com/finding-sensitive-information-on-github/index.html
 Description: Find exposed keys across GitHub using code search keywords.
 
 URL: https://github.com/bet4it/build-an-efficient-pwn-environment
