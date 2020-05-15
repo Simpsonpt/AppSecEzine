@@ -87,6 +87,7 @@ PoC: https://github.com/0xeb-bp/cve-2020-1015
 Description: Windows Elevation of Privilege Vulnerability Analysis (CVE-2020-1015).
 
 URL: https://grsecurity.net/huawei_hksp_introduces_trivially_exploitable_vulnerability
+Related: http://blog.pi3.com.pl/?p=705
 Description: Huawei HKSP Introduces Trivially Exploitable Vulnerability.
 
 URL: https://bit.ly/2Wv62wW (+)
