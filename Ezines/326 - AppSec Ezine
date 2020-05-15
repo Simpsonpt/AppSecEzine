@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 20 | Month: May | Year: 2020 | Release Date: 15/05/2020 | Edition: #326   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://vinothkumar.me/20000-facebook-dom-xss/
+Description: This is the story of how I found $20k Facebook DOM XSS.
+
+URL: http://www.missoumsai.com/google-accounts-xss.html
+Description: DOM-Based XSS at accounts.google.com by Google Voice Extension.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://blog.jse.li/posts/pyc/
+Description: Finding secrets in Python bytecode.
+
+URL: https://github.com/zznop/drow
+Description: Utility for patching ELF files post-build.
+
+URL: https://bit.ly/3bw9oEg (+)
+Description: Weird Story of Captcha to Rate Limit Bypass.
+
+URL: https://mobexler.com/
+Description: A Mobile Application Penetration Testing Platform.
+
+URL: https://github.com/FiloSottile/yubikey-agent
+Description: yubikey-agent is a seamless ssh-agent for YubiKeys.
+
+URL: http://o365blog.com/post/adsync/
+Description: Decrypting ADSync passwords - my journey into DPAPI.
+
+URL: https://github.com/PaperMtn/slack-watchman
+Description: Monitoring your Slack workspaces for sensitive information.
+
+URL: https://github.com/InfosecMatter/Minimalistic-offensive-security-tools
+Description: Tools for pentesting of restricted and isolated environments.
+
+URL: https://github.com/rohanrhu/gdb-frontend
+Description: GDBFrontend is an easy, flexible and extensionable gui debugger.
+
+URL: https://github.com/0xc0d/CVE-2020-11651
+Description: SaltStack Salt Unauthenticated RCE  Proof of Concept (CVE-2020-11651).
+
+URL: https://www.trustedsec.com/blog/breaking-typical-windows-hardening-implementations/
+Description: Breaking Typical Windows Hardening Implementations.
+
+URL: https://sumit-ghosh.com/articles/hijacking-library-functions-code-injection-ld-preload/
+Description: Hijacking Library Functions and Injecting Code Using the Dynamic Linker.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://thephp.cc/news/2020/02/phpunit-a-security-risk
+Description: PHPUnit - A Security Risk?
+
+URL: https://frichetten.com/blog/cve-2020-11108-pihole-rce/
+PoC: https://github.com/frichetten/CVE-2020-11108-PoC
+Description: How I Stumbled into a Pi-hole RCE+LPE (CVE-2020-11108).
+
+URL: https://medium.com/@lerner98/car-key-hacking-not-really-b60873cd18a
+Description: Car (Key) Hacking (Not Really).
+
+URL: https://pusha.be/index.php/2020/05/07/exploration-of-svchost-exe-p-flag/
+Description: Exploration of svchost.exe /P flag.
+
+URL: https://0xeb-bp.github.io/blog/2020/05/12/cve-2020-1015-analysis.html
+PoC: https://github.com/0xeb-bp/cve-2020-1015
+Description: Windows Elevation of Privilege Vulnerability Analysis (CVE-2020-1015).
+
+URL: https://grsecurity.net/huawei_hksp_introduces_trivially_exploitable_vulnerability
+Description: Huawei HKSP Introduces Trivially Exploitable Vulnerability.
+
+URL: https://bit.ly/2Wv62wW (+)
+Description: Symantec Endpoint Protection RU2 Elevation of Privileges (CVE-2020-5837).
+
+URL: https://blog.mozilla.org/attack-and-defense/2020/05/12/fuzzing-firefox-with-webidl/
+Description: Fuzzing Firefox with WebIDL.
+
+URL: https://windows-internals.com/printdemon-cve-2020-1048/
+PoC: https://github.com/ionescu007/PrintDemon
+Description: Print Spooler Privilege Escalation, Persistence & Stealth (CVE-2020-1048).
+
+URL: https://ferib.dev/blog.php?l=post/Bypassing_World_of_Warcraft_Crc32_Integrity_Checks
+Description: Bypassing World of Warcraft's Read-Only Code Protection (crc32).
+
+URL: https://research.nccgroup.com/2020/05/12/shell-arithmetic-expansion-and-evaluation-abuse/
+Description: Shell Arithmetic Expansion and Evaluation Abuse.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://blog.notryan.com/009.txt
+Description: 100 Lines of C in a Closet.
+
+URL: https://james.darpinian.com/satellites/
+Description: See A Satellite Tonight.
+
+URL: https://github.com/mitp0sh/gath
+Description: Never ever miss a single, unintended apple opensource leak again.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d20687474703a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?eb20c58b8be80f44#3ODqXmq0RS80E/29cYPtpuXZUIdRwIM+CWrQt9lkGgQ=
