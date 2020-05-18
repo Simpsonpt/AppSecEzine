@@ -97,7 +97,7 @@ URL: https://blog.mozilla.org/attack-and-defense/2020/05/12/fuzzing-firefox-with
 Description: Fuzzing Firefox with WebIDL.
 
 URL: https://windows-internals.com/printdemon-cve-2020-1048/
-PoC: https://github.com/ionescu007/PrintDemon
+PoC: https://github.com/ionescu007/PrintDemon | https://github.com/BC-SECURITY/Invoke-PrintDemon
 Description: Print Spooler Privilege Escalation, Persistence & Stealth (CVE-2020-1048).
 
 URL: https://ferib.dev/blog.php?l=post/Bypassing_World_of_Warcraft_Crc32_Integrity_Checks
