@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 22 | Month: May | Year: 2020 | Release Date: 29/05/2020 | Edition: #328   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://cube01.io/blog/Moodle-DOM-Stored-XSS-to-RCE.html
+Description: Moodle DOM Stored XSS to RCE.
+
+URL: https://bit.ly/2XbhVZo (+)
+Description: How dangerous is Request Splitting, a vulnerability in Golang.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/dev-2null/KerberosRun
+Description: A little tool to play with Kerberos.
+
+URL: https://github.com/vovkos/protolesshooks
+Description: API monitoring via return-hijacking thunks.
+
+URL: https://github.com/leechristensen/DotNetDeserializationScanner
+Description: Scans for .NET Deserialization Bugs in .NET Assemblies.
+
+URL: https://github.com/chrivers/samsung-firmware-magic
+Description: Tool for decrypting the firmware files for Samsung SSDs.
+
+URL: https://github.com/ION28/BLUESPAWN
+Description: An Active Defense and EDR software to empower Blue Teams.
+
+URL: https://paper.seebug.org/834/
+Description: File Transfer Skills in Post Penetration Test of Red Team.
+
+URL: https://github.com/AlecBlance/S3BucketList
+Description: Firefox plugin that lists Amazon S3 Buckets found in requests.
+
+URL: https://github.com/BC-SECURITY/Empire
+Description: Empire is a PowerShell and Python 3.x post-exploitation framework.
+
+URL: https://github.com/soluble-ai/kubetap
+Description: Kubectl plugin to interactively proxy Kubernetes Services with ease.
+
+URL: https://github.com/BishopFox/rmiscout
+Blog: https://know.bishopfox.com/research/rmiscout
+Description: Safely and Quickly Brute-Force Java RMI Interfaces for Code Execution.
+
+URL: https://github.com/EgeBalci/sgn
+Description: Shikata ga nai (仕方がない) encoder ported into go with several improvements.
+
+URL: https://github.com/KuroLabs/stegcloak
+Description: Hide secrets with invisible characters in plain text securely using passwords.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://sameorigin.link/msi_rgb.html
+Description: Attacking MSI RGB Lighting From The Browser.
+
+URL: https://paper.seebug.org/1193/
+Description: Fastjson Deserialization Vulnerability History.
+
+URL: https://blog.quarkslab.com/ansible-security-assessment.html
+Description: Ansible Security Assessment.
+
+URL: https://medium.com/@frycos/another-zoho-manageengine-story-7b472f1515f5
+Description: Another Zoho ManageEngine Story - ADManager Plus Audit.
+
+URL: https://bit.ly/2zDVy5V (+)
+Description: QNAP Pre-Auth Root RCE Affecting ~450K Devices on the Internet.
+
+URL: https://medium.com/@wabz/covidsafe-ios-vulnerability-cve-2020-12717-30dc003f9708
+Description: COVIDSafe iOS Vulnerability (CVE-2020–12717).
+
+URL: https://ryiron.wordpress.com/2020/05/26/ultimate-mortal-kombat-source-code-review/
+Description: Ultimate Mortal Kombat Source Code Review.
+
+URL: https://bit.ly/2XGowKe (+)
+Description: Abusing PackageKit on Fedora/CentOS for fun & profit (from wheel to root).
+
+URL: https://medium.com/@stestagg/stealing-secrets-from-developers-using-websockets-254f98d577a0
+Description: Stealing Secrets from Developers using Websockets.
+
+URL: https://bit.ly/2X8kviT (+)
+Description: Harden your Linux UEFI Secure Boot using GRUB signature checking and a Yubikey.
+
+URL: https://theevilbit.github.io/posts/a_simple_protection_against_hmvalidatehandle_technique/
+Description: A simple protection against HMValidateHandle technique.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://maldroid.github.io/hardware-hacking/
+Description: Basics of hardware hacking.
+
+URL: https://devblogs.microsoft.com/commandline/microsoft-open-sources-gw-basic/
+Description: Microsoft Open-Sources GW-BASIC.
+
+URL: https://wpc.guide/
+Description: Getting started with a history, skill guide and how-to of web standards.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?6c910da62af6e6b2#x6jF//pkmjb7AWoiW+TUUJO1Hu2K4aAJSmf3pIxl9es=
