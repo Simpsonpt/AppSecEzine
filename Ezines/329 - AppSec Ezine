@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 23 | Month: June | Year: 2020 | Release Date: 05/06/2020 | Edition: #329  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/
+Description: Zero-day in Sign in with Apple.
+
+URL: https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204
+Description: How I made $31500 by submitting a bug to Facebook.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/meme/hellscape
+Description: GIMPLE obfuscator for C, C++, Go, ...
+
+URL: https://github.com/shunf4/proxychains-windows
+Description: Proxychains for Windows.
+
+URL: https://github.com/patois/abyss
+Description: Postprocess Hexrays Decompiler Output.
+
+URL: https://github.com/zerofox-oss/deepstar
+Description: An Open Source Deepfake Detection Toolkit.
+
+URL: https://github.com/ChrisTheCoolHut/angry_gadget
+Description: A tool for finding the one gadget RCE in libc.
+
+URL: http://f-60.com/post/0x01.html
+Description: ZyXel VMG3925-B10B Router FakeRoot Exploit (V5.13).
+
+URL: https://github.com/francozappa/bias
+Description: Bluetooth Impersonation AttackS (BIAS) (CVE 2020-10135).
+
+URL: https://github.com/chompie1337/SMBGhost_RCE_PoC
+Description: Remote Code Execution PoC for "SMBGhost" (CVE-2020-0796).
+
+URL: https://github.com/abathur/resholved
+Description: Resolve references to external dependencies in shell scripts.
+
+URL: https://github.com/bats3c/shad0w
+Description: Post-Exp. framework to operate covertly on heavily monitored enviroments.
+
+URL: https://github.com/Binject/backdoorfactory
+Blog: https://www.symbolcrash.com/2020/05/17/back-to-the-backdoor-factory/
+Description: MitM tool for inserting shellcode into all types of binaries on the wire.
+
+URL: https://github.com/B-i-t-K/PwnFox
+Description: Firefox/Burp extension that provide usefull tools for your security audit.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://f4d3.io/xxe_wild/
+Description: h1{Error based XXE - bug bounty writeup}.
+
+URL: https://bit.ly/2XxcWSV (+)
+Description: Apache Tomcat RCE by deserialization (CVE-2020-9484).
+
+URL: http://piratesecurityblog.com/?p=35
+Description: Simple guest to host VM escape for Parallels Desktop.
+
+URL: https://bit.ly/2zYvkuY (+)
+Description: When it’s not only about a Kubernetes (CVE-2020–8555).
+
+URL: https://offsec.almond.consulting/playing-with-gzip-rce-in-glpi.html
+More: https://offsec.almond.consulting/multiple-vulnerabilities-in-glpi.html
+Description: Playing with GZIP: RCE in GLPI (CVE-2020-11060).
+
+URL: http://highaltitudehacks.com/2020/06/01/from-zero-to-tfp0-part-1-prologue/
+More: https://bit.ly/2AI85VZ (+)
+Description: From zero to tfp0.
+
+URL: https://itm4n.github.io/chimichurri-reloaded/
+Description: Giving a Second Life to a 10-year old Windows Vulnerability.
+
+URL: https://byteraptors.github.io/windows/exploitation/2020/05/24/sandboxescape.html
+Description: Chronicles of a Sandbox Escape - Deep Analysis of CVE-2019-0880.
+
+URL: https://douevenknow.us/post/619763074822520832/an-el1el3-coldboot-vulnerability
+PoC: https://github.com/shinyquagsire23/CVE-2020-12753-PoC
+Description: EL1/EL3 coldboot vulnerability affecting 7 years of LG Android devices.
+
+URL: https://maxfieldchen.com/posts/2020-05-17-penetration-testers-guide-oauth-2.html
+Description: Penetration Tester's Guide to Evaluating OAuth 2.0.
+
+URL: https://decoder.cloud/2020/05/11/no-more-juicypotato-old-story-welcome-roguepotato/
+Description: No more JuicyPotato? Old story, welcome RoguePotato!
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://donotdrawapenis.com/
+Description: Do not Draw a Penis.
+
+URL: https://elevation-of-privilege.herokuapp.com/
+Description: The Elevation of Privilege game.
+
+URL: https://github.com/electronicarts/CnC_Remastered_Collection
+Description: Command and Conquer Tiberian Dawn and Red Alert (Remastered) source code.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?b715daf4bdcc7130#lSnSpnkHPTGgazdcG09a9ChziYpQAqr2DAH39Uedbvo=
