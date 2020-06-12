@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 24 | Month: June | Year: 2020 | Release Date: 12/06/2020 | Edition: #330  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://pberba.github.io/security/2020/05/28/lastpass-phishing/
+Description: Bypassing LastPass’s "Advanced" YubiKey MFA - A MITM Phishing Attack.
+
+URL: https://bit.ly/30uw2et (+)
+Description: Cmd Hijack - a command/argument confusion with path traversal in cmd.exe.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ph4ntonn/Impost3r
+Description: Impost3r - A linux password thief.
+
+URL: https://github.com/WinMin/CVE-2020-8597
+More: https://github.com/marcinguy/CVE-2020-8597
+Description: pppd Buffer Overflow PoC (CVE-2020-8597).
+
+URL: https://github.com/webr0ck/3D-Secure-audit-cheatsheet
+Description: 3D Secure Audit Cheatsheet.
+
+URL: https://pop.rdi.sh/writing-a-simple-polymorphic-engine/
+Description: Writing a Simple Polymorphic Engine.
+
+URL: https://bit.ly/3fbXyBB (+)
+Description: Red Team - Using SharpChisel to exfil internal network.
+
+URL: https://github.com/sysdream/ligolo
+Description: Reverse Tunneling made easy for pentesters by pentesters.
+
+URL: https://github.com/ReddyyZ/astsu
+Description: A network scanner tool developed in Python 3 using scapy.
+
+URL: https://github.com/urbanadventurer/bing-ip2hosts
+Description: Bing.com web scraper that discovers websites by IP address.
+
+URL: https://github.com/N1ght-W0lf/HawkEye
+Description: Malware dynamic instrumentation tool based on frida framework.
+
+URL: https://github.com/callforpapers-source/jshole
+Description: A JavaScript components vulnrability scanner, based on RetireJS.
+
+URL: https://github.com/Greenwolf/ntlm_theft
+Blog: https://bit.ly/2XSLOhu (+)
+Description: A tool for generating multiple types of NTLMv2 hash theft files.
+
+URL: https://github.com/madhuakula/hacker-container
+Description: Container with useful tools/commands while hacking Kubernetes Clusters.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bananamafia.dev/post/d3dhook/
+Description: Hooking Direct3D EndScene() - CS-GO Hack.
+
+URL: https://bit.ly/3cPUHwF (+)
+More: https://bit.ly/2XQC0EM (+)
+Description: Understanding and Abusing Process Tokens.
+
+URL: https://insomniasec.com/blog/bloodhound-shared-accounts
+Description: Exploring Users With Multiple Accounts In BloodHound.
+
+URL: https://raelize.com/posts/d-link-dsl-2640b-security-advisories/
+Description: Security Advisories - D-Link DSL-2640B.
+
+URL: https://www.secureauth.com/blog/what-old-new-again-relay-attack
+Description: What is old is new again - The Relay Attack.
+
+URL: https://medium.com/faraday/analysis-of-cve-2020-7350-dcda2ff8a3d6
+Description: Pwning Metasploit with Metasploit (CVE-2020-7350).
+
+URL: https://talosintelligence.com/vulnerability_reports/TALOS-2020-1056
+Description: Zoom Client Application Chat Code Snippet RCE (CVE-2020-6110).
+
+URL: https://r2c.dev/blog/2020/be-careful-what-you-request-for-django-method/
+Description: Be careful what you request for... (Django OOPS HTTP/1.1).
+
+URL: https://callstranger.com/
+PoC: https://github.com/yunuscadirci/CallStranger
+Description: Universal Plug and Play (UPnP) SUBSCRIBE abuse (CVE-2020-12695).
+
+URL: https://bit.ly/2YpcLZg (+)
+Description: S3 bucket takeover and PGP signature bypass in fwupd (CVE-2020-10759).
+
+URL: https://www.cyberark.com/resources/threat-research-blog/group-policies-going-rogue
+Description: Group Policies Going Rogue (CVE-2020-1317).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://latex.now.sh/
+Description: LATEX.css.
+
+URL: https://fabiensanglard.net/discret11/index.html
+Description: Discret 11, the French TV encryption of the 80's.
+
+URL: https://unixism.net/2020/04/io-uring-by-example-article-series/
+Description: io_uring By Example - An Article Series.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?dc50d3b3ee6e4e8c#4tuCL7sce3k2fef5jJlbVRTrjOE52BFJNoVIRHqnO0k=
