@@ -88,6 +88,7 @@ URL: https://lviattack.eu/
 Description: LVI - Hijacking Transient Execution with Load Value Injection.
 
 URL: https://itm4n.github.io/cve-2020-0787-windows-bits-eop/
+PoC: https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION
 Description: An EoP Bug Hidden in an Undocumented RPC Function (CVE-2020-0787).
 
 URL: http://bit.ly/2U1B39j (+)
