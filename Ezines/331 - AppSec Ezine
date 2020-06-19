@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 25 | Month: June | Year: 2020 | Release Date: 19/06/2020 | Edition: #331  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.ehpus.com/post/smtp-injection-in-gsuite
+Description: SMTP Injection in Gsuite.
+
+URL: https://research.securitum.com/the-curious-case-of-copy-paste/
+Description: The Curious Case of Copy & Paste.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Katrovisch/KatroLogger
+Description: KeyLogger for Linux Systems.
+
+URL: https://github.com/Voulnet/barq
+Description: The AWS Cloud Post Exploitation framework.
+
+URL: https://bit.ly/3eqZCG1 (+)
+Description: Using Frida For Windows Reverse Engineering.
+
+URL: https://www.pnfsoftware.com/blog/reversing-dexguard/
+Description: Reversing DexGuard.
+
+URL: https://github.com/frederic/exynos8890-bootrom-dump
+Blog: https://bit.ly/3fCQCxo (+)
+Description: Dump Exynos 8890 bootROM from Samsung Galaxy S7.
+
+URL: https://github.com/b4rtik/SharpMiniDump/
+Description: Create a minidump of the LSASS process from memory.
+
+URL: https://dimitrifourny.github.io/2020/06/11/dumping-veh-win10.html
+Description: Dumping the VEH in Windows 10.
+
+URL: https://github.com/mindedsecurity/behave
+Description: A monitoring browser extension for pages acting as bad boi.
+
+URL: https://blog.nviso.eu/2020/06/12/intercepting-flutter-traffic-on-ios/
+Description: Intercepting Flutter traffic on iOS.
+
+URL: https://github.com/IncludeSecurity/RTSPhuzz
+Description: RTSPhuzz - An RTSP Fuzzer written using the Boofuzz framework.
+
+URL: https://github.com/netbiosX/Digital-Signature-Hijack
+Description: Binaries, PS scripts and information about Digital Signature Hijacking.
+
+URL: https://git.zx2c4.com/american-unsigned-language/tree/american-unsigned-language.sh
+Description: Disable kernel lockdown using ACPI SSDT injection.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://kieczkowska.com/2020/06/15/airdrop-forensics/
+Description: AirDrop Forensics.
+
+URL: https://www.blackarrow.net/rfid-scanner-analysis/
+Description: Analyzing an RFID scanner - bad habits never die.
+
+URL: https://ioactive.com/file-squatting-exploitation-by-example/
+PoC: https://github.com/IOActive/FileSquattingExample
+Description: File-Squatting Exploitation by Example.
+
+URL: https://bit.ly/3e9qw4S (+)
+Description: TrackR — User’s True Coordinates Exposed (VU#762643).
+
+URL: https://pentest.co.uk/labs/research/subtle-stored-xss-wordpress-core/
+Description: A subtle stored-XSS in WordPress core (CVE-2020-4096).
+
+URL: https://0xeb-bp.github.io/blog/2020/06/15/cve-2020-1054-analysis.html
+PoC: https://github.com/0xeb-bp/cve-2020-1054
+Description: Elevation of privilege in Win32k CVE-2020-1054 Analysis.
+
+URL: https://github.com/MegadodoPublications/exploits/blob/master/composr.md
+Description: Composr CMS Remote Code Execution.
+
+URL: https://xz.aliyun.com/t/7877
+Description: Spring Cloud Config directory traversal vulnerability (CVE-2020-5410).
+
+URL: https://zerosum0x0.blogspot.com/2020/06/heresys-gate-kernel-zwntdll-scraping.html
+Description: Ring 0 to Ring 3 via Worker Factories.
+
+URL: https://medium.com/tenable-techblog/exploiting-a-webroot-type-confusion-bug-215308145e32
+Description: Exploiting a Webroot Type Confusion Bug (CVE-2020–5754).
+
+URL: https://googleprojectzero.blogspot.com/2020/06/a-survey-of-recent-ios-kernel-exploits.html
+Description: A survey of recent iOS kernel exploits.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://bad-radio.solutions/notes_yaesu_rpi
+Description: YAESU VX 7R RPI.
+
+URL: https://models.roboflow.ai/object-detection/yolov5
+Description: PyTorch Object Detection YOLOv5.
+
+URL: https://birb007.github.io/blog/2020/06/06/operating-a-tor-relay.html
+Description: Operating a Tor Relay.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?6c2d3bc946fdccee#VnzqzYjM/TTSnONlVYqNpFfR4++PV+sogwcG7I2YW74=
