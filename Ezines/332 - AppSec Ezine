@@ -1,0 +1,140 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 26 | Month: June | Year: 2020 | Release Date: 26/06/2020 | Edition: #332  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows
+Description: Hijacking DLLs in Windows.
+
+URL: https://samcurry.net/hacking-starbucks/
+Description: Hacking Starbucks and Accessing Nearly 100 Million Customer Records.
+
+URL: https://palant.info/2020/06/22/exploiting-bitdefender-antivirus-rce-from-any-website/
+Description: Exploiting Bitdefender Antivirus - RCE from any website (CVE-2020-8102).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://scapy.disruptivelabs.in/
+Description: The Art of Packet Crafting with Scapy.
+
+URL: https://github.com/frederic/exynos-usbdl
+Blog: https://bit.ly/3g94Neb (+)
+Description: Unsigned code loader for Exynos BootROM.
+
+URL: https://github.com/guywhataguy/SourceCodeVisualizer
+Description: Visualize the code distribution in a project.
+
+URL: https://github.com/horsicq/XPEViewer
+Description: PE file viewer/editor for Windows, Linux and MacOS.
+
+URL: https://github.com/scrt/avcleaner
+Blog: https://blog.scrt.ch/2020/06/19/engineering-antivirus-evasion/
+Description: C/C++ source obfuscator for antivirus bypass.
+
+URL: https://github.com/vimeo/psalm
+Description: A static analysis tool for finding errors in PHP applications.
+
+URL: https://hackerone.com/reports/129873
+Description: Bypassing Digits origin validation which leads to account takeover.
+
+URL: https://blog.netspi.com/introduction-to-hacking-thick-clients-part-1-the-gui/
+Description: Introduction to Hacking Thick Clients Series.
+
+URL: https://github.com/dhondta/webgrep
+Description: Web page Grep-like tool with additional features like JS deobfuscation.
+
+URL: https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet
+Description: A cheat-sheet with common enumeration and attack methods for Windows AD.
+
+URL: https://github.com/sailay1996/UAC_Bypass_In_The_Wild
+Description: Windows 10 UAC bypass for all executable files which are autoelevate true.
+
+URL: https://0x00sec.org/t/autocrack-a-responder-to-hashcat-queue-with-notifications/21843
+Description: Autocrack - A Responder to Hashcat Queue with Notifications.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bit.ly/2Z27MOs (+)
+More: https://bit.ly/3i2uvm4 (+)
+Description: Security testing of the pacemaker ecosystem.
+
+URL: https://medium.com/0xcc/x-site-escape-part-i-fc188306d5c3
+Description: Exploiting a CoreFoundation Sandbox Bug.
+
+URL: https://blog.grimm-co.com/2020/06/soho-device-exploitation.html
+Description: Netgear R7000 router Exploitation.
+
+URL: https://secret.club/2020/06/19/battleye-packet-encryption.html
+Description: Cracking BattlEye packet encryption.
+
+URL: https://hot3eed.github.io/2020/06/18/snap_p1_obfuscations.html
+More: https://hot3eed.github.io/2020/06/22/snap_p2_deobfuscation.html
+Description: Reverse Engineering Snapchat.
+
+URL: https://medium.com/@b1tst0rm/one-ring-zero-to-rule-them-all-9ec99d914c68
+Description: One ring (zero) to rule them all.
+
+URL: https://www.contextis.com/us/blog/bring-your-own-.net-core-garbage-collector
+PoC: https://github.com/am0nsec/MCGC
+Description: Bring your own .NET Core Garbage Collector.
+
+URL: https://blog.envoyproxy.io/exploiting-an-envoy-heap-vulnerability-96173d41792
+Description: Exploiting an Envoy heap vulnerability (CVE-2019–18801).
+
+URL: https://decoded.avast.io/martinhron/the-secret-life-of-gps-trackers/
+More: https://decoded.avast.io/martinhron/the-secret-life-of-gps-trackers-2-2/
+Description: The secret life of GPS trackers.
+
+URL: https://www.perimeterx.com/tech-blog/2020/bypassing-csp-exflitrate-data/
+Related: https://sansec.io/research/skimming-google-defeats-csp
+Description: Exfiltrating User’s Private Data Using Google Analytics to Bypass CSP.
+
+URL: https://thalium.github.io/blog/posts/windows-full-memory-introspection-with-icebox/
+Description: Windows Memory Introspection with IceBox.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/tg-bomze/Face-Depixelizer
+Related: https://bit.ly/31dL20u (+)
+Description: Face Depixelizer based on "PULSE".
+
+URL: https://github.com/derricw/siggo
+Description: a TUI for signal messenger, written in Go.
+
+URL: https://slingcode.net/
+Description: Slingcode is a personal computing platform in a single html file.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?577dd87ddb286342#ROTi4juOPtBMtGR2TGpxH+4dPur3Uvseo8s6sIMFBx4=
