@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 27 | Month: July | Year: 2020 | Release Date: 03/07/2020 | Edition: #333  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/833080
+Description: Slack RCE - Low user-assist.
+
+URL: https://cturt.github.io/freedvdboot.html
+Description: FreeDVDBoot - Hacking the PlayStation 2 through its DVD player.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/mitchmoser/AtYourService
+Description: Service Enumeration C# .NET Assembly.
+
+URL: https://github.com/robre/scripthunter
+Description: Tool to find JavaScript files on Websites.
+
+URL: https://github.com/LinusHenze/WebKit-RegEx-Exploit
+Description: WebKit-RegEx-Exploit.
+
+URL: https://gitlab.com/W1nst0n/universal-android-debloater/
+Description: Universal Android Debloater.
+
+URL: https://github.com/Bl1nnnk/kAFL
+Description: kAFL - Hardware-Assisted Feedback Fuzzing for OS Kernels.
+
+URL: https://bit.ly/3iptS6s (+)
+Description: Just another Recon Guide for Pentesters and Bug Bounty Hunters.
+
+URL: https://github.com/slyd0g/DLLHijackTest
+Blog: https://posts.specterops.io/automating-dll-hijack-discovery-81c4295904b0
+Description: DLL and PowerShell script to assist with finding DLL hijacks.
+
+URL: https://github.com/nccgroup/wstalker
+Blog: https://bit.ly/3eVmSvP (+)
+Description: WStalker is a HTTP/HTTPS Proxy with full Request/Response logging.
+
+URL: https://gitlab.com/brn1337/rtsp-killer
+Description: RTSP Killer performs enumeration and bruteforce of the RTSP protocol.
+
+URL: https://ibreak.software/2020/06/using-sql-injection-to-perform-ssrf-xspa-attacks/
+Description: Using SQL Injection to perform SSRF/XSPA attacks.
+
+URL: https://github.com/binarly-io/efiXplorer
+Description: IDA plugin for UEFI firmware analysis and reverse engineering automation.
+
+URL: https://bit.ly/2NMV80m (+)
+Description: 1-click meterpreter exploit chain with BeEF and AV/AMSI bypass.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://secalert.net/from-zero-to-zeroday.html
+Description: From zero to zeroday (CVE-2016-3109).
+
+URL: https://embeddedsecurity.io/
+Description: Embedded Systems Security and TrustZone.
+
+URL: https://haiyuidesu.github.io/blog/diagnostics.html
+Description: iOS Diagnostics mode.
+
+URL: https://chadduffey.com/2020/06/27/VulnServerVSExploitGuard.html
+Description: Vulnserver Exploit vs Windows Defender Exploit Guard.
+
+URL: https://0xsha.io/posts/zombievpn-breaking-that-internet-security
+PoC: https://github.com/0xsha/ZombieVPN
+Description: ZombieVPN - Breaking That Internet Security (CVE-2020-12828).
+
+URL: https://paper.seebug.org/1261/
+Description: Nexus Repository Manager 2.x Command Injection (CVE-2019-5475).
+
+URL: https://penthertz.com/blog/mobile-iot-modules-FOTA-backdooring-at-scale.html
+Description: Mobile IoT modules vulnerable to FOTA updates backdooring at scale.
+
+URL: https://ezqelusia.blogspot.com/2020/06/some-dos-bugs-while-processing.html
+Description: Some DOS bugs while processing Microsoft LNK files.
+
+URL: https://securitylab.github.com/research/last-orders-at-the-house-of-force
+Description: Last orders at the House of Force - Sane (CVE-2020-12861/CVE-2020-12862).
+
+URL: https://blog.korelogic.com/blog/2020/06/29/cellebrite_good_times_come_on
+Description: Cellebrite Good Times, Come On - Reverse-Engineering Phone Forensics Tools.
+
+URL: https://bit.ly/3eTPW73 (+)
+Description: Inductive Automation Ignition (Ignition) RCE (CVE-2020-10644/CVE-2020-12004).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://nyansatan.github.io/lightning/
+Description: Apple Lightning.
+
+URL: https://github.com/carlini/printf-tac-toe
+Description: tic-tac-toe in a single call to printf.
+
+URL: https://www.andrewmohawk.com/2020/06/12/trunked-radio-a-guide/
+Description: Trunked Radio - A Guide.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?09e855354670d432#p7Gj9F6IJqfsS/pcZRN+vXA17sULXdxFtWL2DQMCEyg=
