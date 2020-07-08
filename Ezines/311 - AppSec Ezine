@@ -100,6 +100,7 @@ URL: https://posts.specterops.io/attacking-azure-azure-ad-and-introducing-powerz
 Description: Attacking Azure, Azure AD, and Introducing PowerZure.
 
 URL: https://www.mdsec.co.uk/2020/01/deep-dive-to-citrix-adc-remote-code-execution-cve-2019-19781/
+More: https://swarm.ptsecurity.com/remote-code-execution-in-citrix-adc/
 Description: Deep Dive to Citrix ADC Remote Code Execution (CVE-2019-19781).
 
 
