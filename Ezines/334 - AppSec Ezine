@@ -57,6 +57,7 @@ More: https://www.criticalstart.com/f5-big-ip-remote-code-execution-exploit/
 Description: BIG-IP Remote Code Execution (CVE-2020-5902).
 
 URL: https://yasoob.me/posts/reverse-engineering-nike-run-club-using-frida-android/
+More: https://github.com/tmasto/nike-deobfuscator
 Description: Reverse Engineering Nike Run Club Android App Using Frida.
 
 URL: https://github.com/dalvarezperez/CreateFile_based_rootkit/
