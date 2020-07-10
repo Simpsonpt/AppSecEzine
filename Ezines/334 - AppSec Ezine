@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 28 | Month: July | Year: 2020 | Release Date: 10/07/2020 | Edition: #334  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.assetnote.io/2020/06/28/subdomain-takeover-to-account-takeover/
+Description: Taking over Azure DevOps Accounts with 1 Click.
+
+URL: https://research.securitum.com/art-of-bug-bounty-a-way-from-js-file-analysis-to-xss/
+Description: Art of bug bounty - a way from JS file analysis to XSS.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/berkgoksel/SierraTwo
+Description: Simple reverse shell over Slack.
+
+URL: https://github.com/1d8/mailjack
+Description: MailJack - Coding an email stealer.
+
+URL: https://aeonlucid.com/Snapchat-detection-on-Android/
+More: https://aeonlucid.com/Snapchat-detection-on-iOS/
+Description: Snapchat detection on Android.
+
+URL: https://dtm.uk/certreq/
+Description: Upload and download small files with CertReq.exe.
+
+URL: https://hausec.com/2019/09/09/bloodhound-cypher-cheatsheet/
+Description: BloodHound Cypher Cheatsheet.
+
+URL: https://bit.ly/2ZQtx48 (+)
+Description: An offensive guide to the Authorization Code grant.
+
+URL: https://github.com/mzfr/slicer
+Description: A tool to automate the boring process of APK recon.
+
+URL: https://github.com/danielmgmi/IntelMCDowngrade
+Related: https://github.com/platomav/CPUMicrocodes
+Description: Scripts to downgrade microcodes (used for analyzing CPU attacks).
+
+URL: https://github.com/jas502n/CVE-2020-5902
+More: https://www.criticalstart.com/f5-big-ip-remote-code-execution-exploit/
+Description: BIG-IP Remote Code Execution (CVE-2020-5902).
+
+URL: https://yasoob.me/posts/reverse-engineering-nike-run-club-using-frida-android/
+Description: Reverse Engineering Nike Run Club Android App Using Frida.
+
+URL: https://github.com/dalvarezperez/CreateFile_based_rootkit/
+Description: Hide malware from users and AV scanners (Microsoft will not fix it).
+
+URL: https://github.com/gtworek/PSBits/blob/master/Misc/No-PowerShell.cs
+Description: Wrap your PS script into simple C# file (avoid powershell.exe alarmistic).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://securitylab.github.com/research/bean-validation-RCE
+Description: Bean Stalking - Growing Java beans into RCE.
+
+URL: https://www.contextis.com/en/blog/dll-search-order-hijacking
+Description: DLL Search Order Hijacking.
+
+URL: https://paper.seebug.org/1268/
+Description: From Deserialization to Type Confusion Vulnerability.
+
+URL: https://bit.ly/2ZOCbQG (+)
+Description: Exploring Trust Relationships Through Global Scale SPF Mining.
+
+URL: https://bit.ly/2Zeuioy (+)
+Description: Restricting SMB-based lateral movement in a Windows environment.
+
+URL: https://palant.info/2020/07/06/dismantling-bullguard-antivirus-online-protection/
+Description: Dismantling BullGuard Antivirus’ online protection.
+
+URL: https://pierrekim.github.io/blog/2020-07-07-cdata-olt-0day-vulnerabilities.html
+Description: Multiple vulnerabilities found in CDATA OLTs.
+
+URL: https://modexp.wordpress.com/2020/07/07/wpi-wm-paste/
+Description: Windows Process Injection - EM_GETHANDLE, WM_PASTE and EM_SETWORDBREAKPROC.
+
+URL: https://offsec.almond.consulting/displaylink-usb-graphics-arbitrary-file-write-eop.html
+Description: DisplayLink USB Graphics Software arbitrary file write Elevation of Privilege.
+
+URL: https://stazot.com/boltcms-file-upload-bypass/
+Description: File upload filter bypass to RCE in Bolt CMS <3.7.0 (CVE-2020-4040/CVE-2020-4041).
+
+URL: https://full-disclosure.eu/reports/2019/FDEU-CVE-2019-10222-telia-savitarna-backdoor.html
+Description: Telia Savitarna Backdoor (CVE-2019-10222).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.securemessagingapps.com/
+Description: Secure Messaging Apps Comparison.
+
+URL: https://github.com/KuroLabs/Airshare
+Description: Cross-platform content sharing in a local network.
+
+URL: https://8051enthusiast.github.io/2020/04/14/001-USB_Firmware.html
+Description: Analyzing the USB Controller's Firmware.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?3872b6d5795d14d8#mFnHB9tJ7S3uSyHjPH0zL/KttLL7nIjoNc9nJz7qEFA=
