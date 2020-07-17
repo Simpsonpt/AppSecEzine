@@ -1,0 +1,137 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 29 | Month: July | Year: 2020 | Release Date: 17/07/2020 | Edition: #335  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/390Zfjm (+)
+Description: Write-up for a Path Traversal on Gravitee.io.
+
+URL: https://hackerone.com/reports/771666
+Description: Stealing Zomato X-Access-Token in Bulk using HTTP Request Smuggling.
+
+URL: https://bit.ly/2Zy30cN (+)
+Description: Marginwidth/marginheight – the unexpected cross-origin communication channel.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: http://pingb.in/
+Blog: https://bit.ly/3fuU9hL (+)
+Description: A Simple DNS OOB exfil solution.
+
+URL: https://github.com/ionagisa/MindSurgeLib
+Description: MindSurge (MS) by nagisa.
+
+URL: https://bit.ly/2B39lUf (+)
+Description: Bypassing AppLocker Custom Rules.
+
+URL: https://github.com/wintrmvte/Citadel
+Description: My small collection of pentesting scripts.
+
+URL: https://github.com/vusec/parmesan
+Description: ParmeSan - Sanitizer-guided Greybox Fuzzing.
+
+URL: https://just2exploit.github.io/home/
+Description: Exploit for several Bluetooth Smart Devices.
+
+URL: https://github.com/ionescu007/faxhell
+Description: A Bind Shell Using the Fax Service and a DLL Hijack.
+
+URL: https://connormcgarr.github.io/ROP2/
+Description: Playing ROP’em COP’em Robots with WriteProcessMemory().
+
+URL: https://github.com/RedCursorSecurityConsulting/PPLKiller
+Blog: https://bit.ly/3h3HWB2 (+)
+Description: Tool to bypass LSA Protection (aka Protected Process Light).
+
+URL: https://m417z.com/winbindex/
+Blog: https://m417z.com/Introducing-Winbindex-the-Windows-Binaries-Index/
+Description: The Windows Binaries Index.
+
+URL: https://github.com/leechristensen/RequestAADRefreshToken/
+Blog: https://bit.ly/2Zxwyr1 (+)
+Description: Tool to return OAuth refresh tokens for an Azure-AD-authenticated user.
+
+URL: https://posts.specterops.io/audio-unit-plug-ins-896d3434a882
+Description: MacOS Audio Unit Plug-ins - execute unsigned code with the auvaltool CLI.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://dmaasland.github.io/posts/citrix.html
+Description: Adventures in Citrix security research.
+
+URL: https://blog.two06.info/Reading-Windows-Sticky-Notes/
+Description: Reading Windows Sticky Notes.
+
+URL: https://securitylab.github.com/research/fuzzing_android_nfc
+Description: Structured fuzzing Android's NFC.
+
+URL: https://bit.ly/2CHeyBw (+)
+Description: Android MX Player — Path Traversal to Code Execution.
+
+URL: https://zon8.re/posts/exploiting-an-accidentally-discovered-v8-rce/
+Description: Exploiting an Accidentally Discovered V8 RCE.
+
+URL: https://b.ou.is/articles/2020-05/CVE-2020-13693
+Description: Analysis of BBPress 2.6.5 Unauthenticated PE (CVE-2020-13693).
+
+URL: https://danielplohmann.github.io/blog/2020/07/10/kf-sandbox-necromancy.html
+Description: Casting Sandbox Necromancy on DADSTACHE.
+
+URL: https://unit42.paloaltonetworks.com/windows-server-containers-vulnerabilities/
+Description: Windows Server Containers Are Open, and Here’s How You Can Break Out.
+
+URL: https://www.karansaini.com/os-command-injection-v-sol/
+Description: Arbitrary OS command injection on V-SOL home routers (CVE-2020-8958).
+
+URL: https://www.matteomalvica.com/blog/2020/07/15/silencing-the-edr/
+Description: How to disable process, threads and image-loading detection callbacks.
+
+URL: https://blog.confiant.com/internet-explorer-cve-2019-1367-exploitation-part-1-7ff08b7dcc8b
+More: https://bit.ly/2CaAGEO (+) | https://bit.ly/32kTb3X (+)
+Description: Internet Explorer CVE-2019–1367 Exploitation.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://wizardzines.com/comics/
+Description: Programming Zines by Julia Evans.
+
+URL: https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/
+Description: Understanding and Decoding a JPEG Image using Python.
+
+URL: https://simone.computer/#/webdesktops
+Description: Curated list of portfolios which resemble desktop graphical user interfaces.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?20b638a98c14445b#p9qfuMaVu+UCUKCLilsszmLenZP1HJ4W/++2yh8JFCQ=
