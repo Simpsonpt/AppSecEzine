@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 30 | Month: July | Year: 2020 | Release Date: 24/07/2020 | Edition: #336  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3fT6PPC (+)
+Description: Fastjson - Exceptional deserialization vulnerabilities.
+
+URL: https://research.securitum.com/html-sanitization-bypass-in-ruby-sanitize-5-2-1/
+Description: HTML sanitization bypass in Ruby Sanitize < 5.2.1.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/matteyeux/pysep
+Description: Split 64 bits sep-firmware images in Python.
+
+URL: https://github.com/KathanP19/JSFScan.sh
+Description: Automation for javascript recon in bug bounty.
+
+URL: https://www.elttam.com/blog/lua-suid-shells/
+Description: How to make SUID Lua scripts not drop privileges.
+
+URL: https://osandamalith.com/2020/07/19/hacking-the-world-with-html/
+Description: Hacking the World with HTML.
+
+URL: https://github.com/jafarlihi/revp
+Description: Reverse HTTP proxy that works on Linux, Windows, and macOS.
+
+URL: https://github.com/nccgroup/depthcharge
+Blog: https://research.nccgroup.com/2020/07/22/depthcharge/
+Description: A U-Boot hacking toolkit for security researchers and tinkerers.
+
+URL: https://cronop-io.github.io/posts/binary%20analysis/2020-06-25-dreamchess_frida/
+Description: Instrumenting a Chess game with FЯIDA.
+
+URL: https://github.com/paranoidninja/Boomerang
+Description: Boomerang is a tool to expose multiple internal servers to web/cloud. 
+
+URL: https://github.com/Q4n/CVE-2020-1362
+Description: Exploiting an Elevation of Privilege bug in Windows 10 (CVE-2020-1362).
+
+URL: https://github.com/terjanq/Tiny-XSS-Payloads
+Description: A collection of tiny XSS Payloads that can be used in different contexts.
+
+URL: https://github.com/hlldz/dazzleUP
+Description: Tool to find Privilege Escalation vulnerabilities by missing windows updates.
+
+URL: https://www.scrawledsecurityblog.com/2020/07/bypassing-windows-defender-antivirus-in.html
+Description: Bypassing Windows Defender Antivirus in Windows Server 2016/2019.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://secfault-security.com/blog/chain3.html
+Description: Writing an iOS Kernel Exploit from Scratch.
+
+URL: https://bit.ly/3eYwCVk (+)
+Description: GraphQL - Common vulnerabilities & how to exploit them.
+
+URL: https://tonybaloney.github.io/posts/xss-exploitation-in-django.html
+Description: XSS Exploitation in Django Applications.
+
+URL: https://blog.syscall.party/post/tampering-with-zooms-anti-tampering-library/
+Description: Tampering with Zoom's Anti-Tampering Library.
+
+URL: https://dirkjanm.io/abusing-azure-ad-sso-with-the-primary-refresh-token/
+Description: Abusing Azure AD SSO with the Primary Refresh Token.
+
+URL: https://littlemaninmyhead.wordpress.com/2020/06/08/understanding-certificate-pinning/
+Description: Understanding Certificate Pinning.
+
+URL: https://talosintelligence.com/vulnerability_reports/TALOS-2020-1088
+Description: Mozilla Firefox URL mPath Information Disclosure Vulnerability (CVE-2020-12418).
+
+URL: https://bit.ly/2ZQHYq2 (+)
+Description: Remote Code Execution Against SharePoint Server Abusing DataSet (CVE-2020-1147).
+
+URL: https://accntu.re/2OOeJhc (+)
+Description: An exploitation case study of CVE-2020-1062, a use-after-free vulnerability in IE11.
+
+URL: https://medium.com/mycrypto/intercepting-and-saving-5-000-worth-of-phished-crypto-9d2d6db6c527
+Description: Intercepting and Saving $5,000 Worth of Phished Crypto.
+
+URL: https://medium.com/@NHinternesch/no-cookies-no-problem-using-etags-for-user-tracking-3e745544176b
+Description: No Cookies, No Problem — Using ETags For User Tracking.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://shelly.dev/
+Description: Shelly is a programming language for drawing.
+
+URL: https://osandamalith.com/2020/07/19/exploring-the-ms-dos-stub/
+Description: Exploring the MS-DOS Stub.
+
+URL: https://publiclab.org/notes/sashae/06-26-2020/diy-satellite-ground-station
+Description: How to receive NOAA Satellite images with SDR Radio.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?bbb6d09868737da3#ABFmVjkGm41IW/XPdshQiO8LGZ7t0yaXun5WIFMuSNw=
