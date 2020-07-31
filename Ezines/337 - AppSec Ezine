@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 31 | Month: July | Year: 2020 | Release Date: 31/07/2020 | Edition: #337  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.p6.is/Real-World-JS-1/
+Related: https://qiita.com/shellyln/items/af200a1953991de1698d
+Description: Unpatched NodeJS Prototype Pollution in express-fileupload.
+
+URL: https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system
+Description: Authorization bypass in Google’s ticketing system (Google-GUTS).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/devanshbatham/FavFreak
+Blog: https://link.medium.com/JfxP4600q8 
+Description: Weaponizing favicon.ico.
+
+URL: https://github.com/FSecureLABS/dref
+Description: DNS Rebinding Exploitation Framework.
+
+URL: https://github.com/antitree/keyctl-unmask
+Blog: https://bit.ly/2BNCgME (+)
+Description: Going Florida on container keyring masks.
+
+URL: https://github.com/alephsecurity/xnu-qemu-arm64
+Description: Boot a fully functional iOS system on QEMU.
+
+URL: https://github.com/rvrsh3ll/BOF_Collection
+Description: Various Cobalt Strike Beacon Object File (BOF).
+
+URL: https://github.com/hakluke/weaponised-XSS-payloads
+Description: XSS payloads designed to turn alert(1) into P1.
+
+URL: https://link.medium.com/OmCY6ggmx8 
+Description: Wayback Machine — A way forward in finding bugs.
+
+URL: https://soatok.blog/2020/05/05/putting-the-fun-in-hash-function/
+More: https://soatok.blog/2020/05/13/why-aes-gcm-sucks/
+Description: Putting the “Fun” in “Hash Function”.
+
+URL: https://shells.systems/in-memory-shellcode-decoding-to-evade-avs/
+Description: In-Memory shellcode decoding to evade AVs/EDRs.
+
+URL: https://github.com/nccgroup/winstrument
+Description: Modular framework to aid in instrumenting Windows software using Frida.
+
+URL: https://github.com/irsl/CVE-2020-1313
+Description: PoC exploit of Windows Update Orchestrator Service EoP (CVE-2020-1313).
+
+URL: https://nstarke.github.io/0036-decrypting-dlink-proprietary-firmware-images.html
+Description: Decrypting DLINK Proprietary Firmware Images.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://x64sec.sh/understanding-and-bypassing-amsi/
+Description: Understanding and Bypassing AMSI.
+
+URL: https://bit.ly/39Hz9SS (+)
+Description: JavaScript string concatenation deobfuscation.
+
+URL: https://link.medium.com/zJkGqDAHx8
+Description: VPNs are dead. Long Live Identity-Aware Proxies.
+
+URL: https://bit.ly/3ffSJXv (+)
+Description: Raining SYSTEM Shells with Citrix Workspace app.
+
+URL: https://link.medium.com/05o7akwxn8 
+Description: How I Removed my Forgotten BIOS Administrator Password.
+
+URL: https://link.medium.com/9CClLfu6s8 
+Description: Exploiting popular macOS apps with a single “.terminal” file.
+
+URL: https://itm4n.github.io/cve-2020-1170-windows-defender-eop/
+Description: Microsoft Windows Defender EoP Vulnerability (CVE-2020-1170).
+
+URL: https://raelize.com/posts/espressif-systems-esp32-bypassing-sb-using-emfi/
+Description: Espressif ESP32 - Bypassing Secure Boot using EMFI.
+
+URL: https://droptable.company/posts/exploiting-an-unexploitable-squirrelmail-bug/
+Description: Exploiting an 'Unexploitable' SquirrelMail Bug for File Disclosure.
+
+URL: https://link.medium.com/z27jPxjKu8 
+Description: Bypassing the OSX TCC Framework for unauthorized data access (CVE-2020–9934).
+
+URL: https://accntu.re/2EsPcs4 (+)
+Description: Exploiting an arbitrary file move in Symantec Endpoint Protection (CVE-2020-5825).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://bit.ly/3gep965 (+)
+Description: The Gigaleaks of Nintendo.
+
+URL: http://sandlab.cs.uchicago.edu/fawkes/
+Description: Image "Cloaking" for Personal Privacy.
+
+URL: https://hassamuddin.com/blog/reg-alloc/
+Description: A Quick Introduction to Register Allocation.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?2277473da8e3d0a0#LDSmeTYjalEZyoYHB8f2jmuT7dXMQvNlDlxji/mQrMo=
