@@ -1,0 +1,136 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 32 | Month: August | Year: 2020 | Release Date: 07/08/2020 | Edition: #338 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/761726
+Description: SOP bypass using browser cache.
+
+URL: https://a2nkf.github.io/unauthd_Logic_bugs_FTW/
+Description: Unauthd - Logic bugs FTW (CVE-2020–9854).
+
+URL: https://rhynorater.github.io/CVE-2020-13379-Write-Up
+Description: Unauthenticated Full-Read SSRF in Grafana (CVE-2020-13379).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/postrequest/xeca
+Description: PowerShell payload generator.
+
+URL: https://github.com/CheckPointSW/showstopper
+Related: https://anti-debug.checkpoint.com/
+Description: Anti-Debug tricks exploration tool.
+
+URL: https://github.com/cr0hn/festin
+Description: FestIn - S3 Bucket Weakness Discovery.
+
+URL: https://link.medium.com/63WCnMoYF8 
+Description: Kerberoasting - A Blue Team Perspective.
+
+URL: https://github.com/Blueliv/guloader-antivm-detection
+Blog: https://bit.ly/2DFHpa9 (+)
+Description: GuLoader AntiVM Detection Tool.
+
+URL: https://github.com/hvmi/hvmi
+Description: Hypervisor Memory Introspection Core Library.
+
+URL: https://github.com/0x36/ghidra_kernelcache
+Description: Ghidra iOS kernelcache framework for reverse engineering.
+
+URL: https://github.com/tokyoneon/Arcane
+Description: Arcane is a simple script designed to backdoor iOS packages.
+
+URL: https://github.com/ChendoChap/ps4-ipv6-uaf
+Description: "ipv6 uaf" kernel exploit for the PlayStation 4 on 6.70 - 6.72.
+
+URL: https://github.com/bridgecrewio/checkov
+Description: Checkov is a static code analysis tool for infrastructure-as-code.
+
+URL: https://modexp.wordpress.com/2020/07/31/wpi-cmdline-envar/
+Description: Windows Process Injection - Command Line and Environment Variables.
+
+URL: https://github.com/d4stiny/spectre
+Description: A Windows kernel-mode rootkit that abuses legitimate communication channels.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://br-sn.github.io/Removing-Kernel-Callbacks-Using-Signed-Drivers/
+PoC: https://github.com/br-sn/CheekyBlinder
+Description: Removing Kernel Callbacks Using Signed Drivers.
+
+URL: https://portswigger.net/research/web-cache-entanglement
+Description: Web Cache Entanglement - Novel Pathways to Poisoning.
+
+URL: http://muffsec.com/blog/?p=608
+Description: Rockwell Studio 5000 Logix Designer XXE to RCE vulnerability.
+
+URL: https://acru3l.github.io/2020/08/03/exploiting-activity-monitor-driver/
+Description: Exploiting SKYSEA Activity Monitor (CVE-2020-5617).
+
+URL: https://www.forrest-orr.net/post/malicious-memory-artifacts-part-i-dll-hollowing
+More: https://bit.ly/2C4d6cJ (+) | https://bit.ly/3gCwvQX (+)
+Description: Masking Malicious Memory Artifacts (Series).
+
+URL: http://blog.redxorblue.com/2020/07/one-click-to-compromise-fun-with.html
+Description: One Click to Compromise - Fun With ClickOnce Deployment Manifests.
+
+URL: https://github.com/renorobert/grub-bhyve-bugs
+Description: FreeBSD grub-bhyve bootloader VM escapes (CVE-2020-10565/CVE-2020-10566).
+
+URL: https://bit.ly/3a1PPEC (+)
+Description: Vulnerability in new TouchID put iCloud accounts at risk of being breached.
+
+URL: https://swarm.ptsecurity.com/openfire-admin-console/
+Description: Vulnerabilities in the Openfire Admin Console (CVE-2019-18394/CVE-2019-18393).
+
+URL: https://bit.ly/2C3BXgG (+)
+Description: Privilege Escalation in Google Cloud Platform's OS Login.
+
+URL: https://bit.ly/31pub9z (+)
+Description: Resolving Your Way into DA. Exploiting a 17 Year-old Bug in Windows DNS Servers.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://int10h.org/oldschool-pc-fonts/
+Description: The Ultimate Oldschool PC Font Pack.
+
+URL: https://justi.cz/security/2020/07/30/lcd-crypto.html
+Description: Fun with LCDs and Visual Cryptography.
+
+URL: https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/
+Description: Unbricking a $2,000 Bike With a $10 Raspberry Pi.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?c489e4b874db4ba0#2Uyk174pOW7KVhkZKef1hnKYQqnRkT47eCBNFsz0Kds=
