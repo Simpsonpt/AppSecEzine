@@ -1,0 +1,136 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 33 | Month: August | Year: 2020 | Release Date: 14/08/2020 | Edition: #339 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.p6.is/AST-Injection/
+Description: AST Injection, Prototype Pollution to RCE.
+
+URL:  https://link.medium.com/ypag9PnlJ8 
+Description: Blind SQL Injection at fasteditor.hema.com
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Ciphey/Ciphey
+Description: Automated decryption tool.
+
+URL: https://github.com/saeeddhqan/evine
+Description: Interactive CLI Web Crawler.
+
+URL: https://github.com/Ch0pin/medusa
+Description: Binary instrumentation framework based on FRIDA.
+
+URL: https://github.com/salesforce/cloudsplaining
+Description: Cloudsplaining is an AWS IAM Security Assessment tool.
+
+URL: https://www.errno.fr/OutlookDecrypt/OutlookDecrypt
+Description: Exporting Outlook Private Keys and decrypting S/MIME emails.
+
+URL: https://github.com/anthemtotheego/C_Shot
+Blog: http://blog.redxorblue.com/2020/07/cshot-just-what-doctor-ordered.html
+Description: Tool to download, inject, and execute shellcode in memory.
+
+URL: https://sensepost.com/blog/2020/ace-to-rce/
+Description: Abuse Access Control Entries (ACE) Misconfiguration in AD to RCE.
+
+URL: https://github.com/jthuraisamy/TelemetrySourcerer
+Description: Enumerate and disable common sources of telemetry used by AV/EDR.
+
+URL: https://github.com/Cisco-Talos/Barbervisor
+Blog: https://blog.talosintelligence.com/2020/08/barbervisor.html
+Description: Intel x86 bare metal hypervisor for researching snapshot fuzzing ideas.
+
+URL: https://github.com/arbitraryrw/supersu-patcher
+Blog: https://nikola.dev/posts/2020-08-10/creating_a_custom_root_by_patching_supersu
+Description: Patches the SuperSu binaries to evade common root detection techniques.
+
+URL: https://github.com/jmdx/TLS-poison/
+Description: Tool that allows for generic SSRF via TLS, as well as CSRF via image tags.
+
+URL: https://github.com/darvincisec/VirtualDynamicAnalysis
+Description: A basic Android pentest environment to instrument apps without root or repack.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.dylan.codes/defending-your-malware/
+PoC: https://github.com/bats3c/DefensiveInjector
+Description: Defending Your Malware.
+
+URL: https://revolte-attack.net/
+Description: Ea­ves­drop­ping En­cryp­ted LTE Calls With Re­VoL­TE.
+
+URL: https://silentbreaksecurity.com/adaptive-dll-hijacking/
+Description: Adaptive DLL Hijacking.
+
+URL: https://insomniasec.com/blog/ghostscript-cve-2020-15900
+Description: Ghostscript SAFER Sandbox Breakout (CVE-2020-15900).
+
+URL: https://puree.cc/
+Description: Password-based Uniform-Random-Equivalent Encryption.
+
+URL: https://blog.exploitee.rs/2020/exploiting-vbulletin-a-tale-of-patch-fail/
+Description: Exploiting vBulletin - "A Tale of a Patch Fail".
+
+URL: https://bit.ly/3fOQoDa (+)
+Description: How I bruteforced my way into your Active Directory (CVE-2020-11518).
+
+URL: https://gynvael.coldwind.pl/?id=732
+Description: Just another Null Byte Poison via Unicode variant (MuPDF mutool RCE).
+
+URL: https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitation/
+Description: Introduction to SpiderMonkey exploitation.
+
+URL: https://github.com/sslab-gatech/pwn2own2020
+Description: Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities.
+
+URL: https://symeonp.github.io/2020/12/08/phonebook-uaf-analysis.html
+Description: Discovery and analysis of a Windows PhoneBook UaF vulnerability (CVE-2020-1530).
+
+URL: https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/
+Description: Zoom Security Exploit – Cracking private meeting passwords.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/JF002/Pinetime
+Description: PineTime is a free and open source smartwatch.
+
+URL: https://github.com/mathiasbynens/small
+Description: Smallest possible syntactically valid files of different types.
+
+URL: https://blog.jonlu.ca/posts/reversing-lyft
+Description: Reversing Lyft’s ride history API to analyze 6 years worth of rides.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?c1d646806e69eca6#FXHzYm6vdRsooDabH29+CyGURmUEg5UIBfZ3Edm8Ax0=
