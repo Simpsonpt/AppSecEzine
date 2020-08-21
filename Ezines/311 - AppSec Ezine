@@ -97,6 +97,7 @@ URL: https://medium.com/@maxi./finding-and-exploiting-cve-2018-7445-f3103f163cc1
 Description: Finding and exploiting CVE-2018–7445 (Unauth RCE in MikroTik’s RouterOS SMB).
 
 URL: https://posts.specterops.io/attacking-azure-azure-ad-and-introducing-powerzure-ca70b330511a
+More: https://posts.specterops.io/attacking-azure-azure-ad-part-ii-5f336f36697d
 Description: Attacking Azure, Azure AD, and Introducing PowerZure.
 
 URL: https://www.mdsec.co.uk/2020/01/deep-dive-to-citrix-adc-remote-code-execution-cve-2019-19781/
