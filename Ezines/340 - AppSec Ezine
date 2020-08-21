@@ -1,0 +1,138 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 34 | Month: August | Year: 2020 | Release Date: 21/08/2020 | Edition: #340 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://abss.me/posts/fcm-takeover/
+Description: Firebase Cloud Messaging Service Takeover.
+
+URL: https://blog.redteam.pl/2020/08/rocket-chat-xss-rce-cve-2020-15926.html
+Description: Rocket.Chat XSS leading to Remote Code Execution (CVE-2020-15926).
+
+URL: https://bit.ly/3l48vcf (+)
+Description: Open Sesame - Escalating Open Redirect to RCE with Electron Code Review.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/litmuschaos/litmus
+Description: Cloud-Native Chaos Engineering.
+
+URL: https://github.com/blunderbuss-wctf/wacker
+Description: A WPA3 dictionary cracker.
+
+URL: https://swarm.ptsecurity.com/kerberoasting-without-spns/
+Description: Performing Kerberoasting without SPNs.
+
+URL: https://github.com/PrinceFPF/CVE-2019-0230
+More: https://wxn.qq.com/cmsid/20200816A03TC200
+Description: Apache Struts 2 CVE-2019-0230 (struts2-059) Exploit PoC.
+
+URL: https://pentestlab.blog/2018/07/04/dumping-domain-password-hashes/
+Description: Dumping Domain Password Hashes.
+
+URL: https://github.com/bcoles/kasld
+Description: Kernel Address Space Layout Derandomization (techniques dump).
+
+URL: https://github.com/wh1t3p1g/ysomap
+Description: A helpful Java Deserialization exploit framework based on ysoserial.
+
+URL: https://github.com/citcheese/ODBParser
+Description: ODBParser is a tool to search for PII being exposed in open databases.
+
+URL: https://github.com/trailofbits/sinter
+Description: A user-mode application authorization system for MacOS written in Swift.
+
+URL: https://github.com/1d8/spybrowse
+Description: Steal certain windows browsers configs files (history, preferences, etc).
+
+URL: https://github.com/RiccardoAncarani/DirSync-Poc
+Description: A PoC that uses the DirSync protocol to poll Active Directory for changes.
+
+URL: https://github.com/cytopia/urlbuster
+Description: Mutable web directory fuzzer/bruteforce existing and/or hidden files/folders.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.deteact.com/dql-injection/
+Description: Doctrine Query Language (DQL) injection.
+
+URL: https://blog.amossys.fr/spectre-v1-userland.html
+Description: Spectre V1 in userland.
+
+URL: https://mazinahmed.net/blog/hacking-zoom/
+Description: Hacking Zoom - Uncovering Tales of Security Vulnerabilities in Zoom.
+
+URL: https://bit.ly/2Q785n9 (+)
+Description: Sending SPF and DMARC passing mail as any Gmail or G Suite customer.
+
+URL: https://blog.silentsignal.eu/2020/08/17/unexpected-deserialization-pt-1-jms/
+Description: Unexpected Deserialization pt.1 - JMS.
+
+URL: https://jameshfisher.com/2020/08/06/smear-phishing-how-to-scam-an-android-user/
+Description: Smear phishing - a new Android vulnerability.
+
+URL: https://starlabs.sg/blog/2020/08/asuswrt-url-processing-stack-buffer-overflow/
+Description: ASUSWRT URL Processing Stack Buffer Overflow.
+
+URL: https://mp.weixin.qq.com/s/CRdDJeen-Zqc0RCnMr4kzQ
+More: https://link.medium.com/BK6kY8Ym08
+Description: Demystifying CVE-2020-1464 Windows file signature verification bypass.
+
+URL: https://sefod.eu/posts/web_proxies/
+Description: How to exfiltrate internal information using web proxies (CVE-2019-3635).
+
+URL: https://bit.ly/324wIX4 (+)
+Description: Windows AppX Deployment Service Local Privilege Escalation (CVE-2020-1488).
+
+URL: https://bit.ly/3aF9nPw (+)
+More: https://bit.ly/3ha5CUK (+)
+Description: Horde Groupware Webmail Edition 5.2.22 - Multiple vulnerabilities (CVE-2020-8865/6).
+
+URL: https://research.checkpoint.com/2020/dont-be-silly-its-only-a-lightbulb/
+Description: Don’t be silly – it’s only a lightbulb - ZigBee other-the-air exploit (CVE-2020-6007).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.taws.ch/WB.html
+Description: The Amiga Workbench Simulation.
+
+URL: https://richardjharris.github.io/unicode-in-five-minutes.html
+Description: Unicode In Five Minutes ⌚.
+
+URL: https://github.com/openbridge/ob_hacky_slack
+Description: Hacky Slack - a bash script that sends beautiful messages to Slack.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?28cf72b10e644ff9#IXUddqY5V1Sq3bgOI5jAN5hTKl/ZWqMkrzD9dPkj+eA=
