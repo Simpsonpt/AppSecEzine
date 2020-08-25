@@ -53,7 +53,7 @@ Related: https://github.com/platomav/CPUMicrocodes
 Description: Scripts to downgrade microcodes (used for analyzing CPU attacks).
 
 URL: https://github.com/jas502n/CVE-2020-5902
-More: https://www.criticalstart.com/f5-big-ip-remote-code-execution-exploit/
+More: https://bit.ly/32pMI61 (+) | https://swarm.ptsecurity.com/rce-in-f5-big-ip/
 Description: BIG-IP Remote Code Execution (CVE-2020-5902).
 
 URL: https://yasoob.me/posts/reverse-engineering-nike-run-club-using-frida-android/
