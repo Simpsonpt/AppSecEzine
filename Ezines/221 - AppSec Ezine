@@ -26,8 +26,9 @@ Description: DOM XSS in Google VRView library.
 '  Some Kung Fu Techniques.
 
 
-URL: https://github.com/caffix/amass
-Description: Subdomain Enumeration in Go.
+URL: https://github.com/OWASP/Amass
+More: https://link.medium.com/1nNXs2bQb9
+Description: In-depth Attack Surface Mapping and Asset Discovery.
 
 URL: https://github.com/deepzec/Bad-Pdf
 Description: Steal NTLM Hashes with Bad-PDF.
