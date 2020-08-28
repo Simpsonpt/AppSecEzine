@@ -1,0 +1,136 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 35 | Month: August | Year: 2020 | Release Date: 28/08/2020 | Edition: #341 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://swarm.ptsecurity.com/grafana-6-4-3-arbitrary-file-read/
+Description: Grafana <= 6.4.3 Arbitrary File Read (CVE-2019-19499).
+
+URL: https://www.ezequiel.tech/2020/08/dropping-shell-in.html
+Description: How to contact Google SRE - Dropping a shell in cloud SQL.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/cakinney/domained
+Description: Subdomain Enumeration.
+
+URL: https://bit.ly/2B39lUf (+)
+Description: Bypassing AppLocker Custom Rules.
+
+URL: https://github.com/bkerler/android_universal
+Description: Android Universal Boot Rooting Toolkit.
+
+URL: https://github.com/Hackndo/lsassy
+Blog: https://en.hackndo.com/remote-lsass-dump-passwords/
+Description: Extract credentials from lsass remotely.
+
+URL: https://github.com/GuidoBartoli/sherloq
+Description: An open-source digital image forensic toolset.
+
+URL: https://github.com/0xnobody/vmpattack
+Description: A full VMProtect static devirtualizer powered by VTIL.
+
+URL: https://github.com/rek7/ddoor
+Description: DDoor - Cross platform backdoor using dns txt records.
+
+URL: https://bit.ly/3lihZR4 (+)
+Description: Gaining access on an external engagement through spear-phishing.
+
+URL: https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html
+Description: Stealing local files using Safari Web Share API.
+
+URL: https://amsi.fail/
+More: https://blog.f-secure.com/hunting-for-amsi-bypasses/
+Description: AMSI.fail generates obfuscated PS snippets that break/disable AMSI.
+
+URL: https://github.com/Practical-Formal-Methods/storm
+Paper: https://numairmansur.github.io/STORM.pdf
+Description: A blackbox mutational fuzzer for detecting critical bugs in SMT solvers.
+
+URL: https://github.com/Cr4sh/s6_pcie_microblaze/tree/master/python/payloads/DmaBackdoorHv
+Description: Hyper-V backdoor Repository.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://back.engineering/post/battleye/
+Description: BattlEye BEDaisy Driver Research.
+
+URL: https://emvrace.github.io/
+Description: The EMV Standard - Break, Fix, Verify.
+
+URL: https://github.com/0xbigshaq/php7-internals
+Description: Research about the Zend Engine (PHP7 Internals).
+
+URL: https://bit.ly/34HaVYm (+)
+Tool: https://github.com/cyberark/kubeletctl
+Description: Using Kubelet Client to Attack the Kubernetes Cluster.
+
+URL: https://connormcgarr.github.io/examining-xfg/
+Description: Between a Rock and a (Xtended Flow) Guard Place - Examining XFG.
+
+URL: https://www.comae.com/posts/2020-08-12_azure-sphere-internals-overview/
+Description: Azure Sphere Internals - Overview.
+
+URL: https://www.redtimmy.com/docker/a-tale-of-escaping-a-hardened-docker-container/
+Description: A Tale of Escaping a Hardened Docker container.
+
+URL: https://zerosum0x0.blogspot.com/2020/08/sassykitdi-kernel-mode-tcp-sockets.html
+Description: SassyKitdi - Kernel Mode TCP Sockets + LSASS Dump.
+
+URL: https://bit.ly/3lpzaQQ (+)
+Description: FireWalker - A New Approach to Generically Bypass User-Space EDR Hooking.
+
+URL: https://adsecurity.org/?p=4277
+Description: From Azure AD to Active Directory (via Azure) – An Unanticipated Attack Path.
+
+URL: https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html
+Description: Never Run ‘python’ In Your Downloads Folder.
+
+URL: https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/
+Description: RCE in Pulse Connect Secure (CVE-2020-8218).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://silentprotest.io/
+Description: DIY Wearable Protest & Disco Network.
+
+URL: https://tailscale.com/blog/how-nat-traversal-works/
+Description: How NAT traversal works.
+
+URL: https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals
+Description: Hiding messages in x86 binaries using semantic duals.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?0e2fee06698ee9b5#Dd8m482caGPIfaTV7wTESjUNxXdZ4DDTXis8zBFq8B4=
