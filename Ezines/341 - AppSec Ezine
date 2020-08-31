@@ -107,6 +107,7 @@ URL: https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-
 Description: Never Run ‘python’ In Your Downloads Folder.
 
 URL: https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/
+PoC: https://github.com/withdk/pulse-gosecure-rce-poc
 Description: RCE in Pulse Connect Secure (CVE-2020-8218).
 
 
