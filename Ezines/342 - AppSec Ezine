@@ -1,0 +1,139 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 36 | Month: September | Year: 2020 | Release Date: 04/09/2020 | Edition: #342 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/783877
+Description: Remote Code Execution in Slack Desktop Application.
+
+URL: https://hackerone.com/reports/512065
+Description: DOM XSS triggered in secure support desk via Webscokets.
+
+URL: https://bit.ly/3hTRP52 (+)
+Related: https://bit.ly/2Gr2MNL (+)
+Description: Prototype pollution - and bypassing client-side HTML sanitizers.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/bookingcom/bpfink
+Description: bpfink (BPF based FIM solution).
+
+URL: https://www.guitmz.com/running-elf-from-memory/
+Description: Running ELF executables from memory.
+
+URL: https://github.com/guidepointsecurity/RedCommander
+Blog: https://bit.ly/32NJg5y (+)
+Description: Red Team C2 Infrastructure built in AWS using Ansible!
+
+URL: https://github.com/anchore/grype
+Description: A vulnerability scanner for container images and filesystems.
+
+URL: https://s3cur3th1ssh1t.github.io/Bypass_AMSI_by_manual_modification/
+Description: Bypass AMSI by manual modification.
+
+URL: https://github.com/iPower/KasperskyHook/
+Description: Hook system calls on Windows by using Kaspersky's hypervisor.
+
+URL: https://github.com/FSecureLABS/N1QLMap
+More: https://bit.ly/2DprhJY (+)
+Description: Tool to exfiltrate data from Couchbase DB by exploiting N1QL Injections.
+
+URL: https://github.com/tokyoneon/Chimera
+Description: PS obfuscation script to bypass AMSI and commercial antivirus solutions.
+
+URL: https://github.com/rgeoghan/app-password-persistence
+Description: Using MS365 app passwords for persistent access to a compromised account.
+
+URL: https://github.com/l4yton/js-parse
+Description: Parse JS files to find - subdomains, relative urls, parameters, and more.
+
+URL: https://github.com/davidprowe/BadBlood
+Description: Fills a MS Active Directory Domain with a structure and thousands of objects.
+
+URL: https://github.com/chaitin/xray
+Description: Security assessment tool to scan common web security issues and custom PoC.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/Y4VSyxNKt9
+Description: Attacking the Golden Ring on AMD Mini-PC.
+
+URL: https://itm4n.github.io/dotnet-sdk-eop/
+Description: Windows .Net Core SDK Elevation of Privilege.
+
+URL: https://link.medium.com/6MgBDCkWb9
+Description: Demystifying Insecure Deserialization in PHP.
+
+URL: https://link.medium.com/2EtWy6Pni9 
+Description: Exploring the Ubiquiti UniFi Cloud Key Gen2 Plus.
+
+URL: https://teamhydra.blog/2020/08/25/bypassing-credential-guard/
+Description: Bypassing Credential Guard.
+
+URL: https://wumb0.in/extracting-and-diffing-ms-patches-in-2020.html
+Description: Extracting and Diffing Windows Patches in 2020.
+
+URL: https://www.blackhillsinfosec.com/reverse-engineering-a-smart-lock/
+Description: Reverse Engineering a Smart Lock.
+
+URL: https://link.medium.com/OlNBvkGKt9 
+Description: DHCP starvation attack without making any DHCP requests.
+
+URL: https://nickbloor.co.uk/2020/08/21/x-cart-5/
+Description: X-Cart 5 <= 5.4.0.12/5.4.1.7 Unauthenticated RCE via File Write.
+
+URL: https://bit.ly/32UdG6g (+)
+Description: PE in AWS EKS by compromising the instance role of worker nodes.
+
+URL: https://bit.ly/32SxdE3 (+)
+Description: Learning About Structure-Aware Fuzzing and Finding JSON Bugs to Boot.
+
+URL: https://ipc-research.readthedocs.io/en/latest/subpages/RPC.html
+Description: A Voyage to Uncovering Telemetry - Identifying RPC Telemetry for Detection Engs.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://herbie.uwplse.org/
+Related: https://float.exposed/
+Description: Find and fix floating-point problems.
+
+URL: https://gitlab.com/mschmidl/covidsniffer
+Description: CovidApp Sniffer using an ESP32 based M5-STACK.
+
+URL: https://github.com/felixrieseberg/macintosh.js
+Description: A virtual Apple Macintosh with System 8, running in Electron.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?43d641157976d818#6GVNbNY/Yw8Rz9tQURIQYet8PwEIP9HxD1z1MrOZEMY=
