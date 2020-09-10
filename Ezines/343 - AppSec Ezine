@@ -1,0 +1,139 @@
+1 █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 37 | Month: September | Year: 2020 | Release Date: 11/09/2020 | Edition: #343 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/867513
+Description: Takeover an account that doesn't have a Shopify ID and more.
+
+URL: https://www.ehpus.com/post/xss-fix-bypass-10000-bounty-in-google-maps
+Description: XSS -> Fix -> Bypass - 10k$ Bounty in Google Maps.
+
+URL: https://payatu.com/blog/nikhil-mittal/my-hacking-adventures-with-safari-reader-mode
+Description: My Hacking Adventures With Safari Reader Mode.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/paralax/awesome-honeypots
+Description: An awesome list of honeypot resources.
+
+URL: https://swarm.ptsecurity.com/ida-pro-tips/
+Description: IDA Pro Tips to Add to Your Bag of Tricks.
+
+URL: https://github.com/veggiedefender/browsertunnel
+Description: Surreptitiously exfiltrate data from the browser over DNS.
+
+URL: https://github.com/DerekSelander/yacd
+Description: Decrypts FairPlay applications on iOS 13.4.1 and lower, no JB required.
+
+URL: https://github.com/AmyangXYZ/AssassinGo
+Description: An extensible and concurrency pentest framework in Go, also with WebGUI.
+
+URL: https://github.com/jellever/StreamDivert
+Blog: https://bit.ly/3iiUdCG (+)
+Description: Redirecting (specific) TCP, UDP and ICMP traffic to another destination.
+
+URL: https://github.com/aaaguirrep/offensive-docker-vps
+Description: Create a VPS on GCP or Digital Ocean easily with Offensive Docker included.
+
+URL: https://github.com/jsoverson/hackium
+Blog: https://medium.com/@jsoverson/introducing-hackium-723790c00d03
+Description: CLI tool, a browser, and a platform for analyzing and manipulating web sites.
+
+URL: https://github.com/redballoonshenanigans/monitordarkly
+Description: Poc, Presentation of Monitor OSD Exploitation, and shenanigans of high quality.
+
+URL: https://docs.google.com/document/d/1S4jU7knBG_Km_AdHXf8JyE8zl0SOxQ9VvYFPanQy1g8/preview
+Description: Lock screen/Bitlocker bypass/elevation of privilege in Bitlocker.
+
+URL: https://github.com/corneliusweig/rakkess
+Description: Review Access - Kubectl plugin to show an access matrix for k8s server resources.
+
+URL: https://github.com/iknowjason/PurpleCloud
+Description: An Infrastructure as Code (IaC) deployment of a small Active Directory pentest lab.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bit.ly/3bSrF0w (+)
+More: https://bit.ly/2Zptpcl (+) | https://bit.ly/3hg0hus (+)
+Description: ARM64 Reversing and Exploitation Series.
+
+URL: https://www.randorisec.fr/activid-vulnerabilities/
+Description: HID ActivID Mobile Soft Token Vulnerabilities.
+
+URL: https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack
+Description: Hacking Ethernet out of Fibre Channel cards.
+
+URL: https://github.com/veracode-research/spring-view-manipulation/
+Description: Spring View Manipulation Vulnerability.
+
+URL: https://confused.ai/posts/intercepting-zoom-tls-encryption-bpf-uprobes
+Description: Intercepting Zoom's encrypted data with BPF.
+
+URL: https://www.mnemonic.no/blog/abusing-dynamic-groups-in-azure/
+Description: Abusing dynamic groups in Azure AD for privilege escalation.
+
+URL: https://www.hackersforchange.com/post/maltego-cve-2020-24656-analysis
+Description: Maltego CVE-2020-24656 Analysis.
+
+URL: https://labs.ioactive.com/2020/09/breaking-electronic-baggage-tags.html
+Description: Breaking Electronic Baggage Tags - Lufthansa vs British Airways.
+
+URL: https://www.ezequiel.tech/2020/08/leaking-google-cloud-projects.html
+Description: Auth bypass - Leaking Google Cloud service accounts and projects.
+
+URL: https://www.gosecure.net/blog/2020/09/03/wsus-attacks-part-1-introducing-pywsus/
+More: https://bit.ly/3k5igFM (+)
+Description: WSUS Attacks Series - (CVE-2020-1013).
+
+URL: https://www.0x90.zone/binary/reverse/exploitation/2020/08/16/CoreFTPServerRCE.html
+Description: Unauthenticated Remote Code Execution/DoS on CoreFTP Server.
+
+URL: https://bit.ly/3hiXxw4 (+)
+Description: Abusing Shared Mem. to LPE on the Schneider E. Modbus Serial Driver (CVE-2020-7523).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://skins.webamp.org/
+Description: Winamp Skin Museum.
+
+URL: https://dylanpindur.com/blog/padding-oracles-an-animated-primer/
+Description: Padding Oracles - An Animated Primer.
+
+URL: https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking
+Description: The Hash Monster - ESP32 Tamagotchi For WiFi Cracking.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?b799454db1344e36#Mq9KhHFDwsCkR6MOh+BLKld6sYXwGyxb25z6DVauug8=
