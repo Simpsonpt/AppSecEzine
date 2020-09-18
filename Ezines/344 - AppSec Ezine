@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 38 | Month: September | Year: 2020 | Release Date: 18/09/2020 | Edition: #344 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3iEGSow (+)
+Description: h2c Smuggling - Request Smuggling Via HTTP/2 Cleartext (h2c).
+
+URL: https://blog.orange.tw/2020/09/how-i-hacked-facebook-again-mobileiron-mdm-rce.html
+PoC: https://github.com/iamnoooob/CVE-Reverse/tree/master/CVE-2020-15505
+Description: How I Hacked Facebook Again! Unauthenticated RCE on MobileIron MDM.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/mnemonic-no/SNIcat
+Description: SNIcat (Server Name Indication Concatenator).
+
+URL: https://github.com/0vercl0k/symbolizer
+Description: A fast execution trace symbolizer for Windows.
+
+URL: https://github.com/0ffffffffh/dragondance
+Description: Binary code coverage visualizer plugin for Ghidra.
+
+URL: https://github.com/artsploit/rogue-jndi
+Description: A malicious LDAP server for JNDI injection attacks.
+
+URL: https://byte.how/posts/collaborative-reverse-engineering/
+Description: Collaborative Reverse Engineering with Ghidra Server.
+
+URL: https://github.com/daxAKAhackerman/XSS-Catcher
+Description: Find blind XSS but why not gather data while you're at it.
+
+URL: https://github.com/yardenshafir/MitigationFlagsCliTool
+Description: Prints mitigation policy information for processes in a dump file.
+
+URL: https://github.com/jackullrich/memfuck
+Blog: https://winternl.com/memfuck/
+Description: A PoC designed to bypass all usermode hooks in a WoW64 environment.
+
+URL: https://github.com/dirkjanm/CVE-2020-1472 
+Paper: https://bit.ly/3mtmrwZ (+) | https://github.com/SecuraBV/CVE-2020-1472
+Description: Unauth Domain Controller Compromise - Zerologon PoC (CVE-2020-1472).
+
+URL: https://github.com/two06/EvtMute
+Description: Apply a filter to the events being reported by windows event logging.
+
+URL: https://github.com/checkymander/Zolom
+Description: C# Exe with embedded Python that can be used reflectively to run py code.
+
+URL: https://docs.google.com/document/d/1sRrftambp4gz4koVX1Qs1l1ODDFTp1eUd6j6NvmCt1U/preview
+Description: Group policy client service - Insecure file operations causing EoP.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://nickbloor.co.uk/2017/08/13/attacking-java-deserialization/
+Description: Attacking Java Deserialization.
+
+URL: https://bit.ly/2RDiQy5 (+)
+Description: Using Intel PT for Vulnerability Triaging with IPTAnalyzer.
+
+URL: https://friends.cs.purdue.edu/pubs/WOOT20.pdf
+More: https://www.youtube.com/watch?v=wIWZaSZsRc8
+Description: Spoofing Attacks against Reconnections in Bluetooth Low Energy (BLESA).
+
+URL: https://bit.ly/32H7mQK (+)
+Description: Oracle VirtualBox VHWA Use-After-Free Privilege Escalation Vulnerability.
+
+URL: https://link.medium.com/aG1FgC8kR9
+Description: Hacking Cisco SD-WAN vManage 19.2.2 — From CSRF to Remote Code Execution.
+
+URL: https://bit.ly/3hBmsLz (+)
+Description: Java BoF w/ ByteBuffer (CVE-2020-2803) and Mutable MethodType (CVE-2020-2805).
+
+URL: https://kojenov.com/2020-09-15-hisilicon-encoder-vulnerabilities/
+Description: Backdoors and other vulnerabilities in HiSilicon based hardware video encoders.
+
+URL: https://www.researchinnovations.com/post/bypassing-the-upcoming-safe-linking-mitigation
+Description: Bypassing the upcoming Safe Linking mitigation.
+
+URL: https://securitylab.github.com/research/octopus-scanner-malware-open-source-supply-chain
+Description: The Octopus Scanner Malware - Attacking the open source supply chain.
+
+URL: https://www.secjuice.com/xss-arithmetic-operators-chaining-bypass-sanitization/
+Description: XSS - Arithmetic Operators & Optional Chaining To Bypass Filters & Sanitization.
+
+URL: https://www.synacktiv.com/en/publications/dji-android-go-4-application-security-analysis.html
+Description: DJI Android GO 4 application security analysis.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/gnebbia/kb/
+Description: A minimalist knowledge base manager.
+
+URL: https://github.com/solar-wine/tools-for-hack-a-sat-2020
+Description: Did you ever want to run a satellite firmware in a VM?
+
+URL: https://bit.ly/3mxi5VK (+)
+Description: When you browse Instagram and find former Australian PM passport number.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?e9bacc0cef9ae77c#XcqVEY89k9ZWjY7xMKEOxG/aWJI42Ws6H+dJMBrARlw=
