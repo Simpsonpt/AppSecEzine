@@ -1,0 +1,136 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 39 | Month: September | Year: 2020 | Release Date: 25/09/2020 | Edition: #345 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3kLKPsc (+)
+Description: Exploiting Acronis Cyber Backup for Fun and Emails (CVE-2020-16171).
+
+URL: https://www.digeex.de/blog/tinytinyrss/
+Description: Exploiting Tiny Tiny RSS (CVE-2020-25787, CVE-2020-25788, CVE-2020-25789).
+
+URL: https://portswigger.net/research/redefining-impossible-xss-without-arbitrary-javascript
+Description: Redefining Impossible - XSS without arbitrary JavaScript.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/CERT-Polska/hfinger
+Description: Hfinger - fingerprinting HTTP requests.
+
+URL: https://github.com/gellin/bantam
+Description: A PHP backdoor management and generation tool.
+
+URL: https://github.com/BitTheByte/Monitorizer
+Description: The ultimate subdomain monitorization framework.
+
+URL: https://rev.ng/blog/fuzzing/post.html
+Description: Fuzzing binaries with LLVM's libFuzzer and rev.ng.
+
+URL: https://github.com/siemens/fluffi
+Description: A distributed evolutionary binary fuzzer for pentesters.
+
+URL: https://theevilbit.github.io/shield/
+Description: Shield - An app to protect against process injection on macOS.
+
+URL: https://github.com/blackarrowsec/wappy
+Description: Discover web technologies in web applications from your terminal.
+
+URL: https://github.com/r3nhat/GRAT2
+Description: We developed GRAT2 Command & Control (C2) project for learning purpose.
+
+URL: https://github.com/httptoolkit/httptoolkit
+Description: Open-source tool with one-click MitM, inspecting & rewriting of HTTP(S).
+
+URL: https://github.com/DOWRIGHTTV/dnxfirewall
+Description: Pure Python next generation firewall built on top of Linux kernel/netfilter.
+
+URL: https://github.com/dwisiswant0/go-stare
+Description: Fast&light web screenshot w/out headless browser but Chrome DevTools Protocol!
+
+URL: https://github.com/hackerschoice/gsocket
+Description: Global Socket. Moving data from here to there. Securely, Fast and trough NAT/FW.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://dozer.nz/posts/aruba-clearpass-rce
+Description: Aruba Clearpass RCE (CVE-2020-7115).
+
+URL: https://bit.ly/2Hlqong (+)
+Description: How I bypassed Cloudflare's SQL Injection filter.
+
+URL: https://gist.github.com/CTurt/a00fb4164e13342567830b052aaed94b
+Description: FreeBSD UDF driver info leak.
+
+URL: https://link.medium.com/rNSUIOuRV9 
+Description: One Part Steganography, Four Redirectors, and a Splash of C2!
+
+URL: https://link.medium.com/WGg3hjUk19
+Description: Combining Hadoop and MCollective for total network compromise.
+
+URL: https://ti.dbappsecurity.com.cn/blog/index.php/2020/09/18/cve-2020-0968/
+Description: Detailed Analysis of the JScript Vulnerability (CVE-2020-0968).
+
+URL: https://www.trustedsec.com/blog/macos-injection-via-third-party-frameworks/
+Description: MacOS Injection via Third-Party Frameworks.
+
+URL: https://cybergibbons.com/reverse-engineering-2/brute-forcing-device-passwords/
+Description: Brute forcing device passwords.
+
+URL: https://rhinosecuritylabs.com/gcp/privilege-escalation-google-cloud-platform-part-1/
+More: https://bit.ly/2Eu3Dwo (+)
+Description: Privilege Escalation in Google Cloud Platform.
+
+URL: https://blog.sonarsource.com/pandora-fms-742-critical-code-vulnerabilities-explained
+Description: Pandora FMS 742 - Critical Code Vulnerabilities Explained.
+
+URL: https://labs.ioactive.com/2020/09/no-buffers-harmed-rooting-sierra.html
+Description: No buffers harmed - Rooting Sierra Wireless AirLink devices through logic bugs.
+
+URL: https://raelize.com/posts/espressif-esp32-bypassing-encrypted-secure-boot-cve-2020-13629/
+Description: Espressif ESP32 - Bypassing Encrypted Secure Boot (CVE-2020-13629).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/xyzzy/qrpicture
+Description: Photo realistic QR codes.
+
+URL: http://jhurani.com/networking/2017/10/15/smurf-the-legend.html
+Description: smurf.c - The first DDoS attack tool (20th Anniversary).
+
+URL: https://syfuhs.net/what-happens-when-you-type-your-password-into-windows
+Description: What Happens When you Type Your Password into Windows?
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?cd330e1891519f47#eDA5XPrPzh5DS6Fjqfw/7SRdFzDjj9EtOqmNUOS0K6s=
