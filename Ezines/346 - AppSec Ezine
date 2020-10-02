@@ -1,0 +1,139 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 40 | Month: October | Year: 2020 | Release Date: 02/10/2020 | Edition: #346 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/33kyDso (+)
+Description: Firefox for Android LAN-Based Intent Triggering.
+
+URL: https://bit.ly/2SfpdYG (+)
+Description: XSS to Cloud Shell instance takeover (RCE as root).
+
+URL: https://hackerone.com/reports/986386
+Description: Reflected XSS on www.hackerone.com via Wistia embed code.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/steeve85/tfviz
+Description: Visualize your Terraform files.
+
+URL: https://github.com/corkami/mitra
+Description: A generator of binary polyglots.
+
+URL: https://github.com/linhlhq/TinyAFL
+Description: TinyAFL is built on top of AFL and TinyInst.
+
+URL: https://blog.nody.cc/posts/container-breakouts-part1/
+More: https://bit.ly/2ShVPRW (+) | https://bit.ly/3l689Rk (+)
+Description: Container Breakouts Series.
+
+URL: https://carlo.marag.no/posts/undocumented-fastboot-oem/
+Description: Undocumented Fastboot Oem Commands.
+
+URL: https://www.solomonsklash.io/smaller-c-payloads-on-windows.html
+Description: Smaller C Payloads on Window (Malware Development).
+
+URL: https://github.com/STMSolutions/RmiTaste
+Description: Tool to detect, enumerate, interact and attack RMI services.
+
+URL: https://www.gremwell.com/firefox-xss-302
+Description: Forcing Firefox to Execute XSS Payloads during 302 Redirects.
+
+URL: https://github.com/moonD4rk/HackBrowserData
+Description: Decrypt passwords/cookies/history/bookmarks from the browser.
+
+URL: https://github.com/dafthack/MFASweep
+Blog: https://bit.ly/34kymFj (+)
+Description: A tool for checking if MFA is enabled on multiple Microsoft Services.
+
+URL: https://www.a12d404.net/windows/2019/10/30/schedsvc-persist-without-task.html
+Description: Persistence using Task Scheduler without a Scheduled Task.
+
+URL: https://github.com/muraenateam/necrobrowser
+Description: Necrobrowser is browser instrumentation for necromantic session control.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/ItPapwxY29 
+Description: Pentest discoveries on EyesOfNetwork.
+
+URL: https://link.medium.com/5bKLfoen39 
+Description: AWS IAM explained for Red and Blue teams.
+
+URL: http://rcvalle.blog/2020/09/16/rust-lang-exploit-mitigations/
+Description: Rust programming language exploit mitigations.
+
+URL: https://blogs.oracle.com/linux/cve-2020-10713-grub2-boothole
+More: https://blog.vulcan.io/boothole-vulnerability-cve-2020-10713
+Description: An inside look at CVE-2020-10713, a.k.a. the GRUB2 "BootHole".
+
+URL: https://decoded.avast.io/martinhron/the-fresh-smell-of-ransomed-coffee/
+Description: The Fresh Smell of ransomed coffee (CVE-2020-15501).
+
+URL: https://link.medium.com/LDTHrBok69 
+Description: Demystifying the "SVCHOST.EXE" Process and Its Command Line Options.
+
+URL: https://www.matteomalvica.com/blog/2020/09/24/weaponizing-cve-2020-17382/
+Description: Kernel exploitation - Weaponizing CVE-2020-17382 MSI Ambient Link driver.
+
+URL: https://vnhacker.blogspot.com/2020/09/advisory-security-issues-in-aws-kms-and.html
+Description: Security issues in AWS KMS and AWS Encryption SDKs.
+
+URL: https://ssd-disclosure.com/ssd-advisory-php-spldoublylinkedlist-uaf-sandbox-escape/
+Description: PHP SplDoublyLinkedList UAF Sandbox Escape.
+
+URL: https://link.medium.com/iZEvPYI789 
+Description: Taking down the SSO, Account Takeover in Kolesa due to Insecure JSONP Call.
+
+URL: https://link.medium.com/3BVeJXL6bab
+More: https://link.medium.com/u82AljGHeab 
+Description: Exploiting AWS IAM permissions for total cloud compromise - a real world example.
+
+URL: https://hexhive.epfl.ch/BLURtooth/
+Description: Exploiting Cross-Transport Key Derivation in BT Classic and BLE (CVE-2020-15802).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://3os.org/raspberryPi/TOR-Pi/
+Description: TorPi - Raspberry Pi Tor Access Point.
+
+URL: https://tedium.co/2020/09/25/ftp-internet-history/
+Description: FTP Fadeout.
+
+URL: https://github.com/SerenityOS/serenity
+Description: Graphical Unix-like operating system for x86 computers.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?5451d7374a2becfc#qiLsh+yrbbia5WZuwYQDGrDMSd/tMIYiCifqeZDoI6E=
