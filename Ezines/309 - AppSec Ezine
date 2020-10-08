@@ -70,7 +70,8 @@ Description: Bypass a null byte in a POP-POP-RETN address during local SEH explo
 '  All about security issues.
 
 
-URL: http://windows-internals.com/cet-on-windows/
+URL: https://windows-internals.com/cet-on-windows/
+More: https://windows-internals.com/cet-updates-cet-on-xanax/
 Description: R.I.P ROP - CET Internals in Windows 20H1.
 
 URL: http://bit.ly/2NxAz8G (+)
