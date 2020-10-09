@@ -1,0 +1,138 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 41 | Month: October | Year: 2020 | Release Date: 09/10/2020 | Edition: #347 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/982202
+Description: SQLi in login form in U.S. Dept Of Defense.
+
+URL: https://link.medium.com/FpB7Xskfgab
+Description: Arbitrary code execution on Facebook for Android through download feature.
+
+URL: https://medium.com/@ricardoiramar/the-powerful-http-request-smuggling-af208fafa142
+Description: The Powerful HTTP Request Smuggling.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Charlie-belmer/nosqli
+Description: NoSQL scanner and injector.
+
+URL: https://github.com/slyd0g/SharpCrashEventLog
+Description: C# port of LogServiceCrash.
+
+URL: https://github.com/Alan32Liu/Legion
+Description: A coverage-based software testing tool.
+
+URL: https://github.com/mxrch/ghunt
+Description: Investigate Google Accounts with emails.
+
+URL: https://github.com/mindcrypt/uriDeep
+Description: Unicode encoding attacks with machine learning.
+
+URL: https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet
+Description: THC's favourite Tips, Tricks & Hacks (Cheat Sheet).
+
+URL: https://btlr.dev/blog/how-to-find-vulnerabilities-in-code-bad-words
+Description: How to Find Vulnerabilities in Code: Bad Words.
+
+URL: https://githacks.org/xerox/voyager
+Description: Hyper-V Hacking Framework For Windows 10 x64 (AMD & Intel).
+
+URL: https://github.com/lexfo/rpc2socks
+Description: Post-exploit tool that enables a SOCKS tunnel via a Windows host.
+
+URL: https://quentinkaiser.be//exploitdev/2020/09/23/ghetto-patch-diffing-cisco/
+Description: Ghetto Patch Diffing a Cisco RV110W Firmware Update.
+
+URL: https://github.com/ninoseki/rogue_one
+Description: Tool to check maliciousness of a DNS server and extracting landing pages.
+
+URL: https://github.com/utkusen/shotlooter
+Description: Tool that finds sensitive data inside the screenshots uploaded to prnt.sc.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://adepts.of0x.cc/leostream-xss-to-rce/
+Description: A brief encounter with Leostream Connect Broker.
+
+URL: https://www.elttam.com/blog/key-recovery-attacks-on-gcm/
+Description: Attacks on GCM with Repeated Nonces.
+
+URL: https://bit.ly/30IjDmg (+)
+Description: How I automated McDonalds FriesHit game to win free iPhones.
+
+URL: https://hdevalence.ca/blog/2020-10-04-its-25519am
+Description: It’s 255:19AM. Do you know what your validation criteria are?
+
+URL: https://alesandroortiz.com/articles/uxss-android-webview-cve-2020-6506/
+More: https://hackerone.com/reports/906433
+Description: Universal XSS in Android WebView (CVE-2020-6506).
+
+URL: https://blog.zimperium.com/c0ntextomy-lets-debug-together-cve-2020-9992/
+PoC: https://github.com/c0ntextomy/c0ntextomy
+Description: c0ntextomy – Let’s Debug Together - CVE-2020-9992.
+
+URL: https://blog.whtaguy.com/2020/09/utorrent-cve-2020-8437-vulnerability.html
+Description: uTorrent CVE-2020-8437 Vulnerability And Exploit Overview.
+
+URL: https://swapcontext.blogspot.com/2020/10/uacme-35-wd-and-ways-of-mitigation.html
+Description: UACMe 3.5, WD and the ways of mitigation.
+
+URL: https://undev.ninja/sysmon-internals-from-file-delete-event-to-kernel-code-execution/
+PoC: https://github.com/NtRaiseHardError/Sysmon
+Description: Sysmon Internals - From File Delete Event to Kernel Code Execution.
+
+URL: https://wooyun.js.org/drops/%E7%9F%AD%E5%9F%9F%E5%90%8D%E8%BF%9B%E5%8C%96%E5%8F%B2.html
+Description: The evolution of short domain names.
+
+URL: https://bit.ly/34EBLij (+)
+Description: Code Execution Vulnerability in Instagram App for Android and iOS (CVE-2020-1895).
+
+URL: https://bit.ly/33EvCTN (+)
+Description: Dissecting Two D-Link Router Authentication Bypasses (CVE-2020-8863/CVE-2020-8864).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://binvis.io/
+Description: Visual analysis of binary files.
+
+URL: https://blog.cmpxchg8b.com/2020/07/you-dont-need-sms-2fa.html
+Description: You don’t need SMS-2FA.
+
+URL: https://sensepost.com/blog/2020/building-a-hipster-aware-pi-home-server/
+Description: Building a hipster-aware PI home server.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?d27265301502e082#PM2x3urqVFrKvqkRlVWuK+5jE3zhGXcRlVhlkIkXRGE=
