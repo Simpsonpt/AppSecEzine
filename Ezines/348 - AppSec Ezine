@@ -1,0 +1,137 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 42 | Month: October | Year: 2020 | Release Date: 16/10/2020 | Edition: #348 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://samcurry.net/hacking-apple/
+Description: We Hacked Apple for 3 Months - Here's What We Found.
+
+URL: https://research.securitum.com/mutation-xss-via-mathml-mutation-dompurify-2-0-17-bypass/
+More: https://www.youtube.com/watch?v=d_ppFJLd6-M
+Description: Mutation XSS via namespace confusion – DOMPurify < 2.0.17 bypass.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/moohax/xllpoc
+Description: Code Exec via Excel.
+
+URL: https://github.com/topjohnwu/Magisk
+Description: The Magic Mask for Android.
+
+URL: https://github.com/quarkslab/binbloom
+Description: Raw binary firmware analysis software.
+
+URL: https://github.com/iphelix/pack
+Description: PACK (Password Analysis and Cracking Kit).
+
+URL: https://github.com/kov4l3nko/MEDUZA
+Description: A more or less universal SSL unpinning tool for iOS.
+
+URL: https://cujo.com/reverse-engineering-go-binaries-with-ghidra
+Description: Reverse Engineering Go Binaries with Ghidra.
+
+URL: https://github.com/ail-project/ail-framework
+Description: AIL framework - Analysis Information Leak framework.
+
+URL: https://o365blog.com/post/phishing/
+Description: Phishing technique for compromising Office 365 accounts.
+
+URL: https://github.com/Matrix86/driplane
+Description: Create automated tasks and keep an eye on interesting things!
+
+URL: https://github.com/m4yfly/vscode-maudit
+Description: Simple source code security audit helper for Visual Studio Code.
+
+URL: https://marcoramilli.com/2020/10/09/how-to-unpack-malware-personal-notes/
+Description: How To Unpack Malware - Personal Notes.
+
+URL: https://0xdarkvortex.dev/index.php/2019/07/17/red-team-ttps-part-1-amsi-evasion/
+More: https://bit.ly/3nVsevS (+)
+Description: Red Team Tactics, Techniques, and Procedures (TTPs) Series.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/QjcfKpxApab
+More: https://link.medium.com/NJ1AT95Iwab 
+Description: Java RMI for pentesters.
+
+URL: https://link.medium.com/RpBCXxihtab 
+Description: A Deep Dive Into RUNDLL32.EXE.
+
+URL: https://decoder.cloud/2020/09/23/abusing-group-policy-caching/
+Description: Abusing Group Policy Caching (CVE-2020-1317).
+
+URL: https://www.enumerated.de/index/salesforce
+Description: In-depth Salesforce Lightning exploitation walkthrough.
+
+URL: https://bit.ly/3nx3mdJ (+)
+Description: HP Device Manager – CVE-2020-6925/CVE-2020-6926/CVE-2020-6927.
+
+URL: https://starlabs.sg/blog/2020/09/pwn2own-2020-oracle-virtualbox-escape/
+Description: Pwn2Own 2020 - Oracle VirtualBox Escape.
+
+URL: https://abjurato.github.io/stories/kindleEbooks.html
+Description: Amazon Kindle - iOS App Reverse Engineering for eBooks Leaking.
+
+URL: https://blog.arxenix.dev/pyyaml-cve/
+Description: Showcasing the Importance of Secure Defaults with a PyYAML 0day.
+
+URL: https://blog.br0vvnn.io/pages/blogpost.aspx?id=1&ln=0
+Description: DoS2RCE - A New Technique to Exploit V8 NULL Pointer Dereference Bug.
+
+URL: https://unit42.paloaltonetworks.com/cve-2020-14386/
+Description: Privilege Escalation Vulnerability in the Linux kernel (CVE-2020-14386).
+
+URL: https://blog.trailofbits.com/2020/10/09/detecting-iterator-invalidation-with-codeql/
+Tool: https://github.com/trailofbits/itergator
+Description: Detecting Iterator Invalidation with CodeQL.
+
+URL: https://sidechannel.tempestsi.com/html-to-pdf-converters-can-i-hack-them-a681cfee0903
+Description: HTML to PDF converters, can I hack them?
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://stdw.github.io/cm-sdr/
+Description: Reverse engineering my cable modem and turning it into an SDR.
+
+URL: https://github.com/duggabe/gr-morse-code-gen
+Blog: https://giammaiot.blogspot.com/2020/10/generates-morse-code-from-keyboard.html
+Description: Generates Morse code from keyboard input.
+
+URL: http://yeokhengmeng.com/2019/12/building-a-new-win-3-1-app-in-2019-part-1-slack-client/
+Description: Building a new Win 3.1 app in 2019 - Slack client.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?1d4a11ea71344ed6#hzmo7aZW4+R8VShaegAyxQ2XUFbi8eSoUkjRrd1Mhvk=
