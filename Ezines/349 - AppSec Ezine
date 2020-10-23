@@ -1,0 +1,139 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 43 | Month: October | Year: 2020 | Release Date: 23/10/2020 | Edition: #349 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://mksben.l0.cm/2020/10/discord-desktop-rce.html
+Description: Discord Desktop app RCE (CVE-2020-15174).
+
+URL: https://devcraft.io/2020/10/18/github-rce-git-inject.html
+Description: GitHub - RCE via git option injection (almost).
+
+URL: https://www.securifera.com/blog/2020/10/13/403-to-rce-in-xampp/
+Description: 403 to RCE in XAMPP.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/lloydi/markup-de-crapulator
+Description: HTML De-crapulator.
+
+URL: https://github.com/msrkp/PPScan
+Description: Client Side Prototype Pollution Scanner.
+
+URL: https://github.com/spaceraccoon/manuka
+Description: A modular OSINT honeypot for blue teamers.
+
+URL: https://github.com/dafthack/CloudPentestCheatsheets
+Description: Collection of Cloud Pentest Cheatsheets.
+
+URL: https://github.com/epi052/recon-pipeline
+Description: An automated target reconnaissance pipeline.
+
+URL: https://www.anugrahsr.me/posts/10-Password-reset-flaws/
+Description: 10 Password Reset Flaws.
+
+URL: https://github.com/0xdekster/ReconNote
+Description: Web Application Security Recon Automation Framework.
+
+URL: https://github.com/slaeryan/MIDNIGHTTRAIN
+Blog: https://slaeryan.github.io/posts/midnighttrain.html
+Description: Covert Stage-3 Persistence Framework utilizing NVRAM variables.
+
+URL: https://github.com/S1lkys/CVE-2020-15906
+Description: Tiki Wiki Cms Groupware 21.1 Authentication Bypass (CVE-2020-15906).
+
+URL: https://github.com/FSecureLABS/GWTMap
+Blog: https://bit.ly/35ltdNy (+)
+Description: Tool to help map the attack surface of Google Web Toolkit (GWT) based apps.
+
+URL: https://github.com/darvincisec/StethoInjector
+Description: Script to tamper an apk to inject FB Stetho lib to inspect app sandbox data.
+
+URL: https://github.com/ioncodes/CVE-2020-16938
+Description: Bypassing NTFS permissions to read any files as unpriv. user (CVE-2020-16938).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/gbPJmJ7jHab
+Description: AssaultCube RCE - Technical Analysis.
+
+URL: https://link.medium.com/2WDzNoy1H8 
+Description: Python Typosquatting for Fun not Profit.
+
+URL: https://blog.xpnsec.com/we-need-to-talk-about-macl/
+Description: We Need To Talk About MACL (MacOS).
+
+URL: https://link.medium.com/IKlzTfclFab
+Description: What is the "DLLHOST.EXE" Process Actually Running.
+
+URL: https://bit.ly/34i18HJ (+)
+Description: There’s A Hole In Your SoC - Glitching The MediaTek BootROM.
+
+URL: https://www.ambionics.io/blog/symfony-secret-fragment
+Description: Secret fragments - Remote code execution on Symfony based websites.
+
+URL: https://portswigger.net/research/evading-defences-using-vuejs-script-gadgets
+Description: Evading defences using VueJS script gadgets.
+
+URL: https://hot3eed.github.io/2020/07/30/starling_p1_obfuscations.html
+More: https://hot3eed.github.io/2020/08/02/starling_p2_detections_mitigations.html
+Description: Reverse Engineering Starling Bank.
+
+URL: https://maxfieldchen.com/posts/2020-05-31-Hardware-Root-Of-Trust-Bios-UEFI.html
+Description: Hardware Root of Trust — Bios and UEFI.
+
+URL: https://benjamin-altpeter.de/shell-openexternal-dangers/
+More: https://github.com/wireapp/wire-desktop/security/advisories/GHSA-5gpx-9976-ggpm
+Description: The dangers of Electron's shell.openExternal()—many paths to RCE.
+
+URL: https://bit.ly/3kmPtgp (+)
+Description: Java Deserialization vuln. in QRadar RemoteJavaScript Servlet (CVE-2020-4280).
+
+URL: https://h0mbre.github.io/RyzenMaster_CVE/
+Description: Privilege Escalation in AMD Ryzen Master AMDRyzenMasterDriver.sys (CVE-2020-12928).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://qntm.org/suicide
+Description: Suicide Linux.
+
+URL: https://link.medium.com/whIhRWLdlab 
+Description: Build a Face Recognition System for $60.
+
+URL: http://www.p01.org/MONOSPACE/
+Description: MONOSPACE - Flip dots with feelings, a JavaScript demo in 1021 bytes.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?2e491df789f84ae2#vWsOARfXUap64swvtk2tQJVIpTWLtJ3i3xdZCEmalys=
