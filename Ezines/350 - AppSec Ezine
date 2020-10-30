@@ -1,0 +1,138 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 44 | Month: October | Year: 2020 | Release Date: 30/10/2020 | Edition: #350 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.malgregator.com/post/waze-how-i-tracked-your-mother/
+Description: Waze - How I Tracked Your Mother.
+
+URL: https://devcraft.io/2020/10/19/github-gist-account-takeover.html
+Description: GitHub Gist - Account Takeover via Open Redirect.
+
+URL: https://www.mysk.blog/2020/10/25/link-previews/
+Description: Link Previews - How a Simple Feature Can Have Privacy and Security Risks.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://bit.ly/34BtcWB (+)
+Description: Debugging and Intro to WinDbg.
+
+URL: https://github.com/ehabhussein/AutoGadgetFS
+Description: USB testing made easy - AutoGadgetFS.
+
+URL: https://github.com/tgadola/serval
+Description: A Netcat-style backdoor for pentest exercises.
+
+URL: https://github.com/phra/PEzor
+Blog: https://iwantmore.pizza/posts/PEzor.html (PEzor2.html)
+Description: Open-Source PE Packer.
+
+URL: https://github.com/stong/hxd-plugin
+Description: Handy HxD plugin for various conversions like base64.
+
+URL: https://github.com/LloydLabs/wsb-detect
+Description: Detect if you are running in Windows Sandbox ("WSB").
+
+URL: https://github.com/jangelesg/py3webfuzz
+Description: A Python3 module to assist in fuzzing web applications.
+
+URL: https://github.com/slaeryan/AQUARMOURY
+Description: Tool suite consisting of miscellaneous offensive tooling.
+
+URL: https://github.com/devanshbatham/CertEagle
+Description: Weaponizing Live CT logs for automated monitoring of assets.
+
+URL: https://github.com/0neb1n/CVE-2020-16947
+Description: Microsoft Outlook RCE vulnerablility PoC (CVE-2020-16947).
+
+URL: https://bit.ly/31RYneu (+)
+Description: Active Directory (AD) Attacks & Enumeration at the Network Layer.
+
+URL: https://github.com/manyfacedllama/amsi-tracer
+Description: Leverage AMSI (Antimalware Scan Interface) technology to aid your analysis.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/21zzJZA2Yab
+Description: Inside Amazon's Ring Alarm System.
+
+URL: https://sensepost.com/blog/2020/clash-of-the-spamtitan/
+PoC: https://github.com/sensepost/ClashofSpamTitan
+Description: Clash of the (Spam)Titan.
+
+URL: https://www.vdoo.com/blog/qualcomm-qcmap-vulnerabilities
+Description: Major Vulnerabilities Discovered in Qualcomm QCMAP.
+
+URL: https://link.medium.com/pTiFzZp2Wab
+Description: Weblogic RCE by only one GET request (CVE-2020-14882).
+
+URL: https://www.vusec.net/projects/blindside/
+Description: Speculative Probing - Hacking Blind in the Spectre Era.
+
+URL: https://ptbrowne.github.io/posts/whispersync-reverse-engineering/
+Description: Reverse engineer whispersync.
+
+URL: https://research.checkpoint.com/2020/graphology-of-an-exploit-playbit/
+Description: Exploit Developer Spotlight - The Story of PlayBit.
+
+URL: https://securitylab.github.com/research/CVE-2020-6449-exploit-chrome-uaf
+Description: Exploiting a textbook use-after-free in Chrome (CVE-2020-6449).
+
+URL: https://bit.ly/3eeN7Oj (+)
+Description: Windows Group Policy DACL Overwrite Privilege Escalation (CVE-2020-16939).
+
+URL: https://adepts.of0x.cc/ruckus-vriot-rce/
+Description: Remote Command Execution in Ruckus IoT Controller (CVE-2020-26878/CVE-2020-26879).
+
+URL: http://blog.pi3.com.pl/?p=780 
+More: https://bit.ly/35N3g9Q (+)
+Description: Exploiting "Bad Neighbor" Windows IPv6 Router Advertisement Vuln. (CVE-2020-16898).
+
+URL: https://bit.ly/31SRObH (+)
+Description: Exploring an Assembly Loading Technique/Detection for the GfxDownloadWrapper.exe LOLBIN.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://mcbroken.com/
+Description: Is the McDonald's ice cream machine broken?
+
+URL: https://jaycarlson.net/embedded-linux/
+Description: So you want to build an embedded Linux system?
+
+URL: https://github.com/erjadi/kubecraftadmin
+Description: Kubernetes administration through Minecraft - The Adventurer's Admin Tool.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?1e85210186f4207d#pN1yzHGyT72iHLHHuOOYlgBuz+113xoGWPQ1UdhXkkc=
