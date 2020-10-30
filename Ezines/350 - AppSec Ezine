@@ -99,6 +99,7 @@ URL: https://securitylab.github.com/research/CVE-2020-6449-exploit-chrome-uaf
 Description: Exploiting a textbook use-after-free in Chrome (CVE-2020-6449).
 
 URL: https://bit.ly/3eeN7Oj (+)
+PoC: https://github.com/rogue-kdc/CVE-2020-16939
 Description: Windows Group Policy DACL Overwrite Privilege Escalation (CVE-2020-16939).
 
 URL: https://adepts.of0x.cc/ruckus-vriot-rce/
