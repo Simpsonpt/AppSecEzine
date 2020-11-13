@@ -1,0 +1,138 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 46 | Month: November | Year: 2020 | Release Date: 13/11/2020 | Edition: #352 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ysamm.com/?p=493
+Description: Facebook DOM Based XSS using postMessage.
+
+URL: https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE
+More: https://securitylab.github.com/advisories/GHSL-2020-187-accountsservice-drop-privs-DOS
+Description: How to get root on Ubuntu 20.04 by pretending nobody’s /home.
+
+URL: https://bit.ly/3lrrA7H (+)
+Description: From SVG and back, yet another mXSS via namespace confusion for DOMPurify bypass.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/jxy-s/herpaderping
+Description: Process Herpaderping PoC.
+
+URL: https://github.com/fox-it/BloodHound.py
+Description: A Python based ingestor for BloodHound.
+
+URL: https://worthdoingbadly.com/xnuqemu3/
+Description: Booting a macOS Apple Silicon kernel in QEMU.
+
+URL: https://github.com/nlscc/samloader
+Description: Download Samsung firmware from official servers.
+
+URL: https://github.com/irsl/apache-openoffice-rce-via-uno-links
+Description: Apache OpenOffice RCE (CVE-2020-13958).
+
+URL: https://swarm.ptsecurity.com/advanced-mssql-injection-tricks/
+Description: Advanced MSSQL Injection Tricks.
+
+URL: https://decoder.cloud/2020/11/05/hands-off-my-service-account/
+Description: Hands off my (Windows) service account! 
+
+URL: https://github.com/cedowens/MacC2
+Description: MacC2 is a macOS post exploitation tool written in python.
+
+URL: https://github.com/kbroughton/azure_cis_scanner
+Description: Security Compliance Scanning tool using CIS Azure Benchmark 1.2.
+
+URL: https://madsquirrels.gitlab.io/mobile/asthook/
+Description: Static analysis and dynamic analysis of Android application content.
+
+URL: https://github.com/grimm-co/GEARSHIFT
+Blog: https://blog.grimm-co.com/2020/11/automated-struct-identification-with.html
+Description: Automated Struct Identification with Ghidra.
+
+URL: https://github.com/nsacyber/BAM
+Description: The Binary Analysis Metadata tool gathers information about Windows binaries.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/a7f7lxek79 
+Description: Hacking the Medium partner program.
+
+URL: https://blog.medarkus.net/2020/10/11/XBALTI-Kit.html
+Description: XBALTI Phishing Scam.
+
+URL: https://xcellerator.github.io/tags/rootkit/
+Code: https://github.com/xcellerator/linux_kernel_hacking
+Description: Linux Rootkits Series (Parts 1-9).
+
+URL: https://bit.ly/36tG8NX (+)
+Description: Vulnerabilities Discovered in TCL Android TVs.
+
+URL: https://www.errno.fr/artifactory/Attacking_Artifactory.html
+Description: Artifactory Hacking guide.
+
+URL: https://maxwelldulin.com/BlogPost?post=6967456768
+Description: House of Muney - Leakless Heap Exploitation Technique.
+
+URL: https://platypusattack.com/
+Description: PLATYPUS - a novel software-based power side-channel attack.
+
+URL: https://blog.oversecured.com/Interception-of-Android-implicit-intents/
+Description: Interception of Android implicit intents.
+
+URL: https://sec-consult.com/en/blog/2020/10/hoermann-opening-doors-for-everyone/
+Description: Hörmann – Opening Doors For Everyone...
+
+URL: https://bit.ly/32Fvp1V (+)
+Description: Detecting Dynamic Loading in Android Applications With /proc/maps.
+
+URL: https://ricardojba.github.io/CVE-2020-23968-ILEX-SignGo-EoP/
+Description: ILEX International Sign&go 7.1 Arbitrary File Creation PE (CVE-2020-23968).
+
+URL: https://landave.io/2020/11/bitdefender-upx-unpacking-featuring-ten-memory-corruptions/
+Description: Bitdefender - UPX Unpacking Featuring Ten Memory Corruptions.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/F5OEO/rpitx
+Description: RF transmitter for Raspberry Pi.
+
+URL: https://github.com/localstack/localstack
+Description: A fully functional local AWS cloud stack.
+
+URL: https://kevin.deldycke.com/2020/11/revert-hp-printer-ban-on-third-party-ink-cartridges/
+Description: How-To Revert HP Printer Firmware Ban on 3rd-Party Toner Cartridges.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?0d30cc39a7e04620#gyzfG1Hyi23me3c4HtzxlFgPu1S8PZ2LS+gII2iVSQM=
