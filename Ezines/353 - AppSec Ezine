@@ -1,0 +1,136 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 47 | Month: November | Year: 2020 | Release Date: 20/11/2020 | Edition: #353 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/h9qeqgiCibb 
+Description: Dropbox SSRF (Server Side Request Forgery).
+
+URL: https://link.medium.com/x2VUw0mcubb 
+Description: Firefox - How a website could steal all your cookies (CVE-2020–15647).
+
+URL: https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html
+Description: 31k$ SSRF in Google Cloud Monitoring led to metadata exposure.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/stackrox/kube-linter
+Description: Static analysis for Kubernetes.
+
+URL: https://github.com/evilpenguin/MachoDecrypt
+Description: Decrypt iOS binaries at runtime.
+
+URL: https://github.com/tls-attacker/TLS-Scanner
+Description: The TLS-Scanner Module from TLS-Attacker.
+
+URL: https://github.com/tfsec/tfsec
+Description: Security scanner for your Terraform code.
+
+URL: https://github.com/smartlockpicking/BLE_HackMe
+Description: Bluetooth Low Energy hardware-less HackMe.
+
+URL: https://github.com/botherder/kraken
+Description: Cross-platform Yara scanner written in Go.
+
+URL: https://x-stream.github.io/CVE-2020-26217.html
+Description: XStream Remote Code Execution (CVE-2020-26217).
+
+URL: https://zolder.io/2020/04/24/windows-terminal-profile-fun/
+Description: Windows terminal profile fun.
+
+URL: https://github.com/dsnezhkov/TruffleSnout
+Description: Iterative AD discovery toolkit for offensive operations.
+
+URL: https://gist.github.com/Frycos/8bf5c125d720b3504b4f28a1126e509e
+Description: Cisco Security Manager Java Deserialization Vulnerabilities.
+
+URL: https://github.com/sans-blue-team/DeepBlueCLI
+Description: PowerShell Module for Threat Hunting via Windows Event Logs.
+
+URL: https://clement.notin.org/blog/2020/11/16/ntlm-relay-of-adws-connections-with-impacket/
+Description: NTLM relay of ADWS (WCF) connections with Impacket.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bit.ly/3nD5iAS (+)
+Description: Use-After-Free IE Vulnerability (CVE-2020-17053).
+
+URL: https://hvmi.github.io/blog/2020/11/11/bdshemu.html
+Description: bdshemu - The Bitdefender shellcode emulator.
+
+URL: https://www.contextis.com/en/blog/a-code-signing-bypass-for-the-vw-polo
+Description: A code signing bypass for the VW Polo.
+
+URL: https://bit.ly/3eWkx4s (+)
+Description: A case study with Cybereason EDR (CVE-2020-26562/CVE-2020-26871).
+
+URL: https://www.atredis.com/blog/2020/11/4/garmin-forerunner-235-dion-blazakis
+Description: A Watch, a Virtual Machine, and Broken Abstractions.
+
+URL: https://cyc10n3.medium.com/rce-via-server-side-template-injection-ad46f8e0c2ae
+Description: RCE via Server-Side Template Injection.
+
+URL: https://skelsec.medium.com/duping-av-with-handles-537ef985eb03
+Description: Yet another way to bypass AV detection/blocking access to LSASS process.
+
+URL: https://bit.ly/3kKnVRt (+)
+Description: Modern attacks on the Chrome browser - optimizations and deoptimizations.
+
+URL: https://hex.fish/2020/11/17/post-auth-rce-and-persistence-on-uokoo-security-cameras/
+Description: Post-Auth RCE and Persistence on UOKOO Security Cameras.
+
+URL: https://trmm.net/Sleep_attack/
+Description: Sleep Attack - Intel Bootguard vulnerability waking from S3 (CVE-2020-8705).
+
+URL: https://www.cs.ucr.edu/~zhiyunq/SADDNS.html
+More: https://blog.cloudflare.com/sad-dns-explained/
+Description: DNS Cache Poisoning Attack Reloaded - Revolutions with Side Channels (SAD DNS).
+
+URL: https://jordan-wright.com/blog/post/2020-11-12-hunting-for-malicious-packages-on-pypi/
+Description: Hunting for Malicious Packages on PyPI.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://sneak.berlin/20201112/your-computer-isnt-yours/
+Description: Your Computer Isn't Yours.
+
+URL: https://github.com/dekuNukem/pimp_my_microwave/
+Description: Installing a RGB mechanical keypad on my microwave.
+
+URL: https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html
+Description: The sound of the dialup, pictured.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?a71ae4f8f8d999ba#Um60sMIYxhPcJwdqpa+j9sLqJWBsUZN6XnrQynCUIj8=
