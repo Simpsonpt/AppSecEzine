@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 48 | Month: November | Year: 2020 | Release Date: 27/11/2020 | Edition: #354 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss/
+Description: Smuggling an (Un)exploitable XSSPermalink.
+
+URL: https://insert-script.blogspot.com/2020/11/imagemagick-shell-injection-via-pdf.html
+Description: ImageMagick - Shell injection via PDF password.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://wordlists.assetnote.io/
+Description: Assetnote Wordlists.
+
+URL: https://github.com/marcinguy/tcmalloc-inspector
+Description: TCMalloc Inspector.
+
+URL: https://github.com/samyk/webscan
+Description: Browser-based network scanner & local-IP detection.
+
+URL: https://lab.wallarm.com/consul-by-hashicorp-from-infoleak-to-rce/
+Description: Consul by HashiCorp - from Infoleak to RCE.
+
+URL: https://starlabs.sg/blog/2020/11/instrumenting-adobe-reader-with-frida/
+Description: Instrumenting Adobe Reader with Frida.
+
+URL: https://github.com/utkusen/urlhunter
+Description: Tool to search on URLs that are exposed via shortener services.
+
+URL: https://www.mdsec.co.uk/2020/11/a-fresh-outlook-on-mail-based-persistence/
+Description: A Fresh Outlook on Mail Based Persistence.
+
+URL: https://bit.ly/37aSw5V (+)
+Description: Remote code execution in Elixir-based Paginator (CVE-2020-15150).
+
+URL: https://jlajara.gitlab.io/others/2020/11/22/Potatoes_Windows_Privesc.html
+Description: Potatoes - Windows Privilege Escalation.
+
+URL: https://github.com/strongcourage/uafuzz
+Description: Binary-level Directed Fuzzing for Use-After-Free Vulnerabilities.
+
+URL: https://github.com/evilpenguin/NetworkSniffer
+Description: Log all traffic for any iOS application including WKWebView and UIWebView.
+
+URL: https://github.com/FSecureLABS/leonidas
+Description: Automated Attack Simulation in the Cloud, complete with detection use cases.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://0x41.cf/reversing/2019/10/08/unlocking-nokia-g240wa.html
+Description: Unlocking IAM's Nokia G-240W-A router.
+
+URL: https://swarm.ptsecurity.com/path-traversal-on-citrix-xenmobile-server/
+Description: Path Traversal on Citrix XenMobile Server (CVE-2020-8209).
+
+URL: https://www.offensive-security.com/offsec/microsoft-teams-macos-local-privesc/
+Description: Microsoft Teams for macOS Local Privilege Escalation.
+
+URL: https://medium.com/realmodelabs/silver-peak-unity-orchestrator-rce-2928d65ef749
+More: https://link.medium.com/w7EgZDMoJbb | https://link.medium.com/ssqxrbtaJbb
+Description: SD-PWN Series - Silver Peak, Citrix and Cisco.
+
+URL: https://securitylab.github.com/research/securing-the-fight-against-covid19-through-oss
+Description: Securing the fight against COVID-19 through open source.
+
+URL: https://blog.securityinnovation.com/repo-jacking-exploiting-the-dependency-supply-chain
+Description: Repo Jacking - Exploiting the Dependency Supply Chain.
+
+URL: https://bit.ly/378ypVW (+)
+Description: Detailing SaltStack Salt Command Injection Vuln. (CVE-2020-16846/CVE-2020-25592).
+
+URL: https://windows-internals.com/exploiting-a-simple-vulnerability-in-35-easy-steps-or-less/
+PoC: https://github.com/yardenshafir/CVE-2020-1034
+Description: Exploiting a "Simple" Vulnerability – In 35 Easy Steps or Less (CVE-2020-1034).
+
+URL: https://www.intezer.com/blog/kud-i-enter-your-server-new-vulnerabilities-in-microsoft-azure/
+More: https://bit.ly/2JbLkhV (+)
+Description: Kud I Enter Your Server? EoP and SSRF Vulnerabilities in Microsoft Azure.
+
+URL: https://mp.weixin.qq.com/s/_5wF8Sja4xz0Fee1GoA3vw
+Description: Analysis of spoofing vulnerability in Windows CAT file digital certificate (CVE-2020-16922).
+
+URL: https://accntu.re/3nZc0Bj (+)
+Description: Discovering, exploiting and shutting down a dangerous Win print spooler vuln (CVE-2020-1030).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://boginjr.com/it/sw/dev/vinyl-boot/
+Description: Booting from a vinyl record.
+
+URL: https://github.com/schlae/sb-firmware
+Description: Sound Blaster 1.0 DSP Firmware, Disassembled.
+
+URL: https://storage.googleapis.com/chimera-painter/index.html
+Description: Chimera Painter.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?112615e9a69bc2de#tKmsUWsqR0FWLmyheu5375d8/uj6p4/hoYRaBOWvWHg=
