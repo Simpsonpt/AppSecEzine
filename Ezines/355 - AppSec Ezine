@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 49 | Month: December | Year: 2020 | Release Date: 04/12/2020 | Edition: #355 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3lDEFtW (+)
+Description: Host `docker` binary overwrite from Kata VM.
+
+URL: https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html
+Description: An iOS zero-click radio proximity exploit odyssey.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/d4-project/passive-ssh
+Description: A Passive SSH back-end and scanner.
+
+URL: https://github.com/watsoninfosec/ELK-SIEM
+Description: Creating a Elasticsearch + Kibana SIEM.
+
+URL: https://github.com/vp777/metahttp
+Description: XXE Internal Network HTTP resource scanner.
+
+URL: https://github.com/fraxken/js-x-ray
+Description: JavaScript and Node.js open-source SAST scanner.
+
+URL: https://github.com/APIs-guru/graphql-voyager
+Description: Represent any GraphQL API as an interactive graph.
+
+URL: https://github.com/Surendrajat/APKLab
+Description: Android Reverse Engineering WorkBench for VS Code.
+
+URL: https://blog.syscall.party/post/weaponizing-windows-sandbox/
+Description: Weaponizing Windows Sandbox To Bypass Defender.
+
+URL: https://github.com/rabbitstack/fibratus/
+Description: Tool for exploration and tracing of the Windows kernel.
+
+URL: https://h3adsh0tzz.com/projects/htool/
+Description: HTool is a static analysis tool for several file types.
+
+URL: https://github.com/CoolerVoid/OctopusWAF
+Description: OctopusWAF is a Web application firewall with high performance.
+
+URL: https://github.com/higatowa/bento/
+Description: Minimal fedora-based container for penetration tests and CTF with GUI apps. 
+
+URL: https://github.com/unixpickle/gobfuscate
+Related: https://blog.netlab.360.com/blackrota-an-obfuscated-backdoor-written-in-go-en/
+Description: Obfuscate Go binaries and packages.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.lexfo.fr/lockbit-malware.html
+Description: Lockbit analysis.
+
+URL: https://0xnobody.github.io/devirtualization-intro/
+Description: A Tale of Static Devirtualization Vol. I.
+
+URL: https://link.medium.com/As3YOk2EN9 
+Description: PostgreSQL Code Execution - UDF Revisited.
+
+URL: https://reverse.put.as/2020/09/17/evilquest-revisited/
+Description: Is macOS under the biggest malware attack ever?
+
+URL: https://link.medium.com/7EdbObo3Ubb 
+Description: Don't scan my website I - Exploiting an old version of Wappalyzer.
+
+URL: https://link.medium.com/nMRTsEEMKbb 
+Description: SAT-Solver, Optimization, and Belief Propagation Attacks on SHA-256.
+
+URL: https://insinuator.net/2020/11/forklift-lpe/
+Description: Forklift <=3.3.9 and <=3.4 LPE on macOS (CVE-2020-15349/CVE-2020-27192).
+
+URL: https://github.com/pedrib/PoC/blob/master/advisories/Micro_Focus/Micro_Focus_OBM.md
+Description: Multiple (RCE) Vulnerabilities in Micro Focus Operations Bridge Manager.
+
+URL: https://parzelsec.de/posts/security-advisory-to-exploit
+Description: Security Advisory to Exploit - A Hands-On Approach with WooCommerce Plugins.
+
+URL: https://bit.ly/3oh94QH (+)
+Description: Detect known DLL hijack and named pipe token impersonation attacks w/ Sysmon.
+
+URL: https://bit.ly/3lCM8cE (+)
+Description: IBM QRadar Wincollect Escalation of Privilege (CVE-2020-4485 & CVE-2020-4486).
+
+URL: https://r2c.dev/blog/2020/exploiting-dynamic-rendering-engines-to-take-control-of-web-apps/
+Description: Exploiting dynamic rendering engines to take control of web apps.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/mtlynch/tinypilot
+Description: Use your Raspberry Pi as a browser-based KVM.
+
+URL: https://observablehq.com/@pallada-92/3d-engine-in-dna-code
+Description: 3D engine in DNA code.
+
+URL: https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch
+Description: How to Write a Bootloader from Scratch.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?a86093cbd05a633c#2olQoaajLkGbY7FyNGXv4adclzWxpkDSG7rsV7AA10g=
