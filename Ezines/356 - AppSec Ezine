@@ -1,0 +1,139 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 50 | Month: December | Year: 2020 | Release Date: 11/12/2020 | Edition: #356 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://medium.com/p/10000-facebook-ssrf-bug-bounty-402bd21e58e5
+Description: Facebook SSRF (Bug Bounty).
+
+URL: https://link.medium.com/b3Nyi1mmRbb
+Description: The YouTube bug that allowed unlisted uploads to any channel
+
+URL: https://hackerone.com/reports/873614
+Description: Sites Can Run Arbitrary Code on Machines Running the 'PlayStation Now' App.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/crhenr/freki
+Description: Malware analysis platform.
+
+URL: https://github.com/microsoft/restler-fuzzer
+Description: RESTler is a stateful REST API fuzzing tool.
+
+URL: https://github.com/beurtschipper/Depix
+Description: Recovers passwords from pixelized screenshots.
+
+URL: https://github.com/tomcarver16/ADSearch
+Description: A tool to help query AD via the LDAP protocol.
+
+URL: https://github.com/d35ha/CallObfuscator
+Description: Obfuscate specific windows apis with different APIs.
+
+URL: https://github.com/lightspin-tech/red-detector
+Description: Scan your EC2 instance to find its vulnerabilities using Vuls.
+
+URL: https://github.com/cloudquery/cloudquery
+Description: Transforms your cloud infrastructure into queryable SQL tables.
+
+URL: https://github.com/dragokas/hijackthis
+Description: A free utility that finds malware, adware and other security threats.
+
+URL: https://github.com/ha7ilm/openwebrx
+Description: OpenWebRX is a multi-user SDR receiver software with a web interface.
+
+URL: https://github.com/Airboi/CVE-2020-17144-EXP
+Description: Microsoft Exchange Remote Code Execution Vulnerability (CVE-2020-17144).
+
+URL: https://br-sn.github.io/Implementing-Syscalls-In-The-CobaltStrike-Artifact-Kit/
+Description: Implementing Syscalls In The Cobaltstrike Artifact Kit.
+
+URL: https://github.com/SecureAuthCorp/impacket/
+Description: Impacket is a collection of Python classes for working with network protocols.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://xsleaks.dev/
+Description: Cross-site leaks (XS-Leaks) Wiki.
+
+URL: https://link.medium.com/ki138kA14bb
+Description: PsExec Local Privilege Escalation.
+
+URL: https://bit.ly/2Kd338Z (+)
+More: https://bit.ly/3gwcPiw (+)
+Description: GOG Galaxy Client Local Privilege Escalation.
+
+URL: https://wumb0.in/windows-10-kvas-and-software-smep.html
+Description: Windows 10 KVAS and Software SMEP.
+
+URL: https://www.solomonsklash.io/pe-parsing-defeating-hooking.html
+Description: PE Parsing and Defeating AV/EDR API Hooks in C++.
+
+URL: https://buaq.net/go-47936.html
+PoC: https://github.com/ka1n4t/CVE-2020-17530
+Description: Struts2 S2-061 Vulnerability Analysis (CVE-2020-17530).
+
+URL: https://github.com/fireeye/ThreatPursuit-VM
+Description: Windows Virtual Machine for Threat Intelligence Analysts.
+
+URL: https://blog.netspi.com/cve-2020-17049-kerberos-bronze-bit-theory/
+More: https://blog.netspi.com/cve-2020-17049-kerberos-bronze-bit-attack/
+Description: Kerberos Bronze Bit Attack (CVE-2020-17049).
+
+URL: https://plundervolt.com/
+Related: https://zt-chen.github.io/voltpillager/
+Description: How a little bit of undervolting can cause a lot of problems.
+
+URL: https://www.vusec.net/projects/blindside/
+Description: BlindSide allows attackers to "hack blind" in the Spectre era.
+
+URL: https://dreamlab.net/en/blog/post/abusing-exposed-docker-registry-apis/
+Description: Abusing exposed Docker Registry APIs.
+
+URL: https://bit.ly/39ZsyFC (+)
+Description: Uncovering and Exploiting CVE-2020-27950 iOS kernel memory leak.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://xcellerator.github.io/posts/yubikey/
+Description: Reversing Yubikey's Static Password.
+
+URL: https://github.com/mame/quine-relay
+Description: An uroboros program with 100+ programming languages.
+
+URL: https://github.com/vosen/ZLUDA
+Description: ZLUDA is a drop-in replacement for CUDA on Intel GPU.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?686bc5f23b75c39a#dkVitz11oZ2rAbISH1TFrCkGR78cKKDdgsvcHS6tino=
