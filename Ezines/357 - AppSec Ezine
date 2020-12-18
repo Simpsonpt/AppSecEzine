@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 51 | Month: December | Year: 2020 | Release Date: 18/12/2020 | Edition: #357 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://portswigger.net/research/portable-data-exfiltration
+Description: Portable Data exFiltration: XSS for PDFs.
+
+URL: https://staaldraad.github.io/post/2020-12-15-cve-2020-25695-postgresql-privesc/
+Description: Privilege Escalation in Postgresql (CVE-2020-25695).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/jfmaes/GG-AESY
+Description: GG-AESY – A Stegocryptor!
+
+URL: https://github.com/liquidsec/pyOracle2
+Description: A python-based padding oracle tool.
+
+URL: https://github.com/EntySec/ghost
+Description: Android post-exploitation framework.
+
+URL: https://github.com/Adepts-Of-0xCC/VBA-macro-experiments
+Description: Collection of VBA Security macro. 
+
+URL: http://pequalsnp-team.github.io/cheatsheet/flask-jinja2-ssti
+Description: Cheatsheet - Flask & Jinja2 SSTI.
+
+URL: https://github.com/e-m-b-a/emba
+Description: Analyzer for Linux-based firmware of embedded devices.
+
+URL: https://journal.lunar.sh/2020/12/11/mono-dot-net-injection.html
+Description: Mono/.NET Injection Under Linux.
+
+URL: https://github.com/mubix/solarflare
+Description: SolarWinds Orion Account Audit / Password Dumping Utility.
+
+URL: https://www.n00py.io/2020/12/alternative-ways-to-pass-the-hash-pth/
+Description: Alternative ways to Pass the Hash (PtH).
+
+URL: https://github.com/rizinorg/rizin
+Description: UNIX-like reverse engineering framework and command-line toolset.
+
+URL: https://github.com/securesean/DecryptAutoLogon
+Description: CLI to extract the password stored in the LSA by SysInternals AutoLogon.
+
+URL: https://github.com/prisma-cloud/IAMFinder
+Description: IAMFinder enumerates and finds users and IAM roles in a target AWS account.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://h3adsh0tzz.com/inside-xnu/
+Description: Inside XNU Series.
+
+URL: https://theori.io/research/escaping-chrome-sandbox/
+Description: Cleanly Escaping the Chrome Sandbox.
+
+URL: https://xz.aliyun.com/t/8614
+Description: Win32k Vulnerability Analysis Notes (CVE-2018-8453).
+
+URL: http://bit.ly/3nwBG8t (+)
+Description: Bug or Feature - Privilege Escalation in Windows Autopilot.
+
+URL: http://bit.ly/3nyhK5k (+)
+PoC: https://github.com/synacktiv/PS4-webkit-exploit-6.XX
+Description: This is for the Pwners - Exploiting a WebKit 0-day in PlayStation 4.
+
+URL: https://gitlab.com/batteryshark/writeups/-/blob/master/20200511/Readme.md
+Description: Reversing a Security Dongle HID Protocol (now with password dumping).
+
+URL: https://blog.quarkslab.com/playing-around-with-the-fuchsia-operating-system.html
+Description: Playing Around With The Fuchsia Operating System.
+
+URL: https://snyk.io/blog/kernel-privilege-escalation/
+Description: How Kubernetes container isolation impacts privilege escalation attacks.
+
+URL: https://blog.khonggianmang.vn/vmware-workstation-attack-surface-through-virtual-printer/
+Description: VMware Workstation - Attack surface through Virtual Printer (CVE-2020-3989/3990).
+
+URL: https://blog.doyensec.com//2020/12/10/novel-abuses-wifi-direct-mobile-file-transfers.html
+Description: Novel Abuses On Wi-Fi Direct Mobile File Transfers.
+
+URL: https://link.medium.com/qrsglXPticb 
+Description: Robots, Oracles and Protocols; Breaking Cryptography Through Information Leakage.
+
+URL: https://research.checkpoint.com/2020/game-on-finding-vulnerabilities-in-valves-steam-sockets/
+Description: Game On - Finding vulnerabilities in Valve's "Steam Sockets".
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/GTAmodding/re3
+Description: GTA 3 is getting reverse engineered!
+
+URL: https://www.suncalc.org/
+Related: http://bit.ly/34nAAo3 (+)
+Description: Analyse the position of shadows/sun at any given time/date, at any given location.
+
+URL: https://github.com/sh123/codec2_talkie
+Description: Android KISS Bluetooth/USB modem client for Codec2 amateur radio digital voice comms.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?a2c655d363e5965e#3+hGeNPnYvuM/Bnueyt9Ofvw88LNdOxX6EsQ4et1HrU=
