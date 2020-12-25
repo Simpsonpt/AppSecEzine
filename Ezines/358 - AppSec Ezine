@@ -1,0 +1,135 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 52 | Month: December | Year: 2020 | Release Date: 25/12/2020 | Edition: #358 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/3nMwgGL (+)
+Description: Cookie Tossing to RCE on Google Cloud JupyterLab.
+
+URL: https://blog.longterm.io/cve-2020-0423.html
+Description: Exploiting a Single Instruction Race Condition in Binder (CVE-2020-0423).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/defparam/Coldsnap
+Description: Python Snapshot Fuzzer Example.
+
+URL: https://github.com/feicong/strong-frida
+Description: Make frida strong, bypass frida detection.
+
+URL: https://github.com/OmerYa/Invisi-Shell
+Description: Hide your Powershell script in plain sight.
+
+URL: https://github.com/projectdiscovery/dnsx
+Description: DNSx is a fast and multi-purpose DNS toolkit.
+
+URL: https://github.com/Sab0tag3d/MITM-cheatsheet
+Description: MITM Cheatsheet - All MITM attacks in one place.
+
+URL: https://github.com/slyd0g/WhiteChocolateMacademiaNut
+Blog: http://bit.ly/37Lxuwn (+)
+Description: Interact with Chromium-based browsers' Debug Port.
+
+URL: https://github.com/vchinnipilli/kubestrike
+Description: A Blazing fast Security Auditing tool for Kubernetes.
+
+URL: https://www.catch22.net/tuts/win32/self-deleting-executables#
+Description: Self-deleting Executables.
+
+URL: https://xz.aliyun.com/t/8621
+Description: SQL injection penetrates PostgreSQL (bypass tricks).
+
+URL: https://github.com/ZeroDayLab/PowerSploit
+Description: PowerSploit - A PowerShell Post-Exploitation Framework.
+
+URL: https://www.n00py.io/2020/12/dumping-laps-passwords-from-linux/
+PoC: https://github.com/n00py/LAPSDumper
+Description: Dumping LAPS Passwords from Linux.
+
+URL: https://www.gironsec.com/blog/2020/12/bypassing-windows-smartscreen/
+Description: Bypassing Windows SmartScreen.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://alexplaskett.github.io/CVE-2020-9967/
+Description: Apple macOS 6LowPAN Vulnerability (CVE-2020-9967).
+
+URL: http://bit.ly/2KoBEBr (+)
+More: http://bit.ly/37LJOMT (+)
+Description: Dissecting the Windows Defender Driver - WdFilter.
+
+URL: https://bit.ly/3nNMkrI (+)
+Description: MS Exchange RCE (CVE-2020-16875) Protection/Filter Bypass.
+
+URL: https://pulsesecurity.co.nz/articles/postgres-sqli
+Description: SQL Injection and Postgres - An adventure to eventual RCE.
+
+URL: http://dphoeniixx.com/2020/12/13-2/
+Description: Exploiting new-era of Request forgery on mobile applications.
+
+URL: https://link.medium.com/B3ElcW7tqcb 
+Description: Turning AMF Deserialize bug to Java Deserialize bug (CVE-2020-2950).
+
+URL: https://swarm.ptsecurity.com/vulnerabilities-in-mcafee-epolicy-orchestrator/
+Description: Vulnerabilities in McAfee ePolicy Orchestrator (CVE-2020-7318).
+
+URL: https://cybercx.com.au/blog/2020/12/15/logrhythm-zero-days/
+Description: LogRhythm "Zero" Days (CVE-2020-25094/CVE-2020-25096/CVE 2020-25095).
+
+URL: https://billdemirkapi.me/insecure-by-design-epic-games-p2p-multiplayer-services/
+Description: Insecure by Design, Epic Games Peer-to-Peer Multiplayer Service.
+
+URL: http://bit.ly/2KBngFZ (+)
+Description: Abstract Shimmer (CVE-2020-15257) - Host Networking is root-Equivalent, Again.
+
+URL: https://labs.f-secure.com/blog/sniff-there-leaks-my-bitlocker-key/
+Description: Sniff Win. Bitlocker Volume Master Key from the Serial Peripheral Interface bus.
+
+URL: https://hvmi.github.io/blog/2020/12/14/pfinjection.html
+Description: Page Fault Injection in Virtual Machines: Accessing Swapped-Out Pages from HVMI.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://security.christmas/2020
+Description: Security Advent Calendar.
+
+URL: https://github.com/esseks/monicelli
+Description: An esoteric programming language, come se fosse antani.
+
+URL: https://scarybeastsecurity.blogspot.com/2020/12/the-cleverest-floppy-disc-protection.html
+Description: The cleverest floppy disc protection ever? Western Security Ltd.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?d51d0aa461b52dee#KHOUAPqegZgbLK3+R61NJsjaJVMf/s9K8MEsA9p3gDo=
