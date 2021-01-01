@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 53 | Month: January | Year: 2021 | Release Date: 01/01/2021 | Edition: #359 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.geekycat.in/google-vrp-hijacking-your-screenshots/
+Description: Hijacking Google Docs Screenshots.
+
+URL: https://microsoftedge.github.io/edgevr/posts/deep-dive-into-site-isolation-part-1/
+More: https://microsoftedge.github.io/edgevr/posts/deep-dive-into-site-isolation-part-2/
+Description: Deep Dive into Site Isolation.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/opencve/opencve
+Description: CVE Alerting Platform.
+
+URL: https://github.com/benjeems/packetStrider
+Description: A network packet forensics tool for SSH.
+
+URL: https://github.com/Sneakysecdoggo/Wynis
+Description: Audit Windows Security with best Practice.
+
+URL: https://github.com/fox-it/aclpwn.py
+Description: Active Directory ACL exploitation with BloodHound.
+
+URL: https://github.com/googleprojectzero/Jackalope
+Description: Binary, coverage-guided fuzzer for Windows and macOS.
+
+URL: https://gist.github.com/0xsha/75616ef6f24067c4fb5b320c5dfa4965
+Description: SolarWinds Orion Local File Disclosure PoC (CVE-2020-10148).
+
+URL: https://github.com/SourceCode-AI/aura
+Description: Python source code auditing and static analysis on a large scale.
+
+URL: https://github.com/GJDuck/e9patch
+Description: Powerful static binary rewriting tool for x86_64 Linux ELF binaries.
+
+URL: https://github.com/qeeqbox/chameleon
+Description: Customizable honeypots for monitoring network traffic, bots activities.
+
+URL: https://github.com/certego/PcapMonkey
+Description: Stream Pcaps through Suricata and Zeek into Elasticsearch for analysis.
+
+URL: https://github.com/CERT-Polska/karton
+Description: Distributed malware processing framework based on Python, Redis and MinIO.
+
+URL: https://github.com/salesforce/jarm
+Description: JARM is an active Transport Layer Security (TLS) server fingerprinting tool.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://luemmelsec.github.io/Pentest-Everything-SMTP/
+Description: Pentest - Everything SMTP.
+
+URL: https://www.gremwell.com/node/954
+Description: Understanding DTLS Usage in VoIP Communications.
+
+URL: https://link.medium.com/pDaO9G5pFcb 
+Description: Weird "Subdomain Take Over" pattern of Amazon S3.
+
+URL: https://link.medium.com/UFUmSF3EAcb
+Description: Deep dive into .NET ViewState deserialization and its exploitation.
+
+URL: http://bit.ly/3b3cALf (+)
+Description: Full infrastructure takeover of VMware Cloud Director (CVE-2020-3956).
+
+URL: https://halove23.blogspot.com/2020/12/oh-so-you-have-antivirus-nameevery-bug.html
+Description: Sandbox escape and privilege escalation bugs in anti-virus software.
+
+URL: https://adapt-and-attack.com/2020/05/12/building-a-com-server-for-initial-execution/
+Description: Building a COM Server for Initial Execution.
+
+URL: https://naglinagli.github.io/DoD_IDOR/
+Description: How i could take over any Account on a USA DoD Website due to a simple IDOR. 
+
+URL: https://embracethered.com/blog/posts/2020/aws-xss-cross-site-scripting-vulnerability/
+Description: Blast from the past - Cross Site Scripting on the AWS Console.
+
+URL: https://medium.com/@danielpr92/hacking-punkbuster-e22e6cf2f36e
+Description: A Directory Traversal Attack on Punkbuster Server can be Leveraged to Gain RCE.
+
+URL: http://bit.ly/3825W63 (+)
+Description: Mimosa Routers Privilege Escalation and Authentication bypass (CVE-2020-14003).
+
+URL: https://link.medium.com/AtJHZidkEcb 
+Description: HPE System Insight Manager (SIM) AMF Deserialization lead to RCE(CVE-2020-7200).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://justine.lol/ape.html
+Description: Actually Portable Executable.
+
+URL: http://bit.ly/380gsdJ (+)
+Description: Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine.
+
+URL: https://github.com/johncolby/macOS-KVM
+Description: Streamlined macOS QEMU KVM Hackintosh configuration using OpenCore and libvirt.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?8b4d812883059c0b#D1Vqv/NNHULilhArJTqwItLwr9oDWqqZkki+HrmzTFA=
