@@ -84,7 +84,8 @@ URL: https://secret.club/2020/10/30/alien-swarm-rce.html
 Description: Wormable remote code execution in Alien Swarm.
 
 URL: https://scannell.me/fuzzing-for-ebpf-jit-bugs-in-the-linux-kernel/
-Description: Fuzzing for eBPF JIT bugs in the Linux kernel.
+PoC: https://github.com/scannells/exploits/tree/master/CVE-2020-27194
+Description: Fuzzing for eBPF JIT bugs in the Linux kernel (CVE-2020-27194).
 
 URL: https://bit.ly/3mTjFjT (+)
 More: https://bit.ly/32hWBn9 (+)
