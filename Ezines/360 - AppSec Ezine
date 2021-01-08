@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 01 | Month: January | Year: 2021 | Release Date: 08/01/2021 | Edition: #360 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://alex.studer.dev/2021/01/04/mw41-1
+Description: Getting root on a 4G LTE mobile hotspot.
+
+URL: https://iustin24.github.io/Cache-Key-Normalization-Denial-of-Service/
+Description: Cache-Key Normalization - What Could Go Wrong?
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/redplait/pexphide
+Description: PoC for hiding PE exports.
+
+URL: https://github.com/sha0coder/web-fu
+Description: The web hacking chrome extension.
+
+URL: https://github.com/airbus-seclab/gustave
+Description: GUSTAVE - Embedded OS kernel fuzzer.
+
+URL: https://github.com/dlegs/php-jpeg-injector
+Description: Injects PHP payloads into jpeg images.
+
+URL: https://github.com/dwisiswant0/awesome-oneliner-bugbounty
+Description: Awesome One-liner Bug Bounty.
+
+URL: https://github.com/zhzyker/vulmap
+Description: Web vulnerability scanning and verification tools.
+
+URL: https://github.com/bohops/WSMan-WinRM
+Description: PoCs Dump to RCE over WinRM using the WSMan.Automation COM object.
+
+URL: https://s3cur3th1ssh1t.github.io/Playing-with-OffensiveNim/
+Description: Bypassing Windows protection mechanisms & Playing with OffensiveNim.
+
+URL: https://github.com/enemy-submarine/pidrila
+Description: Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer.
+
+URL: https://github.com/bats3c/EvtMute
+Description: Apply a filter to the events being reported by windows event logging.
+
+URL: https://www.redteam.cafe/red-team/powershell/using-reflection-for-amsi-bypass
+Description: Using Reflection for AMSI Bypass.
+
+URL: https://github.com/bytedance/ByteDance-HIDS
+Description: ByteDance-HIDS is a Cloud-Native Host-Based Intrusion Detection solution.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.longterm.io/samsung_rkp.html
+Description: A Samsung RKP Compendium.
+
+URL: https://link.medium.com/U8NAim7aRcb 
+Description: Abusing WebRTC to Reveal Coarse Location Data in Signal.
+
+URL: https://blog.redteam-pentesting.de/2021/deserialization-gadget-chain/
+Description: Insecure Deserialization - How to Trace Down a Gadget Chain.
+
+URL: https://bit.ly/38kVo1W (+)
+Description: RCE on Microsoft SharePoint Using TypeConverters (CVE-2020-0932).
+
+URL: https://blog.elcomsoft.com/2021/01/understanding-bitlocker-tpm-protection/
+Description: Understanding BitLocker TPM Protection.
+
+URL: https://ninjalab.io/a-side-journey-to-titan/
+Description: Side-Channel Attack on the Google Titan Security Key (CVE-2021-3011).
+
+URL: https://faraz.faith/2021-01-07-cve-2020-16040-analysis/
+Description: Analyzing V8 "TurboFan's Simplified Lowering Phase" (CVE-2020-16040).
+
+URL: http://bit.ly/3rXxiSJ (+)
+Description: Chaining multiple techniques and tools for domain takeover using RBCD.
+
+URL: http://bit.ly/3s0Gx4t (+)
+Description: Firefox Vulnerabilities (CVE-2020-26964/CVE-2020-15661/CVE-2020-15662).
+
+URL: https://blog.compass-security.com/2020/05/relaying-ntlm-authentication-over-rpc/
+Description: Relaying NTLM authentication over RPC.
+
+URL: https://aaronryool.blogspot.com/2020/07/what-is-canary-how-does-it-work-and.html
+Description: What is a canary, how does it work, and what does that mean to write a exploit.
+
+URL: https://blog.zecops.com/vulnerabilities/ntfs-remote-code-execution-cve-2020-17096-analysis/
+Description: NTFS Remote Code Execution Analysis (CVE-2020-17096).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://zserge.com/posts/jvm/
+Description: How to write a (toy) JVM.
+
+URL: https://madaidans-insecurities.github.io/guides/linux-hardening.html
+Description: Linux Hardening Guide.
+
+URL: https://github.com/MaximeBeasse/KeyDecoder
+Description: Use your smartphone to decode your mechanical keys in seconds.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?fac03cabde8ad580#iYhY87vCfQH2QsYatWqCvKGUWRT7FEbT3GDjDG6LKXI=
