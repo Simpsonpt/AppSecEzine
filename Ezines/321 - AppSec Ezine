@@ -19,7 +19,8 @@ Description: The story of how I gained unauthorized Camera access on iOS and mac
 URL: https://blog.mert.ninja/freemarker-ssti-on-lithium-cms/
 Description: Limited FreeMarker SSTI to Arbitrary LiQL Query and Manage Lithium CMS.
 
-URL: https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/#executive-summary-tldr
+URL: https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/
+Related: http://bit.ly/3bvpv8E (+)
 Description: How we abused Slack's TURN servers to gain access to internal services.
 
 
