@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 02 | Month: January | Year: 2021 | Release Date: 15/01/2021 | Edition: #361 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/3oIelkJ (+)
+Description: Stealing Your Private YouTube Videos, One Frame at a Time.
+
+URL: https://ysamm.com/?p=525
+Description: XSS on forums.oculusvr.com leads to Oculus and Facebook account takeovers.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/RCStep/CSSG
+Description: Cobalt Strike Shellcode Generator.
+
+URL: https://github.com/jm33-m0/emp3r0r
+Description: Linux post-exploitation framework.
+
+URL: https://github.com/k8gege/LadonGo
+Description: Full platform penetration scanner framework.
+
+URL: http://bit.ly/2MUULDQ (+)
+Description: Exploiting Application-Level Profile Semantics (APLS).
+
+URL: https://github.com/0xdutra/fawkes
+Description: Tool to search for targets vulnerable to SQL Injection.
+
+URL: https://github.com/edoardottt/longtongue
+Description: Customized Password/Passphrase List inputting Target Info.
+
+URL: http://bit.ly/3ia69rd (+)
+Description: Cobalt Strike Staging and Extracting Configuration Information.
+
+URL: https://github.com/ykfre/BsodSurvivor
+Description: This project aims to facilitate debugging a kernel driver in windows.
+
+URL: https://github.com/drsigned/sigurls
+Description: Recon tool fetches URLs from AlienVault's OTX, Common Crawl and more.
+
+URL: https://github.com/a1ext/labeless
+Description: Multipurpose IDA plugin for labels/comments sync w/ a debugger backend.
+
+URL: https://github.com/duo-labs/cloudmapper
+Description: CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
+
+URL: https://github.com/outflanknl/FindObjects-BOF
+Description: CS BOF leverage direct syscalls to enum procs for specific modules and more.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://secret.club/2021/01/12/callout.html
+Description: Hiding execution of unsigned code in system threads.
+
+URL: https://www.ambionics.io/blog/laravel-debug-rce
+Description: Laravel <= v8.4.2 debug mode - Remote code execution.
+
+URL: http://bit.ly/38kVwhW (+)
+Description: Apache Struts OGNL Remote Code Execution (CVE-2019-0230).
+
+URL: http://mzl.la/3snCD5S (+)
+Description: Leaking silhouettes of cross-origin images (CVE-2020-16012).
+
+URL: https://bit.ly/2LvN6eY (+)
+Description: How I stole the data in millions of people's Google accounts.
+
+URL: https://marcoramilli.com/2021/01/09/c2-traffic-patterns-personal-notes/
+Description: C2 Traffic Patterns - Personal Notes.
+
+URL: http://bit.ly/2LwWmiX (+)
+PoC: https://github.com/bats3c/ChromeTools
+Description: Breaking The Browser - A tale of IPC, credentials and backdoors.
+
+URL: https://www.scorpiones.io/articles/lateral-movement-using-dcom-objects
+Description: Lateral Movement using DCOM Objects - How to do it the right way?
+
+URL: https://aviadshamriz.medium.com/part-1-fs-minifilter-hooking-7e743b042a9d
+More: https://aviadshamriz.medium.com/part-2-display-miniport-hooking-e1a54661d2e1
+Description: Fs Minifilter Hooking - Display Miniport Hooking.
+
+URL: https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html
+Description: Making Clouds Rain - Remote Code Execution in Microsoft Office 365.
+
+URL: https://pierrekim.github.io/blog/2021-01-12-fiberhome-ont-0day-vulnerabilities.html
+Description: Multiple vulnerabilities found in FiberHome HG6245D routers.
+
+URL: https://devcraft.io/2021/01/07/universal-deserialisation-gadget-for-ruby-2-x-3-x.html
+Description: Universal Deserialisation Gadget for Ruby 2.x-3.x.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://security.kiwi/docs/introduction/
+Description: Machine Learning for Security.
+
+URL: http://bit.ly/35FNC0S (+)
+Description: Amazon echo flex - Microphone mute, real or fake?
+
+URL: https://tracking.exposed/
+Description: We fight for a web that is home for many, not property of the few!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?0295f795d2a85213#zeaSQnHoIWc6D1J2swECliPwG413YRKoOg0atlUB7ks=
