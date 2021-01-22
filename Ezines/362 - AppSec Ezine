@@ -1,0 +1,138 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 03 | Month: January | Year: 2021 | Release Date: 22/01/2021 | Edition: #362 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md
+Description: 0Day RCE in Apple's Travel Portal.
+
+URL: https://ash-king.co.uk/blog/Shazlocate-abusing-CVE-2019-8791-CVE-2019-8792
+Description: How clicking a link can give away your precise location.
+
+URL: https://ysamm.com/?p=510
+Description: Bad regex in FB JS SDK leads to account takeovers in sites that included it.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/adnane-X-tebbaa/GRecon
+Description: Your Google Recon is Now Automated.
+
+URL: https://github.com/assetnote/blind-ssrf-chains
+Description: A Glossary of Blind SSRF Chains.
+
+URL: https://github.com/aau-network-security/HosTaGe
+Description: Low Interaction Mobile Honeypot.
+
+URL: https://adepts.of0x.cc/shadowmove-hijack-socket/
+Description: Hijacking connections without injections.
+
+URL: https://github.com/filedescriptor/untrusted-types
+Description: Untrusted Types for DevTools.
+
+URL: https://github.com/cdk-team/CDK
+Description: Zero Dependency Container Penetration Toolkit.
+
+URL: https://haxx.in/posts/numeric-shellcode/
+Description: Generating numeric-only shellcode for Linux/x86.
+
+URL: https://github.com/redcode-labs/Svetovid
+Description: Post-exploitation scripts and binaries + reverse proxy server.
+
+URL: https://gist.github.com/four0four/76401de07a3a170affd3fef0894b624d
+Description: Zynq BootROM Secrets - Exposing the bootROM with the UART loader.
+
+URL: https://github.com/vp777/procrustes
+Description: Easy/Stealth cmd exfil over DNS in case of blind RCE or blocking FW.
+
+URL: https://github.com/b3n-j4m1n/Red-Terroir
+Description: Terraform resources for building HTTP, DNS, phishing, and mail server.
+
+URL: https://github.com/preludeorg/operator-support
+Description: Autonomous red team C2 platform to make security testing more accessible.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://therealunicornsecurity.github.io/TPLink/
+Description: Reversing TL-WR840N.
+
+URL: https://www.jsof-tech.com/disclosures/dnspooq/
+Description: DNSPOOQ - Seven Vulnerabilities in dnsmasq.
+
+URL: https://secret.club/2021/01/15/bitlocker-bypass.html
+Description: BitLocker Lockscreen bypass (CVE-2020-1398).
+
+URL: http://bit.ly/3qDpRys (+)
+Description: How I hijacked the top-level domain of a sovereign state.
+
+URL: https://theevilbit.github.io/posts/divide_and_conquer/
+PoC: https://gist.github.com/theevilbit/073ca4eb15383eb3254272fc24632efd
+Description: Divide and Conquer - A technique to bypass NextGen AV.
+
+URL: https://blahcat.github.io/2021/01/11/browsing_registry_kernel_mode/
+Description: Browsing the registry in kernel-mode.
+
+URL: https://blog.zsec.uk/path2da-pt1/
+More: https://blog.zsec.uk/path2da-pt2/ | https://blog.zsec.uk/path2da-pt3/
+Description: Paving, Roasting and Pass the way to Domain Administrator DA.
+
+URL: https://snyk.io/blog/cache-poisoning-in-popular-open-source-packages/
+Description: Cache poisoning in popular open source packages.
+
+URL: http://bit.ly/3qEA79J (+)
+Description: Abusing XPC Service mechanism to EP in macOS/iOS (CVE-2020-9971).
+
+URL: http://bit.ly/2KER5pc (+)
+PoC: https://github.com/ret2hell/CVE-2020-8835 | http://bit.ly/3qGci1b (+)
+Description: Linux Kernel PE via Improper EBPF Program Verification (CVE-2020-8835).
+
+URL: https://link.medium.com/erQo6qFbedb 
+Description: KindleDrip - From Your Kindle's Email Address to Using Your Credit Card.
+
+URL: https://www.horizon3.ai/disclosures/mautic-unauth-xss-to-rce.html
+Description: Unauth XSS to RCE Chain in Mautic <3.2.4 (CVE-2020-35124/CVE-2020-35125).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://ruffle.rs/
+Description: Ruffle is a Flash Player emulator written in Rust.
+
+URL: https://blog.thea.codes/the-most-thoroughly-commented-linker-script/
+Description: The most thoroughly commented linker script (probably).
+
+URL: http://www.rwt.co.uk/download/SJB_Guidebook.pdf
+Description: STTI's International Satellite Television Reception Guidebook (1982).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?8337377ec738af98#6SgWU/2sC9yWcGahQA9TDZ2w941QrySRMdySn64FOR4=
