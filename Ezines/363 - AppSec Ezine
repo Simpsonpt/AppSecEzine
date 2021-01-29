@@ -1,0 +1,136 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 04 | Month: January | Year: 2021 | Release Date: 29/01/2021 | Edition: #363 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2M4aWyT (+)
+Description: The Secret Parameter, LFR, and Potential RCE in NodeJS Apps.
+
+URL: http://bit.ly/3iXsKYm (+)
+Description: The Embedded YouTube Player Told Me What You Were Watching (and more).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/intel/yarpgen
+Blog: http://bit.ly/2Yln3Km (+)
+Description: Yet Another Random Program Generator.
+
+URL: https://github.com/ahmedkhlief/APT-Hunter
+Description: Threat Hunting Tool via Windows Event Log.
+
+URL: https://github.com/evilsocket/ditto
+Description: A tool for IDN homograph attacks and detection.
+
+URL: https://blog.mzfr.me/posts/2021-01-23-github-action-for-recon/
+Description: Using Github Action for recon.
+
+URL: https://luemmelsec.github.io/Circumventing-Countermeasures-In-AD/
+Description: Sailing Past Security Measures In AD.
+
+URL: https://research.nccgroup.com/2021/01/21/mssql-lateral-movement/
+Description: MSSQL CLR integration Lateral Movement.
+
+URL: http://bit.ly/2MzM0PD (+)
+Description: macOS Post-Exploitation Shenanigans with VSCode Extensions.
+
+URL: https://github.com/master-of-servers/mose
+Description: Post exploitation tool for configuration management servers.
+
+URL: https://github.com/darrenmartyn/visualdoor
+Blog: https://darrenmartyn.ie/2021/01/24/visualdoor-sonicwall-ssl-vpn-exploit/
+Description: SonicWall SSL-VPN Exploit.
+
+URL: https://link.medium.com/9p2NvCTUedb 
+Description: Silencing Microsoft Defender for Endpoint using firewall rules.
+
+URL: https://github.com/BenChaliah/Arbitrium-RAT
+Description: Cross-platform fully undetectable RAT for Android, Windows and Linux.
+
+URL: https://github.com/tsarpaul/Azure-Functions-EoP-PoC
+Blog: https://www.intezer.com/blog/research/how-we-escaped-docker-in-azure-functions/
+Description: How We Escaped Docker in Azure Functions.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://blog.pi3.com.pl/?p=850
+Description: Windows 7 TCP/IP hijacking.
+
+URL: https://zdresearch.com/finding-the-origin-ip-behind-cdns/
+Description: Finding The Origin IP Behind CDNs.
+
+URL: https://tldrsec.com/blog/lesser-known-aws-attacks/
+Description: Lesser Known Techniques for Attacking AWS Environments.
+
+URL: https://insinuator.net/2021/01/having-fun-with-google-mdm-solution/
+Description: Having Fun with Google MDM Solution.
+
+URL: http://bit.ly/3a8yJ8G (+)
+Description: A 'Novel' Way to Bypass Executable Signature Checks with Electron.
+
+URL: https://www.hub.trimarcsecurity.com/post/ldap-channel-binding-and-signing
+Description: LDAP Channel Binding and Signing.
+
+URL: https://link.medium.com/FXHBFQN8Vcb
+Description: Unauthorized Access to OData Entities + $2K Bounty From Microsoft.
+
+URL: http://bit.ly/2Ym1R71 (+)
+Related: https://blog.mirch.io/2021/01/25/sudoedit-lpe/
+Description: Heap-Based Buffer Overflow in Sudo - Baron Samedit (CVE-2021-3156).
+
+URL: https://github.com/ea/bosch_headunit_root
+Description: Rooting Bosch lcn2kai Headunit (Nissan Xterra Infotainment System).
+
+URL: https://web-in-security.blogspot.com/2021/01/insecure-features-in-pdfs.html
+Description: Insecure Features in PDFs.
+
+URL: https://blog.fox-it.com/2020/11/11/decrypting-openssh-sessions-for-fun-and-profit/
+Description: Decrypting OpenSSH sessions for fun and profit.
+
+URL: https://security.oppo.com/en/noticeDetail?notice_only_key=NOTICE-1351377961017942016
+Description: A Special Attack Surface of the Android System (1) - Evil Dialog Box.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/64/cmake-raytracer
+Description: Ray tracer written in pure CMake.
+
+URL: https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50
+Description: A half-hour to learn Zig.
+
+URL: https://github.com/seemoo-lab/openwifipass
+Description: Open source implementation of Apple's Wi-Fi Password Sharing protocol.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?1b55cb1270c7b1de#Xss5QTgKZ1vLjKuYZDEhu6MzerK0B2Y9oP/961t/xYE=
