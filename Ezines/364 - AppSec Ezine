@@ -1,0 +1,139 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 05 | Month: February | Year: 2021 | Release Date: 05/02/2021 | Edition: #364 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/HGVPuDG3ydb
+Description: How I was able to Turn a XSS into a Account Takeover.
+
+URL: https://ash-king.co.uk/blog/Launching-internal-non-exported-deeplinks-on-Facebook
+Description: Facebook for Android - CSRF Attack.
+
+URL: https://blog.sbarbeau.fr/2018/03/nosql-injection-leading-to.html
+Description: NoSQLi injection leading to admin account takeover in Rocket.Chat (Oldies).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/corellium/sud
+Blog: https://corellium.com/blog/su-apps
+Description: sud - a su daemon for corellium devices.
+
+URL: https://github.com/JamesCooteUK/SharpSphere
+Description: SharpSphere - Attacking vSphere Infrastructure.
+
+URL: https://github.com/Josue87/MetaFinder
+Description: Search for documents in a domain through Google.
+
+URL: https://github.com/vuejs/vue-devtools/issues/1353
+Description: Vue.js devtools Universal XSS (Chrome extension).
+
+URL: https://link.medium.com/CygSTPwVudb 
+Description: SSRF exploitation in Spreedsheet to PDF converter.
+
+URL: https://www.zeroperil.com/cisco-lpe-cve-2021-1280/
+Description: LPE in Cisco Immunet and Cisco AMP (CVE-2021-1280).
+
+URL: https://github.com/David-Reguera-Garcia-Dreg/shellex
+Description: C-shellcode to hex converter helper for gdb and more.
+
+URL: https://github.com/NettleSec/TriOp
+Description: Tool for quickly gathering information from Shodan.io.
+
+URL: https://pkb1s.github.io/Relay-attacks-via-Cobalt-Strike-beacons/
+Description: Relay Attacks via Cobalt Strike Beacons.
+
+URL: https://github.com/omerk2511/Sparta
+Description: A virtualization-based endpoint security solution for Windows.
+
+URL: https://github.com/rscloura/Doldrums
+Blog: https://rloura.wordpress.com/2020/12/04/reversing-flutter-for-android-wip/
+Description: A Flutter/Dart reverse engineering tool.
+
+URL: https://github.com/mlgualtieri/NTLMRawUnHide
+Blog: https://www.mike-gualtieri.com/posts/live-off-the-land-and-crack-the-ntlmssp-protocol
+Description: Live off the Land and Crack the NTLMSSP Protocol.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.recurity-labs.com/2021-02-03/webOS_Pt1.html
+Description: CVE-2020-XXXXX - Getting root on webOS.
+
+URL: https://jub0bs.com/posts/2021-01-29-great-samesite-confusion/
+Description: The great SameSite confusion.
+
+URL: https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/
+Description: A tale of EDR bypass methods.
+
+URL: https://adepts.of0x.cc/kerberos-thievery-linux/
+Description: The Kerberos Credential Thievery Compendium (GNU/Linux).
+
+URL: https://elongl.github.io/exploitation/2021/01/08/cve-2014-3153.html
+Description: Exploiting CVE-2014-3153 (Towelroot).
+
+URL: https://tinyhack.com/2021/01/31/dissecting-a-mediatek-bootrom-exploit/
+Description: Dissecting a MediaTek BootROM exploit.
+
+URL: https://pollevanhoof.be/nuggets/smart_cards/nespresso
+Description: Exploiting the Nespresso smart cards for fun and profit coffee.
+
+URL: https://blog.thecybersecuritytutor.com/spoofing-and-attacking-with-skype/
+Description: Spoofing and Attacking With Skype.
+
+URL: https://c4ebt.github.io/2021/01/22/House-of-Rust.html
+Description: Bypassing GLIBC 2.32’s Safe-Linking Without Leaks into Code Execution.
+
+URL: https://www.crowdstrike.com/blog/cve-2021-1678-printer-spooler-relay-security-advisory/
+Description: Security Advisory: MSRPC Printer Spooler Relay (CVE-2021-1678).
+
+URL: https://daniele.tech/2020/12/reverse-engineering-the-saboteur-game-for-xbox360-with-linux/
+More: http://bit.ly/2O3lX3T (+) | http://bit.ly/2MqTsgj (+)
+Description: Reverse Engineering The Saboteur game for Xbox360 with Linux.
+
+URL: https://ch3rn0byl.com/2021/02/a-look-at-cve-2020-17087/
+Description: A Look at CVE-2020-17087 - Or how I failed at exploitation but mitigated it instead...
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://my90stv.com/
+Description: My 90's TV!
+
+URL: https://www.youtube.com/watch?v=cwyH59nACzQ
+Description: Why 111-1111111 is a valid Windows 95 key.
+
+URL: https://explainshell.com
+Description: Write down a command-line to see the help text that matches each argument.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?44b45c62f31235bf#xgMANaWcgEL7ktrwE5GpTgcLQWmu6iuiT2UCIGsRAtM=
