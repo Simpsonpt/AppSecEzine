@@ -1,0 +1,137 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 06 | Month: February | Year: 2021 | Release Date: 12/02/2021 | Edition: #365 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3pcIaJV (+)
+Description: Blind XSS in Google Analytics Admin Panel.
+
+URL: https://link.medium.com/Y5Y2HwRABdb
+Description: Facebook Messenger Desktop App Arbitrary File Read.
+
+URL: https://link.medium.com/6f5WVPb5Jdb 
+Related: https://hackerone.com/reports/946409
+Description: Dependency Confusion - How I Hacked Into Apple, MS and Other Companies.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/jkakavas/creepy/
+Description: A geolocation OSINT tool.
+
+URL: https://luemmelsec.github.io/Relaying-101/
+Description: Relaying 101.
+
+URL: https://github.com/jonasstrehle/supercookie/
+Description: Browser fingerprinting via favicon!
+
+URL: https://github.com/sensepost/dwn
+Description: d(ockerp)wn - a docker pwn tool manager.
+
+URL: https://github.com/jaredhendrickson13/pfsense-api
+Description: The missing REST API package for pfSense.
+
+URL: https://regex.rip/
+Description: Eliminate regular expression denial of service (ReDoS).
+
+URL: https://github.com/its-a-feature/Mythic
+Description: A collaborative, multi-platform, red teaming framework.
+
+URL: https://github.com/SySS-Research/WireBug
+Description: WireBug is a toolset for Voice-over-IP penetration testing.
+
+URL: https://github.com/RenwaX23/XSSTRON
+Description: Electron JS Browser To Find XSS Vulnerabilities Automatically.
+
+URL: https://github.com/vp777/evilFTP
+Description: evilFTP is a set of scripts that aim to help exploit SSRF issues.
+
+URL: https://github.com/projectdiscovery/cloudlist
+Description: Cloudlist is a tool for listing Assets from multiple Cloud Providers.
+
+URL: https://github.com/guardicore/ipcdump
+Description: ipcdump is a tool for tracing interprocess communication (IPC) on Linux.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.cm2.pw/on-site-request-forgery/
+Description: On-site Request Forgery.
+
+URL: http://bit.ly/2MNEYHv (+)
+Description: Galaxy's Meltdown - Exploiting SVE-2020-18610.
+
+URL: https://itm4n.github.io/windows-server-netman-dll-hijacking/
+Description: Windows Server 2008R2-2019 NetMan DLL Hijacking.
+
+URL: https://revers.engineering/applied-reverse-engineering-series/
+Description: Applied Reverse Engineering Series.
+
+URL: http://jpdias.me/hardware/2021/02/02/adventures-in-reverse-dlink.html
+Description: Adventures in Reverse: D-Link DVA-G3170i.
+
+URL: https://blog.chichou.me/2021/01/16/see-no-eval-runtime-code-execution-objc/
+Description: See No Eval - Runtime Dynamic Code Execution in Objective-C.
+
+URL: https://owlspace.xyz/cybersec/tg-nearby/
+Description: Modifying Telegram's "People Nearby" feature to pinpoint people's homes.
+
+URL: http://bit.ly/3aPBqMA (+)
+PoC: https://github.com/ModernPwner/cicuta_virosa
+Description: Analysis and exploitation of the iOS kernel vulnerability CVE-2021-1782.
+
+URL: https://labs.bishopfox.com/tech-blog/bad-pods-kubernetes-pod-privilege-escalation
+Description: Bad Pods - Kubernetes Pod Privilege Escalation.
+
+URL: https://blog.deesee.xyz/regex/security/2020/12/27/regular-expression-injection.html
+Description: Regular expression injection, a code review low hanging fruit.
+
+URL: http://bit.ly/3p8qJKd (+)
+Description: Discovering an Undisclosed Stack Overflow in MS SQL Server (CVE-2019-1068).
+
+URL: https://www.horizon3.ai/disclosures/librenms-second-order-sqli
+Description: Exploiting a Second-Order SQL Injection in LibreNMS < 21.1.0 (CVE-2020-35700).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.failory.com/cemetery
+Description: Startup Cemetery.
+
+URL: https://fmad.io/blog-ssd-bricked-restore.html
+Description: Recover Bricked SSD with JTAG.
+
+URL: https://bitwisecmd.com/
+Description: Bitwise Calculator - Visualised Bitwise Operations.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?c1ffeff856248baf#uYrIUsTmHbsvYY0xY0e+fWTfVA2TPDmRd4cp6FQhnDk=
