@@ -1,0 +1,140 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 07 | Month: February | Year: 2021 | Release Date: 19/02/2021 | Edition: #366 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.inputzero.io/2020/12/telegram-privacy-fails-again.html
+Description: The "P" in Telegram stands for Privacy.
+
+URL: https://ysamm.com/?p=606
+Description: Access files uploaded by employees to internal CDNs and more.
+
+URL: https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom
+Description: Applying Offensive Reverse Engineering to Facebook Gameroom.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/doronz88/hilda
+Description: LLDB+iPython based iOS debugger.
+
+URL: https://github.com/kdrag0n/safetynet-fix
+Description: A universal fix for Google SafetyNet.
+
+URL: https://github.com/nitefood/asn
+Description: ASN/IPv4/IPv6/Prefix/ASPath lookup tool.
+
+URL: https://ilankalendarov.github.io/posts/offensive-hooking/
+Description: Offensive API Hooking (API Monitor + Frida + Python).
+
+URL: https://github.com/fireeye/flare-floss
+Description: Automatically extract obfuscated strings from malware.
+
+URL: https://github.com/loseys/BlackMamba
+Description: BlackMamba a multi client C2/post exploitation framework.
+
+URL: https://github.com/HackOvert/GhidraSnippets
+Description: Python snippets for Ghidra's Program and Decompiler APIs.
+
+URL: https://github.com/david-a-wheeler/flawfinder
+Description: Static analysis tool for finding vulnerabilities in C/C++.
+
+URL: https://github.com/d1vious/git-wild-hunt
+Description: A tool to hunt for credentials in github wild AKA git*hunt.
+
+URL: https://ajpc500.github.io/c2/Using-CloudFlare-Workers-as-Redirectors/
+Description: Using Cloudflare Workers as Redirectors.
+
+URL: https://github.com/itm4n/Perfusion
+Blog https://itm4n.github.io/windows-registry-rpceptmapper-eop/
+Description: Windows RpcEptMapper Service Insecure Registry Permissions EoP.
+
+URL: https://github.com/Flangvik/AzureC2Relay
+Blog: https://www.trustedsec.com/blog/front-validate-and-redirect/
+Description: Azure Function that validates and relays Cobalt Strike beacon traffic.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.crummie5.club/the-lone-sharepoint/
+Description: The Lone Sharepoint.
+
+URL: https://link.medium.com/F1be3jBHXdb
+Description: Bypassing AV Detections - The Dumb Way.
+
+URL: https://lkmidas.github.io/posts/20210123-linux-kernel-pwn-part-1/
+More: http://bit.ly/3jYvK7i (+) | http://bit.ly/37kWREs (+)
+Description: Learning Linux Kernel Exploitation.
+
+URL: https://alephsecurity.com/2021/02/16/apport-lpe/
+Description: Exploiting crash handlers - LPE on Ubuntu (Apport Exploit).
+
+URL: https://www.d00rt.eus/2020/04/ebfuscation-abusing-system-errors-for.html
+Description: Ebfuscation - Abusing system errors for binary obfuscation.
+
+URL: https://bit.ly/3uak1XS (+)
+Description: Windows kernel zero-day exploit (CVE-2021-1732) used in BITTER APT.
+
+URL: https://labs.ioactive.com/2021/02/a-practical-approach-to-attacking-iot.html
+Description: A Practical Approach To Attacking IoT Embedded Designs.
+
+URL: https://improsec.com/tech-blog/bypassing-control-flow-guard-in-windows-10
+More: https://improsec.com/tech-blog/bypassing-control-flow-guard-on-windows-10-part-ii
+Description: Bypassing Control Flow Guard in Windows 10.
+
+URL: https://carstein.github.io/2020/04/18/writing-simple-fuzzer-1.html
+More: http://bit.ly/3awjMii (+) | http://bit.ly/2NySQoU (+) | http://bit.ly/3s4j8OY (+)
+Description: Build Simple Fuzzer - Series.
+
+URL: http://bit.ly/3qzgGPZ (+)
+Description: Unauth command execution vuln in TerraMaster TOS <= 4.2.06 (CVE-2020-35665).
+
+URL: https://www.synacktiv.com/publications/gpgme-used-confusion-its-super-effective.html
+Description: GPGme used confusion, it's super effective!
+
+URL: http://bit.ly/37mCXZI (+)
+Description: Reverse Engineering iMessage - Leveraging the Hardware to Protect the Software.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://imissmybar.com/
+Description: I Miss My Bar.
+
+URL: https://github.com/willmcgugan/rich
+Description: Rich is a Python library for rich text and beautiful formatting in the terminal.
+
+URL: https://github.com/dernasherbrezon/sdr-server
+Description: High performant TCP server for rtl-sdr.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?46741f2589e17b83#uDY3ZbNoJDZEO5u25EEo+YpzomnGgAbun8U3GztGkcI=
