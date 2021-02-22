@@ -73,7 +73,8 @@ URL: https://secret.club/2021/01/12/callout.html
 Description: Hiding execution of unsigned code in system threads.
 
 URL: https://www.ambionics.io/blog/laravel-debug-rce
-Description: Laravel <= v8.4.2 debug mode - Remote code execution.
+Related: https://zdresearch.com/rce-on-a-laravel-private-program/
+Description: Laravel <= v8.4.2 debug mode - RCE (CVE-2021-3129).
 
 URL: http://bit.ly/38kVwhW (+)
 Description: Apache Struts OGNL Remote Code Execution (CVE-2019-0230).
