@@ -1,0 +1,137 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 08 | Month: February | Year: 2021 | Release Date: 26/02/2021 | Edition: #367 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ysamm.com/?p=627
+Description: Leaking Facebook user information to external websites.
+
+URL: https://link.medium.com/TCEdlfHR1db 
+Description: Grafana Admin Panel bypass in Google Acquisition (VirusTotal).
+
+URL: http://bit.ly/3dPJJeN (+)
+Description: Middleware, middleware everywhere - and lots of misconfigurations to fix.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/datatheorem/strongarm
+Description: iOS static analysis stack.
+
+URL: https://github.com/KartheekLade/CANalyse
+Description: A vehicle network analysis and attack tool.
+
+URL: https://github.com/darvincisec/AntiDebugandMemoryDump
+Description: Anti-Debug and Anti-Memory Dump for Android.
+
+URL: https://disconnect3d.pl/2021/02/16/terrible-inet-aton/
+Description: Terrible inet_aton in glibc.
+
+URL: https://github.com/decoder-it/juicy_2
+Description: Juicypotato for WIN10 > 1803 & WIN Server 2019.
+
+URL: https://githacks.org/_xeroxz/msrexec
+Description: Elevate arbitrary MSR writes to kernel execution.
+
+URL: https://github.com/kitabisa/mubeng
+Description: An incredibly fast proxy checker & IP rotator with ease.
+
+URL: https://github.com/liamg/traitor
+Description: Automatic Linux privesc via exploitation of low-hanging fruit.
+
+URL: https://github.com/ryandamour/ssrfuzz
+Description: Tool to find SSRF vulnerabilities, with CRLF chaining capabilities.
+
+URL: https://adepts.of0x.cc/alternatives-copy-shellcode/
+Description: One thousand and one ways to copy your shellcode to memory (VBA Macros).
+
+URL: https://github.com/ZupIT/horusec
+Description: Tool to improve identification of vulns in your project with just one cmd.
+
+URL: https://github.com/agnivesh/endgame/
+Description: AWS Pentesting tool that use one-liner commands to backdoor an AWS account.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://enki.co.kr/blog/2021/02/04/ie_0day.html
+Description: Internet Explorer 0day analysis.
+
+URL: https://swarm.ptsecurity.com/unauth-rce-vmware/ 
+PoC: https://www.o2oxy.cn/3127.html
+Description: Unauthorized RCE in VMware vCenter (CVE-2021-21972).
+
+URL: https://blog.doyensec.com/2021/02/16/electron-apis-misuse.html
+Description: Electron APIs Misuse - An Attacker’s First Choice.
+
+URL: https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html
+More: https://csandker.io/2021/02/21/Offensive-Windows-IPC-2-RPC.html
+Description: Offensive Windows IPC Internals - Series.
+
+URL: https://underdefense.com/n-day-exploit-development-and-upgrade-to-rce/
+Description: N-day exploit development and upgrade to RCE (CVE-2018-6231).
+
+URL: https://ssd-disclosure.com/ssd-advisory-yealink-dm-pre-auth-root-level-rce/
+Description: Yealink DM Pre Auth ‘root’ level RCE (CVE-2021-27561/CVE-2021-27562).
+
+URL: http://bit.ly/3km8dgD (+)
+Description: Methodology for Static Reverse Engineering of Windows Kernel Drivers.
+
+URL: http://bit.ly/3pUPWrY (+)
+Description: Hunting for bugs in Telegram's animated stickers remote attack surface.
+
+URL: https://www.justinsteven.com/posts/2021/02/14/docker-image-history-modification/
+Description: Docker image history modification - why you can't trust `docker history`.
+
+URL: https://blog.secureideas.com/2021/02/ld_preload-how-to-run-code-at-load-time.html
+Description: LD_PRELOAD - How to Run Code at Load Time.
+
+URL: http://bit.ly/3usdkR7 (+)
+Description: NetMotion Mobility Server Multiple Deserialization of Untrusted Data Lead to RCE.
+
+URL: https://link.medium.com/yi1V1YwVLdb 
+Description: Analysis of Windows Fax Service Remote Code Execution Vulnerability (CVE-2021–1722).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://doesnotexist.codes/
+Description: Try to guess if code is real or GPT2-generated.
+
+URL: http://www.righto.com/2021/02/an-ibm-1401-mainframe-computer-at.html
+Description: Booting the IBM 1401 - How a 1959 punch-card computer loads a program.
+
+URL: https://pernold.blogspot.com/2021/02/pi-hole-with-dnscrypt-proxy-and-quad9.html
+Description: Pi-hole with DNSCrypt-Proxy and Quad9.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?0f06be3fe9123510#edK/YDVVkQZbKPuiiod34bmsjRtTEVQLrcuOHUcgKws=
