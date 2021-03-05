@@ -1,0 +1,135 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 09 | Month: March | Year: 2021 | Release Date: 05/03/2021 | Edition: #368  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/2O4cvxt (+)
+Description: SSRF - Bypassing hostname restrictions with fuzzing.
+
+URL: https://thezerohack.com/how-i-might-have-hacked-any-microsoft-account
+Description: How I Might Have Hacked Any Microsoft Account.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/calebstewart/pwncat
+Description: Fancy reverse and bind shell handler.
+
+URL: https://github.com/manasmbellani/subjack
+Description: Subdomain Takeover tool written in Go.
+
+URL: https://github.com/RomanRII/shellcode-through-ICMP
+Description: Using ICMP to deliver shellcode.
+
+URL: https://github.com/goldfiglabs/rpCheckup
+Description: Catch AWS resource policy backdoors like Endgame.
+
+URL: https://github.com/benso-io/posta
+Description: Cross-document Messaging security research tool.
+
+URL: https://github.com/czs108/PE-Packer
+Description: Windows x86 PE file packer written in C & MS Assembly.
+
+URL: https://github.com/HoangKien1020/CVE-2021-23132
+Description: Remote Code Execution (RCE) in Joomla (CVE-2021-23132).
+
+URL: https://github.com/erberkan/fortilogger_arbitrary_fileupload
+Blog: https://erberkan.github.io/2021/cve-2021-3378/
+Description: FortiLogger Unauthenticated Arbitrary File Upload (CVE-2021-3378).
+
+URL: https://github.com/neex/1u.ms
+Description: Zero-configuration DNS utilities to help SSRF and DNS rebinding attacks.
+
+URL: https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC
+Description: Node.JS OS sanitize service Parameters Command Injection (CVE-2021-21315).
+
+URL: https://github.com/atthacks/Privescker
+Description: Helper to dump common Windows enum, privesc and post exploitation scripts.
+
+URL: https://github.com/Anon-Exploiter/SUID3NUM
+Description: Tool to show how SUID and sudo can be used to exploit vulnerable binaries.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://synthesis.to/2021/03/03/flattening_detection.html
+Description: Automated Detection of Control-flow Flattening.05
+
+URL: https://winternl.com/detecting-manual-syscalls-from-user-mode/
+Description: Detecting Manual Syscalls from User Mode.
+
+URL: https://sec.stealthcopter.com/cve-2020-28243/
+Description: SaltStack Minion Local Privilege Escalation (CVE-2020-28243).
+
+URL: https://thunderspy.io/
+Description: When Lightning Strikes Thrice - Breaking Thunderbolt 3 Security.
+
+URL: https://suid.ch/research/DAP-2020_Preauth_RCE_Chain.html
+Description: D-LinkGATE Remote Code Execution (CVE-2021-27249/CVE-2021-27250).
+
+URL: https://galnagli.com/Cache_Poisoning/
+Description: Poisoning your Cache for 1000$ - Approach to Exploitation Walkthrough.
+
+URL: http://bit.ly/3qm7A8i (+)
+Description: Backdoored Browser Extensions Hid Malicious Traffic in Analytics Requests.
+
+URL: https://github.com/pedrib/PoC/blob/master/advisories/Micro_Focus/Micro_Focus_OBR.md
+Description: Multiple Vulnerabilities in Micro Focus Operations Bridge Reporter.
+
+URL: https://www.vdoo.com/blog/realtek-rtl8195a-vulnerabilities-discovered
+Description: Major Vulnerabilities discovered and patched in Realtek RTL8195A Wi-Fi Module.
+
+URL: https://www.graplsecurity.com/post/anatomy-of-an-exploit-rce-with-cve-2020-1350-sigred
+PoC: https://github.com/chompie1337/SIGRed_RCE_PoC
+Description: Anatomy of an Exploit - RCE with CVE-2020-1350 SIGRed.
+
+URL: https://infosecwriteups.com/leakage-of-sensitive-data-through-android-webviews-3b0b86486a28
+Description: Leakage of Sensitive Data Through Android Webviews (CVE-2021–21136).
+
+URL: https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities
+Description: An Exploration of JSON Interoperability Vulnerabilities.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://blog.benjojo.co.uk/post/ping-with-loss-latency-split
+Description: Splitting the ping.
+
+URL: https://github.com/osnr/horrifying-pdf-experiments
+https://rawgit.com/osnr/horrifying-pdf-experiments/master/breakout.pdf
+Description: Horrifying PDF Experiments.
+
+URL: https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/
+Description: How I cut GTA Online loading times by 70%.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?a2db16233056b2c7#JxiG5tVI38WJ4ZhdV3FlEMazdQlHZlon2cvuomzcKpg=
