@@ -105,6 +105,7 @@ URL: https://infosecwriteups.com/leakage-of-sensitive-data-through-android-webvi
 Description: Leakage of Sensitive Data Through Android Webviews (CVE-2021–21136).
 
 URL: https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities
+Related: https://link.medium.com/8CjstoJ2ieb 
 Description: An Exploration of JSON Interoperability Vulnerabilities.
 
 
