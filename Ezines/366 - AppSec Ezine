@@ -91,6 +91,7 @@ URL: https://www.d00rt.eus/2020/04/ebfuscation-abusing-system-errors-for.html
 Description: Ebfuscation - Abusing system errors for binary obfuscation.
 
 URL: https://bit.ly/3uak1XS (+)
+PoC: https://github.com/KaLendsi/CVE-2021-1732-Exploit
 Description: Windows kernel zero-day exploit (CVE-2021-1732) used in BITTER APT.
 
 URL: https://labs.ioactive.com/2021/02/a-practical-approach-to-attacking-iot.html
