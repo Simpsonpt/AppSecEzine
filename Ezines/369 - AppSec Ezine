@@ -1,0 +1,137 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 10 | Month: March | Year: 2021 | Release Date: 12/03/2021 | Edition: #369  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.doyensec.com/2021/03/11/regexploit.html
+Tool: https://github.com/doyensec/regexploit
+Description: Regexploit - DoS-able Regular Expressions.
+
+URL: http://bit.ly/2PQ7ol3 (+)
+Description: A brief history of an XSS at chat.mozilla.org (CVE-2021-21320).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://gitlab.com/michenriksen/jdam
+Description: A structure-aware JSON fuzzer.
+
+URL: https://github.com/klinix5/GoogleUpdateSvcLPE
+Description: Google chrome/Microsoft edge LPE.
+
+URL: https://github.com/inbucket/inbucket
+Description: Disposable webmail server (similar to Mailinator).
+
+URL: https://github.com/Netflix/consoleme
+Blog: http://bit.ly/30DcEe9 (+)
+Description: A Central Control Plane for AWS Permissions and Access.
+
+URL: https://github.com/r3curs1v3-pr0xy/sub404
+Description: A python tool to check subdomain takeover vulnerability.
+
+URL: https://github.com/cyberark/blobhunter
+Description: Find exposed data in Azure with this public blob scanner.
+
+URL: https://githacks.org/_xeroxz/theodosius
+Description: JIT linker created entirely for obfuscation and mutation.
+
+URL: https://hinty.io/devforth/dns-exfiltration-of-data-step-by-step-simple-guide/
+Description: DNS exfiltration of data - step-by-step simple guide.
+
+URL: https://link.medium.com/lxoQNraUteb 
+Description: How to extract Python source code from Py2App packed Mach-O Binaries.
+
+URL: https://github.com/yuske/SerialDetector
+Description: PoC to detect and exploit Object Injection Vulnerabilities in .NET apps.
+
+URL: https://github.com/rackerlabs/pyndiff/
+Description: Generate human-readable ndiff output when comparing 2 Nmap XML scan files.
+
+URL: https://github.com/FSecureLABS/physmem2profit
+Description: Create a minidump of a target hosts' LSASS by analysing physical mem remotely.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://research.aurainfosec.io/v380-ip-camera/
+Description: CCTV - Now You See Me, Now You Don't.
+
+URL: https://blog.frizn.fr/linux-kernel/cve-2020-14381
+Description: The curious case of CVE-2020-14381.
+
+URL: https://www.horizon3.ai/disclosures/zabbix-csrf-to-rce
+Description: CSRF to RCE Chain in Zabbix (CVE-2021-27927).
+
+URL: https://quentinkaiser.be/security/2021/03/09/voodoo/
+Description: VOOdoo - Remotely Compromising VOO Cable Modems.
+
+URL: https://igor-blue.github.io/2021/02/10/graphics-part1.html
+More: https://igor-blue.github.io/2021/02/24/graphics-part2.html
+Description: Security of the Intel Graphics Stack.
+
+URL: http://dronesec.pw/blog/2021/03/10/on-exploiting-cve-2021-1648/
+Description: On Exploiting CVE-2021-1648 (Splwow64 LPE).
+
+URL: https://link.medium.com/uXjethFzpeb 
+Description: Safe code & pitfalls - DLL side-loading, WinAPI and C++.
+
+URL: https://zon8.re/posts/jsc-internals-part1-tracing-js-source-to-bytecode/
+More: https://zon8.re/posts/jsc-internals-part2-the-llint-and-baseline-jit/
+Description: JavaScriptCore Internals Series.
+
+URL: https://blog.zapb.de/stm32f1-exceptional-failure/
+Description: Exception(al) Failure - Breaking the STM32F1 Read-Out Protection.
+
+URL: http://bit.ly/2OKoEaW (+)
+Description: Analysis of CVE-2020-0605 – Code Execution using XPS Files in .NET.
+
+URL: http://bit.ly/3vjswjV (+)
+Description: Sign over Your Hashes – Stealing NetNTLM Hashes via Outlook Signatures.
+
+URL: https://www.praetorian.com/blog/reproducing-proxylogon-exploit/
+PoC: https://github.com/jsdryan/CVE-2021-26855
+Description: Reproducing the Microsoft Exchange Proxylogon Exploit Chain (CVE-2021-26855).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://vole.wtf/kilobytes-gambit/
+Description: The Kilobyte’s Gambit.
+
+URL: https://spectrum-os.org/
+Description: Spectrum - A step towards usable secure computing.
+
+URL: https://github.com/charliegerard/whereami.js
+Description: Node.js module to predict indoor location using ML and WiFi information.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?9833c0526e659fc4#Pzq56FTbh9UbyTBtMUZZWC7pKq7EHdYX7LAbvTGisVc=
