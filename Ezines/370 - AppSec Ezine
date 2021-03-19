@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 11 | Month: March | Year: 2021 | Release Date: 19/03/2021 | Edition: #370  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/PUh3gYlCEeb
+Description: It’s time to stop using SMS for anything.
+
+URL: http://bit.ly/3eQoauY (+)
+Description: DuckDuckGo Privacy Essentials vulnerabilities - Insecure coms and uXSS.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/stealth/tinkershell
+Description: LPE PoC for the Tinkerboard.
+
+URL: https://github.com/S4R1N/BadOutlook
+Description: (kinda) Malicious Outlook Reader.
+
+URL: https://github.com/tandasat/HelloSmm
+Description: Building BIOS with a Custom SMM Module.
+
+URL: https://github.com/gianlucafrei/Application-Gateway
+Description: OWASP Application Gateway.
+
+URL: https://github.com/visma-prodsec/confused
+Description: Check for dependency confusion vulnerabilities.
+
+URL: https://github.com/FuzzySecurity/StandIn
+Description: StandIn is a small .NET35/45 AD post-exploitation toolkit.
+
+URL: https://github.com/harporoeder/ebpfsnitch
+Description: Linux Application Level Firewall based on eBPF and NFQUEUE.
+
+URL: https://github.com/adityaks/strafer
+Description: Tool to detect potential infections in Elasticsearch instances.
+
+URL: https://github.com/FPSG-UIUC/lotr
+Description: Side Channel Attacks on the CPU On-Chip Ring Interconnect PoC.
+
+URL: https://github.com/iann0036/iamlive
+Description: Generate a basic IAM policy from AWS client-side monitoring (CSM).
+
+URL: https://github.com/ctxis/DLLHSC
+Description: DLL Hijack SCanner a tool to assist with candidates for DLL Hijacking.
+
+URL: https://github.com/sudosammy/knary
+Description: A simple HTTP(S)/DNS Canary bot with Slack/Discord/MS Teams&Pushover support.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.pangu.io/?p=230
+Description: Don't play with fire, as well as race condition.
+
+URL: https://leaky.page/
+More: http://bit.ly/3eU0LJa (+)
+Description: A Spectre proof-of-concept for a Spectre-proof web.
+
+URL: https://blog.teddykatz.com/2021/03/17/github-actions-write-access.html
+Description: Stealing arbitrary GitHub Actions secrets.
+
+URL: http://dronesec.pw/blog/2020/08/07/digging-the-adobe-sandbox-internals/
+Description: Digging the Adobe Sandbox - IPC Internals.
+
+URL: http://bit.ly/3cRLOVs (+)
+Description: Analysis of Cisco AnyConnect Posture (HostScan) LPE (CVE-2021-1366).
+
+URL: https://abigpickle.github.io/posts/2021/03/serenityos-kernel-hacking-adventures/
+Description: SerenityOS - Kernel Hacking Adventures.
+
+URL: http://bit.ly/2NzwdkG (+)
+Description: Stealing Froxlor login credentials using dangling markup (CVE-2020-29653).
+
+URL: https://www.synacktiv.com/posts/exploit/memory-leak-and-use-after-free-in-squid.html
+Description: Memory leak (CVE-2019-18679) and Use After Free (CVE-2020-11945) in Squid.
+
+URL: https://engineering.skroutz.gr/blog/uncovering-a-24-year-old-bug-in-the-linux-kernel/
+Description: Uncovering a 24-year-old bug in the Linux Kernel.
+
+URL: https://link.medium.com/hKwnItmxJeb
+Description: Examining a Phishing Vector in Plex Media Server (CVE-2020–5740/CVE-2020–574).
+
+URL: https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/
+Description: Exploiting CVE-2019-1040 - Combining relay vulnerabilities for RCE and Domain Admin.
+
+URL: https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore
+Description: The Mysterious Realm of JavaScriptCore.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://httptoolkit.tech/blog/http-wtf/
+Description: HTTPWTF.
+
+URL: https://github.com/Shellywell123/SKanimATE
+Description: Animated Flatground Skateboard Tricks.
+
+URL: https://github.com/DavidBuchanan314/tweetable-polyglot-png
+Description: Pack up to 3MB of data into a tweetable PNG polyglot file.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?82c01ec342f3aa4f#GRjEWNp0FF1MqNzU6IM5ZMkbYKXYe0YcstRRf8LzduU=
