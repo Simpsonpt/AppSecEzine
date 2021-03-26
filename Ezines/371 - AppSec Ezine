@@ -1,0 +1,136 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 12 | Month: March | Year: 2021 | Release Date: 26/03/2021 | Edition: #371  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105
+Description: TikTok for Android 1-Click RCE.
+
+URL: https://blog.cryptohack.org/twitter-secrets
+Description: Recovering a full PEM Private Key when half of it is redacted (CTF).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/nccgroup/UninstalledAppCanary
+Description: Uninstalled App Canary.
+
+URL: https://github.com/Malfrats/xeuledoc
+Description: Fetch information about a public Google document.
+
+URL: https://github.com/pattern-f/TQ-pre-jailbreak
+Description: A PRE-jailbreak for iOS 14.0 ~ iOS 14.3 on all devices.
+
+URL: https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet
+Description: General notes and advices for cobalt strike C2 framework.
+
+URL: https://github.com/sigstore/cosign
+Description: Container Signing, Verification and Storage in an OCI registry.
+
+URL: https://github.com/nccgroup/solitude
+Description: Tool that enables anyone to conduct their own privacy investigations.
+
+URL: https://bit.ly/31lMsox (+)
+Description: Solving E-mail and SMS TAN multi-factor auth w/ Hackvertor custom tags.
+
+URL: https://github.com/ztgrace/mole
+Description: Framework for identifying and exploiting out-of-band application vulns.
+
+URL: https://github.com/samuelkarp/runj
+Description: Experimental, proof-of-concept OCI-compatible runtime for FreeBSD jails.
+
+URL: https://github.com/ronin-rb/ronin
+Description: Ronin is a Ruby platform for vulnerability research and exploit development.
+
+URL: https://github.com/Overv/outrun
+Description: Execute a local command using the processing power of another Linux machine.
+
+URL: https://devilinside.me/blogs/reproducing-ndays-qiling
+Description: Reproducing n-day vulnerabilities and writing N-day based fuzzer with Qiling.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bit.ly/2P6RvXy (+)
+Description: Custom Protocol Handlers.
+
+URL: https://microsoftedge.github.io/edgevr/posts/yet-another-uaf/
+Description: Yet another RenderFrameHostImpl UAF.
+
+URL: https://thomasw.dev/post/kfence/
+Description: KFENCE - Detecting memory bugs in production kernels.
+
+URL: https://sayfer.io/blog/3-vulnerabilities-in-kaspersky-tinycheck/
+Description: 3 Vulnerabilities in Kaspersky-backed TinyCheck.
+
+URL: https://decoded.avast.io/simonamusilova/ghostdns-source-code-leaked/
+Description: GhostDNS Source Code Leaked.
+
+URL: https://blog.talosintelligence.com/2020/04/fingerprint-research.html
+Description: Fingerprint cloning - Myth or reality?
+
+URL: https://alaa.blog/2020/12/how-i-hacked-facebook-part-one/
+More: https://alaa.blog/2021/02/how-i-hacked-facebook-part-two/
+Description: How I hacked Facebook.
+
+URL: https://reverse.put.as/2020/09/26/the-finfisher-tales-chapter-1/
+Related: https://objective-see.com/blog/blog_0x4F.html
+Description: The Finfisher Tales, Chapter 1 - The dropper.
+
+URL: https://zxsecurity.co.nz/research/all-my-intune-users-are-local-administrators/
+Description: All my Intune users could become Local Administrators and it's a Feature?
+
+URL: https://www.randhome.io/blog/2020/12/20/analyzing-cobalt-strike-for-fun-and-profit/  
+Related: https://quake.360.cn/quake/#/reportDetail?id=5fc6fedd191038c3b25c4950
+Description: Analyzing Cobalt Strike for Fun and Profit.
+
+URL: https://blog.vincss.net/2021/03/ex006-hanh-trinh-khai-thac-lo-hong-cve-2021-22986.html
+PoC: https://github.com/h4x0r-dz/RCE-Exploit-in-BIG-IP
+Description: Journey to exploit vulnerabilities F5 unauthenticated RCE (CVE-2021-22986).
+
+URL: https://www.synacktiv.com/publications/an-interesting-feature-in-the-samsung-dsp-driver.html
+Description: An Interesting Feature in the Samsung DSP Driver.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.coderelay.io/fontemon.html
+Description: World's first video game in a font!
+
+URL: https://justine.lol/redbean/index.html
+Description: Single-file distributable web server.
+
+URL: https://github.com/pemistahl/grex
+Description: Tool and library for generating regex from user-provided test cases.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?7fe92667a0a81d21#FOe4oimpaLySJVJRcfmK4oGR3rf5WKpcJT10739YKfQ=
