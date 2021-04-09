@@ -1,0 +1,136 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 14 | Month: April | Year: 2021 | Release Date: 09/04/2021 | Edition: #373  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://robertchen.cc/blog/2021/04/03/github-pages-xss
+Description: Breaking GitHub Private Pages for $35k.
+
+URL: https://ysamm.com/?p=654
+Description: Facebook account takeover due to a wide platform bug in ajaxpipe responses.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/gquere/bloodhound_linux
+Blog: https://www.errno.fr/BloodhoundForLinux.html
+Description: Ingest openldap data into bloodhound.
+
+URL: https://github.com/redcode-labs/SNOWCRASH
+Description: A polyglot payload generator (Windows/Linux).
+
+URL: https://github.com/aj-code/3gsocks
+Related: https://pulsesecurity.co.nz/articles/portable-pivoting
+Description: A reverse connection socks5 based network pivot.
+
+URL: https://threat.tevora.com/finding-broken-access-controls/
+Description: Finding Broken Access Controls.
+
+URL: https://github.com/djhohnstein/cliProxy
+Blog: https://posts.specterops.io/man-in-the-terminal-65476e6165b9
+Description: Proxy Unix applications in the terminal.
+
+URL: https://milosilo.com/hacking/microsoft-teams-proxy-dll-hijacking/
+Description: Microsoft Teams Proxy DLL Hijacking(Tutorial).
+
+URL: https://github.com/revng/pagebuster
+Description: PageBuster - dump all executable pages of packed processes.
+
+URL: https://github.com/swimlane/soc-faker
+Description: Tool to generate fake data for SOC and security automation.
+
+URL: https://github.com/kgoins/ldsview
+Description: Offline search tool for LDAP directory dumps in LDIF format.
+
+URL: https://osandamalith.com/2021/04/01/executing-shellcode-via-callbacks/
+Description: Executing Shellcode via Callbacks.
+
+URL: https://github.com/Kevin-Robertson/InveighZero
+Description: Windows C# LLMNR/mDNS/NBNS/DNS/DHCPv6 spoofer/man-in-the-middle tool.
+
+URL: https://theartofmachinery.com/2021/03/18/reverse_engineering_a_docker_image.html
+Description: Reverse Engineering a Docker Image.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://0xra.github.io/posts/apple-tv-code-execution/
+Description: Apple TV for Fire OS code execution.
+
+URL: https://link.medium.com/Pk9oIZqY6eb 
+Description: Zero click vulnerability in Apple's macOS Mail.
+
+URL: https://bit.ly/32arZDT (+)
+PoC: https://github.com/ray-cp/browser_pwn/tree/master/v8_pwn/cve-2020-6418
+Description: Browser-pwn CVE-2020-6418 vulnerability analysis.
+
+URL: https://goteleport.com/blog/securing-postgres-postgresql/
+Description: Securing Your PostgreSQL Database.
+
+URL: https://link.medium.com/yipTEU8cdfb 
+Description: Testing and exploiting Java Deserialization in 2021.
+
+URL: https://micahvandeusen.com/the-power-of-seimpersonation/
+Description: The Power of SeImpersonation and Potato Exploits Family.
+
+URL: https://bit.ly/39VqsWl (+)
+Description: Getting Code Execution on Apache Druid (CVE-2021-25646).
+
+URL: https://bit.ly/3cYXir7 (+)
+Description: I Built a TV That Plays All of Your Private YouTube Videos.
+
+URL: https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html
+Description: BleedingTooth - Linux Bluetooth Zero-Click Remote Code Execution.
+
+URL: https://bit.ly/3ma8B2X (+)
+Description: A vulnerability in RAUC embedded firmware update framework (CVE-2020-25860).
+
+URL: https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html
+Description: This man thought opening a TXT file is fine, he thought wrong (CVE-2019-8761).
+
+URL: https://research.checkpoint.com/2020/bugs-on-the-windshield-fuzzing-the-windows-kernel/
+Description: Bugs on the Windshield - Fuzzing the Windows Kernel.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://link.medium.com/KvSwaSUMffb 
+Description: Multiparty computation MPC-Over-Signal.
+
+URL: https://isevenapi.xyz/
+Description: Use isEven to tell if a number is even.
+
+URL: https://github.com/muesli/duf
+Description: Disk Usage/Free Utility - a better 'df' alternative.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?8d49d00a168ca18f#IqdsAawr5lRc3y0SPz+vKKlJ3gBJ0GA1fndpWGGhN+M=
