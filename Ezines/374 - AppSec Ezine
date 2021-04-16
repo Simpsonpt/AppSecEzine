@@ -1,0 +1,138 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 15 | Month: April | Year: 2021 | Release Date: 16/04/2021 | Edition: #374  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/
+Description: RCE on Starbucks Singapore and more for $5600.
+
+URL: https://link.medium.com/O9YBdu6cufb 
+Description: What if you could deposit money into your Betting account for free?
+
+URL: https://ysamm.com/?p=646
+Description: Facebook account takeover due bypass of allowed callback URLs in OAuth flow.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/sepinf-inc/IPED
+Description: IPED Digital Forensic Tool.
+
+URL: https://github.com/denandz/fuzzotron
+Description: A TCP/UDP based network daemon fuzzer.
+
+URL: https://github.com/threatexpress/random_c2_profile
+Description: Cobalt Strike random C2 Profile generator.
+
+URL: https://github.com/Checkmarx/kics
+Description: Keeping Infrastructure as Code Secure (KICS).
+
+URL: https://blog.dixitaditya.com/hacking-a-chrome-extension/
+Description: Hacking a Chrome Extension for Fun and Profit.
+
+URL: https://github.com/knavesec/CredMaster
+Description: Refactored & improved CredKing password spraying tool.
+
+URL: https://github.com/assetnote/kiterunner
+Blog: https://blog.assetnote.io/2021/04/05/contextual-content-discovery/
+Description: Contextual Content Discovery Tool.
+
+URL: https://github.com/androidmalware/android_hid
+Description: Use Android as Rubber Ducky against another Android device.
+
+URL: https://github.com/deepfence/SecretScanner
+Description: Find secrets and passwords in container images and file systems.
+
+URL: https://github.com/litneet64/etherblob-explorer
+Description: Search and extract blob files on the Ethereum Blockchain network.
+
+URL: https://offsec.almond.consulting/java-tls-intercept.html
+Description: Intercept mutually-authenticated TLS communications of a Java thick client.
+
+URL: https://github.com/doronz88/harlogger
+Description: Tool to sniff and decrypt HTTP/HTTPS on a jailbroken iOS into an HAR format.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://swarm.ptsecurity.com/rce-cockpit-cms/
+Description: From 0 to RCE - Cockpit CMS.
+
+URL: https://leethax0.rs/2021/04/ElectricChrome/
+Description: Electric Chrome - CVE-2020-6418 on Tesla Model 3.
+
+URL: https://positive.security/blog/url-open-rce
+Description: Allow arbitrary URLs, expect arbitrary code execution.
+
+URL: https://sensepost.com/blog/2021/duo-two-factor-authentication-bypass/
+Description: Duo Two-factor Authentication Bypass.
+
+URL: https://voidsec.com/exploiting-system-mechanic-driver/
+Description: Exploiting System Mechanic Driver (Windows Drivers Research).
+
+URL: https://thinkloveshare.com/en/hacking/ssrf_to_rce_with_jolokia_and_mbeans/
+Description: SSRF to RCE with Jolokia and MBeans.
+
+URL: http://noahblog.360.cn/chromium_v8_remote_code_execution_vulnerability_analysis/
+Description: Chromium V8 JavaScript engine RCE vulnerability analysis discussion.
+
+URL: http://bit.ly/2DCUGy1 (+)
+Description: Security Best Practices - Symmetric Encryption with AES in Java and Android.
+
+URL: https://bit.ly/3dk8LSw (+)
+Description: Reverse engineering Emotet – Our approach to protect GRNET against the trojan.
+
+URL: https://www.riscure.com/blog/samsung-investigation-part1
+More: https://www.riscure.com/blog/samsung-investigation-part2 (/samsung-investigation-part3)
+Description: Breaking TEE Security Series.
+
+URL: https://census-labs.com/news/2021/04/14/whatsapp-mitd-remote-exploitation-CVE-2021-24027/
+Description: Remote exploitation of a man-in-the-disk vulnerability in WhatsApp (CVE-2021-24027).
+
+URL: https://bit.ly/3e55J3D (+)
+PoC: https://github.com/0vercl0k/CVE-2021-24086
+Description: Reverse-engineering tcpip.sys - Mechanics of a packet of the death (CVE-2021-24086).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://tonsky.me/blog/font-size/
+Description: Font size is useless; let’s fix it.
+
+URL: https://github.com/captbaritone/webamp
+Description: Winamp 2 reimplemented for the browser.
+
+URL: https://github.com/mortbopet/Ripes
+Description: A graphical processor simulator and assembly editor for the RISC-V ISA.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?53338fefd2bc09d3#LEJNCXfa0QSQhyGHwcZzLDThRZj/+yRZRgimu32agwU=
