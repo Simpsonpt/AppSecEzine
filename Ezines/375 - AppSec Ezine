@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 16 | Month: April | Year: 2021 | Release Date: 23/04/2021 | Edition: #375  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://justi.cz/security/2021/04/20/cocoapods-rce.html
+Description: Hacking 3,000,000 apps at once through CocoaPods.
+
+URL: https://hackerone.com/reports/1125425
+Description: RCE via unsafe inline Kramdown options when rendering certain Wiki pages.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/umputun/reproxy
+Description: Simple edge server / reverse proxy.
+
+URL: https://github.com/jvns/dnspeep
+Description: Spy on the DNS queries your computer is making.
+
+URL: https://blog.noob.ninja/spilling-local-files-via-xxe-when/
+Description: Spilling Local Files via XXE when HTTP OOB fails.
+
+URL: https://github.com/S3cur3Th1sSh1t/NamedPipePTH
+Blog: https://s3cur3th1ssh1t.github.io/Named-Pipe-PTH/
+Description: Pass the Hash to a named pipe for token Impersonation.
+
+URL: https://github.com/dwisiswant0/galer
+Description: A fast tool to fetch URLs from HTML attributes by crawl-in.
+
+URL: https://github.com/FSecureLABS/SharpGPOAbuse
+Description: Tool to compromise the objects that are controlled by a GPO.
+
+URL: https://github.com/salecharohit/do-pentest
+Description: Spin up a Digital Ocean droplet using Terraform and Ansible.
+
+URL: https://github.com/urbanadventurer/Android-PIN-Bruteforce
+Description: Unlock an Android phone (or device) by bruteforcing the lockscreen PIN.
+
+URL: https://github.com/cyberark/kubesploit
+Description: Kubesploit is a cross-platform post-exploitation HTTP/2 Command & Control.
+
+URL: https://github.com/Tylous/Limelighter
+Description: A tool for generating fake code signing certificates or signing real ones.
+
+URL: https://github.com/TheWover/CertStealer
+Description: A .NET tool for exporting and importing certificates without touching disk.
+
+URL: https://github.com/xforcered/CredBandit
+Description: BOF to do a memdump of a process and send back through an existing com channel. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bit.ly/2QS4TiA (+)
+Description: Combining Direct System Calls and sRDI to bypass AV/EDR.
+
+URL: https://theevilbit.github.io/posts/macos_crashreporter/
+Description: Abusing macOS Crash Reporter (CVE-2020-9900/CVE-2021-1786).
+
+URL: https://blog.ryotak.me/post/homebrew-security-incident-en/
+Description: RCE in Homebrew by compromising the official Cask repository.
+
+URL: https://iamelli0t.github.io/2021/04/20/Chromium-Issue-1196683-1195777.html
+Description: Analysis of Chromium issue 1196683, 1195777.
+
+URL: https://paulmillr.com/posts/noble-secp256k1-fast-ecc/
+Description: noble-secp256k1: Learning fast elliptic-curve cryptography in JS.
+
+URL: https://bit.ly/3ennZVZ (+)
+Description: Royal Flush - Privilege Escalation Vulnerability in Azure Functions.
+
+URL: https://secret.club/2021/04/20/source-engine-rce-invite.html
+Description: Source engine remote code execution via game invites (CVE-2021-30481).
+
+URL: https://link.medium.com/cpaDPdG7Efb
+Description: Telegram BBP - XSS, privacy issues, official bot exploitation and more.
+
+URL: https://www.cloaked.pl/2021/04/cve-2021-26415/
+Description: Windows Installer Elevation of Privilege Vulnerability (CVE-2021-26415).
+
+URL: https://bit.ly/3xjBjDo (+)
+Description: Analysis of a UaF Vulnerability in Adobe Acrobat Reader DC (CVE-2020-9715).
+
+URL: https://bit.ly/3dH1FHX (+)
+Description: Disclosure of Qualcomm 4/5G mobile baseband messaging system and state machine.
+
+URL: https://shenaniganslabs.io/2021/04/13/Airstrike.html
+Description: Airstrike Attack - FDE bypass and EoP on domain joined Windows WS (CVE-2021-28316).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://remyhax.xyz/posts/bitsquatting-windows/
+Description: Bitsquatting Windows.com.
+
+URL: https://poolp.org/posts/2021-03-26/march-2021-backups-with-plakar/
+Description: Plakar: Yet another backup utility.
+
+URL: https://paramdeo.com/blog/opting-your-website-out-of-googles-floc-network
+Description: Opting your Website out of Google's FLoC Network.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?96f7cd53cc7870d4#Wnuks4nyzpqktyDBmhVBCfC+S0nMAVX3h34f1ma+PXc=
