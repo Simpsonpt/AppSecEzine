@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 18 | Month: May | Year: 2021 | Release Date: 07/05/2021 | Edition: #377   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.xpnsec.com/weird-ways-to-execute-dotnet/
+Description: Weird Ways to Run Unmanaged Code in .NET.
+
+URL: https://ysamm.com/?p=667
+Description: Facebook account takeover due to unsafe redirects after the OAuth flow.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/gand3lf/heappy
+Description: Heappy - a happy heap editor.
+
+URL: https://nthashes.com/
+Description: Active Directory Password Auditing.
+
+URL: https://github.com/digininja/CeWL
+Description: CeWL is a Custom Word List Generator.
+
+URL: https://github.com/iosiro/baserunner
+Description: A tool for exploring Firebase datastores.
+
+URL: https://github.com/zznop/bn-uefi-helper
+Description: Helper plugin for analyzing UEFI firmware.
+
+URL: https://bit.ly/3y0XNtB (+)
+Description: Firebase Domain Front - Hiding C2 as App traffic.
+
+URL: https://github.com/Cr4sh/MicroBackdoor
+Description: Small and convenient C2 tool for Windows targets.
+
+URL: https://github.com/anshumanpattnaik/http-request-smuggling
+Description: HTTP Request Smuggling Detection Tool.
+
+URL: https://github.com/FunnyWolf/pystinger
+Description: Bypass firewall for traffic forwarding using webshell.
+
+URL: https://github.com/AzAgarampur/byeintegrity-uac
+Description: Bypass UAC by hijacking a DLL located in the Native Image Cache.
+
+URL: https://github.com/G0ldenGunSec/SharpTransactedLoad
+Description: Load .NET assemblies from memory while simulating an on-disk location load.
+
+URL: https://github.com/GONZOsint/gitrecon
+Description: Tool to get info from a Github/lab profile and find emails leaked on commits.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/lfKIrtvoRfb
+Related: https://objective-see.com/blog/blog_0x64.html
+Description: macOS Gatekeeper Bypass (2021 Edition).
+
+URL: https://www.qualys.com/2021/05/04/21nails/21nails.txt
+Description: 21Nails - Multiple vulnerabilities in Exim.
+
+URL: https://mcyoloswagham.github.io/linux/
+Description: A foray into Linux kernel exploitation on Android.
+
+URL: https://www.somersetrecon.com/blog/2021/hacking-the-furbo-part-1
+PoC: https://github.com/Somerset-Recon/furbo-research
+Description: Hacking the Furbo Dog Camera.
+
+URL: https://www.atredis.com/blog/2021/4/30/asus-authentication-bypass
+Description: ASUS GT-AC2900 Authentication Bypass (CVE-2021-32030).
+
+URL: https://link.medium.com/jlQBMvqoRfb 
+Description: DNS Based Out of Band Blind SQL injection in Oracle — Dumping data.
+
+URL: https://bit.ly/3nUTNG9 (+)
+Description: How I Hacked Google App Engine - Anatomy of a Java Bytecode Exploit.
+
+URL: https://naehrdine.blogspot.com/2021/04/bluetooth-wi-fi-code-execution-wi-fi.html
+Description: Bluetooth → Wi-Fi Code Execution & Wi-Fi Debugging.
+
+URL: https://blog.oversecured.com/Exploiting-memory-corruption-vulnerabilities-on-Android/
+Description: Exploiting memory corruption vulnerabilities on Android.
+
+URL: http://blog.redxorblue.com/2021/05/assemblylie-using-transactional-ntfs.html
+Description: Using Transactional NTFS/API Hooking to Trick the CLR into Loading Your Code.
+
+URL: https://bit.ly/3f2Uc5c (+)
+Description: Dell Computers At Risk Due to Multiple BIOS Driver PE Flaws (CVE-2021-21551).
+
+URL: https://sysdig.com/blog/cve-2021-25735-kubernetes-admission-bypass/
+Description: Exploiting/Detecting CVE-2021-25735 - K8s validating admission webhook bypass.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.dustri.org/b/detecting-and-annoying-burp-users.html
+Description: Detecting and annoying Burp users.
+
+URL: https://blog.erratasec.com/2021/04/anatomy-of-how-you-get-pwned.html
+Description: Anatomy of how you get pwned.
+
+URL: https://bit.ly/2RxSGjK (+)
+Description: Information From Thin Air - Using SDR to Extract DTMF from Radio Waves.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?434ed0eea4f39cdb#XVPyQLf4NbgV9iEpp1jsgdBW2YtT3EyeWjLkEM6IV2I=
