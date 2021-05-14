@@ -1,0 +1,139 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 19 | Month: May | Year: 2021 | Release Date: 14/05/2021 | Edition: #378   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ysamm.com/?p=695
+Description: One-click reflected XSS in Instagram due to unfiltered URI schemes.
+
+URL: https://link.medium.com/3syJIdYkegb 
+Description: Workplace from Facebook - Unauthorized access to companies environment.
+
+URL: https://blog.bricked.tech/posts/exiftool/
+Description: Recreating a critical bug in ExifTool, no Perl smarts required (CVE-2021-22204).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/b1tg/rust-windows-shellcode
+Description: Windows shellcode development in Rust.
+
+URL: https://github.com/dwisiswant0/apkleaks
+Description: Scanning APK file for URIs, endpoints & secrets.
+
+URL: https://www.trustedsec.com/blog/adexplorer-on-engagements/
+Description: ADExplorer on Engagements.
+
+URL: https://github.com/accuknox/KubeArmor
+Description: Container-aware Runtime Security Enforcement System.
+
+URL: https://github.com/nullpo-head/dbgee/
+Description: Dbgee - the Zero-Configuration Debuggee for Debuggers.
+
+URL: https://github.com/projectdiscovery/interactsh
+Blog: https://blog.projectdiscovery.io/interactsh-release/
+Description: An OOB interaction gathering server and client library.
+
+URL: https://github.com/waleedassar/CVE-2021-24098
+Description: POC for CVE-2021-24098, a Denial Of Service bug in condrv.sys.
+
+URL: https://github.com/CriticalSecurity/paradox
+Descriptions: Paradox (In)Security Systems - IP150 Internet Module Hijacking.
+
+URL: https://github.com/optiv/ScareCrow
+Description: ScareCrow - Payload creation framework designed around EDR bypass.
+
+URL: https://github.com/Skiller9090/Lucifer
+Description: A Powerful Penetration GUI Tool For Automating Penetration Tasks.
+
+URL: https://github.com/Aetsu/OffensivePipeline
+Description: Tool to download, compile and obfuscate C# tools for Red Team exercises.
+
+URL: https://github.com/pathtofile/SealighterTI
+Blog: https://blog.tofile.dev/2021/05/12/sealighterti.html
+Description: Combining Sealighter w/ unpatched bugs to run the Threat-Intelligence ETW.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://tsuname.io/
+Description: Vulnerability that can be used to DDoS DNS.
+
+URL: https://voidsec.com/nvidia-geforce-experience-command-execution/
+Description: NVIDIA GeForce Experience Command Execution (CVE‑2021‑1079).
+
+URL: https://positive.security/blog/send-my
+Description: Send My - Arbitrary data transmission via Apple's Find My network.
+
+URL: https://bit.ly/3w1jvM0 (+)
+Description: How we bypassed bytenode and decompiled Node.js bytecode in Ghidra.
+
+URL: https://joern.io/blog/vlc-automatic-updater-buffer-overflow-vulnerability/
+Description: VLC Automatic Updater Buffer Overflow Vulnerability.
+
+URL: https://infosecwriteups.com/brave-stealing-your-cookies-remotely-1e09d1184675
+Description: Brave - Stealing your cookies remotely.
+
+URL: https://bit.ly/3fgUqWD (+)
+PoC: https://github.com/alonstern/function-identification
+Description: CNN for Reverse Engineering - an Approach for Function Identification.
+
+URL: https://bit.ly/3eLTAC4 (+)
+Description: Hideez Key 2 FAIL - How a good idea turns into a Security Product Failure.
+
+URL: https://www.fragattacks.com/
+Description: Fragmentation and Aggregation Attacks - Security flaws in all Wi-Fi devices.
+
+URL: https://bit.ly/3vXTRHY (+)
+Description: Uncovering and Disclosing a Signature Spoofing Issue in MSI (CVE-2021-26413).
+
+URL: https://ctf.re//source-engine/exploitation/2021/05/01/source-engine-2/
+More: https://ctf.re/source-engine/exploitation/reverse-engineering/2018/08/02/source-engine-1/ 
+Description: Full-Chain Client RCE in Source using Frida.
+
+URL: https://adepts.of0x.cc/physical-graffiti-lsass/
+Description: A physical graffiti of LSASS - Getting creds from physical mem for fun and learning.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://peppe.rs/posts/self-hosting_git/
+Description: Self-hosting Git.
+
+URL: https://github.com/ortegaalfredo/mousemic
+Description: Simple tool to visualize and amplify mouse movements.
+
+URL: https://csshell.dev/
+Description: Collection of common CSS mistakes, and how to fix them.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?fcaa6b3a872aacc2#2V0RPcMFIoKlsL4sX5rHFhEEp7olHxKuVGtbJGF+G9A=
