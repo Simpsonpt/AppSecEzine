@@ -20,6 +20,7 @@ URL: https://link.medium.com/3syJIdYkegb
 Description: Workplace from Facebook - Unauthorized access to companies environment.
 
 URL: https://blog.bricked.tech/posts/exiftool/
+More: https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html
 Description: Recreating a critical bug in ExifTool, no Perl smarts required (CVE-2021-22204).
 
 
