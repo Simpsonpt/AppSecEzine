@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 20 | Month: May | Year: 2021 | Release Date: 21/05/2021 | Edition: #379   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://feed.bugs.xdavidhu.me/bugs/0004
+Description: Auth Bypass in nearbydevices-pa.googleapis.com.
+
+URL: https://ysamm.com/?p=697
+Description: Oculus SSO "Account Linking" bug leads to account takeover on 3rd parties.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/skelsec/msldap
+Description: LDAP library for auditing MS AD.
+
+URL: https://alex.kaskaso.li/post/terraform-plan-rce
+Description: Terraform Plan "RCE".
+
+URL: https://0xdf.gitlab.io/2021/05/17/digging-into-cgroups.html
+Description: Digging into cgroups Escape.
+
+URL: https://github.com/bytecode77/r77-rootkit
+Description: Fileless ring 3 rootkit with installer and persistence.
+
+URL: https://github.com/hoodoer/XSS-Data-Exfil
+Description: PoC for exfiltrating data through an XSS vulnerability.
+
+URL: https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome
+Description: Google Chrome - File System Access API (CVE-2021-21123).
+
+URL: https://github.com/revng/pagebuster
+Description: PageBuster - Dump all executable pages of packed processes.
+
+URL: https://github.com/lucky/bad_actor_poc
+Description: Stealing secrets with Rust Macros proof-of-concept via VSCode.
+
+URL: https://github.com/NetSPI/MicroBurst
+Description: A collection of scripts for assessing Microsoft Azure security.
+
+URL: https://www.n00py.io/2021/05/dumping-plaintext-rdp-credentials-from-svchost-exe/
+Description: Dumping Plaintext RDP credentials from svchost.exe.
+
+URL: https://github.com/SysSec-KAIST/BaseSpec/
+Description: Compare cellular L3 protocol between the specsifications and implementations.
+
+URL: https://github.com/xforcered/Dendrobate
+Description: Tool to development payloads that hook unmanaged code through managed .NET code.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/umgjHNF6kgb 
+Description: Just Gopher It - Escalating a Blind SSRF to RCE.
+
+URL: https://blog.doyensec.com/2021/05/20/graphql-csrf.html
+Description: That single GraphQL issue that you keep missing.
+
+URL: https://blog.zapb.de/security-and-trust-in-open-source-security-tokens/
+Description: Security and Trust in Open Source Security Tokens.
+
+URL: https://fingerprintjs.com/blog/external-protocol-flooding/
+Description: Exploiting custom protocol handlers for cross-browser tracking.
+
+URL: https://bit.ly/3hGwX3T (+)
+Description: Beware of the GIF - Account Takeover Vulnerability in Microsoft Teams.
+
+URL: https://blog.mbie.me/posts/cve-2020-9478/
+Description: OS Command Injection through file restore functionality (CVE-2020-9478).
+
+URL: https://galnagli.com/Mass_Assignment/
+Description: Mass Assignment exploitation in the wild - Escalating privileges in style.
+
+URL: https://bit.ly/3f2lEkP (+)
+Description: Microsoft Windows LNK Remote Code Execution Vulnerability - (CVE-2020-1299).
+
+URL: https://bit.ly/3wmJCx7 (+)
+Description: Cisco RV34X Series - Authentication Bypass and RCE (CVE-2021-1472/CVE-2021-1473).
+
+URL: https://bit.ly/3v6tyPW (+)
+Description: Microsoft Azure Vulnerability Allows PE and Leak of Private Data (CVE-2021-27075).
+
+URL: https://ssd-disclosure.com/ssd-advisory-unauthenticated-access-api-key-access-leads-to-rce/
+Description: Unauthenticated Access API Key Access leads to RCE.
+
+URL: https://connormcgarr.github.io/cve-2020-21551-sploit/
+Description: Exploit Development- Dell 'dbutil_2_3.sys' Kernel Exploit Writeup (CVE-2021-21551).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://waltersgameboy.tripod.com/simpdoom/
+Description: Ultimate Simpsons Doom.
+
+URL: https://fabiensanglard.net/lte/index.html
+Description: Observing my cellphone switch towers.
+
+URL: https://www.synacktiv.com/publications/dumping-the-sonos-one-smart-speaker.html
+Description: Dumping the Sonos One smart speaker.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?19ea1d2c857bc3c3#aXbSHEeTIpsYgugeUxQorvvkEkx7OlKXnK34S8rU1Bo=
