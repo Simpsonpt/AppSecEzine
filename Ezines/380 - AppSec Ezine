@@ -1,0 +1,136 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 21 | Month: May | Year: 2021 | Release Date: 28/05/2021 | Edition: #380   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://keerok.github.io/2021/05/20/mozilla-xss/
+Description: XSS via postMessage in chat.mozilla.org.
+
+URL: https://blog.sonarsource.com/nosql-injections-in-rocket-chat/
+Description: NoSQL Injections in Rocket.Chat 3.12.1 - How A Small Leak Grounds A Rocket.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/mhaskar/DNSStager
+Description: Hide your payload in DNS.
+
+URL: https://github.com/josh0xA/K55
+Description: Linux x86_64 Process Injection Utility.
+
+URL: https://github.com/motikan2010/CVE-2021-29447
+Description: WordPress 5.6-5.7 - Authenticated XXE (CVE-2021-29447).
+
+URL: https://huumeet.info/~def/rxvt0day/
+Description: (u)rxvt terminal (+bash) remoteish code execution.
+
+URL: https://github.com/nikitastupin/clairvoyance
+Description: Obtain GraphQL API schema despite disabled introspection.
+
+URL: https://github.com/ecriminal/phpvuln
+Description: Audit tool to find common vulnerabilities in PHP source code.
+
+URL: https://github.com/tijldeneut/icssploit
+Description: ICSSPLOIT (Industrial Control System Exploitation Framework).
+
+URL: https://github.com/CriticalSecurity/spectrum_protect
+Description: IBM Spectrum Protect - Exploiting Legacy Authentication Protocol.
+
+URL: https://github.com/tokyoneon/Invoke-SocksProxy
+Description: Invoke-SocksProxy is a PS script designed to create reverse proxies.
+
+URL: https://github.com/GetRektBoy724/BetterXencrypt
+Description: Improved Xencrypt a Powershell runtime crypter designed to evade AVs.
+
+URL: https://github.com/0x4E0x650x6F/dscan
+Blog: https://www.tiagoalexandre.com/tools/nmap/dscan/2021/01/13/nmap
+Description: Distributed Nmap, wrapper around Nmap to allow distributed network enum.
+
+URL: https://github.com/ayoubfathi/leaky-paths
+Description: Dump of special paths linked to major web CVEs, misconfigurations and more.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://theevilbit.github.io/posts/teamviewer_lpe/
+Description: TeamViewer Local Privilege Escalation Vulnerability.
+
+URL: https://bit.ly/3vu90kA (+)
+Description: FreeBSD Kernel Privilege Escalation (CVE-2020-7460).
+
+URL: https://zxsecurity.co.nz/research/argunment-injection-ruby-dragonfly/
+Description: Argument Injection in Ruby Dragonfly (CVE-2021-33564).
+
+URL: https://bit.ly/3fsNeYR (+)
+More: https://bit.ly/3hYsTMx (+)
+Description: Attacking Kubernetes Clusters Through Your Network Plumbing.
+
+URL: https://blog.whtaguy.com/2021/05/d-link-router-cve-2021-27342.html
+Description: D-Link Router Timing Side-Channel Attack Writeup (CVE-2021-27342).
+
+URL: https://skylightcyber.com/2021/05/20/13-nagios-vulnerabilities-7-will-shock-you/
+PoC: https://github.com/skylightcyber/soygun
+Description: 13 Nagios Vulnerabilities, #7 will SHOCK you!
+
+URL: https://link.medium.com/lPD9pKHaygb 
+PoC: https://github.com/straightblast/My-PoC-Exploits/blob/master/CVE-2021-21974.py
+Description: VMware ESXi OpenSLP heap-overflow - RCE PoC walkthrough (CVE-2021–21974).
+
+URL: https://bit.ly/3hWGMuT (+)
+Description: SMBleedingGhost Writeup - Chaining SMBleed (CVE-2020-1206) with SMBGhost.
+
+URL: https://m1racles.com/
+Description: Covert channel vulnerability in the Apple Silicon "M1" chip (CVE-2021-30747).
+
+URL: https://igor-blue.github.io/2021/02/04/secure-boot.html
+Description: In-depth dive into the sec features of the Intel/Windows secure boot process.
+
+URL: https://blog.mindedsecurity.com/2021/05/mobile-screenshot-prevention-cheatsheet.html
+Description: Mobile Screenshot Prevention Cheat Sheet - Testing and Fixing.
+
+URL: https://parsiya.net/blog/2021-04-30-testing-extensions-in-chromium-browsers-nordpass/
+Description: Testing Extensions in Chromium Browsers - Nordpass.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://vivirenremoto.github.io/doomcaptcha/
+Description: Doom Captcha.
+
+URL: http://www.righto.com/2021/05/teardown-of-pc-power-supply.html
+Description: Teardown of a PC power supply.
+
+URL: https://github.com/michaelneu/webxcel
+Description: A REST backend built with plain VBA Microsoft Excel macros. Yes. Macros.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?67ba4231c7ec4f69#VAm+ml4tbHD81OcsjF7+u/0640OMor7uQYqLL6pA6EY=
