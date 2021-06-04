@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 22 | Month: June | Year: 2021 | Release Date: 04/06/2021 | Edition: #381  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/34MRjB3 (+)
+Description: Overwolf 1-Click Remote Code Execution (CVE-2021-33501).
+
+URL: https://blog.lbherrera.me/posts/appcache-forgotten-tales/
+Description: AppCache's forgotten tales (CVE-2020-6399 and CVE-2021-21168).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/zeroperil/HookDump
+Description: Security product hook detection.
+
+URL: https://zer1t0.gitlab.io/posts/attacking_ad/
+Description: Attacking Active Directory: 0 to 0.9.
+
+URL: https://github.com/drsigned/sigurlx
+Description: Sigurlx a web application attack surface mapping tool.
+
+URL: https://github.com/tarunkant/Gopherus
+Description: Tool to generate gopher links for exploiting SSRF and gain RCE.
+
+URL: https://napongizero.github.io/blog/Defeating-Code-Obfuscation-with-Angr
+Description: "Defeating" Code Obfuscation with Angr.
+
+URL: https://github.com/stark0de/nginxpwner
+Description: Tool to look for common Nginx misconfigurations and vulnerabilities.
+
+URL: https://github.com/zmap/zmap
+Description: Fast single packet network scanner designed for Internet-wide surveys.
+
+URL: https://github.com/Viralmaniar/MurMurHash
+Description: Calculate a MurmurHash of a favicon to hunt phishing websites via Shodan.
+
+URL: https://github.com/replicatedhq/outdated
+Description: Kubectl plugin to find and report outdated images running in a K8s cluster.
+
+URL: https://www.synacktiv.com/publications/playing-with-imagetragick-like-its-2016.html
+Description: Playing with ImageTragick like it's 2016.
+
+URL: https://github.com/google/gke-auditor
+Description: A tool to detect a set of common Google Kubernetes Engine misconfigurations.
+
+URL: https://dennisbabkin.com/blog/?t=malware-researchers-beware-of-getprocaddress-spoofing
+Description: Beware of GetProcAddress spoofing via manipulation of PE format in memory.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://wrongbaud.github.io/posts/stm-xbox-jtag/
+More: https://wrongbaud.github.io/posts/jtag-hdd/
+Description: Hardware Debugging for Reverse Engineers.
+
+URL: https://bit.ly/3isaRmr (+)
+Description: Digging into a Ubiquiti Firmware Update bug (CVE-2021-22909).
+
+URL: https://cyllective.com/blog/post/plone-authenticated-rce-cve-2021-32633/
+Description: Plone Authenticated RCE (CVE-2021-32633).
+
+URL: https://posts.specterops.io/the-attack-path-management-manifesto-3a3b117f5e5
+Description: The Attack Path Management Manifesto.
+
+URL: https://saaramar.github.io/iOS_memory_exhaustion_writeup/
+Description: Exhaust EL1 memory from the app sandbox - iOS Memory Exhaustion Writeup.
+
+URL: https://tradahacking.vn/cve-2021-22201-arbitrary-file-read-on-gitlab-d84d77cd83e3
+Description: Arbitrary file read on Gitlab (CVE-2021–22201).
+
+URL: https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/
+Description: Exploitation of a JavaScriptCore WebAssembly Vulnerability (CVE-2021-30734).
+
+URL: https://research.checkpoint.com/2020/optout-compiler-undefined-behavior-optimizations/
+Description: Compiler Undefined Behavior Optimizations.
+
+URL: https://microsoftedge.github.io/edgevr/posts/ui-security-thinking-outside-the-viewport/
+Description: UI Security - Thinking Outside the Viewport.
+
+URL: https://link.medium.com/FxjIpGAJCgb 
+Description: SolarWinds Orion Deserialization to RCE vulnerability analysis (CVE-2021–31474).
+
+URL: https://bit.ly/3phAibo (+)
+Description: OOB to RCE - Exploitation of the Hobbes Functional Interpreter (CVE-2020-13656).
+
+URL: https://blog.appsecco.com/exploiting-weak-configurations-in-amazon-cognito-in-aws-471ce761963
+Related: https://bit.ly/3fKQCyg (+)
+Description: Exploiting weak configurations in Amazon Cognito and Google Identity.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://luminousmen.com/post/kubernetes-101
+Description: Kubernetes 101.
+
+URL: https://offlinemark.com/2021/05/12/an-obscure-quirk-of-proc/
+Description: How /proc/self/mem writes to unwritable memory.
+
+URL: https://github.com/JeffreyCA/spleeter-web
+Description: Tool for isolating the vocal, accompaniment, bass, and drums of any song.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?6f6aaf607fbbaa3d#MggnZ2+3r+NSbL67FdGgkPg0y/GnUVJt0zYu69tfoOo=
