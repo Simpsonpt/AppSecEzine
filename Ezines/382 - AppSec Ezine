@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 23 | Month: June | Year: 2021 | Release Date: 11/06/2021 | Edition: #382  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://frichetten.com/blog/xss_in_aws_console/
+Description: XSS in the AWS Console.
+
+URL: https://bit.ly/3pEd1AT (+)
+Tool: https://github.com/detectify/page-fetch
+Description: What is a Prototype Pollution vulnerability and how does page-fetch help?
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://bit.ly/3zimJNB (+)
+More: https://bit.ly/2TfxgbS (+)
+Description: Creating aarch64 (ARM64) Windows Shellcode.
+
+URL: https://github.com/lawrenceamer/dns-black-cat
+Description: Interactive DNS shell commands exfiltration.
+
+URL: https://github.com/turbot/steampipe-mod-zoom-compliance
+Description: Zoom CIS Compliance Scans.
+
+URL: https://github.com/2b-as/sigshark
+Description: TCAP (MAP/CAP) transaction tracking for pcap files.
+
+URL: https://github.com/ranguli/ioccheck
+Description: A tool for simplifying the process of researching IOCs.
+
+URL: https://github.com/postrequest/link
+Description: Link is a command and control framework written in rust.
+
+URL: https://github.com/qtc-de/remote-method-guesser
+Description: Tool for Java RMI enumeration and bruteforce of remote methods.
+
+URL: https://github.com/stealth/7350topless
+Description: LPE vulnerability in Armbian's NetworkManager dispatcher script.
+
+URL: https://blog.checkymander.com/red%20team/veeam/decrypt-veeam-passwords/
+Description: Decrypting VEEAM Passwords.
+
+URL: https://github.com/o1mate/AppLocker-Bypass
+Description: Bypassing AppLocker (executing Powershell scripts/commands) with C#.
+
+URL: https://github.com/majd/ipatool
+Description: CLI that allows searching and downloading ipas from the iOS App Store.
+
+URL: https://github.com/mgeeky/SharpWebServer
+Description: Simple C# HTTP&WebDAV Server with Net-NTLM hashes capture functionality.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://lock.cmpxchg8b.com/passmgrs.html
+Description: Password Managers.
+
+URL: https://bit.ly/3idsZ30 (+)
+Description: From Recon to Optimizing RCE Results.
+
+URL: https://gccybermonks.com/posts/popups/
+Description: Pop-Ups in a good-world (XSS Research).
+
+URL: https://luemmelsec.github.io/I-got-99-problems-but-my-NAC-aint-one/
+Description: I got 99 problems but my NAC ain't one.
+
+URL: https://paper.seebug.org/1604/
+Description: Synology NAS Audio Station package Unauthorized RCE Analysis.
+
+URL: https://blog.liquidsec.net/2021/06/01/asp-net-cryptography-for-pentesters/
+Description: ASP.NET Cryptography for Pentesters.
+
+URL: https://alpaca-attack.com/
+Description: App. Layer Protocol Confusion-Analyzing and Mitigating Cracks in TLS Auth.
+
+URL: https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
+Description: PE with polkit - How to get root on Linux with a seven-year-old bug.
+
+URL: https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/
+Description: Exploring vulnerabilities in Android WebResourceResponse.
+
+URL: https://v3ded.github.io/redteam/abusing-lnk-features-for-initial-access-and-persistence
+Description: Abusing LNK "Features" for Initial Access and Persistence.
+
+URL: https://blog.includesecurity.com/2021/06/hacking-unity-games-malicious-unity-game-objects/
+Description: Hacking Unity Games with Malicious GameObjects.
+
+URL: https://link.medium.com/wWBZEAksVgb 
+Description: Measured Boot and Malware Sig. - Exploring two vulns found in the Windows loader.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/AndrewMohawk/Aurora
+Description: Aurora Ambient LED project.
+
+URL: https://github.com/TheOfficialFloW/bully_vita
+Description: Bully - Anniversary Edition Vita.
+
+URL: https://link.medium.com/SIjGuwAvpeb 
+Description: Privacy Preserving Machine Learning for Healthcare using CrypTFlow.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?bf7e19f4f3f70528#QygbA6M5VU6EExN7urtGVmqEPBuSMBJq/d2rv4oMBlg=
