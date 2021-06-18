@@ -1,0 +1,136 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 24 | Month: June | Year: 2021 | Release Date: 18/06/2021 | Edition: #383  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://iosiro.com/blog/88mph-bug-bounty-post-mortem
+Description: Critical Bug Identified in 88mph Awarded with $42k Bounty.
+
+URL: https://youst.in/posts/bypassing-2fa-using-openid-misconfiguration/
+Description: Bypassing 2FA using OpenID Misconfiguration.
+
+URL: https://link.medium.com/RZ0fe1Km7gb
+Description: See Private, Archived Posts/Stories of users on Instagram w/o following.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/iGio90/SPPWAG
+Description: Simple proto parser with a GUI.
+
+URL: https://github.com/jangeisbauer/gundog
+Description: Guided hunting in Microsoft Defender.
+
+URL: https://github.com/DontPanicO/jwtXploiter
+Description: A tool to test security of json web token.
+
+URL: https://github.com/gyyyy/ZoomEye-go
+Description: The Golang SDK and CLI of ZoomEye@Knownsec.
+
+URL: https://github.com/Yaxser/Backstab
+Description: A tool to kill antimalware protected processes.
+
+URL: https://bit.ly/3y0XNtB (+)
+Description: Firebase Domain Front - Hiding C2 as App traffic.
+
+URL: https://github.com/chichou/grapefruit
+Description: Runtime Application Instruments for iOS (Old Passionfruit).
+
+URL: https://github.com/zeronetworks/cornershot
+Description: Amplify network visibility from multiple POV of other hosts.
+
+URL: https://www.trustedsec.com/blog/injecting-rogue-dns-records-using-dhcp/
+Description: Injecting Rogue DNS Records Using DHCP.
+
+URL: https://github.com/AICoE/prometheus-anomaly-detector
+Description: A newer more updated version of the prometheus anomaly detector.
+
+URL: https://github.com/gigajew/SharpCore
+Description: SharpCore is a C#.NET Remote Administration Tool (RAT) Framework.
+
+URL: https://github.com/Cigna/confectionery
+Description: Library to detect misconfigurations within Terraform configuration files.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bit.ly/35xKRyg (+)
+Description: Why dynamic code loading could be dangerous for your apps.
+
+URL: https://jghuff.com/blog/modem/
+Description: "Hacking" an LTE Modem Without Physical or Network Access.
+
+URL: https://www.wispwisp.com/index.php/2019/08/16/cve-2017-16088-poc/
+Description: safe-eval Sandbox Breakout (CVE-2017-16088).
+
+URL: https://bit.ly/3xtIyrJ (+)
+Description: Microsoft ADCS - Abusing PKI in Active Directory Environment.
+
+URL: https://blog.chichou.me/mistune/
+Description: iOS RCE vulnerabilities - that have been hiding for a decade.
+
+URL: https://secret.club/2021/05/13/source-engine-rce-join.html
+PoC: https://github.com/brymko/csgo-exploits
+Description: Counter-Strike Global Offsets: reliable remote code execution.
+
+URL: https://elongl.github.io/exploitation/2021/05/30/pwning-home-router.html
+Description: Pwning Home Router - Linksys WRT54G.
+
+URL: https://research.nccgroup.com/2021/06/10/testing-two-factor-authentication/
+Description: Testing Two-Factor Authentication.
+
+URL: https://bit.ly/2S5mYuG (+)
+Description: Phishing for AWS credentials via AWS SSO device code authentication.
+
+URL: https://link.medium.com/n9tcHKrb5gb
+Description: Stealing tokens, emails, files and more in MS Teams through malicious tabs.
+
+URL: https://dozer.nz/posts/saltapi-vulns
+Description: SaltStack API vulnerabilities (CVE-2021-3197/CVE-2021-25281/CVE-2021-25282).
+
+URL: https://www.tiraniddo.dev/2020/05/old-net-vulnerability-5-security.html
+Description: Old .NET Vulnerability - Security Transparent Compiled Expressions (CVE-2013-0073).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.photopea.com/
+Description: Photopea - Advanced image editor.
+
+URL: https://shaunlebron.github.io/t3tr0s-slides/
+Description: Tetris in Clojurescript.
+
+URL: https://olegkutkov.me/2020/02/10/linux-block-device-driver/
+Description: Linux block device driver.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?8c6b23146abcdec2#FQbqxYkv6ILzMzktTrEw4BHEA94ASybe6Rw/FTWoDlg=
