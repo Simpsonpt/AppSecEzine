@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 25 | Month: June | Year: 2021 | Release Date: 25/06/2021 | Edition: #384  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.chichou.me/2021/06/20/quick-analysis-wifid/
+Description: Quick Analysis for the SSID Format String Bug in iOS.
+
+URL: https://positive.security/blog/hacking-linux-marketplaces
+Description: Linux marketplaces vulnerable to RCE and supply chain attacks.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/chen-keinan/kube-knark
+Description: Trace your kubernetes runtime.
+
+URL: https://github.com/bats3c/DarkLoadLibrary
+Blog: https://www.mdsec.co.uk/2021/06/bypassing-image-load-kernel-callbacks/
+Description: LoadLibrary for offensive operations.
+
+URL: https://github.com/Hamza-Megahed/volatility-gui
+Description: GUI for Volatility forensics tool written in PyQT5.
+
+URL: https://github.com/melix/maven-repository-injection/
+Description: A POC which demonstrates repository injection with Apache Maven.
+
+URL: https://www.exandroid.dev/2021/06/23/ad-cs-relay-attack-practical-guide/
+Description: AD CS Relay Attack - Practical Guide.
+
+URL: https://john-woodman.com/research/malicious-vba-macros-trials-tribulations/
+Description: Malicious VBA Macro's - Trials and Tribulations.
+
+URL: https://github.com/eladshamir/Whisker
+Description: C# tool for taking over Active Directory user and computer accounts.
+
+URL: https://github.com/AvalZ/WAF-A-MoLE
+Description: A guided mutation-based fuzzer for ML-based Web Application Firewalls.
+
+URL: https://github.com/AvalZ/RevOK
+Description: Reversed Overtaking Kit - An HTTP response fuzzer to test security scanners.
+
+URL: https://github.com/0vercl0k/CVE-2021-32537
+Description: Out-of-bounds access in RTKVHD64 leading to pool corruption (CVE-2021-32537).
+
+URL: https://github.com/indianajson/can-i-take-over-dns
+Description: List of DNS providers and how to claim (sub)domains via missing hosted zones.
+
+URL: https://bit.ly/35Tv3FW (+)
+Description: Finding Privilege Escalation Vulnerabilities in Windows using Process Monitor.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bit.ly/3d9TRhk (+)
+Description: Analyzing SUID Binaries.
+
+URL: https://quentinkaiser.be/security/2021/06/12/emc-networker-rce/
+Description: So Many Ways to Own Dell EMC Networker.
+
+URL: https://y4y.space/2021/06/04/learning-jndi-injection-from-cve-2021-21985/
+Description: Learning JNDI Injection From CVE-2021-21985.
+
+URL: https://medium.com/@aviadshamriz/part-1-fs-minifilter-hooking-7e743b042a9d
+More: https://aviadshamriz.medium.com/part-2-display-miniport-hooking-e1a54661d2e1
+Description: PFs Minifilter and Display Miniport Hooking.
+
+URL: https://link.medium.com/DHjNK5dnhhb 
+Description: CVE-2021-20226 a reference counting bug which leads to LPE in io_uring.
+
+URL: https://shufflingbytes.com/posts/wardialing-finnish-freephones/
+Description: I made 56874 calls to explore the telephone network. Here’s what I found.
+
+URL: https://www.tenchisecurity.com/blog/thefaultinourstars
+Description: Security Implications of AWS API Gateway Lambda Authorizers/IAM * Expansion.
+
+URL: https://labs.bishopfox.com/tech-blog/lexss-bypassing-lexical-parsing-security-controls
+Description: LEXSS - Bypassing Lexical Parsing Security Controls.
+
+URL: https://bit.ly/3f2Uc5c (+)
+Description: Dell Computers At Risk Due to Multiple BIOS Driver PE Flaws (CVE-2021-21551).
+
+URL: https://thezerohack.com/apple-vulnerability-bug-bounty
+Description: How I Found A Vulnerability To Hack iCloud Accounts and How Apple Reacted To It.
+
+URL: https://datadome.co/bot-detection/how-facebook-was-used-as-a-proxy-by-web-scraping-bots/
+Description: How Facebook was used as a proxy by web scraping bots.
+
+URL: https://betterappsec.com/building-a-webauthn-click-farm-are-captchas-obsolete-bfab07bb798c
+Description: Building a WebAuthn Click Farm — Are CAPTCHAs Obsolete?
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.copetti.org/writings/consoles/
+Description: Architecture of Consoles.
+
+URL: https://karpathy.github.io/2021/06/21/blockchain/
+Description: A from-scratch tour of Bitcoin in Python.
+
+URL: https://sub7crew.org/archive/scene/
+Description: Malware scene retrospective from 1998 - 2009.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?c94f573fb87474f2#PNFjTE4CHqafpdya/AlJnp35RtmFR8inlzI8UagBbpM=
