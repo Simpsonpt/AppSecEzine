@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 26 | Month: July | Year: 2021 | Release Date: 02/07/2021 | Edition: #385  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ysamm.com/?p=700
+Description: Disclose unconfirmed email/phone of a Facebook user.
+
+URL: https://github.com/irsl/gcp-dhcp-takeover-code-exec
+Description: Google Compute Engine (GCE) VM takeover via DHCP flood.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/d3k4z/burp-copy-as-ffuf
+Description: Burp Extension - Copy As FFUF.
+
+URL: https://github.com/tennc/webshell
+Description: This is a webshell open source project.
+
+URL: https://github.com/asaurusrex/Forblaze
+Description: A Python Mac Steganography Payload Generator.
+
+URL: https://github.com/b1n4r1b01/n-days
+Description: iOS kernel vulnerabilities PoCs (CVE-2021-1757).
+
+URL: https://github.com/slackhq/nebula
+Description: A scalable overlay networking tool w/ focus on security.
+
+URL: https://www.a12d404.net/ranting/2021/01/17/msbuild-backdoor.html
+Description: Backdooring MSBuild.
+
+URL: https://github.com/mavillon1/CVE-2021-31955-POC
+Description: Windows Kernel Information Disclosure PoC (CVE-2021-31955).
+
+URL: https://github.com/th3r4ven/Bifrost
+Description: Bifrost C2 - Open-source post-exploitation using Discord API.
+
+URL: https://github.com/rvrsh3ll/SharpSMBSpray
+Description: Spray a hash via smb to check for local administrator access.
+
+URL: https://github.com/deepinstinct/LsassSilentProcessExit
+Description: CLI interface to dump LSASS memory to disk via SilentProcessExit.
+
+URL: https://github.com/JoniRinta-Kahila/WPCracker
+Description: WP user enumeration and login Brute Force tool for Windows and Linux.
+
+URL: https://github.com/p4lsec/fordpass
+Description: Script to interact and retrieve data about your FordPass enabled vehicle.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://0xpat.github.io/Malware_development_part_1/
+Description: Malware development Series.
+
+URL: https://bit.ly/3dzuwgQ (+)
+Description: How I exploit the JSON CSRF with method override technique.
+
+URL: http://noahblog.360.cn/apache-solr-8-8-1-ssrf-to-file-write/
+Description: Apache Solr 8.8.1 SSRF to Arbitrary File Write Vulnerability.
+
+URL: https://hoyahaxa.blogspot.com/2021/04/ssrf-in-coldfusioncfml-tags-and.html
+Description: SSRF in ColdFusion/CFML Tags and Functions.
+
+URL: https://craighays.com/cracking-encrypted-credit-card-numbers-exposed-by-api/
+Description: Cracking Encrypted Credit Card Numbers Exposed By API.
+
+URL: https://codewhitesec.blogspot.com/2019/07/heap-based-amsi-bypass-in-vba.html
+Description: Heap-based AMSI bypass for MS Excel VBA and others.
+
+URL: https://github.com/afwu/PrintNightmare
+More: https://github.com/cube0x0/CVE-2021-1675
+Description: PrintNightmare - RCE in Windows Spooler Service (CVE-2021-1675).
+
+URL: https://bit.ly/3dAYWiD (+)
+Description: Inconsistent Behavior of Go's CGI and FastCGI Transport May Lead to XSS.
+
+URL: https://github.com/stong/CVE-2020-15368
+Description: How to exploit a vuln. windows driver - AsrDrv104.sys PoC (CVE-2020-15368).
+
+URL: https://research.checkpoint.com/2020/apache-guacamole-rce/
+Description: Would you like some RCE with your Guacamole? (CVE-2020-9497/CVE-2020-9498).
+
+URL: https://link.medium.com/3EKzHoTYxhb
+Description: Everything You Need to Know About IDOR (Insecure Direct Object References).
+
+URL: https://bit.ly/3jFgyOt (+)
+Description: Online Casino Roulette - A guideline for pentesters and security researchers.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://farm.bot/
+Description: Open-Source CNC Farming.
+
+URL: https://www.hypn.za.net/blog/posts/2021-06-27-retrocomputing-in-2021/
+Description: Run Dos and Windows 98 off SD and Compact Flash cards.
+
+URL: https://blog.newsblur.com/2021/06/28/story-of-a-hacking/
+Description: How a Docker footgun led to a vandal deleting NewsBlur's MongoDB database.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?d3cc85ee1fed0eb3#mVajV85cCDGVGXxUloNS9NpNjsHBogFZuJ5XW9/jlUg=
