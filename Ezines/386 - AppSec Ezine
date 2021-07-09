@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 27 | Month: July | Year: 2021 | Release Date: 09/07/2021 | Edition: #386  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.softwaresecured.com/exploiting-less-js/
+Description: Exploiting Less.js to Achieve RCE.
+
+URL: https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way
+Description: Finding DOM Polyglot XSS in PayPal the Easy Way.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/grines/scour
+Description: AWS Exploitation Framework.
+
+URL: https://github.com/wallarm/api-firewall
+Description: Free API firewall for OpenAPI.
+
+URL: https://github.com/ajpc500/BOFs
+Description: Collection of Beacon Object Files.
+
+URL: https://bit.ly/3htGTgZ (+)
+Description: A Brief Survey of Code Obfuscation Techniques.
+
+URL: https://github.com/kkent030315/PageTableInjection
+Description: Code Injection, Inject malicious payload via pagetables pml4.
+
+URL: https://github.com/aktsk/ipa-medit
+Description: Memory search and patch tool for resigned ipa without jailbreak.
+
+URL: https://github.com/LloydLabs/delete-self-poc
+Description: A way to delete a locked, or current running executable, on disk.
+
+URL: https://github.com/dwisiswant0/ppfuzz
+Description: A fast tool to scan prototype pollution vulnerability written in Rust.
+
+URL: https://github.com/EllyMandliel/WebDumper
+Description: A tool for scraping, dumping and unpacking (webpacked) JS source files.
+
+URL: https://github.com/0xDivyanshu/Injector
+Description: Dump of Memory injection and other techniques for red-teaming in Windows.
+
+URL: https://github.com/nccgroup/pybeacon
+Description: A collection of scripts for dealing with Cobalt Strike beacons in Python.
+
+URL: https://github.com/z1pti3/jimi
+Description: Automation first no-code platform for Security Orchestration and Response.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/HKYjuKsYHhb 
+Description: VBA Stomping — Advanced Maldoc Techniques.
+
+URL: https://link.medium.com/9xhC1ajYHhb
+Description: Android Security - Certificate Transparency.
+
+URL: https://bit.ly/3dTjrY0 (+)
+Description: Authenticode verification vulnerability pattern.
+
+URL: https://link.medium.com/E7vtLvcYHhb
+Description: Extracting Embedded Payloads From Malware (Coll Cozy Bear).
+
+URL: https://coreruleset.org/20210630/cve-2021-35368-crs-request-body-bypass/
+Description: CRS Request Body Bypass (CVE-2021-35368).
+
+URL: https://donjon.ledger.com/kaspersky-password-manager/
+Description: Kaspersky Password Manager - All your passwords are belong to us.
+
+URL: https://blog.grimm-co.com/2021/06/the-walls-have-ears.html
+Description: The walls have ears (STEM Audio Table conference room speaker) pwn.
+
+URL: https://bit.ly/3yBepqW (+)
+More: https://bit.ly/3dU6IEC (+)
+Description: Pwning the Dlink 850L routers and abusing the MyDlink Cloud protocol.
+
+URL: https://iamelli0t.github.io/2021/04/10/RPC-Bypass-CFG.html
+Description: Exploiting WinRPC to bypass CFG mitigation - Analysis of CVE-2021-26411.
+
+URL: https://bit.ly/3jO2uCe (+)
+Description: Exploiting CVE-2021-25770 - A Server-Side Template Injection in YouTrack.
+
+URL: https://rbaron.net/blog/2021/07/06/Reverse-engineering-the-M6-smart-fitness-band.html
+Description: Reverse Engineering the M6 Smart Fitness Bracelet.
+
+URL: https://www.n00py.io/2020/12/the-dangers-of-endpoint-discovery-in-vipre-endpoint-security/
+Description: The Dangers of Endpoint Discovery in VIPRE Endpoint Security.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://binji.github.io/posts/pokegb/
+Description: POKEGB - A gameboy emulator that only plays Pokémon blue.
+
+URL: https://blog.christophermullins.com/2019/12/20/rescue-your-amazon-dash-buttons/
+Description: Rescue Your Amazon Dash Buttons.
+
+URL: https://github.com/ibraheemdev/modern-unix
+Description: A collection of modern/faster/saner alternatives to common unix commands. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?c544371bc3a0155d#VBYay5cKgU6sV9Fe0l4/JQlcryY1jZ+XG0ePL7gvUs8=
