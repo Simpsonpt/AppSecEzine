@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 28 | Month: July | Year: 2021 | Release Date: 16/07/2021 | Edition: #387  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3xKr7DM (+)
+Description: Link hijacking Binance’s shortlinks through AppsFlyer.
+
+URL: https://co0nan.gitbook.io/writeups/python-os.popen-command-execution
+Description: Python os.popen Command Execution.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/JustYoomoon/WechatDecrypt
+Description: WeChat message decryption tool.
+
+URL: https://github.com/rvrsh3ll/TokenTactics
+Description: Azure JWT Token Manipulation Toolset.
+
+URL: https://github.com/JoelGMSec/Invoke-DNSteal
+Description: Simple & Customizable DNS Data Exfiltrator.
+
+URL: https://github.com/r3curs1v3-pr0xy/vajra
+Description: An automated recon framework for web applications.
+
+URL: https://github.com/ovh/the-bastion
+Description: AuthN/Z, traceability and auditability for SSH accesses.
+
+URL: https://github.com/jordanpotti/goAllowOrgs
+Description: A Golang tool to whitelist ASN's based on organization name.
+
+URL: https://github.com/S3cur3Th1sSh1t/SharpImpersonation
+Blog: https://s3cur3th1ssh1t.github.io/SharpImpersonation-Introduction/
+Description: A User Impersonation tool - via Token or Shellcode injection.
+
+URL: https://github.com/SDA-SE/clusterscanner
+Description: Discover vulns and container image misconfigs in production envs.
+
+URL: https://github.com/ant4g0nist/ManuFuzzer
+Description: Binary code-coverage fuzzer for macOS, based on libFuzzer and LLVM.
+
+URL: https://github.com/citronneur/kerlab
+Description: Kerberos lab to better understand and then detecting attack on kerberos.
+
+URL: https://adepts.of0x.cc/pktmon-dissection/
+Description: Adding a native sniffer to your implants - decomposing/recomposing PktMon.
+
+URL: https://github.com/0vercl0k/wtf
+Description: Distributed, code-coverage guided, customizable, X-platform snapshot-based fuzzer.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.tofile.dev/2021/07/07/ebpf-hooks.html
+Description: Detecting Kernel Hooking using eBPF.
+
+URL: https://link.medium.com/BkkTxD7TQhb
+Description: Exploiting Android WebView Vulnerabilities.
+
+URL: https://wrongbaud.github.io/posts/stm-xbox-jtag/
+More: https://wrongbaud.github.io/posts/jtag-hdd/
+Description: Hardware Debugging for Reverse Engineers Series.
+
+URL: http://bit.ly/2IsFpny (+)
+Description: Windows Privilege Abuse - Auditing, Detection, and Defense.
+
+URL: https://research.checkpoint.com/2021/playing-in-the-windows-sandbox/
+Description: Playing in the (Windows) Sandbox.
+
+URL: https://bit.ly/3xLze2Y (+)
+Description: Exploiting the Sudo Baron Samedit vulnerability (CVE-2021-3156).
+
+URL: https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html
+Description: Turning \x00\x00 into 10000$ (CVE-2021-22555).
+
+URL: https://link.medium.com/iuhew6zIShb
+More: https://portswigger.net/research/pre-auth-rce-in-forgerock-openam-cve-2021-35464
+Description: Pre-Auth RCE Vulnerability Analysis on ForgeRock AM (CVE-2021–35464).
+
+URL: https://bananamafia.dev/post/satisfyer/
+Description: Analysis of Satisfyer Toys - Discovering an AuthN Bypass with r2 and Frida.
+
+URL: https://rakesh-thodupunoori.medium.com/part-1-dive-into-zoom-applications-d70f3de53ec5
+More: https://rakesh-thodupunoori.medium.com/part-2-dive-into-zoom-applications-1b01091345c1
+Description: Dive into Zoom Applications.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/TrevorAttema/OTGMessenger
+Description: Off The Grid Messenger.
+
+URL: https://github.com/mwenge/defender
+Description: Defender(1981) by Eugene Jarvis and Sam Dicker.
+
+URL: https://github.com/rpetrich/deciduous
+Blog: https://swagitda.com/blog/posts/deciduous-attack-tree-app/
+Description: Deciduous - A Security Decision Tree Generator.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?810f9427cec97fef#Ou4mIYcBm+M375HNFbc0rqa/H3K+lpVwCwJHiNtpvTE=
