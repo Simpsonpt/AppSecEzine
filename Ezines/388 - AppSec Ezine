@@ -1,0 +1,135 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 29 | Month: July | Year: 2021 | Release Date: 23/07/2021 | Edition: #388  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/
+Description: Remote code execution in cdnjs of Cloudflare.
+
+URL: https://akaki.io/2021/authz_code_interception
+Description: Authorization code stealing attack in OAuth and its countermeasures.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/DigeeX/raider
+Description: Authentication testing framework.
+
+URL: https://github.com/topotam/PetitPotam
+Description: Elicit machine account auth via MS-EFSRPC.
+
+URL: https://github.com/EvotecIT/GPOZaurr
+Description: Tool for cleaning up Active Directory GPOs.
+
+URL: https://github.com/mhaskar/Bughound
+Description: Static code analysis tool based on Elasticsearch.
+
+URL: https://github.com/zzzteph/kraker
+Description: Kraker is a distributed password brute-force system.
+
+URL: https://github.com/BC-SECURITY/Offensive-VBA-and-XLS-Entanglement
+Blog: https://www.bc-security.org/post/xls-entanglement/
+Description: Offensive VBA and XLS Entanglement.
+
+URL: https://github.com/GossiTheDog/HiveNightmare
+Description: Exploit to read registry hives as non-admin on Windows 10/11.
+
+URL: https://github.com/kleiton0x00/ppmap
+Description: Leverages Prototype Pollution to XSS by exploiting known gadgets.
+
+URL: https://github.com/ant4g0nist/Sloth
+Description: Coverage guided fuzzing framework for fuzzing Android Native libraries.
+
+URL: https://github.com/PentHertz/5GC_API_parse
+Description: Burp extension to parse 5GC NF OpenAPI files to assess 5G core networks.
+
+URL: https://github.com/RCayre/radiosploit
+More: https://github.com/RCayre/radiosploit_patches
+Description: Android app to sniff/inject Zigbee, Mosart and Enhanced ShockBurst packets.
+
+URL: https://github.com/mvt-project/mvt
+Description: MVT is a forensic tool to look for signs of infection in smartphone devices.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://windows-internals.com/faxing-your-way-to-system/
+Description: Faxing Your Way to SYSTEM.
+
+URL: https://dfir.ru/2021/07/15/playing-with-case-insensitive-file-names/
+Description: Playing with case-insensitive file names.
+
+URL: https://bit.ly/3ivWTxW (+)
+Description: AVAST SecureLine VPN - Arbitrary File Creation Vulnerability.
+
+URL: https://www.randorisec.fr/pt/udp-technology-ip-camera-vulnerabilities/
+Description: UDP Technology IP Camera vulnerabilities.
+
+URL: https://link.medium.com/d4TdzXnfYhb
+Description: Two-factor authentication security testing and possible bypasses.
+
+URL: https://www.romainthomas.fr/post/21-07-pokemongo-anti-frida-jailbreak-bypass/
+Description: Gotta Catch 'Em All - Frida & jailbreak detection.
+
+URL: http://blog.ptsecurity.com/2020/03/cve-2019-18683-exploiting-linux-kernel.html
+Description: Exploiting a Linux kernel vuln. in the V4L2 subsystem (CVE-2019-18683).
+
+URL: http://console-cowboys.blogspot.com/2020/08/smart-contract-hacking-chapter-1.html
+Description: Smart Contract Hacking Series.
+
+URL: https://www.trustedsec.com/blog/practical-oauth-abuse-for-offensive-operations-part-1/
+Description: Practical OAuth Abuse for Offensive Operations.
+
+URL: https://sec-consult.com/blog/detail/forgot-password-taking-over-user-accounts-kaminsky-style/
+Description: Forgot password? Taking over user accounts Kaminsky style.
+
+URL: https://www.qualys.com/2021/07/20/cve-2021-33909/sequoia-local-privilege-escalation-linux.txt
+PoC: https://github.com/Liang2580/CVE-2021-33909 | https://github.com/baerwolf/cve-2021-33909 (Fix)
+Description: Sequoia - A deep root in Linux's filesystem layer (CVE-2021-33909).
+
+URL: https://pierrekim.github.io/blog/2021-07-19-dell-openmanage-enterprise-0day-vulnerabilities.html
+Description: Multiple vulnerabilities in Dell OpenManage Enterprise.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/cablej/ransomwhere
+Description: The open ransomware payment tracker.
+
+URL: https://educatedguesswork.org/posts/vaccine-passport-eu/
+Description: A look at the EU vaccine passport.
+
+URL: https://iterative-refinement.github.io/
+Description: Image Super-Resolution via Iterative Refinement.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?79729300bb8dfc38#0TKoGqO7BzyAhXmZLf4F4Jx5d9nDpsSI+UJw1zFbRpM=
