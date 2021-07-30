@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 30 | Month: July | Year: 2021 | Release Date: 30/07/2021 | Edition: #389  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/1087489
+Description: Github access token exposure.
+
+URL: https://blog.tyage.net/posts/2021-06-27-dependabot-rce/
+Description: Diving into Dependabot along with a bug in npm.
+
+URL: https://blog.sonarsource.com/zimbra-webmail-compromise-via-email
+Description: Zimbra 8.8.15 - Webmail Compromise via Email.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://tcpdump101.com/
+Description: Packet Hunting Made Easier.
+
+URL: https://github.com/Cyberlands-io/epiphany
+Description: A pre-DDoS security assessment tool.
+
+URL: https://github.com/iagox86/hash_extender
+Description: Hash Extender - Hash length extension attack.
+
+URL: https://github.com/G4lB1t/pstf2
+Description: Passive Security Tools Fingerprinting Framework.
+
+URL: https://github.com/connormcgarr/LittleCorporal
+Description: LittleCorporal - A C# Automated Maldoc Generator.
+
+URL: https://github.com/The-Login/DNS-Reset-Checker
+Description: Tools to assess the DNS security of web applications.
+
+URL: https://github.com/daffainfo/Key-Checker
+Description: Go scripts for checking API key / access token validity.
+
+URL: https://github.com/Fahrj/reverse-ssh
+Description: Statically-linked SSH server with reverse shell functionality.
+
+URL: https://github.com/sickcodes/dock-droid
+Description: Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
+
+URL: https://gist.github.com/gladiatx0r/1ffe59031d42c08603a3bde0ff678feb
+Description: Workstation Takeover via RBCD and MS-RPChoose-Your-Own-Adventure.
+
+URL: https://bit.ly/3j1dcDt (+)
+Description: OpenSSH ssh-agent Shielded Private Key Extraction (x86_64 Linux).
+
+URL: https://github.com/Cr4sh/KernelForge
+Description: A library to develop kernel level Windows payloads for post HVCI era.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.praetorian.com/blog/email-security/
+Description: Email Security (SPF, DKIM, and DMARC).
+
+URL: https://saaramar.github.io/IOMobileFrameBuffer_LPE_POC/
+Description: iOS IOMobileFrameBuffer LPE (CVE-2021-30807).
+
+URL: https://link.medium.com/qXVfPnFZ7hb 
+Description: Hacking macOS apps with a single “.terminal” file.
+
+URL: https://bit.ly/375F5Ve (+)
+Description: A guide to non-conventional WAF/IDS evasion techniques.
+
+URL: https://www.wietzebeukema.nl/blog/windows-command-line-obfuscation
+Description: Windows Command-Line Obfuscation.
+
+URL: https://improsec.com/tech-blog/win32k-system-call-filtering-deep-dive
+Description: Win32k System Call Filtering Deep Dive.
+
+URL: https://microsoftedge.github.io/edgevr/posts/attacking-the-devtools/
+Description: Attacking the DevTools.
+
+URL: https://bit.ly/3BV9L9X (+)
+Description: COVID-19, Excel 4.0 Macros, and Sandbox Detection – #zloader.
+
+URL: https://about.gitlab.com/blog/2021/07/08/two-bugs-and-a-quick-fix-in-gitpod/
+Description: A brief look at Gitpod, two bugs, and a quick fix.
+
+URL: https://blogs.jpcert.or.jp/ja/2020/04/ie_firefox_0day.html
+More: https://labs.f-secure.com/blog/exploiting-cve-2019-17026-a-firefox-jit-bug/
+Description: Attacks that exploit IE (CVE-2020-0674) and Firefox (CVE-2019-17026).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://theprintshop.club/
+Description: Apple II Print Shop.
+
+URL: https://github.com/alfg/ffmpeg-commander
+Description: FFmpeg Command Generator Web UI.
+
+URL: https://towardsdatascience.com/how-to-spot-a-data-charlatan-85785c991433
+Description: How to spot a data charlatan.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?b0cdef4475b593ad#p5BQyceYgmpPF6jbdQp8Gqc+k5zS1dgjhbZ/L6ezuZc=
