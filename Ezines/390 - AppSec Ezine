@@ -1,0 +1,142 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 31 | Month: August | Year: 2021 | Release Date: 06/08/2021 | Edition: #390  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://initblog.com/2021/rtl-driveby/
+Description: Stealing Bitcoin with CSRF (Ride the Lightning + Umbrel).
+
+URL: https://blog.ryotak.me/post/pypi-potential-remote-code-execution-en/
+Description: Potential remote code execution in PyPI.
+
+URL: https://joonas.fi/2021/08/saml-is-insecure-by-design/
+More: https://mattermost.com/blog/securing-xml-implementations-across-the-web/
+Description: SAML is insecure by design.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/phath0m/JadedWraith
+Description: Light-weight UNIX backdoor.
+
+URL: https://github.com/bkerler/mtkclient
+Description: Inofficial MTK reverse engineering and flash tool.
+
+URL: https://github.com/xRET2pwn/PickleC2
+Description: PickleC2 is a post-exploitation and lateral movements framework.
+
+URL: https://github.com/zcgonvh/EfsPotato
+Description: EfsPotato (MS-EFSR EfsRpcOpenFileRaw w/ SeImpersonatePrivilege LPE).
+
+URL: https://github.com/GhostPack/ForgeCert
+Description: Certified Pre-Owned - Abusing Active Directory Certificate Services.
+
+URL: https://github.com/grahamhelton/spoofpoint
+Description: Spoofpoint is a domain monitoring tool to verify spoof opportunities.
+
+URL: https://klezvirus.github.io/RedTeaming/AV_Evasion/CodeExeNewDotNet/
+Description: The path to code execution in the era of EDR, Next-Gen AVs, and AMSI.
+
+URL: https://github.com/freeide/CVE-2021-2394
+Description: Oracle WebLogic Server Core Remote Code Execution PoC (CVE-2021-2394).
+
+URL: https://github.com/tokyoneon/CredPhish
+Description: PS designed to invoke legitimate credential prompts and exfil over DNS.
+
+URL: https://github.com/sensepost/assless-chaps
+Description: Crack MSCHAPv2 challenge/responses quickly using a database of NT hashes.
+
+URL: https://github.com/Flangvik/DeployPrinterNightmare
+Description: Shared network printer to abuse the PrinterNightmare bug (Easy Privesc!).
+
+URL: https://github.com/tnpitsecurity/ligolo-ng
+Description: An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.secjuice.com/python-re-match-bypass-technique/
+Description: A Python Regular Expression Bypass Technique.
+
+URL: https://blog.ret2.io/2021/08/04/snapcraft-injection/
+Description: Exploiting Ubuntu's Snapcraft Apps with CVE-2020-27348.
+
+URL: https://link.medium.com/UYmSpVJ7qib 
+Description: Escaping from a truly air gapped network via Apple AWDL.
+
+URL: https://bit.ly/3A5x4fw (+)
+More: https://bit.ly/3ip4mQA (+)
+Description: Hacking the dlink DIR-615 for fun and no profit (Series).
+
+URL: https://labs.taszk.io/blog/post/bootrom_usb/
+Description: Huawei Buffer Overflow in BootROM USB Stack (CVE-2021-22429).
+
+URL: https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story
+Description: Kernel Pwning with eBPF - a Love Story.
+
+URL: https://blog.chichou.me/2021/08/04/mistuned-part-i/
+More: https://blog.chichou.me/2021/08/05/mistuned-part-ii/
+Description: Client-side XSS to Calculator and More (CVE-2021-1748/CVE-2021-1864).
+
+URL: https://dirkjanm.io/ntlm-relaying-to-ad-certificate-services/
+Tool: https://github.com/dirkjanm/PKINITtools
+Description: NTLM relaying to AD CS - On certificates, printers and a little hippo.
+
+URL: https://haxolot.com/posts/2021/manageengine_opmanager_pre_auth_rce/
+Description: Pre-Auth RCE in ManageEngine OPManager (CVE-2020-28653/CVE-2021-3287).
+
+URL: https://blog.azuki.vip/csrf/
+Related: https://simonwillison.net/2021/Aug/3/samesite/
+Description: How to boost your popularity on OkCupid using CSRF and a JSON type confusion.
+
+URL: https://link.medium.com/EvlKxCJaqib
+Description: Bypassing Auth on Arcadyan Routers w/ CVE-2021-20090 and rooting some Buffalo.
+
+URL: https://bit.ly/3lAg1y0 (+)
+More: https://bit.ly/3CdWARH (+)
+Description: Attempting to Bypass the AngularJS Sandbox from a DOM-Based Context in 1.5.9-11.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://windows96.net/
+Blog: https://blog.racket.com/the-windows-96-story/
+Description: Windows of the ’90’s in the browser 
+
+URL: https://spritesmods.com/?art=hddhack&page=1
+Description: Hard disk hacking.
+
+URL: https://github.com/samueldr/linux-3ds.nix
+Description: A Linux system for your 3DS, built with Nix.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?da0fdd7f7fd0d09c#bod4fYcp6Zbxi3iRKuTDAGQgWNFHbJ/JwPjWjd/Veaw=
