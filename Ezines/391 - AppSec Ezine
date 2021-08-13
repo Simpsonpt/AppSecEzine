@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 32 | Month: August | Year: 2021 | Release Date: 13/08/2021 | Edition: #391  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://portswigger.net/research/http2
+Description: HTTP/2 - The Sequel is Always Worse.
+
+URL: https://hackerone.com/reports/1295844
+Description: Modify in-flight data to payment provider Smart2Pay (Valve BBP).
+
+URL: https://hackerone.com/reports/1122408
+Description: CSRF on /api/graphql allows executing mutations through GET requests.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/qtc-de/beanshooter
+Description: JMX enumeration and attacking tool.
+
+URL: https://github.com/krabelize/icmpdoor
+Description: ICMP Reverse Shell written in Python 3.
+
+URL: https://github.com/mosajjal/dnsmonster
+Description: Passive DNS Capture/Monitoring Framework.
+
+URL: https://github.com/fireeye/flare-wmi
+Description: WMI forensics, attacks, defenses, and parser tools.
+
+URL: https://github.com/eksperience/KnockOutlook
+Description: C# project that interacts with Outlook's COM object.
+
+URL: https://blog.ikuamike.io/posts/2021/package_managers_privesc/
+Description: Linux Privilege Escalation - Package Managers.
+
+URL: https://github.com/med0x2e/SigFlip
+Description: Patch authenticode signed PE files (exe, dll, sys ..etc).
+
+URL: https://github.com/bats3c/ADCSPwn
+Description: Tool to escalate privileges in an active directory network.
+
+URL: https://blog.rewanthtammana.com/creating-malicious-admission-controllers
+Description: Creating Malicious Admission Controllers (k8s).
+
+URL: https://bit.ly/3jRbVPK (+)
+Description: From Stranger to DA // Using PetitPotam to NTLM relay to Domain Admin.
+
+URL: https://github.com/signedsecurity/sigurlfind3r
+Description: A reconnaissance tool, it fetches URLs from URLScan, Github and Others.
+
+URL: https://github.com/oleavr/scanpat
+Description: Tool for generating Memory.scan() compatible instruction search patterns.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/w1HrlwD3Cib 
+More: https://link.medium.com/VRhDQpF3Cib 
+Description: Active Directory Spotlight - Trusts.
+
+URL: https://labs.taszk.io/articles/post/exploiting_huaweis_npu_driver/
+Description: Da Vinci Hits a Nerve - Exploiting Huawei's NPU Driver.
+
+URL: https://alephsecurity.com/2021/07/15/aruba-instant/
+Description: Aruba in Chains - Chaining Vulnerabilities for Fun and Profit.
+
+URL: https://bit.ly/3fTpo8v (+)
+Description: Visual Studio Code .ipynb Jupyter Notebook XSS (Arbitrary File Read).
+
+URL: https://www.fortbridge.co.uk/research/multiple-vulnerabilities-in-cpanel-whm/
+Description: Multiple vulnerabilities in cPanel/WHM.
+
+URL: https://occamsec.com/rotten-apples-macos-codesigning-translocation-vulnerability/
+Description: Rotten Apples - MacOS Codesigning Translocation Vulnerability.
+
+URL: https://websecblog.com/vulns/public-google-cloud-blog-bucket/
+Description: Public Bucket Allowed Access to Images on Upcoming Google Cloud Blog Posts.
+
+URL: https://dozer.nz/posts/CVE-2020-36239-POC-dev
+Description: Developing an exploit for the Jira Data Center Ehcache RCE (CVE-2020-36239).
+
+URL: https://ethicalchaos.dev/2020/10/04/attacking-smart-card-based-active-directory-networks/
+Description: Attacking Smart Card Based Active Directory Networks.
+
+URL: http://blog.orange.tw/2021/08/proxylogon-a-new-attack-surface-on-ms-exchange-part-1.html
+More: https://blog.orange.tw/2021/08/proxyoracle-a-new-attack-surface-on-ms-exchange-part-2.html
+Description: A New Attack Surface on MS Exchange (ProxyLogon, ProxyOracle).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://3rdparty.io/
+Description: Best Practices for Third-Party Scripts.
+
+URL: https://github.com/iperov/DeepFaceLive
+Description: DeepFaceLive - Real-time face swap for PC streaming or video calls.
+
+URL: https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network
+Description: From Stolen Laptop to Inside the Company Network.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?d28605fc3f3f232b#UwTkl4F35EyxHWR8MVO+8a/YHGQVpM65DPpJFQf9jFw=
