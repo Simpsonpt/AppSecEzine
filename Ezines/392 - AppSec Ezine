@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 33 | Month: August | Year: 2021 | Release Date: 20/08/2021 | Edition: #392  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/OHc4ZXrktib 
+Description: Facebook Email/phone disclosure using Binary search.
+
+URL: https://www.zapstiko.com/abusing-cors-for-an-xss-on-flickr-bug-bounty/
+Description: Abusing CORS for an XSS on Flickr (Bug Bounty).
+
+URL: https://bit.ly/3mbMMC6 (+)
+Description: Server-Side Request Forgery (SSRF) in JetBrains YouTrack (CVE-2020–15823).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/eloypgz/cerbero
+Description: Kerberos protocol attacker.
+
+URL: https://github.com/jonaslejon/malicious-pdf
+Description: Malicious PDF Generator.
+
+URL: https://github.com/praetorian-inc/gokart
+Description: A static analysis tool for securing Go code.
+
+URL: https://github.com/osmocom/pysim
+Description: A python tool to program SIMs / USIMs / ISIMs.
+
+URL: https://github.com/landaire/unfuck
+Description: Python 2.7 bytecode d̶e̶o̶b̶f̶u̶s̶c̶a̶t̶o̶r unfu..er.
+
+URL: https://github.com/0xTeles/jsleak
+Description: Go code to detect leaks in JS files via regex patterns.
+
+URL: https://github.com/secretlint/secretlint
+Description: Pluggable linting tool to prevent committing credential.
+
+URL: https://github.com/sickcodes/Docker-OSX
+Description: Run Mac in a Docker (near native OSX-KVM and X11 Forwarding).
+
+URL: https://bit.ly/2XKE3Nb (+)
+Description: Fantastic Windows Logon types and Where to Find Credentials in Them.
+
+URL: https://www.rohitsalecha.com/post/bootstrap_security_in_kubernetes_deployments/
+Description: Bootstrap Security in Kubernetes Deployments.
+
+URL: https://github.com/ttdennis/fpicker
+Description: Frida-based fuzzing suite w/ various modes (inc. AFL++ in-process fuzzing).
+
+URL: https://github.com/HuskyHacks/ShadowSteal
+Description: Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM LPE.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://jhftss.github.io/CVE-2021-22545/
+Description: A CVE from BinDiff & IDA Pro (CVE-2021-22545).
+
+URL: https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41
+Description: How to Hack Apple ID.
+
+URL: https://bit.ly/3j0BXRd (+)
+Description: Finding Insecure JWT Signature Validation with CodeQL.
+
+URL: https://www.atredis.com/blog/2021/8/18/sophos-utm-cve-2020-25223
+Description: Sophos UTM Preauth RCE - A Deep Dive into CVE-2020-25223.
+
+URL: https://adepts.of0x.cc/proftpd-cve-2020-9273-exploit/
+Description: Having fun with a Use-After-Free in ProFTPd (CVE-2020-9273).
+
+URL: https://tiszka.com/blog/CVE_2021_21225.html
+More: https://tiszka.com/blog/CVE_2021_21225_exploit.html
+Description: A Bug's Life - Out of bounds memory access in V8 (CVE-2021-21225).
+
+URL: https://raxis.com/blog/rd-web-access-vulnerability
+Description: Microsoft Remote Desktop Web Access Authentication Timing Attack.
+
+URL: https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/
+More: https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/
+Description: Two weeks of securing Samsung devices - Series.
+
+URL: https://borncity.com/win/2020/04/16/dll-hijacking-vulnerabilities-in-nirsoft-tools/
+Description: DLL hijacking vulnerabilities in Nirsoft tools.
+
+URL: https://bit.ly/3yXOYR8 (+)
+Description: Breaking the NFC chips in tens of millions of smart phones, and a few PoS systems.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.magicmushroommap.com/
+Description: Magic Mushroom Map.
+
+URL: https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX
+Description: Convert Apple NeuralHash model for CSAM Detection to ONNX.
+
+URL: https://roadmap.sh/
+Description: Step by step guides and paths to learn different tools or technologies.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?99b8642a3b952731#XLWPpL1xQgt0sRqiZvEbpLQ9mZQImCkcqNwP/tXOZb4=
