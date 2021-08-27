@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 34 | Month: August | Year: 2021 | Release Date: 27/08/2021 | Edition: #393  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/1196958
+Description: Clipboard DOM-based XSS.
+
+URL: https://robertheaton.com/bumble-vulnerability/
+Description: Vulnerability in Bumble dating app reveals any user's exact location.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/boku7/HellsGatePPID
+Description: Custom HellsGate Implementation.
+
+URL: https://github.com/dmaasland/proxyshell-poc
+Description: Proxyshell PoCs.
+
+URL: https://github.com/federicodotta/ghidra2frida
+Blog: https://bit.ly/2Wlx2C8 (+)
+Description: The new bridge between Ghidra and Frida!
+
+URL: https://github.com/nuvious/pam-duress
+Description: Alternate passwords for panic situations.
+
+URL: https://github.com/capt-meelo/Beaconator
+Description: A beacon generator using Cobalt Strike and PEzor.
+
+URL: https://github.com/ernw/static-toolbox
+Description: A collection of statically compiled tools like Nmap and Socat.
+
+URL: https://github.com/JonathonReinhart/nosecmem
+Description: Demonstrate ability to read memfd_secret() data from the kernel.
+
+URL: https://github.com/occlum/occlum
+Description: Occlum is a memory-safe, multi-process library OS for Intel SGX.
+
+URL: https://inesmartins.github.io/mobsf-ipa-binary-analysis-step-by-step/
+Description: MobSF "IPA Binary Analysis" - Step by Step.
+
+URL: https://labs.jumpsec.com/burpsuite-and-beyond/
+Description: Burpsuite and Beyond - Exploring non-HTTP protocols using mitm_relay.
+
+URL: https://github.com/armosec/kubescape
+Description: Tool for testing if k8s Hardening follows the Guidance by to NSA and CISA.
+
+URL: https://github.com/med0x2e/GadgetToJScript
+Description: Generate .NET serialized gadgets to trigger .NET assembly when deserialized.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://sra.io/blog/aws-iam-exploitation/
+Description: AWS IAM Exploitation.
+
+URL: https://sector7.computest.nl/post/2021-08-zoom/
+Description: Zoom RCE from Pwn2Own 2021.
+
+URL: https://bit.ly/3BiCUdR (+)
+More: https://bit.ly/3BeZZhB (+)
+Description: Frida vs Anti-Debug Techniques on Windows.
+
+URL: https://remyhax.xyz/posts/javascript-wasm-anti-debug/
+Description: Anti-Debug JS/WASM by Hand.
+
+URL: https://blog.jse.li/posts/electron-store-encryption/
+Description: Breaking electron-store's encryption.
+
+URL: https://labs.taszk.io/articles/post/huawei_kirin990_bootrom_patch/
+Description: Analysis of Huawei’s OTA Fix For BootROM Vulnerabilities.
+
+URL: https://bit.ly/2Y1Y41J (+)
+Description: Reflections on trusting plugins - Backdooring Jenkins builds.
+
+URL: https://sthbrx.github.io/blog/2021/03/04/fuzzing-grub-part-1/
+More: https://sthbrx.github.io/blog/2021/06/14/fuzzing-grub-part-2-going-faster/
+Description: Fuzzing grub - Series.
+
+URL: https://link.medium.com/pSyRF7gsNib 
+Description: Stored XSS to RCE Chain as SYSTEM in ManageEngine ServiceDesk Plus.
+
+URL: https://link.medium.com/auWpwqy2Wib 
+Description: Finding and Exploiting Unintended Functionality in Main Web App APIs.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://bit.ly/38dfRF7 (+)
+Description: Bringing the Unix Philosophy to the 21st Century.
+
+URL: https://github.com/daniestevez/gr-satellites
+Description: GNU Radio decoders for several Amateur satellites.
+
+URL: https://www.yegor256.com/2016/12/06/how-to-pay-programmers-less.html
+Description: How to Pay Programmers Less.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?066784be8fcd7ee4#jPP99LxEYTaIanZwubbf143IDrG6McxxhHVwHJLbYy8=
