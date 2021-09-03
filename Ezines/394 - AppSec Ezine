@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 35 | Month: September | Year: 2021 | Release Date: 03/09/2021 | Edition: #394 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/824753
+Description: Squid Cache Poisoning.
+
+URL: https://blog.usamav.dev/two-account-takeover-bugs-worth-4300-dollar-bounty
+Description: Two account takeover bugs worth $4300.
+
+URL: https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/
+Description: How to contact Google SRE - Dropping a shell in cloud SQL.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://link.medium.com/BtXA14pf9ib 
+Description: Hunting for XSS with CodeQL.
+
+URL: https://github.com/frkngksl/Huan
+Description: Encrypted PE Loader Generator.
+
+URL: https://github.com/inguardians/peirates
+Description: Kubernetes Penetration Testing tool.
+
+URL: https://github.com/hot3eed/frida-swift-bridge
+Description: Swift interop from Frida.
+
+URL: https://github.com/STMSolutions/boobsnail
+Description: BoobSnail allows generating Excel 4.0 XLM macro.
+
+URL: https://github.com/raverrr/plution
+Description: Prototype pollution scanner using headless chrome. 
+
+URL: https://github.com/eloypgz/httpsweet
+Description: An HTTP server to easily download and upload files.
+
+URL: https://github.com/X-C3LL/wfp-reader
+Description: Proof of concept - Covert Channel using Windows Filtering Platform (C#).
+
+URL: https://github.com/assetnote/batchql
+Blog: https://blog.assetnote.io/2021/08/29/exploiting-graphql/
+Description: GraphQL auditing script w/ focus on performing batch queries and mutations.
+
+URL: https://github.com/pwnesia/dnstake
+Description: Tool to check missing hosted DNS zones that can lead to subdomain takeover.
+
+URL: https://github.com/minamo7sen/burp-JS-Miner
+Description: Tool to find interesting stuff inside static files; mainly JS and JSON files.
+
+URL: https://github.com/SDA-SE/cluster-image-scanner
+Description: Discover vulnerabilities and container image misconfigs in prod environments.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://chaosdb.wiz.io/
+Description: Critical Vulnerability in Microsoft Azure Cosmos DB.
+
+URL: https://asset-group.github.io/disclosures/braktooth/
+Description: BRAKTOOTH - Causing Havoc on Bluetooth Link Manager.
+
+URL: https://vul.360.net/archives/263
+Description: Internal of the Android kernel backdoor vulnerability.
+
+URL: https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md
+Description: Remote Code Execution on Confluence Servers (CVE-2021-26084).
+
+URL: https://blog.it-securityguard.com/how-i-made-more-than-30k-with-jolokia-cves/
+Description: How I made more than $30K with Jolokia CVEs.
+
+URL: https://link.medium.com/H7hlJr61djb 
+Description: AWS privilege escalation - Exploring odd features of the Trust Policy.
+
+URL: https://blog.spookysec.net/DnD-Spoofing/
+More: https://blog.spookysec.net/DnD-LSASS-Injection/ 
+Description: Deception in Depth - Create your own custom honeypots in your AD Network!
+
+URL: https://aptw.tf/2021/08/21/killing-defender.html
+Description: Killing Defender through NT symbolic links redirection while keeping it unbothered.
+
+URL:  https://www.nassiben.com/glowworm-attack
+Description: Glowworm Attack - Optical TEMPEST Sound Recovery via a Device's Power Indicator LED.
+
+URL: https://bit.ly/3DGQSII (+)
+More: https://bit.ly/3gWaWge (+)
+Description: Automatically discovers persistent code exec in the Google Play Core Lib (CVE-2020-8913).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/hoppscotch/hoppscotch
+Description: Open source API development ecosystem.
+
+URL: https://odysee.com/@CyberLounge:a/even-if-youre-paying-youre-still-the-product:7
+Description: Even if you're paying, you're still the product.
+
+URL: https://syndis.is/2021/09/01/e-license
+Description: A review of the implementation of electronic driver's licenses in Iceland.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?c7a4ca5699da88d4#jUIhTbJ894zc8wLJ38OAfqIbc0b8XLiOzVpZgU9JaUw=
