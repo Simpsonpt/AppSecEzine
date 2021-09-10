@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 36 | Month: September | Year: 2021 | Release Date: 10/09/2021 | Edition: #395 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ysamm.com/?p=708
+Description:  Tale of $126k worth of bugs that lead to Facebook Account Takeovers.
+
+URL: https://bit.ly/3z9nszD (+)
+PoC: https://github.com/CHYbeta/OddProxyDemo/tree/master/haproxy/demo1
+Description: HAProxy Integer Overflow that Enables HTTP Smuggling (CVE-2021-40346).
+
+URL: https://hackerone.com/reports/921780
+Description: Improper Authentication - Any user can login as other user w/ OTP logout/login.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/burrowers/garble
+Description: Obfuscate Go builds.
+
+URL: https://github.com/brightio/penelope
+Description: Penelope Shell Handler.
+
+URL: https://github.com/dolevf/graphw00f
+Description: GraphQL Server Fingerprinting.
+
+URL: https://github.com/evilpenguin/ThatWebInspector
+Description: Enabled Web Inspector for all iOS apps.
+
+URL: https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50
+Description: RCE for GhostScript 9.50 - Payload generator.
+
+URL: https://airbus-seclab.github.io/c-compiler-security/
+Description: Getting the maximum of your C compiler, for security.
+
+URL: https://github.com/snovvcrash/NimHollow
+Description: Nim implementation of Process Hollowing using syscalls.
+
+URL: https://xhzeem.me/posts/SSRF-in-PDF-export-with-PhantomJs/read/
+Description: SSRF in PDF export with PhantomJS.
+
+URL: https://github.com/xnbox/DeepfakeHTTP
+Description: Web server that uses HTTP dumps as a source for responses.
+
+URL: https://halove23.blogspot.com/2021/09/zdi-21-1053-bypassing-windows-lock.html
+Description: Bypassing Windows Lock Screen.
+
+URL: https://github.com/AirWalk-Digital/AWSXenos
+Description: List all the trust relationships in all the IAM roles and S3 buckets.
+
+URL: https://github.com/goldfiglabs/sgCheckup
+Description: Generates nmap output based on scanning AWS Sec Groups for unexpected ports.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://buaq.net/go-84531.html
+Description: Burp Suite RCE (Chrome exploit).
+
+URL: https://su18.org/post/jdbc-connection-url-attack/
+Description: JDBC Connection URL Attack.
+
+URL: https://bit.ly/3turS2G (+)
+Description: RCE backdoor in Teradek IP video device firmwares.
+
+URL: http://jaanuskaap.blogspot.com/2020/05/hyper-v-0x1-hypercalls-part-1.html
+More: http://jaanuskaap.blogspot.com/2020/07/hyper-v-0x2-hypercalls-part-2.html
+Description: Hyper-V #0x1,0x2 - Hypercalls.
+
+URL: https://ssd-disclosure.com/ssd-advisory-ip-board-stored-xss-to-rce-chain/
+Description: IP-Board Stored XSS to RCE Chain.
+
+URL: https://nns.ee/blog/2021/04/03/modem-rce.html
+Description: Code execution as root via AT commands on the Quectel EG25-G modem.
+
+URL: https://blog.0xffff.info/2021/06/23/winning-the-race-signals-symlinks-and-toc-tou/
+Description: Winning the race - Signals, symlinks, and TOC/TOU.
+
+URL: https://yingtongli.me/blog/2021/08/29/drm5-1.html
+More: https://yingtongli.me/blog/2021/08/29/drm5-2.html
+Description: Reverse engineering software licensing from early-2000s abandonware (Series).
+
+URL: https://www.spookjs.com/
+Description: Attacking Chrome's Strict Site Isolation via Speculative Exec and Type Confusion.
+
+URL: https://unit42.paloaltonetworks.com/azure-container-instances/
+Description: Finding Azurescape - Cross-Account Container Takeover in Azure Container Instances.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/mgdm/htmlq
+Description: Like jq, but for HTML.
+
+URL: https://github.com/etherdream/web2img
+Description: Bundle web files into a single image.
+
+URL: https://www.shlinkedin.com/
+Description: Be a Thought Leader - ShlinkedIn is a satirical version of LinkedIn.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?46f339800d9cf4a8#94sOkTvd5ca4kIyKa4tWilXyQisKSLLuXU2UJODNYmI=
