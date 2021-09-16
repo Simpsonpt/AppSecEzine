@@ -82,6 +82,7 @@ URL: https://bit.ly/3j0BXRd (+)
 Description: Finding Insecure JWT Signature Validation with CodeQL.
 
 URL: https://www.atredis.com/blog/2021/8/18/sophos-utm-cve-2020-25223
+PoC: https://github.com/darrenmartyn/sophucked
 Description: Sophos UTM Preauth RCE - A Deep Dive into CVE-2020-25223.
 
 URL: https://adepts.of0x.cc/proftpd-cve-2020-9273-exploit/
