@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 37 | Month: September | Year: 2021 | Release Date: 17/09/2021 | Edition: #396 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/2XqNP7k (+)
+Description: Local File Read via Stored XSS in The Opera Browser.
+
+URL: https://link.medium.com/yLNSaV9czjb 
+Description: A Facebook bug that exposes email/phone number to your friends.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/boku7/azureOutlookC2
+Description: Azure Outlook Command & Control (C2).
+
+URL: https://github.com/ChiChou/bagbak
+Description: Yet another frida based iOS dumpdecrypted.
+
+URL: https://github.com/ShutdownRepo/targetedKerberoast
+Description: Kerberoast with ACL abuse capabilities.
+
+URL: https://github.com/RedSection/pFuzz
+Description: Tool to help on web application firewall bypasses.
+
+URL: https://github.com/ariary/QueenSono
+Description: Golang binary for data exfiltration with ICMP protocol.
+
+URL: https://github.com/Azure/Cloud-Katana
+Description: Unlocking Serverless Computing to Assess Security Controls.
+
+URL: https://github.com/geemion/Khepri
+Description: Cross-platform agent and Post-exploiton tool written in Golang and C++.
+
+URL: https://github.com/angus-y/PyIris-backdoor
+Description: PyIris-backdoor is a remote-access-toolkit written completely in python.
+
+URL: https://github.com/knight0x07/ImpulsiveDLLHijack
+Description: Tool to automate discover and exploit of DLL Hijacks in target binaries.
+
+URL: https://github.com/Flangvik/SharpExfiltrate
+Description: Modular C# framework to exfiltrate loot over secure and trusted channels.
+
+URL: https://github.com/mpast/mobileAudit
+Description: Django application that performs SAST and Malware Analysis for Android APKs.
+
+URL: https://github.com/D4Vinci/elpscrk
+Description: Intelligent wordlist generator based on user profiling, permutations, and stats.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://jhftss.github.io/CVE-2021-1740-Invalid-Patch/
+Description: iOS14.8 patch CVE-2021-1740 again silently.
+
+URL: https://niebardzo.github.io/2021-08-23-root-principal-in-aws/
+Description: Security Implication of Root principal in AWS.
+
+URL: https://www.paradigm.xyz/2021/08/two-rights-might-make-a-wrong/
+Description: Two Rights Might Make A Wrong (Smartcontract Security).
+
+URL: https://www.godeye.club/2021/07/28/001-abusing-equ8-anti-cheat.html
+Description: Abusing EQU8 Anti-Cheat.
+
+URL: https://xret2pwn.github.io/CVE-2021-40444-Analysis-and-Exploit/
+PoC: https://github.com/lockedbyte/CVE-2021-40444
+Description: MSHTML Remote Code Execution Analysis/Exploit (CVE-2021-40444).
+
+URL: https://pentest.blog/pardus-21-linux-distro-remote-code-execution-0day-2021/
+Description: Pardus 21 Linux Distro - Remote Code Execution.
+
+URL: https://depthsecurity.com/blog/obfuscating-malicious-macro-enabled-word-docs
+Description: Obfuscating Malicious, Macro-Enabled Word Docs.
+
+URL: https://blog.k3170makan.com/2020/11/linux-kernel-exploitation-0x1-smashing.html
+More: https://blog.k3170makan.com/2021/01/linux-kernel-exploitation-0x2.html
+Description: Linux Kernel Exploitation Series.
+
+URL: https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution
+PoC: https://github.com/horizon3ai/CVE-2021-38647
+Description: "Secret" Agent Exposes Azure Customers To Unauthorized Code Execution.
+
+URL: https://kattraxler.github.io/gcp/hacking/2021/09/10/gcp-org-policy-bypass-ai-notebooks.html
+Description: Bypassing GCP Org Policy with Custom Metadata.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://relax-and-recover.org/
+Description: Relax-and-Recover - Linux Disaster Recovery.
+
+URL: https://blog.h3xstream.com/2021/04/deanonymizing-linkedin-users.html
+Description: Deanonymizing LinkedIn Users.
+
+URL: https://bit.ly/39alkgr (+)
+Description: If you copied any of these popular StackOverflow encryption code snippets, then...
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?ee35257b179a4f02#gva6aBDEJblR3Vev/WNJcMLPS1HIAegRbpm1tbP8Fa8=
