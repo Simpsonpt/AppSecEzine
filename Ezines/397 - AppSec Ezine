@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 38 | Month: September | Year: 2021 | Release Date: 24/09/2021 | Edition: #397 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://gccybermonks.com/posts/mxss/
+Description: mXSS in support.mozilla.org.
+
+URL: https://robertchen.cc/blog/2021/09/20/npm-rce
+Description: 5 x Remote Code Execution in npm for $15k.
+
+URL: https://k4m1ll0.com/chained_exploit_htaccess.html
+Description: PandoraFMS 755 - Chained XSS + .htaccess RCE.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/threathunters-io/QLOG
+Description: Windows Security Logging.
+
+URL: https://github.com/mnemonic-no/ScapySMS
+Description: Complete SMS packet manipulation.
+
+URL: https://github.com/iomoath/file_watchtower
+Description: Lightweight File Integrity Monitoring Tool.
+
+URL: https://niebardzo.github.io/2020-11-23-exploiting-jinja-ssti/
+Description: Exploiting Jinja SSTI with limited payload size.
+
+URL: https://github.com/benjojo/ssh-key-confirmer
+Description: Test ssh login key acceptance without having the private key.
+
+URL: https://github.com/flatt-security/shisho
+Description: Lightweight static analyzer for several programming languages.
+
+URL: https://github.com/dnSpyEx/dnSpy
+Description: Revival of the well known .NET debugger and assembly editor, dnSpy.
+
+URL: https://bit.ly/3AC7b7I (+)
+Description: Using CodeQL to detect client-side vulnerabilities in web applications.
+
+URL: https://github.com/idealeer/xmap
+Description: Fast network scanner designed for performing Internet-wide IPv6 & IPv4.
+
+URL: https://github.com/IlanKalendarov/PyHook
+Description: Offensive API hooking tool designed to catch credentials within the API call.
+
+URL: https://github.com/kinvolk/inspektor-gadget
+Description: Collection of gadgets for debug and introspecting K8s applications using BPF.
+
+URL: https://github.com/darkquasar/AzureHunter
+Description: A Cloud Forensics PS module to run threat hunting playbooks on Azure and O365.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/bbGch5yxCjb
+Description: Google Cloud Build — under the hood.
+
+URL: https://niebardzo.github.io/2021-08-01-cve-cloverdx/
+Description: CSRF to RCE on CloverDX 5.9.0 (CVE-2021-29995).
+
+URL: https://securitylab.github.com/research/apache-dubbo/
+Description: Apache Dubbo - All roads lead to Remote Code Execution.
+
+URL: https://www.guardicore.com/labs/autodiscovering-the-great-leak/
+Description: Autodiscovering the Great Leak.
+
+URL: https://rhinosecuritylabs.com/aws/cve-2021-38112-aws-workspaces-rce/
+Description: AWS WorkSpaces Remote Code Execution (CVE-2021-38112).
+
+URL: https://pulsesecurity.co.nz/advisories/Zerotier-Private-Network-Access
+Description: Zerotier - Multiple Vulnerabilities.
+
+URL: https://bit.ly/3hZZqRR (+)
+Description: Car Hacking with Python - Data Exfiltration GPS and OBDII/CAN Bus.
+
+URL: https://bit.ly/2ZuWZQV (+)
+Description: Hacking CloudKit - How I accidentally deleted your Apple Shortcuts.
+
+URL: https://www.accenture.com/us-en/blogs/cyber-defense/discovering-vulnerabilities-avaya-aura
+Description: Discovering and Exploiting Multiple Vulnerabilities in Avaya Aura.
+
+URL: https://codewhitesec.blogspot.com/2021/09/citrix-sharefile-rce-cve-2021-22941.html
+Description: RCE in Citrix ShareFile Storage Zones Controller (CVE-2021-22941) - A Walk-Through.
+
+URL: https://randywestergren.com/unauthenticated-remote-code-execution-in-motorola-baby-monitors/
+Description: Unauthenticated Remote Code Execution in Motorola Baby Monitors.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/GoATTeam/GoAT
+Description: Geolocate your files!
+
+URL: https://nohello.net/
+Description: Please don't say just hello in chat.
+
+URL: https://www.driverentry.com/node/104
+Description: Evil mass storage - roapt v1 AT90USBKEY2.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?824f95833edcd5d8#HlZGPRea3i2skT5MKYgyJ+iQr3MODan3j8feDNulmf0=
