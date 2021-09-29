@@ -82,6 +82,7 @@ URL: https://securitylab.github.com/research/apache-dubbo/
 Description: Apache Dubbo - All roads lead to Remote Code Execution.
 
 URL: https://www.guardicore.com/labs/autodiscovering-the-great-leak/
+Related: https://autodiscover-vulnerable-tlds.com/
 Description: Autodiscovering the Great Leak.
 
 URL: https://rhinosecuritylabs.com/aws/cve-2021-38112-aws-workspaces-rce/
