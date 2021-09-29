@@ -89,6 +89,7 @@ URL: https://www.fortbridge.co.uk/research/multiple-vulnerabilities-in-cpanel-wh
 Description: Multiple vulnerabilities in cPanel/WHM.
 
 URL: https://occamsec.com/rotten-apples-macos-codesigning-translocation-vulnerability/
+PoC: https://github.com/impost0r/Rotten-Apples
 Description: Rotten Apples - MacOS Codesigning Translocation Vulnerability.
 
 URL: https://websecblog.com/vulns/public-google-cloud-blog-bucket/
