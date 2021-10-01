@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 39 | Month: October | Year: 2021 | Release Date: 01/10/2021 | Edition: #398 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3ihsjsP (+)
+Description: XSS to RCE in the Opera Browser.
+
+URL: https://blog.s1r1us.ninja/research/PP
+Description: Exploiting Client-Side Prototype Pollution in the wild.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/0xrawsec/whids
+Description: Open Source EDR for Windows.
+
+URL: https://github.com/praetorian-inc/PortBender
+Description: TCP Port Redirection Utility.
+
+URL: https://github.com/hotnops/gtunnel
+Description: A TCP tunneling suite built with golang and gRPC.
+
+URL: https://github.com/jfmaes/Invoke-DLLClone
+Blog: https://redteamer.tips/appdata-is-a-mistake-introducing-invoke-dllclone/
+Description: Invoke-DLLClone - Koppeling x Metatwin x LazySign.
+
+URL: https://github.com/trufflesecurity/Trufflehog-Chrome-Extension
+Description: Find secrets that leak into JavaScript.
+
+URL: https://github.com/tanc7/EXOCET-AV-Evasion
+Description: EXOCET - AV-evading, undetectable, payload delivery tool.
+
+URL: https://github.com/HXSecurity/DongTai
+Description: Open-source passive interactive security testing (IAST) product.
+
+URL: https://github.com/hotnops/RemoteDebugView
+Description: A DLL that serves OutputDebugString content over a TCP connection.
+
+URL: https://github.com/RuiSiang/PoW-Shield
+Description: Project dedicated to fight DDoS and spam w/ proof of work, and a WAF.
+
+URL: https://github.com/aemmitt-ns/radius
+Description: Fast binary emulation and symbolic execution framework using radare2.
+
+URL: https://github.com/waydroid/waydroid
+Description: Container-based approach to boot a full Android system on a regular GNU/Linux.
+
+URL: https://link.medium.com/7mpfkhSLmjb 
+Description: gcpHound - A Swiss Army Knife Offensive Toolkit for Google Cloud Platform (GCP).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/9gU9eJmRpjb 
+More: https://link.medium.com/eFVtgR0Lijb 
+Description: Javascript Anti Debugging  -  Some Next Level Sh*t (Series).
+
+URL: https://www.n00py.io/2021/09/resetting-expired-passwords-remotely/
+Description: Resetting Expired Passwords Remotely.
+
+URL: https://bit.ly/3zRrYTC (+)
+Description: Finding SSRF via HTML Injection inside a PDF file on AWS EC2.
+
+URL: https://mogwailabs.de/en/blog/2021/09/vulnerability-digging-with-codeql/
+Description: Vulnerability digging with CodeQL.
+
+URL: https://trenchant.io/pwn2own-2021-parallels-desktop-guest-to-host-escape/
+Description: Pwn2Own 2021 - Parallels Desktop Guest to Host Escape.
+
+URL: https://bit.ly/3F3Mggp (+)
+Description: HP OMEN Gaming Hub PE Bug Hits Millions of Gaming Devices (CVE-2021-3437).
+
+URL: https://testbnull.medium.com/quick-note-of-vcenter-rce-cve-2021-22005-4337d5a817ee
+Description: Quick note of vCenter RCE (CVE-2021–22005).
+
+URL: https://bit.ly/3upYfzY (+)
+Description: Remote Command Execution in Visual Studio Code Remote Development Extension.
+
+URL: https://www.coresecurity.com/core-labs/articles/analysis-cve-2021-26897-dns-server-rce
+Description: Analysis of CVE-2021-26897 DNS Server RCE.
+
+URL: https://github.com/RootMyTV/RootMyTV.github.io
+Description: RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://rclone.org/
+Description: Rclone syncs your files to cloud storage.
+
+URL: https://github.com/tobozo/WUD-Ducky
+Description: An USB Rubberducky example for ESP32-S2 module with SD Card.
+
+URL: https://github.com/microsoft/muzic
+Description: Muzic - Music Understanding and Generation with Artificial Intelligence.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?071edfaf288a8538#/omU/jL3ApG5rvQmH7lnEU2uwvJ1Wa99r9/ABtpyZXo=
