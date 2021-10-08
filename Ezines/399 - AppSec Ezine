@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 40 | Month: October | Year: 2021 | Release Date: 08/10/2021 | Edition: #399 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/91t11Xz1Rjb 
+Description: Google IDOR Vulnerability Writeup.
+
+URL: https://blog.tint0.com/2021/09/pinging-xmlsec.html
+Description: Ping'ing XMLSec (CVE-2021-40690).
+
+URL: https://hackerone.com/reports/1077136
+Description: Slack Denial of Service via Hyperlinks in Posts (DOM Clobbering).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/stealth/devpops
+Description: Companion Worm research.
+
+URL: https://github.com/ovotech/domain-protect
+Description: Protect against subdomain takeover.
+
+URL: https://gitlab.com/theepicpowner/dcom_av_exec
+Description: DCOM_AV_EXEC (+ AV_Bypass_Framework_V3).
+
+URL: https://github.com/EONRaider/Packet-Sniffer
+Description: A pure-Python Network Packet Sniffing tool.
+
+URL: https://github.com/trickster0/OffensiveRust
+Description: Rust Weaponization for Red Team Engagements.
+
+URL: https://github.com/r3nt0n/bopscrk
+Description: Tool to generate smart and powerful wordlists.
+
+URL: https://github.com/gentilkiwi/kekeo
+Description: A little toolbox to play with Microsoft Kerberos in C.
+
+URL: https://github.com/mm0r1/exploits/tree/master/php-filter-bypass
+Description: PHP 7.0-8.0 disable_functions bypass PoC (*nix only).
+
+URL: https://github.com/ollypwn/Certipy
+Description: Python implementation for Active Directory certificate abuse.
+
+URL: https://github.com/daem0nc0re/Abusing_Weak_ACL_on_Certificate_Templates
+Description: Abusing Weak ACL on Certificate Templates.
+
+URL: https://gist.github.com/infernalheaven/f2f6a2fa2ec1b2252955fb8078211da1
+Description: macOS 11.5.2/iOS 14.7.1 Kernel Race Condition PoC.
+
+URL: https://github.com/klezVirus/CandyPotato
+Description: Pure C++, weaponized, fully automated implementation of RottenPotatoNG.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://voidsec.com/crucial-mod-utility-lpe-cve-2021-41285/
+Description: Crucial's MOD Utility LPE (CVE-2021-41285).
+
+URL: https://eclypsium.com/2021/09/23/everyone-gets-a-rootkit/
+Description: Everyone Gets a Rootkit - Microsoft WPBT Abuse.
+
+URL: https://labs.f-secure.com/blog/the-discovery-of-cve-2021-1810/
+More: https://labs.f-secure.com/blog/analysis-of-cve-2021-1810-gatekeeper-bypass/
+Description: The discovery of Gatekeeper bypass CVE-2021-1810.
+
+URL: https://securitylab.github.com/research/chrome_sbx_java/
+Description: Escaping to Java to escape the Chrome sandbox (CVE-2021-30528).
+
+URL: https://duraki.github.io/posts/o/20200227-ghidra-scripting-image2icon.html
+Description: Scripting in Ghidra, Patching MacOS Image2Icon.
+
+URL: https://deepsurface.com/deepsurface-security-advisory-lpe-in-firefox-on-windows/
+Description: LPE in Firefox on Windows.
+
+URL: https://link.medium.com/f9S3a1549jb 
+Description: Pre-Auth SSRF To Full MailBox Access (Microsoft Exchange Server Exploit).
+
+URL: https://bit.ly/3iJfbNf (+)
+Description: Fixing the 13 most common GraphQL Vulns to make your API production ready.
+
+URL: https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html
+Description: Always-on Processor magic - How Find My works while iPhone is powered off.
+
+URL: https://bit.ly/3lmANke (+)
+Description: A Modern Exploration of Windows Memory Corruption Exploits - Stack Overflows.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://blog.stoege.net/posts/fullbgp_at_home/
+Description: FullBGP at Home.
+
+URL: https://shkspr.mobi/blog/2021/09/alexa-leaks-your-private-wishlists/
+Description: Alexa leaks your private wishlists.
+
+URL: https://blog.cloudflare.com/how-to-execute-an-object-file-part-1/
+More: https://blog.cloudflare.com/how-to-execute-an-object-file-part-2/ (-part-3)
+Description: How to execute an object file - Series.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?e27f150c9a3b1132#UMS8IdjuGVc7HrK2u7tetEmgh92GqcFGolohyHboASA=
