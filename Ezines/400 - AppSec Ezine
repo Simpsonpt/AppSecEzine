@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 41 | Month: October | Year: 2021 | Release Date: 15/10/2021 | Edition: #400 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://svennergr.github.io/writeups/google/ads_dom_xss/
+Description: Stumbling across a DOM XSS on google.com.
+
+URL: https://jub0bs.com/posts/2021-10-12-xsleak-stack/
+Description: Abusing Slack's file-sharing to de-anonymise fellow workspace members.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/snorez/ebpf-fuzzer
+Description: Fuzz the linux kernel bpf verifier.
+
+URL: https://github.com/rootsecdev/Azure-Red-Team
+Description: Azure Security Resources and Notes.
+
+URL: https://github.com/odzhan/injection
+Description: Windows process injection methods (Dump).
+
+URL: https://github.com/neex/ghostinthepdf
+Description: small tool that can embed GhostScript exploits into a PDF.
+
+URL: https://github.com/ricardojoserf/covert-tube
+Description: Youtube as Covert-Channel - C2 by uploading videos to Youtube.
+
+URL: https://rastamouse.me/backdoor-net-assemblies-with-dnspy-%f0%9f%a4%94/
+Description: Backdoor .NET assemblies with… dnSpy.
+
+URL: https://github.com/thewhiteninja/ntfstool
+Description: Forensics tool for NTFS (parser, mft, bitlocker, deleted files).
+
+URL: https://github.com/facebook/mariana-trench/
+Description: Security-Focused Static Analysis for Android and Java Applications.
+
+URL: https://github.com/ovotech/gitoops
+Blog: https://tech.ovoenergy.com/gitoops-attacking-and-defending-ci-cd-pipelines/
+Description: GitOops! Attacking and defending CI/CD pipelines.
+
+URL: https://github.com/im2nguyen/rover
+Description: Interactive Terraform visualization - State and configuration explorer.
+
+URL: https://github.com/quarkslab/kdigger
+Blog: https://blog.quarkslab.com/kdigger-a-context-discovery-tool-for-kubernetes.html
+Description: kdigger is a context discovery tool for Kubernetes penetration testing. 
+
+URL: https://github.com/ZeusBox/CVE-2021-37980
+Description: Inappropriate implementation in Chrome Sandbox (Windows only) (CVE-2021-37980).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/b6nlpUJllkb 
+Description: Bypassing required reviews using GitHub Actions.
+
+URL: https://www.horizon3.ai/compromising-vcenter-via-saml-certificates/
+PoC: https://github.com/horizon3ai/vcenter_saml_login
+Description: Compromising vCenter via SAML Certificates.
+
+URL: https://blog.silentsignal.eu/2021/10/14/fuzzy-snapshots-of-firefox-ipc/
+Description: Fuzzy Snapshots of Firefox IPC.
+
+URL: https://bit.ly/3BIGMFS (+)
+Description: Escalating Azure Privileges with the Log Analytics Contributor Role.
+
+URL: https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html
+Description: Hacking YouTube With MP4.
+
+URL: https://link.medium.com/JuXl3jIKlkb
+PoC: https://github.com/blocksecteam/defi_poc/tree/main/ClaimComp
+Description: The Butterfly Effect - The Compound Security Incident Caused by a Bugfix.
+
+URL: https://www.iot-inspector.com/blog/advisory-cisco-ata19x-privilege-escalation-rce/
+Description: Cisco ATA19X Privilege Escalation and RCE.
+
+URL: https://grenfeldt.dev/2021/10/08/gunicorn-20.1.0-public-disclosure-of-request-smuggling
+Description: Gunicorn 20.1.0 Public Disclosure of Request Smuggling.
+
+URL: https://www.redtimmy.com/iot-ics-armageddon-hacking-devices-like-theres-no-tomorrow-part-1/
+Description: IoT/ICS Armageddon - Hacking devices like there’s no tomorrow.
+
+URL: https://research.nccgroup.com/2021/10/12/a-look-at-some-real-world-obfuscation-techniques/
+Description: A Look At Some Real-World Obfuscation Techniques.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://linux-kernel-labs.github.io/refs/heads/master/
+Description: Linux Kernel Teaching.
+
+URL: https://buer.haus/2021/10/12/bts-metaversal-album-treasure-hunt-solution/
+Description: BT's Metaversal Album Treasure Hunt Solution.
+
+URL: https://github.com/rahul-thakoor/air-pi-play
+Description: Turn a Raspberry Pi into an Airplay server to enable screen mirroring.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?bb3b844327a0d368#H4MznWMkgQoYzajqxydML8e+xdUby6DC3UPPLMofEIg=
