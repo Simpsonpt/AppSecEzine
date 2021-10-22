@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 42 | Month: October | Year: 2021 | Release Date: 22/10/2021 | Edition: #401 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/1212067
+Description: GitLab Stored XSS in markdown via the DesignReferenceFilter.
+
+URL: https://hackerone.com/reports/1341957
+Description: Reddit Hash-Collision Denial-of-Service Vulnerability in Markdown Parser.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/codewhitesec/HandleKatz
+Description: PIC lsass dumper using cloned handles.
+
+URL: https://github.com/ptswarm/reFlutter
+Description: Flutter Reverse Engineering Framework.
+
+URL: https://github.com/sharkdp/binocle
+Description: Graphical tool to visualize binary data.
+
+URL: https://github.com/ideaslocas/aDLL
+Description: aDLL - Adventure of Dinamic Lynk Library.
+
+URL: https://github.com/arinerron/heaptrace/
+Description: Helps visualize heap operations for pwn and debugging.
+
+URL: https://github.com/plackyhacker/Shellcode-Injection-Techniques
+Description: Collection of C# shellcode injection techniques.
+
+URL: https://github.com/kubernetes-sigs/security-profiles-operator
+Description: Kubernetes Security Profiles Operator.
+
+URL: https://www.antitree.com/2021/10/abusing-registries-for-exfil-and-droppers/
+Description: Abusing Registries For Exfil And Droppers.
+
+URL: https://github.com/fofapro/fapro
+Description: Cross-platform, Single-file mass network protocol server simulator.
+
+URL: https://github.com/Tylous/ZipExec
+Description: A unique technique to execute binaries from a password protected zip.
+
+URL: https://github.com/S3cur3Th1sSh1t/OffensiveVBA
+Description: Code execution and AV Evasion methods for Macros in Office documents.
+
+URL: https://github.com/tandasat/WPBT-Builder
+Description: UEFI app to create a Windows Platform Binary Table (WPBT) from the UEFI shell.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://firzen.de/building-a-poc-for-cve-2021-40438
+Description: Building a PoC for Apache SSRF (CVE-2021-40438).
+
+URL: https://boschko.ca/printer-to-domain-admin/
+Description: From Default Printer Credentials to Domain Admin.
+
+URL: https://link.medium.com/VbRo6UTfwkb
+Description: Exploiting Request forgery on Mobile Applications.
+
+URL: https://alephsecurity.com/2021/10/20/sudump/
+Description: SuDump - Exploiting suid binaries through the kernel.
+
+URL: https://bit.ly/3vMdHr3 (+)
+Description: Assessing the security and privacy of Vaccine Passports.
+
+URL: https://saaramar.github.io/IOMFB_integer_overflow_poc/
+Description: Bindiff and PoC for the IOMFB vulnerability, iOS 15.0.2 (CVE-2021-30883).
+
+URL: https://bit.ly/3C69cJZ (+)
+Description: A Scientific Notation Bug in MySQL left AWS WAF Clients Vulnerable to SQLi.
+
+URL: https://blog.includesecurity.com/2021/09/drive-by-compromise-a-tale-of-four-routers/
+Description: Drive-By Compromise - A Tale Of Four WiFi Routers.
+
+URL: https://www.pixiepointsecurity.com/blog/cve-2021-34486.html
+Description: Event Tracing for Windows (ETW) TimerCallbackContext Object UaF (CVE-2021-34486).
+
+URL: https://srcincite.io/blog/2021/09/30/chasing-a-dream-pwning-the-biggest-cms-in-china.html
+Description: Chasing a Dream :: Pre-authenticated Remote Code Execution in Dedecms.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://turingcomplete.game/
+Description: Turing Complete Game.
+
+URL: https://foobarbecue.github.io/surfsonar/
+Description: Surf Sonar (DIY).
+
+URL: https://www.fredrikholmqvist.com/posts/print-dependency-injection/
+Description: Printf("%s %s", dependency, injection).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?31cef4f958bc544d#NPtTzxWyNkGB2X5IaUdj1z874jqxBFmynIeSvWxaz+w=
