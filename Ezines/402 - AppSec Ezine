@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 43 | Month: October | Year: 2021 | Release Date: 29/10/2021 | Edition: #402 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://0day.click/recipe/discourse-sns-rce/
+Description: Discourse SNS webhook RCE.
+
+URL: https://hackerone.com/reports/1154542
+PoC: https://github.com/CsEnox/Gitlab-Exiftool-RCE
+Description: GitLab RCE when removing metadata with ExifTool (CVE-2021-22205).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ceres-c/bulldozer
+Description: A JavaScript decompiler.
+
+URL: https://github.com/morph3/crawpy
+Description: Yet another content discovery tool.
+
+URL: https://github.com/blurbdust/ldd2bh
+Description: Convert ldapdomaindump to Bloodhound.
+
+URL: https://github.com/praetorian-inc/snowcat
+Blog: https://www.praetorian.com/blog/introducing-snowcat/
+Description: Tool to audit the istio service mesh.
+
+URL: https://github.com/open-policy-agent/gatekeeper
+Description: Gatekeeper - Policy Controller for Kubernetes.
+
+URL: https://redteaming.co.uk/2021/10/28/understanding-syscalls/
+Description: Understanding SysCalls Manipulation.
+
+URL: https://go-re.tk/
+Description: A Reverse Engineering Tool Kit for Go, Written in Go.
+
+URL: https://github.com/ly4k/CallbackHell
+Description: Win32k Elevation of Privilege Vulnerability (CVE-2021-40449).
+
+URL: https://github.com/seemoo-lab/airtag
+Description: AirTag instrumentation including AirTechno and firmware downgrades.
+
+URL: https://halove23.blogspot.com/2021/10/windows-user-profile-service-0day.html
+Description: Windows User Profile Service 0day LPE.
+
+URL: https://github.com/Aiminsun/CVE-2021-36260
+Description: Hikvision Web Server Build 210702 - Command Injection (CVE-2021-36260).
+
+URL: https://github.com/stong/how-to-exploit-a-double-free
+Description: How to exploit a double free vulnerability in 2021 - 'UaF for Dummies'.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.ambionics.io/blog/php-fpm-local-root
+Description: PHP-FPM local root vulnerability.
+
+URL: https://bit.ly/3GvMm17 (+)
+Description: Cracking WiFi at Scale with One Simple Trick.
+
+URL: https://osamaelnaggar.com/blog/aws_waf_dangerous_defaults/
+Description: AWS WAF's Dangerous Defaults.
+
+URL: https://ceres-c.it/2021/10/24/weaponizing-NFC-reader/
+Description: Weaponizing a NFC reader for basic timing attacks.
+
+URL: https://link.medium.com/mezZWtSPDkb 
+Description: Code Execution in Microsoft Office (CVE-2021–38646).
+
+URL: https://blog.compass-security.com/2021/09/saml-padding-oracle/
+Description: SAML Padding Oracle.
+
+URL: https://darrenmartyn.ie/2021/10/25/zimbra-nginx-local-root-exploit/
+Description: Zimbra "nginx" Local Root Exploit.
+
+URL: https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover
+Description: Agent 007 - Pre-Auth Takeover of Build Pipelines in GoCD.
+
+URL: https://www.synacktiv.com/publications/car-hijacking-swapping-a-single-bit.html
+Description: Car hijacking swapping a single bit.
+
+URL: https://bit.ly/3EFGYXF (+)
+Description: Breaking the Android Bootloader on the Snapdragon 660 (CVE-2021-1931).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://healeycodes.com/doom-rendered-via-checkboxes
+Description: DOOM Rendered via Checkboxes.
+
+URL: https://render.com/blog/how-to-build-an-anycast-network
+Description: How to Build an Anycast Network.
+
+URL: https://whitehoodhacker.net/posts/2021-10-04-the-big-rick
+Description: IoT Hacking and Rickrolling My High School District.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?5adcb83e368a3b55#EBcDr9NFBxmHze28jcCRkt6iWLatwvZea7JSSEADhoA=
