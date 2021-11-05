@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 44 | Month: November | Year: 2021 | Release Date: 05/11/2021 | Edition: #403 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://feed.bugs.xdavidhu.me/bugs/0011
+Description: Auth Bypass in Google Assistant.
+
+URL: https://hackerone.com/reports/1213237
+Description: Deleting all DMs on RedditGifts.com (Facepalm).
+
+URL: https://omespino.com/write-up-xss-stored-in-api-media-atlassian-com-via-doc-file-ios/
+Description: Stored XSS in api.media.atlassian.com via DOC file (iOS).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/daddycocoaman/turdshovel
+Description: Dump objects from .NET dumps.
+
+URL: https://github.com/chen-keinan/mesh-kridik
+Description: Enhance your Kubernetes service mesh security.
+
+URL: https://github.com/LinusHenze/Fugu14
+Description: Fugu14 is an untethered iOS 14.3-14.5.1 jailbreak.
+
+URL: https://github.com/ddosify/ddosify
+Description: High-performance load testing tool, written in Golang. 
+
+URL: https://github.com/mechanicalnull/fuzzwatch
+Description: Python GUI for seeing what's happening inside a fuzzer.
+
+URL: https://github.com/emcruise/tor-rootkit
+Description: A Python 3 standalone Windows 10 / Linux Rootkit using Tor.
+
+URL: https://bit.ly/3GTH5AO (+)
+Description: Bypassing corporate proxies (ab)using serverless for fun and profit.
+
+URL: https://github.com/cybersecsi/dockerized-android
+Description: Framework that allows to execute and Android Emulator inside Docker.
+
+URL: https://github.com/AonCyberLabs/D-Modem
+Description: Connect to dialup modems over VoIP using SIP, no modem hardware required.
+
+URL: https://github.com/efoncubierta/cloudspec
+Description: Tool for validating your resources in your cloud using a logical language.
+
+URL: https://github.com/uds-se/FormatFuzzer
+Description: Framework for high-efficiency/quality generation and parsing of binary inputs. 
+
+URL: https://github.com/punk-security/pwnspoof
+Description: Generates realistic spoofed log files for common web servers w/ custom attacks.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.lightspin.io/nginx-custom-snippets
+Description: NGINX Custom Snippets CVE-2021-25742.
+
+URL: https://thedfirreport.com/2021/11/01/from-zero-to-domain-admin/
+Description: From Zero to Domain Admin.
+
+URL: https://link.medium.com/S0uXJ87rUkb 
+Description: Code Execution in Apache OpenOffice (CVE-2021-33035).
+
+URL: https://bit.ly/2ZQROeD (+)
+Description: Attacking Access Control Models In Modern Web Applications.
+
+URL: https://blog.agektmr.com/2021/11/browser-security.html
+Description: About Specter threats and headers that websites should set.
+
+URL: https://blog.forcesunseen.com/a-primer-for-testing-the-security-of-graphql-apis
+Description: A Primer for Testing the Security of GraphQL APIs.
+
+URL: https://aptw.tf/2021/10/27/exploiting-protobuf-webapps.html
+Description: How serializing data using Google's Protobuf is not protecting your web app.
+
+URL: https://engineering.salesforce.com/github-actions-security-best-practices-b8f9df5c75f5
+Description: Github Actions Security Best Practices.
+
+URL: https://nemesis.sh/posts/movable-type-0day/
+PoC: https://github.com/ghost-nemesis/cve-2021-20837-poc
+Description: Finding An Unauthenticated RCE Vulnerability In MovableType (CVE-2021-20837).
+
+URL: https://link.medium.com/tRrgfRhkykb 
+More: https://link.medium.com/ppf6AJwtKkb 
+Description: 50 Shades of SolarWinds Orion Deserialization Series (CVE-2021–35215/CVE-2021–35218).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://www.suppertime.co.uk/blogmywiki/2021/10/ceefax-from-an-old-raspberry-pi/
+Description: Ceefax from an old Raspberry Pi.
+
+URL: https://github.com/zhuowei/nft_ptr
+Description: C++ std::unique_ptr that represents each object as an NFT on the Ethereum blockchain.
+
+URL: https://github.com/milesmcc/shynet
+Description: Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?314d5b23cb1f51f4#Y29xw4NWucM3OpY05mAZMt2JsUR5xNZ5VglJtdr22Vg=
