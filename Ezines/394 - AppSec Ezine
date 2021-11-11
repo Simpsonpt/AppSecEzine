@@ -74,6 +74,7 @@ Description: Discover vulnerabilities and container image misconfigs in prod env
 
 
 URL: https://chaosdb.wiz.io/
+More: https://www.wiz.io/blog/chaosdb-explained-azures-cosmos-db-vulnerability-walkthrough
 Description: Critical Vulnerability in Microsoft Azure Cosmos DB.
 
 URL: https://asset-group.github.io/disclosures/braktooth/
