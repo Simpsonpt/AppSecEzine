@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 45 | Month: November | Year: 2021 | Release Date: 12/11/2021 | Edition: #404 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/1213765
+Description: Reddit IDOR to pay less for coin purchases.
+
+URL: https://bugs.chromium.org/p/chromium/issues/detail?id=1251541
+Description: Google Chrome NTP XSS via Google Search CSRF.
+
+URL: https://bit.ly/3HefPwH (+)
+Description: Becoming A Super Admin In Someone Elses Gsuite Org. And Taking It Over.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/helpsystems/nanodump
+Description: Dumping LSASS has never been so stealthy.
+
+URL: https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner
+Description: Web Cache Vulnerability Scanner (WCVS).
+
+URL: https://github.com/ariary/TrojanSourceFinder
+Related: https://trojansource.codes/
+Description: Help find Trojan Source vulnerability in code (CI/CD).
+
+URL: https://github.com/MrLion7/Lmap
+Description: A tool combined with the advantages of masscan and nmap.
+
+URL: https://github.com/b4den/rsacrack
+Description: A toolbox for extracting RSA private keys from public keys.
+
+URL: https://github.com/airbus-seclab/GEA1_break
+Description: PoC of a key recovery attack against GEA-1 keys (GPRS Encryption).
+
+URL: https://github.com/jhftss/IDA2Obj
+Description: IDA2Obj is a tool to implement SBI (Static Binary Instrumentation).
+
+URL: https://github.com/apiclarity/apiclarity
+Description: Reconstruct Open API Specs from real-time workload traffic seamlessly.
+
+URL: https://github.com/gojek/CureIAM
+Description: Clean up of over permissioned IAM accounts on GCP in an automated way.
+
+URL: https://github.com/kube-tarian/tarian
+Description: Protect your Applications running on Kubernetes from malicious attacks.
+
+URL: https://github.com/cloudgraphdev/cli
+Description: Open-source GraphQL powered search engine for your cloud infrastructure.
+
+URL: https://github.com/thefLink/C-To-Shellcode-Examples/
+Description: C code which compiles to an executable living fully in its text segment.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://synthesis.to/2021/10/21/vm_based_obfuscation.html
+Description: Writing Disassemblers for VM-based Obfuscators.
+
+URL: https://www.romainthomas.fr/post/21-11-pgsharp-analysis/
+Description: PGSharp - Analysis of a Cheating App for PokemonGO.
+
+URL: https://blog.assetnote.io/2021/11/02/sitecore-rce/
+Description: Sitecore Experience Platform Pre-Auth RCE (CVE-2021-42237).
+
+URL: https://github.com/0dayatday0/BattleFN-cheat-analysis
+Description: A Formal Analysis of The Average (Detected) Fortnite Cheat.
+
+URL: https://ian.sh/airflow
+Description: Exploiting outdated Apache Airflow instances in bug bounties.
+
+URL: https://link.medium.com/PZShkIIc3kb 
+More: https://link.medium.com/4PuQ9ms5Wkb 
+Description: What is AT&T doing at 1111340002? Welcome to the world of proactive SIMs.
+
+URL: https://snyk.io/blog/type-manipulation/
+More: https://snyk.io/blog/remediate-javascript-type-confusion-bypassed-input-validation/
+Description: Type Manipulation - Escaping Template Sandboxes.
+
+URL: https://bit.ly/3qtL8xH (+)
+Description: Shifting Cloud Security Left - Scanning Infra as Code for Security Issues.
+
+URL: https://bit.ly/31IQBq4 (+)
+Description: Remote Linux Kernel Heap Overflow - TIPC Module Allows Arb. Code Exec. (CVE-2021-43267).
+
+URL: https://www.intruder.io/research/practical-http-header-smuggling
+Description: Practical HTTP Header Smuggling - Sneaking Past Reverse Proxies to Attack AWS and Beyond.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://link.medium.com/IG1h8kNhWkb
+Description: Cloning Fingerprints Like A Boss - 101 Edition.
+
+URL: https://bit.ly/3c4jQpm (+)
+Description: Practical Security Recommendations for Start-ups with Limited Budgets.
+
+URL: https://github.com/niespodd/browser-fingerprinting
+Description: Avoiding bot detection - How to scrape the web without getting blocked?
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?bbb701509e9355bd#ni5D8t7CuueT69bsMt6qhCUES6XWRUHmDAGjOyfDEgo=
