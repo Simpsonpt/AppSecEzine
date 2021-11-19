@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 46 | Month: November | Year: 2021 | Release Date: 19/11/2021 | Edition: #405 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://feed.bugs.xdavidhu.me/bugs/0008
+Description: Google SSRF - URL whitelist bypass.
+
+URL: https://bit.ly/3FxcfvZ (+)
+Description: How I was able to revoke your Instagram 2FA.
+
+URL: https://hackerone.com/reports/1238099
+Description: HTTP Request Smuggling due to ignoring chunk extensions.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Ganapati/RsaCtfTool
+Description: RSA multi attacks tool.
+
+URL: https://github.com/star-sg/kernelcache_decryptor
+Description: Kernel Cache Decryption for iOS.
+
+URL: https://github.com/oldboy21/LDAP-Password-Hunter
+Description: LDAP Password Hunter.
+
+URL: https://github.com/FunnyWolf/Viper
+Description: Intranet pentesting tool with webui.
+
+URL: https://alephsecurity.com/2021/11/16/fuzzing-qemu-android/
+Description: AFL++ on Android with QEMU support.
+
+URL: https://github.com/klinix5/WindowsMDMLPE
+Description: Windows 11 Device Management Enrollment Service 0day LPE.
+
+URL: https://blog.h3xstream.com/2021/10/bypassing-modsecurity-waf.html
+Description: Bypassing ModSecurity WAF.
+
+URL: https://github.com/spoofzu/jvmxray
+Description: Make Java security events of interest visible for analysis.
+
+URL: https://wadcoms.github.io/
+Description: WADComs - Interactive cheatsheet for Windows AD Environments.
+
+URL: https://github.com/nyxnor/onionservice
+Description: Feature-rich Onion Service manager for UNIX-like operating systems.
+
+URL: https://github.com/ariary/fileless-xec
+Description: Stealth dropper executing remote binaries without dropping them on disk.
+
+URL: https://github.com/Sh0ckFR/InlineWhispers2
+Description: Direct SysCalls in Cobalt Strike's Beacon Object Files (BOF) via Syswhispers2.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.scrt.ch/2021/11/15/tpm-sniffing/
+Description: TPM sniffing.
+
+URL: https://0x434b.dev/linksys-ea6100_pt1/
+More: https://0x434b.dev/linksys-ea6100_pt2/
+Description: Hacking LinkSys EA6100 AC1200 (Series).
+
+URL: https://www.mccormackcyber.com/post/finding-a-0-day-race-condition
+Description: Finding a 0 Day Race Condition.
+
+URL: https://techkranti.com/idor-through-mongodb-object-ids-prediction/
+Description: IDOR through MongoDB Object IDs Prediction.
+
+URL: https://blog.grimm-co.com/2021/11/escalating-xss-to-sainthood-with-nagios.html
+Description: Escalating XSS to Sainthood with Nagios.
+
+URL: https://docfate111.github.io/blog/securityresearch/2021/11/08/SLUBoverflow.html
+Description: SLUB overflow CVE-2021-42327.
+
+URL: https://bit.ly/3DraNLb (+)
+Description: A Technical Analysis of CVE-2021-30864 - Bypassing App Sandbox Restrictions.
+
+URL: https://xsinator.com/
+Description: From a Formal Model to the Automatic Evaluation of Cross-Site Leaks in Web Browsers.
+
+URL: https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization/
+Description: Exploiting CSP in Webkit to Break Authentication & Authorization.
+
+URL: https://thalium.github.io/blog/posts/fuzzing-microsoft-rdp-client-using-virtual-channels/
+Description: Fuzzing Microsoft's RDP Client using Virtual Channels - Overview & Methodology.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/Cacodemon345/uefidoom
+Description: Cacodemon345's UEFI-DOOM.
+
+URL: https://thenftbay.org/index.html
+Description: The NFT Bay is the galaxy's most resilient NFT BitTorrent site!
+
+URL: https://nan.fyi/how-arrays-work
+Description: How do arrays work? Rebuilding the world's most popular data structure.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?a41182f7a7bc6497#Fz17venrxroGoKtyPZa11QzHHHRQsOytFJcLc0+MvC8=
