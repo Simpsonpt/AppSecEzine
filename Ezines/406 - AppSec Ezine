@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 47 | Month: November | Year: 2021 | Release Date: 26/11/2021 | Edition: #406 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.dixitaditya.com/2021/11/19/account-takeover-chain.html
+Description: Exploiting OAuth - Journey to Account Takeover.
+
+URL: https://www.p1boom.com/2021/11/a-story-of-epic-blind-remote-code.html
+Description: A Story of an "Epic" Blind Remote Code Execution (RCE).
+
+URL: https://link.medium.com/J3Knoj3prlb 
+Description: Finding XSS on .apple.com and building a PoC to leak your PII.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/thesc1ent1st/j0lt-ddos-tool
+Description: DNS amplification (DDoS) attack tool.
+
+URL: https://github.com/FourCoreLabs/EDRHunt
+Description: Scan installed EDRs and AVs on Windows.
+
+URL: https://shubhamchaskar.com/excel-magic/
+Description: Reading Local files using Microsoft Excel.
+
+URL: https://github.com/GoSecure/ldap-scanner
+Description: Checks for signature requirements over LDAP.
+
+URL: https://github.com/countercept/chainsaw
+Description: Rapidly Search and Hunt through Windows Event Logs.
+
+URL: https://github.com/hugsy/CFB
+Description: Tool for monitoring IRP handler in Windows drivers.
+
+URL: https://github.com/V1V1/OffensiveAutoIt
+Description: Offensive tooling notes and experiments in AutoIt v3.
+
+URL: https://captmeelo.com/redteam/maldev/2021/11/22/picky-ppid-spoofing.html
+Description: Picky Parent Process ID (PPID) Spoofing.
+
+URL: https://github.com/quic/AFLTriage
+Description: AFLTriage is a tool to triage crashing input files using a debugger.
+
+URL: https://bhattsameer.github.io/2021/06/23/Intercepting-flutter-iOS-application.html
+Description: Intercepting Flutter iOS Application.
+
+URL: https://github.com/redherd-project/redherd-framework
+Description: Collaborative and serverless framework for orchestrating a distributed assets.
+
+URL: https://labs.jumpsec.com/no-logs-no-problem-incident-response-without-windows-event-logs/
+Description: No Logs? No Problem! Incident Response without Windows Event Logs.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://kerkour.com/rust-crate-backdoor/
+Description: Backdooring Rust crates for fun and profit.
+
+URL: https://isovalent.com/blog/post/2021-11-container-escape
+Description: Detecting a Container Escape with Cilium and eBPF.
+
+URL: https://securitylab.github.com/research/qualcomm_npu/
+Description: Exploiting the Qualcomm NPU (neural processing unit) kernel driver.
+
+URL: https://bit.ly/32yjGoK (+)
+Description: Apache APISIX - Path traversal in request_uri variable (CVE-2021-43557).
+
+URL: https://link.medium.com/AXA7VJg6ilb 
+PoC: https://gist.github.com/testanull/0188c1ae847f37a70fe536123d14f398
+Description: Some notes about Microsoft Exchange Deserialization RCE (CVE-2021–42321).
+
+URL: https://srcincite.io/blog/2021/11/22/unlocking-the-vault.html
+PoC: https://srcincite.io/pocs/cve-2021-%7B34993,34996%7D.py.txt
+Description: Unlocking the Vault - Unauthenticated RCE against CommVault Command Center.
+
+URL: https://vavkamil.cz/2021/11/25/wordpress-plugin-confusion-update-can-get-you-pwned/
+Description: WordPress Plugin Confusion - How an update can get you pwned.
+
+URL: https://research.checkpoint.com/2021/looking-for-vulnerabilities-in-mediatek-audio-dsp/
+Description: Looking for vulnerabilities in MediaTek audio DSP.
+
+URL: https://bit.ly/3FJIUyE (+)
+Description: CredManifest - App Registration Certificates Stored in Azure AD (CVE-2021-42306).
+
+URL: https://blog.hexrabbit.io/2021/11/03/CVE-2021-34866-writeup/
+Description: Writeup eBPF type confusion that affects Linux kernel v5.8-v5.13 (CVE-2021-34866).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://pseudorandom.resistant.tech/nesfuzz-nes-game-fuzzer.html
+PoC: https://git.openprivacy.ca/sarah/nesfuzz/
+Description: Writing a Fuzzer for Nes Games.
+
+URL: https://www.damninteresting.com/remember-remember-the-22nd-of-november/
+Description: Remember, Remember the 22nd of November.
+
+URL: https://gist.github.com/plutooo/733318dbb57166d203c10d12f6c24e06/
+Description: Small write-up about AES key extraction in TSEC (Nintendo Switch).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?663005cb0757ca0c#ib+WpYvO8BZjvBgyScpfR/FjS0Lb6ObyN8LsDNdQTeQ=
