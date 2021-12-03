@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 48 | Month: December | Year: 2021 | Release Date: 03/12/2021 | Edition: #407 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3rAWFfr (+)
+Description: Arbitrary local file read via zip file and symlinks on iOS Files app.
+
+URL: https://palisade.consulting/blog/tld-hacking
+Description: Exploiting Vulnerabilities in a TLD Registrar to Takeover Google, and Amazon.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/blueudp/AF-ShellHunter
+Description: AF-ShellHunter - Auto shell lookup.
+
+URL: https://github.com/Etisalat-Egypt/Rodan
+Description: Rodan Telecom Exploitation Framework.
+
+URL: https://github.com/cisagov/crossfeed
+Description: External monitoring for organization assets.
+
+URL: https://github.com/arch4ngel/BruteLoops
+Description: Protocol agnostic online password guessing API.
+
+URL: https://github.com/klezVirus/SharpSelfDelete
+Description: C# implementation of Jonas Lyk self-deletion into a Inceptor.
+
+URL: https://bit.ly/3pEnSLF (+)
+Description: Hunting for buggy authentication/authorization services on GitHub.
+
+URL: https://github.com/iangcarroll/cookiemonster/
+Description: Detect and abuse vulnerable implementations of stateless sessions. 
+
+URL: https://bit.ly/3pj0Qd2 (+)
+Description: Lateral Movement With Managed Identities Of Azure Virtual Machines.
+
+URL: https://www.inversecos.com/2021/11/how-to-detect-azure-active-directory.html
+Description: How to Detect Azure Active Directory Backdoors: Identity Federation.
+
+URL: https://github.com/apiiro/combobulator
+Description: Framework to detect dependency confusion leakage and potential attacks.
+
+URL: https://github.com/neex/http2smugl
+Description: Tool to detect and exploit HTTP request smuggling via HTTP/2 to HTTP/1.1.
+
+URL: https://github.com/nodauf/GoMapEnum
+Description: User enumeration and password bruteforce on Azure, ADFS, OWA, O365 and more.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://syfuhs.net/how-azure-ad-kerberos-works
+Description: How Azure AD Kerberos Works.
+
+URL: https://blog.impalabs.com/2111_attacking-samsung-rkp.html
+Related: https://blog.impalabs.com/2101_samsung-rkp-compendium.html
+Description: Attacking Samsung Real-time Kernel Protection (RKP).
+
+URL: http://blog.howdays.kr/index.php/2021/11/26/virtualbox-6-1-18-0-day/
+Description: Pwn Virtualbox 6.1.18 Write-up.
+
+URL: https://link.medium.com/TxGnEEjeFlb 
+Description: Finding Zero-Day Vulnerabilities in the Supply Chain.
+
+URL: https://jsherman212.github.io/2021/11/28/popping_ios14_with_iomfb.html
+Description: Popping iOS <=14.7 with IOMFB.
+
+URL: https://bit.ly/3IiR4Am (+)
+Description: Azure Privilege Escalation via Azure API Permissions Abuse.
+
+URL: https://blog.assetnote.io/2021/11/30/jamf-ssrf/
+Description: Discovering Full Read SSRF in Jamf (CVE-2021-39303 & CVE-2021-40809).
+
+URL: https://www.deepinstinct.com/blog/evading-antivirus-detection-with-inline-hooks
+Description: Evading EDR Detection with Reentrancy Abuse.
+
+URL: https://blog.ryotak.me/post/deno-registry-tampering-with-arbitrary-packages-en/
+Description: Arbitrary package tampering in Deno registry + Code Injection in encoding/yaml.
+
+URL: https://roadie.io/blog/avoid-leaking-github-org-data/
+Description: GitHub Apps - How to avoid leaking your customer’s source code with GitHub apps.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://soatok.blog/2021/11/17/understanding-hkdf/
+Description: Understanding HKDF.
+
+URL: https://github.com/Footsiefat/zspotify
+Description: A Spotify downloader needing only a python interpreter and ffmpeg.
+
+URL: https://www.codereversing.com/blog/archives/420
+Description: Age of Empires IV lobby and matchmaking system APIs Reverse Engineering. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?a7a75c2bb5a4246d#J3woTLGx/E3TGQoRa6+YtVXhINi5VSLGo0Ccfipa/Is=
