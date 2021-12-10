@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 49 | Month: December | Year: 2021 | Release Date: 10/12/2021 | Edition: #408 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://nechudav.blogspot.com/2021/12/ssrf-vulnerability-in-appsheet-google.html
+Description: SSRF vulnerability in AppSheet - Google VRP.
+
+URL: https://portswigger.net/research/ublock-i-exfiltrate-exploiting-ad-blockers-with-css
+Description: uBlock, I exfiltrate - exploiting ad blockers with CSS.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/h3x0crypt/HostSpider
+Description: Domain information gathering tool.
+
+URL: https://github.com/PalindromeLabs/STEWS
+Description: A Security Tool for Enumerating WebSockets.
+
+URL: https://github.com/GovTech-CSG/ProxyAgent
+Blog: https://link.medium.com/89eAKw2cRlb 
+Description: Burp Suite setup on Android devices made easy.
+
+URL: https://www.trustedsec.com/blog/bits-for-script-kiddies/
+Description: BITS for Script Kiddies.
+
+URL: https://github.com/sha0coder/scemu
+Description: x86 32bits emulator, for securely emulating shellcodes.
+
+URL: https://github.com/google/clusterfuzzlite
+Description: ClusterFuzzLite - Simple continuous fuzzing that runs in CI.
+
+URL: https://bit.ly/3lQpj8w (+)
+Description: Pentest tale - Dumping cleartext credentials from antivirus.
+
+URL: https://github.com/Endava/cats
+Description: CATS is a REST APIs fuzzer and negative testing tool for OpenAPI endpoints.
+
+URL: https://github.com/can1357/NtRays
+Description: Hex-Rays plugin for automated simplification of Windows Kernel decompilation.
+
+URL: https://github.com/l0ggg/VMware_vCenter
+Description: VMware vCenter 7.0.2.00100 unauth Arbitrary File Read + SSRF + Reflected XSS.
+
+URL: https://github.com/SecuProject/DLLHijackingScanner
+Description: Bypass UAC w/ DLL hijacking and abusing the "Trusted Directories" verification.
+
+URL: https://github.com/wavestone-cdt/EdrSandblast
+Description: Weaponize a vuln. signed driver to bypass EDR detections and LSASS protections.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://secret.club/2021/01/14/vbox-escape.html
+Description: Escaping VirtualBox 6.1 (CVE-2021-2119).
+
+URL: https://positive.security/blog/ms-officecmd-rce
+Description: Windows 10 RCE - The exploit is in the link.
+
+URL: https://omnipod.lyrebirds.dk/
+Description: Insulet OmniPod Insulin Management System vulnerability.
+
+URL: https://blog.lightspin.io/aws-sagemaker-notebook-takeover-vulnerability
+Description: AWS SageMaker Jupyter Notebook Instance Takeover.
+
+URL: https://splintercod3.blogspot.com/p/the-hidden-side-of-seclogon-part-2.html
+PoC: https://github.com/antonioCoco/MalSeclogon
+Description: Abusing leaked handles to dump LSASS memory.
+
+URL: https://bit.ly/3DFxDOC (+)
+Description: Downgrading Kerberos Encryption & Why It Doesn't Work In Server 2019.
+
+URL: https://www.synacktiv.com/publications/finding-gadgets-like-its-2015-part-1.html
+More: https://www.synacktiv.com/publications/finding-gadgets-like-its-2015-part-2.html
+Description: Finding gadgets like it's 2015 Series.
+
+URL: https://bit.ly/3EJqk9J (+)
+Description: The Kerberos Key List Attack - The return of the Read Only Domain Controllers.
+
+URL: https://syst3mfailure.io/sixpack-slab-out-of-bounds
+Description: Exploiting A 16-Year-Old Vulnerability In The Linux 6pack Driver (CVE-2021-42008).
+
+URL: https://www.elastic.co/blog/process-ghosting-a-new-executable-image-tampering-attack
+More: https://pentestlaboratories.com/2021/12/08/process-ghosting/
+Description: What you need to know about Process Ghosting, a new executable image tampering attack.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/opsdisk/the_cyber_plumbers_handbook/
+Description: The Cyber Plumber's Handbook.
+
+URL: http://www.pixelbeat.org/programming/shell_script_mistakes.html
+Description: Common shell script mistakes.
+
+URL: https://github.com/k4zmu2a/SpaceCadetPinball
+Description: Decompilation of 3D Pinball for Windows - Space Cadet.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?b948d6cf8a569ca3#Aa0zEEM4M8qUxWFixEFlCvgXVQWSOLj81tL//xE5eGc=
