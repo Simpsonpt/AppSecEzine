@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 50 | Month: December | Year: 2021 | Release Date: 17/12/2021 | Edition: #409 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/lcXavLPN2lb 
+Description: Price Manipulation Bypass Using Integer Overflow Method.
+
+URL: https://link.medium.com/dyAdqGHtIlb 
+Description: This is how i was able to See and Delete your Private Facebook Portal photos.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ChendoChap/pOOBs4
+Description: PS4 9.00 Kernel Exploit.
+
+URL: https://github.com/souravbaghz/CarPunk
+Description: The Car Hacking Toolkit.
+
+URL: https://github.com/dhondta/dronesploit
+Description: Drone pentesting framework console.
+
+URL: https://github.com/sergey-cheperis/mimikatz-staticlib
+Description: Mimikatz built as a static library.
+
+URL: https://github.com/iomoath/PowerShx
+Description: Run Powershell without software restrictions.
+
+URL: https://github.com/knownsec/Kunyu
+Description: Kunyu, more efficient corporate asset collection.
+
+URL: https://github.com/0xADE1A1DE/tracetools
+Description: TraceTools is a set of tools for power trace analysis.
+
+URL: https://github.com/vmware-labs/attack-surface-framework
+Description: Tool to discover external and internal network attack surface.
+
+URL: https://exploit.ph/cve-2021-42287-cve-2021-42278-weaponisation.html
+More: https://github.com/cube0x0/noPac | https://github.com/WazeHell/sam-the-admin
+Description: CVE-2021-42287 and CVE-2021-42278 Weaponisation.
+
+URL: https://github.com/herosi/CTO
+Description: IDA plugin for creating a simple and efficiant function call tree graph.
+
+URL: https://github.com/FDlucifer/Proxy-Attackchain
+Description: Proxylogon, Proxyshell, Proxyoracle and Proxytoken full chain exploit tool.
+
+URL: https://github.com/trailofbits/it-depends
+Blog: https://blog.trailofbits.com/2021/12/16/it-depends/
+Description: Automatically build a dependency graph and Software Bill of Materials (SBOM).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/15pm3uoiXkb 
+Description: This is how I bypassed almost every EDR! 
+
+URL: https://www.lunasec.io/docs/blog/log4j-zero-day/
+Description: Log4Shell - RCE 0-day exploit found in log4j 2.
+
+URL: https://www.varonis.com/blog/box-mfa-bypass-totp/
+Description: Bypassing Box's Time-based One-Time Password MFA.
+
+URL: https://bit.ly/3E0EthF (+)
+Description: Exploit the Fuzz – Exploiting Vulnerabilities in 5G Core Networks.
+
+URL: https://wya.pl/2021/10/18/shells-and-soap-websphere-deserialization-to-rce/
+Description: Shells and Soap - Websphere Deserialization to RCE (CVE-2015-7450).
+
+URL: https://r0.haxors.org/posts?id=26
+Description: Moodle Blind SQL injection via MNet authentication (CVE-2021-32474).
+
+URL: https://securitylab.github.com/research/ubuntu-accountsservice-CVE-2021-3939/
+Description: Getting root on Ubuntu through wishful thinking (CVE-2021-3939).
+
+URL: https://blog.quarkslab.com/why-is-exposing-the-docker-socket-a-really-bad-idea.html
+Description: Why is Exposing the Docker Socket a Really Bad Idea?
+
+URL: https://ssd-disclosure.com/ssd-advisory-totolink-auth-bypass-and-device-backdoor/
+Description: TOTOLink Auth Bypass and Device Backdoor.
+
+URL: https://bit.ly/3se9aOa (+)
+Description: MS and GitHub OAuth Implementation Vulnerabilities Lead to Redirection Attacks.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.da.vidbuchanan.co.uk/widgets/pngdiff/
+Description: PNG Parser Differential.
+
+URL: https://github.com/oklemenz/PrinceJS
+Description: Prince of Persia reimplementation written in HTML5/JavaScript.
+
+URL: https://github.com/CorentinJ/Real-Time-Voice-Cloning
+Description: Clone a voice in 5 seconds to generate arbitrary speech in real-time.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?7d734ad8bd4a3933#zWa3oUSNClFEOvIJdjjYtr22GRAU2eMSC2FsExODUEg=
