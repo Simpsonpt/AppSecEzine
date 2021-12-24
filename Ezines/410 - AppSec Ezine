@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 51 | Month: December | Year: 2021 | Release Date: 24/12/2021 | Edition: #410 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/
+Description: Flickr Account Takeover.
+
+URL: https://link.medium.com/doImx7hR8lb 
+Description: How I was able to reveal page admin of almost any page on Facebook.
+
+URL: https://hackerone.com/reports/1415820
+Description: Path traversal in Grafana 8.x allows UnAuth arbitrary local file read.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/jtesta/ssh-audit
+Description: SSH server and client auditing.
+
+URL: https://youst.in/posts/cache-poisoning-at-scale/
+Description: Cache Poisoning at Scale.
+
+URL: https://bit.ly/30Tifkh (+)
+Description: Thick Client Penetration Testing Methodology.
+
+URL: https://github.com/msrkp/exploits/tree/main/CVE-2021-4061
+Description: Type Confusion in V8 (CVE-2021-4061).
+
+URL: https://mhmdiaa.com/blog/exploiting-html-imports/
+Description: Exploiting HTML-to-PDF Converters through HTML Imports.
+
+URL: https://github.com/intel/kernel-fuzzer-for-xen-project
+Description: Hypervisor-based fuzzing using Xen VM forking, VMI & AFL.
+
+URL: https://github.com/KaLendsi/CVE-2021-43224-POC
+Description: Windows Common Log File System Driver POC (CVE-2021-43226).
+
+URL: https://wya.pl/2021/12/20/bring-your-own-ssrf-the-gateway-actuator/
+Description: Bring Your Own SSRF - The Gateway Spring Actuator.
+
+URL: https://github.com/redcode-labs/REVENANT
+Description: Volatile ELF payloads generator with Metasploit integrations.
+
+URL: https://github.com/S3cur3Th1sSh1t/MultiPotato
+Description: This is just another Potato to get SYSTEM via SeImpersonate privileges.
+
+URL: https://bit.ly/33Mt8oV (+)
+Description: Android App Testing Using Windows 11 and Windows Subsystem for Android.
+
+URL: https://github.com/botherder/androidqf
+Description: Android Quick Forensics helps gathering forensic evidence from a device.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.redteam-pentesting.de/2021/inside-a-pbx/
+Description: Inside a PBX - Discovering a Firmware Backdoor.
+
+URL: https://positive.security/blog/ms-teams-1-feature-4-vulns
+Description: MS Teams - 1 feature, 4 vulnerabilities.
+
+URL: https://reverse.put.as/2021/12/17/knock-knock-whos-there/
+Description: Knock Knock! Who's There? - An NSA VM.
+
+URL: https://sector7.computest.nl/post/2021-12-proctorio/
+Description: Proctorio Chrome extension Universal Cross-Site Scripting.
+
+URL: https://penthertz.com/blog/Intruding-5G-core-networks-from-outside-and_inside.html
+Description: Intruding 5G core networks from outside and inside.
+
+URL: https://bit.ly/3pkAE2D (+)
+Description: Exploring the macOS Endpoint Security Framework (ESF) for Threat Detection.
+
+URL: https://diverto.github.io/2019/11/05/Extracting-Passwords-from-hiberfil-and-memdumps
+Description: Extracting passwords from hiberfil.sys and memory dumps.
+
+URL: https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
+Description: A deep dive into an NSO zero-click iMessage exploit.
+
+URL: https://blog.paranoidsoftware.com/triggering-a-dns-lookup-using-java-deserialization/
+Description: Triggering a DNS lookup using Java Deserialization.
+
+URL: https://thinkloveshare.com/hacking/failed02_pulse_secure_vpn_guacamole_websocket_hooking/
+Description: Failed02 Pulse Secure VPN and Guacamole WebSocket Hooking.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://vulnerabilityhistory.org/
+Description: The Vulnerability History Project.
+
+URL: https://alexanderperrin.com.au/paper/shorttrip/
+Description: Short Trip.
+
+URL: https://github.com/TencentARC/GFPGAN
+Description: Practical Algorithms for Real-world Face Restoration.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?95de318d7d63fbce#YLrc3bVck6NM4QH3UmKK8dGW4+Zy6AMOPz56dVan8UI=
