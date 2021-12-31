@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 52 | Month: December | Year: 2021 | Release Date: 31/12/2021 | Edition: #411 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bierbaumer.net/security/php-lfi-with-nginx-assistance/
+Description: PHP LFI with Nginx Assistance.
+
+URL: https://blog.assetnote.io/2021/12/26/chained-ssrf-websphere/
+Description: Turning bad SSRF to good SSRF - Websphere Portal.
+
+URL: https://ssd-disclosure.com/ssd-advisory-rocket-chat-client-side-remote-code-execution/
+Description: Rocket.Chat Client-side Remote Code Execution.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/login-securite/DonPAPI
+Description: Dumping DPAPI credz remotely.
+
+URL: https://github.com/ShutdownRepo/ShadowCoerce
+Description: MS-FSRVP abuse (ShadowCoerce) PoC.
+
+URL: https://github.com/FlamingSpork/iptable_evil
+Description: An evil bit backdoor for iptables.
+
+URL: https://github.com/hardenedvault/bootkit-samples
+Description: Bootkit sample for firmware attack.
+
+URL: https://github.com/airbus-cert/Invoke-Bof
+Description: Load any Beacon Object File using Powershell.
+
+URL: https://github.com/EntySec/HatVenom
+Description: Native payload generation and shellcode injection tool.
+
+URL: https://github.com/blurbdust/needle
+Blog: https://whynotsecurity.com/blog/needle/#how-does-the-tool-work
+Description: A tool to find Windows registry files in a blob of data.
+
+URL: https://github.com/nyxgeek/o365recon
+Description: Retrieve information via O365 and AzureAD with a valid cred.
+
+URL: https://github.com/jellever/CyberArkTools/
+Blog: https://bit.ly/3FHRTRo (+)
+Description: Tooling to for example try to decrypt CyberArk .cred credential files.
+
+URL: https://github.com/klezVirus/vortex
+Description: VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit.
+
+URL: https://github.com/pwn1sher/WMEye
+Description: Tool that uses WMI Event Filter and MSBuild Execution for lateral movement.
+
+URL: https://github.com/nccgroup/shouganaiyo-loader
+Description: Forces Java procs to load a Java/JVMTI agent w/ or w/out JVM agent attach API.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.da.vidbuchanan.co.uk/blog/webos-wampage.html
+Description: V8 Heap pwn and /dev/memes - WebOS Root LPE.
+
+URL: http://noahblog.360.cn/apache-storm-vulnerability-analysis/
+Description: Apache Storm Vulnerability analysis.
+
+URL: https://blog.tneitzel.eu/posts/01-attacking-java-rmi-via-ssrf/
+Description: Attacking Java RMI via SSRF.
+
+URL: https://blog.paavo.me/masa-copy-protection/
+Description: Bypassing early 2000s copy protection for software preservation.
+
+URL: https://swarm.ptsecurity.com/fuzzing-for-xss-via-nested-parsers-condition/
+Description: Fuzzing for XSS via nested parsers condition.
+
+URL: https://bit.ly/3mEE9zp (+)
+Description: RCE in Visual Studio Code's Remote WSL for Fun and Negative Profit.
+
+URL: https://www.guardsquare.com/blog/insecure-tls-certificate-checking-in-android-apps
+Description: Avoiding Vulnerabilities in Network-Facing Android Apps.
+
+URL: https://threats.amnpardaz.com/en/2021/12/28/implant-arm-ilobleed-a/
+Description: Implant.ARM.iLOBleed.a The first rootkit discovered infecting HP iLO firmware.
+
+URL: https://palant.info/2021/12/20/yes-fun-browser-extensions-can-have-vulnerabilities-too/
+Description: Yes, fun browser extensions can have vulnerabilities too! (Meow, The Cat Pet XSS).
+
+URL: https://objective-see.com/blog/blog_0x6A.html
+Description: Bypassing file quarantine, gatekeeper, & notarization requirements (CVE-2021-30853).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/wader/fq
+Description: jq for binary formats.
+
+URL: https://beza1e1.tuxen.de/lore/index.html
+Description: Software Folklore.
+
+URL: https://destevez.net/2021/12/decoding-james-webb-space-telescope/
+Description: Decoding James Webb Space Telescope.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?55d64b21b20f159f#4bJTI2lkjR/tH4UDWmoFpJUE3Wq0TxiNEN+YEoDq158=
