@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 01 | Month: January | Year: 2022 | Release Date: 07/01/2022 | Edition: #412 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/wiM6TEConmb 
+Description: Polygon Lack Of Balance Check Bugfix Postmortem.
+
+URL: https://bit.ly/34lv3kB (+)
+Description: Fixing the Unfixable - Story of a Google Cloud SSRF.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/aaaddress1/Skrull
+Description: Skrull is a malware DRM.
+
+URL: https://github.com/Arks7/Go_Bypass
+Description: Golang Bypass Av Generator template.
+
+URL: https://github.com/rexguowork/phantom-attack
+Description: Phantom Attack - Evading System Call Monitoring.
+
+URL: https://github.com/kyleavery/inject-assembly
+Description: Inject .NET assemblies into an existing process.
+
+URL: https://github.com/Mr-xn/CVE-2021-42342
+Description: Goahead webserver (pre v5.1.5) RCE PoC (CVE-2021-42342).
+
+URL: https://github.com/horsicq/Nauz-File-Detector
+Description: Linker/Compiler/Tool detector for Windows, Linux and MacOS.
+
+URL: https://pentestlab.blog/2021/09/13/account-persistence-certificates/
+Description: AD Account Persistence – Certificates.
+
+URL: https://oxagast.org/posts/CVE-2017-5816/
+Description: HPE Intelligent Management Center (iMC) RCE (CVE-2017-5816).
+
+URL: https://github.com/CravateRouge/bloodyAD
+Description: BloodyAD is an Active Directory Privilege Escalation Framework.
+
+URL: https://github.com/0xInfection/XSRFProbe
+Description: The Prime Cross Site Request Forgery (CSRF) Audit and Exploitation Toolkit.
+
+URL: https://github.com/msd0pe-1/cve-maker
+Description: Detect, find, compile and execute a CVE on the current or a remote machine.
+
+URL: https://github.com/VainlyStrain/Vailyn
+Description: A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://ceres-c.it/2021/11/21/DRM-reversing/
+Description: Reversing a DRM.
+
+URL: https://rezer0dai.github.io/biug-bounties/
+Description: Bi/ug Bounties and HyperV RCE Research.
+
+URL: https://gusralph.info/cypher-injection-research/
+Description: Fun with Cypher Injections (neo4j security).
+
+URL: https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part1/
+Description: Hacking a VW Golf Power Steering ECU (Series).
+
+URL: https://bit.ly/3zyZXS1 (+)
+Description: The Story of How I Hacked my ISP's Cheapo Standard Issue Router.
+
+URL: https://bit.ly/3HWi4EP (+)
+Description: Pwn2Own Vancouver 2021 - Microsoft Exchange Server RCE (CVE-2021-31209).
+
+URL: https://labs.bishopfox.com/industry-blog/cheating-at-online-video-games-part-1
+More: https://labs.bishopfox.com/industry-blog/cheating-at-online-video-games-part-2
+Description: Cheating at Online Video Games and What It Can Teach Us About AppSec (Series).
+
+URL: https://mohamed-fakroud.gitbook.io/red-teamings-dojo/playing-around-com-objects-part-1
+Description: Playing around COM objects.
+
+URL: https://bit.ly/3sZHaOI (+)
+Description: Understanding the Root Cause of CVE-2021-21220 - A Chrome Bug from Pwn2Own 2021.
+
+URL: https://blog.wiz.io/azure-app-service-source-code-leak/
+Description: NotLegit - Azure App Service vulnerability exposed hundreds of source code repos.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://pinouts.org/
+Description: The Pinouts Book.
+
+URL: https://github.com/maxgoedjen/secretive
+Description: Store SSH keys in the Secure Enclave.
+
+URL: https://messwithdns.net/
+Description: Here you can do weird DNS experiments with no consequences if you mess something up.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?b333......
