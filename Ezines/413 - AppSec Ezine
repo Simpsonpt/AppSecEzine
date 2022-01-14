@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 02 | Month: January | Year: 2022 | Release Date: 14/01/2022 | Edition: #413 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://servicenger.com/mobile/facebook-android-webview-vulnerability/
+Description: Facebook Android webview XSS.
+
+URL: https://rhinosecuritylabs.com/research/cve-2021-41577-evga-precision-x1/
+Description: MITM to RCE in EVGA Precision X1 (CVE-2021-41577).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/lz520520/Stowaway
+Description: Multi-hop Proxy Tool for pentesters.
+
+URL: https://github.com/ad-995/bluffy
+Description: Convert shellcode into different formats.
+
+URL: https://github.com/wdahlenburg/interactsh-collaborator
+Related: https://github.com/projectdiscovery/interactsh/
+Description: Burpsuite plugin for Interact.sh.
+
+URL: https://github.com/w1u0u1/smb2os
+Description: Use SMB2 protocol to detect remote computer OS version.
+
+URL: https://github.com/Un4gi/fave
+Description: Search for vulnerabilities and exposures w/ filtering ability.
+
+URL: https://github.com/ScarredMonk/SysmonSimulator
+Description: Sysmon event simulation utility which can be used by Blue teams.
+
+URL: https://zygosec.com/membuddy.html
+Blog: https://link.medium.com/1Fzsax8NKmb
+Description: Dynamic memory analysis & visualisation tool for security researchers.
+
+URL: https://github.com/domienschepers/wifi-framework
+Description: Wi-Fi Framework for creating PoCs, automation, tests, fuzzers, and more.
+
+URL: https://github.com/c3c/ADExplorerSnapshot.py
+Description: ADExplorerSnapshot.py is an AD Explorer snapshot ingestor for BloodHound. 
+
+URL: https://github.com/paranoidninja/EtwTi-Syscall-Hook
+Description: Tool to hook the current process to identify the syscall exec on windows.
+
+URL: https://github.com/9oelm/elasticpwn
+Blog: https://bit.ly/3K9p2rW (+)
+Description: Collect data from thousands of exposed Elasticsearch or Kibana instances.
+
+URL: https://github.com/ethicalhackingplayground/erebus
+Description: Tool for parameter-based vulnerability scanning using a Yaml based template.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://f20.be/cves/cisco
+Description: Remote Code Execution on Cisco Prime 3.9.1.
+
+URL: https://thebinaryhick.blog/2022/01/08/androids-airtags-oof/
+Description: Androids & AirTags. Oof.
+
+URL: https://haxolot.com/posts/2021/moodle_pre_auth_shibboleth_rce_part1/
+More: https://haxolot.com/posts/2022/moodle_pre_auth_shibboleth_rce_part2/
+Description: Pre-Auth RCE in Moodle (CVE-2021-36394/CVE-2021-40691).
+
+URL: https://bit.ly/33etR2g (+)
+Description: NetUSB RCE Flaw in Millions of End User Routers (CVE-2021-45608).
+
+URL: https://www.optiv.com/insights/source-zero/blog/defeating-edrs-office-products
+Tool: https://github.com/optiv/Ivy
+Description: Defeating EDRs with Office Products.
+
+URL: https://www.cyberark.com/resources/threat-research-blog/attacking-rdp-from-inside
+Description: Attacking RDP from Inside (CVE-2022-21893).
+
+URL: https://cognn.medium.com/sql-injection-in-wordpress-core-zdi-can-15541-a451c492897
+Description: SQL Injection in Wordpress core (CVE-2022–21661).
+
+URL: https://link.medium.com/K2F6nnosNib 
+Description: Integer Overflow to RCE  - ManageEngine Asset Explorer Agent (CVE-2021–20082).
+
+URL: https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce/
+Description: Unpacking CVE-2021-40444 - A Deep Technical Analysis of an Office RCE Exploit.
+
+URL: https://caniphish.com/phishing-resources/blog/compromising-australian-supply-chains-at-scale
+Description: A story of IP takeovers and open-source intelligence at scale.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.jerkeby.se/newsletter/posts/risk-aware-applications/
+Description: Risk-aware applications.
+
+URL: https://joshgav.github.io/2021/12/16/kubernetes-isnt-about-containers.html
+Description: Kubernetes isn't about containers.
+
+URL: https://github.com/Shogan/kube-chaos
+Description: A chaos engineering style game where you seek out and destroy K8s pods.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?8798ad45cd3f6621#RCFxAcQym4lb+aBVMhwbRKKIjJGLddP7vLxa4M+zRnY=
