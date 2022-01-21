@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 03 | Month: January | Year: 2022 | Release Date: 21/01/2022 | Edition: #414 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hulkvision.github.io/blog/post1/
+Description: RCE in Adobe Acrobat Reader for Android (CVE-2021-40724).
+
+URL: https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/
+Description: Exploiting IndexedDB API information leaks in Safari 15.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/lab52io/StopDefender
+Description: Stop Windows Defender programmatically.
+
+URL: https://github.com/BishopFox/CVE-2021-35211
+Blog: https://bishopfox.com/blog/exploit-for-cve-2021-35211
+Description: Serv-U FTP CVE-2021-35211 Exploit.
+
+URL: https://gitlab.com/guballa/tlsmate
+Description: Framework to create arbitrary TLS test cases.
+
+URL: https://github.com/terorie/cve-2021-3449
+Description: OpenSSL denial-of-service exploit (CVE-2021-3449).
+
+URL: https://github.com/iamnihal/warf
+Description: WARF is a Web Application Reconnaissance Framework.
+
+URL: https://github.com/hpthreatresearch/subcrawl
+Description: Framework to find, scan and analyze open directories.
+
+URL: https://github.com/Telefonica/packagedna
+Description: Tool To Analyze Software Packages Of Different Programming Languages.
+
+URL: https://github.com/gtworek/Priv2Admin
+Description: Exploitation paths allowing you to (mis)use the Windows Privileges to EoP.
+
+URL: https://github.com/fierceoj/ShonyDanza
+Description: Tool for researching, pen testing, and defending with the power of Shodan.
+
+URL: https://github.com/salesforce/lobster-pot/
+Description: Scans every git push to your Github organisations to find unwanted secrets.
+
+URL: https://github.com/0vercl0k/rp
+Description: rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM binaries. 
+
+URL: https://github.com/michelin/ChopChop
+Description: CLI to scan endpoints and identify exposition of sensitive services/files/folders.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bbs.pediy.com/thread-271140.htm
+Description: Analysis and utilization of CVE-2021-31956.
+
+URL: https://bit.ly/3FPKXAO (+)
+Description: Log4J 2.15 TOCTOU Vulnerability Illustrated.
+
+URL: https://www.x41-dsec.de/lab/blog/telenot-complex-insecure-keygen/
+PoC: 
+Description: Telenot Complex - Insecure AES Key Generation (CVE-2021-34600).
+
+URL: https://sysdig.com/blog/exploit-mitigate-aws-lambdas-mitre/
+Description: Vulnerable AWS Lambda function - Initial access in cloud attacks.
+
+URL: https://www.atredis.com/blog/2022/1/5/unauthenticated-rce-chain-in-sysaid-itil
+Description: Unauth RCE Chain in SysAid ITIL (CVE-2021-43971/43972/43973/43974).
+
+URL: https://claroty.com/2022/01/10/blog-research-exploiting-url-parsing-confusion/
+Description: Exploiting URL Parsing Confusion Vulnerabilities.
+
+URL: https://blog.sonarsource.com/wordpress-stored-xss-vulnerability
+Description: WordPress 5.8.2 Stored XSS Vulnerability (CVE-2022-21662).
+
+URL: https://labs.taszk.io/blog/post/63_ss_dsp_oob_write_linker/
+Description: Kernel LPE in the Vision DSP Kernel Driver's ELF Linker (CVE-2021-25475).
+
+URL: https://googleprojectzero.blogspot.com//2022/01/zooming-in-on-zero-click-exploits.html
+Description: Zooming in on Zero-click Exploits.
+
+URL: http://immunityservices.blogspot.com/2021/02/misconfigurations-in-java-xml-parsers.html
+Description: Misconfigurations in Java XML Parsers.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://web3isgoinggreat.com/
+Description: Web3 is going just great.
+
+URL: https://jabberwocky.ca/posts/2022-01-emulating_the_sega_genesis_part1.html
+More: https://jabberwocky.ca/posts/2022-01-emulating_the_sega_genesis_part2.html
+Description: Emulating the Sega Genesis - Series.
+
+URL: https://github.com/dfaram7/pptshots
+Description: Finding sensitive information in the trimmed parts of cropped images.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?363c9249ee7081af#Nx9+qjqNdYTRP9Pzvtk203Px2nTdcjMDRq4B9oI78Ks=
