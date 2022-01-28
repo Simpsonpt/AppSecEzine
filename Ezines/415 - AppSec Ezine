@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 04 | Month: January | Year: 2022 | Release Date: 28/01/2022 | Edition: #415 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.ryanpickren.com/safari-uxss
+Description: Hacking the Apple Webcam (again).
+
+URL: https://www.qualys.com/2022/01/25/cve-2021-4034/pwnkit.txt
+PoC: https://haxx.in/files/blasty-vs-pkexec2.c
+Description: pwnkit - Local Privilege Escalation in polkit's pkexec (CVE-2021-4034).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://skyblue.team/posts/delegate-krbtgt/
+Description: Delegate to KRBTGT service.
+
+URL: https://github.com/TheHackerDev/race-the-web
+Description: Tests for race conditions in web applications.
+
+URL: https://github.com/spieglt/whatfiles
+Description: Log what files are accessed by any Linux process.
+
+URL: https://github.com/cudeso/tools/tree/master/vmware-backup
+Description: Backup virtual machines running on an ESXi server.
+
+URL: https://github.com/wgpsec/CreateHiddenAccount
+Description: A tool for creating hidden accounts using the registry.
+
+URL: https://github.com/andyjsmith/Registry-Spy
+Description: Cross-platform registry browser for raw Windows registry files.
+
+URL: https://github.com/aws/http-desync-guardian
+Description: Analyze HTTP requests to minimize risks of HTTP Desync attacks.
+
+URL: https://github.com/dhondta/peid
+Description: Python implementation of the Packed Executable iDentifier (PEiD).
+
+URL: https://github.com/antx-code/CVE-2022-21907
+Description: HTTP Protocol Stack Remote Code Execution (CVE-2022-21907/CVE-2021-31166).
+
+URL: https://github.com/afsec/remora-investigator
+Description: A security tool that helps you to stealthily investigate a web application.
+
+URL: https://zeta-two.com/software/2022/01/07/simpler-unpickle-payloads-with-walrus.html
+Description: Simpler unpickle payloads with the walrus operator.
+
+URL: https://github.com/Idov31/FunctionStomping
+Description: Shellcode injection technique. Given as C++ header or standalone Rust program.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://misconfig.io/pass-the-cloud-with-cookie/
+Description: Pass the Cloud with a Cookie.
+
+URL: https://catonmat.net/ldd-arbitrary-code-execution
+Description: ldd arbitrary code execution.
+
+URL: https://www.varonis.com/blog/box-mfa-bypass-sms
+Description: Mixed Messages - Busting Box's MFA Methods.
+
+URL: https://bit.ly/3G98tZU (+)
+Description: How To Extract Credentials from Azure Kubernetes Service (AKS).
+
+URL: https://apt29a.blogspot.com/2022/01/fuzzing-chromes-javascript-engine-v8.html
+Tool: https://github.com/freingruber/JavaScript-Raider
+Description: Fuzzing Chromes JavaScript Engine v8.
+
+URL: https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html
+Description: Finding vulnerabilities in Swiss Post's future e-voting system.
+
+URL: https://aptw.tf/2022/01/20/acer-care-center-privesc.html
+Description: Privilege Escalation vulnerability in Acer Care Center (CVE-2021-45975).
+
+URL: https://octagon.net/blog/2022/01/22/cve-2021-45467-cwp-centos-web-panel-preauth-rce/
+Description: CWP CentOS Web Panel - preauth RCE (CVE-2021-45467).
+
+URL: https://bit.ly/3KN9Cd9 (+)
+Description: Don't Trust This Title - Abusing Terminal Emulators with ANSI Escape Characters.
+
+URL: https://link.medium.com/KmC2ECOx5mb
+Description: Searching for Deserialization Protection Bypasses in MS Exchange (CVE-2022-21969).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://bit.ly/3g1wiIf (+)
+More: https://bit.ly/3HfE91a (+)
+Description: Breaking the Nespresso Vertuo Barcodes.
+
+URL: https://blog.chainguard.dev/what-an-sbom-can-do-for-you/
+Description: What an SBOM Can Do for You.
+
+URL: https://www.crackedthecode.co/how-to-use-your-dslr-as-a-webcam-in-linux/
+Description: How to Use Your DSLR Camera as a Webcam in Linux.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?c576c6e391b2e2d3#/crmyUMi9hBUPKNmvUoIYCP0IBVZpUXIdI/2O6IwijA=
