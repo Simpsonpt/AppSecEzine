@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 05 | Month: February | Year: 2022 | Release Date: 04/02/2022 | Edition: #416 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3onLHHB (+)
+Description: Abusing Facebooks 'Call To Action' To Launch Internal Deeplinks.
+
+URL: https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md
+Description: Hacking Google Drive Integrations.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/hlldz/Phant0m
+Description: Windows Event Log Killer.
+
+URL: https://github.com/Stanley-GF/PirateStealer
+Description: Discord Token Grabber.
+
+URL: https://github.com/AppThreat/dep-scan
+Description: Security audit for project dependencies.
+
+URL: https://github.com/0vercl0k/udmp-parser/
+Description: A Windows user minidump C++ parser library.
+
+URL: https://blog.sevagas.com/?MSDT-DLL-Hijack-UAC-bypass
+Description: MSDT DLL Hijack UAC bypass.
+
+URL: https://github.com/RhinoSecurityLabs/little-stitch
+Description: Send and receive bypassing Little Snitch alerting.
+
+URL: https://github.com/L4ys/CVE-2022-21882
+Description: Win32k Elevation of Privilege Vulnerability (CVE-2022-21882).
+
+URL: https://github.com/mrd0x/EvilSelenium
+Description: EvilSelenium is a tool that weaponizes Selenium to attack Chrome.
+
+URL: https://letsdefend.io/blog/how-to-analyze-rtf-template-injection-attacks/
+Description: How to Analyze RTF Template Injection Attacks.
+
+URL: https://github.com/carlospolop/PurplePanda
+Description: Identify privilege escalation paths within and across different clouds.
+
+URL: https://github.com/Laransec/AIHydra
+Description: Exploit Writeup and POC for AI Hydra 26 (and probably 52) series lights.
+
+URL: https://github.com/ytk2128/pe32-password
+Description: Sample project that locks and encrypts windows 32-bit executables w/ password.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/DEJzhrUuanb 
+Description: AirTags within iOS File Systems.
+
+URL: https://link.medium.com/vb1BDfq0Xmb 
+Description: The Tale of a Click leading to RCE.
+
+URL: https://klezvirus.github.io/RedTeaming/AV_Evasion/NoSysWhisper/
+Description: SysWhispers is dead, long live SysWhispers!
+
+URL: https://codewhitesec.blogspot.com/2022/01/dotnet-remoting-revisited.html
+Description: .NET Remoting Revisited.
+
+URL: https://link.medium.com/BzrVrAKGhnb
+Description: A story of leaking uninitialized memory from Fastly (CVE-2021–43848).
+
+URL: https://www.deadf00d.com/post/how-i-hacked-sonos-and-youtube-the-same-day.html
+Description: How I hacked SONOS and YouTube the same day.
+
+URL: https://blog.assetnote.io/2022/01/17/workspace-one-access-ssrf/
+Description: Stealing administrative JWT's through post auth SSRF (CVE-2021-22056).
+
+URL: https://cloudbrothers.info/en/azure-persistence-azure-policy-guest-configuration/
+Description: Persistence with Azure Policy Guest Configuration.
+
+URL: https://thebinaryhick.blog/2022/01/22/snooping-on-android-12s-privacy-dashboard/
+Description: Snooping on Android 12's Privacy Dashboard.
+
+URL: https://0xkasper.com/articles/moodle-sql-injection-broken-access-control.html
+Description: Moodle - Blind SQLi (CVE-2021-36393) and Broken Access Control (CVE-2021-36397).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://evertpot.com/get-request-bodies/
+Description: Request bodies in GET requests.
+
+URL: https://command-not-found.com/
+Description: Install any command on any operating system.
+
+URL: https://tomforb.es/cve-2022-0329-and-the-problems-with-automated-vulnerability-management/
+Description: CVE-2022-0329 and the problems with automated vulnerability management.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?47cdf3085127a0dd#9t8yPVepgNSCGkiS6dYlhQAAsh3w18Dj2HbFaqKg/wE=
