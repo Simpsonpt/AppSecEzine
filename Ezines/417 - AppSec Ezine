@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 06 | Month: February | Year: 2022 | Release Date: 11/02/2022 | Edition: #417 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://edoverflow.com/2022/bypassing-razers-dom-based-xss-filter/
+Description: What Bypassing Razer's DOM-based XSS Patch Can Teach Us.
+
+URL: https://jub0bs.com/posts/2022-02-08-cve-2022-21703-writeup/
+Description: Cross-origin request forgery against Grafana (CVE-2022-21703).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/fofapro/fapro/
+Description: Fake Protocol Server.
+
+URL: https://github.com/punk-security/SMBeagle
+Description: Fileshare auditing tool.
+
+URL: https://github.com/mufeedvh/moonwalk
+Description: Cover your tracks during Linux Exploitation.
+
+URL: https://github.com/xm1k3/cent
+Description: Community edition nuclei templates organizer.
+
+URL: https://voidsec.com/windows-drivers-reverse-engineering-methodology/
+Description: Windows Drivers Reverse Engineering Methodology.
+
+URL: https://github.com/paazmaya/shuji
+Description: Reverse engineering JavaScript and CSS sources from sourcemaps.
+
+URL: https://github.com/PwnDexter/Invoke-EDRChecker
+Description: Find known defensive products such as AV's, EDR's and logging tools.
+
+URL: https://github.com/mgeeky/PackMyPayload
+Description: Emerging Threat of Containerized Malware - MOTW (Mark of the Web) Bypass.
+
+URL: https://github.com/ncc-erik-steringer/Aerides
+Blog: https://bit.ly/3JmCsQa (+)
+Description: An implementation of infrastructure-as-code scanning using dynamic tooling.
+
+URL: https://github.com/FortyNorthSecurity/C2concealer
+Description: CLI that generates randomized C2 malleable profiles for use in Cobalt Strike.
+
+URL: https://www.x86matthew.com/view_post?id=stack_scraper
+Description: Capturing sensitive data using real-time stack scanning against a remote process.
+
+URL: https://github.com/wspr-ncsu/mininode
+Description: CLI tool to reduce the attack surface of the Node.js apps by using static analysis.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://sensepost.com/blog/2022/sim-hijacking/
+Description: SIM Hijacking.
+
+URL: https://bit.ly/3LpO4Ud (+)
+Description: Hunting for Persistence in Linux - Series.
+
+URL: https://link.medium.com/aEYw1qdbrnb 
+Description: How to audit Solana smart contracts - Series.
+
+URL: https://sector7.computest.nl/post/2022-02-coronacheck/
+Description: CoronaCheck App TLS certificate vulnerabilities.
+
+URL: https://medium.com/cider-sec/ppe-poisoned-pipeline-execution-34f4e8d0d4e9
+Description: Running malicious code in your CI, without access to your CI.
+
+URL: https://blog.projectdiscovery.io/abusing-reverse-proxies-metadata/
+More: https://blog.projectdiscovery.io/abusing-reverse-proxies-internal-access/
+Description: Abusing Reverse Proxies.
+
+URL: https://bit.ly/3oHzuOe (+)
+Description: Code Execution on Apache via an Integer Underflow (CVE-2021-44790).
+
+URL: https://research.checkpoint.com/2022/invisible-cuckoo-cape-sandbox-evasion/
+Description: Invisible Sandbox Evasion.
+
+URL: https://bit.ly/3sAiWso (+)
+PoC: https://github.com/ly4k/SpoolFool
+Description: SpoolFool - Windows Print Spooler Privilege Escalation (CVE-2022-21999).
+
+URL: https://kazet.cc/2022/02/03/fuzzing-wordpress-plugins.html
+Description: A technique to semi-automatically find vulnerabilities in WordPress plugins.
+
+URL: https://github.com/michalbednarski/ReparcelBug2
+Description: Writeup/exploit for installed app to system PE on Android 12 Beta (CVE-2021-0928).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://sha256algorithm.com/
+Description: Sha256 Algorithm Explained.
+
+URL: https://127001.me/post/ten-years-of-thinkpadding/
+Description: Ten years of ThinkPadding.
+
+URL: https://sethmlarson.dev/blog/utf-8
+Description: How does UTF-8 turn “😂” into “F09F9882”?
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?4e6fad81e9a3f1d9#8CYnaoEaB/eBYoj5jRXzUmpzzS1OvGPwbOyuygmUa7A=
