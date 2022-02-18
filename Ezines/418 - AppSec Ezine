@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 07 | Month: February | Year: 2022 | Release Date: 18/02/2022 | Edition: #418 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/GjCG4mYZGnb
+Description: How I earned $9000 with Privilege escalations.
+
+URL: https://lwthiker.com/reversing/2022/02/12/analyzing-stock-exchange-api.html
+Description: Analyzing a stock exchange's API.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/cube0x0/KrbRelay
+Description: Framework for Kerberos relaying.
+
+URL: https://link.medium.com/ziAChPpCDnb
+Description: BigQuery SQL Injection Cheat Sheet.
+
+URL: https://github.com/mufeedvh/pdfrip
+Description: Fast PDF password cracking utility.
+
+URL: https://github.com/wapiti-scanner/wapiti
+Description: Web vulnerability scanner written in Python3.
+
+URL: https://github.com/icyguider/Shhhloader
+Description: SysWhispers Shellcode Loader (Work in Progress).
+
+URL: https://gist.github.com/ujin5/6b9a32eedc5a39d714a3a72f06efffe5
+Description: WebKit RCE on iOS 14.1.
+
+URL: https://offensivedefence.co.uk/posts/notepad++/
+More: https://pentestlab.blog/2022/02/14/persistence-notepad-plugins/
+Description: Notepad++ Plugins for Persistence.
+
+URL: https://github.com/bonjourmalware/melody
+Description: Transparent internet sensor built for threat intelligence.
+
+URL: https://github.com/akabe1/OAUTHScan
+Description: Burp Suite Extension useful to verify OAUTHv2 and OpenID security.
+
+URL: https://github.com/antx-code/CVE-2022-22536
+Description: SAP memory pipes(MPI) desynchronization vulnerability CVE-2022-22536.
+
+URL: https://github.com/Deputation/hygieia
+Description: Vulnerable driver traces scanner in C++ as an x64 Windows kernel driver.
+
+URL: https://github.com/assetnote/ghostbuster
+Blog: https://blog.assetnote.io/2022/02/13/dangling-eips/
+Description: Eliminate dangling elastic IPs by performing analysis on your AWS resources.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://aptw.tf/2022/02/10/leaked-handle-hunting.html
+Description: Gaining the upper hand(le).
+
+URL: https://securitylab.github.com/research/fuzzing-apache-1/
+More: https://securitylab.github.com/research/fuzzing-apache-2/
+Description: Fuzzing sockets - Apache HTTP (Series).
+
+URL: https://www.saurik.com/optimism.html
+Description: Attacking an Ethereum L2 with Unbridled Optimism.
+
+URL: https://big5-sec.github.io/posts/an-analysis-of-cve-2022-21877/
+Description: An analysis of CVE-2022-21877.
+
+URL: https://bit.ly/3uXQPGp (+)
+Description: Dropping Files on a Domain Controller Using CVE-2021-43893.
+
+URL: https://rehacks.live/t/windows-application-exploitation-leaky-handles/14
+Description: Windows application exploitation - Leaky Handles.
+
+URL: https://bit.ly/3oYv8Ct (+)
+Description: 10 real-world stories of how we've compromised CI/CD pipelines.
+
+URL: https://shufflingbytes.com/posts/hacking-goip-gsm-gateway/
+Description: GoIP-1 GSM gateway could be harnessed for phone fraud by hackers.
+
+URL: https://bit.ly/3I1psyV (+)
+Description: Cisco RV340 SSL VPN Unauthenticated Remote Code Execution as root.
+
+URL: https://www.alteredsecurity.com/post/a-primer-on-dcsync-attack-and-detection
+Description: A primer on DCSync attack and detection.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.bunniestudios.com/blog/?p=6336
+Description: Precursor - From Boot to Root.
+
+URL: https://danluu.com/cache-incidents/
+Description: A decade of major cache incidents at Twitter.
+
+URL: https://github.com/TheScienceElf/TI-84-CE-Raytracing
+Description: Ray Tracing for the TI-84 CE.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?2948701d176df018#r69Fj1lwlVcCjoJU1sgYMIq/b0Z+j/Nox+3VgI2lH+Q=
