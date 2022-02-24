@@ -85,6 +85,7 @@ URL: https://dmaasland.github.io/posts/mcafee.html
 Description: Bypass McAfee Endpoint Security with McAfee (CVE-2019-3653).
 
 URL: https://hernan.de/blog/2019/10/15/tailoring-cve-2019-2215-to-achieve-root/
+More: https://cutesmilee.github.io/kernel/linux/android/2022/02/17/cve-2019-2215_writeup.html
 Description: Tailoring CVE-2019-2215 to Achieve Root.
 
 URL: https://blog.paloaltonetworks.com/2019/10/cloud-kubernetes-vulnerabilities/
