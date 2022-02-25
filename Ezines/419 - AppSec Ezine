@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 08 | Month: February | Year: 2022 | Release Date: 25/02/2022 | Edition: #419 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.assetnote.io/2022/02/20/logicflaw-dynamicweb-rce/
+Description: Logic Flaw Leading to RCE in Dynamicweb 9.5.0 - 9.12.7.
+
+URL: https://blog.sonarsource.com/horde-webmail-account-takeover-via-email
+Description: Horde Webmail 5.2.22 - Account Takeover via Email.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://mrd0x.com/bypass-2fa-using-novnc/
+Description: Steal Credentials & Bypass 2FA Using noVNC.
+
+URL: https://github.com/parsdefense/ios-kernel-heap-profiler
+Description: iOS kernel heap memory profiler for sprayers.
+
+URL: https://github.com/CoolerVoid/codecat
+Description: CodeCat - Tool to help in static code analysis.
+
+URL: https://github.com/parsdefense/CVE-2021-1965
+Description: WiFi Zero Click RCE Trigger PoC (CVE-2021-1965).
+
+URL: https://github.com/Mr-Un1k0d3r/WindowsDllsExport
+Description: A list of all the DLLs export in C:\windows\system32\.
+
+URL: https://github.com/Mr-xn/CVE-2022-24112
+Description: Apache APISIX apisix/batch-requests RCE (CVE-2022-24112).
+
+URL: https://github.com/0vercl0k/zenith
+Description: Pwn2Own TP-Link AC1750 Smart Wi-Fi Router RCE (CVE-2022-24354).
+
+URL: https://github.com/ariary/cfuzz
+Description: Command line fuzzer and bruteforcer tornado wfuzz for command line.
+
+URL: https://github.com/ly4k/Certipy
+Blog: https://bit.ly/36EYkIk (+)
+Description: Tool for Active Directory Certificate Services enumeration and abuse.
+
+URL: https://adapt-and-attack.com/2020/05/12/building-a-com-server-for-initial-execution/
+Description: Building a COM Server for Initial Execution.
+
+URL: https://github.com/blst-security/cherrybomb
+Description: CLI tool that helps avoiding undefined user behaviour by validating API specs.
+
+URL: https://github.com/corazawaf/coraza
+Description: Coraza WAF is a golang modsecurity compatible web application firewall library.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://positive.security/blog/find-you
+Description: Find You - Building a stealth AirTag clone.
+
+URL: https://ruia-ruia.github.io/NFC-UAF/
+Description: Linux kernel Use-After-Free (CVE-2021-23134).
+
+URL: https://0xsha.io/blog/a-samba-horror-story-cve-2021-44142
+PoC: https://gist.github.com/0xsha/0859033e1777490576923a27fbcd23ac
+Description: A Samba's horror story (CVE-2021-44142).
+
+URL: https://connormcgarr.github.io/kuser-shared-data-changes-win-11/
+Description: ASLR - Coming To A KUSER_SHARED_DATA Structure Near You!
+
+URL: https://voidstarsec.com/blog//2022/01/17/intro-to-embedded-part-1
+More: https://voidstarsec.com/blog//2022/01/27/uart-uboot-and-usb
+Description: Intro to Embedded RE - Series.
+
+URL: https://bit.ly/3haRXi1 (+)
+Description: Exploiting the Lexmark MC3224i printer (CVE-2021-44737).
+
+URL: https://www.shielder.it/advisories/pfsense-remote-command-execution/
+Description: Remote Code Execution in pfSense <= 2.5.2 (CVE-2021-41282).
+
+URL: https://www.qualys.com/2022/02/17/cve-2021-44731/oh-snap-more-lemmings.txt
+Description: Oh Snap! More Lemmings (Local Privilege Escalation in snap-confine).
+
+URL: https://medium.com/cider-sec/exploiting-jenkins-build-authorization-22bf72926072
+Description: Exploiting Jenkins build authorization.
+
+URL: https://link.medium.com/RqxPqUkgRnb 
+Description: Finding an unseen SQL Injection by bypassing escape functions in mysqljs/mysql.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://den.dev/blog/user-hostile-software/
+Description: The Rise Of User-Hostile Software.
+
+URL: https://wuffs.org/blog/reversing-games-with-hashcat
+Description: Reversing Games with... Hashcat???
+
+URL: https://github.com/bishopfox/unredacter
+Description: Never ever ever use pixelation as a redaction technique.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?4e24e997e8ecc4dc#xZu/SUxdWPX6+bWU1jd8eyLs35nxI/J8+f+d0nePfos=
