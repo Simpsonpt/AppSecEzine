@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 09 | Month: March | Year: 2022 | Release Date: 04/03/2022 | Edition: #420 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://octagon.net/blog/2022/03/02/apache-jspwiki-preauth-xss-to-ato/
+Description: Apache JSPWiki preauth Stored XSS to ATO (CVE-2022-24948).
+
+URL: https://ninetyn1ne.github.io/2022-02-21-oauth-postmessage-misconfig/
+Description: OAuth and PostMessage - Chaining misconfigurations for your access token.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/n0fate/chainbreaker
+Description: Mac OS X Keychain Forensic Tool.
+
+URL: https://github.com/apkunpacker/Smali2Frida
+Description: Generate Frida Hooks from .smali files.
+
+URL: https://github.com/jweny/zabbix-saml-bypass-exp
+Description: Zabbix SAML Bypass PoC (CVE-2022-23131).
+
+URL: https://link.medium.com/eajmVxvx0nb 
+Description: Give me a browser, I'll give you a Shell.
+
+URL: https://github.com/mttaggart/OffensiveNotion
+Blog: https://link.medium.com/SZYZ9W140nb
+Description: Notion (yes, the notetaking app) as a C2.
+
+URL: https://github.com/jurelou/epagneul
+Description: Graph Visualization for windows event logs.
+
+URL: https://github.com/h33tlit/Jbin-website-secret-scraper
+Description: Jbin Website Secret Scraper.
+
+URL: https://link.medium.com/KPIVuCv15nb 
+Description: Thick Client Penetration Testing - TCP traffic interception.
+
+URL: https://link.medium.com/wHvoO9B15nb 
+Description: Bash Tricks for Command Execution and Data Extraction over HTTP/S.
+
+URL: https://github.com/DarkCoderSc/PowerRunAsSystem
+Description: Run application as system with interactive system process support.
+
+URL: https://github.com/eastee/re-rebreakcaptcha
+Blog: https://east-ee.com/2022/02/28/1367/
+Description: Re-ReBreakCaptcha - Breaking Google's ReCaptcha v2 using.. Google.. Again.
+
+URL: https://kailashbohara.com.np/blog/2022/02/04/bypassing-PHP-functions-to-read-system-file/
+Description: How I bypassed PHP functions to read sensitive files on server.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/3tsNYNWI4nb 
+Description: Give Me Some (macOS) Context...
+
+URL: https://kerbit.io/research/read/blog/3
+Description: Multiple vulnerabilities in VoipMonitor.
+
+URL: https://gitlab.com/kop316/vvm-disclosure
+Description: A security analysis of Visual Voicemail (CVE-2022-23835).
+
+URL: https://blog.teddykatz.com/2022/02/23/ghosts-of-branches-past.html
+Description: Stealing a few more GitHub Actions secrets.
+
+URL: http://nmi.jp/2022-02-18-Understanding-ReDoS
+Description: Learn Regular Expression Vulnerability (ReDoS) with JavaScript.
+
+URL: https://wya.pl/2022/02/26/cve-2022-22947-spel-casting-and-evil-beans/
+Description: Spring Cloud Gateway SpEL Remote Code Execution (CVE-2022-22947).
+
+URL: https://a13xp0p0v.github.io/2021/02/09/CVE-2021-26708.html
+Related: https://hardenedvault.net/2022/03/01/poc-cve-2021-26708.html
+Description: Four Bytes of Power - Exploiting CVE-2021-26708 in the Linux kernel.
+
+URL: https://bit.ly/3CjmOCM (+)
+Description: Umbraco ApplicationURL Overwrite and Persistent Password Reset Poison.
+
+URL: https://bit.ly/3MkrVaj (+)
+Description: Hunting for bugs in VMware - View Planner and vRealize Business for Cloud.
+
+URL: https://jacobriggs.io/blog/posts/cve-2021-26084-poc-write-up-33.html
+Description: Confluence Server and Data Center Unauthenticated OGNL Injection (CVE-2021-26084).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.archcloudlabs.com/projects/dumb_fuzzing/
+Description: Scaling Dumb Fuzzing with Kubernetes.
+
+URL: https://samy.link/blog/build-your-own-wifi-pineapple-tetra-for-7
+Description: Build your own WiFi Pineapple Tetra for $7!
+
+URL: https://www.falstad.com/pong/index.html
+Description: A simulation of the 1972 Atari game Pong at a circuit level.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?3929d366e1b6fce6#IzQlxo4ICz5Wb03AZGEM1gYgcb4fxg5k4hP3oMP2BxE=
