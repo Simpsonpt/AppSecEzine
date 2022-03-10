@@ -76,7 +76,8 @@ Description: Live off the Land and Crack the NTLMSSP Protocol.
 
 
 URL: https://blog.recurity-labs.com/2021-02-03/webOS_Pt1.html
-Description: CVE-2020-XXXXX - Getting root on webOS.
+More: https://blog.recurity-labs.com/2022-03-02/webOS_Pt2.html
+Description: CVE-2020-9759 - Getting root on webOS.
 
 URL: https://jub0bs.com/posts/2021-01-29-great-samesite-confusion/
 Description: The great SameSite confusion.
