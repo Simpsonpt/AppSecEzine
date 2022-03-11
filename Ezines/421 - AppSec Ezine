@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 10 | Month: March | Year: 2022 | Release Date: 11/03/2022 | Edition: #421 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://dirtypipe.cm4all.com/
+Description: The Dirty Pipe Vulnerability (CVE-2022-0847).
+
+URL: https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3
+Description: RCE in GitHub Desktop < 2.9.4.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/SecIdiot/bootkit
+Description: UEFI bootkit - Hardware Implant.
+
+URL: https://github.com/hahwul/authz0
+Description: Automated authorization test tool.
+
+URL: https://github.com/fkie-cad/libdesock
+Description: A de-socketing library for fuzzing.
+
+URL: https://github.com/dolevf/graphql-cop
+Description: Security Auditor Utility for GraphQL APIs.
+
+URL: https://pwning.systems/posts/escaping-containers-for-fun/
+Description: Escaping privileged containers for fun.
+
+URL: https://systemweakness.com/healing-blind-injections-df30b9e0e06f
+Description: Healing blind injections.
+
+URL: https://github.com/thoughtworks/talisman
+Description: A tool to detect and prevent secrets from getting checked in.
+
+URL: https://github.com/phith0n/zkar
+Description: ZKar is a Java serialization protocol analysis tool implement in Go.
+
+URL: https://github.com/idnahacks/NetCeasePlusPlus
+Description: NetCease module was designed to help disable Net Session Enumeration.
+
+URL: https://pocogtfo.com/posts/CVE-2019-15947-bitcoin-wallet-dat-core-dumps-design-flaw/
+Description: Bitcoin Core bitcoin-qt crash dumps contain wallets (CVE-2019-15947).
+
+URL: https://github.com/klezVirus/SharpLdapRelayScan
+Blog: https://klezvirus.github.io/RedTeaming/Development/ImplementingLDAPScanner/
+Description: Tool to check DCs for LDAP server protections regarding the relay of NTLM AuthN.
+
+URL: https://github.com/Bonfee/CVE-2022-25636
+Description: Out-of-bounds (OOB) memory access flaw in Linux nf_dup_netdev.c (CVE-2022-25636).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://tttang.com/archive/1462/
+Description: Make JDBC Attacks Brilliant Again Extra Chapter.
+
+URL: https://link.medium.com/msVPf4TwOnb 
+Description: 10 ways of gaining control over Azure function Apps.
+
+URL: https://link.medium.com/gQX7Bwxjgob 
+Description: Oracle Access Manager Pre-Auth RCE Analysis (CVE-2021–35587).
+
+URL: https://blog.sonarsource.com/securing-developer-tools-package-managers/
+Description: Securing Developer Tools - Package Managers.
+
+URL: https://hnd3884.github.io/posts/cve-2022-22005-microsoft-sharepoint-RCE/
+Description: Microsoft Sharepoint RCE (CVE-2022-22005).
+
+URL: https://posts.specterops.io/dylib-loads-that-tickle-your-fancy-d25196addd8c
+Description: Dylib Loads that Tickle your Fancy.
+
+URL: https://blog.quarkslab.com/kubernetes-and-hostpath-a-love-hate-relationship.html
+Description: Kubernetes and HostPath, a Love-Hate Relationship.
+
+URL: https://grsecurity.net/amd_branch_mispredictor_just_set_it_and_forget_it
+More: https://grsecurity.net/amd_branch_mispredictor_part_2_where_no_cpu_has_gone_before
+Description: The AMD Branch (Mis)predictor Series.
+
+URL: https://bit.ly/3hUVXmT (+)
+Description: AutoWarp - Critical Cross-Account Vulnerability in MS Azure Automation Service.
+
+URL: https://bit.ly/3MJ91Kj (+)
+Description: VMware Carbon Black Cloud Workload Appliance and vRealize Operations Manager Bugs.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/
+Description: My thoughts on writing a Minecraft server from scratch (in Bash).
+
+URL: https://link.medium.com/du31Xs2Sfnb 
+Description: How Android updates work - A peek behind the curtains from an insider.
+
+URL: https://mvsp.dev/
+Description: A minimum security baseline for enterprise-ready products and services.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?a6fb551ef998f95c#/Av3aVP0A3GAi40F+My8bqWrxfTGtpABbdsPVjgMwNM=
