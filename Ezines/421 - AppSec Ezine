@@ -61,6 +61,7 @@ Blog: https://klezvirus.github.io/RedTeaming/Development/ImplementingLDAPScanner
 Description: Tool to check DCs for LDAP server protections regarding the relay of NTLM AuthN.
 
 URL: https://github.com/Bonfee/CVE-2022-25636
+More: https://nickgregory.me/linux/security/2022/03/12/cve-2022-25636/
 Description: Out-of-bounds (OOB) memory access flaw in Linux nf_dup_netdev.c (CVE-2022-25636).
 
 
