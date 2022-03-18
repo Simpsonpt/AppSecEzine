@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 11 | Month: March | Year: 2022 | Release Date: 18/03/2022 | Edition: #422 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/1458236
+Description: Cross Origin Request Forgery vulnerability in Grafana 8.x.
+
+URL: https://www.ubercomp.com/posts/2022-01-20_redis_on_debian_rce
+Description: An unexpected Redis sandbox escape affecting only Debian, Ubuntu, and based.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Tencent/CodeAnalysis
+Description: Tencent Cloud Code Analysis.
+
+URL: https://github.com/Group3r/Group3r
+Description: Find vulnerabilities in AD Group Policy.
+
+URL: https://github.com/tismayil/fastfuz-chrome-ext
+Description: Fast fuzzing websites with chrome extension.
+
+URL: https://github.com/cckuailong/reapoc
+Description: OpenSource Poc && Vulnerable-Target Storage Box.
+
+URL: https://mrd0x.com/browser-in-the-browser-phishing-attack/
+Description: Browser In The Browser (BITB) Attack.
+
+URL: https://github.com/p1ay8y3ar/cve_monitor
+Description: Automatic monitor github cve using Github Actions.
+
+URL: https://github.com/drago-96/CVE-2022-0778
+Description: OpenSSL X.509 certificate parsing infinite loop (CVE-2022-0778).
+
+URL: https://wojciechregula.blog/post/macos-red-teaming-bypass-tcc-with-old-apps/
+Description: macOS Red Teaming - Bypass TCC with old apps.
+
+URL: https://github.com/welk1n/JNDI-Injection-Exploit
+Description: Tool to generate JNDI links to exploit JNDI Injection vulnerabilities.
+
+URL: https://github.com/FirmWire/FirmWire
+Description: Full-system baseband firmware emulation platform for security research.
+
+URL: https://snovvcrash.rocks/2022/03/06/abusing-kcd-without-protocol-transition.html
+Description: Abusing Kerberos Constrained Delegation without Protocol Transition.
+
+URL: https://github.com/mborgerson/mdec
+Description: Explore multiple decompilers and compare their output with minimal effort.
+
+URL: https://github.com/paranoidninja/O365-Doppelganger
+Description: Helper to harvest creds off of a user and get exec of a file from the user.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://fermatattack.secvuln.info/
+Description: Fermat Attack on RSA.
+
+URL: https://positive.security/blog/dompdf-rce
+Description: From XSS to RCE (dompdf 0day).
+
+URL: https://labs.taszk.io/articles/post/mtk_baseband_csn1_exploitation/
+Description: Exploiting CSN.1 Bugs in MediaTek Basebands.
+
+URL: https://0x434b.dev/overview-of-glibc-heap-exploitation-techniques/
+Description: Overview of GLIBC heap exploitation techniques.
+
+URL: https://blog.flatt.tech/entry/lambda_library_security
+Description: Lambda Pit-Dangers and Security Measures from Vulnerable Libraries.
+
+URL: https://jhftss.github.io/CVE-2022-22616-Gatekeeper-Bypass/
+Description: Simple way to bypass GateKeeper, hidden for years (CVE-2022-22616).
+
+URL: https://www.blackhillsinfosec.com/rogue-rdp-revisiting-initial-access-methods/
+Description: Rogue RDP - Revisiting Initial Access Methods.
+
+URL: https://nstarke.github.io/netgear/nday/2022/03/13/reverse-engineering-a-netgear-nday.html
+Description: Reverse Engineering a Netgear Nday (CVE-2021-34979).
+
+URL: https://bit.ly/3wnT6v8 (+)
+Description:  Exchange Server GetWacInfo Information Disclosure Vulnerability (CVE-2022-24463).
+
+URL: https://windows-internals.com/hyperguard-secure-kernel-patch-guard-part-1-skpg-initialization/
+More: https://windows-internals.com/hyperguard-secure-kernel-patch-guard-part-2-skpg-extents/
+Description: HyperGuard - Secure Kernel Patch Guard (Series).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://encoding.tools/
+Description: Encoding Tools.
+
+URL: https://rfc.fyi/
+Description: Fast RFCs search.
+
+URL: https://github.com/reactjs/reactjs.org/issues/3896
+Description: Is it safe to use __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED?
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?4357d750e1181fac#7mDJsJZ20P9jE4pH7qqOW+B3B3x6RXPiOaqzPrQLaxY=
