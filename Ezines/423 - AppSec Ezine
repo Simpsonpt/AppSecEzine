@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 12 | Month: March | Year: 2022 | Release Date: 25/03/2022 | Edition: #423 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3NiNwQL (+)
+Description: Circumventing Browser Security Mechanisms For SSRF.
+
+URL: https://hackerone.com/reports/1439593
+Description: GitLab Arbitrary file read via the bulk imports UploadsPipeline.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/fuzzuf/fuzzuf/
+Description: Fuzzing Unification Framework.
+
+URL: https://github.com/ssh-mitm/ssh-mitm
+Description: SSH-MITM - SSH audits made simple.
+
+URL: https://github.com/VirtualAlllocEx/Payload-Download-Cradles
+Description: Payload Download Cradles to bypass AV/EPP/EDR.
+
+URL: https://github.com/icyguider/Nimcrypt2
+Description: .NET, PE, & Raw Shellcode Packer/Loader Written in Nim.
+
+URL: https://github.com/BishopFox/Imperva_gzip_WAF_Bypass
+Description: Imperva Web Application Firewall (WAF) POST Request Bypass.
+
+URL: https://github.com/0xDexter0us/uproot-JS/
+Description: Extract JavaScript files from burp suite project with ease.
+
+URL: https://github.com/TarlogicSecurity/kerbrute
+Description: An script to perform kerberos bruteforcing by using impacket.
+
+URL: https://http418infosec.com/offsecops-using-jenkins-for-red-team-tooling
+Description: OffSecOps - Using Jenkins For Red Team Tooling.
+
+URL: https://github.com/FrenchYeti/interruptor
+Description: A human-friendly interrupts hook library based on Frida's Stalker.
+
+URL: https://gccybermonks.com/posts/prototype-plist/
+Description: Prototype Pollution in plist v3.0.4 and simple-plist (CVE-2022-22912).
+
+URL: https://github.com/projectdiscovery/uncover
+Description: Quickly discover exposed hosts on the internet using multiple search engine.
+
+URL: https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera
+Description: System environment variables leak on Chrome, MS Edge and Opera (CVE-2022-0337).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://nns.ee/blog/2022/01/31/dont-trust-comments.html
+Description: Don't trust comments (CVE-2022-23602).
+
+URL: https://sprocketfox.io/xssfox/2022/02/09/terraformsupply/
+Description: Supply Chain Attack as Code (Terraform Hacks).
+
+URL: https://kerbit.io/research/read/blog/4
+Description: Pascom - The story of 3 bugs that lead to unauthed RCE.
+
+URL: https://bit.ly/3Dg3xm3 (+)
+Description: Escalating from Logic App Contributor to Root Owner in Azure.
+
+URL: https://cycode.com/blog/github-actions-vulnerabilities/
+Description: How We Discovered Vulnerabilities in CI/CD Pipelines of Popular OSS.
+
+URL: https://bit.ly/3qxTofp (+)
+Description: Windows VPN Remote Kernel Null Pointer Dereference (CVE-2022-23253).
+
+URL: https://johnjhacking.com/blog/cve-2022-27226/
+Description: CSRF to RCE in iRZ Mobile Routers through 2022-03-16 (CVE-2022-27226).
+
+URL: https://connormcgarr.github.io/type-confusion-part-1/
+More: https://connormcgarr.github.io/type-confusion-part-2/
+Description: Browser Exploitation on Windows (CVE-2019-0567) - A MS Edge Type Confusion.
+
+URL: https://bit.ly/36j4bDv (+)
+Description: Abusing Arbitrary File Deletes to Escalate Privilege and Other Great Tricks.
+
+URL: https://sidechannel.blog/en/url-filter-subversion/index.html
+Description: How failures related to validating conditions based on URLs can lead to  issues.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://mayakaczorowski.com/blogs/beyondcorp-is-dead
+Description: BeyondCorp is dead, long live BeyondCorp.
+
+URL: https://github.com/phzietsman/aws-slack-clickoops-watcher
+Description: AWS ClickOops watcher for Slack.
+
+URL: https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon
+Description: Introduction to Apple Silicon.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?98e52722524209b5#tIQDADVJ17HYQVDZM1uqR3/2tKtfJlk3mTuKyygmYqs=
