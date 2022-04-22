@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 16 | Month: April | Year: 2022 | Release Date: 22/04/2022 | Edition: #427 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/cBkrbOQoppb
+Description: Bypass Apple Corp SSO on Apple Admin Panel.
+
+URL: https://medium.com/@hacxyk/how-we-spoofed-ens-domains-52acea2079f6
+Description: How we spoofed ENS domains for $15k.
+
+URL: https://bit.ly/3JXOT4x (+)
+Description: How I hacked one of the biggest airlines group in the world.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/skylot/jadx/
+Description: Dex to Java decompiler.
+
+URL: https://github.com/bloomberg/memray
+Description: Memray is a memory profiler for Python.
+
+URL: https://github.com/Esc4iCEscEsc/skanuvaty
+Description: Dangerously fast DNS/network/port scanner.
+
+URL: https://misconfig.io/breaking-the-cloud-via-azure-ad-connect/
+Description: Breaking the Cloud via Azure AD Connect.
+
+URL: https://github.com/CoolerVoid/spock_slaf
+Description: Spock SLAF is a Shared Library Application Firewall "SLAF".
+
+URL: https://github.com/p0dalirius/CVE-2021-43008-AdminerRead
+Description: Adminer 1.0-4.6.2 Arbitrary File Read vulnerability (CVE-2021-43008).
+
+URL: https://github.com/wagga40/Zircolite
+Description: SIGMA-based detection tool for EVTX, Auditd and Sysmon for Linux logs.
+
+URL: https://github.com/aquasecurity/trivy
+Description: Scanner for vulnerabilities in containers, file systems, and Git repos.
+
+URL: https://hurricanelabs.com/blog/extracting-credentials-from-multifunction-devices/
+Description: Extracting Credentials from Multifunction Devices.
+
+URL: https://github.com/vdjagilev/nmap-formatter
+Description: A tool that allows you to convert NMAP results to html, csv, json, markdown.
+
+URL: https://github.com/hlldz/RefleXXion
+Description: Utility designed to aid in bypassing user-mode hooks utilised by AV/EPP/EDR.
+
+URL: https://apptotal.io/
+Description: Analyze suspicious OAuth apps to identify malicious apps and highlight risks.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/
+PoC: https://bit.ly/3v48T16 (+)
+Description: Psychic Signatures in Java (CVE-2022-21449).
+
+URL: https://bit.ly/3ExNxN0 (+)
+More: https://bit.ly/3KgtqEp (+)
+Description: Abusing Azure Hybrid Workers for Privilege Escalation.
+
+URL: https://github.com/snowyyowl/writeups/tree/main/CVE-2022-26133
+Description: Atlassian Bitbucket HazelCast RCE CVE-2022-26133.
+
+URL: https://cloudbrothers.info/en/fido2-security-keys-are-important/
+Description: Why using a FIDO2 security key is important.
+
+URL: https://blog.immunityinc.com/p/writing-a-linux-kernel-remote-in-2022/
+Description: Writing a Linux Kernel Remote in 2022 (CVE-2022-0435).
+
+URL: https://blog.assetnote.io/2022/04/13/watchguard-firebox-rce/
+Description: Diving Deeper into WatchGuard Pre-Auth RCE (CVE-2022-26318).
+
+URL: https://bit.ly/3OvTvlV (+)
+Description: How I chained two vulnerabilities to steal credit card details?
+
+URL: https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/
+Description: Privilege Escalation to SYSTEM in AWS VPN Client (CVE-2022-25165).
+
+URL: https://mc0wn.blogspot.com/2021/04/exploiting-struts-rce-on-2526.html
+Description: Exploiting Apache Struts2 double evaluations RCE (CVE-2021-31805).
+
+URL: https://r0.haxors.org/posts?id=20
+Description: Moodle Stored XSS and blind SSRF possible via feedback answer text.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://initrd.net/
+Description: Repository of Radio tools.
+
+URL: https://rpgplayground.com/
+Description: Make and share RPG games, it's easy.
+
+URL: https://blog.persistent.info/2022/03/blog-post.html
+Description: Infinite Mac - An Instant-Booting Quadra in Your Browser.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?45f242e04208db48#cx7HtV9oSQ1YIx5zp7Ezj8L/hBYZ4R61mVtcfTe4rww=
