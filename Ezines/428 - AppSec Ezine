@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 17 | Month: April | Year: 2022 | Release Date: 29/04/2022 | Edition: #428 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.dixitaditya.com/pwning-a-server-using-markdown
+Description: Pwning a Server using Markdown.
+
+URL: https://palisade.consulting/blog/rarible-vulnerability
+Description: Wormable XSS Vulnerability affecting Rarible's NFT Marketplace.
+
+URL: https://www.cysrc.com/blog/virus-total-blog/
+Description: Remote Code Execution (on VT Partners) via VirusTotal Platform.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/j3ssie/cdnstrip
+Description: Striping CDN IPs from a list of IP Addresses.
+
+URL: https://github.com/s0md3v/Smap
+Description: Passive Nmap like scanner built with shodan.io.
+
+URL: https://github.com/fullstorydev/grpcurl
+Description: Command-line tool for interacting with gRPC servers.
+
+URL: https://github.com/Dec0ne/KrbRelayUp
+Description: Universal no-fix LPE in windows domain environments.
+
+URL: https://github.com/skelsec/aardwolf
+More: https://github.com/skelsec/aardwolfgui
+Description: Asynchronous RDP/VPN client for Python (Headless/GUI).
+
+URL: https://github.com/badkeys/badkeys
+Description: Tool/Library to check cryptographic public keys for known vulnerabilities.
+
+URL: https://github.com/cado-security/rip_raw
+Description: Rip Raw is a small tool to analyse the memory of compromised Linux systems.
+
+URL: https://github.com/lefayjey/linWinPwn
+Description: Bash script to automate a number of AD Enumeration and Vulnerability checks.
+
+URL: https://github.com/cyberark/MITM_Intercept
+Description: Hackish way to intercept and modify non-HTTP protocols through Burp & others.
+
+URL: https://github.com/Dump-GUY/Get-PDInvokeImports
+Description: PS module to detect P/Invoke, Dynamic P/Invoke and D/Invoke usage in assembly.
+
+URL: https://github.com/alphasoc/flightsim
+Description: Tool to safely generate malicious network traffic patterns and evaluate controls. 
+
+URL: https://github.com/codingo/fastsub
+Description: A custom built DNS bruteforcer with multi-threading, and handling of bad resolvers.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.doyensec.com/2022/04/26/vbox-fuzzing.html
+Description: Introduction to VirtualBox security research.
+
+URL: https://github.com/hakivvi/CVE-2022-29464
+Description: WSO2 RCE (CVE-2022-29464) exploit and writeup.
+
+URL: https://firefart.at/post/multiple_vulnerabilities_cisco_expressway/
+Tool: https://github.com/firefart/stunner/
+Description: Multiple Vulnerabilities in Cisco Expressway.
+
+URL: https://bit.ly/3MyfpDm (+)
+PoC: https://github.com/jfrog/nimbuspwn-tools
+Description: New elevation of privilege Linux vulnerability - Nimbuspwn.
+
+URL: https://www.cloaked.pl/2022/04/on-how-we-can-keep-whispering-the-syscalls/
+Description: On How We Can Keep Whispering The Syscalls.
+
+URL: https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/
+Description: Encrypting our way to SSRF in VMWare Workspace One UEM (CVE-2021-22054).
+
+URL: https://captmeelo.com/redteam/maldev/2022/04/21/kernelcallbacktable-injection.html
+Description: Adventures with KernelCallbackTable Injection.
+
+URL: https://bit.ly/3OEf3gx (+)
+Description: Moving From Manual RE of UEFI Modules To Dynamic Emulation of UEFI Firmware.
+
+URL: https://googleprojectzero.blogspot.com/2022/04/cve-2021-30737-xerubs-2021-ios-asn1.html
+Description: CVE-2021-30737, @xerub's 2021 iOS ASN.1 Vulnerability.
+
+URL: https://www.rtcsec.com/article/exploiting-cve-2022-0778-in-openssl-vs-webrtc-platforms/
+Description: Exploiting CVE-2022-0778, a bug in OpenSSL vis-à-vis WebRTC platforms.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://ops.tips/blog/dmesg-under-the-hood/
+Description: Dmesg under the hood.
+
+URL: https://www.assemblyai.com/blog/how-dall-e-2-actually-works/
+Description: How DALL-E 2 Actually Works.
+
+URL: https://security-list.js.org/
+Description: Tools, tips and resources for protecting digital security and privacy.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?34d87e8458cde4c3#M6FhI4UBwsPF35TnxXS0YBbfeWiaZmqis/27rOzwKbo=
