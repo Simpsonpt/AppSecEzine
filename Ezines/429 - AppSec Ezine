@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 18 | Month: May | Year: 2022 | Release Date: 06/05/2022 | Edition: #429  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.assetnote.io/2022/05/03/hacking-a-bank-using-dotcms-rce/
+Description: Hacking a Bank by Finding a 0day in DotCMS.
+
+URL: https://hackerone.com/reports/1501611
+Description: IDOR allowed the assets/structured scopes of any H1 program to be archived.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ihebski/DefaultCreds-cheat-sheet
+Description: Default Credentials Cheat Sheet.
+
+URL: https://github.com/nettitude/SharpWSUS
+Blog: https://labs.nettitude.com/blog/introducing-sharpwsus/
+Description: Sharp tool for lateral movement through WSUS.
+
+URL: https://www.blackarrow.net/adcs-weaponizing-esc7-attack/
+More: https://www.blackarrow.net/ad-cs-from-manageca-to-rce/
+Description: AD CS - Weaponizing the ESC7 attack.
+
+URL: https://bit.ly/3vLdOVi (+)
+Description: UAC bypass via dll hijacking and mock directories.
+
+URL: https://github.com/securing/IOSSecuritySuite
+Description: iOS platform security & anti-tampering Swift library.
+
+URL: https://fourcore.io/blogs/mavinject-curious-process-injection
+Description: The Curious Case Of Mavinject.Exe.
+
+URL: https://github.com/med0x2e/NTLMRelay2Self
+Description: An other No-Fix LPE, NTLMRelay2Self over HTTP (Webdav).
+
+URL: https://github.com/k4yt3x/orbitaldump
+Description: Simple multi-threaded distributed SSH brute-forcing tool.
+
+URL: https://github.com/kris-nova/xpid
+Description: Linux Process Discovery - C Library, Go bindings, Runtime.
+
+URL: https://github.com/arget13/DDexec
+Description: A technique to run binaries filelessly and stealthily on Linux using dd.
+
+URL: https://github.com/DarkCoderSc/win-brute-logon
+Description: Crack any MS Windows users password w/out any privilege (Guest included).
+
+URL: https://dhiyaneshgeek.github.io/red/teaming/2022/04/28/reconnaissance-red-teaming/
+Description: Reconnaissance (Red Teaming Perspective).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/nS2wIdeoqpb 
+Description: Aave V3's Price Oracle Manipulation Vulnerability.
+
+URL: https://remyhax.xyz/posts/do-harm/
+Description: DOing Harm (Windows Delivery Optimization Research).
+
+URL: http://windowsir.blogspot.com/2022/04/root-cause-analysis.html
+Description: DFIR Root Cause Analysis.
+
+URL: https://sysdig.com/blog/containers-read-only-fileless-malware/
+Description: Compromising Read-Only Containers with Fileless Malware.
+
+URL: https://blog.bushidotoken.net/2022/05/gamer-cheater-hacker-spy.html
+Description: Gamer Cheater Hacker Spy (Threat Intel).
+
+URL: https://www.graplsecurity.com/post/iou-ring-exploiting-the-linux-kernel
+Description: Put an io_uring on it - Exploiting the Linux Kernel.
+
+URL: https://posts.specterops.io/abusing-azure-container-registry-tasks-1f407bfaa465
+Description: Abusing Azure Container Registry Tasks.
+
+URL: https://link.medium.com/5TYQAKDxppb
+Description: Hunting bugs in Accel-PPP with CodeQL (CVE-2022-24704/05 and CVE-2022-0982).
+
+URL: https://bit.ly/3OZFBZw (+)
+Description: Azure AD Cross-tenant attacks via multi-tenant implants (servicePrincipals).
+
+URL: https://www.crowdstrike.com/blog/understanding-cve-2022-23648-kubernetes-vulnerability/
+Description: K8s Container Escape via Containerd CRI Plugin and Mitigation (CVE-2022-23648).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/kuglee/TermiWatch
+Description: Terminal Watch Face for Apple Watch.
+
+URL: https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks
+Description: Four Eras of JavaScript Frameworks.
+
+URL: https://github.com/microsoft/Microsoft-3D-Movie-Maker
+Description: Source code for the original Microsoft 3D Movie Maker released in 1995.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?652de54600edd1f4#AKxcP46WRHgyMyC9Iq6s26nwjWupH1uKRIGl+87CvJ8=
