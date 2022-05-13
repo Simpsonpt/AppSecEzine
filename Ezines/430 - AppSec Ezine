@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 19 | Month: May | Year: 2022 | Release Date: 13/05/2022 | Edition: #430  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3swx5Yv (+)
+Description: Exploitation of an SSRF vulnerability against EC2 IMDSv2.
+
+URL: https://link.medium.com/9A22NxA8Upb 
+Description: The Underrated Bugs, Clickjacking, CSS Inj., Drag-Drop XSS, Cookie Bomb...
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/aircrack-ng/aircrack-ng
+Description: WiFi security auditing tools suite.
+
+URL: https://github.com/zxh0/classpy
+Description: GUI tool for investigating Java class files.
+
+URL: https://github.com/trustedsec/ELFLoader
+Description: This is a ELF object in memory loader/runner.
+
+URL: https://github.com/leesoh/np
+Description: A tool to parse, deduplicate, and query multiple port scans. 
+
+URL: https://github.com/alufers/mitmproxy2swagger
+Description: Automagically reverse-engineer REST APIs via capturing traffic.
+
+URL: https://www.whiteoaksecurity.com/blog/bypassing-openssh-maxauthtries/
+Description: Bypassing OpenSSH MaxAuthTries.
+
+URL: https://github.com/user1342/AutoDroid
+Description: Automate interactions w/ Android devices (ADB, AndroGuard and Frida).
+
+URL: https://github.com/Sh0ckFR/DLLirant
+Description: Tool to automatize the DLL Hijacking researches on a specified binary.
+
+URL: https://github.com/cyberbutler/RedDrop
+Description: Quick/Easy server for capturing and processing encoded/encrypted payloads.
+
+URL: https://github.com/google/gcp_scanner
+Description: GCP resource scanner to determine what level of access certain creds posses.
+
+URL: https://github.com/nettitude/MalSCCM
+Blog: https://labs.nettitude.com/blog/introducing-malsccm/
+Description: Abuse Local/Remote SCCM servers to deploy malicious apps to hosts they manage.
+
+URL: https://github.com/samet-g/tornado
+Description: Anonymously Reverse Shell over Tor using Hidden services w/out Portforwarding.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://mmmds.pl/clamav/
+Description: Fuzzing ClamAV with real malware samples.
+
+URL: https://www.kopenpgp.com/
+Description: Key Overwriting (KO) Attacks against OpenPGP.
+
+URL: https://secret.club/2022/05/11/fuzzing-solana.html
+More: https://secret.club/2022/05/11/fuzzing-solana-2.html
+Description: Earn $200K by fuzzing for a weekend.
+
+URL: https://labs.f-secure.com/blog/scheduled-task-tampering/
+Description: Scheduled Task Tampering.
+
+URL: https://saaramar.github.io/iBoot_firebloom/
+More: https://saaramar.github.io/iBoot_firebloom_type_desc/
+Description: Firebloom (iBoot) - Introduction and the type descriptor.
+
+URL: https://bit.ly/3yzdXNl (+)
+Description: Gone by others! Triggering a UAF in Firefox (CVE-2022-26381).
+
+URL: https://www.trustedsec.com/blog/diving-into-pre-created-computer-accounts/
+Description: Diving into pre-created computer accounts.
+
+URL: https://bit.ly/3Ne9fsf (+)
+Description: Certifried: Active Directory Domain Privilege Escalation (CVE-2022–26923).
+
+URL: https://bit.ly/3syTh4l (+)
+Description: F5 iControl REST Endpoint Auth Bypass Technical Deep Dive (CVE-2022-1388).
+
+URL: https://www.mitiga.io/blog/misconfiguration-hidden-dangers-cloud-control-plane
+Description: An Easy Misconfiguration to Make - Hidden Dangers in the Cloud Control Plane.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://libreboot.org/
+Description: Free your BIOS today!
+
+URL: https://xakcop.com/post/re-2.4ghz/
+Description: Reversing 2.4GHz remote control.
+
+URL: https://runyourown.social/
+Description: How to run a small social network site for your friends.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?7734433f19a530b5#I9FV+32+KFogDjBTepFuZYdbrbNxwDoDt/KddpueF3c=
