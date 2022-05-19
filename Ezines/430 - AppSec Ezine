@@ -97,6 +97,7 @@ URL: https://bit.ly/3Ne9fsf (+)
 Description: Certifried: Active Directory Domain Privilege Escalation (CVE-2022–26923).
 
 URL: https://bit.ly/3syTh4l (+)
+More: https://securityflow.io/how-i-could-exploit-the-cve-2022-1388/
 Description: F5 iControl REST Endpoint Auth Bypass Technical Deep Dive (CVE-2022-1388).
 
 URL: https://www.mitiga.io/blog/misconfiguration-hidden-dangers-cloud-control-plane
