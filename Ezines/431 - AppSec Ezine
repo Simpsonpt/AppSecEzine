@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 20 | Month: May | Year: 2022 | Release Date: 20/05/2022 | Edition: #431  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.stazot.com/stealing-google-drive-oauth-tokens-from-dropbox/
+Description: Stealing Google Drive OAuth tokens from Dropbox.
+
+URL: https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
+More: https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt2/ (pt3)
+Description: Cloudflare Pages - The fellowship and return of the secret, The two privescs.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Impact-I/reFlutter
+Description: Flutter Reverse Engineering Framework.
+
+URL: https://github.com/ngalongc/openapi_security_scanner
+Description: OpenAPI Security Scanner.
+
+URL: https://github.com/Pear1y/CVE-2022-26133
+Description: Atlassian Bitbucket Data Center RCE (CVE-2022-26133).
+
+URL: https://github.com/cilium/tetragon
+Blog: https://isovalent.com/blog/post/2022-05-16-tetragon
+Description: eBPF-based Security Observability and Runtime Enforcement.
+
+URL: https://github.com/Octoberfest7/DNS_Tunneling
+Description: DNS Tunneling using powershell to download and execute a payload.
+
+URL: https://github.com/gabriel-sztejnworcel/pipe-intercept
+Description: Intercept Windows Named Pipes communication using Burp or similar.
+
+URL: https://github.com/GeoSn0w/Pentagram-exploit-tester
+Description: A test app to check if your device is vulnerable to CVE-2021-30955.
+
+URL: https://www.sprocketsecurity.com/blog/how-to-bypass-mfa-all-day
+Description: Password spraying and MFA bypasses in the modern security landscape.
+
+URL: https://github.com/sailay1996/SpoolTrigger
+Description: Weaponizing for privileged file writes bugs with PrintNotify Service.
+
+URL: https://github.com/mandiant/heyserial
+Blog: https://www.mandiant.com/resources/hunting-deserialization-exploits
+Description: Programmatically create hunting rules for deserialization exploitation.
+
+URL: https://github.com/Metarget/k0otkit
+Description: Post-penetration technique to be used in penetrations against K8s clusters.
+
+URL: https://security-obscurity.blogspot.com/2022/05/exfiltrating-data-from-restricted.html
+Description: Exfiltrating data from a restricted Windows environment using DNS.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://ourmachinery.com/post/a-taxonomy-of-bugs/
+Description: A Taxonomy of Bugs.
+
+URL: https://diablohorn.com/2022/05/14/three-ways-to-hack-an-atm/
+Description: Three ways to hack an ATM.
+
+URL: https://bit.ly/3ltFmIW (+)
+Description: Compromising Angular via Expired npm Publisher Email Domains.
+
+URL: https://bit.ly/3NnZWGh (+)
+Description: RubyGems Critical CVE-2022-29176 Unauthorized Package Takeover.
+
+URL: https://captmeelo.com/redteam/maldev/2022/05/10/ntcreateuserprocess.html
+Description: Making NtCreateUserProcess Work.
+
+URL: https://evowizz.dev/blog/huawei-appgallery-vulnerability
+Description: Vulnerability in Huawei's AppGallery can download paid apps for free.
+
+URL: https://blog.ret2.io/2022/05/19/pwn2own-2021-parallels-desktop-exploit/
+Description: Exploiting an Unbounded memcpy in Parallels Desktop (Pwn2Own 2021).
+
+URL: https://klezvirus.github.io/RedTeaming/AV_Evasion/FromInjectionToHijacking/
+Description: From Process Injection to Function Hijacking.
+
+URL: https://pwn.win/2022/05/11/python-buffered-reader.html
+Description: Exploiting a Use-After-Free for code execution in every version of Python 3.
+
+URL: https://bit.ly/3wwuDnq (+)
+Description: macOS vuln. (powerdir) could lead to unauthz user data access. (CVE-2021-30970).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://rushter.com/blog/how-masscan-works/
+Description: How masscan works.
+
+URL: https://www.mathieupassenaud.fr/password-card/
+Description: Password Card - A safe idea for password management.
+
+URL: https://foundation.mozilla.org/en/privacynotincluded/
+Description: Be Smart. Shop Safe. (Mozilla - *privacy not included).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?35ecada8201293ee#02yQCM8eMNg3tgq8TPXdfk1QSvJDhxXpk4DIQCRGRTk=
