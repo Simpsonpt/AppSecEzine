@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 21 | Month: May | Year: 2022 | Release Date: 27/05/2022 | Edition: #432  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ysamm.com/?p=763
+Description: Multiple bugs chained to takeover Facebook Accounts which uses Gmail.
+
+URL: https://www.vidocsecurity.com/blog/hacking-swagger-ui-from-xss-to-account-takeovers/
+Description: Hacking Swagger-UI - from XSS to account takeovers.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://bit.ly/3PMmuCQ (+)
+Description: A low dive into Kerberos delegations.
+
+URL: https://github.com/lowleveldesign/comon
+Description: A WinDbg extension to trace COM interactions.
+
+URL: https://objectifsecurite.gitlab.io/tproxy/
+Description: TProxy is an interception proxy for TCP traffic.
+
+URL: https://github.com/QiuhaoLi/CVE-2021-3929-3947
+Paper: https://qiuhao.org/Matryoshka_Trap.pdf
+Description: VM escape PoC for CVE-2021-3929 and CVE-2021-3947.
+
+URL: https://github.com/improsec/SharpEventPersist
+Description: Persistence by writing/reading shellcode from Event Log.
+
+URL: https://github.com/sethvargo/ratchet
+Description: A tool for securing CI/CD workflows with version pinning.
+
+URL: https://github.com/theori-io/CVE-2022-26717-Safari-WebGL-Exploit
+Description: Safari WebGL XFB Use After Free Vulnerability (CVE-2022-26717).
+
+URL: https://github.com/sailay1996/CdpSvcLPE
+Description: Windows LPE via CdpSvc service (Writeable SYSTEM path DLL Hijacking).
+
+URL: https://github.com/lkarlslund/adalanche
+Description: Active Directory ACL Visualizer and Explorer - Who's really Domain Admin?
+
+URL: https://bit.ly/38k6fvK (+)
+Descxription: No-Fix Local Privilege Escalation Using KrbRelay With Shadow Credentials.
+
+URL: https://nstarke.github.io/eeprom/nic/2022/05/22/mac-address-changing-revisited.html
+Description: MAC Address Changing Revisited.
+
+URL: https://github.com/SysSec-KAIST/sigover_gen_sample
+Description: Signal overshadowing attack on the LTE broadcast signals in physical domain.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://dosxuz.gitlab.io/post/perunsfart/
+Description: API Unhooking with Perun's Fart.
+
+URL: https://itm4n.github.io/credential-guard-bypass/
+Description: Revisiting a Credential Guard Bypass
+
+URL: https://link.medium.com/gQ4YTzUObqb 
+Description: Wormhole Uninitialized Proxy Bugfix Review.
+
+URL: https://fail0verflow.com/blog/2022/ps4-psvr/
+Description: PS4 Aux Hax 5: Flawed Instructions Get Optimized
+
+URL: https://pulsesecurity.co.nz/articles/some-tailscale-tricks
+Description: A few Tailscale tricks for Security Testers.
+
+URL: https://bit.ly/3wS6G8J (+)
+Description: Competing in Pwn2Own 2021 Austin - Icarus at the Zenith.
+
+URL: https://bit.ly/3w9pkdf (+)
+Description: Reversing an Android App to Code Execution on their Server.
+
+URL: https://www.pnfsoftware.com/blog/reversing-simatic-s7-plc-programs/
+Description: Reversing Simatic S7 PLC Programs.
+
+URL: https://www.synacktiv.com/en/publications/the-printer-goes-brrrrr.html
+Tools: https://github.com/synacktiv/canon-mf644/
+Description: The printer goes brrrrr!!!
+
+URL: https://bit.ly/3wQtjul (+)
+Description: Local Privilege Escalation in Pritunl VPN Client (CVE-2022-25372).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://scorpiosoftware.net/2022/05/14/zombie-processes/
+Description: Zombie Processes.
+
+URL: https://github.com/dzhang314/YouTubeDrive
+Description: Store files as YouTube videos == infinite disk space.
+
+URL: https://bit.ly/3wMazNS (+)
+Description: Guidance for Choosing an Elliptic Curve Signature Algorithm in 2022.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?b0d8fc9e50d053ee#VEchuDg/mJXerNQM1kIIGsJXjaXX0VfYdz7zgWRsPB0=
