@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 22 | Month: June | Year: 2022 | Release Date: 03/06/2022 | Edition: #433  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.sonarsource.com/horde-webmail-rce-via-email/
+Description: Horde Webmail - Remote Code Execution via Email.
+
+URL: https://link.medium.com/si2m7mpEeqb 
+Description: Attacker can Steal Your PayPal Balance by One-Click.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/necreas1ng/VLANPWN
+Description: VLAN attacks toolkit.
+
+URL: https://github.com/ariary/notionterm
+Description: Embed reverse shell in Notion pages.
+
+URL: https://github.com/musana/mx-takeover
+Description: Tool to detect misconfigured MX records.
+
+URL: https://github.com/gamozolabs/mempeek
+Description: CLI to resembles a debugger as well as Cheat Engine.
+
+URL: https://github.com/MarginResearch/cannoli
+Blog: https://margin.re/blog/cannoli-the-fast-qemu-tracer.aspx
+Description: High-performance QEMU memory and instruction tracing.
+
+URL: https://github.com/JMousqueton/PoC-CVE-2022-30190
+More: https://github.com/chvancooten/follina.py
+Description: PoC for MS Office RCE aka msdt follina (CVE-2022-30190).
+
+URL: https://bit.ly/3Mejb4n (+)
+Description: Finding command execution sinks in decompiled JVM languages.
+
+URL: https://github.com/firefart/npmdomainchecker
+Description: Checks all maintainers of all NPM packages for hijackable domains.
+
+URL: https://github.com/hakivvi/ObjectPwnStream
+Description: Java deserialization (ObjectIn/OutputStream) exploitation Helper in Ruby.
+
+URL: https://github.com/ferreiraklet/Jeeves
+Description: Jeeves is made for looking to Time-Based Blind SQLInjection through recon.
+
+URL: https://github.com/ValtteriL/UPnProxyChain
+Blog: https://bit.ly/3xbpnpv (+)
+Description: A tool to create a SOCKS proxy server out of UPnProxy vulnerable device(s).
+
+URL: https://github.com/thefLink/DeepSleep
+Description: A variant of Gargoyle for x64 to hide memory artifacts using ROP only and PIC.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/RVCBzQFLtqb 
+Description: Pending Intents - A Pentester's view.
+
+URL: https://blockmagnates.com/rikkei-finance-hack/
+Description: Rikkei Finance (RiFi) Hack - Explained.
+
+URL: https://xairy.io/articles/syzkaller-external-network
+Description: Looking for Remote Code Execution bugs in the Linux kernel.
+
+URL: https://www.fortbridge.co.uk/research/mass-account-takeover-yunmai/
+Description: Mass Account Takeover in the Yunmai smart scale API.
+
+URL: https://pulsesecurity.co.nz/articles/dotnet-padding-oracles
+Description: Dotnet's default AES mode is vulnerable to padding oracle attacks.
+
+URL: https://link.medium.com/bmwWs2zJcqb 
+Description: The Kernel is Calling a Zero(day) Pointer CVE-2013-5065 - Ring Ring.
+
+URL: https://bit.ly/3GGNX4C (+)
+Description: Unpatched DNS Bug in Popular C Standard Library Putting IoT at Risk.
+
+URL: https://www.praetorian.com/blog/signing-and-encrypting-with-json-web-tokens/
+Description: Signing and Encrypting with JSON Web Tokens.
+
+URL: https://frycos.github.io/vulns4free/2022/05/24/security-code-audit-fails.html
+Description: Security Code Audit - For Fun and Fails.
+
+URL: https://bit.ly/36j4bDv (+)
+Description: Abusing Arbitrary File Deletes to Escalate Privilege and Other Great Tricks.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.mattkeeter.com/blog/2022-05-31-xmodem/
+Description: XMODEM in 2022.
+
+URL: https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade/
+Description: My upgrade to 25 Gbit/s Fiber To The Home.
+
+URL: https://markuta.com/magisk-root-detection-banking-apps/
+Description: Comparing root detection on banking apps with latest version of Magisk.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?b333......
