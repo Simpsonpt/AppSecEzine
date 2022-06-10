@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 23 | Month: June | Year: 2022 | Release Date: 10/06/2022 | Edition: #434  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/ftOSGKkZtqb 
+Description: From open redirect to RCE in one week.
+
+URL: https://bit.ly/3MCi2DQ (+)
+Description: Bypass CSP Using WordPress By Abusing Same Origin Method Execution.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Nefcore/CRLFsuite
+Description: Fast CRLF injection scanning tool.
+
+URL: https://csplite.com/csp320/
+Description: Content Security Policy bypasses List.
+
+URL: https://github.com/Idov31/Nidhogg
+Description: Nidhogg is a multi-functional rootkit for red teams.
+
+URL: https://github.com/ShutdownRepo/Exegol
+Description: Fully featured and community-driven hacking environment.
+
+URL: https://github.com/nickvourd/COM-Hunter
+Description: COM-hunter is a COM Hijacking persistnce tool written in C#.
+
+URL: https://github.com/reposaur/reposaur
+Description: Audit your GitHub data using custom policies written in Rego.
+
+URL: https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff/src/master/
+Description: Beating Google ReCaptcha and the funCaptcha using AWS Rekognition.
+
+URL: https://github.com/mhaskar/Octopus
+Description: Open source pre-operation C2 server based on python and powershell.
+
+URL: https://github.com/Summertime2022/credtester
+Description: CLI to test usernames and passwords for multiple Microsoft services.
+
+URL: http://0x90909090.blogspot.com/2016/06/creating-backdoor-in-pam-in-5-line-of.html
+Description: Creating a backdoor in PAM in 5 line of code.
+
+URL: https://github.com/hakluke/hakoriginfinder
+Description: Tool for discovering the origin host behind a reverse proxy (WAFs Bypass!).
+
+URL: https://github.com/cisagov/Malcolm
+Description: Network traffic analysis tool for full packet capture (PCAP files) and Zeek logs.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://emptydc.com/2022/06/08/windows-credential-dumping/
+Description: Windows Credential Dumping.
+
+URL: https://www.goggleheadedhacker.com/post/blackguard-analysis
+Description: BlackGuard Analysis - Deobfuscation Using Dnlib.
+
+URL: https://blog.doyensec.com/2022/06/09/apache-pinot-sqli-rce.html
+Description: Apache Pinot SQLi & RCE Cheat Sheet.
+
+URL: https://blogs.360.cn/post/CVE-2020-17140-Analysis.html
+Description: CVE-2020-17140 Windows SMB Information Disclosure Analysis.
+
+URL: https://bit.ly/3H6rP3X (+)
+Description: Practical bruteforce of AES-1024 military grade encryption.
+
+URL: https://blog.xilokar.info/firmware-key-extraction-by-gaining-el3.html
+Description: Firmware key extraction by gaining EL3.
+
+URL: https://www.huntress.com/blog/evicting-the-adversary
+Description: Evicting the Adversary (what to do once we catch the adversary).
+
+URL: https://security.humanativaspa.it/multiple-vulnerabilities-in-zyxel-zysh/
+Description: Multiple vulnerabilities in Zyxel zysh.
+
+URL: https://www.reversemode.com/2022/06/de-anonymization-attacks-against-proton.html
+Description: De-Anonymization attacks against Proton services.
+
+URL: https://bit.ly/3Houvu1 (+)
+Description: A New Exploit Method for CVE-2021-3560 PolicyKit Linux Privilege Escalation.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://dev.to/stripe/ultrasonic-payments-2958
+Description: Ultrasonic payments.
+
+URL: https://www.nojones.net/posts/breaking-into-cloudsec
+Description: Breaking Into Cloud Security.
+
+URL: https://nedbatchelder.com/blog/202206/adding_a_dunder_to_an_object.html
+Description: Adding a dunder to an object (track attributes changes).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+http://pathonproject.com/zb/?b333......
