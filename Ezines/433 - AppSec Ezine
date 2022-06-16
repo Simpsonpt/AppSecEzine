@@ -43,7 +43,7 @@ Blog: https://margin.re/blog/cannoli-the-fast-qemu-tracer.aspx
 Description: High-performance QEMU memory and instruction tracing.
 
 URL: https://github.com/JMousqueton/PoC-CVE-2022-30190
-More: https://github.com/chvancooten/follina.py
+More: https://github.com/chvancooten/follina.py | https://paper.seebug.org/1914/
 Description: PoC for MS Office RCE aka msdt follina (CVE-2022-30190).
 
 URL: https://bit.ly/3Mejb4n (+)
