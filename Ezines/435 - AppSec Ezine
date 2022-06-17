@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 24 | Month: June | Year: 2022 | Release Date: 17/06/2022 | Edition: #435  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://portswigger.net/research/bypassing-csp-with-dangling-iframes
+Description: Bypassing CSP with dangling iframes.
+
+URL: https://hackerone.com/reports/1379975
+Description: PS3-PS5 bd-j exploit chain (Blu-ray Disc Java Sandbox Escape).
+
+URL: https://bit.ly/3xY9LGn (+)
+Description: How I found a Critical Bug in Instagram and Got 49.5k Bounty From Facebook.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/sim0n/Caesium
+Description: A Java bytecode obfuscator.
+
+URL: https://github.com/WhiteBeamSec/WhiteBeam
+Description: WhiteBeam - Transparent endpoint security.
+
+URL: https://github.com/lifting-bits/rellic
+Description: Rellic produces goto-free C output from LLVM bitcode.
+
+URL: https://github.com/aaronsvk/CVE-2022-30075
+Description: TP-Link Archer AX50 Authenticated RCE (CVE-2022-30075).
+
+URL: https://github.com/ariary/Dogwalk-rce-poc
+Description: Dogwalk PoC - Using diagcab file to obtain RCE on windows.
+
+URL: https://github.com/HyperDbg/HyperDbg
+Blog: https://rayanfam.com/topics/hyperdbg-one-thousand-and-one-nights/
+Description: The Source Code of HyperDbg Debugger.
+
+URL: https://github.com/tasooshi/exfilkit
+Description: Data exfiltration utility for testing detection capabilities.
+
+URL: https://github.com/tr3ee/CVE-2022-23222
+Description: Linux Kernel eBPF Local Privilege Escalation (CVE-2022-23222).
+
+URL: https://github.com/pedrib/PoC/blob/master/tools/mikrotik_jailbreak.py
+Description: Universal "unpatchable" jailbreak for all MikroTik RouterOS versions.
+
+URL: https://github.com/pwn1sher/frostbyte
+Description: Dump for different defense evasion techniques to build better redteam payloads.
+
+URL: https://www.x86matthew.com/view_post?id=proc_env_injection
+Description: ProcEnvInjection - Remote code injection by abusing process environment strings.
+
+URL: https://yaraify.abuse.ch/
+Description: Scan files (mal. samples or proc dumps) against a large repository of YARA rules.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bit.ly/3xvREpx (+)
+Description: Enumeration and lateral movement in GCP environments.
+
+URL: https://lolcads.github.io/posts/2022/06/dirty_pipe_cve_2022_0847/
+Description: Exploration of the Dirty Pipe Vulnerability (CVE-2022-0847).
+
+URL: https://pacmanattack.com/
+Description: Attacking ARM Pointer Authentication with Speculative Execution.
+
+URL: https://bit.ly/3QpDQFI (+)
+Description: Breaking Secure Boot on Google Nest Hub (2nd Gen) to run Ubuntu.
+
+URL: https://microsoftedge.github.io/edgevr/posts/a-story-of-a-bug-found-fuzzing/
+Description: A Story of a Bug Found Fuzzing (Browser Fuzzing).
+
+URL: https://marcoramilli.com/2022/06/15/running-shellcode-through-windows-callbacks/
+Description: Running Shellcode Through Windows Callbacks.
+
+URL: https://www.hertzbleed.com/
+Description: Hertzbleed is a new family of side-channel attacks: frequency side channels.
+
+URL: https://bit.ly/3b7Yr12 (+)
+Description: How SeaFlower backdoor in iOS/Android web3 wallets to steal your seed phrase.
+
+URL: https://haxatron.gitbook.io/vulnerability-research/vr2
+Description: Finding vulnerabilities in curl 7.83.0 without reading a single-line of C code.
+
+URL: https://mr-r3bot.github.io/research/2022/06/06/Confluence-Preauth-RCE-2022.html
+Description: A look into bypass isSafeExpression check in Confluence Preauth RCE (CVE-2022-26134).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/sensity-ai/dot
+Description: The Deepfake Offensive Toolkit.
+
+URL: https://tailscale.com/blog/how-nat-traversal-works/
+Description: How NAT traversal works.
+
+URL: https://elegantnetwork.github.io/posts/comparing-open-source-bgp-stacks/
+Description: Comparing Open Source BGP Stacks.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?01ed708654f8086d#1TzuE7BMrpzYqHJVboPuVOP2/kXM4hSnawN/qyJcttQ=
