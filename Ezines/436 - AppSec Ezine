@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 25 | Month: June | Year: 2022 | Release Date: 24/06/2022 | Edition: #436  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://webs3c.com/t/csrf-leads-to-account-takeover-in-yahoo/93
+Description: CSRF leads to account takeover in Yahoo!
+
+URL: https://bit.ly/3bjOca4 (+)
+Description: Zimbra Email - Stealing Clear-Text Credentials via Memcache injection.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Huntinex/rauton
+Description: Advanced Bug Bounty Recon Tools.
+
+URL: https://link.medium.com/XQn2ZaO72qb 
+Description: Intercepting MS Teams Communication.
+
+URL: https://github.com/lucky-luk3/Grafiki
+Description: Threat Hunting tool about Sysmon and graphs.
+
+URL: https://malicious.link/post/2022/blocking-iso-mounting/
+Description: Blocking ISO mounting (Blue Team).
+
+URL: https://github.com/clj-holmes/clj-holmes
+Description: A CLI SAST tool to find vulnerable Clojure code.
+
+URL: https://github.com/bahruzjabiyev/t-reqs
+Description: Grammar-based HTTP/1 fuzzer with mutation ability.
+
+URL: https://github.com/omair2084/CVE-2022-26937
+Description: Windows Network File System Crash PoC (CVE-2022-26937).
+
+URL: https://github.com/KINGSABRI/goCabrito
+Description: Super organized and flexible script for sending phishing campaigns.
+
+URL: https://github.com/PiRogueToolSuite/
+Description: Comprehensive mobile forensic and network traffic analysis platform.
+
+URL: https://github.com/Azure/aztfy
+Description: A tool to bring existing Azure resources under Terraform's management.
+
+URL: https://github.com/m417z/Multiline-Ultimate-Assembler
+Description: A multiline assembler (and disassembler) plugin for x64dbg and OllyDbg.
+
+URL: https://github.com/Wh04m1001/DFSCoerce
+Description: PoC for MS-DFSNM coerce authentication using NetrDfsRemoveStdRoot method.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://certitude.consulting/blog/en/invisible-backdoor/
+Description: The Invisible JavaScript Backdoor.
+
+URL: https://www.binarly.io/posts/Attacking_(pre)EFI_Ecosystem/
+Description: Attacking (pre)EFI Ecosystem (CVE‑2021‑0144).
+
+URL: https://blog.trailofbits.com/2022/06/21/are-blockchains-decentralized/
+Description: Are blockchains decentralized?
+
+URL: https://blog.assetnote.io/2022/06/09/whatsup-gold-exploit/
+Description: Chaining vulnerabilities to criticality in Progress WhatsUp Gold.
+
+URL: https://bit.ly/3tO7ivB (+)
+Description: Amazon Linux "log4j hotpatch" <1.3-5 LPE to root (race condition).
+
+URL: https://www.willsroot.io/2022/01/cve-2022-0185.html
+Description: Pwning Ubuntu and Escaping Google's KCTF Containers (CVE-2022-0185).
+
+URL: https://frycos.github.io/vulns4free/2022/06/17/yet-another-rpc-framework.html
+Description: SmarterStats - Yet Another RPC Framework (Pre-Auth RCE and more).
+
+URL: https://timing.attacks.cr.yp.to/index.html
+Description: Website to know what timing attacks can do and how to protect against them.
+
+URL: https://bit.ly/3NdZ4DE (+)
+Description: Reaching Vulnerable Point starting from 0 Knowledge on RPC (CVE-2022-26809).
+
+URL: https://eaton-works.com/2022/06/20/hacking-into-the-worldwide-jacuzzi-smarttub-network/
+Description: Hacking into the worldwide Jacuzzi SmartTub network.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://ifuckinghatejira.com/
+Description: I fucking hate Jira.
+
+URL: https://ooni.org/post/2022-quick-look-quic-censorship/
+Description: A Quick Look at QUIC Censorship.
+
+URL: https://github.com/kraanzu/dooit
+Description: A todo manager that you didn't ask for, but needed!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?8ba340c7579a19f2#D/CabsElQwOJPEyD6qvo52z4VXquoBe1Nzak9iUDrHM=
