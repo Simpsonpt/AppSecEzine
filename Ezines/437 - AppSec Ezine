@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 26 | Month: July | Year: 2022 | Release Date: 01/07/2022 | Edition: #437  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://portswigger.net/research/widespread-prototype-pollution-gadgets
+Description: Widespread prototype pollution gadgets.
+
+URL: https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day/
+Description: Unrar Path Traversal Vulnerability affects Zimbra Mail (CVE-2022-30333).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/secmode/TrelloC2
+Description: Simple C2 over the Trello API.
+
+URL: https://github.com/authcov/authcov
+Description: Web app authorisation coverage scanning.
+
+URL: https://github.com/SunWeb3Sec/DeFiHackLabs
+Description: Reproduce DeFi hack incidents using Foundry.
+
+URL: https://github.com/mrd0x/WebView2-Cookie-Stealer
+Blog: https://mrd0x.com/attacking-with-webview2-applications
+Description: Attacking With WebView2 Applications.
+
+URL: https://blog.christophetd.fr/abusing-cloudflare-workers/
+Description: MitM at the Edge - Abusing Cloudflare Workers.
+
+URL: https://github.com/frkngksl/HintInject
+Description: PoC project for embedding shellcode to Hint/Name Table.
+
+URL: https://github.com/4ra1n/CVE-2022-32532
+Description: Apache Shiro - RegExPatternMatcher Bypass (CVE-2022-32532).
+
+URL: https://pyn3rd.github.io/2022/06/29/Amazon-Redshift-JDBC-Driver-Trick/
+Description: Amazon Redshift JDBC Driver Trick.
+
+URL: https://github.com/kleiton0x00/Shelltropy
+Description: A technique of hiding malicious shellcode via Shannon encoding.
+
+URL: https://github.com/zeronetworks/rpcfirewall
+Blog: https://zeronetworks.com/blog/stopping_lateral_movement_via_the_rpc_firewall/
+Description: Remote procedure call (RPC) Firewall.
+
+URL: https://github.com/optiv/Mangle
+Description: Manipulate compiled executables (.exe or DLL) to avoid detection from EDRs.
+
+URL: https://github.com/quarkslab/tpmee
+Description: TPMEavesEmu helps exploit weak implementation of libs or program that used TPM.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/Esso4dWL5qb 
+Description: Miracle - One Vulnerability To Rule Them All.
+
+URL: https://pauley.me/post/2022/secure-cloud-decomissioning/
+Description: Securing Cloud Services against Squatting Attacks.
+
+URL: https://www.form3.tech/engineering/content/bypassing-ebpf-tools
+Description: Bypassing eBPF-based Security Enforcement Tools.
+
+URL: https://phoenix-sec.io/2022/06/17/Zena-CookieMonsteRCE.html
+Description: CookieMonsteRCE - XSS to RCE Exploitation in Zena 4.2.1.
+
+URL: https://bit.ly/3ntq8V1 (+)
+Description: Bitdefender AV link-following bugs (CVE-2021-4198/4199) analysis.
+
+URL: https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/
+Description: Zyxel firmware extraction and password analysis.
+
+URL: https://bit.ly/3IcZY2v (+)
+Description: "ExtraReplica" - a cross-account database vulnerability in Azure PostgreSQL.
+
+URL: https://blog.protekkt.com/blog/basic-webassembly-buffer-overflow-exploitation-example
+Description: Basic WebAssembly buffer overflow exploitation.
+
+URL: https://www.horizon3.ai/red-team-blog-cve-2022-28219/
+Description: Unauth XXE to RCE and Domain Compromise in ManageEngine ADAudit+ (CVE-2022-28219).
+
+URL: https://www.iot-inspector.com/blog/advisory-cisco-rv340-dual-wan-gigabit-vpn-router-rce-over-lan/
+Description: Advisory - Cisco RV340 Dual WAN Gigabit VPN Router (RCE over LAN).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/girliemac/a-picture-is-worth-a-1000-words
+Description: I am trying to describe complex matters in simple doodles!
+
+URL: https://github.com/snoopysecurity/Vulnerable-Code-Snippets
+Description: A collection of vulnerable code snippets taken from around the internet.
+
+URL: https://github.com/RoganDawes/esphome
+Description: Control your ESP8266/ESP32 via config files and control through Home Automation systems.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?ead1322e1b67e8f9#Jj6Fmrz1pKQ7q6uwQV8Uhiwnyv0UD1/Cg4ZPj2vq5U8=
