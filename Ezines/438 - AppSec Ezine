@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 27 | Month: July | Year: 2022 | Release Date: 08/07/2022 | Edition: #438  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3usrCTl (+)
+Description: Account hijacking using "dirty dancing" in sign-in OAuth-flows.
+
+URL: https://hackerone.com/reports/1516377
+Description: SMTP Command Injection in iCalendar Attachments to Emails via Newlines.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/D3Ext/WEF
+Description: Wi-Fi Exploitation Framework.
+
+URL: https://github.com/aeyesec/CVE-2022-34265
+Description: Django SQLi PoC (CVE-2022-34265).
+
+URL: https://github.com/citronneur/pamspy
+Description: Credentials Dumper for Linux using eBPF.
+
+URL: https://github.com/mandiant/route-sixty-sink
+Description: Link sources to sinks in C# applications.
+
+URL: https://github.com/romainthomas/the-poor-mans-obfuscator
+Description: "The Poor Man's Obfuscator" Helpers.
+
+URL: https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html
+Description: macOS - App sandboxing via sandbox-exec.
+
+URL: https://github.com/xnl-h4ck3r/waymore
+Description: Find even more links from the Wayback Machine than other existing tools.
+
+URL: https://github.com/mrexodia/JitMagic
+Description: Simple tool that allows you to have multiple Just-In-Time debuggers at once.
+
+URL: https://raesene.github.io/blog/2022/07/03/lets-talk-about-kubernetes-on-the-internet/
+Description: Let's talk about Kubernetes on the Internet.
+
+URL: https://github.com/h3xduck/TripleCross
+Description: Linux eBPF rootkit with a backdoor, C2, lib injection, exec hijacking and more.
+
+URL: https://www.sigidwiki.com/wiki/Signal_Identification_Guide
+Description: Wiki to help identify radio signals through example sounds and waterfall images.
+
+URL: https://github.com/warhorse/warhorse
+Description: Fully-featured Ansible playbook to deploy infrastructure for security assessments.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://sam4k.com/like-techniques-modprobe_path/
+Description: LiKE Techniques - modprobe_path.
+
+URL: https://www.semperis.com/blog/a-diamond-ticket-in-the-ruff/
+Description: A Diamond (Ticket) in the Ruff.
+
+URL: https://bit.ly/3bY95YX (+)
+Description: Bonitasoft Authorization Bypass and RCE (CVE-2022-25237).
+
+URL: https://www.mdsec.co.uk/2022/07/altiris-methods-for-lateral-movement/
+Tool: https://github.com/mdsecactivebreach/SharpAltiris
+Description: Altiris Methods for Lateral Movement.
+
+URL: https://labs.withsecure.com/blog/spoofing-call-stacks-to-confuse-edrs/
+Description: Spoofing Call Stacks To Confuse EDRs.
+
+URL: https://mirror.xyz/pwning.eth/okyEG4lahAuR81IMabYL5aUdvAsZ8cRCbYBXh8RHFuE
+Description: How to Steal $100M from Flawless Smart Contracts.
+
+URL: https://blog.sonarsource.com/path-traversal-vulnerabilities-in-icinga-web/
+Description: Path Traversal Vulnerabilities in Icinga Web.
+
+URL: https://connormcgarr.github.io/hvci/
+Description: No Code Execution? No Problem! Living The Age of VBS, HVCI, and Kernel CFG.
+
+URL: https://blog.coffinsec.com/research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html
+Description: nday exploit - netgear orbi unauthenticated command injection (cve-2020-27861).
+
+URL: https://codewhitesec.blogspot.com/2022/06/bypassing-dotnet-serialization-binders.html
+Description: Bypassing .NET Serialization Binders (CVE-2022-28684/CVE-2022-23277).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/infracost/vscode-infracost
+Description: See cost estimates for Terraform right in your editor.
+
+URL: https://vole.wtf/scunthorpe-sans/
+Description: A s*** font that f***ing censors bad language automatically.
+
+URL: https://github.com/riskscanner/riskscanner
+Description: Open source multi-cloud security compliance scanning platform.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?3cb2d514c9c6ee96#ju+7C9ZPQ8fxG5Zk+qoQ8UJO73TMxoj/NggHRw9j8Zk=
