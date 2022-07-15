@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 28 | Month: July | Year: 2022 | Release Date: 15/07/2022 | Edition: #439  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/uaTLdVChDrb 
+Description: Microsoft Azure Site Recovery DLL Hijacking (CVE-2022-33675).
+
+URL: https://blog.assetnote.io/2022/06/26/exploiting-ssrf-in-jira/
+Description: Abusing functionality to exploit a super SSRF in Jira Server (CVE-2022-26135).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Fyyre/DrvMon
+Description: Advanced driver monitoring utility.
+
+URL: https://github.com/trustedsec/SliverKeylogger
+Description: Sliver Keylogger.
+
+URL: https://github.com/rpp0/emma
+Description: ElectroMagnetic Mining Array (EMMA).
+
+URL: https://github.com/pathtofile/bpf-hookdetect
+Description: Detect syscall hooking using eBPF.
+
+URL: https://github.com/puckblush/tofu
+Description: Windows offline filesystem hacking tool for Linux.
+
+URL: https://github.com/winterknife/PINKPANTHER
+Description: Windows x64 handcrafted token stealing kernel-mode shellcode.
+
+URL: https://github.com/nicholasaleks/CrackQL
+Description: CrackQL is a GraphQL password brute-force and fuzzing utility.
+
+URL: https://github.com/F6JO/RouteVulScan
+Description: Burp plugin for recursive passive detection of vulnerable paths.
+
+URL: https://github.com/t3l3machus/psudohash
+Description: Password generator based on keywords and commonly used creation patterns.
+
+URL: https://github.com/zhuowei/PCICrash
+Blog: https://worthdoingbadly.com/coretrust/
+Description: PCIDriverKit PoC for CVE-2022-26763 (exec arbitrary code w/ system privileges).
+
+URL: https://github.com/kubesphere/kubeeye
+Description: Find various problems on Kubernetes (misconfigs, unhealthy components and more).
+
+URL: https://github.com/GhostPack/Koh
+Blog: https://posts.specterops.io/koh-the-token-stealer-41ca07a40ed6
+Description: BOF toolset to capture of user credential material via token/logon session leakage.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/O2EKkLtftrb 
+Description: Synthetix Logic Error Bugfix Review.
+
+URL: https://www.praetorian.com/blog/relaying-to-adfs-attacks/
+Description: Relaying to ADFS Attacks.
+
+URL: http://noahblog.360.cn/apache-httpd-ajp-request-smuggling/
+Description: Apache HTTPd AJP Request Smuggling (CVE-2022-26377).
+
+URL: https://bit.ly/3o0f16z (+)
+Description: Hacking an AWS hosted Kubernetes backed product, and failing.
+
+URL: https://snyk.io/blog/under-the-c-vulnerabilities-in-python/
+Description: Under the C - A glance at C/C++ vulnerabilities in Python land.
+
+URL: https://github.blog/2022-06-16-the-android-kernel-mitigations-obstacle-race/
+Description: The Android kernel mitigations obstacle race (CVE-2022-22057).
+
+URL: https://www.cossacklabs.com/blog/cryptographic-failures-in-rf-encryption/
+Description: Cryptographic failures in RF encryption allow stealing robotic devices.
+
+URL: https://swarm.ptsecurity.com/exploiting-arbitrary-object-instantiations/
+Description: Exploiting Arbitrary Object Instantiations in PHP without Custom Classes.
+
+URL: https://xairy.io/articles/cve-2016-2384
+Description: Exploiting a double-free in the Linux kernel USB MIDI driver (CVE-2016-2384).
+
+URL: https://bit.ly/3ARDHpk (+)
+Description: Uncovering a macOS App Sandbox escape vulnerability - A deep dive into CVE-2022-26706.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/Spotifyd/spotifyd
+Description: An open source Spotify client running as a UNIX daemon.
+
+URL: https://github.com/ortegaalfredo/blockchainbay
+Description: Torrent distribution tool hosted on a EVM-compatible blockchain.
+
+URL: https://fresh-eggs.github.io/xband_post.html
+Description: Exploring the XBAND Video Game Modem and Exec Arbitrary Code Over a Phone Line in 2022.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?389d06525b36fda0#3Flt3PW7/sT7iwUOH55xeYkvfVztP2SI4MpcAygBRpE=
