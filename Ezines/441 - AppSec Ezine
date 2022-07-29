@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 30 | Month: July | Year: 2022 | Release Date: 29/07/2022 | Edition: #441  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/2UADv3uTCrb 
+Description: Microsoft Teams  -  Cross Site Scripting (XSS) Bypass CSP (CVE-2021–24114).
+
+URL: https://www.vulnano.com/2022/07/react-debugkeystore-key-was-trusted-by.html
+Description: Instagram account takeover by malicious apps via React debug.keystore key.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/InitRoot/wodat
+Description: Windows Oracle Database Attack Toolkit.
+
+URL: https://github.com/shipcod3/canTot
+Description: Quick and dirty canbus h4xing framework.
+
+URL: https://github.com/trickest/mkpath
+Description: Make URL path combinations using a wordlist.
+
+URL: https://github.com/ossillate-inc/packj
+Description: Vetting tool to detect malicious/risky open-source packages.
+
+URL: https://github.com/t3l3machus/hoaxshell
+Description: An unconventional Windows reverse shell, currently undetected.
+
+URL: https://github.com/DavidBuchanan314/dlinject
+Description: Inject a shared library into a live linux process, without ptrace.
+
+URL: https://github.com/ergrelet/unlicense
+Description: Dynamic unpacker and import fixer for Themida/WinLicense 2.x and 3.x.
+
+URL: https://gitea.osmocom.org/sim-card/pysim
+Description: Python libs and CLIs for SIM/UICC/USIM/ISIM card analysis and programming. 
+
+URL: https://www.x86matthew.com/view_post?id=embed_exe_reg
+Description: EmbedExeReg - Embedding an EXE inside a .REG file with automatic execution.
+
+URL: https://github.com/codewhitesec/Lastenzug
+Description: Socks4a proxy leveraging PIC, Websockets and static obfuscation on assembly.
+
+URL: https://github.com/diversenok/TokenUniverse
+Description: An advanced tool for working with access tokens and Windows security policy.
+
+URL: https://bit.ly/3Q1yPSN (+)
+Description: Objective-C .dylib Reverse Engineering "gigavaxxed" with Binary Ninja & LLDB.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/8XCVBSc01rb 
+Description: Moonbeam Missing Call Check Bugfix Review.
+
+URL: https://link.medium.com/9BKQXrUl0rb 
+Description: Careful Who You Colab With - Abusing Google Colaboratory.
+
+URL: https://voidsec.com/browser-exploitation-firefox-cve-2011-2371/
+Description: Browser Exploitation - Firefox Integer Overflow (CVE-2011-2371).
+
+URL: https://github.blog/2022-07-27-corrupting-memory-without-memory-corruption/
+Description: Corrupting memory without memory corruption (CVE-2022-20186).
+
+URL: https://0x1337.ninja/2022/07/19/mybb-0day-authenticated-remote-code-execution/
+Description: MyBB 0day Authenticated Remote code execution.
+
+URL: https://bit.ly/3zFNU7i (+)
+Description: Common Security Vulns in Core AWS Services - Exploitation and Mitigation.
+
+URL: https://jhftss.github.io/CVE-2022-26712-The-POC-For-SIP-Bypass-Is-Even-Tweetable/
+Description: CVE-2022-26712 - The POC for SIP-Bypass Is Even Tweetable.
+
+URL: https://syst3mfailure.io/ret2dl_resolve
+Description: Ret2dl_resolve x64 - Exploiting Dynamic Linking Procedure In x64 ELF Binaries.
+
+URL: https://tech-blog.cymetrics.io/en/posts/huli/erpnext-ssrf-and-xss-to-account-takeover/
+Description: SSRF and Account Takeover via XSS in ERPNext.
+
+URL: https://bit.ly/3JgZ3Pg (+)
+Description: Hunting For Mass Assignment Vulnerabilities Using GitHub CodeSearch and grep.app.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/nlitsme/HACKTIC_demon_dialer
+Description: The hacktic demon dialer, from 1991.
+
+URL: https://galmon.eu/
+Description: Galileo/GPS/BeiDou/Glonass open source monitor.
+
+URL: https://sso.tax/
+Description: A list of vendors that treat single sign-on as a luxury feature.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?89b7c4f50ef4520e#oBEbkW/G1btX+zgB72J1B/BrqsbwdHdzxluGWjFiKho=
