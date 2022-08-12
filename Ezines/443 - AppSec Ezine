@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 32 | Month: August | Year: 2022 | Release Date: 12/08/2022 | Edition: #443  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.adico.me/post/xss-in-gmail-s-amp4email
+Description: XSS in Gmail's Amp4Email.
+
+URL: https://hackerone.com/reports/743953
+Description: Steal private objects of other projects via project import (GitLab BBP).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://www.timdbg.com/posts/symbol-indexing/
+Description: Symbol and Binary Indexing.
+
+URL: https://github.com/Gui774ume/krie
+Description: Linux Kernel Runtime Integrity with eBPF.
+
+URL: https://github.com/thomasareed/pict
+Description: PICT - Post-Infection Collection Toolkit.
+
+URL: https://github.com/CoolerVoid/codewarrior
+Description: Code searching tool and static code analysis.
+
+URL: https://n1ght-w0lf.github.io/tutorials/yara-for-config-extraction/
+Description: YARA for config extraction.
+
+URL: https://github.com/nullt3r/jfscan
+Description: Super fast port scanning & service discovery using Masscan and Nmap.
+
+URL: https://github.com/veritas501/CVE-2022-34918
+Description: netfilter nf_tables Local Privilege Escalation PoC (CVE-2022-34918).
+
+URL: https://github.com/rad9800/TamperingSyscalls
+Blog: https://fool.ish.wtf/2022/08/tamperingsyscalls.html
+Description: Argument spoofing and syscall retrival which both abuse EH to subvert EDRs.
+
+URL: https://github.com/d4rckh/gorilla
+Description: Tool for generating wordlists or extending an existing one using mutations.
+
+URL: https://github.com/zeronetworks/BlueHound
+Description: Tool that helps blue teams pinpoint the security issues that actually matter.
+
+URL: https://github.com/SysSec-KAIST/DoLTEst
+Description: Tool to find non-standard-compliant bugs in LTE protocol implementations of UEs.
+
+URL: https://github.com/NetSPI/Powerhuntshares
+Blog: https://bit.ly/3QEK9Vt (+)
+Description: Tool to inventory, analyze, and report excessive privs configured on AD Domains.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.kristovatlas.com/auditing-crypto-wallets/
+Description: Auditing Crypto Wallets.
+
+URL: https://www.signal-labs.com/blog/fuzzing-wechats-wxam-parser
+Description: Fuzzing WeChat’s Wxam Parser.
+
+URL: https://xz.aliyun.com/t/11600
+Description: Apache CloudStack SAML XXE Injection (CVE-2022-35741).
+
+URL: https://mgeeky.tech/backdooring-office-structures-part-1-oldschool/
+More: https://mgeeky.tech/payload-crumbs-in-custom-parts/
+Description: Backdooring Office Structures.
+
+URL: https://bit.ly/3bQpU8r (+)
+Description: Exploiting Google SLO Generator with Python YAML Deserialization Attack.
+
+URL: https://bit.ly/3zVPGAi (+)
+Description: GLPI Service Management Software Multiple Vulns and Remote Code Execution.
+
+URL: https://saza.re/posts/context_hijack/
+More: https://saza.re/posts/exception_hijack/
+Description: Implementing control flow obfuscation by abusing elementary windows mechanisms.
+
+URL: https://blog.coffinsec.com/nday/2022/08/04/CVE-2022-1215-libinput-fmt-canary-leak.html
+Description: nday exploit - libinput format string bug, canary leak exploit (cve-2022-1215).
+
+URL: https://blog.haboob.sa/blog/cve-2019-13764-from-root-cause-to-bash
+Description: From Root-Cause to BASH - Type confusion in JS in Google Chrome (CVE-2019-13764).
+
+URL: https://bit.ly/3QDjOXA (+)
+Description: iOS Instagram and FB can track anything you do on any site in their in-app browser.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://erfur.github.io/2022/07/16/mysterypi-frida-pt1.html
+More: https://erfur.github.io/2022/08/08/mysterypi-frida-pt2.html
+Description: Adding new features to an old game with Frida.
+
+URL: https://github.com/dewberryants/asciiMol
+Description: Curses based ASCII molecule viewer for linux terminals.
+
+URL: https://diskmag.conspiracy.hu/
+Description: 8 disk magazines from the 90s, readable from the browser!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?4dada27dd7eccce3#JoCiX8HWo7E568bbUHL4gKZTXVYL3SKum4iSG0QW/5g=
