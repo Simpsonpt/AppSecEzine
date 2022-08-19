@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 33 | Month: August | Year: 2022 | Release Date: 19/08/2022 | Edition: #444  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.electrovolt.io/posts/discord-rce/
+Description: Discord Desktop - Remote Code Execution.
+
+URL: https://bit.ly/3Cf7ngU (+)
+Description: Mail Server Misconfig leads to sending a fax from anyone's account on HelloFax.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/in9uz/VLANPWN
+Description: VLAN attacks toolkit.
+
+URL: https://github.com/fasferraz/gtp_dialer
+Description: GTPv1/GTPv2 Dialer.
+
+URL: https://github.com/aahmad097/ZoomPersistence
+Description: Zoom Persistence Aggressor and Handler.
+
+URL: https://github.com/iilegacyyii/ExportDumper
+Description: Tool to dump the export table of PE files.
+
+URL: https://github.com/dozernz/bugstropics
+Description: Script to calculate the Aruba support password.
+
+URL: https://github.com/webarx-security/wpbullet
+Description: A static code analysis for WordPress (and PHP).
+
+URL: https://github.com/mandiant/capa
+Blog: https://www.mandiant.com/resources/blog/capa-v4-casting-wider-net
+Description: Tool to identify capabilities in executable files.
+
+URL: https://github.com/infobyte/cve-2022-27255
+Description: Realtek eCos SDK SIP ALG Buffer Overflow PoC (CVE-2022-27255).
+
+URL: https://github.com/Qazeer/FarsightAD
+Description: PS to help uncovering (eventual) AD persistence mechanisms (DFIR).
+
+URL: https://hijacklibs.net/
+Blog: https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows
+Description: Project for tracking publicly disclosed DLL Hijacking opportunities. 
+
+URL: https://fare9.github.io/KUNAI-static-analyzer/
+Description: Static analysis tool for different binary file formats and architectures.
+
+URL: https://github.com/Flangvik/TeamFiltration
+Description: Framework for enumerating/spraying/exfiltrating/backdooring O365 AAD accounts.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://v-v.space/2022/08/11/CVE-2022-35804/
+Description: SMB Remote Code Execution (CVE-2022-35804).
+
+URL: https://programmingwithstyle.com/posts/howihackedmycar/
+More: https://programmingwithstyle.com/posts/howihackedmycarpart2/ (...part3)
+Description: How I Hacked my Car (Series).
+
+URL: https://raesene.github.io/blog/2022/08/14/auditing-rbac-redux/
+Description: Auditing RBAC - Redux.
+
+URL: https://blog.ret2.io/2022/08/17/macos-dblmap-kernel-exploitation/
+Description: Using the HIB segment to bypass KASLR on x86-based macOS.
+
+URL: https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html
+Description: Attacking Titan M with Only One Byte.
+
+URL: https://link.medium.com/EHIO1kMDAsb 
+Description: Lock Screen Bypass Exploit of Android Devices (CVE-2022–20006).
+
+URL: https://bit.ly/3wd3sgA (+)
+PoC: https://github.com/sourceincite/hekate/
+Description: Infiltrating VMWare Workspace ONE Access Using a 0-Click Exploit.
+
+URL: https://swarm.ptsecurity.com/discovering-domains-via-timing-attack/
+Description: Discovering Domains via a Timing Attack on Certificate Transparency.
+
+URL: https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities
+Description: PostgreSQL vulnerabilities affect multiple cloud vendors.
+
+URL: https://spaceraccoon.dev/exploiting-icalendar-properties-enterprise-applications/
+Description: You Have One New Appwntment - Exploiting iCalendar Properties in Enterprise Apps.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/moyix/fauxpilot
+Description: FauxPilot - an open-source GitHub Copilot server.
+
+URL: https://revs.bbcelite.com/
+Description: Fully documented source code for Revs on the BBC Micro.
+
+URL: https://gitlab.com/BenWiser/python-live-gui
+Description: A simple python immediate mode gui that renders out to the Web.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?3862cb5b0bb9a034#JBNeZXEBeaL95r4ZUREmhNjMa/yoeSnooy9X95EW2Lk=
