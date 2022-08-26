@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 34 | Month: August | Year: 2022 | Release Date: 26/08/2022 | Edition: #445  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3AIEx7j (+)
+Description: Critical Local File Read in Asana Electron Desktop App.
+
+URL: https://portswigger.net/research/browser-powered-desync-attacks
+Description: Browser-Powered Desync Attacks - A New Frontier in HTTP Request Smuggling.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/blacklanternsecurity/bbot
+Description: OSINT automation for hackers.
+
+URL: https://crypt0ace.github.io/posts/DLL-Sideloading/
+Description: Guide to DLL Sideloading.
+
+URL: https://github.com/secureworks/whiskeysamlandfriends
+Description: GoldenSAML Attack Libraries and Framework.
+
+URL: https://github.com/redballoonsecurity/ofrak
+Description: OFRAK - Unpack, modify, and repack binaries. 
+
+URL: https://github.com/cyberark/RPCMon
+Description: RPC Monitor tool based on Event Tracing for Windows.
+
+URL: https://shells.systems/post-bypassing-applocker-by-abusing-hashinfo/
+Description: Bypassing AppLocker by abusing HashInfo.
+
+URL: https://github.com/redhuntlabs/Octopii
+Description: An AI-powered Personal Identifiable Information (PII) scanner.
+
+URL: https://github.com/pentagridsec/PentagridScanController
+Blog: https://bit.ly/3KjRcRg (+)
+Description: Improve automated and semi-automated active scanning in Burp Pro.
+
+URL: https://github.com/theSecHunter/Hades
+Description: Hades is an cross-platform HIDS with kernel-space data collection.
+
+URL: https://github.com/0vercl0k/paracosme
+Description: Zero-click remote memory corruption that compromises ICONICS Genesis64.
+
+URL: https://github.com/winsiderss/systeminformer
+Description: Tool to help monitor system resources, debug software and detect malware.
+
+URL: https://github.com/Z4kSec/Masky
+Description: Remotely dump domain user creds via an ADCS w/o dumping the LSASS process memory.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.timdbg.com/posts/debugger-lies-part-1/
+Description: Debugger Lies - Stack Corruption.
+
+URL: https://scribesecurity.com/blog/github-cache-poisoning
+Description: GitHub Cache Poisoning.
+
+URL: https://thinkloveshare.com/hacking/rce_on_spip_and_root_me/
+More: https://thinkloveshare.com/hacking/rce_on_spip_and_root_me_v2/
+Description: RCE on Spip and Root-Me
+
+URL: https://bit.ly/3cfz4M5 (+)
+PoC: https://github.com/k0keoyo/my_vulnerabilities/tree/master/CVE-2022-22715
+Description: Break me out of sandbox in old pipe - CVE-2022-22715 Windows Dirty Pipe.
+
+URL: https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/
+Description: Securing Developer Tools - Argument Injection in Visual Studio Code.
+
+URL: https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files/
+Description: Android security checklist - Theft of arbitrary files.
+
+URL: https://aepicleak.com/
+Description: ÆPIC Leak is the first CPU bug able to architecturally disclose sensitive data.
+
+URL: https://www.horizon3.ai/red-team-blog-cve-2022-28219/
+Description: Unauth XXE to RCE and Domain Compromise in ManageEngine ADAudit+ (CVE-2022-28219).
+
+URL: https://bit.ly/3pL8ZYg (+)
+Description: Process Behaviour Anomaly Detection Using eBPF and Unsupervised-Learning Autoencoders.
+
+URL: https://bit.ly/3wunxzl (+)
+PoC: https://github.com/mistymntncop/CVE-2022-1802
+Description: But You Told Me You Were Safe - Attacking the Mozilla Firefox Renderer/Sandbox (Series).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://univalence.me/posts/mvsqlite
+Description: Turning SQLite into a distributed database.
+
+URL: https://github.com/berthubert/googerteller
+Description: Audible feedback on just how much your browsing feeds into Google.
+
+URL: https://www.v2ray.com/en/
+Description: Set of tools to help you build your own privacy network over internet. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?3b454a67ecbaf307#lQjQHWGIrBpJKVJZ0BhhwygZ1JGtKzDnvy5uQrVQUxM=
