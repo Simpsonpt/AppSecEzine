@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 35 | Month: September | Year: 2022 | Release Date: 02/09/2022 | Edition: #446 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.ambionics.io/blog/hacking-watchguard-firewalls
+Description: Blind exploits to rule WatchGuard firewalls. 
+
+URL: https://blog.electrovolt.io/posts/element-rce/
+Description: RCE on Element Desktop via NodeIntegration in SubFrames Bypass (CVE-2022-23597).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/eeriedusk/knockles
+Description: eBPF Port Knocking Tool.
+
+URL: https://github.com/snail007/goproxy
+Description: Full function proxies server.
+
+URL: https://github.com/Push3AX/GrabAccess
+Description: Bypass Windows Password And Bitlocker.
+
+URL: https://github.com/ps1337/reinschauer
+Description: Remotely control Windows machines over Websockets.
+
+URL: https://github.com/ainfosec/FISSURE
+Description: The RF and reverse engineering framework for everyone.
+
+URL: https://github.com/90N45-d3v/dBmonster
+Description: Track WiFi devices with their recieved signal strength.
+
+URL: https://github.com/thesecretclub/SandboxBootkit
+Blog: https://secret.club/2022/08/29/bootkitting-windows-sandbox.html
+Description: Bootkit for Windows Sandbox to disable DSE/PatchGuard.
+
+URL: https://github.com/dr4k0nia/Origami
+Description: Packer compressing .net assemblies, (ab)using the PE format for data storage.
+
+URL: https://bit.ly/3q0Yikl (+)
+Description: Oh my API, abusing TYK cloud API management to hide your malicious C2 traffic.
+
+URL: https://github.com/Markakd/DirtyCred
+Description: Kernel exploitation concept to swap unpriv kernel creds w/ privileged ones for PE.
+
+URL: https://github.com/p0dalirius/MSSQL-Analysis-Coerce
+Description: A technique to coerce a Windows SQL Server to authenticate on an arbitrary machine.
+
+URL: https://github.com/redhuntlabs/httploot
+Description: Tool to simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/uD06cdRTXsb 
+Description: Exploiting GitHub Actions on open source projects.
+
+URL: https://0x1337.ninja/2022/07/30/cve-2022-35650-analysis/
+Description: Moodle Arbitrary File Read CVE-2022-35650 Analysis.
+
+URL: https://www.praetorian.com/blog/ntlmv1-vs-ntlmv2/
+Description: NTLMv1 vs NTLMv2 - Digging into an NTLM Downgrade Attack.
+
+URL: http://agrrrdog.blogspot.com/2021/01/cache-poisoning-denial-of-service.html
+Description: Cache poisoning denial-of-service attack techniques.
+
+URL: https://voidstarsec.com/blog/replicant-part-1
+Description: Replicant - Reproducing a Fault Injection Attack on the Trezor One.
+
+URL: https://bit.ly/3KAbcPM (+)
+Description: Let's Dance in the Cache - Destabilizing Hash Table on Microsoft IIS!
+
+URL: https://posts.specterops.io/automating-azure-abuse-research-part-1-30b0eca33418
+More: https://posts.specterops.io/automating-azure-abuse-research-part-2-3e5bbe7a20c0
+Description: Automating Azure Abuse Research.
+
+URL: https://jfrog.com/blog/cve-2021-38297-analysis-of-a-go-web-assembly-vulnerability/
+Description: Analysis of a Go Web Assembly vulnerability (CVE-2021-38297).
+
+URL: https://www.offensive-security.com/offsec/bypassing-intel-cet-with-counterfeit-objects/
+Description: Bypassing Intel CET with Counterfeit Objects.
+
+URL: https://saaramar.github.io/ipc_kmsg_vuln_blogpost/
+More: https://saaramar.github.io/ipc_kmsg_blogpost_part2/
+Description: ipc_kmsg_get_from_kernel, iOS 15.4 - Root cause analysis and Exploitation primitive.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/DarkCoderSc/SubSeven
+Description: SubSeven Legacy Official Source Code Repository.
+
+URL: https://github.com/mingrammer/diagrams
+Description: Diagram as Code for prototyping cloud system architectures.
+
+URL: https://lunduke.substack.com/p/the-story-of-the-first-computer-bug
+Description: The story of the first "computer bug"... is a pile of lies.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?747d21f5d4b576a8#DU2qSajhxDpQ0ODVyfRe1ykk/TVehTSqzTV6KfFoeW0=
