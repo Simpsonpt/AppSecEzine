@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 36 | Month: September | Year: 2022 | Release Date: 09/09/2022 | Edition: #447 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://feed.bugs.xdavidhu.me/bugs/0015
+Description: Viewing Instagram live streams anonymously without notifying the host.
+
+URL: https://blog.huli.tw/2022/09/01/en/angularjs-csp-bypass-cdnjs/
+Description: Who pollutes your prototype? Find the libs on cdnjs in an automated way.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/efchatz/HTTP3-attacks
+Description: HTTP3-attacks (CVE-2022-30592).
+
+URL: https://github.com/Wra7h/FlavorTown
+Description: Various ways to execute shellcode.
+
+URL: https://github.com/fin3ss3g0d/evilgophish
+Description: Combination of evilginx2 and GoPhish.
+
+URL: https://github.com/h4wkst3r/SCMKit
+Description: Source Code Management Attack Toolkit.
+
+URL: https://github.com/eladshamir/RPC-Backdoor
+Description: A basic emulation of an "RPC Backdoor".
+
+URL: https://bit.ly/3BoNAL0 (+)
+Description: Bypassing Biometric Authentication (Android and iOS).
+
+URL: https://o365blog.com/post/gmsa/
+Description: Hunt for the gMSA (Group Managed Service Accounts) secrets.
+
+URL: https://github.com/r4wd3r/Suborner
+Blog: https://r4wsec.com/notes/the_suborner_attack/index.html
+Description: Program to create a Windows account you will only know about.
+
+URL: https://github.com/mandiant/Ghidrathon
+Blog: https://bit.ly/3BokfjS (+)
+Description: Ghidra extension that adds Python 3 scripting capabilities to Ghidra.
+
+URL: https://bit.ly/3RKruIb (+)
+Description: Groovy Template Engine Exploitation - Notes from a real case scenario.
+
+URL: https://www.whiteoaksecurity.com/blog/graphql-batching-attacks-turbo-intruder/
+Description: GraphQL Batching Attacks - Turbo Intruder.
+
+URL: https://raesene.github.io/blog/2022/09/03/Fun-With-Windows-Containers-Popping-Calc/
+Description: Fun with Windows Containers - Popping Calc.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://zolder.io/hacking-my-helium-crypto-miner/
+Description: Hacking my Helium Crypto Miner.
+
+URL: https://blog.syss.com/posts/abusing-ms-teams-direct-routing/
+Description: Abusing Microsoft Teams Direct Routing.
+
+URL: https://security.lauritz-holtmann.de/post/sso-security-overview/
+Description: Real-life OIDC Security (Series).
+
+URL: https://blog.theori.io/research/CVE-2022-32250-linux-kernel-lpe-2022/
+PoC: https://github.com/theori-io/CVE-2022-32250-exploit
+Description: Linux Kernel Exploit (CVE-2022-32250) with mqueue.
+
+URL: https://www.ihteam.net/advisory/pfblockerng-unauth-rce-vulnerability/
+Description: pfBlockerNG Unauth RCE Vulnerability (CVE-2022-31814).
+
+URL: https://da22le.github.io/zoho-manageengine-opmanager-%E4%B8%A4%E4%B8%AArce/
+More: https://bit.ly/3KU8t3Y (+)
+Description: ZOHO ManageEngine OpManager RCEs and More. 
+
+URL: https://xcellerator.github.io/posts/tetsuji/
+Description: Tetsuji - Remote Code Execution on a GameBoy Colour 22 Years Later.
+
+URL: https://insinuator.net/2022/09/spymax-the-android-rat-and-it-works-like-that/
+Description: Spymax - The android RAT and it works like that...
+
+URL: https://www.naksyn.com/edr%20evasion/2022/09/01/operating-into-EDRs-blindspot.html
+Description: Living-Off-the-Blindspot - Operating into EDRs' blindspot.
+
+URL: https://link.medium.com/pgbwXpyM4sb 
+Description: Truth Behind the Celer Network cBridge cross-chain bridge incident (BGP hijacking).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/mit-han-lab/tinyengine
+Description: Tiny Deep Learning on IoT Devices.
+
+URL: https://vvx7.io/posts/2022/09/your-amiibos-haunted/
+Description: Exploiting Flipper Zero’s NFC file loader.
+
+URL: https://bit.ly/3ex5JNU (+)
+Description: After self-hosting my email for 23 years I have thrown in the towel.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?40339cef270f67d7#d9+uQ+W/e+JL8XcZBrqH9R/cKQTpN2YZWTiUaR5asSk=
