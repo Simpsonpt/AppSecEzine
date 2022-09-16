@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 37 | Month: September | Year: 2022 | Release Date: 16/09/2022 | Edition: #448 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://marcyoung.us/post/zuckerpunch/
+Description: Zuckerpunch - Abusing Self Hosted Github Runners at Facebook.
+
+URL: https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html
+Description: Caching the Un-cacheables - Abusing URL Parser Confusions (Web Cache Poisoning).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/mttaggart/quasar
+Blog: https://taggart-tech.com/quasar-electron/
+Description: ASAR manipulation made easy.
+
+URL: https://github.com/onekey-sec/unblob
+Description: Extract files from any kind of container formats.
+
+URL: https://github.com/gergelykalman/macos-crasher
+Description: macOS crashes on union mounted appledouble files.
+
+URL: https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit
+Description: Enlightenment LPE PoC (CVE-2022-37706).
+
+URL: https://github.com/kyleavery/AceLdr
+Blog: https://blog.kyleavery.com/posts/avoiding-memory-scanners/
+Description: Cobalt Strike UDRL for memory scanner evasion.
+
+URL: https://github.com/thinkst/canarytokens-docker
+Description: Docker configuration to quickly setup your own Canarytokens.
+
+URL: https://github.com/thiagopeixoto/massayo
+Description:Rust library which removes AV/EDR hooks in a given system DLL.
+
+URL: https://github.com/iustin24/chameleon
+Blog: https://youst.in/posts/context-aware-conent-discovery-with-chameleon/
+Description: Context-Aware Content Discovery with Chameleon.
+
+URL: https://github.com/CravateRouge/autobloody
+Description: Automatically exploit AD privilege escalation paths shown by BloodHound.
+
+URL: https://github.com/liamg/dismember
+Description: Scan memory for secrets and more. Maybe eventually a full /proc toolkit.
+
+URL: https://github.com/Ridter/noPac
+Description: Impersonate DA from standard domain user (CVE-2021-42278/CVE-2021-42287).
+
+URL: https://github.com/irsl/CVE-2022-3168-adb-unexpected-reverse-forwards/
+Description: Maliciou adb daemon to open connections to arbitrary host/ports (CVE-2022-3168).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bit.ly/3BpRQsG (+)
+Description: Sherlock Yield Strategy Bug Bounty Post-Mortem.
+
+URL: https://icebreaker.team/blogs/sleeping-with-control-flow-guard/
+Description: Sleeping With Control Flow Guard (CFG).
+
+URL: https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/
+Description: An io_uring vulnerability (CVE-2022-29582).
+
+URL: https://blog.silentsignal.eu/2022/09/05/simple-ibm-i-as-400-hacking/
+Description: Simple IBM i (AS/400) hacking.
+
+URL: https://tamirzb.com/attacking-android-kernel-using-qualcomm-trustzone
+Description: Attacking the Android kernel using the Qualcomm TrustZone.
+
+URL: https://www.romainthomas.fr/post/22-08-singpass-rasp-analysis/
+More: https://www.romainthomas.fr/post/22-09-ios-obfuscation-syscall-hooking/
+Description: A Journey in iOS App Obfuscation.
+
+URL: https://bit.ly/3eHd2T0 (+)
+Description: Exploiting Laravel based applications with leaked APP_KEYs and Queues.
+
+URL: https://securityintelligence.com/posts/abusing-source-code-management-systems/
+Description: Controlling the Source - Abusing Source Code Management Systems.
+
+URL: https://blog.sonarsource.com/disclosing-information-with-a-side-channel-in-django/
+Description: Disclosing information with a side-channel in Django.
+
+URL: https://bit.ly/3BpREJY (+)
+Description: One I/O Ring to Rule Them All - A Full Read/Write Exploit Primitive on Windows 11.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://research.swtch.com/qart
+Description: QArt Codes.
+
+URL: https://github.com/momo5502/boiii
+Description: Reverse engineering and analysis of Call of Duty - Black Ops 3.
+
+URL: https://github.com/ytdl-org/youtube-dl
+Description: Command-line program to download videos from YouTube.com and other video sites.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?0e2090a0e5ec86b4#pGFPH17LkTitxAUxAKUd9Q1UHusVqgh4u1LJrKOieUA=
