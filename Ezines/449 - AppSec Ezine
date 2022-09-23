@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 38 | Month: September | Year: 2022 | Release Date: 23/09/2022 | Edition: #449 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf/
+Description: WordPress Core - Unauthenticated Blind SSRF.
+
+URL: https://samcurry.net/universal-xss-on-netlifys-next-js-library/
+Description: Exploiting Web3's Hidden Attack Surface - UXSS on Netlify's Next.js Library.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/cube0x0/PIVert-Relay
+Blog: https://cube0x0.github.io/Relaying-YubiKeys/
+Description: Relaying YubiKeys.
+
+URL: https://github.com/CooperShield/rustache_injector
+Description: A rust based DLL injection project.
+
+URL: https://github.com/Kudaes/Elevator
+Description: UAC Bypass by abusing RPC and debug objects.
+
+URL: https://github.com/slyd0g/DylibHijackTest
+Description: Discover DYLD_INSERT_LIBRARIES hijacks on macOS.
+
+URL: https://github.com/Markakd/CVE-2022-2588
+Description: Linux kernel cls_route UAF to PE (CVE-2022-2588).
+
+URL: https://github.com/ZephrFish/AzureAttackKit
+Description: Collection of Azure Tools to Pull down for Attacking an Env.
+
+URL: https://github.com/BishopFox/cloudfox
+Blog: https://bishopfox.com/blog/introducing-cloudfox
+Description: Automating situational awareness for cloud penetration tests.
+
+URL: https://github.com/evilsocket/jscythe
+Description: Misusing the Node.js Inspector Mechanism to Run Arbitrary Code.
+
+URL: https://xret2pwn.github.io/Myths-About-External-C2/
+Description: Myths About External C2 (how to build a External C2 in your C2).
+
+URL: https://github.com/xRET2pwn/Teamsniper
+Description: Tool for fetching keywords (passwords, emails, ...). in a MS Teams.
+
+URL: https://github.com/BitBangingBytes/Glitchy
+Description: Glitchy is a visual interface to the world of microcontroller glitching.
+
+URL: https://research.checkpoint.com/2022/native-function-and-assembly-code-invocation/
+Description: Native function and Assembly Code Invocation.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL:  https://link.medium.com/UlFoyZI5ttb 
+Description: From Leaking TheHole to Chrome Renderer RCE.
+
+URL: https://blog.sonarsource.com/onedev-remote-code-execution/
+Description: Securing Developer Tools - OneDev Remote Code Execution.
+
+URL: https://link.medium.com/tdUEu6ILwtb
+Description: Some notes about Xalan-J Integer Truncation (CVE-2022–34169).
+
+URL: https://tttang.com/archive/1405/
+Description: Explore the use of JNDI vulnerabilities under high-version JDK.
+
+URL: https://bit.ly/3QpDQFI (+)
+Description: Breaking Secure Boot on Google Nest Hub (2nd Gen) to run Ubuntu.
+
+URL: https://bit.ly/3DGXkBN (+)
+Description: Car Hacking - Manual Bypass of Modern Rolling Code Implementations.
+
+URL: https://www.x86matthew.com/view_post?id=windows_seagate_lpe
+Description: Exploiting a Seagate service to create a SYSTEM shell (CVE-2022-40286).
+
+URL: https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/
+More: https://www.anquanke.com/post/id/280193
+Description: Breaking Bitbucket - Pre Auth Remote Command Execution (CVE-2022-36804).
+
+URL: https://www.fortbridge.co.uk/research/multiple-vulnerabilities-in-concrete-cms-part1-rce/
+More: https://fortbridge.co.uk/research/multiple-vulnerabilities-in-concrete-cms-part2/
+Description: Multiple Concrete CMS vulnerabilities (RCE/PrivEsc/SSRF/etc).
+
+URL: https://bit.ly/3R57hw6 (+)
+Description: Vulnerabilities found via fuzzing the MS Graphics Device Interface (GDI) (Series).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://nassimsoftware.github.io/zeldabotwstreetview/
+Description: Zelda Breath of The Wild Street View.
+
+URL: https://marmelab.com/blog/2022/09/20/react-i-love-you.html
+Description: React I Love You, But You're Bringing Me Down.
+
+URL: https://unclack.app/
+Description: Small but mighty Mac utility that mutes your microphone while you type.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?15f480aa88a16ac7#qm4PastK2rVT7cMdO9nttFEKN9oeKyVhsg8NA4dil+8=
