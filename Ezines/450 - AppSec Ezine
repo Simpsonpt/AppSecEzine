@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 39 | Month: September | Year: 2022 | Release Date: 30/09/2022 | Edition: #450 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/grWHAanRwtb 
+Description: Opera Browser VPN Bypass.
+
+URL: https://mrd0x.com/spoofing-calendar-invites-using-ics-files/
+Description: Spoofing Calendar Invites Using .ics Files.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/JoelGMSec/EvilnoVNC
+Description: Ready to go Phishing Platform.
+
+URL: https://github.com/TrungNguyen1909/qemu-t8030
+Description: iPhone 11 emulated on QEMU.
+
+URL: https://cloudbrothers.info/azure-attack-paths/
+Description: Azure Attack Paths.
+
+URL: https://github.com/SubGlitch1/OSRipper
+Description: AV evading OSX Backdoor and Crypter Framework.
+
+URL: https://github.com/wkz/kmemd
+Description: Explore a live Linux kernel's memory using GDB.
+
+URL: https://github.com/Skiti/BreakMi
+Description: Security assessment toolkit for BLE fitness trackers.
+
+URL: https://github.com/78ResearchLab/PoC/tree/main/CVE-2022-34721
+Description: Wormable Windows IKE Vulnerability (CVE-2022-34721).
+
+URL: https://github.com/Kudaes/RustChain
+Description: Hide memory artifacts using ROP and hardware breakpoints.
+
+URL: https://github.com/evild3ad/Collect-MemoryDump
+Description: Automated Creation of Windows Memory Snapshots for DFIR.
+
+URL: https://github.com/quarkslab/quokka
+Blog: https://blog.quarkslab.com/quokka-a-fast-and-accurate-binary-exporter.html
+Description: A Fast and Accurate Binary Exporter.
+
+URL: https://k4m1ll0.com/ShiftF10Bypass-and-privesc.html
+Description: Microsoft Windows Shift F10 Bypass and Autopilot privilege escalation.
+
+URL: https://www.usmacd.com/2022/07/21/2022-07-21-When-Hypervisor-Met-Snapshot-Fuzzing/
+Description: When Hypervisor Met Snapshot Fuzzing.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.netmeister.org/blog/spf.html
+Description: The Sender Policy Framework (SPF).
+
+URL: https://www.da.vidbuchanan.co.uk/blog/bggp3.html
+Description: Journey to a 20-byte emulator escape.
+
+URL: https://notmyplate.com/
+Description: How Parking Applications Affect Your Privacy.
+
+URL: https://link.medium.com/uerPHfODytb 
+Description: OWASP ModSecurity Core Rule Set (CRS) bypasses.
+
+URL: https://www.slashid.dev/blog/passkeys-deepdive
+Description: The good, the bad and the ugly of Apple Passkeys.
+
+URL: https://bit.ly/3CghBgn (+)
+Description: Concealed code execution - Techniques and detection.
+
+URL: https://bit.ly/3Rl11jX (+)
+Description: Raspberry Robin's Roshtyak - A Little Lesson in Trickery.
+
+URL: https://frycos.github.io/vulns4free/2022/09/22/skype-audit-part1.html
+More: https://frycos.github.io/vulns4free/2022/09/26/skype-audit-part2.html
+Description: Skype for Business Audit.
+
+URL: https://bit.ly/3LOLFD0 (+)
+More: https://bit.ly/3xYUaG1 (+)
+PoC: https://github.com/post-cyberlabs/Exploits/blob/main/CVE-2018-5093_ff57.js
+Description: Exploiting CVE-2018-5093 on Firefox 56 and 57.
+
+URL: https://nns.ee/blog/2022/08/05/routeros-container-rce.html
+Description: Abusing container mount points on MikroTik's RouterOS (CVE-2022-34960).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.timdbg.com/posts/why-you-should-printf/
+Description: Why you should do printf debugging.
+
+URL: https://bauble.studio/
+Description: Playground for making 3D art with lisp and math.
+
+URL: https://github.com/openai/whisper
+Description: Whisper is a general-purpose speech recognition model. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?1e55eb59b59f4684#WuYJyZGqwCIbcQ8FQmI1rSZfW9hgZ/WRp2PYrh8+frk=
