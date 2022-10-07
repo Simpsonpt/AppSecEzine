@@ -56,7 +56,7 @@ Description: Tool for persistence and egress from networks via auth web proxies.
 URL: https://github.com/r0oth3x49/ghauri
 Description: Tool to automate the process of detecting and exploiting SQL injections.
 
-URL: https://github.com/michelcrypt4d4mus/yaralyzer#example-output
+URL: https://github.com/michelcrypt4d4mus/yaralyzer
 Description: Visually inspect YARA and regex matches found in both binary and text data.
 
 URL: https://github.com/D1rkMtr/FileLessRemoteShellcode
@@ -89,7 +89,7 @@ URL: https://trenchant.io/two-lines-of-jscript-for-20000-pwn2own-miami-2022/
 Description: Two Lines of JScript for $20,000 – Pwn2Own Miami 2022.
 
 URL: https://bit.ly/3CdT4rg (+)
-Description: Exploit Disclosure: Turning Thunderbird into a Decryption Oracle.
+Description: Exploit Disclosure - Turning Thunderbird into a Decryption Oracle.
 
 URL: https://eshard.com/posts/pixel6_bootloader
 More: https://eshard.com/posts/pixel6bootloader-2
@@ -108,7 +108,7 @@ Description: Shortcut-Based (LNK) Attacks Delivering Malicious Code On The Rise.
 '  Spare time?
 
 
-URL: https://www.my90stv.com/#
+URL: https://www.my90stv.com
 Description: My 90's TV!
 
 URL: http://www.gaudi.ch/GaudiLabs/?page_id=652
