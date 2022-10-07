@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 40 | Month: October | Year: 2022 | Release Date: 07/10/2022 | Edition: #451 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/3ZMd6OpLItb 
+Description: Worldwide Server-side Cache Poisoning on All Akamai Edge Nodes.
+
+URL: https://blog.sonarsource.com/securing-developer-tools-a-new-supply-chain-attack-on-php/
+Description: Securing Developer Tools - A New Supply Chain Attack on PHP.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/mxrch/gitfive
+Description: Track down GitHub users.
+
+URL: https://github.com/dogancanbakir/pirebok
+Description: Pirebok - an adversarial fuzzer.
+
+URL: https://github.com/evilsocket/spycast
+Description: A crossplatform mDNS enumeration tool.
+
+URL: https://github.com/CodeXTF2/PyHmmm
+Description: Third party agent for Havoc C2 written in python.
+
+URL: https://github.com/coral-xyz/sealevel-attacks
+Description: Common Security Exploits and Protections on Solana.
+
+URL: https://github.com/mrexodia/dumpulator
+Description: An easy-to-use library for emulating code in minidump files. 
+
+URL: https://www.form3.tech/engineering/content/exploiting-distroless-images
+Description: Exploiting Distroless Images.
+
+URL: https://github.com/t3l3machus/eviltree
+Description: Classic "tree" cmd w/ + searching for keywords/regex in files.
+
+URL: https://github.com/Octoberfest7/Proxy_Egress_Persistence
+Description: Tool for persistence and egress from networks via auth web proxies.
+
+URL: https://github.com/r0oth3x49/ghauri
+Description: Tool to automate the process of detecting and exploiting SQL injections.
+
+URL: https://github.com/michelcrypt4d4mus/yaralyzer#example-output
+Description: Visually inspect YARA and regex matches found in both binary and text data.
+
+URL: https://github.com/D1rkMtr/FileLessRemoteShellcode
+Description: Run Fileless Remote Shellcode in memory w/ Modules Unhooking/Stomping/No New Thread.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.bricked.tech/posts/tmnf/part1/
+More: https://blog.bricked.tech/posts/tmnf/part2/
+Description: Hacking TrackMania Nations Forever (Series).
+
+URL: https://tantosec.com/blog/cve-2022-41343/
+Description: RCE via Phar Deserialisation (CVE-2022-41343).
+
+URL: https://secret.club/2022/08/08/eqsat-oracle-synthesis.html
+Description: Improving MBA Deobfuscation using Equality Saturation.
+
+URL: https://blog.haboob.sa/blog/sanding-the-64-bit-acrobats-sandbox
+Description: Sanding the 64-bit-Acrobat’s Sandbox.
+
+URL: http://www.hydrogen18.com/blog/hacking-zyxel-ip-cameras-pt-1.html
+Description: Hacking Zyxel IP cameras to gain a root shell.
+
+URL: https://trenchant.io/two-lines-of-jscript-for-20000-pwn2own-miami-2022/
+Description: Two Lines of JScript for $20,000 – Pwn2Own Miami 2022.
+
+URL: https://bit.ly/3CdT4rg (+)
+Description: Exploit Disclosure: Turning Thunderbird into a Decryption Oracle.
+
+URL: https://eshard.com/posts/pixel6_bootloader
+More: https://eshard.com/posts/pixel6bootloader-2
+Description: Google Pixel6 Hacking - Booting Up and Bootloader Emulation, ROP.
+
+URL: https://bit.ly/3AeEjER (+)
+Description: NETGEAR R6700v3 Buffer Overflow RCE Vulnerability (CVE-2021-34982).
+
+URL: https://bit.ly/3MddPaX (+)
+Description: Shortcut-Based (LNK) Attacks Delivering Malicious Code On The Rise.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.my90stv.com/#
+Description: My 90's TV!
+
+URL: http://www.gaudi.ch/GaudiLabs/?page_id=652
+Description: DVD Laser Scanner Microscope.
+
+URL: https://blog.jxck.io/entries/2022-09-30/XMLHttpRequest.html
+Description: What was XMLHttpRequest.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?9d00c015543fc49e#CIRcOG+VClkL33yXh6TX1XebPj2JCEEkbrihlF+JmkA=
