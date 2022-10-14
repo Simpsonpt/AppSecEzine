@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 41 | Month: October | Year: 2022 | Release Date: 14/10/2022 | Edition: #452 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/1679624
+Description: Remote Command Execution via Github import.
+
+URL: https://bit.ly/3TguQDC (+)
+Description: A Deep Dive of CVE-2022-33987 (Got allows a redirect to a UNIX socket).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Tw1sm/RITM
+Description: Roast in the Middle.
+
+URL: https://github.com/ORCx41/AtomPePacker
+Description: A Highly capable Pe Packer.
+
+URL: https://github.com/anil-yelken/wardriving
+Description: Python Wardriving Tool.
+
+URL: https://github.com/viperproject/prusti-dev
+Description: A static verifier for Rust.
+
+URL: https://github.com/derailed/popeye
+Description: A Kubernetes cluster resource sanitizer.
+
+URL: https://mrd0x.com/phishing-with-chromium-application-mode
+Description: Phishing With Chromium's Application Mode.
+
+URL: https://github.com/Dec0ne/ShadowSpray
+Description: Spray Shadow Credentials across an entire domain.
+
+URL: https://github.com/anvilsecure/ulexecve/
+Blog: https://bit.ly/3fULPge (+)
+Description: Userland Execution of Binaries Directly from Python.
+
+URL: https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit
+Description: Webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW.
+
+URL: https://rhynorater.github.io/postMessage-Braindump
+Description: postMessage Braindump - a brief postMessage testing methodology.
+
+URL: https://github.com/silverhack/monkey365
+Description: MS 365, Azure subscriptions and Azure AD security configuration reviews.
+
+URL: https://github.com/horizon3ai/CVE-2022-40684
+Blog: https://bit.ly/3ENzo02 (+)
+Description: FortiOS, FortiProxy, and FortiSwitchManager Auth Bypass (CVE-2022-40684).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://axelp.io/UltimateUpdate
+Description: Malicious update/malware by a semi-advanced adversary.
+
+URL: https://accessvector.net/2022/freebsd-aio-lpe
+Description: FreeBSD 11.0-13.0 LPE via aio_aqueue Kernel Refcount Bug.
+
+URL: https://blog.doyensec.com//2022/10/11/ebpf-bypass-security-monitoring.html
+Description: On Bypassing eBPF Security Monitoring.
+
+URL: https://iosiro.com/blog/high-risk-bug-disclosure-across-bridge-double-spend
+Description: High Risk Bug Disclosure - Across Bridge Double-Spend.
+
+URL: https://asec.ahnlab.com/en/38156/
+Description: Attackers Using FRP (Fast Reverse Proxy) to Attack Korean Companies.
+
+URL: https://bit.ly/3rThKAt (+)
+Description: Persistent PHP payloads in PNGs - How to inject PHP code in an image.
+
+URL: https://www.inversecos.com/2022/06/how-to-reverse-engineer-and-patch-ios.html
+More: https://www.inversecos.com/2022/06/guide-to-reversing-and-exploiting-ios.html
+Description: How to Reverse Engineer and Patch an iOS Application for Beginners.
+
+URL: https://idov31.github.io/2022-07-14-lord-of-the-ring0-p1/
+More: https://idov31.github.io/2022-08-04-lord-of-the-ring0-p2/
+Description: Lord Of The Ring0 - Introduction and A tale of routines, IOCTLs and IRPs.
+
+URL: https://y4y.space/2022/08/05/browser-exploitation-a-case-study-of-cve-2020-6507/
+Description: Browser Exploitation - A Case Study Of CVE-2020-6507.
+
+URL: https://bit.ly/3MvN7dY (+)
+Description: Process injection - Breaking all macOS security layers with a single vuln.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/caderek/gramma
+Description: Command-line grammar checker.
+
+URL: https://observablehq.com/@tmcw/enigma-machine
+Description: Visual enigma machine simulator.
+
+URL: https://lcamtuf.coredump.cx/plasma_globe/
+Description: The Google plasma globe affair of 2012.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?8b22ed59951e68fd#HFI+boCyJRdmkO65Z/4fHidz5Kjc84T+Tx0UaPKU+1M=
