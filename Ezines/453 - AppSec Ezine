@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 42 | Month: October | Year: 2022 | Release Date: 21/10/2022 | Edition: #453 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/I3Hv8ey9fub 
+Description: Authentication Bypass, File Upload and Arbitrary File Overwrite.
+
+URL: https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/
+Description: Microsoft Office Online Server Remote Code Execution.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/hahwul/deadfinder
+Description: Find dead-links (broken links).
+
+URL: https://github.com/Wh04m1001/CVE-2022-3368
+Description: Avira Security LPE (CVE-2022-3368).
+
+URL: https://github.com/Philesiv/XSLeaker
+Description: Searcher for cross-site leaks (XS-Leaks).
+
+URL: https://cramppet.github.io/regulator/index.html
+Description: A unique method of subdomain enumeration.
+
+URL: https://github.com/liamg/pax
+Description: CLI tool for PKCS7 padding oracle attacks.
+
+URL: https://github.com/intruder-io/guidtool
+Blog: https://www.intruder.io/research/in-guid-we-trust
+Description: A tool to inspect and attack version 1 GUIDs.
+
+URL: https://bit.ly/3VKWJ8J (+)
+Description: Semgrep - Writing quick rules to verify ideas.
+
+URL: https://knifecoat.com/Posts/KDNET+on+Windows+11+over+Hyper-V
+Description: KDNET on Windows 11 over Hyper-V.
+
+URL: https://github.com/5f0ne/pdf-examiner
+Description: Provides an overview of the inner file structure of a PDF.
+
+URL: https://github.com/devops-kung-fu/bomber
+Description: Scans Software Bill of Materials (SBOMs) for security vulnerabilities.
+
+URL: https://github.com/Escape-Technologies/graphql-armor
+Description: Highly customizable security middleware for various GraphQL server engines.
+
+URL: https://github.com/doyensec/oidc-ssrf
+Description: Evil OIDC server - the OpenID Configuration URL returns a 307 to cause SSRF.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.huli.tw/2022/09/29/css-injection-1/
+More: https://blog.huli.tw/2022/09/29/css-injection-2/
+Description: Stealing data with CSS - CSS injection.
+
+URL: https://pgj11.com/posts/Diamond-And-Sapphire-Tickets/
+Description: Kerberos Diamond and Sapphire Tickets.
+
+URL: https://blog.xpnsec.com/wam-bam/
+Tool: https://github.com/xpn/WAMBam
+Description: WAM BAM - Recovering Web Tokens From Office.
+
+URL: https://www.randorisec.fr/crack-linux-firewall/
+Description: A crack in the Linux firewall (CVE-2022-34918).
+
+URL: https://bit.ly/3SivQX2 (+)
+Description: Converting LFI into RCE by chaining PHP encoding filters.
+
+URL: https://blintzbase.com/posts/pir-and-fhe-from-scratch/
+Description: Private information retrieval using homomorphic encryption.
+
+URL: https://blog.kylebot.net/2022/10/16/CVE-2022-1786/
+Description: LPE to root vua UAF in the io_uring subsystem (CVE-2022-1786).
+
+URL: https://blog.blacklanternsecurity.com/p/yet-another-telerik-ui-revisit
+Description: Yet Another Telerik UI Revisit.
+
+URL: https://agarmash.com/posts/xbox-frogger-beyond-exploit/
+Description: Exploiting Xbox Game Frogger Beyond to Execute Arbitrary Unsigned Code.
+
+URL: https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/
+Description: Analysis of a Remote Code Execution in Cobalt Strike 4.7.1.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/joshiemoore/snakeware
+Description: A free Linux distro with a Python-based userspace.
+
+URL: https://jpdias.me/iot/2022/10/03/a-not-so-smart-smart-home.html
+Description: A (not so smart) smart home.
+
+URL: https://github.com/JuliaPoo/Artfuscator
+Description: A C compiler targeting an artistically pleasing nightmare for reverse engineers.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?4fe05b42200a83bc#m7E7TccCfWjXN1PfNZAI1FI2/4bvrsYMt4t5hH3ULoc=
