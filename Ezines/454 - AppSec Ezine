@@ -1,0 +1,134 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 43 | Month: October | Year: 2022 | Release Date: 28/10/2022 | Edition: #454 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/we3TfFvmeub 
+Description: Facebook SMS Captcha Was Vulnerable to CSRF Attack.
+
+URL: https://link.medium.com/Q2ledlsgnub
+Description: Google Data Studio Insecure Direct Object Reference (IDOR).
+
+URL: https://starlabs.sg/blog/2022/10-sharepoint-post-authenticated-ssrf-vulnerability/
+Description: MS SharePoint Server Post-Authentication Server-Side Request Forgery.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/hosch3n/msmap
+Description: Msmap is a Memory WebShell Generator.
+
+URL: https://github.com/huntandhackett/Antignis
+Description: A data driven tool to configure Windows host-based firewall.
+
+URL: https://github.com/silentsignal/burp-text4shell
+More: https://github.com/jfrog/text4shell-tools
+Description: Text4Shell (CVE-2022-42889) scanner for Burp Suite and Helper.
+
+URL: https://github.com/Wh04m1001/ZoneAlarmEoP
+Description: Exploit for Arbitrary File Move vulnerability in ZoneAlarm AV.
+
+URL: https://github.com/evilsocket/unisbom
+Description: Tool to build a SBOM on any platform with a unified data format.
+
+URL: https://github.com/ST1LLY/dc-sonar
+Description: Analyzing AD domains for security risks related to user accounts.
+
+URL: https://github.com/PinoyWH1Z/AoratosWin
+Description: A tool that removes traces of executed applications on Windows OS.
+
+URL: https://github.com/DISREL/Ring0VBA
+Blog: https://disrel.com/posts/Ring0VBA-Getting-Ring0-Using-a-Goddamn-Word-Document/
+Description: Ring0VBA - Getting Ring0 Using a Goddamn Word Document (CVE-2018-6066).
+
+URL: https://github.com/ex0dus-0x/fuzzable
+Description: Framework for Automating Fuzzable Target Discovery with Static Analysis.
+
+URL: https://github.com/ThreatUnkown/jsubfinder
+Description: Searches webpages for JS and analyzes them for hidden subdomains and secrets.
+
+URL: https://github.com/mdsecactivebreach/DragonCastle
+Blog: https://www.mdsec.co.uk/2022/10/autodialdlling-your-way/
+Description: Mix w/ AutodialDLL lateral movement and SSP to scrape NTLM hashes from LSASS.
+
+URL: https://github.com/blacklanternsecurity/dp_cryptomg
+Description: Crypto weakness in Telerik UI for ASP.NET AJAX dialog handler (CVE-2017-9248).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://mouha.be/sha-3-buffer-overflow/
+Description: SHA-3 Buffer Overflow (CVE-2022-37454).
+
+URL: https://priyankn.github.io/2021-02-26-CVE-2020-13956/
+Description: Apache HttpClient "SSRF" (CVE-2020-13956).
+
+URL: https://accessvector.net/2022/linux-itimers-uaf
+Description: Racing Cats to the Exit - A Boring Linux Kernel Use-After-Free.
+
+URL: https://blog.yeswehack.com/yeswerhackers/web-application-firewall-bypass/
+Description: Web application firewall bypass.
+
+URL: https://boschko.ca/glinet-router/
+Description: GL.iNET GL-MT300N-V2 Router Vulnerabilities and Hardware Teardown.
+
+URL: https://www.tarlogic.com/blog/token-handles-abuse-one-shell-to-handle-them-all/
+Description: One shell to HANDLE them all.
+
+URL: https://bit.ly/3gBI27V (+)
+Description: Melting the DNS Iceberg - Taking over your infrastructure Kaminsky style.
+
+URL: https://bit.ly/3NdZ4DE (+)
+PoC: https://github.com/s1ckb017/PoC-CVE-2022-26809
+Description: Reaching Vulnerable Point starting from 0 Knowledge on RPC (CVE-2022-26809).
+
+URL: https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/
+Description: Stranger Strings - An exploitable flaw in SQLite (CVE-2022-35737).
+
+URL: https://blog.orange.tw/2021/08/proxyshell-a-new-attack-surface-on-ms-exchange-part-3.html
+More: https://blog.orange.tw/2022/10/proxyrelay-a-new-attack-surface-on-ms-exchange-part-4.html
+Description: A New Attack Surface on MS Exchange (ProxyShell, ProxyRelay).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/bulwarkid/virtual-fido
+Description: A Virtual FIDO2 USB Device.
+
+URL: https://xoreaxeax.com/b/heart/
+Description: <3 - 1014B ELF64/DOS.COM/GameBoy/MegaDrive/PDF/ARJ/ZIP/7zip Polyglot.
+
+URL: https://towardsdatascience.com/create-a-bot-to-find-diamonds-in-minecraft-d836606a993a
+Description: Reinforcement Learning in Minecraft - Create a Bot to Find Diamonds.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?019a1ba9bdcd9427#b09Qz9AXY9z8deF0Sccrz+iu19sufmAhvFWOMfmEGKE=
