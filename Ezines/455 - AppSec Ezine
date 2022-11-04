@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 44 | Month: November | Year: 2022 | Release Date: 04/11/2022 | Edition: #455 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.doyensec.com/2022/10/27/jupytervscode.html
+Description: Visual Studio Code Jupyter Notebook RCE (CVE-2021-26437).
+
+URL: https://link.medium.com/iS48cBO7Aub 
+Description: Weird Vulnerabilities Happening on Load Balancers, Shallow Copies and Caches.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/lcvvvv/kscan
+Description: Kscan - Simple Asset Mapping Tool.
+
+URL: https://github.com/Accenture/Spartacus
+Description: Spartacus DLL Hijacking Discovery Tool.
+
+URL: https://github.com/upx/upx
+Description: UPX - the Ultimate Packer for eXecutables.
+
+URL: https://github.com/numencyber/VulnerabilityPoC
+Blog: https://link.medium.com/axWuRrL7sub 
+Description: TCP/IP RCE Vulnerability (CVE-2022-34718) PoC.
+
+URL: https://www.bencteux.fr/posts/filetypes/
+Description: Divin'n'phishin with executable filetypes on Windows.
+
+URL: https://www.blackhillsinfosec.com/how-to-weaponize-the-yubikey/
+Description: How to Weaponize the Yubikey.
+
+URL: https://github.com/ORCx41/TerraLdr
+Description: A Payload Loader Designed With Advanced Evasion Features.
+
+URL: https://github.com/Ge0rg3/requests-ip-rotator
+Description: Library to utilize AWS API Gateway's large IP pool as a proxy.
+
+URL: https://github.com/DataDog/threatest
+Description: Threatest is a Go framework for end-to-end testing threat detection rules.
+
+URL: https://github.com/Idov31/Sandman
+Description: Sandman is a NTP based backdoor for red team engagements in hardened networks. 
+
+URL: https://github.com/optiv/Freeze
+Description: Toolkit for bypassing EDRs using suspended processes, direct syscalls, and more.
+
+URL: https://github.com/mahaloz/decomp2dbg
+Description: A plugin to introduce interactive symbols into your debugger from your decompiler.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bit.ly/3zJKGiF (+)
+Description: When Hypervisor Met Snapshot Fuzzing (CVE-2022-21571).
+
+URL: https://positive.security/blog/urlscan-data-leaks
+Description: urlscan.io's SOAR spot - Chatty security tools leaking private data.
+
+URL: https://securitylabs.datadoghq.com/articles/openssl-november-1-vulnerabilities
+Description: The OpenSSL punycode vulnerability (CVE-2022-3602).
+
+URL: https://blog.assetnote.io/2022/10/28/exploiting-static-site-generators/
+Description: Exploiting Static Site Generators - When Static Is Not Actually Static.
+
+URL: https://bit.ly/3NGgYAX (+)
+Description: Galaxy Store Applications Installation/Launching without User Interaction.
+
+URL: https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html
+PoC: https://github.com/Bdenneu/CVE-2022-33679
+Description: RC4 Is Still Considered Harmful.
+
+URL: https://bit.ly/3zJHGTr (+)
+Tool: https://github.com/sensepost/impersonate
+Description: Abusing Windows' tokens to compromise Active Directory without touching LSASS.
+
+URL: https://etenal.me/archives/1825
+Description: Ubuntu Desktop 21.10 LPE - Exploit esp6 modules in Linux kernel (CVE-2022-27666).
+
+URL: https://blog.stratumsecurity.com/2022/10/24/abusing-apache-spark-sql-to-get-code-execution/
+Description: Remote Code Execution by Abusing Apache Spark SQL.
+
+URL: https://bit.ly/3UnfRIt (+)
+PoC: https://github.com/cckuailong/CVE-2022-40146_Exploit_Jar
+Description: Apache Batik Default Security Controls - SSRF and RCE Through Remote Class Loading.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://jcs.org/2021/07/19/desktop
+Description: My Fanless OpenBSD Desktop.
+
+URL: https://github.com/binji/smolnes
+Description:  NES emulator in <5000 bytes of C++.
+
+URL: https://sadservers.com/
+Description: Troubleshoot and make a sad server happy!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?7a3c05a2c9605588#saZXmCPmdjM6/ZnQhnesoC6exr5P5f1R+nqfuZZHBmY=
