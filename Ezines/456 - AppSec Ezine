@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 45 | Month: November | Year: 2022 | Release Date: 11/11/2022 | Edition: #456 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/3NTZy3Q (+)
+Description: Practical Client Side Path Traversal attacks.
+
+URL: http://bit.ly/3WTSqsg (+)
+Description: Accidental $70k Google Pixel Lock Screen Bypass.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/seeinglogic/ariadne
+Description: Binary Ninja Graph Analysis Plugin.
+
+URL: https://github.com/Haunted-Banshee/ErebusGate
+Description: ErebusGate for Nim Bypass AV/EDR.
+
+URL: https://github.com/daem0nc0re/AtomicSyscall
+Description: Tools and PoCs for Windows syscall investigation.
+
+URL: https://0xd4y.com/2022/10/01/GCP-Penetration-Testing-Notes/
+More: https://0xd4y.com/2022/10/24/GCP-Penetration-Testing-Notes-2/
+Description: GCP Penetration Testing Notes.
+
+URL: https://github.com/hasherezade/pe-bear
+Description: Portable Executable reversing tool with a friendly GUI.
+
+URL: https://github.com/alfarom256/CVE-2022-3699/
+Description: Lenovo Diagnostics Driver EoP - Arbitrary R/W (CVE-2022-3699).
+
+URL: https://github.com/VNCERT-CC/0dayex-checker
+Description: Zeroday Microsoft Exchange Server checker (Virtual Patching checker).
+
+URL: https://github.com/C0axx/CanaryHunter
+Description: PS script to check for Common Canaries generated via canarytokens(.)org.
+
+URL: https://github.com/bytedance/appshark
+Description: Static taint analysis platform to scan vulnerabilities in an Android app.
+
+URL: https://github.com/kimci86/bkcrack
+Description: Crack legacy zip encryption with Biham and Kocher's known plaintext attack.
+
+URL: https://github.com/d3lb3/KeeFarceReborn
+Description: DLL that exports databases in cleartext once injected in the KeePass process.
+
+URL: https://github.com/StarCrossPortal/scalpel
+Description: Scanner to deep parameter injection and w/ data parsing and mutation algorithms.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://rw.md/2022/11/09/ProxyNotRelay.html
+Description: ProxyNotRelay - An Exchange Vulnerability Encore.
+
+URL: https://link.medium.com/LtZ5Zze2pub 
+Description: Gcash Arbitrary Deeplink Vulnerability Walkthrough.
+
+URL: https://pwning.systems/posts/easy-apple-kernel-bug/
+Description: A tale of a simple Apple kernel bug (CVE-2022-26743).
+
+URL: https://washi.dev/blog/posts/confusing-decompilers-with-call/
+Description: Confusing .NET Decompilers: The Call OpCode.
+
+URL: https://xz.aliyun.com/t/11813
+Description: Apache Commons JXPath Remote Code Execution (CVE-2022-41852).
+
+URL: http://bit.ly/3G6ILJ4 (+)
+Description: Reverse Engineering the Apple MultiPeer Connectivity Framework.
+
+URL: https://link.medium.com/hrFzeCYdNub 
+More: https://link.medium.com/WJ2MNN3dNub 
+Description: Pwning ManageEngine DataSecurity Plus and ManageEngine ADAudit Plus.
+
+URL: https://onekey.com/blog/security-advisory-netgear-routers-funjsq-vulnerabilities/
+Description: NETGEAR Routers FunJSQ Vulnerabilities (CVE-2022-40619/CVE-2022-40620).
+
+URL: https://blog.phor.net/2022/11/04/Does-OpenSea-Shared-Storefront-have-a-backdoor.html
+PoC: https://github.com/fulldecent/opensea-shared-storefront-backdoor
+Description: Does OpenSea Shared Storefront have a backdoor?
+
+URL: https://security.humanativaspa.it/zyxel-authentication-bypass-patch-analysis-cve-2022-0342/
+Description: Zyxel authentication bypass patch analysis (CVE-2022-0342).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/chubin/cheat.sh
+Description: The only cheat sheet you need.
+
+URL: https://wab.com/
+Description: We Are Back - The official CODEF DEMO gallery.
+
+URL: https://pixelfed.org/
+Description: Photo Sharing For Everyone - A free and ethical photo sharing platform.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?4aad50d9b0787984#ZpMWdQh8JVZZKwCo1u78Tudetpon77O13/gRYQXAons=
