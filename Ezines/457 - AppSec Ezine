@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 46 | Month: November | Year: 2022 | Release Date: 18/11/2022 | Edition: #457 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/3EIaUFq (+)
+Description: Stealing passwords from infosec Mastodon - without bypassing CSP.
+
+URL: https://www.bentkowski.info/2022/11/google-roulette/
+Description: Same Origin Policy bypass within a single site a.k.a. "Google Roulette".
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/aleixrodriala/wa-tunnel
+Description: Tunneling Internet traffic over Whatsapp.
+
+URL: https://github.com/ccdescipline/CInject
+Description: Windows Kernel inject (no module no thread).
+
+URL: https://github.com/impalabs/hyperpom
+Blog: https://blog.impalabs.com/2211_hyperpom.html
+Description: AArch64 fuzzer based on the Apple Silicon hypervisor.
+
+URL: https://github.com/Rezilion/mi-x
+Description: Validate if your system is exploitable to specific vulnerabilities.
+
+URL: https://github.com/rek7/patchy
+Description: Automated Persistence and Lateral Movement using GCP Patch Management.
+
+URL: https://github.com/advanced-threat-research/NetLlix
+Description: Emulate and test exfiltration of data over different network protocols.
+
+URL: https://github.com/RoseSecurity/ScrapPY
+Description: Tool to scrape documents and other sensitive PDFs to generate wordlists.
+
+URL: https://github.com/elfmaster/maya
+Description: Highly advanced Linux anti-exploitation/tamper binary protector for ELF.
+
+URL: https://github.com/0xe7/WonkaVision
+Description: Tool to analyze Kerberos tickets and attempt to determine if they are forged.
+
+URL: https://github.com/JonathanSalwan/ttexplore
+Description: Library that performs path exploration on binary code using symbolic execution.
+
+URL: https://github.com/reveng007/SharpGmailC2
+Description: Gmail as Server and implant to exfiltrate data via smtp and C2 via imap protocol. 
+
+URL: https://github.com/Legit-Labs/legitify
+Description: Detect and remediate misconfigs and security risks across all your GitHub assets.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://theevilbit.github.io/posts/cve-2022-32929/
+Description: Bypass iOS backup's TCC protection (CVE-2022-32929).
+
+URL: https://www.praetorian.com/blog/self-hosted-github-runners-are-backdoors/
+Description: From Self-Hosted GitHub Runner to Self-Hosted Backdoor.
+
+URL: https://comsecuris.com/blog/posts/vmware_vgpu_shader_vulnerabilities/
+Description: Wandering through the Shady Corners of VMware Workstation/Fusion.
+
+URL: http://bit.ly/3gi9pnW (+)
+Description: Windows Kernel - Exploit CVE-2022-35803 in Common Log File System.
+
+URL: https://www.hypn.za.net/blog/2022/11/12/Hacking-Salesforce-backed-WebApps/
+Description: Hacking Salesforce-backed WebApps.
+
+URL: https://blog.sonarsource.com/checkmk-rce-chain-1/
+More: https://blog.sonarsource.com/checkmk-rce-chain-2/ | http://bit.ly/3AoUteB (+)
+Description: Checkmk - Remote Code Execution by Chaining Multiple Bugs (Series).
+
+URL: https://bright.engineer/posts/easyanticheat-integrity/
+Description: EasyAntiCheat's driver self-integrity can be compromised through call hierarchy.
+
+URL: https://octagon.net/blog/2022/10/28/juniper-sslvpn-junos-rce-and-multiple-vulnerabilities/
+Description: Juniper SSLVPN / JunOS RCE and Multiple Vulnerabilities.
+
+URL: https://digitalinvestigator.blogspot.com/2022/11/techniques-in-email-forensic-analysis.html
+Description: Techniques In Email Forensic Analysis.
+
+URL: http://bit.ly/3iJfbNf (+)
+Description: Fixing the 13 most common GraphQL Vulnerabilities to make your API production ready.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/Arquivotheca
+Description: We do a little archiving.
+
+URL: https://github.com/Rigellute/spotify-tui
+Description: Spotify for the terminal written in Rust.
+
+URL: https://galactica.org/
+Description: Galactica - Open source science model trained on 48M scihub papers.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?c78e4675484bc84f#9MNl5ryBMUMobjVEIV8MT+OhiPUMCCkc31Qdy/97tX4=
