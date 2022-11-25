@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 47 | Month: November | Year: 2022 | Release Date: 25/11/2022 | Edition: #458 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage
+Description: Remote Code Execution in Spotify's Backstage via vm2 Sandbox Escape.
+
+URL: https://feed.bugs.xdavidhu.me/bugs/0017
+Description: Header spoofing via a hidden parameter in Facebook Batch GraphQL APIs.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/riza/wb
+Description: A wizard that brings old files!
+
+URL: https://github.com/grines/goc2
+Description: MacOS Post Exploitation C2 Framework.
+
+URL: https://github.com/federicodotta/protobuf-decoder
+Description: A simple Google Protobuf Decoder for Burp.
+
+URL: https://blog.doyensec.com/2022/11/15/learning-ajp.html
+Description: Let's speak AJP (Apache JServ Protocol).
+
+URL: https://github.com/iximiuz/cdebug
+Description: A swiss army knife of container debugging (WIP).
+
+URL: https://link.medium.com/rYB7v5Mfcvb 
+Description: UAC Bypass On Windows Defender For Endpoint With HighBorn.
+
+URL: https://github.com/edoardottt/csprecon
+Description: Discover new target domains using Content Security Policy.
+
+URL: https://github.com/enkomio/BrokenFlow
+Description: A simple PoC to invoke an encrypted shellcode by using an hidden call.
+
+URL: https://github.com/riesha/drv-vuln-scanner
+Description: Finds imports that could be exploited, still requires manual analysis.
+
+URL: https://github.com/advanced-threat-research/DotDumper
+Description: An automatic unpacker and logger for DotNet Framework targeting files.
+
+URL: https://github.com/RythmStick/AMSITrigger
+Description: Identify all of the malicious strings in a PS file by making calls to AMSI.
+
+URL: https://github.com/MWR-CyberSec/PXEThief
+Description: Extract passwords from OSD functionality in MS Endpoint Configuration Manager.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://tttang.com/archive/1798/
+Description: Play With Windows Defender - ASR.
+
+URL: https://link.medium.com/rwy23Wko3ub 
+Description: Remote Command Execution in a Bank Server.
+
+URL: https://emily.id.au/tailscale
+Description: RCE in Tailscale, DNS Rebinding, and You (CVE-2022-41924).
+
+URL: https://link.medium.com/37HpcMbCavb 
+Description: A Deep Dive into eBPF - Writing an Efficient DNS Monitoring.
+
+URL: https://wojciechregula.blog/post/macos-sandbox-escape-via-terminal/
+Description: macOS Sandbox Escape vulnerability via Terminal (CVE-2022-26696).
+
+URL: https://securitylabs.datadoghq.com/articles/appsync-vulnerability-disclosure/
+Description: A Confused Deputy Vulnerability in AWS AppSync.
+
+URL: https://hacklido.com/d/43-an-art-of-dom-clobbering-from-zero-to-advance-level
+Description: An Art of Dom Clobbering - From Zero to Advance Level.
+
+URL: http://bit.ly/3Oy23cq (+)
+Description: Bypass Intel DCM's AuthN by Spoofing Kerberos and LDAP Responses (CVE-2022-33942).
+
+URL: http://bit.ly/3VmUCXY (+)
+Description: Eat What You Kill - Pre-authenticated Remote Code Execution in VMWare NSX Manager.
+
+URL: https://0xacb.com/2022/11/21/recollapse/
+Tool: https://github.com/0xacb/recollapse
+Description: Black-box RegEx fuzz to bypass validations and discover normalizations in web apps.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.enforcementtracker.com/
+Description: GDPR Enforcement Tracker.
+
+URL: https://shufflecake.net/
+Description: Plausible deniability for multiple hidden filesystems on Linux.
+
+URL: https://mynoise.net/
+Description: Creates beautiful noises to mask the sounds you don't want to hear.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?c847b02fbb0d4df8#aEgZWS9iqtadR6ZFy+4+t1naOdjEmyVhghn8rIyhpSQ=
