@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 48 | Month: December | Year: 2022 | Release Date: 02/12/2022 | Edition: #459 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/1200647
+Description: Grafana RCE via SMTP server parameter injection.
+
+URL: https://bit.ly/3ujCyCx (+)
+Description: Mass Account Takeover at a Cryptocurrency based asset - HTTP Desync Attack.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/jsa2/EAST
+Description: Extensible Azure Security Tool.
+
+URL: https://github.com/mfkiwl/krakensdr_pr
+Description: Passive Radar Code for the KrakenSDR.
+
+URL: https://github.com/fkie-cad/friTap
+Blog: https://lolcads.github.io/posts/2022/08/fritap/
+Description: friTap - Decrypting TLS on the fly.
+
+URL: https://github.com/Kudaes/Unwinder
+Description: Another approach to thread stack spoofing. 
+
+URL: https://github.com/angelopoerio/tinyfw
+Description: A toy containers aware firewall built in Rust.
+
+URL: https://link.medium.com/7GwUnFncZub 
+Description: Lateral Movement With Havoc C2 And Microsoft EDR.
+
+URL: https://github.com/Sysinternals/ProcDump-for-Linux
+Description: A Linux version of the ProcDump Sysinternals tool.
+
+URL: https://github.com/r-pufky/wireguard-initramfs
+Description: Enables Wireguard VPN networking during Linux kernel boot.
+
+URL: https://github.com/CoolerVoid/heap_detective
+Description: The simple way to detect heap memory pitfalls in C++ and C.
+
+URL: https://github.com/potmdehex/multicast_bytecopy
+Description: multicast_bytecopy is a kernel r/w exploit for iOS 15.0 - 15.1.1.
+
+URL: https://github.com/paralus/paralus
+Description: Kubernetes access manager, User-level credentials, RBAC, SSO, audit logs.
+
+URL: https://github.com/keraattin/EmailAnalyzer
+Description: Analyze suspicious emails, extract headers, links and hashes from an .eml.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bit.ly/3FhzVHt (+)
+Description: Quarkus Java framework RCE.
+
+URL: https://tttang.com/archive/1831/
+Description: Exploiting Jolokia RCE and JDBC attack.
+
+URL: https://cybervelia.com/?p=1380
+Description: Hacking Smartwatches for Spear Phishing.
+
+URL: https://www.timdbg.com/posts/recognizing-patterns/
+Description: Recognizing patterns in memory.
+
+URL: https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html
+Description: Gregor Samsa - Exploiting Java's XML Signature Verification.
+
+URL: https://link.medium.com/QGBymUSgpvb 
+Description: Bypass CrowdStrike Falcon EDR protection against process dump like lsass.exe.
+
+URL: https://bit.ly/3VAMYcI (+)
+Description: Using RCE to Uncover Siemens SIMATIC S7-1200/1500 Hardcoded Cryptographic Keys.
+
+URL: https://www.netspi.com/blog/technical/social-engineering/bypassing-mimecast-email-defenses/
+Description: Bypassing Mimecast URL and File Inspection.
+
+URL: https://blog.maass.xyz/spring-actuator-security-part-1-stealing-secrets-using-spring-actuators
+More: https://bit.ly/3EQdgkl (+)
+Description: Spring Actuator Security (Series).
+
+URL: https://sector7.computest.nl/post/2022-07-opc-ua-net-standard-trusted-application-check-bypass/
+Description: OPC UA .NET Standard Trusted Application Check Bypass.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://mywiki.wooledge.org/BashPitfalls
+Description: Bash Pitfalls.
+
+URL: https://garrit.xyz/posts/2022-11-24-smart-move-google
+Description: Smart Move, Google.
+
+URL: https://openai.com/blog/chatgpt/
+Description: ChatGPT - Optimizing Language Models for Dialogue.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?888eed0e2a0fdec3#+76JlZF9rbQnQjDyVYca3+k4/99/PW8paV7FqIG9+8U=
