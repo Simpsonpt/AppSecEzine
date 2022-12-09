@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 49 | Month: December | Year: 2022 | Release Date: 09/12/2022 | Edition: #460 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://h1pmnh.github.io/post/writeup_spring_el_waf_bypass/
+Description: RCE via SSTI on Spring Boot Error Page with Akamai WAF Bypass.
+
+URL: https://portswigger.net/research/hijacking-service-workers-via-dom-clobbering
+Description: Hijacking service workers via DOM Clobbering.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ironmansoftware/psedit
+Description: A terminal-based editor for PowerShell.
+
+URL: https://github.com/kleiton0x00/RedditC2
+Description: Abusing Reddit API to host the C2 traffic.
+
+URL: https://github.com/LavaMoat/LavaMoat
+Description: Tools for sandboxing your dependency graph.
+
+URL: https://github.com/elceef/subzuf
+Description: A smart DNS response-guided subdomain fuzzer.
+
+URL: https://vx.zone/2022/11/27/ptloadinjection-utku.html
+Description: PT_LOAD Injection with Python.
+
+URL: https://github.com/frkngksl/Shoggoth
+Description: Shoggoth - Asmjit Based Polymorphic Encryptor.
+
+URL: https://github.com/marcinguy/fpicker-aflpp-android
+Description: Fpicker with AFL++ on Android (device or emulator).
+
+URL: https://github.com/SikretaLabs/BlueMap
+Description: A Azure Exploitation Toolkit for Red Team & Pentesters.
+
+URL: https://github.com/Xeonrx/Klyda
+Description: Script for dictionary/spray attacks against online web applications. 
+
+URL: https://github.com/deepinstinct/Lsass-Shtinkering
+Description: New method of dumping LSASS by abusing the Windows Error Reporting service.
+
+URL: https://github.com/BeichenDream/PrintNotifyPotato
+Description: PrintNotifyPotato - Use PrintNotify COM service for lifting rights.
+
+URL: https://github.com/Wh04m1001/SysmonEoP
+Description: PoC for arbitrary file delete/write in Sysmon (CVE-2022-41120/CVE-2022-XXXXX).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://itm4n.github.io/debugging-protected-processes/
+Description: Debugging Protected Processes.
+
+URL: https://bit.ly/3BfTBcj (+)
+PoC: https://github.com/sourceincite/DashOverride
+Description: Pre-Auth RCE in VMWare vRealize Operations Manager.
+
+URL: https://attackshipsonfi.re/p/exploiting-cors-misconfigurations
+Description: Exploiting CORS Misconfigurations.
+
+URL: https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html
+Description: Pre-Auth RCE with CodeQL in Under 20 Minutes.
+
+URL: https://www.hacefresko.com/posts/tp-link-tapo-c200-unauthenticated-rce
+Description: TP-Link Tapo C200 Unauthenticated RCE.
+
+URL: https://karmainsecurity.com/exploiting-an-nday-vbulletin-php-object-injection
+Description: Exploiting an N-day vBulletin PHP Object Injection Vulnerability.
+
+URL: https://bit.ly/3Bmoj3H (+)
+More: https://bit.ly/3VGQr9V (+)
+Description: Exploring macOS Calendar Alerts - Execute code and Exfil data (CVE-2020-3882).
+
+URL: https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/
+Description: Hijacking GitHub Repositories by Deleting and Restoring Them.
+
+URL: https://pyn3rd.github.io/2022/11/15/A-New-Way-to-Trigger-Jolokia-Remote-Code-Execution/
+Description: A New Way of Exploiting Jolokia RCE&JDBC Attack.
+
+URL: https://bit.ly/3uEICW8 (+)
+Description: TheHole New World - How a small leak will sink a great browser (CVE-2021-38003).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.engraved.blog/building-a-virtual-machine-inside/
+Description: Building A Virtual Machine inside ChatGPT.
+
+URL: https://github.com/hukkelas/deep_privacy2
+Description: DeepPrivacy2 - A Toolbox for Realistic Image Anonymization.
+
+URL: https://github.com/pentagridsec/smsgate
+Blog: https://www.pentagrid.ch/en/blog/open-source-sms-gateway-for-pentest-projects/
+Description: An open source SMS gateway for pentest projects.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?afb5553e4a8afaad#U6SmB6Wle1L6YWAiUubZF8N2+sn1mDWWAARNrgoEFuI=
