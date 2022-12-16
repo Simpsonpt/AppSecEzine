@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 50 | Month: December | Year: 2022 | Release Date: 16/12/2022 | Edition: #461 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://spyclub.tech/2022/12/14/unusual-cache-poisoning-akamai-s3/
+Description: Unusual Cache Poisoning between Akamai and S3 buckets.
+
+URL: https://hackerone.com/reports/1665156
+Description: HTTP Request Smuggling Due to Incorrect Parsing of Multi-line Transfer-Encoding.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Nalen98/GhidraEmu
+Description: Native Pcode emulator.
+
+URL: https://github.com/daffainfo/all-about-apikey
+Description: Detailed information about API keys/OAuth tokens.
+
+URL: https://github.com/anil-yelken/pywirt
+Description: Pywirt - Python Windows Incident Response Toolkit.
+
+URL: https://github.com/rusty-ferris-club/shellclear
+Description: Secure shell history commands by finding sensitive data.
+
+URL: https://github.com/pascal-lab/Tai-e
+Description: An easy-to-learn/use static analysis framework for Java.
+
+URL: https://github.com/microsoft/SandboxSecurityTools
+Description: Security testing tools for Windows sandboxing technologies.
+
+URL: https://github.com/void-stack/VMUnprotect.Dumper
+Description: VMUnprotect.Dumper can dynamically untamper VMProtected Assembly.
+
+URL: https://github.com/klezVirus/SilentMoonwalk
+Blog: https://klezvirus.github.io/RedTeaming/AV_Evasion/StackSpoofing/
+Description: SilentMoonwalk is a PoC implementation of a true call stack spoofer.
+
+URL: https://github.com/Purp1eW0lf/Blue-Team-Notes
+Description: One-liners, small scripts, and some useful tips for blue team work.
+
+URL: https://github.com/yuriisanin/CVE-2022-45025
+Description: VSCode/Atom CMD Injection via PDF import in MD Preview Enhanced (CVE-2022-45025).
+
+URL: https://github.com/lkarlslund/ldapnomnom
+Description: Anonymously bruteforce AD usernames from DC by abusing LDAP Ping requests (cLDAP).
+
+URL: https://github.com/binderlabs/DirCreate2System
+Description: Get NT SYSTEM for Privileged Directory Creation Bugs with Windows Error Reporting.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://paper.seebug.org/2013/
+Description: Learn how to attack SAML 2.0 Security.
+
+URL: https://blog.lightspin.io/aws-ecr-public-vulnerability
+Description: AWS ECR Public Vulnerability.
+
+URL: https://www.pypy.org/posts/2022/12/jit-bug-finding-smt-fuzzing.html
+Description: Finding JIT Optimizer Bugs using SMT Solvers and Fuzzing.
+
+URL: https://nebuchadnezzar-megolm.github.io/
+Description: Practically-exploitable Cryptographic Vulnerabilities in Matrix.
+
+URL: https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/
+Description: Exploring Prompt Injection Attacks.
+
+URL: https://posts.specterops.io/stalking-inside-of-your-chromium-browser-757848b67949
+Description: Stalking inside of your Chromium Browser.
+
+URL: https://www.reversemode.com/2022/11/understanding-chip-to-cloud-eid.html
+Description: Understanding a chip-to-cloud 'eID' solution to find logic vulnerabilities.
+
+URL: https://bit.ly/3FzdOLx (+)
+Description: Exploiting ONLYOFFICE Web Sockets for Unauthenticated RCE (CVE-2021-43444/43449).
+
+URL: https://claroty.com/team82/research/js-on-security-off-abusing-json-based-sql-to-bypass-waf
+Description: {JS-ON: Security-OFF} - Abusing JSON-Based SQL to Bypass WAF.
+
+URL: https://bit.ly/3W6PdF5 (+)
+Description: Using ADCS to PE from virtual/network service accounts to local system (CertPotato).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://wiby.me/
+Description: Build your own search engine.
+
+URL: https://github.com/blasty/printer-cracktro
+Description: Printer Cracktro - Oldschool Crack-intro.
+
+URL: https://github.com/pdparchitect/codepal/
+Description: CodePal is a CLI with a chat interface that helps developers write code.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?3fe1e2ed08bb3f46#7DMK/Yt/Ov+aGR5rFlHL9loSXFSU75Idq5ZdJF8t2Sg=
