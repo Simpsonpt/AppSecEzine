@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 51 | Month: December | Year: 2022 | Release Date: 23/12/2022 | Edition: #462 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://saligrama.io/blog/post/firebase-insecure-by-default/
+Description: Firebase - Insecure by Default.
+
+URL: https://spaceraccoon.dev/analyzing-clipboardevent-listeners-stored-xss/
+Description: I Hope This Sticks - Analyzing ClipboardEvent Listeners for Stored XSS.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/4ra1n/jar-analyzer
+Description: A Java GUI Tool for Analyzing Jar.
+
+URL: https://github.com/mazen160/shennina
+Description: Automating Host Exploitation with AI.
+
+URL: https://github.com/0x4ndy/clif
+Description: clif - simple command-line application fuzzer.
+
+URL: https://simondotsh.com/infosec/2022/12/12/assessing-smsa.html
+Description: Assessing Standalone Managed Service Accounts.
+
+URL: https://github.com/namazso/linux_injector
+Description: A simple ptrace-less shared library injector for x64 Linux.
+
+URL: https://github.com/zhuowei/MacDirtyCowDemo
+Description: root on macOS 13.0.1 via CVE-2022-46689 (macOS Dirty Cow bug).
+
+URL: https://github.com/gh0x0st/wanderer
+Description: An open-source process injection enumeration tool written in C#.
+
+URL: https://github.com/kvesta/vesta
+Description: Static analysis for Docker and Kubernetes cluster configurations.
+
+URL: https://github.com/AsherDLL/PCDump-bn
+Description: Binary Ninja plugin to dump the Pseudo C of a binary into a folder.
+
+URL: https://github.com/Idov31/Venom
+Description: Library to perform evasive communication using stolen browser socket.
+
+URL: https://github.com/ax/apk.sh
+Description: Automating Android RE repetitive tasks pull, decode, rebuild and patch.
+
+URL: https://github.com/z3dc0ps/BBSSRF
+Description: BBSSRF - Bug Bounty SSRF is a powerful tool to check SSRF OOB connection.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://redcanary.com/blog/fuzzing/
+Description: Fuzzing Golang msgpack for fun and panic.
+
+URL: https://security-explorations.com/mspr_cplus_details.html
+Description: Microsoft PlayReady security research.
+
+URL: https://aidenpearce369.github.io/offsec/My-First-RedTeam-Engagement/
+Description: How I hacked a company.
+
+URL: https://bit.ly/3WfyeAE (+)
+Description: What I Learned from Analyzing a Caching Vulnerability in Istio.
+
+URL: https://codecolor.ist/2021/01/16/see-no-eval-runtime-code-execution-objc/
+Description: See No Eval - Runtime Dynamic Code Execution in Objective-C.
+
+URL: https://bit.ly/3BOVVYj (+)
+Description: Linux Kernel - Exploiting a Netfilter Use-after-Free in kmalloc-cg.
+
+URL: https://starlabs.sg/blog/2022/12-deconstructing-and-exploiting-cve-2020-6418/
+Description: Deconstructing and Exploiting CVE-2020-6418.
+
+URL: https://bit.ly/3vfGfcF (+)
+Description: Better Make Sure Your Password Manager Is Secure (CVE-2022-3875/3876/3877).
+
+URL: https://research.nccgroup.com/2022/12/19/meshyjson-a-tp-link-tdpserver-json-stack-overflow/
+Description: MeshyJSON - A TP-Link tdpServer JSON Stack Overflow
+
+URL: https://link.medium.com/A61nEysOzvb
+Description: CMD Injection via env variables in Bitbucket Server and Data Center (CVE-2022-43781).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/markusx41/chatgpt-code-assistant
+Description: VSCode Integration POC for ChatGPT.
+
+URL: https://there.oughta.be/a/game-boy-capture-cartridge
+Description: There oughta be a Game Boy capture cartridge.
+
+URL: https://www.degatchi.com/articles/speedrunning-bug-hunting
+Description: Speedrunning Web3 Bug Hunts.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?455ae747250e79cf#eLcmviJn8JEYto6qI1wP6H7f0HLd1PYCfr0Jwv+begw=
