@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 52 | Month: December | Year: 2022 | Release Date: 30/12/2022 | Edition: #463 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/0WFFFk7n9vb
+Description: Exploring the World of ESI Injection.
+
+URL: https://link.medium.com/KphkoTlD6vb
+Description: 0 click Facebook Account Takeover and Two-Factor Authentication Bypass.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/h311d1n3r/Cerberus
+Description: A Python tool to unstrip Rust binaries on Linux.
+
+URL: https://github.com/API-Security/APIKit
+Description: Discovery, Scan and Audit APIs Toolkit All In One.
+
+URL: https://x4sh3s.github.io/posts/Divide-and-bypass-amsi/
+Description: Divide And Bypass - A new Simple Way to Bypass AMSI.
+
+URL: https://jamchamb.net/2022/01/02/modify-vmlinuz-arm.html
+Description: Modifying Embedded Filesystems in ARM Linux zImages.
+
+URL: https://github.com/TheOfficialFloW/HENlo
+Description: WebKit+Kernel exploit chain for all PS Vita firmwares.
+
+URL: https://github.com/pracsec/AmsiBypassHookManagedAPI
+Description: A new AMSI Bypass technique using .NET ALI Call Hooking.
+
+URL: https://github.com/TideSec/GoBypassAV
+Description: Windows API use in Golang with different snippet for AV evasion.
+
+URL: https://github.com/libimobiledevice/libimobiledevice
+Description: A cross-platform protocol library to communicate with iOS devices.
+
+URL: https://github.com/phackt/wptsextensions.dll
+Description: WptsExtensions.dll for exploiting DLL hijacking of the task scheduler. 
+
+URL: https://github.com/kkent030315/CVE-2022-42046
+Description: PoC of wfshbr64.sys local privilege escalation via DKOM (CVE-2022-42046).
+
+URL: https://hackingthe.cloud
+Description: Compilation of attacks/tactics/techniques for cloud exploitation adventures.
+
+URL: https://github.com/julienblitte/UniversalScanner
+Description: Multi-brand network discovery tool based on multicast and broadcast discovery.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://degatchi.com/articles/reading-raw-evm-calldata
+Description: Reversing The EVM - Raw Calldata.
+
+URL: https://v1k1ngfr.github.io/pimp-my-pid/
+Description: Pimp my PID - get SYSTEM using Windows kernel.
+
+URL: https://blog.kanbach.org/post/firewalls-under-the-hood-ufw/
+Description: Firewalls under the hood - UFW.
+
+URL: https://adepts.of0x.cc/dlopen-from-memory-php/
+Description: Spice up your persistence - loading PHP extensions from memory.
+
+URL: https://research.nccgroup.com/2022/12/22/puckungfu-a-netgear-wan-command-injection/
+Description: Puckungfu - A NETGEAR WAN Command Injection.
+
+URL: https://blog.redbluepurple.io/windows-security-research/bypassing-injection-detection
+Description: Bypassing EDR Real-Time Injection Detection Logic.
+
+URL: https://blog.ryanjarv.sh/2022/03/16/bypassing-wafs-with-alternate-domain-routing.html
+Description: Bypassing CDN WAF's with Alternate Domain Routing.
+
+URL: https://blog.rop.la/en/reversing/2022/12/13/identifying-vftables-through-ms-cpp-rtti.html
+Description: Identifying vftables through MS's C++ RTTI.
+
+URL: https://raesene.github.io/blog/2022/12/21/Kubernetes-persistence-with-Tocan-and-Teisteanas/
+Description: Attack of the clones - Stealthy K8s persistence with eathar, tòcan and teisteanas.
+
+URL: https://bit.ly/3I9wGUt (+)
+More: https://www.shielder.com/advisories/cisco-broadworks-commpilot-ssrf/
+Description: Cisco BroadWorks CommPilot App Software AuthN RCE/SSRF (CVE-2022-20958/CVE-2022-20951).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/sqfmi/Watchy
+Description: Watchy - An Open Source E-Ink Smartwatch.
+
+URL: https://github.com/wanjohiryan/qwantify
+Description: Play games, with your friends right from the browser.
+
+URL: https://github.com/ispras/casr
+Description: Collect crash reports, triage, and estimate severity. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?d384df67e0f9bd34#gio2HUdoH1eht/JY2ZQAGTJNmgKDblM4dwPg7Dc/fL4=
