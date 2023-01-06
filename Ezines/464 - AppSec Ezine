@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 01 | Month: January | Year: 2023 | Release Date: 06/01/2023 | Edition: #464 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://samcurry.net/web-hackers-vs-the-auto-industry/
+Description: Web Hackers vs. The Auto Industry.
+
+URL: https://bit.ly/3W4zJRn (+)
+Description: SSRF vulnerabilities caused by SNI proxy misconfigurations.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/weak1337/Alcatraz
+Description: x64 binary obfuscator.
+
+URL: https://github.com/zzzteph/probable_subdomains
+Description: Subdomains analysis and generation tool.
+
+URL: https://vx.zone/2023/01/03/jithooking-utku.html
+Description: .NET Just-In-Time (JIT) Compiler Hooking.
+
+URL: https://jlajara.gitlab.io/Potatoes_Windows_Privesc
+Description: Potatoes - Windows Privilege Escalation.
+
+URL: https://github.com/vitoplantamura/BugChecker
+Description: SoftICE-like kernel debugger for Windows 11.
+
+URL: https://github.com/trufflesecurity/of-cors
+Blog: https://trufflesecurity.com/blog/of-cors/
+Description: Bypass firewalls with of-CORs and typo-squatting.
+
+URL: https://gitlab.com/ORCA000/gp
+Description: GPU Poisoning - Hide the payload inside the gpu memory.
+
+URL: http://windowsir.blogspot.com/2022/12/persistence-and-lolbins.html
+Description: Persistence and LOLBins. 
+
+URL: https://github.com/romainthomas/iCDump
+Blog: https://www.romainthomas.fr/post/23-01-icdump/
+Description: A modern Objective-C class dump based on LIEF and LLVM.
+
+URL: https://github.com/jafarlihi/modreveal
+Description: Small utility that prints the names of hidden LKMs if any exists.
+
+URL: https://github.com/naksyn/PythonMemoryModule
+Description: Implementation of MemoryModule technique to load a DLL from memory.
+
+URL: https://github.com/d3lb3/KeeFarceReborn
+Description: DLL that exports DBs in cleartext once injected in the KeePass process. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bwlryq.net/posts/vlan_hopping/
+Description: Networking - VLAN Hopping.
+
+URL: https://knifecoat.com/Posts/Arbitrary+Kernel+RW+using+IORING's
+Description: Arbitrary Kernel RW using IORING's.
+
+URL: https://0xbigshaq.github.io/2022/12/30/luajit-sandbox-escape/
+Description: LuaJIT Sandbox Escape - The Saga Ends.
+
+URL: https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html
+Description: Turning Google smart speakers into wiretaps for $100k.
+
+URL: https://starkeblog.com/intel/amt/2023/01/04/fun-and-games-with-intel-amt.html
+Description: Fun and Games with Intel AMT.
+
+URL: https://bit.ly/3GnJhkm (+)
+Description: Manipulating AES Traffic using a Chain of Proxies and Hardcoded Keys.
+
+URL: https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/
+Description: Cacti - Unauthenticated Remote Code Execution.
+
+URL: https://primalcerebral.com/blog/egregious-mage-nday-rce-exploit-zdi-17-836.php
+Description: N-Day RCE Exploit for ZDI-17-836 (CVE-2017-12561).
+
+URL: https://salt.security/blog/missing-bricks-finding-security-holes-in-lego-apis
+Description: Missing Bricks - Finding Security Holes in LEGO APIs.
+
+URL: https://xz.aliyun.com/t/12008
+Description: Unauth RCE Exploitation of ONLYOFFICE Web Sockets (CVE-2021-43444-43449).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://prompts.chat/
+Description: Awesome ChatGPT Prompts.
+
+URL: https://words.filippo.io/dispatches/passage/
+Description: My age+YubiKeys Password Management Solution.
+
+URL: https://onengineering.substack.com/p/there-is-no-secure-software-supply
+Description: There is no secure software supply-chain.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?7493796f9a6916a4#XRlQj4k2jqOIPFnxwsBZAYYIs9w31ABXV8FjERp1ihg=
