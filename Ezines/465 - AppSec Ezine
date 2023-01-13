@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 02 | Month: January | Year: 2023 | Release Date: 13/01/2023 | Edition: #465 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.abdulrah33m.com/prototype-pollution-in-python/
+Description: Prototype Pollution in Python.
+
+URL: https://acut3.github.io/bug-bounty/2023/01/03/fetch-diversion.html
+Description: Fetch Diversion.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/PentHertz/OpenBTS-UMTS
+Description: OpenBTS-UMTS reloaded 2023.
+
+URL: https://github.com/d3ranged/sf2
+Description: Antivirus Signature Search Toolkit.
+
+URL: https://gitlab.com/regrello-public/google-drive-audit
+Description: Auditing public Google Drive files.
+
+URL: https://github.com/blasty/lexmark
+Description: Lexmark 'MC3224adwe' Remote Code Execution PoC.
+
+URL: https://github.com/JoelGMSec/PSRansom
+Description: PowerShell Ransomware Simulator with C2 Server.
+
+URL: https://github.com/4ra1n/code-inspector
+Description: Java code inspector for web vulnerability scan.
+
+URL: https://jakewnuk.com/posts/optimizing-wordlists-w-masks/
+Description: Optimizing Wordlists with Masks.
+
+URL: https://github.com/kitabisa/teler-waf
+Description: Go HTTP middleware that provide teler IDS functionality.
+
+URL: https://github.com/doyensec/imagemagick-security-policy-evaluator
+Description: Scan your ImageMagick policy file.
+
+URL: https://github.com/jconwell/secret_handshake
+Description: A prototype malware C2 channel using x509 certificates over mTLS.
+
+URL: https://github.com/michalbednarski/LeakValue
+Description: Android PE from app to system app via LazyValue using Parcel (CVE-2022-20452). 
+
+URL: https://github.com/struppigel/PortexAnalyzerGUI
+Description: Graphical interface for PortEx, a Portable Executable and Malware Analysis Lib.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://erasec.be/blog/client-side-path-manipulation/
+Description: Practical Example Of Client Side Path Manipulation.
+
+URL: https://www.nullpt.rs/reverse-engineering-tiktok-vm-1
+More: https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2/
+Description: Reverse Engineering Tiktok's VM Obfuscation ("Series").
+
+URL: https://www.synacktiv.com/publications/escaping-from-bhyve.html
+Description: Escaping from bhyve ( hypervisor for FreeBSD).
+
+URL: https://blog.viettelcybersecurity.com/tabshell-owassrf/
+PoC: https://gist.github.com/testanull/518871a2e2057caa2bc9c6ae6634103e
+Description: The OWASSRF + TabShell exploit chain (CVE-2022-41076).
+
+URL: https://bit.ly/3ZzAaGi (+)
+Description: ZOHO ManageEngine OpManager XXE release (CVE-2022-43473).
+
+URL: https://breakingthe3ma.app/
+Description: Three Lessons from Threema - Analysis of a Secure Messenger.
+
+URL: https://secops.group/blog/ognl-injection-decoded/
+Description: OGNL Injection Decoded (Confluence + Struts = OGNL Injection).
+
+URL: https://saaramar.github.io/memory_safety_blogpost_2022/
+Description: Survey of security mitigations and architectures, December 2022.
+
+URL: https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
+Description: Snapd Race Condition Vulnerability in snap-confine’s (CVE-2022-3328).
+
+URL: https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/
+Description: JWT Secret Poisoning (CVE-2022-23529) - Hyped 🥸.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://vintageapple.org/
+Description: Information from the early Apple era.
+
+URL: https://www.agwa.name/blog/post/whoarethey
+Description: Whoarethey - Determine Who Can Log In to an SSH Server.
+
+URL: https://open-meteo.com/
+Description: Open-source weather API with free access for non-commercial use.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?93be671a68b558ec#M/OK7beiHPMRse71CgJHMM7+VRVCdNmp9LSIc4+hY38=
