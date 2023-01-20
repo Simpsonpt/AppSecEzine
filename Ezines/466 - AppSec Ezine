@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 03 | Month: January | Year: 2023 | Release Date: 20/01/2023 | Edition: #466 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://mp.weixin.qq.com/s/v2qx_x71Byc5Vyws7_aOQg
+Description: Apple iTunes Store (CVE-2022-42837).
+
+URL: https://crypt0g30rgy.github.io/post/AWSTakeover
+Description: Owning half of a government assets through AWS.
+
+URL: https://blog.stazot.com/ssh-key-injection-google-cloud/
+Description: SSH key injection in Google Cloud Compute Engine.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/trailofbits/RpcInvestigator
+Blog: http://bit.ly/3wc0kkS (+)
+Description: Tool to explore RPC interfaces on Windows.
+
+URL: https://github.com/momika233/CVE-2022-3656
+Description: Google Chrome "SymStealer" (CVE-2022-3656).
+
+URL: https://github.com/D1rkMtr/VirusTotalC2
+Description: Abusing VirusTotal API to host our C2 traffic.
+
+URL: https://github.com/wh1t3p1g/tabby
+Description: TABBY is a Java Code Analysis Tool based on Soot.
+
+URL: https://github.com/Ch0pin/AVIator
+Description: Backdoor generator utility to bypass AV detection.
+
+URL: https://github.com/s0duku/cve-2022-31705
+Description: Geekpwn 2022 Vmware EHCI OOB PoC (CVE-2022-31705).
+
+URL: https://github.com/padok-team/YATAS
+Description: Audit your AWS infrastructure for misconfiguration.
+
+URL: https://github.com/vullabs/Crassus
+Description: Crassus Windows privilege escalation discovery tool.
+
+URL: https://networklogician.com/2021/04/17/sniffing-ssh-passwords/
+Description: Sniffing SSH Passwords.
+
+URL: https://github.com/PabloMK7/ENLBufferPwn
+Description: Information and PoC about the ENLBufferPwn vulnerability.
+
+URL: https://steve-s.gitbook.io/0xtriboulet/deceiving-defender
+Description: Series documenting some easy ways to bypass Windows Defender.
+
+URL: https://github.com/Wh04m1001/CVE-2023-21752
+Description: Arbitrary file delete vuln. in Windows Backup Service (CVE-2023-21752).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.mufeedvh.com/llm-security/
+Description: Security in the age of LLMs.
+
+URL: https://blog.kchung.co/taking-over-a-dead-iot-company/
+Description: Taking over a Dead IoT Company.
+
+URL: https://blog.xpnsec.com/restoring-dyld-memory-loading/
+Description: Restoring Dyld Memory Loading.
+
+URL: https://dawidpotocki.com/en/2023/01/13/msi-insecure-boot/
+Description: MSI's (in)Secure Boot.
+
+URL: https://q3k.org/wInd3x.html
+Description: wInd3x, the iPod Bootrom exploit 10 years too late.
+
+URL: https://www.willsroot.io/2022/12/entrybleed.html
+Description: Breaking KASLR under KPTI with Prefetch (CVE-2022-4543).
+
+URL: https://bit.ly/3iRIPmO (+)
+Description: ACSESSED - Cross-tenant network bypass in Azure Cognitive Search.
+
+URL: http://bit.ly/3Hhm9WA (+)
+Description: DirtyCred File Exploitation applied on an io_uring UAF (CVE-2022-2602).
+
+URL: http://bit.ly/3wgzc4g (+)
+Description: How we Abused Repository Webhooks to Access Internal CI Systems at Scale.
+
+URL: https://sector7.computest.nl/post/2023-01-xar/
+Description: Bad things come in large packages - .pkg sig. verification bypass on macOS.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/str4d/age-plugin-yubikey/
+Description: YubiKey plugin for age.
+
+URL: https://www.da.vidbuchanan.co.uk/blog/hello-png.html
+Description: Hello, PNG!
+
+URL: http://retro.directory/
+Description: Geeky atlas/directory of retro places you can visit around the world.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?275cdbec1f0e3424#9FDHjoG1yE2phP5ADH7qldLevH0lToaNL7ish5/sjQY=
