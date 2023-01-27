@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 04 | Month: January | Year: 2023 | Release Date: 27/01/2023 | Edition: #467 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.pksecurity.io/2023/01/16/2022-microsoft-teams-rce.html
+Description: Microsoft Teams RCE (Deeplink Handler + RPC Abuse).
+
+URL: https://blog.geekycat.in/client-side-ssrf-to-google-cloud-project-takeover/
+Description: Client-Side SSRF to Google Cloud Project Takeover.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://aboutdfir.com/the-key-to-identify-psexec/
+Description: The Key to Identify PsExec.
+
+URL: https://github.com/cybervelia/graphicator
+Description: A GraphQL enumeration and extraction tool.
+
+URL: https://github.com/elastic/Silhouette
+Description: Keeping LSA secrets out of physical memory.
+
+URL: https://vx.zone/2022/10/22/tracingwithdynamo-utku.html
+Description: Tracing and Manipulating with DynamoRIO.
+
+URL: https://github.com/eybisi/kavanoz
+Description: Statically unpacking common android banker malware.
+
+URL: https://github.com/aerleon/aerleon
+Description: Generate firewall configs for multiple firewall platforms.
+
+URL: https://github.com/Octoberfest7/Inline-Execute-PE
+Description: Execute unmanaged Windows executables in CobaltStrike Beacons.
+
+URL: https://github.com/HavocFramework/Havoc
+Description: Havoc is a modern and malleable post-exploitation C&C framework.
+
+URL: https://github.com/TurtleARM/CVE-2023-0179-PoC
+Description: Linux kernel stack buffer overflow in nftables PoC (CVE-2023-0179).
+
+URL: https://github.com/ustayready/golddigger
+Description: Tool to help quickly discover sensitive information in files recursively.
+
+URL: https://github.com/Muirey03/CVE-2022-42864
+Blog: https://muirey03.blogspot.com/2023/01/cve-2022-42864-diabolical-cookies.html
+Description: TOCTOU in IOHIDFamily - iOS and MacOS Diabolical Cookies (CVE-2022-42864).
+
+URL: https://github.com/jhy/jsoup
+Description: Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/8lNO423wLwb 
+Description: Exploiting Application Logic to Phish Internal Mailing Lists.
+
+URL: http://bit.ly/3HwaUJY (+)
+Description: Dissecting and Exploiting TCP/IP RCE Vulnerability "EvilESP".
+
+URL: https://www.tacitosecurity.com/multihit.html
+PoC: https://github.com/ergot86/itlb_poc
+Description: iTLB multihit Bug (Crashes host from guest in most hypervisors).
+
+URL: https://frycos.github.io/vulns4free/2023/01/24/0days-united-nations.html
+Description: Using 0days to Protect the United Nations (Docmosis Tornado Pwn).
+
+URL: https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/
+Description: Bitwarden design flaw - Server side iterations.
+
+URL: http://bit.ly/3Jcqcoq (+)
+Description: Multiple Vulns in the Galaxy App Store (CVE-2023-21433/CVE-2023-21434).
+
+URL: https://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/
+Description: Pwning the all Google phone with a non-Google bug.
+
+URL: https://maia.crimew.gay/posts/how-to-hack-an-airline/
+Description: How to completely own an airline in 3 easy steps and grab the TSA nofly list.
+
+URL: https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/
+Description: Oracle E-Business Suite Unauthenticated RCE (CVE-2022-21587).
+
+URL: https://fluidattacks.com/blog/account-takeover-kayak/
+Description: Account Takeover in KAYAK - So it's the app itself that delivers the cookie to me?
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://zserge.com/posts/fenster/
+Description: Minimal cross-platform graphics.
+
+URL: https://masamune.app/
+Description: Smart contract security search utility.
+
+URL: https://blog.millerti.me/2023/01/22/encrypting-data-in-the-browser-using-webauthn/
+Description: Encrypting Data in the Browser Using WebAuthn.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?196945362f08472d#ko0/5tEdH9UJJ7RgWHNA7phEDlyq29d+2aEem/H4Sv0=
