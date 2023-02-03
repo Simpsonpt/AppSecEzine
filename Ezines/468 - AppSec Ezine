@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 05 | Month: February | Year: 2023 | Release Date: 03/02/2023 | Edition: #468 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://huntr.dev/bounties/d06da292-7716-4d74-a129-dd04773398d7/
+Description: Prototype Pollution in mastodon/mastodon (CVE-2022-0432).
+
+URL: https://swarm.ptsecurity.com/mybb-1-8-31-remote-code-execution-chain/
+Description: MyBB <= 1.8.31 - Remote Code Execution Chain.
+
+URL: https://ysamm.com/?p=777
+Description: ATO of Facebook/Oculus accounts due to First-Party access_token stealing.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Rolix44/Kubestroyer
+Description: Kubernetes exploitation tool.
+
+URL: https://github.com/MzHmO/Privileger
+Description: Tool to work with Windows Privileges.
+
+URL: https://github.com/securebinary/firebaseExploiter
+Description: Firebase Database vulnerability discovery.
+
+URL: https://github.com/alt3kx/CVE-2023-24055_PoC
+Description: Local KeePass 2.5x Abuse PoC (CVE-2023-24055).
+
+URL: https://github.com/doudoudedi/hackEmbedded
+Description: Generate backdoor programs of various architectures.
+
+URL: https://github.com/wh0nsq/BypassCredGuard
+Description: Credential Guard Bypass Via Patching Wdigest Memory.
+
+URL: https://github.com/OmriBaso/RToolZ
+Description: A Stealthy Lsass Dumper - Abuse ProcExp152.sys driver.
+
+URL: https://github.com/nanabingies/CVE-2021-21551
+Description: Dell Driver Escalation of Privileges (CVE-2021-21551).
+
+URL: https://github.com/zblurx/certsync
+Description: Dump NTDS with golden certificates and UnPAC the hash.
+
+URL: https://github.com/Bearer/curio
+Description: Open Source SAST to protect sensitive data in your code.
+
+URL: https://github.com/azurit/modsecurity-backdoor
+Description: Malicious software running inside of ModSecurity WAF PoC.
+
+URL: https://github.com/bananabr/TimeException
+Description: Find folders excluded from AV real-time scanning using a time oracle.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: http://bit.ly/3Hua0fF (+)
+Description: Learning eBPF exploitation.
+
+URL: https://blog.viettelcybersecurity.com/saml-show-stopper/
+Description: SAML ShowStopper (CVE-2022-47966).
+
+URL: https://github.com/piotrflorczyk/cve-2018-8174_analysis
+Description: Modern Browser Exploit - Case Study of CVE-2018-8174.
+
+URL: https://palant.info/2023/01/25/ipinside-koreas-mandatory-spyware/
+Description: IPinside - Korea's mandatory spyware.
+
+URL: https://blog.assetnote.io/2023/01/24/yellowfin-auth-bypass-to-rce/
+Description: Exploiting Hardcoded Keys to achieve RCE in Yellowfin BI.
+
+URL: https://jackfromeast.site/2023-01/understand-the-heap-a-beautiful-mess.html
+Description: Understanding the Heap - a beautiful mess.
+
+URL: https://0xdarkvortex.dev/proxying-dll-loads-for-hiding-etwti-stack-tracing/
+Description: Proxying DLL Loads For Hiding ETWTI Stack Tracing.
+
+URL: https://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/
+Description: Remote Command Execution in binwalk.
+
+URL: https://github.blog/2023-01-27-bypassing-ognl-sandboxes-for-fun-and-charities/
+Description: Bypassing OGNL sandboxes for fun and charities.
+
+URL: https://wzt.ac.cn/2022/12/15/CVE-2022-42475/
+Related: https://www.divd.nl/2022/12/26/dissecting-fortigate-images-for-fun-and-no-profit/
+Description: FortiGate SSLVPN RCE (CVE-2022-42475).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://fathy.fr/carbonyl
+Description: Forking Chrome to render in a terminal.
+
+URL: https://teropa.info/musicmouse/
+Description: Music Mouse - An Intelligent Instrument - An Emulation.
+
+URL: https://jagtalon.com/2022/12/08/still-going-a-zine-on-using-old-technology/
+Description: Still Going - A zine on using old technology.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?a2282305b884d3f8#MYGSdFNv+ZNZPvgP1jHuEdaXOd+DXZa/dZ9VYVS5XKo=
