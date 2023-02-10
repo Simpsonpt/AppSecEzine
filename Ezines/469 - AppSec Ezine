@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 06 | Month: February | Year: 2023 | Release Date: 10/02/2023 | Edition: #469 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ysamm.com/?p=779
+Description: DOM-XSS in Instant Games due to improper verification of supplied URLs.
+
+URL: https://link.medium.com/3pGZoUgLXwb
+Description: Unleashing the power of CSS injection: The access key to an internal API.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Cyber-Buddy/APKHunt
+Description: OWASP MASVS Static Analyzer.
+
+URL: https://github.com/zblurx/dploot
+Description: DPAPI looting remotely in Python.
+
+URL: https://github.com/REW-sploit/REW-sploit
+Description: Emulate and Dissect MSF and *other* attacks.
+
+URL: https://github.com/josh0xA/darkdump
+Description: Search The Deep Web Straight From Your Terminal.
+
+URL: https://github.com/praetorian-inc/gato
+Description: GitHub Self-Hosted Runner Enumeration and Attack Tool.
+
+URL: https://github.com/Anof-cyber/PyCript
+Description: Burp Suite extension to bypass client-side encryption.
+
+URL: https://badoption.eu/blog/2023/02/06/spoof_office_comments.html
+Description: Spoofing MS Office comments.
+
+URL: https://github.com/P4r4d1se/heapdump_shiro_vuln
+Description: Heapdump leaking Shiro key leading to RCE's vulnerability.
+
+URL: https://github.com/Orange-Cyberdefense/arsenal
+Description: Arsenal is just a quick inventory and launcher for hacking programs.
+
+URL: https://luemmelsec.github.io/gaylord-M-FOCker-ready-to-pwn-your-MIFARE-tags/
+Description: gaylord M FOCker - Ready to pwn your MIFARE tags.
+
+URL: https://github.com/crisprss/RasmanPotato
+Description: Abuse Impersonate Privilege from Service to SYSTEM like other potatoes do.
+
+URL: https://github.com/mazen160/secrets-patterns-db
+Description: Open-source DB for detecting secrets, API keys, passwords, tokens, and more.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://eta.st/2023/01/31/rail-tickets.html
+Description: Reversing UK mobile rail tickets.
+
+URL: https://dylanpindur.com/blog/teamcity-agent-xml-rpc-rce/
+Description: Teamcity Agent XML-RPC RCE.
+
+URL: https://link.medium.com/9fk2BBvgexb 
+Description: Arbitrary file read tricks with headless browsers.
+
+URL: https://www.ambionics.io/blog/vbulletin-unserializable-but-unreachable
+Description: vBulletin <= 5.6.9 - Pre-authentication Remote Code Execution.
+
+URL: https://hesec.de/posts/cve-2023-22855/
+Description: Kardex MLOG - Insecure path join to RCE via SSTI (CVE-2023-22855).
+
+URL: https://bit.ly/3Ybc8jD (+)
+Description: Detecting Malicious Packages and How They Obfuscate Their Malicious Code.
+
+URL: https://hacksys.io/blogs/adobe-reader-resetform-cagg-rce-cve-2023-21608
+Description: Adobe Acrobat Reader - resetForm - CAgg UaF - RCE Exploit (CVE-2023-21608).
+
+URL: https://www.x41-dsec.de/security/research/news/2023/01/17/git-security-audit-ostif/
+Description: git Remote code execution CVE-2022-41903 and CVE-2022-23521.
+
+URL: http://bit.ly/3RMVXGQ (+)
+Description: Submitting malicious transactions into a crypto wallet on behalf of any dApp.
+
+URL: https://maskray.me/blog/2023-01-29-all-about-undefined-behavior-sanitizer
+Description: All about UndefinedBehaviorSanitizer (UBSan) undefined behavior detector for C/C++.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://webcompat.com/
+Description: Bug reporting for the web.
+
+URL: https://jaykmody.com/blog/gpt-from-scratch/
+Description: GPT in 60 Lines of NumPy.
+
+URL: https://fly.io/blog/sqlite-virtual-machine/
+Description: How the SQLite Virtual Machine Works.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?6f622fd3aa39d200#F2/8vuh3Spl865b18c2Q+qSKVAmlcAizage+G9COcMQ=
