@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 07 | Month: February | Year: 2023 | Release Date: 17/02/2023 | Edition: #470 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://portswigger.net/research/server-side-prototype-pollution
+Related: http://bit.ly/3Iv0fje (+)
+Description: Server-side prototype pollution - Black-box detection without the DoS.
+
+URL: https://ysamm.com/?p=783
+Description: AT at Canvas Apps on Comet due to failure in PostMessage Origin validation.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://malcat.fr/index.html
+Description: Malcat - binary analysis software.
+
+URL: https://github.com/oldboy21/RSMBI
+Description: RSMBI - Yes, another SMB related thing.
+
+URL: https://vulncheck.com/blog/cve-2022-47966-payload
+Description: A Different Payload for CVE-2022-47966.
+
+URL: https://github.com/mgeeky/ThreadStackSpoofer
+Description: Thread Stack Spoofing / Call Stack Spoofing PoC.
+
+URL: https://github.com/0vercl0k/KEPaboo
+Description: Neutralize KEPServerEX anti-debugging techniques.
+
+URL: http://bit.ly/3S8dhGE (+)
+Description: 15 Ways to Bypass the PowerShell Execution Policy.
+
+URL: https://github.com/0x727/ObserverWard
+Description: Cross platform community web fingerprint identification tool.
+
+URL: https://github.com/Orange-Cyberdefense/grepmarx
+Description: A source code static analysis platform for AppSec enthusiasts. 
+
+URL: https://github.com/tin-z/CVE-2021-20294-POC
+Description: Vulnerability in the GNU Binutils readelf utility (CVE-2021-20294).
+
+URL: https://github.com/mnrkbys/vss_carver
+Description: Carves and recreates VSS catalog and store from Windows disk image.
+
+URL: https://github.com/erev0s/VAmPI
+Description: Vulnerable REST API with OWASP top 10 vulnerabilities for security testing.
+
+URL: https://github.com/t3l3machus/wwwtree
+Description: Priv. Escalation Helper - Locate, host and transfer resources from your FS.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce
+Description: WEEKEND DESTROYER - RCE in Western Digital PR4100 NAS.
+
+URL: https://frycos.github.io/vulns4free/2023/02/12/install4j-xxe.html
+Description: XXE with Auto-Update in install4j.
+
+URL: https://eaton-works.com/2023/02/06/toyota-gspims-hack/
+Description: Hacking into Toyota's global supplier management network.
+
+URL: https://www.localpotato.com/localpotato_html/LocalPotato.html
+Description: LocalPotato - When Swapping The Context Leads You To SYSTEM.
+
+URL: https://m417z.com/Implementing-Global-Injection-and-Hooking-in-Windows/
+Description: Implementing Global Injection and Hooking in Windows.
+
+URL: https://h0wl.substack.com/p/the-importance-of-web-ui-security
+Description: The importance of Web UI security in decentralised applications.
+
+URL: https://labs.taszk.io/articles/post/reunzip/
+Description: [BugTales] REUnziP - Re-Exploiting Huawei Recovery With FaultyUSB.
+
+URL: http://bit.ly/40W9akZ (+)
+More: http://bit.ly/3IuvCdD (+) | http://bit.ly/3IrPkqq (+)
+Description: mast1c0re - Exploiting the PS4 and PS5 through a game save (Series).
+
+URL: https://security.humanativaspa.it/nothing-new-under-the-sun/
+Description: Multiple vulns. via setuid-root dtprintinfo from CDE Oracle Solaris 10.
+
+URL: https://www.crowdstrike.com/blog/exploiting-cve-2021-3490-for-container-escapes/
+Description: Exploiting CVE-2021-3490 for Container Escapes.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://marioslab.io/posts/rendering-like-its-1996/dos-nostalgia/
+Description: Rendering like it's 1996 - Bitmap fonts and DOS.
+
+URL: https://jub0bs.com/posts/2023-02-08-fearless-cors/
+Description: Fearless CORS - a design philosophy for CORS middleware libraries.
+
+URL: https://zeus.ugent.be/blog/22-23/repurposing_ewaste/
+Description: Repurposing e-waste - Turning a TV set-top box into a Linux computer.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?9133a276374fb05c#KScXyP2BVHwWiR+aDtfoAGYFdMo6qX4DE0b3Rd+9xCA=
