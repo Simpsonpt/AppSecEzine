@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 08 | Month: February | Year: 2023 | Release Date: 24/02/2023 | Edition: #471 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://security.lauritz-holtmann.de/post/xss-ato-gadgets/
+Description: SSO Gadgets - Escalate (Self-)XSS to ATO.
+
+URL: https://link.medium.com/zi4K1GVpExb
+Description: Facebook bug - A Journey from Code Execution to S3 Data Leak.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/nemesida-waf/waf-bypass
+Description: WAF Bypass Tool.
+
+URL: https://github.com/klee/klee
+Related: https://research.nccgroup.com/2022/12/12/klee-for-the-cve/
+Description: KLEE Symbolic Execution Engine.
+
+URL: https://mattfrisbie.substack.com/p/spy-chrome-extension
+Description: Let's build a Chrome extension that steals everything.
+
+URL: https://github.com/zcutlip/prefsniff
+Description: A utility to sniff preferences changes to macOS plist files.
+
+URL: https://github.com/TheD1rkMtr/GithubC2
+Description: Github as C2 Demonstration - Free API = free C2 Infrastructure.
+
+URL: https://github.com/ergrelet/resym
+Description: Utility that allows browsing and extracting types from PDB files.
+
+URL: https://github.com/mbechler/serianalyzer
+Description: A static byte code analyzer for Java deserialization gadget research.
+
+URL: https://github.com/lcyyzy/CaptchaCracker
+Description: A cracker for sliding captcha of GEETEST, NetEase, Tencent and iQiyi.
+
+URL: https://github.com/improsec/Get-bADpasswords
+Description: Get insights into the actual strength and quality of passwords in AD.
+
+URL: https://github.com/blackarrowsec/redteam-research/tree/master/LPE%20via%20StorSvc
+Description: Windows LPE via StorSvc service (writable SYSTEM path DLL Hijacking).
+
+URL: https://github.com/doyensec/PESD-Exporter-Extension
+Blog: https://blog.doyensec.com/2023/02/14/pesd-extension-public-release.html
+Description: PESD Exporter converts Burp Suite's proxy traffic into interactive diagrams.
+
+URL: https://github.com/j00sean/CVE-2022-44666
+Description: MS Windows Contacts (VCF/Contact/LDAP) Remote Code Execution (CVE-2022-44666).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.mbsd.jp/research/20230216/multibyte-url/
+Description: Multibyte characters and URLs.
+
+URL: https://blog.ammaraskar.com/roku-tv-philips-hues/
+Description: Hacking a Roku TV to Control Lights.
+
+URL: https://www.localpotato.com/
+Description: Windows NTLM EoP via NTLM reflection attack (CVE-2023-21746).
+
+URL: https://fourcore.io/blogs/no-more-access-denied-i-am-trustedinstaller
+PoC: https://github.com/FourCoreLabs/TrustedInstallerPOC
+Description: No more Access Denied - I am TrustedInstaller.
+
+URL: https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/
+Description: Readline crime - exploiting a SUID logic bug.
+
+URL: https://lkmidas.github.io/posts/20210223-linux-kernel-pwn-modprobe/
+Description: Linux Kernel Exploitation Technique - Overwriting modprobe_path.
+
+URL: https://bit.ly/3Zan4Ou (+)
+Description: Evil PLC Attack - Using a Controller as Predator Rather than Prey.
+
+URL: https://www.horizon3.ai/fortinet-fortinac-cve-2022-39952-deep-dive-and-iocs/
+PoC: https://github.com/horizon3ai/CVE-2022-39952
+Description: Fortinet FortiNAC CVE-2022-39952 Deep-Dive and IOCs.
+
+URL: https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/
+More: http://bit.ly/3xRLqRm (+)
+Description: Escaping well/misconfigured VSCode extensions.
+
+URL: http://bit.ly/3YU9Tle (+)
+Description: SQLi vulnerabilities in Owncloud Android App (CVE-2023-24804/CVE-2023-23948).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/robinmoisson/staticrypt
+Description: Password protect a static HTML page.
+
+URL: https://initialcommit.com/blog/git-sim
+Description: Git-Sim - Visually Simulate Git Operations In Your Own Repos.
+
+URL: https://github.com/ea/lytro_unlock
+Description: Documenting reverse engineering of the original Lytro lightfield camera.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?37927cb9c49d1ff1#c7XY5fYuR4MRcTA3ORo7eA0j0SgdyZgrERmU6pwmXDE=
