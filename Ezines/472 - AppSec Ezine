@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 09 | Month: March | Year: 2023 | Release Date: 03/03/2023 | Edition: #472 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/3EQlMAm (+)
+Description: A New Vector For "Dirty" Arbitrary File Write to RCE.
+
+URL: http://bit.ly/3J3yoqt (+)
+Description: MS Azure Account Takeover via DOM-based XSS in Cosmos DB Explorer.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/pielco11/fav-up
+Description: IP lookup by favicon using Shodan.
+
+URL: https://github.com/ZeroMemoryEx/Amsi-Killer
+Description: Lifetime AMSI bypass.
+
+URL: https://axelarator.github.io/posts/codesigningcerts/
+Description: Abusing Code Signing Certificates.
+
+URL: https://github.com/zu1k/http-proxy-ipv6-pool
+Description: Make every request from a separate IPv6 address.
+
+URL: https://github.com/NHAS/reverse_ssh
+Blog: https://research.aurainfosec.io/pentest/rssh/
+Description: Reverse SSH - A Fast, Stable Reverse Shell Handler.
+
+URL: https://github.com/voidz0r/CVE-2022-44268
+Description: ImageMagick Arbitrary File Read PoC (CVE-2022-44268).
+
+URL: https://github.com/ASHWIN990/ADB-Toolkit
+Description: ADB-Toolkit V2 for easy ADB tricks with many perks in all one.
+
+URL: https://github.com/4ra1n/CVE-2023-21839
+Description: Weblogic CVE-2023-21839 RCE (one-key RCE without Java dependency).
+
+URL: https://github.com/Wack0/CVE-2022-21894
+Description: Secure Boot Security Feature Bypass Vulnerability (CVE-2022-21894).
+
+URL: https://github.com/cellebrite-labs/PPLorer
+Description: IDA plugin that resolves PPL calls to the actual underlying PPL function. 
+
+URL: https://www.synacktiv.com/publications/cicd-secrets-extraction-tips-and-tricks.html
+Description: CI/CD secrets extraction, tips and tricks.
+
+URL: https://github.com/sketchymoose/workslikeaJARM
+Blog: http://sketchymoose.blogspot.com/2023/01/they-are-always-after-me-lucky-jarms.html
+Description: Method of finding interesting domains using keywords + JARMs.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://greshake.github.io/
+Description: Indirect Prompt Injection on Bing Chat.
+
+URL: https://www.elttam.com/blog/cracking-randomness-in-java
+Description: Cracking the Odd Case of Randomness in Java.
+
+URL: https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
+Description: A-Salt - Attacking SaltStack.
+
+URL: https://swarm.ptsecurity.com/binance-smart-chain-token-bridge-hack/
+Description: Binance Smart Chain Token Bridge Hack.
+
+URL: https://archcloudlabs.com/projects/disabling-clamav-as-unprivileged-user/
+Description: Disabling ClamAV as an Unprivileged User.
+
+URL: https://www.codean.io/blog/vulnerability-write-up---%22dangerous-assumptions%22
+Description: Vulnerability write-up - "Dangerous assumptions".
+
+URL: https://pyn3rd.github.io/2023/02/06/Apache-Commons-SCXML-Remote-Code-Execution/
+Description: Apache SCXML Remote Code Execution.
+
+URL: http://bit.ly/41DovHc (+)
+Description: The code that wasn't there - Reading memory on an Android device by accident.
+
+URL: https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/
+Description: OpenEMR - Remote Code Execution in your Healthcare System.
+
+URL: https://blog.trailofbits.com/2023/02/14/curl-audit-fuzzing-libcurl-command-line-interface/
+Description: cURL audit - How a joke led to significant findings.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.jailbreakchat.com/
+Description: Jailbreak Chat.
+
+URL: https://www.spaghettify.dev/
+Description: A Visual Studio Code extension to make your code spaghetti.
+
+URL: https://quitesimple.org/page/fun-gentoo-shuffle-rop-gadgets
+Description: Fun with Gentoo - Why don't we just shuffle those ROP gadgets away?
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?534ba65c4a1a6272#Y2yoq7gQ/i0UByRYYgj2T9d5J20YoD/2tHzSYhi4REs=
