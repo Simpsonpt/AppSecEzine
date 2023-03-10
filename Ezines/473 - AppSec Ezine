@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 10 | Month: March | Year: 2023 | Release Date: 10/03/2023 | Edition: #473 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ophionsecurity.com/blog/access-organization-secrets-in-github
+Description: Unauthorized access to Codespace secrets in GitHub.
+
+URL: https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com
+Description: Traveling with OAuth - Account Takeover on Booking.com.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/RUB-SysSec/DroneSecurity
+Description: Drone-ID Receiver for DJI OcuSync 2.0.
+
+URL: https://github.com/Brum3ns/firefly
+Blog: http://bit.ly/3JoDgqq (+)
+Description: Black box fuzzer for web applications.
+
+URL: https://github.com/CiscoCXSecurity/bbqsql
+Description: A Blind SQL Injection Exploitation Tool.
+
+URL: https://github.com/kraken-ng/Kraken
+Description: Kraken, a modular multi-language webshell.
+
+URL: https://github.com/xforcered/Windows_LPE_AFD_CVE-2023-21768
+Description: Windows afd.sys LPE PoC (CVE-2023-21768).
+
+URL: https://github.com/mgeeky/msidump
+Description: Tool to analyse malicious MSI installation packages.
+
+URL: https://www.pavel.gr/blog/obfuscating-rubeus-using-codecepticon
+Description: Obfuscating Rubeus using Codecepticon.
+
+URL: https://github.com/praetorian-inc/fingerprintx
+Description: Standalone utility for service discovery on open ports!
+
+URL: https://pentestlab.blog/2023/03/07/persistence-event-log-online-help/
+Description: Persistence – Event Log Online Help.
+
+URL: https://skr1x.github.io/keepass-dll-hijacking/
+Description: Having fun with KeePass2 - DLL Hijacking and hooking APIs.
+
+URL: https://github.com/gtworek/PSBits/tree/master/OfflineSAM/OfflineAddAdmin2
+Description: Windows 10 offline admin account creation.
+
+URL: https://github.com/eclipse/jbom
+Description: Generate Runtime and Static SBOMs for local and remote Java apps.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/uLAOjo5MFwb 
+Description: Hacking Redis for fun and CTF points.
+
+URL: https://adepts.of0x.cc/decrypt-nu-coder/
+Description: Beating an old PHP source code protector.
+
+URL: https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser
+Description: Hacking the Nintendo DSi Browser.
+
+URL: https://www.securifera.com/blog/2023/03/06/attacking-net-web-services/
+Description: Attacking .NET Web Services.
+
+URL: https://www.hacefresko.com/posts/tp-link-tapo-c200-unauthenticated-rce
+Description: TP-Link Tapo c200 Camera Unauthenticated RCE (CVE-4045-2021).
+
+URL: https://rashahacks.com/securing-smart-contracts-the-extcodesize-pitfall/
+Description: Securing Smart Contracts - The extcodesize Pitfall.
+
+URL: https://blog.aquasec.com/jenkins-server-vulnerabilities
+Description: Jenkins Server Vulns Lead to RCE (CVE-2023-27898/CVE-2023-27905).
+
+URL: https://secfault-security.com/blog/ms-app-center.html
+Description: Feeding Tasty Objects to Visual Studio's App Center SDK for Apple.
+
+URL: http://bit.ly/3J5pLue (+)
+Description: Empowering weak primitives - File truncation to code execution with Git.
+
+URL: https://mahaloz.re/2023/02/25/pwnagent-netgear.html
+Description: PwnAgent - A One-Click WAN-side RCE in Netgear RAX Routers (CVE-2023-24749).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/hayamiz/twittering-mode
+Description: An Emacs major mode for Twitter.
+
+URL: https://www.da.vidbuchanan.co.uk/blog/netflix-on-asahi.html
+Description: The Quest for Netflix on Asahi Linux.
+
+URL: https://github.com/Shell-Company/QRExfil
+Description: CLI that allows you to convert any binary file into a QRcode movie.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?2911bc7b28dcff45#O3l5uZPsOZ+7IMoy8XpOWiwuV38lyJvnvp/80ZUWU14=
