@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 11 | Month: March | Year: 2023 | Release Date: 17/03/2023 | Edition: #474 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/3YRWglt (+)
+Description: How Your NFTs Could Have Been Stolen in Just One Click.
+
+URL: https://mizu.re/post/ejs-server-side-prototype-pollution-gadgets-to-rce
+Description: EJS - Server Side Prototype Pollution gadgets to RCE.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/gdbinit/yage
+Description: An age fork with internal Yubikeys support.
+
+URL: https://scorpiosoftware.net/2023/03/16/minimal-executables/
+Description: Minimal Executables.
+
+URL: https://github.com/mxrch/ProtoDeep
+Description: Tool that allows you to decode and analyze protobuf data.
+
+URL: https://github.com/fksvs/inject
+Description: Command line packet crafting, injection and sniffing tool.
+
+URL: https://github.com/fortra/CVE-2022-37969
+Blog: https://bit.ly/404tPC2 (+)
+Description: Windows Common Log File System Driver LPE (CVE-2022-37969).
+
+URL: https://github.com/RistBS/ContextMenuHijack
+Description: Payload exec at each right click on a file/folder in explorer.
+
+URL: https://github.com/wh0amitz/PetitPotato
+Description: LPE via PetitPotam (Perfectly on Windows 21H2 10.0.20348.1547).
+
+URL: https://github.com/password123456/CertVerify
+Description: Scan files with compromised or untrusted code signing certificates.
+
+URL: https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY
+Blog: http://bit.ly/3ZT1tel (+)
+Description: MS Outlook Elevation of Privilege Vulnerability PoC (CVE-2023-23397).
+
+URL: https://www.x86matthew.com/view_post?id=embed_exe_lnk
+Description: EmbedExeLnk - Embedding an EXE inside a LNK with automatic execution.
+
+URL: https://github.com/AndreRH/hangover
+Description: Runs Win64/Win32 apps on arm64/(ppc64le)/x86_64 Linux and x86_64 Mac. 
+
+URL: https://github.com/echtdefault/Janus
+Description: Pre-build event that performs string obfuscation during compile time. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://xakcop.com/post/hyundai-hack/
+More: https://xakcop.com/post/hyundai-hack-2/
+Description: Hacking Hyundai Tucson 2020.
+
+URL: https://xz.aliyun.com/t/12097
+Description: Mimikatz and Credential Guard Bypass.
+
+URL: https://exploit.ph/external-trusts-are-evil.html
+Description: External Trusts Are Evil.
+
+URL: https://blog.assetnote.io/2023/02/01/rce-in-avaya-aura/
+Description: RCE in Avaya Aura Device Services.
+
+URL: http://bit.ly/42h2LRV (+)
+Description: Vulnerabilities in the TPM 2.0 reference implementation code.
+
+URL: https://sking7.github.io/articles/1601216121.html
+Description: Exploiting Node.js deserialization bug for Remote Code Execution.
+
+URL: http://bit.ly/3LqFY00 (+)
+Description: The Silent Spy Among Us - Modern Attacks Against Smart Intercoms.
+
+URL: https://ricardojba.github.io/BeyondTrust-AD-Bridge-Open-Post-Exploitation/
+Description: BeyondTrust AD Bridge Open Post-Exploitation.
+
+URL: https://www.errno.fr/TTYPushback.html
+Description: The oldest privesc - Injecting careless admins' terminals using TTY pushback.
+
+URL: https://ermetic.com/blog/azure/emojideploy-smile-your-azure-web-service-just-got-rced/
+Description: EmojiDeploy - Smile! Your Azure web service just got RCE'd ._.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://blog.joren.ga/less-known-c
+Description: Few lesser known tricks, quirks and features of C.
+
+URL: https://github.com/tenderlove/initial-v
+Description: It's a BMW shifter converted to a BT Keyboard that you use with Vim.
+
+URL: https://github.com/mjl-/mox
+Description: Open source secure mail server for low-maintenance self-hosted email.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?ae14dd336ad76fef#TUpZdNiNXTtCfuwSEW2yBEfr9m+LJ4U++7Em2qqUKl8=
