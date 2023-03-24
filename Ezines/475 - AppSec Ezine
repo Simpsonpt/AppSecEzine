@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 12 | Month: March | Year: 2023 | Release Date: 24/03/2023 | Edition: #475 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/1858574
+Related: https://www.metabaseq.com/imagemagick-zero-days/
+Description: H1 Arbitrary Remote Leak via ImageMagick (CVE-2022-44268).
+
+URL: http://bit.ly/3LFUfWO (+)
+Description: Clipchamp (MS Office Product) ATO - Google IAP AuthZ bypass.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ambiso/bitwarden-pin
+Blog: https://ambiso.github.io/bitwarden-pin/
+Description: PoC Bitwarden PIN brute-forcer.
+
+URL: https://github.com/Zeus-Labs/ZeusCloud
+Description: ZeusCloud is an open source cloud security platform.
+
+URL: https://github.com/XaFF-XaFF/Black-Angel-Rootkit
+Description: Black Angel is a Windows 11/10 x64 kernel mode rootkit.
+
+URL: https://github.com/r4ulcl/wifi_db/
+Description: Script to parse Aircrack-ng captures into a SQLite database.
+
+URL: https://github.com/nccgroup/DroppedConnection
+Description: Leveraging Cisco AnyConnect Client to Drop and Run Payloads.
+
+URL: https://github.com/LaurieWired/JADXecute
+Description: JADX-gui scripting plugin for dynamic decompiler manipulation.
+
+URL: https://github.com/netspooky/scare
+Description: A multi-arch assembly REPL and emulator for your command line.
+
+URL: https://github.com/chaitin/mimicry
+Description: Tool for active deception in exploitation and post-exploitation.
+
+URL: https://github.com/SeanPesce/lib2shell
+Blog: https://seanpesce.blogspot.com/2023/03/leveraging-ssh-keygen-for-arbitrary.html
+Description: Leveraging ssh-keygen for Arbitrary Execution (and Privilege Escalation).
+
+URL: https://github.com/zdhenard42/SOC-Multitool
+Description: Browser extension that streamlines investigations for security professionals.
+
+URL: https://github.com/eversinc33/BouncyGate
+Description: HellsGate in Nim w/ all syscalls going through NTDLL.DLL (as in RecycledGate). 
+
+URL: https://adepts.of0x.cc/vba-exports-runtime/
+Description: Resolving VBA exports in runtime w/out NtQueryInformationProcess/GetProcAddress.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.doyensec.com/2023/03/21/windows-installer.html
+Description: Windows Installer EOP (CVE-2023-21800).
+
+URL: https://limitedresults.com/2019/09/pwn-the-esp32-secure-boot/
+Description: Pwn the ESP32 Secure Boot.
+
+URL: https://blog.includesecurity.com/2023/03/mitigating-ssrf-in-2023/
+Description: Mitigating SSRF in 2023.
+
+URL: https://www.whid.ninja/blog/mojobox-yet-another-not-so-smartlock
+Description: MojoBox - Yet-Another Not-So-SmartLock.
+
+URL: https://blog.scrt.ch/2023/03/17/bypassing-ppl-in-userland-again/
+PoC: https://github.com/itm4n/PPLmedic
+Description: Bypassing PPL in Userland (again).
+
+URL: https://link.medium.com/rG4dGsDjnyb 
+Description: HTML Smuggling - Recent observations of threat actor techniques.
+
+URL: https://codewhitesec.blogspot.com/2023/03/jmx-exploitation-revisited.html
+Description: JMX Exploitation Revisited.
+
+URL: https://blog.impalabs.com/2303_advisory_parallels-desktop_toolgate.html
+PoC: https://github.com/Impalabs/CVE-2023-27326
+Description: Parallels Desktop <18.1.1 Toolgate Vulnerability (CVE-2023-27326).
+
+URL: https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html
+PoC: https://acropalypse.app/
+Description: Exploiting aCropalypse - Recovering Truncated PNGs (CVE-2023-21036).
+
+URL: https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware
+Description: Debugging D-Link - Emulating firmware and hacking hardware.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://bit.ly/3lzVOuG (+)
+More: http://bit.ly/3ZcV5NV (+)
+Description: Reverse Engineering a Windows 95 Game.
+
+URL: https://github.com/cebix/macemu
+Description: Basilisk II and SheepShaver Macintosh emulators.
+
+URL: https://github.com/CristiVlad25/gpt-cli
+Description: Access GPT3, ChatGPT, and GPT4 straight from your terminal.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?7dd1bfc937773963#STxbmTN0S7Zj61vWOYkB3uy3hsL/PY+0jTqwQiLVl3g=
