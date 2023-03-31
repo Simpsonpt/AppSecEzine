@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 13 | Month: March | Year: 2023 | Release Date: 31/03/2023 | Edition: #476 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.scrt.ch/2023/03/29/attacking-android-antivirus-applications/
+Description: Attacking Android Antivirus Applications.
+
+URL: https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration
+Description: BingBang - The AAD misconfig that led to Bing results manipulation and ATO.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://www.websec.ca/kb/sql_injection
+Description: The SQL Injection Knowledge Base.
+
+URL: https://github.com/TheD1rkMtr/HeapCrypt
+Description: Encypting the Heap while sleeping.
+
+URL: https://github.com/NexusFuzzy/redline_config
+Description: Tool to retrieve Config from Redline C2 servers.
+
+URL: https://github.com/mateusfavarin/psx-modding-toolchain
+Description: A set of tools to mod and reverse engineer PSX games.
+
+URL: https://github.com/Decurity/semgrep-smart-contracts
+Description: Semgrep rules for smart contracts based on DeFi exploits.
+
+URL: https://github.com/HakonHarnes/emcc-obf
+Description: Modified Emscripten compiler with LLVM-level obfuscation.
+
+URL: https://github.com/gjfvieira/frilane
+Description: Automated iOS Frida Gadget injection and Testflight deployment.
+
+URL: https://github.com/Macmod/goblob
+Description: A fast enumeration tool for publicly exposed Azure Storage blobs.
+
+URL: https://github.com/edoardottt/cariddi
+Description: Scan a list of domains for endpoints, secrets, file extensions and more.
+
+URL: https://github.com/drfabiocastro/certwatcher
+Description: Tool for capture and tracking certificate transparency logs, using YAML.
+
+URL: https://github.com/saw-your-packet/EC2StepShell
+Blog: https://securitycafe.ro/2023/03/08/ec2stepshell-reverse-shells-private-ec2-instances/
+Description: AWS post-exploitation tool to get high priv. reverse shells in EC2 instances.
+
+URL: https://github.com/Maldev-Academy/EntropyReducer
+Description: Reduce the entropy of your payload and obfuscate it w/ serialized linked lists.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.doyensec.com//2023/03/28/wallet-info.html
+Description: The Case For Improving Crypto Wallet Security.
+
+URL: https://www.tecsecurity.io/blog/tp-link_ax1800
+PoC: https://github.com/TecR0c/exploits/tree/main/CVE-2023-28760
+Description: Pwning the TP-Link AX1800 WiFi 6 Router.
+
+URL: http://bit.ly/3ZrDkKL (+)
+PoC: https://github.com/synacktiv/php_filter_chains_oracle_exploit
+Description: PHP Filter Chains - File Read from Error-based Oracle.
+
+URL: https://thalium.github.io/blog/posts/pivoting_to_the_secure_world/
+Description: ARM TrustZone - Pivoting to the secure world.
+
+URL: https://www.huntress.com/blog/veeam-backup-replication-cve-2023-27532-response
+Description: Veeam Backup & Replication CVE-2023-27532 Response.
+
+URL: https://research.nccgroup.com/2023/03/22/breaking-pedersen-hashes-in-practice/
+Description: Breaking Pedersen Hashes in Practice.
+
+URL: https://outflank.nl/blog/2023/03/28/attacking-visual-studio-for-initial-access/
+Description: Attacking Visual Studio for Initial Access.
+
+URL: https://www.persistent-security.net/post/aitm-adversary-in-the-middle-phishing
+More: http://bit.ly/3TTVHHc (+)
+Description: AiTM (Adversary-in-the-Middle) Phishing and more.
+
+URL: https://y4er.com/posts/minio-cve-2023-28432/
+Description: Multi-Cloud Object Storage Minio info leak leads to RCE (CVE-2023-28432).
+
+URL: https://jcjc-dev.com/2023/03/19/reversing-domyos-el500-elliptical/
+Description: Practical intro to BLE GATT Reverse Engineering - Hacking the Domyos EL500.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://sourcegraph.com/github.com/sourcegraph/sourcegraph
+Description: Code Intelligence Platform.
+
+URL: https://ciechanow.ski/bicycle/
+Description: Interactive article explaining the physics of a bicycle.
+
+URL: https://www.ling.upenn.edu/courses/Spring_2003/ling538/Lecnotes/ADfn1.htm
+Description: The Origin of the Terms Big-Endian and Little-Endian.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?3a01b036a014d576#9tSUZ/q6NZmIHzGmxDBT6LR+EfEmgHCSvwndc3niSoo=
