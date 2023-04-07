@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 14 | Month: April | Year: 2023 | Release Date: 07/04/2023 | Edition: #477  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.n00py.io/2023/01/bypassing-amazon-kids-parental-controls/
+Description: Bypassing Amazon Kids+ Parental Controls.
+
+URL: https://research.aurainfosec.io/pentest/pentah0wnage/
+Description: Pentah0wnage - Pre-Auth RCE in Pentaho Business Analytics Server.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Rnalter/ThunderCloud
+Description: Cloud Exploit Framework.
+
+URL: https://github.com/DragoQCC/HardHatC2/
+Description: A C# Command & Control framework.
+
+URL: https://github.com/ant4g0nist/webgl-fuzzer
+Description: WebGL fuzzer.
+
+URL: https://github.com/magicsword-io/LOLDrivers
+Description: Living Off The Land Drivers.
+
+URL: https://github.com/dievus/msLDAPDump
+Description: LDAP enumeration tool implemented in Python3.
+
+URL: https://github.com/glebarez/padre
+Description: Blazing fast, advanced Padding Oracle exploit.
+
+URL: https://github.com/Hakumarachi/Bropper
+Description: An automatic Blind ROP exploitation python tool.
+
+URL: https://github.com/channyein1337/jsleak
+Description: Tool to find secrets, paths or links in the source code. 
+
+URL: https://github.com/GTFOArgs/GTFOArgs.github.io
+Description: Dump of Unix binaries that can be abused for argument injection.
+
+URL: https://github.com/safedep/vet
+Description: Tool to achieve policy driven vetting of open source dependencies.
+
+URL: https://github.com/GONZOsint/gvision
+Description: GVision is a reverse image search app that use Google Cloud Vision API.
+
+URL: https://github.com/wellle/context.vim
+Description: Vim plugin that shows the context of the currently visible buffer contents.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://vulncheck.com/blog/xiongmai-iot-exploitation
+Description: Xiongmai IoT Exploitation.
+
+URL: https://kentindell.github.io/2023/04/03/can-injection/
+Description: CAN Injection - Keyless car theft.
+
+URL: https://blog.calif.io/p/privilege-escalation-in-eks
+Description: Privilege escalation in AWS Elastic Kubernetes Service.
+
+URL: https://vul.360.net/archives/690
+Description: Windows bluetooth vulnerability exploit (CVE-2022-44675).
+
+URL: http://bit.ly/3zE9MPw (+)
+Description: Protecting Android clipboard content from unintended exposure.
+
+URL: https://kellyshortridge.com/blog/posts/69-ways-to-mess-up-your-deploy/
+Description: 69 Ways to F*** Up Your Deploy.
+
+URL: http://bit.ly/418ha1i (+)
+Description: Exploiting a Critical Spoofing Vulnerability in Windows CryptoAPI.
+
+URL: https://blog.nviso.eu/2023/03/20/icedids-vnc-backdoors-dark-cat-anubis-keyhole/
+Description: IcedID's VNC Backdoors - Dark Cat, Anubis & Keyhole.
+
+URL: https://cturt.github.io/mast1c0re.html
+More: https://cturt.github.io/mast1c0re-2.html
+Description: Hacking the PS4/5 through the PS2 Emulator (Escape and Compiler Attack).
+
+URL: https://www.sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms/
+Description: It’s a (SNMP) Trap - Gaining Code Execution on LibreNMS.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://lushprojects.com/circuitjs/circuitjs.html
+Description: Circuit Simulator.
+
+URL: https://github.com/antimatter15/alpaca.cpp
+Description: Locally run an Instruction-Tuned Chat-Style LLM.
+
+URL: https://blog.dshr.org/2023/04/how-bubbles-are-blown.html
+Description: How Bubbles Are Blown.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?b4012cab93063399#iG/vIBQEomHj1xsyfUeagRVDP7rE7ON72WRwOHR8ed0=
