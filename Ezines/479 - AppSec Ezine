@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 16 | Month: April | Year: 2023 | Release Date: 21/04/2023 | Edition: #479  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://kuldeep.io/posts/holiday-hunting-with-aquatone/
+Description: Holiday Hunting With Aquatone.
+
+URL: https://bit.ly/41B3Oem (+)
+Description: Pretalx Vulnerabilities - How to get accepted at every conference.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/AFLplusplus/LibAFL
+Description: LibAFL, the fuzzer library.
+
+URL: https://github.com/quarkslab/pastis
+Description: PASTIS - Collaborative Fuzzing Framework.
+
+URL: https://github.com/cilium/pwru
+Description: eBPF-based Linux kernel networking debugger.
+
+URL: https://www.fo-sec.com/articles/10-defender-bypass-methods
+Description: Bypassing Windows Defender (10 Ways).
+
+URL: https://github.com/MitchHS/Mischief-DLL-Stager
+Description: Reasonably undetected shellcode stager and executer.
+
+URL: https://github.com/MitchHS/Discord-DLL-Hijacking
+Description: Discord DLL hijacking - Automation via Excel Macros.
+
+URL: https://github.com/mikeryan/ice9-bluetooth-sniffer
+Description: Wireshark Bluetooth sniffer for HackRF, BladeRF, and USRP.
+
+URL: https://scrapeops.io/web-scraping-playbook/how-to-bypass-cloudflare/
+Description: How To Bypass Cloudflare in 2023.
+
+URL: https://github.com/uni-due-syssec/efcf-framework
+Description: EF/CF - the Extremely Fast (ethereum smart) Contract Fuzzer.
+
+URL: https://github.com/redcanaryco/mac-monitor
+Description: System monitoring tool tailor-made for macOS security research.
+
+URL: https://github.com/user1342/PocketSmali
+Description: A modular and extendable Python tool for emulating simple SMALI code.
+
+URL: https://github.com/arkadiyt/protodump
+Description: Tool to dump all Protobuf file descriptors from a given binary (*.proto).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://reversing.info/posts/guardedregions/
+Description: In-depth analysis on Valorant's Guarded Regions.
+
+URL: https://itm4n.github.io/bypassing-ppl-in-userland-again/
+Description: Bypassing PPL in Userland (again).
+
+URL: https://vanmieghem.io/process-injection-evading-edr-in-2023/
+Description: Process injection in 2023, evading leading EDRs.
+
+URL: https://redops.at/en/blog/meterpreter-vs-modern-edrs-in-2023
+Description: Meterpreter vs Modern EDR(s).
+
+URL: https://bit.ly/3mOBoP8 (+)
+Description: Weblogic CVE-2023-21931 post-deserialization exploitation.
+
+URL: https://starlabs.sg/advisories/23/23-2017/
+Description: Shopware 6 SSTI via Twig Security Extension (CVE-2023-2017).
+
+URL: https://codewhitesec.blogspot.com/2023/04/java-exploitation-restrictions-in.html
+Description: Java Exploitation Restrictions in Modern JDK Times.
+
+URL: https://hardenedvault.net/blog/2023-04-18-java-card-runtime-memory-corruption/
+Description: Memory corruption in JCRE - An unpatchable HSM may swallow your private key.
+
+URL: https://bit.ly/3N02QUJ (+)
+Description: 'Write' perms to private registry 'lead' to RCE in Alibaba Cloud DB Services.
+
+URL: https://n0psn0ps.github.io/2023/03/02/android-malware-analysis-series-ato.apk-part-3.1/
+More: https://n0psn0ps.github.io/2023/04/13/android-malware-analysis-series-ato.apk-part-3.2/
+Description: Android Malware Analysis Series - ATO.apk.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://webgpufundamentals.org/
+Description: WebGPU Fundamentals.
+
+URL: https://github.com/orhun/linuxwave
+Description: Generate music from the entropy of Linux.
+
+URL: https://justine.lol/mmap/
+Description: Edge AI Just Got Faster (llama.cpp Improvements).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?fa1d24f8df907f4a#2mFGZGCAaZikxZP373iYRB27AfLXpMbmVDZSxyfllvw=
