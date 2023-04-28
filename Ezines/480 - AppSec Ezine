@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 17 | Month: April | Year: 2023 | Release Date: 28/04/2023 | Edition: #480  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://weizman.github.io/2023/04/10/snyk-xss/
+Description: Stored XSS on Snyk Advisor Service (CVE-2023-1767).
+
+URL: https://blog.assetnote.io/2023/04/26/xss-million-websites-cpanel/
+Description: Finding XSS in a million websites (cPanel CVE-2023-29489).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/vector35/debugger
+Description: Binary Ninja debugger.
+
+URL: https://github.com/buzzer-re/Shinigami/
+Description: A dynamic unpacking tool.
+
+URL: https://github.com/avito-tech/deepsecrets
+Description: A better tool for secret scanning.
+
+URL: https://github.com/google/buzzer
+Description: Buzzer - An eBPF Fuzzer toolchain.
+
+URL: https://github.com/tijldeneut/diana
+Description: Diana Credential Recovery Framework.
+
+URL: https://github.com/SysSec-KAIST/LTESniffer
+Description: An Open-source LTE Downlink/Uplink Eavesdropper.
+
+URL: https://github.com/f1zm0/acheron
+Description: Indirect syscalls for AV/EDR evasion in Go assembly.
+
+URL: https://github.com/4g3nt47/Striker
+Description: Striker is a simple Command and Control (C2) program.
+
+URL: https://github.com/GitHubSecurityLab/actions-permissions
+Description: GitHub token permissions Monitor and Advisor actions.
+
+URL: https://github.com/ItsCyberAli/PowerMeUp
+Description: A small library of powershell scripts for post exploitation.
+
+URL: https://github.com/codingo/dorky
+Description: Automate dorking of Github/Shodan and a variety of other sources.
+
+URL: https://github.com/redhuntlabs/kubestalk
+Description: Black-Box Discover K8s and related infrastructure based attack surface.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.elttam.com/blog/goahead/
+Description: Remote LD_PRELOAD Exploitation.
+
+URL: https://bananamafia.dev/post/frida-unity/
+Description: Cheating in Unity Games Because Why Not?
+
+URL: https://zwclose.github.io/2022/12/18/killer1.html
+More: https://zwclose.github.io/2023/04/18/killer2.html
+Description: Diving into Intel Killer bloatware.
+
+URL: https://haxx.in/posts/dumping-the-amlogic-a113x-bootrom/
+PoC: https://github.com/blasty/sonos
+Description: Dumping the Amlogic A113X Bootrom.
+
+URL: https://bit.ly/3AxnPH1 (+)
+Description: Smash PostScript Interpreters Using A Syntax-Aware Fuzzer.
+
+URL: https://vulncheck.com/blog/cve-2023-1671-analysis
+Description: Analysis of Pre-Auth RCE in Sophos Web Appliance (CVE-2023-1671).
+
+URL: https://www.synacktiv.com/publications/windows-secrets-extraction-a-summary
+Description: Windows Secrets Extraction - A Summary.
+
+URL: https://y4er.com/posts/messagepack-csharp-typeless-mode-deserialization-rce/
+Description: MessagePack-CSharp Typeless Mode Deserialization RCE.
+
+URL: https://infosecwriteups.com/exploring-the-world-of-esi-injection-b86234e66f91
+Description: Exploring the World of ESI Injection.
+
+URL: https://www.secureworks.com/research/azure-active-directory-flaw-allowed-saml-persistence
+Description: Azure Active Directory Flaw Allowed SAML Persistence.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/suno-ai/bark
+Description: Text-Prompted Generative Audio Model.
+
+URL: https://john-millikin.com/running-sunos-4-in-qemu-sparc
+Description: Running SunOS 4 in QEMU (SPARC).
+
+URL: https://cs.fit.edu/~kgallagher/Schtick/How%20To%20Write%20Unmaintainable%20Code.html
+Description: How To Write Unmaintainable Code.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?d6c546212d6c4ef4#cO7tgf8OaRHtyQtzPAKaRAz1m4rIme1AhKTuSSBeMys=
