@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 18 | Month: May | Year: 2023 | Release Date: 05/05/2023 | Edition: #481   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.calif.io/p/redash-saml-authentication-bypass
+Description: Redash SAML Authentication Bypass.
+
+URL: https://blog.assetnote.io/2023/04/30/rce-oracle-opera/
+Description: Exploiting an Order of Operations Bug to Achieve RCE in Oracle Opera.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/optiv/Freeze.rs
+Description: RUST payload toolkit for bypassing EDRs.
+
+URL: https://github.com/Damian89/yataf
+Description: Extracts secrets and paths from files or urls.
+
+URL: https://github.com/Wack0/SecureBootPolicyTools
+Description: Tools for creating and using Secure Boot policies.
+
+URL: https://github.com/kpcyrd/sh4d0wup
+Description: Signing-key abuse and update exploitation framework.
+
+URL: https://github.com/JakeWnuk/maskcat
+Description: Utility tool for Hashcat Masks and Password Cracking.
+
+URL: https://github.com/morpheuslord/QuadraInspect
+Description: Tool for analyzing the security of Android applications.
+
+URL: https://bit.ly/44vifTp (+)
+Description: Reverse engineering tricks - Identifying opaque network protocols.
+
+URL: https://github.com/joeavanzato/Trawler
+Description: PowerShell script to help discover adversary persistence mechanisms.
+
+URL: https://clearbluejar.github.io/posts/callgraphs-with-ghidra-pyhidra-and-jpype/
+Description: Callgraphs with Ghidra, Pyhidra, and Jpype.
+
+URL: https://github.com/Cryptogenic/PS5-IPV6-Kernel-Exploit
+Description: Experimental webkit-based kernel exploit (Arb. R/W) for the PS5 <=4.51FW.
+
+URL: https://github.com/memN0ps/arsenal-rs
+Description: Rusty Arsenal - Process Injection / Post-Exploitation Techniques in Rust.
+
+URL: https://github.com/AnubisSec/GroovyWaiter
+Description: Enumeration tool for developer heavy networks with many Jenkins instances.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://xz.aliyun.com/t/12457
+Description: Thinkphp5.1 RCE vulnerability and POC writing.
+
+URL: https://landaire.net/reversing-yaesu-firmware-encryption/
+Description: Reverse Engineering Yaesu FT-70D Firmware Encryption.
+
+URL: https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/
+Description: Exploiting Buffer overflow in Xiongmai DVRs.
+
+URL: https://github.blog/2023-04-06-pwning-pixel-6-with-a-leftover-patch/
+Description: Pwning Pixel 6 with a leftover patch.
+
+URL: https://exact.realty/blog/posts/2023/03/30/enumeration-timing-uuids/
+Description: Opaque IDs The ultimate protection against enumeration attacks.
+
+URL: https://astralvx.com/stealing-the-bitlocker-key-from-a-tpm/
+Description: Stealing the Bitlocker key from a TPM (physical hardware attack).
+
+URL: https://blog.quarkslab.com/android-greybox-fuzzing-with-afl-frida-mode.html
+Description: Permalink to Android greybox fuzzing with AFL++ Frida mode.
+
+URL: https://sec-consult.com/blog/detail/securing-databricks-cluster-init-scripts/
+Description: Securing Databricks cluster init scripts.
+
+URL: https://blog.scrt.ch/2023/05/01/solr-rce-from-exposed-administration-interface/
+Description: Apache Solr 8.3.1 RCE from exposed administration interface.
+
+URL: https://pulsesecurity.co.nz/advisories/Azure-Devops-Command-Injection
+Description: Azure DevOps CICD Pipelines inSecurity (CMD Injections and Runner hijacking).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.nango.dev/blog/why-is-oauth-still-hard
+Description: Why is OAuth still hard in 2023?
+
+URL: https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver
+Description: Driver adventures for a 1999 webcam.
+
+URL: https://github.com/nneonneo/ghidra-rickroll
+Description: Get rickrolled, right in your favourite NSA reverse engineering tool.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?26c9b6cf7617a185#797OkQA8RO2tk0+Mfj+gFlGLPihox6c8fvuVuBMaqko=
