@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 19 | Month: May | Year: 2023 | Release Date: 12/05/2023 | Edition: #482   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://giraffesecurity.dev/posts/dependabot-confusion/
+Description: Gaining Access to Private GitHub Repositories using Dependabot.
+
+URL: https://jub0bs.com/posts/2023-05-05-smorgasbord-of-a-bug-chain/
+Description: A smorgasbord of a bug chain - postMessage, JSONP, WAFs, DOM-based XSS...
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/carlospolop/PEASS-ng/
+Description: Linux Privilege Escalation Awesome Script.
+
+URL: https://github.com/TardC/CVE-2023-27524
+Description: Apache Superset Auth Bypass (CVE-2023-27524).
+
+URL: https://github.com/demon-i386/MeliziaC2
+Description: DNS over HTTPS targeted malware (only runs once).
+
+URL: https://github.com/jborean93/dpapi-ng
+Description: Python DPAPI NG Decryptor for non-Windows Platforms.
+
+URL: https://github.com/xkaneiki/CVE-2023-0386
+Description: Privilege Escalation (PE) on Ubuntu 22.04 (CVE-2023-0386).
+
+URL: https://github.com/almandin/ntdsdotsqlite
+Description: A small utility to translate NTDS.dit files to SQLite format.
+
+URL: https://github.com/MattKeeley/Spoofy
+Description: Tool to check domains to spoof based on SPF and DMARC records.
+
+URL: https://github.com/blacklanternsecurity/badsecrets
+Blog: https://blog.blacklanternsecurity.com/p/introducing-badsecrets
+Description: A library for detecting known secrets across many web frameworks.
+
+URL: https://github.com/realoriginal/bootlicker
+Description: A generic UEFI bootkit used to achieve initial usermode execution.
+
+URL: https://github.com/last-byte/PersistenceSniper
+Description: Powershell module to hunt persistence implants in Windows machines.
+
+URL: https://github.com/GaloisInc/MATE
+Description: Tools to analysis bugs in C and C++ code using Code Property Graphs.
+
+URL: https://github.com/p0dalirius/objectwalker
+Description: Python module to explore the object tree and extract paths of memory objects.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.synacktiv.com/publications/i-hack-u-boot.html
+Description: Hacking via U-boot, the Universal Boot Loader.
+
+URL: https://qriousec.github.io/post/vbox-pwn2own-2023/
+Description: Analysis of VirtualBox CVE-2023-21987 and CVE-2023-21991.
+
+URL: https://danaepp.com/attacking-apis-by-tainting-data-in-weird-places
+Description: Attacking APIs by tainting data in weird places.
+
+URL: https://www.elttam.com/blog/pwnassistant/
+Description: PwnAssistant - Controlling /home's via a Home Assistant RCE.
+
+URL: https://www.ghostccamm.com/blog/multi_strapi_vulns/
+Description: Multiple Critical Vulnerabilities in Strapi Versions <=4.7.1.
+
+URL: https://blog.doyensec.com/2023/05/04/testing-ztp-platforms-a-primer.html
+Description: Testing Zero Touch Production Platforms and Safe Proxies.
+
+URL: https://bit.ly/3O2LsPR (+)
+Description: Command Injection in ManageEngine ADManager Plus (CVE-2023-29084).
+
+URL: https://xret2pwn.github.io/The-Art-of-Clipboard-Forensics-Recovering-Deleted-Data/
+Description: The Art of Clipboard Forensics Recovering Deleted Data.
+
+URL: https://pwn.win/2023/05/08/parallels-escape.html
+PoC: https://github.com/kn32/parallels-plist-escape
+Description: Escaping Parallels Desktop with Plist Injection (CVE-2023-27328/CVE-2023-27327).
+
+URL: https://bit.ly/3poVv7s (+)
+Description: Avast AV privileged arbitrary file create on virus quarantine (CVE-2023-1585/1587).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://subtls.pages.dev/
+Description: This page fetch itself, byte by byte, over TLS.
+
+URL: https://github.com/dethrace-labs/dethrace
+Description: Reverse engineering the 1997 game "Carmageddon".
+
+URL: https://github.com/openai/shap-e
+Description: Generate 3D objects conditioned on text or images.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?dd440f2cef7d2fea#QLCz/+QleaNj13mEn6fO83JN2NvDlnbkTHQNq6fcy1w=
