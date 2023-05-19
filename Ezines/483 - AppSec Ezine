@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 20 | Month: May | Year: 2023 | Release Date: 19/05/2023 | Edition: #483   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/3hcb9faxSzb 
+Description: RCE due to Dependency Confusion.
+
+URL: https://crnkovic.dev/testing-converso/
+Description: Testing a new encrypted messaging app's extraordinary claims.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/fin3ss3g0d/evilgophish
+Description: Combination of evilginx2 and GoPhish.
+
+URL: https://link.medium.com/WjZzOJbwSzb
+Description: LOLBINed - Finding 'LOLBINs' In AV Uninstallers.
+
+URL: https://github.com/OccamsXor/Dragnmove
+Description: Infect Shared Files In Memory for Lateral Movement.
+
+URL: https://github.com/vdohney/keepass-password-dumper
+Description: KeePass 2.X Master Password Dumper (CVE-2023-32784).
+
+URL: https://github.com/noqdev/iambic
+Description: Cloud IAM as Code - "IAMbic- the Terraform of Cloud IAM".
+
+URL: https://github.com/SirBugs/endext
+Description: Tool to extract all the possible endpoints from the JS files.
+
+URL: https://github.com/trustedsec/hardcidr
+Description: Script to discover the netblocks, or ranges, (in CIDR notation).
+
+URL: https://github.com/p0dalirius/Coercer
+Description: Tool to coerce a Windows Server to AuthN on an arbitrary machine.
+
+URL: https://github.com/chainloop-dev/chainloop
+Blog: https://docs.chainloop.dev/blog/software-supply-chain-attestation-easy-way
+Description: Open Source Software Supply Chain Control Plane.
+
+URL: https://github.com/ab2pentest/MacOSThreatTrack
+Description: Tool for proactive detection of malicious activity on macOS systems.
+
+URL: https://github.com/RUB-NDS/REST-Attacker
+Description: PoC for the feasibility of testing generic real-world REST implementations.
+
+URL: https://github.com/wzqs/endpoints_explore
+Description: Tool to test bypasses rules and map sensitive SpringBoot Actuator Endpoints.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/MruI4p5vSzb 
+Related: https://github.com/trickest/zip
+Description: The Dangers of Google’s .zip TLD.
+
+URL: https://neodyme.io/blog/csgo_from_zero_to_0day/
+Description: CS:GO - From Zero to 0-day (3xRCE).
+
+URL: https://www.immunit.ch/blog/2023/05/11/wsus-rce-inject/
+Description: Reliably attacking WSUS with socket injection.
+
+URL: https://dys2p.com/en/2023-05-luks-security.html
+Description: On the security of the Linux disk encryption LUKS.
+
+URL: https://research.nccgroup.com/2023/04/27/state-of-dns-rebinding-in-2023/
+Description: State of DNS Rebinding in 2023.
+
+URL: https://bit.ly/42Riwik (+)
+Description: Google Chrome V8 ArrayShift Race Condition Remote Code Execution.
+
+URL: https://bit.ly/3BFwPuy (+)
+Description: The Dragon Who Sold His Camaro - Analyzing Custom Router Implant.
+
+URL: https://vanmieghem.io/blueprint-for-evading-edr-in-2022/
+Description: A blueprint for evading industry leading endpoint protection in 2022.
+
+URL: https://danrevah.github.io/2023/05/15/CVE-2023-26818-Bypass-TCC-with-Telegram/
+Description: Bypass TCC with Telegram in macOS (CVE-2023-26818).
+
+URL: https://link.medium.com/uvDp8PVaIzb  
+PoC: https://github.com/Malwareman007/CVE-2023-27326
+Description: Directory Traversal Arb. File Write Vuln. VM Escape for Parallels Desktop.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://emupedia.net/beta/emuos/
+Description: PC Clasics with EmuOS.
+
+URL: https://github.com/facebookresearch/segment-anything
+Description: FB SegmentAnything Model (SAM).
+
+URL: https://github.com/imartinez/privateGPT
+Description: Interact privately with your documents using the power of GPT.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?00832b35a3396b09#CYlGoRj0vBnrqj19Qh7oD6xl0iNLsHvg+GKyl4yZNJ0=
