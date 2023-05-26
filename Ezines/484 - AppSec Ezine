@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 21 | Month: May | Year: 2023 | Release Date: 26/05/2023 | Edition: #484   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://corben.io/blog/hacking-kucoin
+Description: A $1000k bounty? The KuCoin User Information Leak.
+
+URL: https://bit.ly/43inx3k (+)
+Description: Expo Framework AuthSession Redirect Proxy redirect (CVE-2023-28131).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://www.jaiminton.com/reverse-engineering/remcos
+Description: Remcos RAT - Reverse engineering.
+
+URL: https://github.com/grimlockx/ADCSKiller
+Description: ADCSKiller - An ADCS Exploitation Automation Tool.
+
+URL: https://flaviu.io/advanced-persistent-threat/
+Description: My Methods To Achieve Persistence In Linux Systems.
+
+URL: https://blog.thc.org/infecting-ssh-public-keys-with-backdoors
+Description: Infecting SSH Public Keys with backdoors.
+
+URL: https://github.com/alt3kx/wafaray
+Description: Enhance your malware detection with WAF + YARA (WAFARAY).
+
+URL: https://erev0s.com/blog/3-ways-for-dynamic-code-loading-in-android/
+Description: Three ways for Dynamic Code Loading in Android.
+
+URL: https://ssd-disclosure.com/ssd-advisory-netgear-r7800-afpd-preauth/
+Description: NETGEAR R7800 (V1.0.2.90) AFPD PreAuth (heap-buffer overflow).
+
+URL: https://github.com/Orange-Cyberdefense/KeePwn
+Description: A python tool to automate KeePass discovery and secret extraction.
+
+URL: https://github.com/bsauce/kernel-exploit-factory
+Description: Linux kernel CVE exploit analysis report and relative debug environment.
+
+URL: https://link.medium.com/6LPYbXH4Tzb 
+Description: Writing a Sliver C2 PS Stager w/ Shellcode Compression and AES Encryption.
+
+URL: https://github.com/persistent-security/SMShell
+Blog: https://bit.ly/3OIJwwb (+)
+Description: Send commands and receive responses over SMS from mobile broadband computers.
+
+URL: https://github.com/dhmosfunk/CVE-2023-25690-POC
+Description: mod_proxy + Apache 2.4.(0-55) leads to HTTP Request Smuggling (CVE-2023-25690).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://vulncheck.com/blog/papercut-rce
+Description: PaperCut Exploitation - A Different Path to Code Execution.
+
+URL: https://www.mandiant.com/resources/blog/url-obfuscation-schema-abuse
+Description: Don't @ Me - URL Obfuscation Through Schema Abuse.
+
+URL: https://dr4k0nia.github.io/posts/NixImports-a-NET-loader-using-HInvoke/
+Description: NixImports a .NET loader using HInvoke.
+
+URL: https://bit.ly/4282Ohx (+)
+Description: Exploring Impersonation through the Named Pipe Filesystem Driver.
+
+URL: https://bit.ly/3IKIdJl (+)
+More: https://billdemirkapi.me/abusing-exceptions-for-code-execution-part-2/
+Description: Abusing Exceptions for Code Execution (Series).
+
+URL: https://bit.ly/3q378RQ (+)
+Description: Drone Reverse Engineering using Packet Dissection with Wireshark.
+
+URL: https://mogwailabs.de/en/blog/2023/04/vulnerability-spotlight-cve-2023-0264/
+Description: User impersonation vulnerability within Keycloak (CVE-2023-0264).
+
+URL: https://blog.thalium.re/posts/fuzzing-samsung-system-services/
+Description: The Fuzzing Guide to the Galaxy: An Attempt with Android System Services.
+
+URL: https://bit.ly/3IHqbrl (+)
+Description: Exploiting misconfigured Google Cloud Service Accounts from GitHub Actions.
+
+URL: https://blog.assetnote.io/2023/05/10/sitecore-round-two/
+Description: Bypass IIS AuthZ w/ 1 Weird Trick - 3 RCEs and 2 Auth Bypasses in Sitecore 9.3.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://win11.yashash.dev/
+Description: Windows 11 in Svelte.
+
+URL: https://www.vogons.org/viewtopic.php?p=1163091#p1163091
+Description: Fixing a latent crash in a 21-year-old obscure PC game.
+
+URL: https://gitlab.com/brutaldon/brutaldon
+Description: Brutaldon is a brutalist, Web 1.0 web interface for Mastodon and Pleroma. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?5532856c06ee0fde#F+Q+3A+/Xce92ifp1dWn0VmRmkqsX040R4frpten4Xg=
