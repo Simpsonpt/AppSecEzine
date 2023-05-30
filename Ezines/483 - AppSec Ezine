@@ -113,6 +113,7 @@ URL: https://emupedia.net/beta/emuos/
 Description: PC Classics with EmuOS.
 
 URL: https://github.com/facebookresearch/segment-anything
+Related: https://github.com/dibrale/samist
 Description: FB SegmentAnything Model (SAM).
 
 URL: https://github.com/imartinez/privateGPT
