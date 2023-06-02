@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 22 | Month: June | Year: 2023 | Release Date: 02/06/2023 | Edition: #485  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.ammaraskar.com/vscode-rce/
+Description: VSCode Remote Code Execution advisory.
+
+URL: https://hackerone.com/reports/723307
+Description: GitLab Stored XSS in Merge Request Pages.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/S3cur3Th1sSh1t/Ruy-Lopez
+Description: Proof of Concept for userland hook evasion.
+
+URL: https://github.com/ZeroMemoryEx/Blackout
+Description: kill anti-malware protected processes (BYOVD).
+
+URL: https://github.com/Kudaes/EPI
+Description: Process injection through entry points hijacking.
+
+URL: https://github.com/Occamsec/CVE-2023-2825
+Description: GitLab 16.0.0 Path Traversal PoC (CVE-2023-2825).
+
+URL: https://github.com/avilum/secimport
+Description: Python sandbox toolkit, powered by eBPF / Dtrace.
+
+URL: https://github.com/nccgroup/cowcloud
+Description: Serverless solution to distribute work-loads in AWS.
+
+URL: https://github.com/RischardV/emoji-shellcoding
+Description: Emoji shellcoding tools for RISC-V (32-bit and 64-bit).
+
+URL: https://github.com/I5N0rth/CVE-2023-33246
+Description: Apache RocketMQ Remote Code Execution (CVE-2023-33246).
+
+URL: https://github.com/LaresLLC/ScrapingKit
+Blog: https://labs.lares.com/introducing-scraping-kit/
+Description: Tools for scraping services for keywords and useful for DC enumeration.
+
+URL: https://github.com/fxsheep/amd-lm32-smu-dumper
+Description: Quick & Dirty tool to dump LM32-based AMD SMU bootrom on patched SMU FW.
+
+URL: https://github.com/ergrelet/windiff
+Description: Compare exports and debug symbols/types of PEs between Windows versions.
+
+URL: https://github.com/WKL-Sec/HiddenDesktop
+Description: Tool for Cobalt Strike operators to interact w/ a remote desktop session.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://kuenzi.dev/toothbrush/
+Description: Hacking my "smart" toothbrush.
+
+URL: https://www.mdsec.co.uk/2022/10/analysing-lastpass-part-1/
+Description: Analysing LastPass.
+
+URL: https://www.trustedsec.com/blog/looting-ios-apps-cache-db/
+Description: Looting iOS App's Cache.db.
+
+URL: https://8ksec.io/android-deeplink-and-webview-exploitation-8ksec-blogs/
+Description: Android Deep Link issues and WebView Exploitation.
+
+URL: https://www.varonis.com/blog/salesforce-ghost-sites
+Description: Ghost Sites - Stealing Data From Deactivated Salesforce Communities.
+
+URL: https://seanpesce.blogspot.com/2023/05/bypassing-selinux-with-initmodule.html
+PoC: https://github.com/SeanPesce/SELinux-Kernel-Module-Bypass
+Description: Bypassing SELinux with init_module.
+
+URL: https://www.cyberark.com/resources/threat-research-blog/colorful-vulnerabilities
+Description: Colorful Vulnerabilities - BoF the OpenRazer open-source kernel drivers.
+
+URL: https://blog.ethiack.com/en/blog/git-arbitrary-configuration-injection-cve-2023-29007
+Description: Git Arbitrary Configuration Injection (CVE-2023-29007).
+
+URL: https://jhalon.github.io/chrome-browser-exploitation-1/
+More: https://jhalon.github.io/chrome-browser-exploitation-2/ | https://bit.ly/43d6Ma2 (+)
+Description: Chrome Browser Exploitation (Series).
+
+URL: https://bit.ly/3MIbWUx (+)
+Description: MS Exchange Powershell Remoting Deserialization leading to RCE (CVE-2023-21707).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://learningmusic.ableton.com/
+Description: Get started - Making Music.
+
+URL: https://xorvoid.com/sectorc.html
+Description: SectorC - A C Compiler in 512 bytes.
+
+URL: https://tailscale.com/blog/steam-deck/
+Description: Putting Tailscale on the Steam Deck.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?ea9626b32ec5c92b#xCwfghHkHVzJUw8D25210oNfFG2XcKnvM5oxRwgMqTo=
