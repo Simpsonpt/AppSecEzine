@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 23 | Month: June | Year: 2023 | Release Date: 09/06/2023 | Edition: #486  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://0day.click/recipe/pash/
+Description: RCE via LDAP truncation on hg.mozilla.org.
+
+URL: https://hackerone.com/reports/1923672
+Description: GitLab ATO due to insufficient URL validation on RelayState parameter.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/iilegacyyii/Shellcrypt
+Description: A QoL tool to obfuscate shellcode.
+
+URL: https://github.com/Lavender-exe/Hades-C2
+Description: Hades Basic Command & Control Server.
+
+URL: https://www.f3rn0s.xyz/posts/reverse-socks/
+Description: Why you should be using reverse SOCKS.
+
+URL: https://github.com/RapidDNS/Afuzz
+Description: Afuzz - An automated web path fuzzing tool.
+
+URL: https://github.com/glmcdona/strings2
+Description: strings2 - An improved strings extraction tool.
+
+URL: https://github.com/HITH-Hackerinthehouse/PassMute
+Description: PassMute - A Password Trasmutation/Mutator tool.
+
+URL: https://github.com/nyxgeek/onedrive_user_enum
+Blog: https://www.trustedsec.com/blog/onedrive-to-enum-them-all/
+Description: OneDrive to Enum Them All.
+
+URL: https://github.com/icyguider/LightsOut
+Description: Generate an obfuscated DLL that will disable AMSI & ETW.
+
+URL: https://github.com/t3l3machus/Synergy-httpx
+Description: HTTP(s) server designed to assist in red teaming activities.
+
+URL: https://github.com/cyberaz0r/Burp-IISTildeEnumerationScanner
+Description: Burp extension for exploiting IIS Tilde Enumeration vulnerability.
+
+URL: https://github.com/naksyn/ModuleShifting
+Description: Stealthier variation of Module Stomping and Overloading injection techniques.
+
+URL: https://github.com/Dec0ne/DavRelayUp
+Description: Universal no-fix LPE in domain-joined windows workstations (Req. LDAP No Signing).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://pop.rdi.sh/rop-exploits/
+Description: ROP Exploits Explained.
+
+URL: https://y4er.com/posts/nacos-hessian-rce/
+Description: Nacos Hessian Deserialization to RCE.
+
+URL: https://blog.doyensec.com/2023/06/01/r2pickledec.html
+Description: Reversing Pickles with r2pickledec.
+
+URL: https://bit.ly/45QQy8k (+)
+Description: Exploring Android Heap allocations in jemalloc 'new'.
+
+URL: https://8ksec.io/ios-deeplink-attacks-part-1-introduction-8ksec-blogs/
+More: https://8ksec.io/ios-deep-link-attacks-part-2-exploitation-8ksec-blogs/
+Description: iOS Deep Link Attacks Series.
+
+URL: https://jhftss.github.io/CVE-2022-32902-Patch-One-Issue-and-Introduce-Two/
+Description: Patch One Issue and Introduce Two (CVE-2022-32902).
+
+URL: https://www.pixiepointsecurity.com/blog/nday-cve-2021-31985.html
+Description: Exploiting the Windows Defender AsProtect Heap Overflow (CVE-2021-31985).
+
+URL: https://javierprtd.blogspot.com/2023/05/cve-2020-27786-explotation-userfaultfd.html
+Description: userfaultfd + patching file struct /etc/passwd explotation (CVE-2020-27786).
+
+URL: https://bit.ly/3MXGh1r (+)
+Description: New macOS vulnerability, Migraine, could bypass System Integrity Protection.
+
+URL: https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/
+Description: Finding a variant of a Project Zero bug (CVE-2022-46395, a variant of CVE-2022-36449).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://sillysecurityawards.com/
+Description: Stop Silly Security Awards.
+
+URL: https://github.com/seemoo-lab/openhaystack
+Description: Build your own 'AirTags' label today!
+
+URL: https://gaultier.github.io/blog/x11_x64.html
+Description: Learn x86-64 assembly by writing a GUI from scratch.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?49ac07b44e361529#orewccQfRQEgWf/N+Yf/Ecjwao65/erfxC/eOfuv4vg=
