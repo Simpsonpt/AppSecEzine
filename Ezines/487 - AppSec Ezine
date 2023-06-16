@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 24 | Month: June | Year: 2023 | Release Date: 16/06/2023 | Edition: #487  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackcompute.com/hacking-epp-servers/
+Description: Hacking root EPP servers to take control of DNS zones.
+
+URL: https://jwlss.pw/mathjs/
+Description: How we exploited a remote code execution vulnerability in math.js.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/namazso/MagicSigner
+Description: Signtool for expired certificates.
+
+URL: https://github.com/xalicex/LOLDrivers_finder
+Description: Process killer drivers finder.
+
+URL: https://github.com/g3tsyst3m/elevationstation
+Description: Elevate to SYSTEM any way we can! 
+
+URL: https://github.com/EC-DIGIT-CSIRC/sysdiagnose
+Description: Forensic toolkit for iOS sysdiagnose feature.
+
+URL: https://github.com/ZeroMemoryEx/Bypass-Sandbox-Evasion
+Description: Bypass Malware Sandbox Evasion Ram check.
+
+URL: https://github.com/ataradov/usb-sniffer
+Description: Low-cost LS/FS/HS USB sniffer with Wireshark interface.
+
+URL: https://github.com/MrEmpy/Mantra
+Description: A tool used to hunt down API key leaks in JS files and pages.
+
+URL: https://github.com/memN0ps/bootkit-rs
+Description: Rusty Bootkit - Windows UEFI Bootkit in Rust (Codename RedLotus).
+
+URL: https://github.com/86x/CVE-2023-32353-PoC
+Description: Local Privilege Escalation via iTunes in Windows (CVE-2023-32353).
+
+URL: https://github.com/persistent-security/hermes-the-messenger
+Blog: https://bit.ly/3JdooKQ (+)
+Description: A PoC for achieving persistence via push notifications on Windows.
+
+URL: https://github.com/DarkCoderSc/SharpFtpC2
+Description: A Streamlined FTP-Driven C2 Conduit for Interconnecting Remote Systems.
+
+URL: http://mahmoudsec.blogspot.com/2023/02/sql-injection-utilizing-xml-functions.html
+Description: SQLi Utilizing XML Functions in Oracle and PostgreSQL to bypass WAFs.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://vulcan.io/blog/ai-hallucinations-package-risk
+Description: Can you trust ChatGPT's package recommendations?
+
+URL: https://www.tarlogic.com/blog/linked-servers-adsi-passwords/
+Description: MSSQL linked servers - abusing ADSI for password retrieval.
+
+URL: https://insinuator.net/2023/06/jasper-reports-library-code-injection/
+Description: Jasper Reports Library Code Injection.
+
+URL: https://ssd-disclosure.com/ssd-advisory-keriocontrol-remote-code-execution/
+Description: KerioControl from a tar.gz path traversal to Remote Code Execution.
+
+URL: https://bit.ly/3NcyM6Q (+)
+Description: Dynamic Linq (.NET library) Injection RCE Vulnerability (CVE-2023-32571).
+
+URL: https://summoning.team/blog/vmware-vrealize-network-insight-rce-cve-2023-20887/
+PoC: https://github.com/sinsinology/CVE-2023-20887
+Description: Pre-authenticated RCE in VMware vRealize Network Insight (CVE-2023-20887).
+
+URL: https://blog.lexfo.fr/xortigate-cve-2023-27997.html
+More: https://labs.watchtowr.com/xortigate-or-cve-2023-27997/
+Description: XORtigate - Pre-Auth Remote Code Execution on Fortigate VPN (CVE-2023-27997).
+
+URL: https://orca.security/resources/blog/examining-two-xss-vulnerabilities-in-azure-services/
+Description: Two XSS Vulnerabilities in Azure with Embedded postMessage IFrames.
+
+URL: https://embracethered.com/blog/posts/2023/chatgpt-webpilot-data-exfil-via-markdown-injection/
+Description: ChatGPT Plugins - Data Exfiltration via Images & Cross Plugin Request Forgery.
+
+URL: https://www.horizon3.ai/moveit-transfer-cve-2023-34362-deep-dive-and-indicators-of-compromise/
+PoC: https://github.com/horizon3ai/CVE-2023-34362
+Description: MOVEit Transfer CVE-2023-34362 Deep Dive and Indicators of Compromise.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://tinyapps.org/blog/202304230700_xp_wpa.html
+Description: Windows XP Activation - GAME OVER.
+
+URL: https://www.devever.net/~hl/web-keygen
+Description: Memoirs from the old web - The KEYGEN element.
+
+URL: https://bit.ly/3CAxUUA (+)
+Description: How Do Different Encrypted Messaging Apps Treat Deleted Messages? 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?ebf76cada6ef93f8#fUteayi9H5xaR8lx+ALZ4/CMz/owTCgut1bcjEDeyiw=
