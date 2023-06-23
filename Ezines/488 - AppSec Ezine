@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 25 | Month: June | Year: 2023 | Release Date: 23/06/2023 | Edition: #488  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://keerok.github.io/2022/12/22/Flickr-Stored-XSS/
+Description: Flickr Stored XSS in photos_user_map.gne.
+
+URL: https://frycos.github.io/vulns4free/2023/06/18/fortinac.html
+Description: FortiNAC - Just a few more RCEs.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ZeroMemoryEx/Handle-Ripper
+Description: Windows handle hijacker.
+
+URL: https://mrd0x.com/file-archiver-in-the-browser/
+Description: File Archiver In The Browser.
+
+URL: https://github.com/ThatLing/limba
+Description: compile-time control flow obfuscation using mba.
+
+URL: https://github.com/JetP1ane/Callisto
+Description: An Intelligent Binary Vulnerability Analysis Tool.
+
+URL: https://github.com/ZeroMemoryEx/C2-Hunter
+Description: Tool to extract C&C traffic from malwares in real-time.
+
+URL: https://labs.lares.com/securing-active-directory-via-acls/
+Description: Exposing hidden risks through ACLs in Active Directory.
+
+URL: https://github.com/mindedsecurity/semgrep-rules-android-security
+Description: Semgrep Rules for Android Application Security.
+
+URL: https://github.com/airbus-seclab/nbutools
+Description: Tools for offensive security of NetBackup infrastructures.
+
+URL: https://github.com/mzakocs/qualcomm_baseband_scripts
+Description: Scripts for reversing Qualcomm Hexagon baseband/modem firmware.
+
+URL: https://github.com/blackhillsinfosec/skyhook
+Blog: https://www.blackhillsinfosec.com/evasive-file-smuggling-with-skyhook/
+Description: A round-trip obfuscated HTTP file transfer setup to bypass IDS.
+
+URL: https://tij.me/blog/finding-and-utilising-leaked-code-signing-certificates/
+Description: Finding and utilising leaked code signing certificates.
+
+URL: https://github.com/antoniozekic/Proof-of-concepts/tree/main/
+Description: macOS Ventura Out-of-bounds access in IOMobileFrameBuffer (CVE-2022-46697).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://badoption.eu/blog/2023/06/22/teams2.html
+Description: Obscurities with MS Teams.
+
+URL: https://secfault-security.com/blog/libreoffice.html
+Description: LibreOffice Arbitrary File Write (CVE-2023-1883).
+
+URL: https://link.medium.com/17x1JkifQAb 
+Description: Speculative Denial-of-Service Attacks in Ethereum.
+
+URL: https://httptoolkit.com/blog/bunny-cdn-caching-vulnerability/
+Description: Leaking secrets through caching with Bunny CDN.
+
+URL: https://secret.club/2023/06/05/spoof-pe-sections.html
+Description: Abusing undocumented features to spoof PE section headers.
+
+URL: https://bit.ly/3PpIghS (+)
+Description: Protect against AiTM/ MFA phishing attacks using Microsoft technology.
+
+URL: https://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html
+More: https://blog.coffinsec.com/0day/2023/06/19/minidlna-cve-2023-33476-exploits.html
+Description: ReadyMedia MiniDLNA <1.3.2 Heap Buffer Overflow (CVE-2023-33476) analysis.
+
+URL: https://dirkjanm.io/obtaining-domain-admin-from-azure-ad-via-cloud-kerberos-trust/
+Description: Obtaining Domain Admin from Azure AD by abusing Cloud Kerberos Trust.
+
+URL: https://alephsecurity.com/2023/06/19/electra-smart/
+Description: Why is it so hot here? Hacking Electra Smart air conditioners for fun and profit.
+
+URL: https://bit.ly/44b92yH (+)
+Description: Escaping Adobe Sandbox - Exploiting an Int Overflow in MS Windows Crypto Provider.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt/
+Description: Security Code Review With ChatGPT.
+
+URL: https://cvexploits.io/
+Description: Your comprehensive database for CVE exploits from across the internet.
+
+URL: https://github.com/MichalStrehovsky/sizegame
+Description: Compare binary sizes of canonical Hello World in 15 different languages.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?68879353b0140b81#7VpeR4KS5YxQr6GwFugwhnurki5iM7q0heT1zZEDjrg=
