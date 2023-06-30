@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 26 | Month: June | Year: 2023 | Release Date: 30/06/2023 | Edition: #489  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.descope.com/blog/post/noauth
+Description: How MS OAuth Misconfiguration Can Lead to Full Account Takeover (nOAuth).
+
+URL: https://bit.ly/3r3GuZF (+)
+Description: AWS WAF Clients Left Vulnerable to SQLi Due to Unorthodox MSSQL Design Choice.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/smokeme/PDFator
+Description: PDF + Shellcode Backdoor Creator.
+
+URL: https://github.com/Idov31/Jormungandr
+Description: Kernel implementation of a COFF loader.
+
+URL: https://github.com/20urc3/Sekiryu
+Description: Comprehensive toolkit for Ghidra headless.
+
+URL: https://github.com/sundowndev/phoneinfoga
+Description: Information gathering framework for phone numbers.
+
+URL: https://github.com/ejedev/web2shell
+Description: Automate converting webshells into reverse shells.
+
+URL: https://github.com/yasserbdj96/hiphp
+Description: Tool to create a BackDoor to control PHP-based sites.
+
+URL: https://github.com/assetnote/surf
+Description: Escalate your SSRF vulnerabilities on Modern Cloud Environments.
+
+URL: https://github.com/praetorian-inc/noseyparker
+Description: CLI to find secrets and sensitive info in textual data and git history. 
+
+URL: https://github.com/BishopFox/jsluice
+Description: CLI to extract URLs, paths, secrets, and other data from JS source code.
+
+URL: https://github.com/post-cyberlabs/Offensive_tools/tree/main/PostDump
+Description: Tool to perform a LSASS memory dump using few technics to avoid detection.
+
+URL: https://github.com/The-Login/DNS-Analyzer
+Blog: https://bit.ly/3PzL1NQ (+)
+Description: A Burp Suite extension for finding DNS vulnerabilities in web applications! 
+
+URL: https://github.com/boku7/Ninja_UUID_Runner
+Description: Module Stomping/No New Thread/HellsGate Syscaller/UUID Shellcode Runner (Win10x64).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.zsec.uk/azure-fundamentals-pt1/
+Description: Azure Attack Paths - Common Findings and Fixes.
+
+URL: https://lecromee.github.io/posts/swing_vpn_ddosing_sites/
+Description: Swing VPN app is a DDOS botnet.
+
+URL: https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem
+Description: The massive bug at the heart of the npm ecosystem.
+
+URL: https://douevenknow.us/post/714056575412764672/defuse-the-one-true-pwn
+Description: de_Fuse, the One True Pwn (Wii U Hack).
+
+URL: https://bit.ly/3XsH3IE (+)
+Description: Executing Arbitrary Code & Executables in Read-Only FileSystems.
+
+URL: https://link.medium.com/mzZQaVfCYAb 
+Description: Strengthening Android Security - Mitigating Banking Trojan Threats.
+
+URL: https://www.skullsecurity.org/2023/how-to-reversing-and-debugging-isapi-modules
+Description: Reversing and debugging ISAPI modules.
+
+URL: https://bit.ly/3XvaNVt (+)
+Description: Tampering with Windows Event Tracing - Background, Offense, and Defense.
+
+URL: https://sternumiot.com/iot-blog/mini-smart-plug-v2-vulnerability-buffer-overflow/
+Description: ‘FriendlyName’ Buffer Overflow Vulnerability in Wemo Smart Plug V2.
+
+URL: https://blog.sigstore.dev/how-sigstore-quickly-patched-an-upstream-vulnerability-76ba84ef1122
+Description: Backchannel attack to fetch an ID token via intercepted Auth Code (CVE-2022-39222).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/jhhoward/WolfensteinCGA
+Description: Wolfenstein 3D with a CGA renderer.
+
+URL: http://www.cmyr.net/blog/gui-framework-ingredients.html
+Description: So you want to write a GUI framework.
+
+URL: https://github.com/XingangPan/DragGAN
+Description: Interactive Point-based Manipulation on the Generative Image Manifold.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?58eeee2c3f9e48e6#DNdgdqu84JU3DVLOuV59+yPlNnbxnmSWEVzS9geMNn0=
