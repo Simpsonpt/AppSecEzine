@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 27 | Month: July | Year: 2023 | Release Date: 07/07/2023 | Edition: #490  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://mizu.re/post/linux-local-electron-application-script-src-self-bypass
+Description: Linux local electron application script-src: self bypass.
+
+URL: https://www.sonarsource.com/blog/why-orms-and-prepared-statements-cant-always-win/
+Description: Why ORMs and Prepared Statements Can't (Always) Win.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/quarkslab/pyrrha
+Description: A tool for firmware cartography.
+
+URL: https://github.com/florylsk/RecycledInjector
+Description: Native Syscalls Shellcode Injector.
+
+URL: https://bit.ly/3rh3Hrw (+)
+Description: Desuperpacking Meta Superpacked APKs.
+
+URL: https://github.com/airbus-cyber/ghidralligator
+Description: Emulate and Fuzz the Embedded World.
+
+URL: https://github.com/Malwarize/webpalm
+Description: CLI tool for website mapping and web scraping.
+
+URL: https://github.com/mschwager/route-detect
+Description: Find AuthN/Z security bugs in web application routes.
+
+URL: https://github.com/user1342/Obfu-DE-Scate
+Description: A De-obfuscation and Comparison tool for Android APKs.
+
+URL: https://github.com/SpiderLabs/snappy
+Description: Detecting rogue and fake 802.11 wireless access points.
+
+URL: https://github.com/adulau/mmdb-server
+Description: Fast API server to lookup IP addresses for their geographic location. 
+
+URL: https://github.com/kungfulon/nf-tables-lpe
+Description: Linux Kernel nftables UAF Local Privilege Escalation (CVE-2023-31248).
+
+URL: https://github.com/TheD1rkMtr/TakeMyRDP
+Description: Keystroke logger targeting the Remote Desktop Protocol (RDP) processes.
+
+URL: https://github.com/4ra1n/java-gate
+Description: Java JNI Hells/Halos/TartarusGate, SSN Syscall and more shellcode loaders.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/Hc4PS6qE9Ab 
+Description: How I Hacked CASIO F-91W digital watch.
+
+URL: https://bit.ly/3pH7rSv (+)
+Description: OpenSSH Pre-Auth Double Free CVE-2023-25136.
+
+URL: https://www.ghostccamm.com/blog/multi_cockpit_vulns/
+Description: Multiple Vulnerabilities in Cockpit CMS <= v2.5.2.
+
+URL: https://bit.ly/3O3YZ9B (+)
+Description: Anti Debugging Protection Techniques with Examples.
+
+URL: https://positive.security/blog/auto-gpt-rce
+Description: Hacking Auto-GPT and escaping its docker container.
+
+URL: https://redmaple.tech/blogs/2023/extract-bitwarden-vault-passwords/
+PoC: https://github.com/markuta/bw-dump
+Description: Hunting for Bitwarden master passwords stored in memory.
+
+URL: https://bit.ly/46mufrf (+)
+Description: Pass-the-Challenge - Defeating Windows Defender Credential Guard.
+
+URL: https://boredpentester.com/retreading-the-amlogic-a113x-trustzone-exploit-process/
+Description: Retreading The AMLogic A113X TrustZone Exploit Process.
+
+URL: https://blog.silentsignal.eu/2023/07/03/ibm-i-dde-vulnerability-cve-2023-30990/
+Description: Technical Details of CVE-2023-30990 - Unauthenticated RCE in IBM i DDM Service.
+
+URL: https://www.mdsec.co.uk/2023/06/cve-2023-26258-remote-code-execution-in-arcserve-udp-backup/
+Description: Remote Code Execution in ArcServe UDP Backup (CVE-2023-26258).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://angryemailtranslator.com/
+Description: Angry email translator.
+
+URL: https://dev.to/noamr/when-a-millisecond-is-not-a-millisecond-3h6
+Description: When a millisecond is not a millisecond.
+
+URL: https://eclair-lang.org/
+Description: Fast logical query language for solving complex search/graph-based problems. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?18df0552c6b44cae#FoszC3utgdBJLN7szg+fo7bBDA7P+F1NHSk71aYPfU4=
