@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 28 | Month: July | Year: 2023 | Release Date: 14/07/2023 | Edition: #491  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://labs.hakaioffsec.com/nginx-alias-traversal/
+Description: Hunting for Nginx Alias Traversals in the wild.
+
+URL: https://blog.assetnote.io/2023/06/29/binary-reversing-citrix-xss/
+Description: Reversing Citrix Gateway for XSS.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/efchatz/WPAxFuzz
+Description: A full-fledged Wi-Fi Fuzzer.
+
+URL: https://github.com/oldboy21/JayFinder
+Description: Find DLLs with RWX section.
+
+URL: https://github.com/introvertmac/EasyScan
+Description: Light-weight web security scanner.
+
+URL: https://github.com/bitquark/shortscan
+Description: An IIS short filename enumeration tool.
+
+URL: https://github.com/mvelazc0/BadZure/
+Description: Setup a misconfigured AZure AD Environment.
+
+URL: https://github.com/CiscoCXSecurity/udpy_proto_scanner
+Description: UDP Protocol Scanner.
+
+URL: https://github.com/lem0nSec/ShellGhost
+Description: A memory-based evasion technique to make shellcode invisible.
+
+URL: https://github.com/Drew-Alleman/powershell-backdoor-generator
+Description: Reverse backdoor written in PowerShell and obfuscated with Python.
+
+URL: https://github.com/stolenusername/cowitness
+Blog: https://bit.ly/46NsJyv (+)
+Description: Enhancing Web Application Testing With External Service Interaction.
+
+URL: https://bit.ly/44nFDlr (+)
+Description: Backdooring ClickOnce .NET Apps for Initial Access - A Practical Example.
+
+URL: https://bushido-sec.com/index.php/2023/06/25/the-art-of-fuzzing-windows-binaries/
+Description: The art of fuzzing - Windows Binaries.
+
+URL: https://www.politoinc.com/post/ldap-queries-for-offensive-and-defensive-operations
+Description: LDAP Queries for Offensive and Defensive Operations.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://redops.at/en/blog/exploring-hells-gate
+Description: Exploring Hell's Gate.
+
+URL: https://github.blog/2023-07-05-introduction-to-selinux/
+Description: Introduction to SELinux.
+
+URL: https://blog.projectdiscovery.io/moveit-transfer-sql-injection/
+Description: CVE-2023-36934 Analysis - MOVEit Transfer SQL Injection.
+
+URL: https://blog.pksecurity.io/2023/07/07/cve-2023-32439-webkit.html
+Description: Root Cause Analysis - CVE-2023-32439 Type Confusion in Webkit.
+
+URL: http://blog.takemyhand.xyz/2023/07/remote-code-execution-in-gitlabs-cli.html
+Description: RCE In Gitlab CLI Tool.
+
+URL: https://www.shielder.com/blog/2023/07/aws-codebuild--s3-privilege-escalation/
+Description: AWS CodeBuild + S3 == Privilege Escalation.
+
+URL: https://bit.ly/3XMosYl (+)
+Description: Using an Unimpressive Bug in EDK II to Do Some Fun Exploitation (UEFI Hack).
+
+URL: https://insinuator.net/2023/07/all-your-parcel-are-belong-to-us-talk-at-troopers-2023/
+Description: All your parcel are belong to us.
+
+URL: https://soez.github.io/posts/no-cve-for-this.-It-has-never-been-in-the-official-kernel/
+Description: No CVE for this. It has never been in the official kernel.
+
+URL: https://bit.ly/3XPZjvK (+)
+Description: Write up for Start Here.js - How To and Not To Prevent Integer Overflow in JS.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/jvns/nginx-playground/
+Description: nginx playground.
+
+URL: https://github.com/photoprism/photoprism
+Description: AI-Powered Photos App for the Decentralized Web.
+
+URL: https://whiterose-infosec.super.site/d6f201f9d1da4c299d56fd78aef20151
+Description: Reversing Mac Donald's table beacon.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?bf982432f8c08eaa#2BZ9exVI6Ci7P7Ar9o7+atbj9T5ooh0Ijh3F28ggtGA=
