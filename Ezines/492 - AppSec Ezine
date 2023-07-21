@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 29 | Month: July | Year: 2023 | Release Date: 21/07/2023 | Edition: #492  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/
+Description: ServiceNow Insecure Access Control To Full Admin Takeover.
+
+URL: https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt
+Description: Remote Code Execution in OpenSSH's forwarded ssh-agent (CVE-2023-38408).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/hfiref0x/WubbabooMark
+Description: Debugger Anti-Detection Benchmark.
+
+URL: https://github.com/charlesnathansmith/whatlicense
+Description: WinLicense key extraction via Intel PIN.
+
+URL: https://github.com/c-skills/vala-vala-hey
+Description: root LPE for latest Manjaro Linux distro.
+
+URL: https://github.com/MzHmO/PowershellKerberos
+Description: Some scripts to abuse kerberos using Powershell.
+
+URL: https://github.com/Octoberfest7/TeamsPhisher
+Description: Send phishing messages and attachments to Microsoft Teams users.
+
+URL: https://github.com/foxlox/hypobrychium
+Description: Duplicate (unowned) token from a running process without detections.
+
+URL: https://github.com/FourCoreLabs/LolDriverScan
+Description: Tool that allows users to discover vulnerable drivers on their system.
+
+URL: https://github.com/fortra/CVE-2023-28252 
+Description: PoC released for Windows Common Log File System 0-Day (CVE-2023-28252).
+
+URL: https://github.com/grossartig/vanmoof-encryption-key-exporter
+Description: Export all bike details (such as encryption key) of your VanMoof bikes.
+
+URL: https://github.com/Demonslay335/CryptoTester
+Description: Utility for playing with cryptography, geared towards ransomware analysis.
+
+URL: https://github.com/CognisysGroup/HadesLdr
+Blog: https://bit.ly/3Dkr6uG (+)
+Description: Shellcode Loader implementing Indirect Dynamic Syscall/API Hashing and more.
+
+URL: https://www.r-tec.net/r-tec-blog-resource-based-constrained-delegation.html
+Description: Resource Based Constrained Delegation - Guide for AD PE and Lateral Movement.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://tortel.li/post/insecure-scope/
+Description: Unauthenticated RCE on a RIGOL oscilloscope.
+
+URL: https://kpwn.de/2023/06/brute-forcing-one-time-passwords/
+Description: Brute-Forcing One-Time Passwords.
+
+URL: https://powerseb.github.io/posts/LSASS-parsing-without-a-cat/
+Tool: https://github.com/powerseb/PowerExtract
+Description: Read memory dumps without a cat.
+
+URL: https://bit.ly/3O0Wqnh (+)
+Description: Patch Diffing CVE-2023-28121 to Compromise a WooCommerce.
+
+URL: https://fingerprint.com/blog/apple-macos-mdns-brute-force/
+Description: Brute-forcing a macOS user’s real name from a browser using mDNS.
+
+URL: https://huntr.dev/bounties/1eef5a72-f6ab-4f61-b31d-fc66f5b4b467/
+Description: Mongoose Prototype Pollution Vulnerability in automattic/mongoose.
+
+URL: https://ioctl.fail/echo-ac-writeup/
+Description: EchOh-No! Vulnerability and PoC in a popular Minecraft Anticheat tool.
+
+URL: https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways
+Description: Triple Threat: Breaking Teltonika Routers Three Ways.
+
+URL: https://bit.ly/3KaYtUH (+)
+Description: Bad.Build A Critical PE Design Flaw in GCP Build Enables a Supply Chain Attack.
+
+URL: https://blog.decurity.io/dx-protocol-vulnerability-disclosure-bddff88aeb1d
+Description: Dx Protocol Vuln. Disclosure - Mitigation of a 5,200,000 Smart Contract Exploit.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/zws-im/zws
+Description: Shorten URLs using invisible spaces.
+
+URL: https://bit.ly/3Ok8z8a (+)
+Description: How Hype Will Turn Your Security Key Into Junk.
+
+URL: https://til.simonwillison.net/python/stdlib-cli-tools
+Description: CLI tools hidden in the Python standard library.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?3ee639285671960d#qMGhPRnf0V5RKLZYrOMn9eEwic7zg0wckpqngGZmKdw=
