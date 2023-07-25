@@ -51,6 +51,7 @@ URL: https://github.com/praetorian-inc/noseyparker
 Description: CLI to find secrets and sensitive info in textual data and git history. 
 
 URL: https://github.com/BishopFox/jsluice
+Blog: https://bishopfox.com/blog/jsluice-javascript-gold-mining
 Description: CLI to extract URLs, paths, secrets, and other data from JS source code.
 
 URL: https://github.com/post-cyberlabs/Offensive_tools/tree/main/PostDump
