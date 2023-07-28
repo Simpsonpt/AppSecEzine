@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 30 | Month: July | Year: 2023 | Release Date: 28/07/2023 | Edition: #493  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/
+Description: Chaining our way to Pre-Auth RCE in Metabase (CVE-2023-38646).
+
+URL: https://bit.ly/3QkUBEJ (+)
+Description: Apache OpenMeetings Vulnerabilities through Unexpected Application State.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/doyensec/wsrepl
+Blog: https://bit.ly/3Oczt0p (+)
+Description: WebSocket REPL for pentesters.
+
+URL: https://github.com/tin-z/CVE-2023-35086-POC
+Description: POC of CVE-2023-35086 only DoS.
+
+URL: https://github.com/punk-security/dnsReaper
+Blog: https://punksecurity.co.uk/blog/dnsreaper_pd/
+Description: Subdomain takeover tool.
+
+URL: https://github.com/WKL-Sec/dcomhijack
+Description: Lateral Movement Using DCOM and DLL Hijacking.
+
+URL: https://github.com/Zigrin-Security/CakeFuzzer
+Description: Tool to discover vulnerabilities in web applications.
+
+URL: https://github.com/dev-lu/osint_toolkit
+Description: A fullstack web application built for security analysts.
+
+URL: https://github.com/Fadi002/unshackle
+Description: Tool to bypass windows and linux passwords from bootable usb.
+
+URL: https://github.com/CiscoCXSecurity/unix-audit
+Description: Framework for generating audit commands for Unix security audits.
+
+URL: https://github.com/guacsec/guac
+Description: GUAC aggregates software security metadata into a high fidelity graph DB.
+
+URL: https://github.com/tihmstar/libpatchfinder
+Description: A arm offsetfinder. It finds offsets, patches, parses Mach-O and IMG4/IMG3.
+
+URL: https://github.com/alperenugurlu/Network_Assessment
+Description: Tool to determine whether there is harmful activity on your network traffic.
+
+URL: https://github.com/werdhaihai/AtlasReaper
+Blog: https://bit.ly/3rLFWIm (+)
+Description: CLI for reconnaissance and targeted write operations on Confluence and Jira.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://lock.cmpxchg8b.com/zenbleed.html
+Description: Use-after-free in AMD Zen2 processors!
+
+URL: https://blog.isosceles.com/the-legacy-of-stagefright/
+Description: The Legacy of Stagefright.
+
+URL: https://blog.talosintelligence.com/weaknesses-mac-os-vmware-msrpc/
+Description: Uncovering weaknesses in Apple macOS and VMWare vCenter.
+
+URL: https://alice.climent-pommeret.red/posts/process-killer-driver/
+PoC: https://github.com/xalicex/Killers
+Description: Finding and exploiting process killer drivers with LOL for 3K$.
+
+URL: https://badoption.eu/blog/2023/07/15/divideconqer.html
+Description: Poch, Poch, is this thing on? Bypass AMSI with Divide & Conquer.
+
+URL: https://kuldeep.io/posts/fulldisclosure-dom-based-xss/
+Description: Full Disclosure - DOM-based XSS And Failures In Bug Bounty Hunting.
+
+URL: https://bit.ly/3q892RI (+)
+Description: Windows Contacts syslink control href attr escape (CVE-2022-44666).
+
+URL: https://code-white.com/blog/2023-07-from-blackbox-dotnet-remoting-to-rce/
+Description: From Blackbox .NET Remoting to Unauthenticated Remote Code Execution.
+
+URL: https://bit.ly/452iQvn (+)
+Description: Shifting boundaries - Exploiting an Integer Overflow in Apple Safari.
+
+URL: https://www.mandiant.com/resources/blog/privileges-third-party-windows-installers
+PoC: https://github.com/mandiant/msi-search
+Description: Escalating Privileges via Third-Party Windows Installers.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.jaiminton.com/Game-Hacking/Pwn-Adventure-3
+Description: Pwn Adventure 3 - Pwnie Island.
+
+URL: https://github.com/jvde-github/AIS-catcher-for-Android
+Description: AIS-catcher for Android - A multi-platform AIS receiver.
+
+URL: https://cpu.land/
+Description: Putting the "You" in CPU -  a rabbit hole into how your computer runs programs.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?800393da7132fe99#q+GiEdf7huqv8yxpywBjIxhoZj2iyzbs6q40HyuepoM=
