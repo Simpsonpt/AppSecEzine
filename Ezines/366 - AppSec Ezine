@@ -60,7 +60,7 @@ URL: https://ajpc500.github.io/c2/Using-CloudFlare-Workers-as-Redirectors/
 Description: Using Cloudflare Workers as Redirectors.
 
 URL: https://github.com/itm4n/Perfusion
-Blog https://itm4n.github.io/windows-registry-rpceptmapper-eop/
+Blog: https://itm4n.github.io/windows-registry-rpceptmapper-eop/
 Description: Windows RpcEptMapper Service Insecure Registry Permissions EoP.
 
 URL: https://github.com/Flangvik/AzureC2Relay

@@ -17,7 +17,7 @@ URL: http://www.n0tr00t.com/2015/11/27/cve-2015-8213.html
 Description: Django settings leak possibility in date template filter (CVE-2015-8213).
 
 URL: http://lizardhq.org/2015/11/25/dell-foundation-services.html
-Patch 😆 : http://lizardhq.org/2015/12/01/dell-foundation-services.2.html
+Patch: http://lizardhq.org/2015/12/01/dell-foundation-services.2.html
 More: http://www.exploit-monday.com/2015/12/thoughts-on-exploiting-remote-wmi-query.html 
 Description: Dell Foundation Services Remote Information Disclosure.
 

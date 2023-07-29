@@ -46,7 +46,7 @@ Description: "PoC" for Samba vulnerabilty (CVE-2015-0240).
 URL: https://github.com/afaqurk/linux-dash
 Description: A drop-in, low-overhead monitoring web dashboard for a linux machine.
 
-URL https://github.com/dionach/CMSmap
+URL: https://github.com/dionach/CMSmap
 Description: Tool that automates the process of detecting security flaws of the most popular CMSs.
 
 URL: http://blog.rootshell.be/2015/03/04/phpmoadmin-0-day-nmap-script/
