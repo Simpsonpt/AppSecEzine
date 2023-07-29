@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AppSec Ezine #492</title>
+    <link>https://pathonproject.com/zb/?3ee639285671960d#qMGhPRnf0V5RKLZYrOMn9eEwic7zg0wckpqngGZmKdw=</link>
+    <description>AppSec Ezine #492</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Jul 2023 16:55:05 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+    <item>
+      <title>Must see: ServiceNow Insecure Access Control To Full Admin Takeover.</title>
+      <link>https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/</link>
+      <description><![CDATA[Description: ServiceNow Insecure Access Control To Full Admin Takeover.<br />
+URL: <a href='https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/'>https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/</a>]]></description>
+      <guid isPermaLink="false">https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/</guid>
+      <category>Must see</category>
+    </item>
+    <item>
+      <title>Must see: Remote Code Execution in OpenSSH's forwarded ssh-agent (CVE-2023-38408).</title>
+      <link>https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt</link>
+      <description><![CDATA[Description: Remote Code Execution in OpenSSH's forwarded ssh-agent (CVE-2023-38408).<br />
+URL: <a href='https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt'>https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt</a>]]></description>
+      <guid isPermaLink="false">https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt</guid>
+      <category>Must see</category>
+    </item>
+    <item>
+      <title>Hack: Debugger Anti-Detection Benchmark.</title>
+      <link>https://github.com/hfiref0x/WubbabooMark</link>
+      <description><![CDATA[Description: Debugger Anti-Detection Benchmark.<br />
+URL: <a href='https://github.com/hfiref0x/WubbabooMark'>https://github.com/hfiref0x/WubbabooMark</a>]]></description>
+      <guid isPermaLink="false">https://github.com/hfiref0x/WubbabooMark</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: WinLicense key extraction via Intel PIN.</title>
+      <link>https://github.com/charlesnathansmith/whatlicense</link>
+      <description><![CDATA[Description: WinLicense key extraction via Intel PIN.<br />
+URL: <a href='https://github.com/charlesnathansmith/whatlicense'>https://github.com/charlesnathansmith/whatlicense</a>]]></description>
+      <guid isPermaLink="false">https://github.com/charlesnathansmith/whatlicense</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: root LPE for latest Manjaro Linux distro.</title>
+      <link>https://github.com/c-skills/vala-vala-hey</link>
+      <description><![CDATA[Description: root LPE for latest Manjaro Linux distro.<br />
+URL: <a href='https://github.com/c-skills/vala-vala-hey'>https://github.com/c-skills/vala-vala-hey</a>]]></description>
+      <guid isPermaLink="false">https://github.com/c-skills/vala-vala-hey</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: Some scripts to abuse kerberos using Powershell.</title>
+      <link>https://github.com/MzHmO/PowershellKerberos</link>
+      <description><![CDATA[Description: Some scripts to abuse kerberos using Powershell.<br />
+URL: <a href='https://github.com/MzHmO/PowershellKerberos'>https://github.com/MzHmO/PowershellKerberos</a>]]></description>
+      <guid isPermaLink="false">https://github.com/MzHmO/PowershellKerberos</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: Send phishing messages and attachments to Microsoft Teams users.</title>
+      <link>https://github.com/Octoberfest7/TeamsPhisher</link>
+      <description><![CDATA[Description: Send phishing messages and attachments to Microsoft Teams users.<br />
+URL: <a href='https://github.com/Octoberfest7/TeamsPhisher'>https://github.com/Octoberfest7/TeamsPhisher</a>]]></description>
+      <guid isPermaLink="false">https://github.com/Octoberfest7/TeamsPhisher</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: Duplicate (unowned) token from a running process without detections.</title>
+      <link>https://github.com/foxlox/hypobrychium</link>
+      <description><![CDATA[Description: Duplicate (unowned) token from a running process without detections.<br />
+URL: <a href='https://github.com/foxlox/hypobrychium'>https://github.com/foxlox/hypobrychium</a>]]></description>
+      <guid isPermaLink="false">https://github.com/foxlox/hypobrychium</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: Tool that allows users to discover vulnerable drivers on their system.</title>
+      <link>https://github.com/FourCoreLabs/LolDriverScan</link>
+      <description><![CDATA[Description: Tool that allows users to discover vulnerable drivers on their system.<br />
+URL: <a href='https://github.com/FourCoreLabs/LolDriverScan'>https://github.com/FourCoreLabs/LolDriverScan</a>]]></description>
+      <guid isPermaLink="false">https://github.com/FourCoreLabs/LolDriverScan</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: PoC released for Windows Common Log File System 0-Day (CVE-2023-28252).</title>
+      <link>https://github.com/fortra/CVE-2023-28252</link>
+      <description><![CDATA[Description: PoC released for Windows Common Log File System 0-Day (CVE-2023-28252).<br />
+URL: <a href='https://github.com/fortra/CVE-2023-28252'>https://github.com/fortra/CVE-2023-28252</a>]]></description>
+      <guid isPermaLink="false">https://github.com/fortra/CVE-2023-28252</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: Export all bike details (such as encryption key) of your VanMoof bikes.</title>
+      <link>https://github.com/grossartig/vanmoof-encryption-key-exporter</link>
+      <description><![CDATA[Description: Export all bike details (such as encryption key) of your VanMoof bikes.<br />
+URL: <a href='https://github.com/grossartig/vanmoof-encryption-key-exporter'>https://github.com/grossartig/vanmoof-encryption-key-exporter</a>]]></description>
+      <guid isPermaLink="false">https://github.com/grossartig/vanmoof-encryption-key-exporter</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: Utility for playing with cryptography, geared towards ransomware analysis.</title>
+      <link>https://github.com/Demonslay335/CryptoTester</link>
+      <description><![CDATA[Description: Utility for playing with cryptography, geared towards ransomware analysis.<br />
+URL: <a href='https://github.com/Demonslay335/CryptoTester'>https://github.com/Demonslay335/CryptoTester</a>]]></description>
+      <guid isPermaLink="false">https://github.com/Demonslay335/CryptoTester</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: Shellcode Loader implementing Indirect Dynamic Syscall/API Hashing and more.</title>
+      <link>https://github.com/CognisysGroup/HadesLdr</link>
+      <description><![CDATA[Description: Shellcode Loader implementing Indirect Dynamic Syscall/API Hashing and more.<br />
+URL: <a href='https://github.com/CognisysGroup/HadesLdr'>https://github.com/CognisysGroup/HadesLdr</a><br />
+Blog: <a href='https://bit.ly/3Dkr6uG'>https://bit.ly/3Dkr6uG</a>]]></description>
+      <guid isPermaLink="false">https://github.com/CognisysGroup/HadesLdr</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: Resource Based Constrained Delegation - Guide for AD PE and Lateral Movement.</title>
+      <link>https://www.r-tec.net/r-tec-blog-resource-based-constrained-delegation.html</link>
+      <description><![CDATA[Description: Resource Based Constrained Delegation - Guide for AD PE and Lateral Movement.<br />
+URL: <a href='https://www.r-tec.net/r-tec-blog-resource-based-constrained-delegation.html'>https://www.r-tec.net/r-tec-blog-resource-based-constrained-delegation.html</a>]]></description>
+      <guid isPermaLink="false">https://www.r-tec.net/r-tec-blog-resource-based-constrained-delegation.html</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Security: Unauthenticated RCE on a RIGOL oscilloscope.</title>
+      <link>https://tortel.li/post/insecure-scope/</link>
+      <description><![CDATA[Description: Unauthenticated RCE on a RIGOL oscilloscope.<br />
+URL: <a href='https://tortel.li/post/insecure-scope/'>https://tortel.li/post/insecure-scope/</a>]]></description>
+      <guid isPermaLink="false">https://tortel.li/post/insecure-scope/</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Security: Brute-Forcing One-Time Passwords.</title>
+      <link>https://kpwn.de/2023/06/brute-forcing-one-time-passwords/</link>
+      <description><![CDATA[Description: Brute-Forcing One-Time Passwords.<br />
+URL: <a href='https://kpwn.de/2023/06/brute-forcing-one-time-passwords/'>https://kpwn.de/2023/06/brute-forcing-one-time-passwords/</a>]]></description>
+      <guid isPermaLink="false">https://kpwn.de/2023/06/brute-forcing-one-time-passwords/</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Security: Read memory dumps without a cat.</title>
+      <link>https://powerseb.github.io/posts/LSASS-parsing-without-a-cat/</link>
+      <description><![CDATA[Description: Read memory dumps without a cat.<br />
+URL: <a href='https://powerseb.github.io/posts/LSASS-parsing-without-a-cat/'>https://powerseb.github.io/posts/LSASS-parsing-without-a-cat/</a><br />
+Tool: <a href='https://github.com/powerseb/PowerExtract'>https://github.com/powerseb/PowerExtract</a>]]></description>
+      <guid isPermaLink="false">https://powerseb.github.io/posts/LSASS-parsing-without-a-cat/</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Security: Patch Diffing CVE-2023-28121 to Compromise a WooCommerce.</title>
+      <link>https://bit.ly/3O0Wqnh</link>
+      <description><![CDATA[Description: Patch Diffing CVE-2023-28121 to Compromise a WooCommerce.<br />
+URL: <a href='https://bit.ly/3O0Wqnh'>https://bit.ly/3O0Wqnh</a><br />
+bit.ly inspect: <a href='https://bit.ly/3O0Wqnh+'>https://bit.ly/3O0Wqnh+</a>]]></description>
+      <guid isPermaLink="false">https://bit.ly/3O0Wqnh</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Security: Brute-forcing a macOS user’s real name from a browser using mDNS.</title>
+      <link>https://fingerprint.com/blog/apple-macos-mdns-brute-force/</link>
+      <description><![CDATA[Description: Brute-forcing a macOS user’s real name from a browser using mDNS.<br />
+URL: <a href='https://fingerprint.com/blog/apple-macos-mdns-brute-force/'>https://fingerprint.com/blog/apple-macos-mdns-brute-force/</a>]]></description>
+      <guid isPermaLink="false">https://fingerprint.com/blog/apple-macos-mdns-brute-force/</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Security: Mongoose Prototype Pollution Vulnerability in automattic/mongoose.</title>
+      <link>https://huntr.dev/bounties/1eef5a72-f6ab-4f61-b31d-fc66f5b4b467/</link>
+      <description><![CDATA[Description: Mongoose Prototype Pollution Vulnerability in automattic/mongoose.<br />
+URL: <a href='https://huntr.dev/bounties/1eef5a72-f6ab-4f61-b31d-fc66f5b4b467/'>https://huntr.dev/bounties/1eef5a72-f6ab-4f61-b31d-fc66f5b4b467/</a>]]></description>
+      <guid isPermaLink="false">https://huntr.dev/bounties/1eef5a72-f6ab-4f61-b31d-fc66f5b4b467/</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Security: EchOh-No! Vulnerability and PoC in a popular Minecraft Anticheat tool.</title>
+      <link>https://ioctl.fail/echo-ac-writeup/</link>
+      <description><![CDATA[Description: EchOh-No! Vulnerability and PoC in a popular Minecraft Anticheat tool.<br />
+URL: <a href='https://ioctl.fail/echo-ac-writeup/'>https://ioctl.fail/echo-ac-writeup/</a>]]></description>
+      <guid isPermaLink="false">https://ioctl.fail/echo-ac-writeup/</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Security: Triple Threat: Breaking Teltonika Routers Three Ways.</title>
+      <link>https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways</link>
+      <description><![CDATA[Description: Triple Threat: Breaking Teltonika Routers Three Ways.<br />
+URL: <a href='https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways'>https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways</a>]]></description>
+      <guid isPermaLink="false">https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Security: Bad.Build A Critical PE Design Flaw in GCP Build Enables a Supply Chain Attack.</title>
+      <link>https://bit.ly/3KaYtUH</link>
+      <description><![CDATA[Description: Bad.Build A Critical PE Design Flaw in GCP Build Enables a Supply Chain Attack.<br />
+URL: <a href='https://bit.ly/3KaYtUH'>https://bit.ly/3KaYtUH</a><br />
+bit.ly inspect: <a href='https://bit.ly/3KaYtUH+'>https://bit.ly/3KaYtUH+</a>]]></description>
+      <guid isPermaLink="false">https://bit.ly/3KaYtUH</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Security: Dx Protocol Vuln. Disclosure - Mitigation of a 5,200,000 Smart Contract Exploit.</title>
+      <link>https://blog.decurity.io/dx-protocol-vulnerability-disclosure-bddff88aeb1d</link>
+      <description><![CDATA[Description: Dx Protocol Vuln. Disclosure - Mitigation of a 5,200,000 Smart Contract Exploit.<br />
+URL: <a href='https://blog.decurity.io/dx-protocol-vulnerability-disclosure-bddff88aeb1d'>https://blog.decurity.io/dx-protocol-vulnerability-disclosure-bddff88aeb1d</a>]]></description>
+      <guid isPermaLink="false">https://blog.decurity.io/dx-protocol-vulnerability-disclosure-bddff88aeb1d</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Fun: Shorten URLs using invisible spaces.</title>
+      <link>https://github.com/zws-im/zws</link>
+      <description><![CDATA[Description: Shorten URLs using invisible spaces.<br />
+URL: <a href='https://github.com/zws-im/zws'>https://github.com/zws-im/zws</a>]]></description>
+      <guid isPermaLink="false">https://github.com/zws-im/zws</guid>
+      <category>Fun</category>
+    </item>
+    <item>
+      <title>Fun: How Hype Will Turn Your Security Key Into Junk.</title>
+      <link>https://bit.ly/3Ok8z8a</link>
+      <description><![CDATA[Description: How Hype Will Turn Your Security Key Into Junk.<br />
+URL: <a href='https://bit.ly/3Ok8z8a'>https://bit.ly/3Ok8z8a</a><br />
+bit.ly inspect: <a href='https://bit.ly/3Ok8z8a+'>https://bit.ly/3Ok8z8a+</a>]]></description>
+      <guid isPermaLink="false">https://bit.ly/3Ok8z8a</guid>
+      <category>Fun</category>
+    </item>
+    <item>
+      <title>Fun: CLI tools hidden in the Python standard library.</title>
+      <link>https://til.simonwillison.net/python/stdlib-cli-tools</link>
+      <description><![CDATA[Description: CLI tools hidden in the Python standard library.<br />
+URL: <a href='https://til.simonwillison.net/python/stdlib-cli-tools'>https://til.simonwillison.net/python/stdlib-cli-tools</a>]]></description>
+      <guid isPermaLink="false">https://til.simonwillison.net/python/stdlib-cli-tools</guid>
+      <category>Fun</category>
+    </item>
+  </channel>
+</rss>
