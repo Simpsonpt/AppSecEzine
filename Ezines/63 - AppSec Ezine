@@ -59,7 +59,7 @@ Description: USBCreator D-Bus service root Exploit (Ubuntu - Unpatched).
 
 URL: https://hashcat.net/misc/postgres-pth/postgres-pth.pdf
 More: https://hashcat.net/forum/thread-4148.html
-Descripton: PostgreSQL Pass­The­Hash protocol design weakness.
+Description: PostgreSQL Pass­The­Hash protocol design weakness.
 
 URL: https://blog.netspi.com/playing-content-type-xxe-json-endpoints/
 Description: Playing with Content-Type – XXE on JSON Endpoints.
