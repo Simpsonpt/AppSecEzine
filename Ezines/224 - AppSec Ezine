@@ -58,7 +58,7 @@ URL: https://github.com/iGio90/uDdbg
 Description: A gdb like debugger that provide a runtime env to unicorn emulator.
 
 URL: https://github.com/kd8bny/LiMEaide
-Description:  Remotely dump RAM of a Linux client and create a volatility profile.
+Description: Remotely dump RAM of a Linux client and create a volatility profile.
 
 URL: https://github.com/CodeCracker-Tools/MegaDumper
 Description: Dump native and .NET assemblies.

@@ -49,7 +49,7 @@ Description: Reverse engineers GQL Schema and generates template payloads.
 
 URL: https://github.com/mwrlabs/SharpGPOAbuse
 More: https://labs.mwrinfosecurity.com/tools/sharpgpoabuse
-Description:  Abuse of a user’s edit rights on a Group Policy Object (GPO).
+Description: Abuse of a user’s edit rights on a Group Policy Object (GPO).
 
 URL: https://github.com/xFreed0m/KatzKatz
 Description: Python script to parse txt files containing Mimikatz output.

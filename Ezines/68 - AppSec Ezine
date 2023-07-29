@@ -39,7 +39,7 @@ URL: https://github.com/hfiref0x/CVE-2015-1701
 Description: Win32k LPE vulnerability used in APT attack (CVE-2015-1701).
 
 URL: http://www.binvul.com/viewthread.php?tid=508
-More:  http://blogs.360.cn/blog/fixed_three_0days_in_may/
+More: http://blogs.360.cn/blog/fixed_three_0days_in_may/
 Description: CVE-2015-1674 CNG.SYS PoC.
 
 URL: http://ab0files.com/writing-a-metasploit-post-exploitation-module

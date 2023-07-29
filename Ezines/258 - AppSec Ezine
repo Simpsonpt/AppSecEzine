@@ -55,7 +55,7 @@ URL: https://github.com/a13xp0p0v/kconfig-hardened-check
 Description: A script for checking the hardening options in the Linux kernel config.
 
 URL: https://github.com/depletionmode/VirtualAllocSecure
-Description:  PoC for allocating memory secured using AMD Secure Memory Encryption.
+Description: PoC for allocating memory secured using AMD Secure Memory Encryption.
 
 URL: https://github.com/bahaabdelwahed/killshot
 Description: A Penetration Testing Framework, Info. gathering & Website Vuln. Scanner.

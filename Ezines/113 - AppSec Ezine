@@ -54,7 +54,7 @@ URL: https://github.com/xme/dshield-docker
 Description: Docker container running cowrie with DShield output enabled.
 
 URL: https://github.com/Raikia/CredSwissArmy
-Description:  Check the validity of multiple user credentials across multiple servers.
+Description: Check the validity of multiple user credentials across multiple servers.
 
 
 '  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
