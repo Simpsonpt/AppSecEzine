@@ -90,7 +90,7 @@ def parse_ezine(path):
                     result.credits = bytes.fromhex(row).decode('ascii')
                 continue
             
-            current_item.content_raw += row + "<br />\n"
+            current_item.content_raw += row + "<br>\n"
             if row.startswith("Description:"):
             # if row.startswith("Description:") or row.startswith("Descritpion:") or row.startswith("Descripion:") or row.startswith("Descriptions:") or row.startswith("Descxription:") or row.startswith("Descrription:") or row.startswith("Descripton:"):
                 current_item.title = row[13:]
@@ -125,18 +125,18 @@ def generate_feed(ezine):
     fg.title('AppSec Ezine #' + ezine.edition)
     fg.description('AppSec Ezine #' + ezine.edition)
     fg.pubDate(ezine.date)
-    fg.author({'name': ezine.credits,'email': ezine.credits})
+    # todo: handle multiple credits
+    fg.author({'name': ezine.credits,'email': "simpsonpt@gmail.com"})
     fg.link( href=ezine.url, rel='alternate' )
     # fg.logo('http://ex.com/logo.jpg')
     # fg.subtitle('This is a cool feed!')
-    # fg.link( href='http://larskiesow.de/test.atom', rel='self' )
+    fg.link( href='https://xl-sec.github.io/AppSecEzine/latest.xml', rel='self' )
     fg.language('en')
 
     for item in ezine.items:
         fe = fg.add_entry(order='append')
         fe.title(categories[item.category] + ": " + item.title)
-        fe.content(item.content_raw.strip(), type="CDATA")
-        fe.content("<br />\n".join(item.content), type="CDATA")
+        fe.content("<br>\n".join(item.content), type="html")
         fe.category({'term': categories[item.category]})
         fe.id(item.url)
         fe.link(href=item.url)
