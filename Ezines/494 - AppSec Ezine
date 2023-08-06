@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 31 | Month: August | Year: 2023 | Release Date: 04/08/2023 | Edition: #494 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/43SkcYC (+)
+Description: Identifying and Exploiting Unsafe Deserialization in Ruby.
+
+URL: https://archive.li/XSvGv
+Description: XSS with CSP bypass leads to diagrams backdoor in jgraph/drawio.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/khyatiparekh/API-Fuzzer
+Description: Comprehensive, feature-rich API Fuzzer.
+
+URL: https://godiego.co/posts/STO-Azure/
+Description: Subdomain Takeover in Azure - Making a PoC.
+
+URL: https://github.com/airbus-cert/ttd2mdmp
+Description: Extract data of TTD trace file to a minidump.
+
+URL: https://github.com/reveng007/DarkWidow
+Description: Dropper/PostExploitation Tool targeting Windows.
+
+URL: https://github.com/iosifache/semgrep-rules-manager
+Description: Manager of third-party sources of Semgrep rules.
+
+URL: https://github.com/kacakb/jsfinder
+Description: Fetches JavaScript files quickly and comprehensively.
+
+URL: https://github.com/wh0amitz/S4UTomato
+Description: Escalate Service Account To LocalSystem via Kerberos.
+
+URL: https://github.com/sagarbhure/eBPFShield
+Description: Advanced IP-Intelligence & DNS Monitoring using eBPF.
+
+URL: https://maikypedia.gitlab.io/posts/finding-vulns-with-mrva-codeql/
+Description: Finding Vulnerabilities with MRVA CodeQL.
+
+URL: https://github.com/kleiton0x00/RemoteShellcodeExec
+Description: Execute shellcode from a remote-hosted bin file using Winhttp.
+
+URL: https://github.com/Anof-cyber/ParaForge
+Description: BurpSuite extension to generate word-lists of endpoints/parameters for testing.
+
+URL: https://hardenedvault.net/blog/2023-07-16-vault-range-resilience-weaponized-exp-linux/
+Description: Vault Range - The Measure and Resilience of Weaponized Exploit Methods for Linux.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.mcnulty.blog/posts/dap-csrf
+Description: CSRFing VS Code's Debug Adapter Protocol.
+
+URL: https://bountyplz.xyz/bugbounty/2023/07/30/HTML-Over-The-Wire.html
+Description: HTML Over the Wire.
+
+URL: https://www.wiz.io/blog/ubuntu-overlayfs-vulnerability
+Description: GameOver(lay) - Easy-to-exploit LPE vulns in Ubuntu Linux.
+
+URL: https://research.aurainfosec.io/pentest/hook-line-and-phishlet/
+Description:  Hook, Line, and Phishlet - Conquering AD FS with Evilginx.
+
+URL: https://bit.ly/3DE9R7M (+)
+Description: Command Injection in Check Point Gaia Portal (CVE-2023-28130).
+
+URL: https://blog.assetnote.io/2023/07/21/citrix-CVE-2023-3519-analysis/
+More: https://blog.assetnote.io/2023/07/24/citrix-rce-part-2-cve-2023-3519/
+Description: Analysis of CVE-2023-3519 in Citrix ADC and NetScaler Gateway.
+
+URL: https://code-white.com/blog/2023-08-blindsiding-auditd-for-fun-and-profit/
+Description: Blindsiding auditd for Fun and Profit.
+
+URL: https://yanglingxi1993.github.io/dirty_pagetable/dirty_pagetable.html
+Description: Dirty Pagetable - A Novel Exploitation Technique To Rule Linux Kernel.
+
+URL: https://bit.ly/47knuXF (+)
+Description: Advancing the Understanding of IIS Short File Name (SFN) Disclosure!
+
+URL: https://devco.re/blog/2023/07/07/a-journey-into-hacking-google-search-appliance-en/
+Description: A Journey Into Hacking Google Search Appliance.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://rap.sh/Shell_Script_Golf
+Description: Shell Script Golf.
+
+URL: https://github.com/ggerganov/kbd-audio
+Description: Acoustic keyboard eavesdropping.
+
+URL: https://distrosea.com
+Description: Test drive Linux distros online!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?8f32296ee9706153#vh2butilw2zvVdaulUG6nu8Q6OdDU6ZgnQxHAyYDMfY=
