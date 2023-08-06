@@ -14,7 +14,7 @@ jobs:
         with:
           owner: Simpsonpt
           repo: AppSecEzine
-          base: main
-          head: main
+          base: master
+          head: master
           ignore_fail: true
           retries: 1
