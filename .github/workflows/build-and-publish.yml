@@ -1,0 +1,55 @@
+name: Build and publish latest ezine
+
+on:
+  push:
+    branches: ["dev"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+      - name: Create output directory
+        run: mkdir output
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedgen
+          if [ -f RSSGenerator/requirements.txt ]; then pip install -r RSSGenerator/requirements.txt; fi
+      - name: Run RSS Generator
+        run: |
+          latest=$(ls -v Ezines/ | tail -n 1)
+          echo "Generating: " $latest
+          python RSSGenerator/rssgenerator.py "Ezines/$latest" rss > output/latest.rss
+          python RSSGenerator/rssgenerator.py "Ezines/$latest" atom > output/latest.atom
+      - name: Generate index.htm from readme
+        uses: maxheld83/pandoc@v2
+        with:
+          args: '--standalone --output=output/index.html --metadata pagetitle="AppSec Ezine" README.md'
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: 'output'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
