@@ -4,9 +4,6 @@ import datetime
 
 from feedgen.feed import FeedGenerator
 
-# sudo apt install python3-feedgenerator
-#import FeedGenerator
-
 class EzineItem:
     def __init__(self):
         self.title = ''
@@ -50,7 +47,7 @@ d2c = {
     "Content Helpers (0x)": 'credits',
 }
 
-def parse_ezine(path):
+def parse_ezine(path, mode = None):
     result = Ezine()
     current_category = None
     current_item = EzineItem()
@@ -106,7 +103,6 @@ def parse_ezine(path):
             else:
                 res = extra_url_regexp.match(row)
                 if res:
-                    # print("EXTRA URL FOUND")3
                     current_item.urls += (res.group(1), res.group(2))
                     current_item.content.append(res.group(1) + ": <a href='" + res.group(2) + "'>" + res.group(2) + "</a>")
                 else:
@@ -115,11 +111,9 @@ def parse_ezine(path):
                     print("EXTRA DATA FOUND", row)
                     current_item.content.append(row)
 
-            # print(current_category, row[:-1])
-    # print(result)
-    generate_feed(result)
+    generate_feed(result, mode)
 
-def generate_feed(ezine):
+def generate_feed(ezine, mode = None):
     fg = FeedGenerator()
     fg.id(ezine.url)
     fg.title('AppSec Ezine #' + ezine.edition)
@@ -128,9 +122,10 @@ def generate_feed(ezine):
     # todo: handle multiple credits
     fg.author({'name': ezine.credits,'email': "simpsonpt@gmail.com"})
     fg.link( href=ezine.url, rel='alternate' )
-    # fg.logo('http://ex.com/logo.jpg')
-    # fg.subtitle('This is a cool feed!')
-    fg.link( href='https://xl-sec.github.io/AppSecEzine/latest.xml', rel='self' )
+    if mode == None or mode == "rss":
+        fg.link( href='https://xl-sec.github.io/AppSecEzine/latest.rss', rel='self' )
+    else:
+        fg.link( href='https://xl-sec.github.io/AppSecEzine/latest.atom', rel='self' )
     fg.language('en')
 
     for item in ezine.items:
@@ -141,15 +136,26 @@ def generate_feed(ezine):
         fe.id(item.url)
         fe.link(href=item.url)
 
-    print(fg.rss_str(pretty=True).decode(), end="")
-    # print(fg.atom_str(pretty=True).decode(), end="")
+    if mode == None or mode == "rss":
+        print(fg.rss_str(pretty=True).decode(), end="")
+    else:
+        print(fg.atom_str(pretty=True).decode(), end="")
 
 def main():
-    if len(sys.argv) != 2:
-        print("Error: expecting path to ezine as only argument")
+    if len(sys.argv) < 2 or len(sys.argv) > 3:
+        print("Error: expecting path and mode as arguments", file=sys.stderr)
+        print("rssgenerator.py <path> <rss/atom?>", file=sys.stderr)
         sys.exit(1)
+    
+    mode = None
+    if len(sys.argv) == 3:
+        if sys.argv[2] == "rss" or sys.argv[2] == "atom":
+            mode = sys.argv[2]
+        else:
+            print("Error: Unknown mode, only rss and atom is allowed (default: rss)", file=sys.stderr)
+            sys.exit(2)
 
-    parse_ezine(sys.argv[1])
+    parse_ezine(sys.argv[1], mode)
 
 if __name__ == "__main__":
     main()
