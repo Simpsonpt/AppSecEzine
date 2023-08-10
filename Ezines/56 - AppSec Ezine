@@ -35,7 +35,7 @@ URL: https://github.com/jfoote/exploitable
 Description: GDB extension that classifies Linux application bugs by severity. 
 
 URL: https://github.com/ohjeongwook/FlashHacker
-Description:  ActionScript Bytecode instrumentation framework. 
+Description: ActionScript Bytecode instrumentation framework. 
 
 URL: http://thorly.batr.am/
 Description: Flash security scanner.
@@ -46,7 +46,7 @@ Description: "PoC" for Samba vulnerabilty (CVE-2015-0240).
 URL: https://github.com/afaqurk/linux-dash
 Description: A drop-in, low-overhead monitoring web dashboard for a linux machine.
 
-URL https://github.com/dionach/CMSmap
+URL: https://github.com/dionach/CMSmap
 Description: Tool that automates the process of detecting security flaws of the most popular CMSs.
 
 URL: http://blog.rootshell.be/2015/03/04/phpmoadmin-0-day-nmap-script/

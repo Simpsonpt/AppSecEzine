@@ -17,7 +17,7 @@ URL: http://blog.ptsecurity.com/2015/07/best-reverser-write-up-analyzing.html
 Description: Best Reverser Write-Up - Analyzing Uncommon Firmware.
 
 URL: https://k0st.wordpress.com/2012/10/23/rip-or-pillage-dvcs-story-about-git/ 
-PoC A:https://github.com/evilpacket/DVCS-Pillage
+PoC A: https://github.com/evilpacket/DVCS-Pillage
 PoC B: https://github.com/kost/dvcs-ripper
 Google Dork: ".git" intitle:"Index of"
 Description: Pillage web accessible GIT, HG and BZR repositories.
@@ -30,7 +30,7 @@ Description: Pillage web accessible GIT, HG and BZR repositories.
 
 
 URL: https://github.com/dkemp/Vulndev/tree/master/MS14-070
-Advisory:  https://technet.microsoft.com/library/security/ms14-070
+Advisory: https://technet.microsoft.com/library/security/ms14-070
 Description: Vulnerability in TCP/IP Could Allow Elevation of Privilege (MS14-070).
 
 URL: https://github.com/emdel/ksfinder

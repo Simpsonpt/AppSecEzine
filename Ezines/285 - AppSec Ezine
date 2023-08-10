@@ -61,7 +61,7 @@ URL: https://github.com/snovvcrash/usbrip
 Description: CLI forensics tool for tracking USB device artifacts (history of USB events).
 
 URL: https://github.com/butterflyhack/CVE-2019-10207/
-Description:  Bluetooth (hci_uart) - Linux Kernel NULL pointer dereference (CVE-2019-10207).
+Description: Bluetooth (hci_uart) - Linux Kernel NULL pointer dereference (CVE-2019-10207).
 
 
 '  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬

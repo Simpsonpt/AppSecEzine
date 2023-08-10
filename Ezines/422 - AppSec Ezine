@@ -97,7 +97,7 @@ URL: https://nstarke.github.io/netgear/nday/2022/03/13/reverse-engineering-a-net
 Description: Reverse Engineering a Netgear Nday (CVE-2021-34979).
 
 URL: https://bit.ly/3wnT6v8 (+)
-Description:  Exchange Server GetWacInfo Information Disclosure Vulnerability (CVE-2022-24463).
+Description: Exchange Server GetWacInfo Information Disclosure Vulnerability (CVE-2022-24463).
 
 URL: https://windows-internals.com/hyperguard-secure-kernel-patch-guard-part-1-skpg-initialization/
 More: https://windows-internals.com/hyperguard-secure-kernel-patch-guard-part-2-skpg-extents/

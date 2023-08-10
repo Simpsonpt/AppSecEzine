@@ -63,7 +63,7 @@ Description: One-Bit To Rule Them All - Bypassing Windows'10 Protections using a
 URL: https://www.checkmarx.com/2014/08/20/swift-security-issues/
 Description: Swift Vulnerabilities - What the New Language Did Not Fix.
 
-http://blog.gdssecurity.com/labs/2015/1/26/badsamba-exploiting-windows-startup-scripts-using-a-maliciou.html
+URL: http://blog.gdssecurity.com/labs/2015/1/26/badsamba-exploiting-windows-startup-scripts-using-a-maliciou.html
 Description: BadSamba - Exploiting Windows Startup Scripts Using A Malicious SMB Server.
 
 URL: https://rateip.com/blog/sql-injections-in-mysql-limit-clause/
