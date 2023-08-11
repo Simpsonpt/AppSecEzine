@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 32 | Month: August | Year: 2023 | Release Date: 11/08/2023 | Edition: #495 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://portswigger.net/research/smashing-the-state-machine
+Description: Smashing the state machine - the true potential of web race conditions.
+
+URL: https://bit.ly/47q7fbk (+)
+Description: IIS Auth Bypass & App Pool Privesc in ASP.NET Framework (CVE-2023-36899).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/xCuri0/ReBarUEFI
+Description: Resizable BAR for (almost) any UEFI system.
+
+URL: https://github.com/crytic/caracal
+Description: Static Analyzer for Starknet smart contracts.
+
+URL: https://github.com/Markakd/bad_io_uring
+Description: Android kernel exploitation for CVE-2022-20409.
+
+URL: https://github.com/lico-n/ZygiskFrida
+Description: Injects frida gadget using zygisk to bypass anti-tamper checks.
+
+URL: https://github.com/hisxo/JSpector
+Description: Burp Suite extension to crawl JavaScript (JS) files in passive mode.
+
+URL: https://github.com/infobyte/emploleaks
+Description: OSINT tool that helps detect members of a company with leaked credentials.
+
+URL: https://github.com/ShorSec/DavRelayUp
+Description: Universal no-fix LPE in domain-joined Windows workstations w/out LDAP signing.
+
+URL: https://github.com/xforcered/SQLRecon
+Description: C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.
+
+URL: https://github.com/hueristiq/xurlfind3r
+Description: A CLI utility to find domain's known URLs from curated passive online sources.
+
+URL: https://github.com/magisterquis/chromecookiestealer
+Description: Steal/Inject Chrome cookies over the DevTools (--remote-debugging-port) protocol.
+
+URL: https://github.com/p0dalirius/FindUncommonShares
+Description: Py version of PowerView's Invoke-ShareFinder.ps1 to find shares in Windows Domains.
+
+URL: https://github.com/0xTriboulet/Revenant/
+Description: 3rd party agent for Havoc to show evasion techniques in the context of a C2 framework.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://exploit.ph/des-is-useful.html
+Description: DES Is Useful... Sometimes.
+
+URL: https://blog.xpnsec.com/png-steganography/
+Description: PNG Steganography from First Principles.
+
+URL: https://bishopfox.com/blog/breaking-fortinet-firmware-encryption
+Description: Breaking Fortinet Firmware Encryption.
+
+URL: https://cycode.com/blog/exposing-vscode-secrets/
+Description: VS Code's Token Security - Keeping Your Secrets... Not So Secretly.
+
+URL: https://bit.ly/3s5qeYD (+)
+Description: Cache Purge Misconfiguration - New vulnerability on modern web apps.
+
+URL: https://tunnelcrack.mathyvanhoef.com/
+Description: Bypassing Tunnels - Leaking VPN Client Traffic by Abusing Routing Tables.
+
+URL: https://llm-attacks.org
+Description: Universal and Transferable Adversarial Attacks on Aligned Language Models.
+
+URL: https://comsec.ethz.ch/research/microarch/inception/
+Description: Inception - How a simple XOR can cause a Microarchitectural Stack Overflow.
+
+URL: https://milksad.info/
+Description: Explanation of how weak entropy can ruin your day - and your savings (CVE-2023-39910).
+
+URL: https://citizenlab.ca/2023/08/vulnerabilities-in-sogou-keyboard-encryption/
+Description: Vulnerabilities in Sogou Keyboard encryption expose keypresses to network eavesdropping.
+
+URL: https://downfall.page/
+Description: Exploiting speculative forwarding of 'Gather' instruction to steal data (CVE-2022-40982). 
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://articles.59.ca/doku.php?id=em:20482030
+Description: 2048 Bit RSA and the Year 2030.
+
+URL: https://hyperscript.org/
+Description: An easy & approachable language for modern web front-ends.
+
+URL: https://svrooij.io/2023/01/25/disconnect-your-smart-appliance/
+Description: I disconnected our smart oven, and maybe you should as well.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?43cf41c4e8130fdd#p8DtzYKcID8icZLZq4loeHwxbFvKXv373EbnOV9ONGQ=
