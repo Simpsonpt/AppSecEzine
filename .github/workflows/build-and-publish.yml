@@ -1,8 +1,13 @@
 name: Build and publish latest ezine
 
 on:
+  # Run on push
   push:
-    branches: ["dev"]
+    branches: ["master", "dev"]
+  # Run on pull requests (which should be created by the sync workflow)
+  pull_request:
+    types: ["synchronize", "closed"]
+  # Allow trigger manually, for testing purposes
   workflow_dispatch:
 
 permissions:
