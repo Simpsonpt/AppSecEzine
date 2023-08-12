@@ -1,16 +1,21 @@
+# Note: The workflow needs R/W on all repos in scope and permissions to create and approve pull requests
+# Change under Settings > Actions > General and then Workflow permissions
 name: Sync fork
 
 on:
   schedule:
-    # Every Friday, every 15 minutes between 9-12
-    - cron: '*/15 9-12 * * 5'
+    # Every 15 minutes between 8-12 on fridays
+    - cron: '*/15 8-12 * * 5'
+  
+  # Allow trigger manually, for testing purposes
   workflow_dispatch:
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: tgymnich/fork-sync@v1.8
+      - name: Synk fork
+        uses: tgymnich/fork-sync@v1.8
         with:
           owner: Simpsonpt
           repo: AppSecEzine
