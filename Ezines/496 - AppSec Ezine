@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 33 | Month: August | Year: 2023 | Release Date: 18/08/2023 | Edition: #496 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://samcurry.net/points-com/
+Description: Hacking the Largest Airline and Hotel Rewards Platform.
+
+URL: https://blog.jeti.pw/posts/knocking-on-the-front-door/
+Description: Knocking on the Front Door (client side desync attack on Azure CDN).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://lofl-project.github.io/
+Blog: https://bit.ly/3KKYYoZ (+)
+Description: Living off the Foreign Land Cmdlets and Binaries.
+
+URL: https://github.com/snowcra5h/windows-api-function-cheatsheets
+Description: Windows API Function Cheatsheets.
+
+URL: https://github.com/foxlox/GIUDA
+Description: Ask a TGS on behalf of another user without password.
+
+URL: https://github.com/hardenedvault/ved-ebpf
+Description: VED-eBPF - Kernel Exploit and Rootkit Detection using eBPF.
+
+URL: https://github.com/georgesotiriadis/Chimera
+Description: Automated DLL Sideloading Tool With EDR Evasion Capabilities.
+
+URL: https://github.com/LaurieWired/ARTful
+Description: The ARTful library for dynamically modifying the Android Runtime.
+
+URL: https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection
+Blog: https://bit.ly/3P06Jtq (+)
+Description: Ghostscript command injection vulnerability PoC (CVE-2023-36664).
+
+URL: https://github.com/dr4k0nia/NixImports
+Description: A .NET malware loader, using API-Hashing to evade static analysis.
+
+URL: https://github.com/avolens/kubefuzz
+Description: Generative and mutative fuzzer for K8s admission controller chains.
+
+URL: https://github.com/decompiler-explorer/decompiler-explorer
+Description: Decompiler Explorer! Compare tools on the forefront of static analysis.
+
+URL: https://github.com/wssheldon/osintui
+Description: OSINT from your favorite services in a friendly terminal user interface.
+
+URL: https://github.com/advanced-microcode-patching/shiva
+Description: A custom ELF linker/loader for installing ET_REL binary patches at runtime.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://shorsec.io/blog/dll-notification-injection/
+PoC: https://github.com/ShorSec/DllNotificationInjection
+Description: DLL Notification Injection.
+
+URL: https://infosec.zeyu2001.com/2023/from-xs-leaks-to-ss-leaks
+Description: From XS-Leaks to SS-Leaks Using object.
+
+URL: https://bit.ly/3YGAkeX (+)
+Description: Hooking System Calls in Win11 22H2 like Avast Antivirus.
+
+URL: https://blog.quarkslab.com/android-data-encryption-in-depth.html
+Description: Android Data Encryption in depth.
+
+URL: https://icanhack.nl/blog/dji-rm500-privilege-escalation/
+Description: Local Privilege Escalation on the DJI RM500 Smart Controller.
+
+URL: https://bit.ly/3qySm5Z (+)
+Description: No keys attached - Exploring GitHub-to-AWS keyless authentication flaws.
+
+URL: https://blog.syss.com/posts/zero-touch-pwn/
+Description: Abusing Zoom's Zero Touch Provisioning for Remote Attacks on Desk Phones.
+
+URL: https://github.com/lrh2000/StackRot
+Description: StackRot (CVE-2023-3269) - Linux kernel privilege escalation vulnerability.
+
+URL: https://jfrog.com/blog/spring-webflux-cve-2023-34034-write-up-and-proof-of-concept/
+Description: Spring WebFlux – CVE-2023-34034 – Write-Up and Proof-of-Concept.
+
+URL: https://www.sidechannel.blog/en/attacking-js-engines/
+Description: Attacking JS engines - Fundamentals for understanding memory corruption crashes.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://makefiletutorial.com/
+Description: Learn Makefiles - With the tastiest examples.
+
+URL: https://github.com/travisgoodspeed/maskromtool/
+Description: A CAD tool for extracting bits from Mask ROM photographs. 
+
+URL: https://github.com/joelsernamoreno/EvilCrowCable-Pro
+Description: BadUSB and Hardware Keylogger cable based on RP2040 microcontroller.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?3f96f4f3fef016df#65DJIFGftMrga5ZtBr+Yltq/FSDjWMSwiNMTiz9uI8I=
