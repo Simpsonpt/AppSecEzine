@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 34 | Month: August | Year: 2023 | Release Date: 25/08/2023 | Edition: #497 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ndevtk.github.io/writeups/2023/08/18/extensions/
+Description: Bug write-up for Google Extensions.
+
+URL: https://bit.ly/45nvZ2I (+)
+Description: Android Basecamp BBP - Able to steal bearer token from deep link.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/N0rz3/GitSint
+Description: OSINT Tool (Github tracker).
+
+URL: https://github.com/BishopFox/mellon
+Description: OSDP attack tool.
+
+URL: https://github.com/nyxgeek/teamstracker
+Description: Using graph proxy to monitor teams user presence.
+
+URL: https://github.com/anirudhbiyani/findmytakeover
+Description: Find dangling domains in a multi cloud environment.
+
+URL: https://github.com/hahwul/noir
+Description: Noir is an attack surface detector form source code.
+
+URL: https://github.com/threatexpress/cs2modrewrite
+Description: Convert Cobalt Strike profiles to modrewrite scripts.
+
+URL: https://github.com/dfir-dd/dfir-toolkit
+Description: CLI tools for forensic investigation of Windows artifacts.
+
+URL: https://github.com/Wh04m1001/CVE-2023-36874 
+More: https://github.com/d0rb/CVE-2023-36874
+Description: PoC for LPE in Windows Error Reporting Service (CVE-2023-36874).
+
+URL: https://github.com/g0ldencybersec/CloudRecon
+Description: Suite of tools to scan IP addresses or CIDRs and find these hidden gems.
+
+URL: https://ntdoc.m417z.com/
+Description: Native API online documentation, based on the System Informer phnt headers.
+
+URL: https://github.com/ScorpionesLabs/MSSqlPwner
+Description: Tool designed to seamlessly interact w/ MSSQL servers and based on Impacket. 
+
+URL: https://github.com/zer0condition/NVDrv
+Description: Abusing nvoclock.sys for physical/virtual memory and control register manipulation. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://pushsecurity.com/blog/samljacking-a-poisoned-tenant/
+Description: SAMLjacking a poisoned tenant.
+
+URL: https://bit.ly/3KToPLk (+)
+Description: Improving the stealthiness of memory injections techniques.
+
+URL: https://diablohorn.com/2023/08/22/lateral-movement-a-conceptual-overview/
+Description: Lateral movement - A conceptual overview.
+
+URL: https://blog.sicuranext.com/aws-waf-bypass/
+Description: AWS WAF Bypass - Invalid JSON object and unicode escape sequences.
+
+URL: https://www.errno.fr/BypassingBitlocker
+Description: Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop.
+
+URL: https://www.crowdstrike.com/blog/how-to-compromise-a-printer-in-3-simple-steps/
+Description: For the Common Good - How to Compromise a Printer in Three Simple Steps.
+
+URL: https://bit.ly/44wPCUU (+)
+Description: Living Off the Land - RE Methodology + Tips & Tricks (Cmdl32 Case Study).
+
+URL: https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/
+Description: mTLS - When certificate authentication is done wrong.
+
+URL: https://www.horizon3.ai/ivanti-sentry-authentication-bypass-cve-2023-38035-deep-dive/
+Description: Ivanti Sentry Authentication Bypass CVE-2023-38035 Deep Dive.
+
+URL: https://blog.quarkslab.com/breaking-secure-boot-on-the-silicon-labs-gecko-platform.html
+Description: Breaking Secure Boot on the Silicon Labs Gecko platform.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/facefusion/facefusion
+Description: Next generation face swapper and enhancer.
+
+URL: https://conduition.io/cryptography/schnorr/
+Description: A Dive Into the Math Behind Bitcoin Schnorr Signatures.
+
+URL: https://blog.ret2.io/2023/08/09/jtag-hacking-the-original-xbox-2023/
+Description: JTAG 'Hacking' the Original Xbox in 2023.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?a291b70fb1e853d0#nj3EQSEe4j/3JOZKzSKac0XtI93TS5BQtEtTCRX9eHo=
