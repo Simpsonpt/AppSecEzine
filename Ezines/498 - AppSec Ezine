@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 35 | Month: September | Year: 2023 | Release Date: 01/09/2023 | Edition: #498 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://huntr.dev/bounties/4da96d20-78ac-462e-910c-a14db9062161/
+More: https://huntr.dev/bounties/ce75aa04-e4d6-4e0a-9db0-ae84c46ae9e2/
+Description: jgraph/drawio Desktop APP XSS to RCE and RCE via saveDraft IPC.
+
+URL: https://www.sonarsource.com/blog/playing-dominos-with-moodles-security-1/
+More: https://www.sonarsource.com/blog/playing-dominos-with-moodles-security-2/
+Description: Playing Dominos with Moodle's Security.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Snawoot/dtlspipe
+Description: Generic DTLS wrapper for UDP sessions.
+
+URL: https://github.com/leommxj/prebuilt-multiarch-bin
+Description: Prebuilt binaries for multiple architeture.
+
+URL: https://github.com/HalilDeniz/DNSWatch
+Description: DNSWatch - DNS Traffic Sniffer and Analyzer.
+
+URL: https://github.com/jehna/humanify
+Description: Un-minify Javascript code using LLMs ("AI").
+
+URL: https://github.com/florylsk/NtRemoteLoad
+Description: Remote shellcode injector, based on HWSyscalls.
+
+URL: https://github.com/b1tg/CVE-2023-38831-winrar-exploit
+Blog: https://b1tg.github.io/post/cve-2023-38831-winrar-analysis/ 
+Description: WinRAR RCE before versions 6.23 (CVE-2023-38831).
+
+URL: https://notsosecure.com/bypassing-hardened-android-applications
+Description: Bypassing Hardened Android Applications.
+
+URL: https://github.com/anvilsecure/nosymonkey
+Blog: https://www.anvilsecure.com/blog/nosymonkey.html
+Description: NosyMonkey - API hooking and code injection made easy!
+
+URL: https://github.com/RedTeamOperations/RedCloud-OS
+Description: Cloud Adversary Simulation Operating System for Red Teams.
+
+URL: https://github.com/slemire/WSPCoerce
+Description: PoC to coerce authentication from Windows hosts using MS-WSP.
+
+URL: https://github.com/SafeBreach-Labs/EDRaser
+Description: Tool for remotely deleting access logs, event logs, DBs, and other files.
+
+URL: https://github.com/mbrg/power-pwn
+Description: An offensive and defensive security toolset for Microsoft 365 Power Platform.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/h2RKaKDPGCb
+Description: Hacking a Tapo TC60 Camera.
+
+URL: https://github.com/jthack/PIPE
+Description: PIPE - Prompt Injection Primer for Engineers.
+
+URL: https://blog.quarkslab.com/starlink.html
+Description: Diving into Starlink's User Terminal Firmware.
+
+URL: https://nicolo.dev/en/blog/fairplay-apple-obfuscation/
+Description: Analysis of Obfuscations Found in Apple FairPlay.
+
+URL: https://bit.ly/47XQ3Kw (+)
+Description: Leaking File Contents with a Blind File Oracle in Flarum.
+
+URL: https://thegreycorner.com/2023/08/30/aws-service-C2-forwarding.html
+Description: AWS Service Command and Control HTTP traffic forwarding.
+
+URL: https://joev.dev/posts/unprivileged-process-injection-techniques-in-linux
+Description: Unprivileged Process Injection Techniques in Linux.
+
+URL: https://bit.ly/3YW4R8v (+)
+Description: Analysis of a BitLocker Drive Encryption Bypass (CVE-2022-41099).
+
+URL: https://starlabs.sg/advisories/23/23-32530/
+Description: Trend Micro Apex Central 2019 (<=6016) Authenticated RCE (CVE-2023-32530).
+
+URL: https://bit.ly/3Z21KMf (+)
+Description: Isolate me from sandbox - Explore elevation of privilege of CNG Key Isolation.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/ECTO-1A/AppleJuice
+Description: Apple BLE proximity pairing message spoofing.
+
+URL: https://github.com/obra/Youtube2Webpage
+Description: Script to create a webpage from a Youtube video.
+
+URL: https://stefanbohacek.com/project/detect-missing-adblocker-wordpress-plugin/
+Description: Detect Missing Ad-blocker WordPress plugin.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?b829e80260945826#+vBHClKF8DHqMV4yD1bOIWhVc5oeCGKe6+SlFWIf4+I=
