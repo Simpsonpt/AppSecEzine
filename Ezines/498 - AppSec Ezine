@@ -101,6 +101,7 @@ URL: https://starlabs.sg/advisories/23/23-32530/
 Description: Trend Micro Apex Central 2019 (<=6016) Authenticated RCE (CVE-2023-32530).
 
 URL: https://bit.ly/3Z21KMf (+)
+PoC: https://github.com/Y3A/CVE-2023-28229
 Description: Isolate me from sandbox - Explore elevation of privilege of CNG Key Isolation.
 
 
