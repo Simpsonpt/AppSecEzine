@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 36 | Month: September | Year: 2023 | Release Date: 08/09/2023 | Edition: #499 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/45FOCiA (+)
+Description: Account Takeover at https://trello.com.
+
+URL: https://www.sonarsource.com/blog/code-vulnerabilities-leak-emails-in-proton-mail
+Description: Code Vulnerabilities Put Proton Mails at Risk.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/hakaioffsec/coffee
+Description: A COFF loader made in Rust.
+
+URL: https://github.com/r0binak/MTKPI
+Description: Multi Tool Kubernetes Pentest Image.
+
+URL: https://github.com/dobin/avred
+Description: Analyse your malware to surgically obfuscate it.
+
+URL: https://github.com/trevorsaudi/Mshikaki
+Description: A shellcode injection tool capable of bypassing AMSI.
+
+URL: https://github.com/8051Enthusiast/biodiff
+Blog: http://www.williballenthin.com/post/2022-03-06-biodiff/
+Description: Hex diff viewer using alignment algorithms from biology.
+
+URL: https://github.com/doyensec/Session-Hijacking-Visual-Exploitation/
+Description: Session Hijacking Visual Exploitation.
+
+URL: https://github.com/zer0condition/mhydeath
+Description: Abusing mhyprotect to kill AVs/EDRs/XDRs/Protected Processes.
+
+URL: https://link.medium.com/9Aa1ARYOGCb 
+Description: Creating and using JVM instances in Android C/C++ applications.
+
+URL: https://github.com/sinsinology/CVE-2023-34039
+Description: VMWare Aria Operations for Networks Static SSH key RCE (CVE-2023-34039).
+
+URL: https://decoder.cloud/2023/09/05/from-ntauthcertificates-to-silver-certificate/
+Description: From NTAuthCertificates to "Silver" Certificate.
+
+URL: https://github.com/Rezonate-io/github-oidc-checker
+Description: Check access missconfs to Github OIDC from AWS roles and GCP service accounts.
+
+URL: https://github.com/Mr-Un1k0d3r/Elevate-System-Trusted-BOF
+Description: Elevate the current beacon to SYSTEM and get TrustedInstaller group privilege. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.elttam.com/blog/re-of-lr3/
+Description: Peeking under the bonnet of the Litter Robot 3.
+
+URL: https://blog.thalium.re/posts/leveraging-android-permissions/
+Description: Leveraging Android Permissions - A Solver Approach.
+
+URL: https://y4er.com/posts/cve-2023-37895-apache-jackrabbit-rmi-rce/
+Description: Apache Jackrabbit RMI RCE (CVE-2023-37895).
+
+URL: https://qyn.app/posts/CVE-2023-3389/
+Description: LinkedPoll - UaF in the Linux Kernel io_uring subsystem (CVE-2023-3389).
+
+URL: https://labs.watchtowr.com/cve-2023-36844-and-friends-rce-in-juniper-firewalls/
+PoC: https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844
+Description: CVE-2023-36844 And Friends - RCE In Juniper Devices.
+
+URL: https://www.canva.dev/blog/engineering/when-url-parsers-disagree-cve-2023-38633/
+Description: When URL parsers disagree (CVE-2023-38633).
+
+URL: https://dfir.ru/2023/08/23/cve-2023-4273-a-vulnerability-in-the-linux-exfat-driver/
+Description: Stack overflow vulnerability in the Linux exFAT driver (CVE-2023-4273).
+
+URL: https://bit.ly/3PxugT6 (+)
+Description: GPOddity - Exploiting Active Directory GPOs through NTLM relaying, and more!
+
+URL: https://pulsesecurity.co.nz/advisories/tpm-luks-bypass
+Description: Mashing Enter to bypass full disk encryption with TPM, Clevis, dracut and systemd.
+
+URL: https://bit.ly/45INH0A (+)
+Description: MS SharePoint ValidateTokenIssuer Authentication Bypass Vulnerability (CVE-2023-29357).
+
+URL: https://xz.aliyun.com/t/12813
+Description: Inductive Automation Ignition JavaSerializationCodec Deserialization RCE (CVE-2023-39476).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/mriale/PyDPainter
+Description: A usable pixel art paint program written in Python.
+
+URL: https://orowith2os.gitlab.io/posts/wayland-breaks-your-bad-software/
+Description: Wayland breaks your bad software.
+
+URL: https://librewolf.net/
+Description: A custom version of Firefox, focused on privacy, security and freedom.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?e4fef70ddcd04d1a#GJC2oeNTOZNEWCoz2TD56MuUm9aNHxFZK3BFUoPrdAo=
