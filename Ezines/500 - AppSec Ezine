@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 37 | Month: September | Year: 2023 | Release Date: 15/09/2023 | Edition: #500 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/2089042
+Description: yelp.com and biz.yelp.com ATO via XSS + Cookie Bridge.
+
+URL: https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation
+Description: Hacking GTA V RP Servers Using Web Exploitation Techniques.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/cablej/FileChangeMonitor
+Description: Continuous monitoring for JavaScript files.
+
+URL: https://github.com/konstruktoid/ansible-role-hardening
+Description: Ansible role to apply a security baseline. Systemd edition.
+
+URL: https://github.com/hakaioffsec/navgix
+Description: Tool that will check for nginx alias traversal vulnerabilities.
+
+URL: https://github.com/D00Movenok/HTMLSmuggler
+Description: HTML Smuggling generator&obfuscator for your Red Team operations.
+
+URL: https://github.com/yousseflahouifi/moniorg
+Description: Tool that leverages crt.sh website to monitor domains of a target.
+
+URL: https://github.com/fcavallarin/burp-dom-scanner
+Description: Burp Suite's extension to scan and crawl Single Page Applications.
+
+URL: https://github.com/YOLOP0wn/EchoDrv
+Description: Abuse Kernel R/W vulnerability in ECHOAC anti-cheat driver echo_driver.sys.
+
+URL: https://github.com/samhaxr/VTScanner
+Description: Tool to scan within a selected directory for malware detection and analysis.
+
+URL: https://github.com/LuemmelSec/PMP-Decrypter
+Description: Tool to decrypt encrypted password strings in Patch My PC settings.xml files.
+
+URL: https://github.com/scrt/cve-2022-42475
+Description: PoC to exploit the Heap overflow in Fortinet's SSLVPN daemon (cve-2022-42475).
+
+URL: https://github.com/MustafaBilgici/SucoshScanny
+Description: Automated Source Code vulnerability scanner for Python(Flask-Django) & NodeJs.
+
+URL: https://github.com/cado-security/varc
+Description: Volatile Artifact Collector collects a snapshot of volatile data from a system.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bit.ly/3r6VB59 (+)
+Tool: https://github.com/NetSPI/FuncoPop
+Description: What the Function - Decrypting Azure Function App Keys.
+
+URL: https://exploits.forsale/themebleed/
+PoC: https://github.com/gabe-k/themebleed
+Description: Arbitrary Code Execution via Windows Themes (CVE-2023-38146).
+
+URL: https://gist.github.com/motoyasu-saburi/1b19ef18e96776fe90ba1b9f910fa714
+Description: "filename" in Content-Disposition is a landmine.
+
+URL: https://bit.ly/45QYshE (+)
+Description: Analyzing Security Vulnerabilities in XWiki - In-Depth Examination.
+
+URL: https://www.numencyber.com/cve-2023-29336-win32k-analysis/
+Description: Analysis of CVE-2023-29336 Win32k Privilege Escalation Vulnerability.
+
+URL: https://engineering.fb.com/2023/09/12/security/meta-quest-2-defense-through-offense/
+Description: Meta Quest 2 - Defense through offense.
+
+URL: https://hoyahaxa.blogspot.com/2023/09/exploiting-cve-2017-11286.html
+Description: Exploiting CVE-2017-11286 Six Years Later - XXE in ColdFusion via WDDX Packet.
+
+URL: https://www.mandiant.com/resources/blog/arbitrary-file-deletion-vulnerabilities
+Description: Deleting Your Way Into SYSTEM - Why Arbitrary File Deletion Vulnerabilities Matter.
+
+URL: https://joshua.hu/nagios-hacking-cve-2023-37154
+Description: Hacking Monitored Servers with check_by_ssh and Argument Injection (CVE-2023-37154).
+
+URL: https://research.nccgroup.com/2023/08/08/intel-bios-advisory-memory-corruption-in-hid-drivers/
+Description: Intel BIOS Advisory – Memory Corruption in HID Drivers.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/qwell/bsky-exploits
+Description: exploit modules for Bluesky.
+
+URL: https://defacto2.net
+Description: Preserving the historic PC cracking and warez scene subcultures.
+
+URL: https://github.com/raysan5/raylib
+Description: A simple and easy-to-use library to enjoy videogames programming.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?9e7f5af3cc4b2e8e#G6nJi+htygvPaVlAFUUL0v7OziJnjrYr32zM+yDmUdk=
