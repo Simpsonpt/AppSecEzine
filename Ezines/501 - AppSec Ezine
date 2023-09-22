@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 38 | Month: September | Year: 2023 | Release Date: 22/09/2023 | Edition: #501 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://labs.lares.com/owa-cap-bypass/
+Description: Converting Tokens to Session Cookies for Outlook Web Application.
+
+URL: https://github.com/Sudistark/xss-writeups/blob/main/oauth-dance.md
+Description: Account hijack for anyone using Google sign-in on login.redacted.com.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/irsl/curlshell
+Description: Reverse shell using curl.
+
+URL: https://github.com/AzeemIdrisi/PhoneSploit-Pro
+Description: PhoneSploit with Metasploit Integration.
+
+URL: https://www.trustedsec.com/blog/okta-for-red-teamers/
+Description: Okta for Red Teamers.
+
+URL: https://github.com/malcomvetter/Periscope
+Description: Fully Integrated Adversarial Operations Toolkit.
+
+URL: https://github.com/boringtools/git-alerts
+Description: A Public Git repository & misconfiguration detection tool.
+
+URL: https://github.com/redrays-io/WS_RaceCondition_PoC
+Description: Simple PoC for demonstrating Race Conditions on Websockets.
+
+URL: https://github.com/Seeraiwer/gaiated
+Description: Exploitation of potential traces from the GaiaID/Google ID (OSINT).
+
+URL: https://github.com/Fundacio-i2CAT/InfoHound
+Description: OSINT to extract a large amount of data given a web domain name.
+
+URL: https://github.com/praetorian-inc/ADFSRelay
+Description: Utilities Developed to Research NTLM Relaying Attacks Targeting ADFS. 
+
+URL: https://github.com/YOLOP0wn/POSTDump
+Description: Perform minidump of LSASS process using few technics to avoid detection.
+
+URL: https://github.com/tess-ss/recon-ninja
+Description: Gather and store recon data, search and navigate through the collected data.
+
+URL: https://github.com/0xKayala/NucleiFuzzer
+Description: Tool that combines ParamSpider and Nuclei to enhance web application testing.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.mdsec.co.uk/2023/09/the-not-so-pleasant-password-manager/
+Description: The Not So Pleasant Password Manager.
+
+URL: https://inbits-sec.com/posts/in-memory-unhooking/
+Description: EDR Unhooking - Patching Falcon hooks without VirtualProtect.
+
+URL: https://riccardoancarani.github.io/2023-08-03-attacking-an-edr-part-1/
+More: https://riccardoancarani.github.io/2023-09-14-attacking-an-edr-part-2/
+Description: Attacking an EDR.
+
+URL: https://bit.ly/3PMKXty (+)
+PoC: https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2023-34040
+Description: Spring Kafka Deserialization Remote Code Execution (CVE-2023-34040).
+
+URL: https://vulncheck.com/blog/juniper-cve-2023-36845
+Description: Fileless Remote Code Execution on Juniper Firewalls (CVE-2023-36845).
+
+URL: https://osintmatter.com/hiding-in-plain-sight/
+Description: Browser Fingerprinting - The Invisible dIGITAL Tattoo That Tracks You.
+
+URL: https://www.sonarsource.com/blog/code-vulnerabilities-put-skiff-emails-at-risk/
+Description: Code Vulnerabilities Put Skiff Emails at Risk.
+
+URL: https://link.medium.com/UA9clEhEfDb 
+Description: Debugging the undebuggable and finding a CVE in Microsoft Defender for Endpoint.
+
+URL: https://bit.ly/3rjMQ7R (+)
+Description: Wind River VxWorks tarExtract directory traversal vulnerability (CVE-2023-38346).
+
+URL: https://googleprojectzero.blogspot.com/2023/09/analyzing-modern-in-wild-android-exploit.html
+Description: Analyzing a Modern In-the-wild Android Exploit (CVE-2023-0266/CVE-2023-26083).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/nektos/act
+Description: Run your GitHub Actions locally.
+
+URL: https://github.com/phoboslab/wipeout-rewrite
+Description: Re-implementation of the 1995 PSX game wipEout.
+
+URL: https://avidml.org/
+Description: An open-source, extensible knowledge base of AI failures.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?c8d89465d57c59f9#45Gqe95VY83agTotfEDBWkzLDg2h6obeLJy16dCI1C4=
