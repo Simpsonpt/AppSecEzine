@@ -99,6 +99,7 @@ URL: https://pulsesecurity.co.nz/advisories/tpm-luks-bypass
 Description: Mashing Enter to bypass full disk encryption with TPM, Clevis, dracut and systemd.
 
 URL: https://bit.ly/45INH0A (+)
+PoC: https://github.com/Chocapikk/CVE-2023-29357
 Description: MS SharePoint ValidateTokenIssuer Authentication Bypass Vulnerability (CVE-2023-29357).
 
 URL: https://xz.aliyun.com/t/12813
