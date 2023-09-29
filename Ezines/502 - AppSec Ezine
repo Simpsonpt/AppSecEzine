@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 39 | Month: September | Year: 2023 | Release Date: 29/09/2023 | Edition: #502 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://github.com/kkent030315/Van1338
+Description: A journal for $6,000 Riot Vanguard bounty.
+
+URL: https://ndevtk.github.io/writeups/2023/06/11/googlesource/
+Description: Googlesource.com access_token leak.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/nsecho/furlzz
+Description: Fuzz iOS URL schemes.
+
+URL: https://github.com/tastypepperoni/PPLBlade
+Description: Protected Process Dumper Tool.
+
+URL: https://github.com/franc-pentest/ldeep
+Description: In-depth ldap enumeration utility.
+
+URL: https://github.com/eeriedusk/nysm
+Description: Nysm is a stealth post-exploitation container.
+
+URL: https://github.com/W01fh4cker/VcenterKit
+Description: Vcenter Comprehensive Penetration and Exploitation Toolkit.
+
+URL: https://github.com/tin-z/GDBleed
+Description: Dynamic-Static binary instrumentation framework on top of GDB.
+
+URL: https://github.com/p0dalirius/LDAPWordlistHarvester
+Description: A tool to generate a wordlist from the information present in LDAP.
+
+URL: https://github.com/RedSection/OffensivePH
+Description: Use old Process Hacker driver to bypass several user-mode access controls.
+
+URL: https://github.com/hmgle/graftcp
+Description: Tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
+
+URL: https://github.com/g0h4n/REC2
+Description: Client/Server tool to allow execute commands from VirusTotal and Mastodon APIs.
+
+URL: https://github.com/WKL-Sec/WMIExec
+Description: Python scripts to perform different ways of command execution via WMI protocol.
+
+URL: https://github.com/nokn0wthing/CVE-2023-20052
+Description: Information leak vulnerability in the DMG file parser of ClamAV (CVE-2023-20052).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://starlabs.sg/blog/2023/09-sharepoint-pre-auth-rce-chain/
+Description: SharePoint Pre-Auth RCE chain (CVE-2023–29357/CVE-2023–24955).
+
+URL: https://blog.impalabs.com/2309_advisory_huawei_trustzone_hw-keymaster.html
+Description: Huawei TrustZone HW_KEYMASTER Vulnerabilities.
+
+URL: https://labs.withsecure.com/publications/sniff-there-leaks-my-bitlocker-key
+Tool: https://github.com/WithSecureLabs/bitlocker-spi-toolkit
+Description: Sniff, there leaks my BitLocker key.
+
+URL: https://bit.ly/3LC5DCf (+)
+Description: MSMQ QueueJumper (RCE Vulnerability) - An In-Depth Technical Analysis.
+
+URL: https://blog.doyensec.com/2023/09/25/clientside-javascript-instrumentation.html
+Description: Client-side JavaScript Instrumentation.
+
+URL: https://gergelykalman.com/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV.html
+Description: A macOS TCC bypass in Music and TV (CVE-2023-38571).
+
+URL: https://blog.washi.dev/posts/popping-calcs-in-dnspy/
+Description: A problem with .NET Self-Contained Apps and how to pop calculators in dnSpy.
+
+URL: https://blog.ostorlab.co/zip-packages-exploitation.html
+Description: Critical Vulnerabilities Found in Popular Zip Libraries in Swift and Flutter.
+
+URL: https://bit.ly/46arF79 (+)
+Description: No Alloc, No Problem - Leveraging Program Entry Points for Process Injection.
+
+URL: https://www.sonarsource.com/blog/teamcity-vulnerability/
+Description: Source Code at Risk - Critical Code Vulnerability in CI/CD Platform TeamCity.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/dnakov/little-rat
+Description: Chrome extension to monitor (and block) other extensions' network calls. 
+
+URL: https://github.com/xoreaxeaxeax/movfuscator/blob/master/validation/doom/README.md
+Description: Version of DOOM* entirely comprised of mov instructions.
+
+URL: https://github.com/PaulJuliusMartinez/jless
+Description: CLI JSON viewer designed for reading, exploring, and searching through JSON data. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?4bf44505c1748ddd#+1/ug3ULVal6+UIP0ZZaVm54xamzN1GoNmT1f9hyjz4=
