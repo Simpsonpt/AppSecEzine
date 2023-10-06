@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 40 | Month: October | Year: 2023 | Release Date: 06/10/2023 | Edition: #503 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.ss23.geek.nz/2023/09/21/iracing-electron-rce-exploit.html
+Description: iRacing Exploit allows attackers to take control of user's computer.
+
+URL: https://hackerone.com/reports/2107680
+Description: Basecamp AWS keys and cookies leak via uninitialized memory leak in librsvg.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/pavsa/hackrf-spectrum-analyzer
+Description: Spectrum Analyzer GUI for hackrf_sweep.
+
+URL: https://github.com/4ra1n/super-xray
+Description: XRAY GUI Starter (Web Vulnerability Scanner).
+
+URL: https://github.com/metlo-labs/metlo
+Description: Metlo is an open-source API security platform.
+
+URL: https://joshua.hu/gaining-root-with-logrotate-sudo-ubuntu
+Description: root with a single command - sudo logrotate.
+
+URL: https://github.com/TheD1rkMtr/DocPlz
+Description: Documents Exfiltration project for fun and educational purposes.
+
+URL: https://github.com/MrEmpy/Reaper
+Description: PoC designed to exploit BYOVD (Bring Your Own Vulnerable Driver).
+
+URL: https://github.com/Warxim/petep
+Description: Java application for traffic analysis & modification using TCP/UDP proxies.
+
+URL: https://github.com/DataDog/KubeHound
+Blog: https://securitylabs.datadoghq.com/articles/kubehound-identify-kubernetes-attack-paths/
+Description: Kubernetes Attack Graph.
+
+URL: https://github.com/djerryz/electron_shell
+Description: Developing a more covert Remote Access Trojan (RAT) tool by leveraging Electron.
+
+URL: https://github.com/Tw1sm/spraycharles
+Description: Low and slow password spraying tool, designed to spray on a long period of time.
+
+URL: https://0xdarkvortex.dev/c2-infra-on-azure/
+Description: Hosting C2 infrastructure and the exploitation of Azure services for C2 purposes.
+
+URL: https://github.com/securityjoes/ThreatResearch
+Description: Tool that uses ChatGPT to assist researchers using Ghidra as malware analysis tool.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.scrt.ch/2023/09/25/exploiting-stale-adidns-entries/
+Description: Exploiting stale ADIDNS entries.
+
+URL: https://link.medium.com/caPbzKQ5DDb 
+Description: ManageEngine ADManager Command Injection (CVE-2023-38743).
+
+URL: https://rafa.hashnode.dev/exploiting-http-parsers-inconsistencies
+Description: Exploiting HTTP Parsers Inconsistencies.
+
+URL: https://mandomat.github.io/2023-09-21-localization-with-silent-SMS/
+Description: Using silent SMS to localize LTE users.
+
+URL: https://bit.ly/3tbUtxA (+)
+Description: Game Hacking 101: Unleashing the Power of Memory Manipulation.
+
+URL: https://bit.ly/3LLSW7K (+)
+Description: RCE in Progress WS_FTP Ad Hoc via IIS HTTP Modules (CVE-2023-40044).
+
+URL: https://badoption.eu/blog/2023/10/03/MSIFortune.html
+Description: MSIFortune - LPE with MSI Installers or MSI - Might (be) stupid idea.
+
+URL: https://bit.ly/3LPqimx (+)
+Description: Pitfalls of relying on eBPF for security monitoring (and some solutions).
+
+URL: https://www.r-tec.net/r-tec-blog-net-assembly-obfuscation-for-memory-scanner-evasion.html
+Description: .NET Assembly Obfuscation for Memory Scanner Evasion.
+
+URL: https://bit.ly/46toesa (+)
+PoC: https://github.com/RickdeJager/CVE-2023-4911
+Description: Looney Tunables - Local Privilege Escalation in the glibc's ld.so (CVE-2023-4911).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://gitlab.com/illwill/sub7
+Description: Source code for SubSeven 2.1.3.
+
+URL: https://github.com/google/timesketch
+Description: Collaborative forensic timeline analysis.
+
+URL: https://github.com/mar-i0/Whisky
+Description: Capture audio from the microphone, send it to GPT-3.5 and listen to the response.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?a6370fbb4e09c2b9#RQQxcnM5EkbPcIhkV+KW8ZxwhMtzIjTUBOcl7ChUH+0=
