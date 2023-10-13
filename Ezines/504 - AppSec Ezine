@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 41 | Month: October | Year: 2023 | Release Date: 13/10/2023 | Edition: #504 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.pksecurity.io/2023/10/04/microsoft-office.html
+Description: 2023 Microsoft Office XSS.
+
+URL: https://bit.ly/3PLtjoM (+)
+Description: SOP bypass in Chrome using Navigation API (CVE-2022-4908).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Edu4rdSHL/fhc
+Description: Fast HTTP Checker. 
+
+URL: https://github.com/ossf/package-analysis
+Description: Open Source Package Analysis.
+
+URL: https://github.com/palera1n/palera1n
+Description: iOS 15.0-15.3.1 tethered checkm8 "jailbreak".
+
+URL: https://nopcorn.github.io/2023/09/25/duckduckgo-as-c2
+Description: Using DuckDuckGo's Image Proxy as a C2 Channel.
+
+URL: https://github.com/clearbluejar/ghidriff
+Description: Python Command-Line Ghidra Binary Diffing Engine.
+
+URL: https://github.com/cjm00n/EvilSln
+Description: A New Exploitation Technique for Visual Studio Projects.
+
+URL: https://github.com/CompassSecurity/mssqlrelay
+Blog: https://blog.compass-security.com/2023/10/relaying-ntlm-to-mssql/
+Description: Tool for MSSQL relay audit and abuse.
+
+URL: https://github.com/shadowsim/shadowsim
+Description: SIM Card tunnel for Alcatel OT-918D with Baseband 6573 (MTK).
+
+URL: https://github.com/oppsec/Pinkerton
+Description: JavaScript file crawler and secret finder developed in Python.
+
+URL: https://github.com/hardbyte/netchecks
+Description: Tools for testing network conditions and asserting configurations.
+
+URL: https://github.com/icyguider/LatLoader
+Description: PoC module to automated lateral movement with the Havoc C2 framework.
+
+URL: https://github.com/Cr4sh/SmmBackdoorNg
+Description: New version of System Management Mode backdoor for UEFI based platforms.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.xpnsec.com/dirtynib/
+Description: MacOS "DirtyNIB" Vulnerability.
+
+URL: https://bit.ly/3rNp9Fc (+)
+More: https://bit.ly/3rQXRhe (+)
+Description: Finding a POP chain on a common Symfony bundle.
+
+URL: https://sensepost.com/blog/2023/browsers-cache-smuggling/
+Description: Browsers' cache smuggling.
+
+URL: https://blog.redteam-pentesting.de/2023/ghostscript-overview/
+Description: Better dSAFER than Sorry - An Attacker's Overview of Ghostscript.
+
+URL: https://dirkjanm.io/phishing-for-microsoft-entra-primary-refresh-tokens/
+Description: Phishing for Primary Refresh Tokens and Windows Hello keys.
+
+URL: https://megamansec.github.io/Squid-Security-Audit/
+Description: Squid Caching Proxy Security Audit - 55 vulnerabilities and 35 0days.
+
+URL: https://projectblack.io/blog/turn-off-this-watchguard-feature-guardlapse/
+Description: Turn OFF This WatchGuard Feature - GuardLapse.
+
+URL: https://gergelykalman.com/CVE-2023-32364-a-macOS-sandbox-escape-by-mounting.html
+Description: A macOS sandbox escape by mounting (CVE-2023-32364).
+
+URL: https://campbell.scot/conditional-access-common-microsoft-365-security-mistakes-series/
+Description: Conditional Access – Common Microsoft 365 Security Mistakes Series.
+
+URL: https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/
+Description: Coordinated Disclosure - 1-Click RCE on GNOME (CVE-2023-43641).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://overreacted.io/npm-audit-broken-by-design/
+Description: npm audit - Broken by Design.
+
+URL: https://sergioprado.blog/introduction-to-tpm-trusted-platform-module/
+Description: Introduction to TPM (Trusted Platform Module).
+
+URL: https://eieio.games/nonsense/implementing-wordle-in-the-firefox-address-bar/
+Description: Implementing Wordle in the Firefox address bar.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?e949a49052407941#Z8sw+FhcZY3bynunk6HzvqQDvwwMz57UlebNsgj6Awk=
