@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 42 | Month: October | Year: 2023 | Release Date: 20/10/2023 | Edition: #505 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/1274695
+Description: RCE of Burp Scanner/Crawler via Clickjacking.
+
+URL: https://scumjr.github.io/2023/10/12/from-ssrf-to-rce-on-mastodon-cve-2023-42450/
+Description: From SSRF to RCE on Mastodon (CVE-2023-42450).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/nxenon/grpc-pentest-suite
+Description: Tools for testing gRPC Web applications.
+
+URL: https://github.com/ionuttbara/windows-defender-remover
+Description: Remove Windows Defender in Windows 8.x/10/11.
+
+URL: https://github.com/nikhilh-20/ELFEN
+Description: ELFEN - Automated Linux Malware Analysis Sandbox.
+
+URL: https://github.com/SiriusScan/Sirius
+Description: Open-source general purpose vulnerability scanner.
+
+URL: https://github.com/cyber-defence-campus/droneRemoteIDSpoofer
+Description: Drone Remote ID Spoofer.
+
+URL: https://github.com/po6ix/POC-for-CVE-2023-41993
+Description: Apple Web Arbitrary Code Execution PoC (CVE-2023-41993).
+
+URL: https://github.com/hvisage/metalog
+Description: Syslog replacement that allows regular expresion matching.
+
+URL: https://github.com/ZephrFish/Stompy
+Description: Timestomp Tool to flatten MAC times with a specific timestamp.
+
+URL: https://github.com/MitchHS/DLL-Spoofer
+Description: Scans a DLL's exports and creates a basic duplicate CPP DLL template.
+
+URL: https://github.com/lutzenfried/Delegate
+Description: Tool for GCP Domain Wide Delegation abuse and access Gmail/Drive data.
+
+URL: https://github.com/lanjelot/patator
+Description: Multi-purpose brute-forcer, with a modular design and a flexible usage.
+
+URL: https://www.srlabs.de/blog-post/advanced-fuzzing-unmasks-elusive-vulnerabilities
+Description: Advanced fuzzing unmasks elusive vulnerabilities.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://vu.ls/blog/exploiting-zenbleed-from-chrome/
+Description: Exploiting Zenbleed from Chrome.
+
+URL: https://bit.ly/3M7EvuV (+)
+PoC: https://github.com/OtterHacker/SetProcessInjection
+Description: Process Injection using NtSetInformationProcess.
+
+URL: https://blog.ostorlab.co/one-scheme-to-rule-them-all.html
+Description: One Scheme to Rule Them All - OAuth Account Takeover.
+
+URL: https://versprite.com/vs-labs/afd-sys-primitives-in-the-pocket/
+Description: AFD.sys – Primitives in The Pocket | Integer Shenanigans.
+
+URL: https://h0wl.substack.com/p/chat-room-messages-leak-on-friendtech
+Description: Chat Room Messages Leak on Friend.tech.
+
+URL: https://www.sonarsource.com/blog/security-vulnerabilities-in-casaos/
+Description: Security Vulnerabilities in CasaOS.
+
+URL: https://www.enumerated.ie/servicenow-data-exposure
+Description: Data Exposure and ServiceNow - The Elephant in the ITSM Room.
+
+URL: https://bit.ly/3tGh71t (+)
+Description: Synology NAS DSM Account Takeover - When Random is not Secure.
+
+URL: https://bit.ly/402v9X8 (+)
+Description: The Path to the Cloud is Filled with Holes - Exploiting 4G Edge Routers.
+
+URL: https://blog.dru1d.ninja/windows-driver-exploit-development-irec-sys-a5eb45093945
+Description: Windows Driver Exploit Development — irec.sys.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/leahneukirchen/dosfetch
+Description: dosfetch - a neofetch clone for DOS.
+
+URL: https://eccothedolphin.io/ecco-text-generator
+Description: Ecco Text Generator.
+
+URL: https://blog.washi.dev/posts/tinysharp/
+Description: How small is the smallest .NET Hello World binary?
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?30770b2100813c02#pqNi5j2Fuh/twItKFmEbjtvc/J/bla2vlTkNgOQDAVI=
