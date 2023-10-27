@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 43 | Month: October | Year: 2023 | Release Date: 27/10/2023 | Edition: #506 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.stazot.com/auth-bypass-in-google-cloud-workstations/
+Description: Bypassing authorization in Google Cloud Workstations (Google VRP).
+
+URL: https://blog.s1r1us.ninja/research/brokenconflu
+Description: Broken Access Control in Confluence Data Center and Server (CVE-2023-22515).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/HadessCS/Artemis
+Description: APK Infrastructure Investigator.
+
+URL: https://github.com/awakecoding/wireshark-rdp
+Description: Wireshark RDP resources.
+
+URL: https://github.com/ariqa-labs/bxmlrs
+Description: APK manifest & resources parser in Rust.
+
+URL: https://github.com/TheD1rkMtr/PSpersist
+Description: Powershell implant drop and persistence.
+
+URL: https://github.com/jm33-m0/SSH-Harvester
+Blog: https://jm33.me/sshd-injection-and-password-harvesting.html
+Description: Harvest passwords automatically from OpenSSH server.
+
+URL: https://github.com/piaolin/DetectDee
+Description: Hunt down social media accounts by username, email or phone.
+
+URL: https://github.com/jakev/pyxamstore
+Description: Python utility for parsing Xamarin AssemblyStore blob files.
+
+URL: https://github.com/0xrawsec/kunai
+Description: Threat-hunting tool for Linux (Sysmon equivalent for Linux).
+
+URL: https://github.com/s0lst1c3/eaphammer
+Description: Targeted evil twin attacks against WPA2-Enterprise networks.
+
+URL: https://github.com/vchan-in/CVE-2023-35078-Exploit-POC
+Description: Remote Unauth API Access in MobileIron Core (CVE-2023-35078).
+
+URL: https://github.com/bobalkkagi/bobalkkagi
+Description: Themida 3.x unpacking, unwrapping and devirtualization(future).
+
+URL: https://github.com/godaddy/tartufo
+Description: Searches git repositories for high entropy strings and secrets.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.securifera.com/blog/2023/10/25/cve-2021-27198/
+Description: Revisiting an Old Bug - File Upload to Code Execution.
+
+URL: https://huntr.com/bounties/d438eff7-4e24-45e0-bc75-d3a5b3ab2ea1/
+Description: Root takeover via signature spoofing in tiann/kernelsu.
+
+URL: https://certitude.consulting/blog/en/using-cloudflare-to-bypass-cloudflare/
+Description: Using Cloudflare to bypass Cloudflare.
+
+URL: https://bit.ly/476F0xC (+)
+Description: Exploiting Healthcare Servers with Polyglot Files (CVE-2023-33466).
+
+URL: https://ileakage.com/
+Description: Browser-based Timerless Speculative Execution Attacks on Apple Devices.
+
+URL: https://n1k0la-t.github.io/2023/10/24/Microsoft-Exchange-Server-CVE-2023-36745/
+PoC: https://github.com/N1k0la-T/CVE-2023-36745
+Description: Microsoft Exchange Server Remote Code Execution (CVE-2023-36745).
+
+URL: https://link.medium.com/q3qxquwvdEb 
+Description: You Are Not Where You Think You Are, Opera Browsers Address Bar Spoofing.
+
+URL: https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts
+Description: Oh-Auth - Abusing OAuth to take over millions of accounts.
+
+URL: https://blog.quarkslab.com/debugging-windows-isolated-user-mode-ium-processes.html
+Description: Debugging Windows Isolated User Mode (IUM) Processes.
+
+URL: https://bit.ly/3Fz55tu (+)
+Description: Picture this Exploit - Exploring the WebP Image Vulnerability CVE-2023-4863.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/8051Enthusiast/regex2fat
+Description: Turn your favourite regex into FAT32.
+
+URL: https://github.com/orhun/daktilo
+Description: Turn your keyboard into a typewriter! 
+
+URL: https://howtorotate.com/docs/introduction/getting-started/
+Description: How To Rotate.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?260ede5ff32fcdf7#FtEjt/920D4lku+bpgcet2mFgnnqKjnkdvAQ8zHo7iA=
