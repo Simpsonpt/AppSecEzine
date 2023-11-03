@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 44 | Month: November | Year: 2023 | Release Date: 03/11/2023 | Edition: #507 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.ryotak.net/post/dom-based-race-condition/
+Description: DOM-based race condition: racing in the browser for fun.
+
+URL: https://eval.blog/research/microsoft-account-token-leaks-in-harvest/
+Description: Stealing OAuth tokens of connected MS accounts via open redirect in Harvest App.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/b1-team/superman
+Description: Kill The Protected Process.
+
+URL: https://github.com/netero1010/GhostTask
+Description: Ghost Scheduled Task.
+
+URL: https://github.com/cloudflare/har-sanitizer
+Description: Secure HAR sharing.
+
+URL: https://github.com/Fadi002/de4py
+Description: Toolkit for python reverse engineering.
+
+URL: https://github.com/cosad3s/postleaks
+Description: Search for sensitive data in Postman public library.
+
+URL: https://www.panoptica.app/research/7-ways-to-escape-a-container
+Description: 7 Ways to Escape a Container.
+
+URL: https://github.com/FGRibreau/mailchecker
+Description: Cross-language temporary (disposable/throwaway) email detection library.
+
+URL: https://github.com/jsecurity101/LDAPMon
+Description: Telemetry collector for the Microsoft-Windows-LDAP-Client ETW Provider.
+
+URL: https://github.com/JeffreyShran/punfurl
+Description: Rearranges URL paths using a powerset method and combine w/ base domain.
+
+URL: https://github.com/nothingspecialforu/EvtPsst
+Blog: https://nothingspecialforu.github.io/EvtPsstBlog/
+Description: Tamper w/ the eventlog proc w/out an OpenProcess Call to the EventLog proc.
+
+URL: https://github.com/pentagridsec/archive_pwn
+Description: Create zip, tar and cpio archives to exploit common archive library issues.
+
+URL: https://github.com/fdu-sec/NestFuzz
+Description: Structure-aware grey box fuzzer based on modeling the input processing logic.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bit.ly/469e7sO (+)
+Description: Ivanti Issues Security Alert.
+
+URL: https://bit.ly/3QKRxl6 (+)
+PoC: https://github.com/assetnote/exploits/tree/main/citrix/CVE-2023-4966
+Description: Citrix Bleed - Leaking Session Tokens with CVE-2023-4966.
+
+URL: https://nicolo.dev/en/blog/role-control-flow-graph-static-analysis/
+Description: The Role of the Control Flow Graph in Static Analysis.
+
+URL: https://link.medium.com/mamoPg51oEb 
+Description: Home Grown Red Team - LNK Phishing In 2023 Revisited... Again.
+
+URL: https://pwn.win/2023/10/28/file-move-privesc-mac.html
+Description: Turning a boring file move into a privilege escalation on Mac.
+
+URL: https://offsec.almond.consulting/windows-msiexec-eop-cve-2020-0911.html
+Description: Windows Installer arbitrary content manipulation EoP (CVE-2020-0911).
+
+URL: https://blog.pyn3rd.com/2023/10/20/Java-Deserialization-Vulnerability-Still-Alive/
+Description: Java Deserialization Vulnerability Still Alive.
+
+URL: https://patrowl.io/blog-wordpress-media-library-rce-cve-2023-4634/
+Description: Tricky UnAuth RCE on Wordpress Media Library Assistant Plugin (CVE-2023-4634).
+
+URL: https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html
+Description: Exploiting DNS response parsing on the Wii U.
+
+URL: https://offsec.almond.consulting/ldap-authentication-in-active-directory-environments.html
+Description: LDAP authentication in Active Directory environments.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/qmacro/teched-jq-talk
+Description: Handle JSON like a boss with jq.
+
+URL: https://www.tungsteno.io/post/app-geodesics_mercator_projection/
+Description: Geodesics, or how to walk straight in a curved world.
+
+URL: https://github.com/xaitax/PatchaPalooza
+Description: Tool that provides an insightful analysis of Microsoft's monthly security updates. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?7b1c6243c117198d#FJ+xy5L8yCf6IivcdEjYpn/1z8Xz+6VVozrwxQ3ULNk=
