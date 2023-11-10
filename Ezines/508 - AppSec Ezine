@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 45 | Month: November | Year: 2023 | Release Date: 10/11/2023 | Edition: #508 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.dixitaditya.com/oauth-account-takeover
+Description: Exploiting OAuth - Journey to Account Takeover.
+
+URL: https://scumjr.github.io/2023/11/07/usurping-mastodon-instances-cve-2023-42451/
+Description: Usurping Mastodon instances - mastodon.so/cial (CVE-2023-42451).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/sshlog/agent
+Description: SSH Session Monitoring Daemon.z.
+
+URL: https://github.com/guibacellar/TEx
+Description: TEx is a Telegram Explorer tool.
+
+URL: https://github.com/alexandreborges/malwoverview
+Description: First response tool for threat hunting.
+
+URL: https://github.com/evallen/ntpescape
+Description: A reasonably stealthy NTP data exfiltration client.
+
+URL: https://github.com/MrSaighnal/GCR-Google-Calendar-RAT
+Description: PoC of Command&Control (C2) over Google Calendar Events.
+
+URL: https://github.com/MandConsultingGroup/porch-pirate
+Blog: https://mandconsulting.ca/plundering-postman-with-porch-pirate-osint/
+Description: Recon/OSINT client and framework for Postman.
+
+URL: https://github.com/gabriellandau/PPLFault
+Description: Arbitrary Code Execution via TOCTOU in Windows Code Integrity.
+
+URL: https://github.com/0dutra/aws-waf-header-analyzer
+Description: Project to create rate limit in AWS WaF based on HTTP headers.
+
+URL: https://github.com/selinuxG/Golin
+Description: Class Assurance tool (On-site assessment tool for network security).
+
+URL: https://github.com/HalilDeniz/TrafficWatch
+Description: Packet sniffer to monitor and analyze network traffic from PCAP files.
+
+URL: https://github.com/0xe7/EventSniper
+Description: Correlating Windows client and server events to detect malicious behaviour. 
+
+URL: https://github.com/mobb-dev/bugsy
+Description: CLI tool to provide automatic security vulnerability remediation for your code.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.malicious.group/from-akamai-to-f5-to-ntlm/
+Description: From Akamai to F5 to NTLM... with love.
+
+URL: https://bit.ly/49w11Ic (+)
+Description: Lateral Movement - Abuse the Power of DCOM Excel Application.
+
+URL: https://frycos.github.io/vulns4free/2023/11/07/hacking-like-hollywood.html
+Description: Hacking Like Hollywood With Hard-Coded Secrets.
+
+URL: https://www.imperva.com/blog/navigating-the-sea-exploiting-digitalocean-apis/
+Description: Navigating the Sea, Exploiting DigitalOcean APIs.
+
+URL: https://atos.net/en/lp/securitydive/using-edr-telemetry-for-offensive-research
+Description: Using EDR telemetry for offensive research.
+
+URL: https://www.coresecurity.com/core-labs/articles/running-pes-inline-without-console
+Description: Running PEs Inline Without a Console.
+
+URL: https://posts.specterops.io/abusing-slack-for-offensive-operations-part-2-19fef38cc967
+Description: Abusing Slack for Offensive Operations (Update).
+
+URL: https://bit.ly/3MBfgSc (+)
+Description: Yet More Unauth Remote Command Execution Vulns in Firewalls - Sangfor Edition.
+
+URL: https://bit.ly/3MADc8a (+)
+Description: Post-exploiting a compromised etcd – Full control over the cluster and its nodes.
+
+URL: https://www.riskinsight-wavestone.com/en/2023/10/a-universal-edr-bypass-built-in-windows-10/
+Description: A universal EDR bypass built in Windows 10.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/google/cdc-file-transfer
+Description: Tools for synching and streaming files from Windows to Linux.
+
+URL: https://github.com/srpeck/kchat
+Description: Persistent group chat in <50 lines using kdb+/k/q web sockets and JS.
+
+URL: https://github.com/ianarawjo/ChainForge
+Description: Visual programming environment for LLM experimentation and prompt evaluation. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?95260a6e9f99bfef#3Br/qHsNzlBmjtoUVLf04ZzjMyrnbmS2R+IGPojHgkg=
