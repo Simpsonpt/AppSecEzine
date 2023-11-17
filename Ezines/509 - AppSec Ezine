@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 46 | Month: November | Year: 2023 | Release Date: 17/11/2023 | Edition: #509 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://0x44.xyz/blog/cve-2023-4369/
+Description: Uncovering a crazy privilege escalation from Chrome extensions.
+
+URL: https://bit.ly/47hIc9Y (+)
+Description: Data Exfiltration Vulnerability Fixed in Google Generative AI Studio.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Helixo32/NimBlackout
+Description: Kill AV/EDR leveraging BYOVD attack.
+
+URL: https://github.com/yanncam/ShuckNT
+Description: Shuck hash before trying to crack it.
+
+URL: https://github.com/Cracked5pider/LdrLibraryEx
+Description: A small x64 library to load dll's into memory.
+
+URL: https://github.com/foozzi/discoshell
+Description: Discovery script that orchestrate popular recon tools.
+
+URL: https://github.com/JPG0mez/ADCSync
+Description: Use ESC1 to perform a makeshift DCSync and dump hashes.
+
+URL: https://github.com/D00Movenok/BounceBack
+Description: Stealth redirector for your red team operation security.
+
+URL: https://github.com/0xless/slip
+Description: Create malicious archive files containing path traversal payloads.
+
+URL: https://github.com/SafeBreach-Labs/CloudMiner
+Blog: https://www.safebreach.com/blog/cryptocurrency-miner-microsoft-azure
+Description: Execute code using Azure Automation service without getting charged.
+
+URL: https://github.com/kevin-mizu/domloggerpp
+Description: A browser extension to monitor, intercept, and debug JavaScript sinks.
+
+URL: https://github.com/Orange-Cyberdefense/awesome-industrial-protocols
+Description: Security-oriented list of resources about industrial network protocols.
+
+URL: https://github.com/hackerschoice/bpfhacks
+Description: eBPF kernel 'backdoor' to snoop on ALL ssh/sudo/su/login/passwd sessions.
+
+URL: https://github.com/kubeshark/kubeshark
+Description: API Traffic Analyzer for K8s, real-time visibility into the internal network.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://landaire.net/world-of-warships-deobfuscation/
+Description: Deobfuscating World of Warships' Python Scripts.
+
+URL: https://cachewarpattack.com/
+Description: New software fault attack on AMD SEV-ES and SEV-SNP.
+
+URL: https://cwresearchlab.co.kr/entry/CVE-2023-3079-Exploit-PoC
+PoC: https://github.com/mistymntncop/CVE-2023-3079
+Description: Type confusion in V8 in Google Chrome (CVE-2023-3079).
+
+URL: https://haxx.in/posts/hacking-canon-imageclass/
+Description: Hacking the Canon imageCLASS MF742Cdw/MF743Cdw (again).
+
+URL: https://bit.ly/477ih4H (+)
+Description: Compromising F5 BIG-IP With Request Smuggling (CVE-2023-46747).
+
+URL: https://www.pentagrid.ch/en/blog/python-mail-libraries-certificate-verification/
+Description: Python's e-mail libraries and certificate verification Security Revision.
+
+URL: https://www.paloaltonetworks.com/blog/prisma-cloud/secrets-leakage-user-error-azure-cli/
+Description: All the Small Things - Azure CLI Leakage and Problematic Usage Patterns.
+
+URL: https://blog.oversecured.com/Content-Providers-and-the-potential-weak-spots-they-can-have
+Description: Android Content Providers and the potential weak spots they can have.
+
+URL: https://www.whid.ninja/blog/denial-of-pleasure-attacking-unusual-ble-targets-with-a-flipper-zero
+Description: Denial of Pleasure - Attacking Unusual BLE Targets with a Flipper Zero.
+
+URL: https://microsoftedge.github.io/edgevr/posts/Escaping-the-sandbox-A-bug-that-speaks-for-itself/
+Description: Escaping the sandbox - A bug that speaks for itself.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/rclone/rclone
+Description: rsync for cloud storage.
+
+URL: https://coveryourtracks.eff.org/
+Description: See how trackers view your browser.
+
+URL: https://iq.thc.org/how-does-linux-start-a-process
+Description: How does Linux start a process.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?e610a1760084e995#Z5Bs0DO757OQIP0asq1tZ44QzEJRCJJPVsMURJY9QyE=
