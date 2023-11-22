@@ -1,6 +1,6 @@
 # Note: The workflow needs R/W on all repos in scope and permissions to create and approve pull requests
 # Change under Settings > Actions > General and then Workflow permissions
-name: Sync fork
+name: Sync fork and publish
 
 on:
   schedule:
@@ -10,16 +10,71 @@ on:
   # Allow trigger manually, for testing purposes
   workflow_dispatch:
 
+permissions:
+  contents: write # Needed to create the fork commit
+  pages: write    # Needed to deploy github-pages
+  id-token: write # Needed to deploy github-pages
+
 jobs:
-  sync:
+  sync-and-publish:
     runs-on: ubuntu-latest
+    name: Sync fork and publish
+
     steps:
-      - name: Synk fork
-        uses: tgymnich/fork-sync@v1.8
-        with:
-          owner: Simpsonpt
-          repo: AppSecEzine
-          base: master
-          head: master
-          ignore_fail: true
-          retries: 1
+    - name: Checkout target repo
+      uses: actions/checkout@v3
+
+    - name: Sync upstream changes
+      id: sync
+      uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
+      with:
+        target_sync_branch: master
+        target_repo_token: ${{ secrets.GITHUB_TOKEN }}
+        upstream_sync_branch: master
+        upstream_sync_repo: Simpsonpt/AppSecEzine
+
+    - name: Setup Pages
+      if: steps.sync.outputs.has_new_commits == 'true'
+      uses: actions/configure-pages@v3
+
+    - name: Create output directory
+      if: steps.sync.outputs.has_new_commits == 'true'
+      run: mkdir output
+
+    - name: Set up Python 3.11
+      if: steps.sync.outputs.has_new_commits == 'true'
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.11
+
+    - name: Install dependencies
+      if: steps.sync.outputs.has_new_commits == 'true'
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedgen
+        if [ -f RSSGenerator/requirements.txt ]; then pip install -r RSSGenerator/requirements.txt; fi
+
+    - name: Run RSS Generator
+      if: steps.sync.outputs.has_new_commits == 'true'
+      run: |
+        latest=$(ls -v Ezines/ | tail -n 1)
+        echo "Generating: " $latest
+        python RSSGenerator/rssgenerator.py "Ezines/$latest" rss > output/latest.rss
+        python RSSGenerator/rssgenerator.py "Ezines/$latest" atom > output/latest.atom
+
+    - name: Generate index.htm from readme
+      if: steps.sync.outputs.has_new_commits == 'true'
+      uses: maxheld83/pandoc@v2
+      with:
+        args: '--standalone --output=output/index.html --metadata pagetitle="AppSec Ezine" README.md'
+
+    - name: Upload artifact
+      if: steps.sync.outputs.has_new_commits == 'true'
+      uses: actions/upload-pages-artifact@v2
+      with:
+        path: 'output'
+
+    - name: Deploy to GitHub Pages
+      if: steps.sync.outputs.has_new_commits == 'true'
+      id: deployment
+      uses: actions/deploy-pages@v2
