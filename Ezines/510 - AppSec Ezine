@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 47 | Month: November | Year: 2023 | Release Date: 24/11/2023 | Edition: #510 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/AON33lI0LEb 
+Description: Bypass Two-Factor Authentication of Facebook Accounts.
+
+URL: https://eaton-works.com/2023/11/14/telecom-camera-hack/
+Description: Tapping into a telecommunications company's office cameras.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/e1abrador/sub.Monitor
+Description: Passive subdomain continous monitoring tool.
+
+URL: https://github.com/Theldus/bread
+Description: BIOS Reverse Engineering & Advanced Debugger.
+
+URL: https://github.com/yunuscadirci/DIALStranger
+Description: Discovery and Launch (DIAL) protocol insecurities.
+
+URL: https://github.com/sterrasec/genpatch
+Description: IDA plugin to generate python code for patching binary.
+
+URL: https://badfiles.ch/
+Description: Windows Application Attack Surface Analyzer, extension list.
+
+URL: https://github.com/rohsec/LEAKEY/
+Description: Bash script which checks and validates for leaked credentials.
+
+URL: https://github.com/nathan31337/Splunk-RCE-poc
+Blog: https://blog.hrncirik.net/cve-2023-46214-analysis
+Description: Splunk Enterprise Remote Code Execution (RCE) (CVE-2023-46214).
+
+URL: https://pentestlab.blog/2023/11/20/persistence-scheduled-task-tampering/
+Description: Persistence – Scheduled Task Tampering.
+
+URL: https://olexvel.substack.com/p/log4shell-different-avenues-of-exploitation
+Description: Log4Shell - different avenues of exploitation.
+
+URL: https://github.com/MFMokbel/Crawlector
+Description: Threat hunting framework for scanning websites for malicious objects.
+
+URL: https://github.com/synacktiv/pcapan
+Blog: https://www.synacktiv.com/en/publications/pcapan-a-pcap-analysis-helper.html
+Description: A pcap capture analysis helper.
+
+URL: https://shobi.dev/blog/2023-28-10-bypassing-root-detection-in-flutter-with-frida
+Description: Bypassing Root detection in android flutter apps.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://cwresearchlab.co.kr/entry/Chrome-v8-Hole-Exploit
+PoC: https://github.com/mistymntncop/CVE-2023-2033
+Description: Chrome V8 Hole Exploit (CVE-2023-2033).
+
+URL: https://bit.ly/3uy9J8U (+)
+Description: ETW internals for security research and forensics.
+
+URL: https://bit.ly/46tbpNZ (+)
+Description: A new method for container escape using file-based DirtyCred.
+
+URL: https://link.medium.com/gyqHzYkDWEb 
+PoC: https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation
+Description: XSS triggering of Chrome Zeroday (CVE-2023-4357).
+
+URL: https://bit.ly/47N7dde (+)
+Description: Extracting Managed Identity Credentials from Azure Function Apps.
+
+URL: https://tandasat.github.io/blog/2023/11/19/CVE-2023-36427.html
+More: https://github.com/tandasat/CVE-2023-36427
+Description: How I found Microsoft Hypervisor bugs as a by-product of learning.
+
+URL: https://bit.ly/3utpSMJ (+)
+Description: Local Privilege Escalation in Lenovo System Updater (CVE-2023-4632).
+
+URL: https://link.medium.com/PkDIr55O7Bb
+Description: Unraveling MS Connections/Custom Connectors/OAuth2 in Power Automate.
+
+URL: https://convergetp.com/2023/11/16/crushftp-zero-day-cve-2023-43177-discovered/
+Description: CrushFTP Critical Vulnerability CVE-2023-43177 Unauthenticated RCE.
+
+URL: https://0xbro.red/disclosures/disclosed-vulnerabilities/opencart-cve-2023-47444/
+Description: Authenticated Static Code Injections in OpenCart (CVE-2023-47444).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://lyra.horse/misc/chromium_vrp_tree.html
+Description: Chromium Money Tree Browser.
+
+URL: https://github.com/grishka/NearDrop
+Description: An unofficial Google Nearby Share app for macOS.
+
+URL: https://github.com/Aqua-Nautilus/CVE-Half-Day-Watcher
+Description: Tool to highlight the risk of early exposure of CVEs in the public domain.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?35233c39f61243f3#XMHIBjThb3URJ2UdTM7G0J4gOo7nbdu/dIONIh3vwiE=
