@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 48 | Month: December | Year: 2023 | Release Date: 01/12/2023 | Edition: #511 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.hks.ec/posts/ip-spoofing-ftw/
+Description: IP "Spoofing" FTW.
+
+URL: https://blog.ankursundara.com/cookie-bugs/
+Description: Cookie Bugs - Smuggling & Injection.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Trevohack/DynastyPersist
+Description: A Linux persistence tool.
+
+URL: https://github.com/RtlDallas/Jomungand
+Description: Shellcode Loader with memory evasion.
+
+URL: https://github.com/CalfCrusher/MaccaroniC2
+Description: Empowering Command & Control using AsyncSSH.
+
+URL: https://github.com/Viralmaniar/BigBountyRecon
+Description: Initial reconnaissance on the target organisation.
+
+URL: https://github.com/wh0amitz/SharpRODC
+Description: Simple .NET tool for RODC-related misconfiguration.
+
+URL: https://github.com/Drew-Sec/EvilSlackbot
+Description: A Slack bot phishing framework for Red Teaming exercises.
+
+URL: https://github.com/LivingInSyn/RMML
+Description: A list of RMMs designed to be used in automation to build alerts.
+
+URL: https://github.com/center-for-threat-informed-defense/adversary_emulation_library
+Description: Library of adversary emulation plans based on real-world TTPs.
+
+URL: https://github.com/AlmondOffSec/PassTheCert
+Description: Tool authenticate to an LDAP/S server with a certificate through Schannel.
+
+URL: https://github.com/hakluke/hakip2host
+Description: Takes a list of IP addresses via stdin and return associated domain names.
+
+URL: https://github.com/nettitude/Tartarus-TpAllocInject
+Blog: https://labs.nettitude.com/blog/creating-an-opsec-safe-loader-for-red-team-operations/
+Description: Simple loader that uses indirect syscalls via the Tartarus' Gate method.
+
+URL: https://github.com/francozappa/bluffs
+Paper: https://dl.acm.org/doi/pdf/10.1145/3576915.3623066
+Description: Bluetooth Forward and Future Secrecy Attacks/Defenses (BLUFFS) (CVE 2023-24023). 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://revers.engineering/fun-with-pg-compliant-hook/
+Description: Fun with another PG-compliant Hook.
+
+URL: https://libdzonerzy.so/articles/from-zero-to-botnet-glinet.html
+Description: From zero to botnet – GL.iNet going wild.
+
+URL: https://www.binarysecurity.no/posts/2023/11/aks-guest-access
+Description: Accessing Azure Kubernetes Service as Guest and Cross-Tenant.
+
+URL: https://tetraburst.com/
+Description: Terrestrial Trunked Radio (TETRA) vulnerabilities TETRA:BURST.
+
+URL: https://www.synacktiv.com/publications/how-to-voltage-fault-injection.html
+Description: How to voltage fault injection.
+
+URL: https://blog.spookysec.net/DnD-Hiding-Users-and-Groups/
+More: https://blog.spookysec.net/DnD-Kerberos-Service-Accounts-&-Attacks-pt-1.5/
+Description: Deception in Depth (Series).
+
+URL: https://bit.ly/48foIDh (+)
+Description: Kernel pool overflow from a restrictive chunk size (CVE-2021-31969).
+
+URL: https://fenrisk.com/publications/blogpost/2023/11/22/gadgets-chain-in-wordpress/
+Description: Gadget chain in Wordpress.
+
+URL: https://bit.ly/46GzFwh (+)
+Description: Visual Studio Code Security - Deep Dive into Your Favorite Editor (Series).
+
+URL: https://bohops.com/2023/11/27/abusing-net-core-clr-diagnostic-features-cve-2023-33127/
+Description: Abusing .NET Core CLR Diagnostic Features (CVE-2023-33127).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/vasilev/HTTP-request-from-inside-WASM
+Description: Make HTTP request from inside WebAssembly.
+
+URL: https://github.com/ekzhang/sshx
+Description: Fast and collaborative live terminal sharing over the web.
+
+URL: https://blog.huli.tw/2023/11/27/en/server-side-rendering-ssr-and-isomorphic/
+Description: Exploring Various SSR (Server-side rendering) from a Historical Perspective. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?0ff73c6a4cf29227#CbbxSykoX+Wk2hBMF55i4rDMxQgwcxvXL4g2Z7MunEk=
