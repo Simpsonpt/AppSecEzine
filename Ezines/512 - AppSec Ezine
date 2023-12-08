@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 49 | Month: December | Year: 2023 | Release Date: 08/12/2023 | Edition: #512 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://portswigger.net/research/blind-css-exfiltration
+Description: Blind CSS Exfiltration - Exfiltrate unknown web pages.
+
+URL: https://blog.solidsnail.com/posts/vscode-shell-integ-rce
+Description: VS Code RCE - It's not a Feature, It's a Vulnerability (CVE-2023-24893).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/xpn/OktaPostExToolkit
+Description: Okta for Red Teamers Tooling.
+
+URL: https://github.com/wearecaster/above
+Description: Invisible network protocol sniffer.
+
+URL: https://github.com/synacktiv/ntdissector
+Blog: https://bit.ly/3RuNJES (+)
+Description: Tool for parsing records of an NTDS database.
+
+URL: https://github.com/j3ssie/metabigor
+Description: OSINT tasks and more but without any API key.
+
+URL: https://github.com/Idov31/Nidhogg/
+Description: All-in-one simple to use rootkit for red teams.
+
+URL: https://pulsesecurity.co.nz/articles/dotnet-dynamic-analysis
+Description: Dynamic Debugging of dotnet Without Source Code.
+
+URL: https://github.com/BlackSnufkin/GhostDriver
+Description: GhostDriver is a Rust-built AV killer tool using BYOVD.
+
+URL: https://github.com/PhonePe/mantis
+Description: Framework to automate workflows for initial assessments.
+
+URL: https://github.com/tr3w/RPOwn
+Blog: https://nzt-48.org/tool-for-finding-rpo-vulnerabilities
+Description: Tool for finding Relative Path Overwrite vulnerabilities.
+
+URL: https://blog.malicious.group/inline-assembly/
+Description: Introductory concepts regarding the usage of inline assembly.
+
+URL: https://github.com/skelsec/evilrdp
+Description: RDP client library w/ extended control over the target and CLI scripting.
+
+URL: https://8ksec.io/ipsw-walkthrough-part-1-the-swiss-army-knife-for-ios-macos-security-research/
+More: https://8ksec.io/ipsw-walkthrough-part-2-the-swiss-army-knife-for-ios-macos-security-research/
+Description: ipsw Walkthrough – The Swiss Army Knife for iOS/MacOS security research
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://elliotonsecurity.com/what-is-loader-lock/
+Description: What is Loader Lock? (Windows loaders).
+
+URL: https://bit.ly/3uXyqvi (+)
+Description: Pretending All Binaries Come With Source Code.
+
+URL: https://h0mbre.github.io/New_Fuzzer_Project
+Description: Fuzzer Development - The Soul of a New Machine.
+
+URL: https://sec-consult.com/blog/detail/taking-over-a-country-kaminsky-style/
+Description: TRAP; RESET; POISON; - Taking over a country Kaminsky style.
+
+URL: https://www.ambionics.io/blog/owncloud-cve-2023-49103-cve-2023-49105
+Description: Owncloud PE/RCE - Details about CVE-2023-49103 and CVE-2023-49105.
+
+URL: https://fenrisk.com/publications/blogpost/2023/11/30/gadgets-chain-in-laravel/
+Description: Gadgets chain in Laravel.
+
+URL: https://blog.thalium.re/posts/achieving-remote-code-execution-in-steam-remote-play/
+Description: Achieving RCE in Steam - A journey into the Remote Play protocol.
+
+URL: https://mbechler.github.io/2018/01/20/Java-CVE-2018-2633/
+Description: Java Possible RCEs in X.509 Certificate Validation (CVE-2018-2633/CVE-2017-10116).
+
+URL: https://y3a.github.io/2023/08/24/cve-2023-35359/
+Description: Services impersonating users to hijack system drives via symlinks (CVE-2023-35359).
+
+URL: https://cwresearchlab.co.kr/entry/CVE-2020-6418-Incorrect-side-effect-modelling-for-JSCreate
+Description: Arbitrary Code Exec via Incorrect side effect modelling for JSCreate (CVE-2020-6418).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://qrforth.com/about.html
+Description: A tiny forth implementation inside a QR code.
+
+URL: https://github.com/GyulyVGC/sniffnet
+Description: Application to comfortably monitor your Internet traffic.
+
+URL: https://ariadne.fyi/
+Description: Bridging the gap between complex scientific research and the curious minds.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?c7abeb823eafe037#1zEMGPmy8gYZZnoN+6tb8jI6u8x621f1LwkRcPWZkLw=
