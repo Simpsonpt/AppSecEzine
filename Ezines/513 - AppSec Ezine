@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 50 | Month: December | Year: 2023 | Release Date: 15/12/2023 | Edition: #513 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://joaxcar.com/blog/2023/12/13/having-some-fun-with-javascript-hoisting/
+Description: Having some fun with JavaScript hoisting.
+
+URL: https://www.intruder.io/research/we-hacked-ourselves-with-dns-rebinding
+Blog: https://www.intruder.io/research/split-second-dns-rebinding-in-chrome-and-safari
+Description: Tricks for Reliable Split-Second DNS Rebinding in Chrome and Safari.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/alpkeskin/mosint
+Description: An automated e-mail OSINT tool.
+
+URL: https://ntlm.pw/
+Description: NTLM to plaintext password lookup.
+
+URL: https://github.com/emrekybs/Douglas-042
+Description: Incident Response - PowerShell Hunting.
+
+URL: https://github.com/HalilDeniz/PassBreaker
+Description: Command-line password cracking tool developed in Python.
+
+URL: https://github.com/spyboy-productions/CloakQuest3r
+Description: Uncover the true IP address of websites safeguarded by Cloudflare.
+
+URL: https://github.com/HalilDeniz/NetProbe
+Description: NetProbe is a tool you can use to scan for devices on your network.
+
+URL: https://github.com/efchatz/pandora
+Description: Extract/dump master credentials or entries from != password managers.
+
+URL: https://github.com/dub-flow/sessionprobe
+Description: Evaluates user privileges in web applications, highlighting authZ issues.
+
+URL: https://github.com/p0dalirius/ExtractBitlockerKeys
+Description: Script to automatically extract the bitlocker recovery keys from a domain.
+
+URL: https://github.com/cyberark/PipeViewer
+Description: Tool for viewing Windows Named Pipes and searching for insecure permissions.
+
+URL: https://github.com/Z4kSec/IoctlHunter
+Blog: https://z4ksec.github.io/posts/ioctlhunter-release-v0.2/
+Description: Tool to do the analysis of IOCTL calls made from userland to Windows drivers.
+
+URL: https://github.com/SafeBreach-Labs/PoolParty
+Description: Fully-undetectable process injection techniques abusing Windows Thread Pools.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://asset-group.github.io/disclosures/5ghoul/
+Description: 5Ghoul - Unleashing Chaos on 5G Edge Devices.
+
+URL: https://bit.ly/4akEkH7 (+)
+Description: MS Exchange PowerShell backend RCE (CVE-2023-32031).
+
+URL: https://ipslav.github.io/2023-12-12-let-me-manage-your-appdomain/
+Description: Let Me Manage Your AppDomain.
+
+URL: https://fireshellsecurity.team/mining-takeovers-for-fun-and-profit/
+Description: Mining Takeovers for Fun and Profit.
+
+URL: https://tin-z.github.io/intel/assembly/exploit/2023/12/12/jmp_slide.html
+Description: JMP slide - A NOP-sled alternative.
+
+URL: https://github.blog/2023-12-13-securing-our-home-labs-frigate-code-review/
+Description: Securing our home labs - Frigate code review.
+
+URL: https://xz.aliyun.com/t/13172
+PoC: https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE
+Description: Apache Struts2 file upload vulnerability analysis (CVE-2023-50164).
+
+URL: https://bit.ly/3RClJ21 (+)
+Description: AuthN bypass and multiple blind OS CMD Injection in Zyxel's NAS326 devices.
+
+URL: https://0day.work/cve-2023-6295-so-widgets-bundle-1-51-0-admin-local-file-inclusion/
+Description: so-widgets-bundle < 1.51.0 - Admin+ Local File Inclusion (CVE-2023-6295).
+
+URL: https://nerodesu017.github.io/posts/2021-05-06-antibots-part-1
+Description: A short introduction to the Sneaker Development Industry and Antibots (Series).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/mozilla-Ocho/llamafile
+Description: Distribute and run LLMs with a single file. 
+
+URL: https://dalton-nrs.manchester.ac.uk/
+Description: Operate Your Own Nuclear Reactor, Virtually.
+
+URL: https://starkeblog.com/lfwdb/2023/12/11/introducing-lfwdb.html
+Description: Introducing Linux Firmware DB.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?6ccc2e9ba01170cc#gEadGfLoXhu3GgcIne7Y6FW3tWoS20TRFzKC080AT54=
