@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 52 | Month: December | Year: 2023 | Release Date: 29/12/2023 | Edition: #515 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.solidsnail.com/posts/npm-esc-seq
+Description: npm search RCE? - Escape Sequence Injection.
+
+URL: https://bit.ly/41CPnYm (+)
+Description: Don't Believe Your Eyes - A WhatsApp Clickjacking Vulnerability.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/SeaQL/FireDBG.for.Rust
+Description: Time Travel Visual Debugger for Rust.
+
+URL: https://adepts.of0x.cc/visual-studio-dcom/
+Description: Developers are juicy targets - DCOM & Visual Studio.
+
+URL: https://github.com/dwisiswant0/ngocok
+Description: Yet another Burp Collaborator alternative for free with ngrok.
+
+URL: https://bit.ly/3RELlu7 (+)
+Description: SSH ProxyCommand == unexpected code execution (CVE-2023-51385).
+
+URL: https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool
+Description: A jailbreak tool for all arm64 devices on iOS 16.0 to iOS 16.5.
+
+URL: https://github.com/jsecurity101/PowerParse
+Description: PowerShell PE Parser designed to help and aid reverse engineers.
+
+URL: https://github.com/CyberCX-STA/PurpleOps
+Description: An open-source self-hosted purple team management web application.
+
+URL: https://github.com/devanshbatham/headerpwn
+Description: A fuzzer for analyzing how servers respond to different HTTP headers.
+
+URL: https://github.com/anasfik/flutter-spy
+Description: Explorea/Analyze data & insights from reverse engineered Flutter apps. 
+
+URL: https://github.com/malsearchs/Static-Reverse-Engineering-SRE
+Description: Dissecting Malware for Static Analysis & the Complete Command-line Tool.
+
+URL: https://github.com/AleksaMCode/Preferred-Network-List-Sniffer
+Description: Reconnaissance tool that captures and displays SSIDs from device's PNLS. 
+
+URL: https://github.com/gmh5225/rust-mordor-rs
+Description: Rusty Hell's/Halo's/Tartarus' Gates and FreshyCalls/Syswhispers2 Library.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.projectdiscovery.io/guide-to-dns-takeovers
+Description: The Misunderstood Cousin of Subdomain Takeovers.
+
+URL: https://bit.ly/3tqSIxd (+)
+Description: A Comprehensive Analysis of Outlook Attack Vectors.
+
+URL: https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html
+Description: Colliding Secure Hashes.
+
+URL: https://secret.club/2023/12/24/riscy-business.html
+PoC: https://github.com/thesecretclub/riscy-business
+Description: Building a RISC-V interpreter and leveraging it for obfuscation.
+
+URL: https://bit.ly/3voNUbZ (+)
+Description: SLP Denial of Service Amplification - Attacks are ongoing and rising.
+
+URL: https://www.ambionics.io/blog/wrapwrap-php-filters-suffix
+Description: Wrapwrap - using PHP filters to wrap a file with a prefix and suffix.
+
+URL: https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/
+More: https://bit.ly/3tvmTTV (+)
+Description: Operation Triangulation - The last (hardware) mystery.
+
+URL: https://www.synacktiv.com/en/publications/writing-a-decent-win32-keylogger-13.html
+More: https://www.synacktiv.com/en/publications/writing-a-decent-win32-keylogger-23
+Description: Writing a decent win32 keylogger (Series).
+
+URL: https://whoamianony.top/posts/revisiting-a-abuse-of-read-only-domain-controllers/
+Description: Revisiting a Abuse of Read-Only Domain Controllers (RODCs).
+
+URL: https://dvuln.com/blog/poor-mans-sim-porting
+Description: Poor Mans Sim Porting - Using USSD functionality to remotely hijack SIM cards.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://geospy.web.app/
+Description: GeoSpy AI.
+
+URL: https://thenib.com/this-is-not-fine/
+Description: This is Not Fine.
+
+URL: https://smerf-3d.github.io/
+Description: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scenes.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?4f05df323ec7e7aa#GKQ+giAeEFeWOEjPKoCR7HaXImTnocojmdLZGuaQ5go=
