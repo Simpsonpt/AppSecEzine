@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 01 | Month: January | Year: 2023 | Release Date: 05/01/2023 | Edition: #516 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://adnanthekhan.com/2023/12/20/one-supply-chain-attack-to-rule-them-all/
+Description: One Supply Chain Attack to Rule Them All.
+
+URL: https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities
+Description: No new iPhone? No secure iOS - Looking at an unfixed iOS vulnerability.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/YosfanEilay/ForensicMiner
+Description: PowerShell-based DFIR automation tool.
+
+URL: https://github.com/0x4D31/galah
+Description: An LLM-powered web honeypot using the OpenAI API.
+
+URL: https://github.com/allyomalley/LiveTargetsFinder
+Description: Generates lists of live hosts and URLs for targeting.
+
+URL: https://github.com/VDOO-Connected-Trust/ghidra-pyi-generator
+Description: Generates '.pyi' type stubs for the entire Ghidra API.
+
+URL: https://github.com/user1342/Tweezer
+Description: Binary analysis tool for identifying unknown function names.
+
+URL: https://github.com/pptx704/domainim
+Description: A fast and comprehensive tool for organizational network scanning.
+
+URL: https://github.com/netero1010/EDRSilencer
+Description: Tool to block EDR agents from reporting security events to the server.
+
+URL: https://github.com/felix-pb/kfd
+Description: Kernel file descriptor - Project to R/W kernel memory on Apple devices.
+
+URL: https://github.com/TecR0c/DoubleTrouble
+Description: Inductive Automation's Ignition Unauth RCE (CVE-2023-39475/CVE-2023-39476).
+
+URL: https://github.com/0vercl0k/rp-bf.rs
+Description: Library to bruteforce ROP gadgets by emulating a Windows user-mode crash-dump.
+
+URL: https://github.com/moom825/visualstudio-suo-exploit
+Description: Tool to create a .suo when run by visual studio's will achieve code execution.
+
+URL: https://github.com/joaovarelas/java-remote-class-loader
+Description: Load and execute Class Files using Java ClassLoader together with Reflect API.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://y4er.com/posts/apache-activemq-rce/
+Description: Apache ActiveMQ RCE.
+
+URL: https://dtsec.us/2023-11-04-ModuleStompin/
+Description: Module Stomping - Who up stompin they modules.
+
+URL: https://labs.taszk.io/articles/post/full_chain_bb_part1/
+More: https://labs.taszk.io/articles/post/full_chain_bb_part2/
+Description: Full Chain Baseband Exploits (Series).
+
+URL: https://pentestlab.blog/2024/01/02/initial-access-search-ms-uri-handler/
+Description: Initial Access – search-ms URI Handler.
+
+URL: https://bit.ly/3tFKRvB (+)
+Description: Parsing the msDS-KeyCredentialLink value for ShadowCredentials attack.
+
+URL: https://malwaretech.com/2023/12/silly-edr-bypasses-and-where-to-find-them.html
+Description: Silly EDR Bypasses and Where To Find Them.
+
+URL: https://bit.ly/3H4Lr9x (+)
+Description: PowerHell - Active Flaws in PowerShell Gallery Expose Users to Attacks.
+
+URL: https://www.akamai.com/blog/security-research/spoofing-dns-by-abusing-dhcp
+More: https://www.akamai.com/blog/security-research/weaponizing-dhcp-dns-spoofing-hands-on-guide
+Description: Spoofing DNS Records by Abusing DHCP DNS Dynamic Updates.
+
+URL: https://blog.redteam-pentesting.de/2024/bitwarden-heist/
+Description: Bitwarden Heist - How to Break Into Password Vaults Without Using Passwords.
+
+URL: https://www.pentagrid.ch/en/blog/rce-and-local-root-in-openstage-and-openscape-phones/
+Description: RCE and local EoP in Mitel Unify OpenStage and OpenScape VoIP phones.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://standardebooks.org/
+Description: Free and liberated ebooks, carefully produced for the true book lover.
+
+URL: https://github.com/hcfman/sbts-aru
+Description: Low cost RPi sound localizing portable Autonomous Recording Unit (ARU).
+
+URL: https://andreasjhkarlsson.github.io/jekyll/update/2023/12/27/4-billion-if-statements.html
+Description: 4 Billion if Statements.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?b1674d1b19a135c9#c2nP7tl8vHbdvV6VI1ngTqhxS07WDwJnEnsn1WtOjPY=
