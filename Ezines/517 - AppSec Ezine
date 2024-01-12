@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 02 | Month: January | Year: 2023 | Release Date: 12/01/2023 | Edition: #517 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/1qXZnPZchGb
+Description: XSS in Gmail Dynamic Email (AMP for Email).
+
+URL: https://luemmelsec.github.io/Amazon-Cognito-Ratelimit-Bypass/
+Description: Amazon Cognito Ratelimit Bypass.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/decoder-it/TokenStealer
+Description: Windows Tokens Stealer.
+
+URL: https://github.com/MatheuZSecurity/D3m0n1z3dShell
+Description: Advanced Tool for persistence in linux.
+
+URL: https://github.com/HuntDownProject/HEDnsExtractor
+Description: Raw HTML extractor from Hurricane Electric portal.
+
+URL: https://github.com/bierschi/chromepass
+Description: Fetching passwords from the Chrome browser database.
+
+URL: https://github.com/freelabz/secator
+Description: Security swiss-knife to speed up vulnerability assessments.
+
+URL: https://github.com/BC-SECURITY/Moriarty
+Description: Suggest potential exploits for Privilege Escalation in Windows.
+
+URL: https://github.com/chainreactors/gogo
+Description: A highly controllable and scalable automation engine for red teams.
+
+URL: https://github.com/sockysec/Telerecon
+Description: A reconnaissance framework for researching and investigating Telegram.
+
+URL: https://github.com/BishopFox/sj
+Description: Auditing endpoints defined in exposed (Swagger/OpenAPI) definition files.
+
+URL: https://github.com/Frissi0n/GTFONow
+Description: Automatic Privilege Escalation for sudo and suid binaries using GTFOBins.
+
+URL: https://github.com/MegaManSec/SSH-Snake
+Blog: https://joshua.hu/ssh-snake-ssh-network-traversal-discover-ssh-private-keys-network-graph
+Description: Automated SSH-Based Network Traversal.
+
+URL: https://github.com/boku7/HOLLOW
+Description: Proc Spawn in suspended state, inject/execute shellcode, hijack main thread w/ APC.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://axelp.io/ImperfectProjector
+Description: Imperfect Projector.
+
+URL: https://pratikamin.com/appsec-llm.html
+Description: AppSec and LLMs.
+
+URL: https://elliotonsecurity.com/perfect-dll-hijacking/
+Description: Perfect DLL Hijacking.
+
+URL: https://0xbigshaq.github.io/2024/01/05/tp-link-tapo-c100/
+Description: Exploiting n-day in Home Security Camera.
+
+URL: https://ipurple.team/2024/01/03/scheduled-task-tampering/
+Description: Scheduled Task Tampering.
+
+URL: https://neroteam.com/blog/airspan-airspot-5410-vulnerability-report
+Description: Airspan AirSpot 5410 - Vulnerability report.
+
+URL: https://bit.ly/4aTuVGT (+)
+Description: Exploring Counter-Strike - Global Offensive Attack Surface.
+
+URL: https://bit.ly/3vqZ6VA (+)
+Description: Getting RCE in Chrome w/ incomplete object initialization in the Maglev compiler.
+
+URL: https://voidsec.com/reverse-engineering-terminator-aka-zemana-antimalware-antilogger-driver/
+Description: Reverse Engineering Terminator aka Zemana AntiMalware/AntiLogger Driver.
+
+URL: https://www.r-tec.net/r-tec-blog-process-injection-avoiding-kernel-triggered-memory-scans.html
+Description: Process Injection - Avoiding Kernel Triggered Memory Scans.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://danluu.com/seo-spam/
+Description: How bad are search results? Let's compare...
+
+URL: https://punkx.org/overflow/
+Description: PROJEKT - OVERFLOW - RISC-V Assembly Board Game.
+
+URL: https://github.com/ANG13T/skytrack
+Description: Skytrack is a planespotting and aircraft OSINT tool.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?5f3ce4d3083e684b#JbC+flp8HJhUQKN5iKToWk7Aj9lYzitE+beGEEWkLc4=
