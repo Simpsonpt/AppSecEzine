@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 03 | Month: January | Year: 2024 | Release Date: 19/01/2023 | Edition: #518 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.sorcery.ie/posts/mybb_acp_rce/
+Description: MyBB Admin Panel RCE (CVE-2023-41362).
+
+URL: https://bit.ly/3HJInA1 (+)
+Description: Reversing and Tooling a Signed Request Hash in Obfuscated JavaScript.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Und3rf10w/Aggressor-scripts
+Description: Aggressor scripts for Cobalt Strike.
+
+URL: https://github.com/amjcyber/EDRNoiseMaker/
+Related: http://windowsir.blogspot.com/2024/01/edrsilencer.html
+Description: Detect WFP filters blocking EDR communications.
+
+URL: https://github.com/MegaManSec/LDAP-Monitoring-Watchdog
+Description: A real-time linux-compatible LDAP monitoring tool.
+
+URL: https://github.com/EspressoCake/DLL-Hijack-Search-Order-BOF
+Description: DLL Hijack Search Order Enumeration BOF.
+
+URL: https://github.com/skelsec/adiskreader
+Description: Async Python library to parse local and remote disk images.
+
+URL: https://github.com/sule01u/SBSCAN
+Description: Tool designed for testing Spring Boot Framework Applications.
+
+URL: https://github.com/blackarrowsec/Handly
+Description: Leverage leaked token handles to perform Privilege Escalation.
+
+URL: https://github.com/Nassim-Asrir/ZDI-24-020/
+Description: Linux Kernel GSM Multiplexing Race Condition LPE (CVE-2023-6546).
+
+URL: https://github.com/Orange-Cyberdefense/LinikatzV2
+Description: Post-exploitation tool for UNIX Active Directory joined computers.
+
+URL: https://github.com/Moopinger/CLZero
+Description: A project for fuzzing HTTP/1.1 CL.0 Request Smuggling Attack Vectors.
+
+URL: https://github.com/brinhosa/apidetector
+Description: Tool designed for testing exposed Swagger endpoints in various subdomains.
+
+URL: https://tinyhack.com/2024/01/18/using-u-boot-to-extract-boot-image-from-pritom-p7/
+Description: Using U-Boot to extract Boot Image from Pritom P7.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/lYoa3Q5ZsGb 
+Description: Hi Meta, WhatsApp with privacy?
+
+URL: https://osec.io/blog/2023-11-01-metamask-snaps
+Description: Metamask Snaps - Playing in the Sand.
+
+URL: https://blog.ornx.net/post/bluetooth-volume-fix/
+Description: Fixing the Volume on my Bluetooth Earbuds.
+
+URL: https://margin.re/2022/06/pulling-mikrotik-into-the-limelight/
+Description: Pulling MikroTik into the Limelight.
+
+URL: https://www.varonis.com/blog/outlook-vulnerability-new-ways-to-leak-ntlm-hashes
+Description: Outlook Vulnerability Discovery and New Ways to Leak NTLM Hashes.
+
+URL: https://bit.ly/3U1C3uX (+)
+Description: PixieFail - Nine vulnerabilities in Tianocore's EDK II IPv6 network stack.
+
+URL: https://leftoverlocals.com/
+Description: LeftoverLocals - Listening to LLM responses through leaked GPU local memory.
+
+URL: https://posts.specterops.io/calling-home-get-your-callbacks-through-rbi-50633a233999
+Description: Calling Home, Get Your Callbacks Through RBI.
+
+URL: https://m417z.com/Privilege-escalation-using-the-XAML-diagnostics-API-CVE-2023-36003/
+Description: Privilege escalation using the XAML diagnostics API (CVE-2023-36003).
+
+URL: https://bit.ly/3HuFoLi (+)
+Description: Hell's Keychain - Supply-chain vulnerability in IBM Cloud Databases for PostgreSQL.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/MSPaintIDE/MSPaintIDE
+Description: Programming in MS Paint.
+
+URL: https://github.com/josh0xA/Pantheon
+Description: Insecure Camera Parsing and Intelligence.
+
+URL: https://github.com/utkusen/promptmap
+Description: Automatically tests prompt injection attacks on ChatGPT instances.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?0f6f534dc81dfa9b#akVTpemDBO4lC91AX/5WdTxzSSS4Ak71pvhAAfnuzFk=
