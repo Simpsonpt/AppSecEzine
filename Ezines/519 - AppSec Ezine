@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 04 | Month: January | Year: 2024 | Release Date: 26/01/2023 | Edition: #519 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://iter.ca/post/gh-sig-pwn/
+Description: Forging signed commits on GitHub.
+
+URL: https://link.medium.com/Dwewtgh0sGb
+Description: Cross Platform 0-Day RCE Vulnerability Discovered in Opera's Browser.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/JKme/cube
+Description: Intranet penetration testing tools.
+
+URL: https://github.com/Hamz-a/frida-android-helper
+Description: Frida Android Helper.
+
+URL: https://github.com/z0m31en7/Uscrapper
+Description: OSINT webscraper for personal data collection.
+
+URL: https://github.com/sterrasec/dummy
+Description: Generator of static files for testing file upload.
+
+URL: https://github.com/RedSiege/GraphStrike
+Blog: https://redsiege.com/blog/2024/01/graphstrike-developer/
+Description: Cobalt Strike HTTPS beaconing over Microsoft Graph API.
+
+URL: https://github.com/AashiqRamachandran/i-am-a-bot
+Description: An Multi-Modal LLM Powered Agent to automatically solve Captchas.
+
+URL: https://github.com/mistymntncop/CVE-2022-4262
+More: https://bit.ly/494DRHO (+)
+Description: Incorrect Bytecode Generation by JavaScript Parser (CVE-2022-4262).
+
+URL: https://github.com/RomanRybachek/CVE-2024-20698
+Description: Windows Kernel Elevation of Privilege Vulnerability (CVE-2024-20698).
+
+URL: https://github.com/kleiton0x00/Proxy-DLL-Loads
+Description: A PoC demonstrating the DLL-load proxying using undocumented Syscalls.
+
+URL: https://github.com/floesen/EventLogCrasher
+Description: Crash the Windows Event Log service of other machines on the same domain.
+
+URL: https://github.com/febinrev/slippy-book-exploit
+Blog: https://link.medium.com/jdksEXFKCGb
+Description: EPUB File Parsing Directory Traversal RCE (CVE-2023–44451/CVE-2023–52076).
+
+URL: https://github.com/emrekybs/AD-AssessmentKit
+Description: Bash scripts for audits and network mapping of Active Directory environments.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://positive.security/blog/ransack-data-exfiltration
+Description: Ransacking your password reset tokens.
+
+URL: https://kpwn.de/2023/05/javascript-analysis-for-pentesters/
+Description: JavaScript Analysis for Pentesters.
+
+URL: https://link.medium.com/0uRLxSjMCGb 
+Description: A Universal Prompt Injection Attack in the GPT Store.
+
+URL: https://tandasat.github.io/blog/2024/01/15/CVE-2024-21305.html
+PoC: https://github.com/tandasat/CVE-2024-21305
+Description: Hunting down the HVCI bug in UEFI.
+
+URL: https://decoder.cloud/2024/01/23/do-not-trust-this-group-policy/
+Description: Do not trust this Group Policy!
+
+URL: https://bit.ly/3SvRWIH (+)
+Description: TP-Link WR940N/WR941ND Uninitialized Pointer Vulnerability.
+
+URL: https://eyalitkin.wordpress.com/2024/01/01/lessons-from-securing-freerdp/
+More: https://bit.ly/494T1ga (+)
+Description: Lessons from Securing FreeRDP.
+
+URL: https://jfrog.com/blog/xorg-libx11-vulns-cve-2023-43786-cve-2023-43787-part-one/
+More: https://jfrog.com/blog/xorg-libx11-vulns-cve-2023-43786-cve-2023-43787-part-two/
+Description: *nix libX11 - Uncovering and exploiting a 35-year-old vulnerability.
+
+URL: https://rhinosecuritylabs.com/research/extreme-networks-extremexos-vulnerabilities/
+Description: Multiple Vulnerabilities In Extreme Networks ExtremeXOS.
+
+URL: https://adepts.of0x.cc/gtbcc-pwned/
+Description: A christmas tale - pwning GTB Central Console (CVE-2024-22107 & CVE-2024-22108).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/francoismichel/ssh3
+Description: SSH3 - Faster and rich secure shell using HTTP/3.
+
+URL: https://lightning.ai/lightning-ai/studios/code-lora-from-scratch
+Description: Code LoRA From Scratch.
+
+URL: https://github.com/Wilfred/difftastic
+Description: Difftastic is a structural diff tool that compares files based on their syntax.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?197e4f431546d239#Aqoh101o0jpRLM7Dbn5ofNEWQeovRCT17pffAG9RY6U=
