@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 05 | Month: February | Year: 2024 | Release Date: 02/02/2023 | Edition: #520 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.slonser.info/posts/cve-2023-5480/
+Description: Chrome new XSS Vector (CVE-2023-5480).
+
+URL: https://sites.google.com/site/zhiniangpeng/blogs/Jumpserver
+Description: Jumpserver Preauth RCE Exploit Chain.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/h4wkst3r/ADOKit
+Description: Azure DevOps Services Attack Toolkit.
+
+URL: https://github.com/florylsk/ExecIT
+Description: Execute shellcode files with rundll32.
+
+URL: https://github.com/moopinger/smugglefuzz
+Description: HTTP/2 based downgrade and smuggle scanner.
+
+URL: https://github.com/Cracked5pider/Stardust
+Description: A modern 64-bit position independent implant template.
+
+URL: https://github.com/CycodeLabs/raven
+Description: Risk Analysis and Vulnerability Enumeration for CI/CD.
+
+URL: https://github.com/outflanknl/unmanaged-dotnet-patch
+Blog: https://www.outflank.nl/blog/2024/02/01/unmanaged-dotnet-patching/
+Description: PoC for patching managed .NET function from unmanaged code.
+
+URL: https://github.com/v2fly/v2ray-core
+Description: A platform for building proxies to bypass network restrictions.
+
+URL: https://github.com/Hackmanit/TInjA
+Description: CLI tool for testing web pages for template injection vulnerabilities.
+
+URL: https://github.com/FalconForceTeam/SOAPHound
+Blog: https://link.medium.com/emOmObbROGb 
+Description: .NET tool to collect Active Directory data via AD Web Services (ADWS).
+
+URL: https://github.com/Slowerzs/ThievingFox/
+Description: Tools to gather creds from various password managers and windows utilities.
+
+URL: https://github.com/nicocha30/ligolo-ng
+Description: An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
+
+URL: https://github.com/trailofbits/differ
+Blog: https://bit.ly/3ulZBjy (+)
+Description: Detecting Inconsistencies in Feature or Function Evaluations of Requirements.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://itm4n.github.io/printnightmare-exploitation/
+Description: A Practical Guide to PrintNightmare in 2024.
+
+URL: https://www.qu35t.pw/posts/2024-21633-mobsf-rce/
+Description: MobSF Remote code execution (CVE-2024-21633).
+
+URL: https://bit.ly/3SIWX0A (+)
+Description: Hunting for Unauthenticated n-days in Asus Routers.
+
+URL: https://bit.ly/3SEUe8p (+)
+Description: Uncovering Critical Security Vulnerabilities in Jenkins.
+
+URL: https://blog.doyensec.com/2024/01/23/k8s-scheduling-secure-design.html
+Description: Kubernetes Scheduling And Secure Design.
+
+URL: https://www.qualys.com/2024/01/30/cve-2023-6246/syslog.txt
+Description: Heap-based buffer overflow in the glibc's syslog() (CVE-2023-6246).
+
+URL: https://bit.ly/3SH6Yvi (+)
+Description: LLM01 - Prompt Injections Vulnerabilities in Large Language Models.
+
+URL: https://www.labs.greynoise.io/grimoire/2024-01-03-snakeyaml-deserialization/
+Description: SnakeYAML deserialization vulnerabilities overview (CVE-2022-1471).
+
+URL: https://www.praetorian.com/blog/azure-b2c-crypto-misuse-and-account-compromise/
+Description: Azure B2C – Crypto Misuse and Account Compromise.
+
+URL: https://rtx.meta.security/exploitation/2024/01/30/Android-vendors-APEX-test-keys.html
+PoC: https://github.com/metaredteam/rtx-cve-2023-45779
+Description: Missing signs - how several brands forgot to secure a key piece of Android.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://honzaap.github.io/GithubCity/
+Description: What would Your city look like?
+
+URL: https://github.com/InkboxSoftware/excelCPU
+Description: 16-bit CPU for Excel, and related files.
+
+URL: https://baldur.dk/blog/writing-metasploit-exploit.html
+Description: Building your first metasploit exploit.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?6ba350527071cf0d#t2ZtjVuY69l95mCkKoscQ6gsWvNiD+j/Fqo0daNDO/k=
