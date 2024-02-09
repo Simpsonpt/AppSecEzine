@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 06 | Month: February | Year: 2024 | Release Date: 09/02/2023 | Edition: #521 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ndevtk.github.io/writeups/2024/02/03/buganizer/
+Description: Google Issue Tracker leak.
+
+URL: https://spaceraccoon.dev/clipboard-microsoft-whiteboard-excalidraw-meta/
+Description: Back to the (Clip)board with MS Whiteboard and Meta Excalidraw (CVE-2023-26140).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/justakazh/DockerExploit
+Description: Docker Remote API Scanner and Exploit.
+
+URL: https://github.com/boschresearch/gdbfuzz
+Description: Fuzzing Embedded Systems using Hardware Breakpoints.
+
+URL: https://github.com/MatrixTM/MHDDoS
+Description: DDoS Attack Script in Python3 - Attack With 56 Methods.
+
+URL: https://github.com/edoardottt/pphack
+Description: The Most Advanced Client-Side Prototype Pollution Scanner.
+
+URL: https://pentestlab.blog/2024/02/05/persistence-windows-setup-script/
+Description: Persistence via Windows Setup Script.
+
+URL: https://github.com/alfarom256/LogMeInPoCHandleDup
+Description: LogMeIn/GoTo LMIInfo.sys (Race Condition) Handle Duplication.
+
+URL: https://github.com/narfindustries/http-garden
+Description: Differential testing and fuzzing of HTTP servers and proxies.
+
+URL: https://github.com/waelmas/frameless-bitb
+Description: PoC of Browser In The Browser (BITB) w/out the use of iframes.
+
+URL: https://github.com/zeze-zeze/ioctlance
+Description: A tool that is used to hunt vulnerabilities in x64 WDM drivers.
+
+URL: https://github.com/purs3lab/Argus
+Description: Static taint analysis to identify code injection issues in GitHub Actions.
+
+URL: https://github.com/doyensec/PoiEx
+Blog: https://blog.doyensec.com/2024/01/30/poiex-release.html
+Description: VS Code extension to visualize WebApps underlying infrastructure intersections.
+
+URL: https://github.com/garrettfoster13/sccmhunter
+Description: Tool to help identify, profile, and attack SCCM related assets in an AD domain.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.quarkslab.com/dji-the-art-of-obfuscation.html
+Description: DJI - The ART of obfuscation.
+
+URL: https://www.botting.rocks/shapesecuritys-javascript-vm-part-1/
+More: https://www.botting.rocks/shapesecuritys-javascript-vm-part-2/
+Description: ShapeSecurity's Javascript VM (Series).
+
+URL: https://bit.ly/3Uz8WPQ (+)
+More: https://bit.ly/48hXMCs (+)
+Description: Ivanti's Pulse Connect Secure Auth Bypass Round and RCE.
+
+URL: https://xz.aliyun.com/t/13548
+Description: Apache ServiceComb before 2.1.0 SSRF PoC (CVE-2023-44313).
+
+URL: https://bit.ly/3SRhJv9 (+)
+Description: Microsoft Breach — What Happened? What Should Azure Admins Do?
+
+URL: https://blog.sicuranext.com/modsecurity-path-confusion-bugs-bypass/
+Description: ModSecurity - Path Confusion and really easy bypass on v2 and v3.
+
+URL: https://bit.ly/3UyT2ox (+)
+Description: Device Code Phishing – Add Your Own Sign-In Methods on Entra ID.
+
+URL: https://harfanglab.io/en/insidethelab/reverse-engineering-ida-pro-aot-net/
+Description: An introduction to reverse engineering .NET AOT applications.
+
+URL: https://www.mnemonic.io/no/resources/blog/reverse-engineering-an-ev-charger/
+Description: Reverse engineering an EV charger (Zaptec Pro).
+
+URL: https://www.horizon3.ai/writeup-for-cve-2023-39143-papercut-webdav-vulnerability/
+Description: Writeup for CVE-2023-39143 - PaperCut WebDAV Vulnerability.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://surge.sh/
+Description: Static web publishing for Front-End Developers.
+
+URL: https://kai-greshake.de/posts/inject-my-pdf/
+Description: Inject My PDF - Prompt Injection for your Resume.
+
+URL: https://maskray.me/blog/2024-01-14-exploring-object-file-formats
+Description: Exploring Object File Formats.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?09dd9f58b35391c0#7sQZp8sUsdcKu1mNz67gPHj2h4YlhTb01QjNBPkgrNI=
