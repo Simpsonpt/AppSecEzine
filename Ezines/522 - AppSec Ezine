@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 07 | Month: February | Year: 2024 | Release Date: 16/02/2024 | Edition: #522 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html
+Description: ChatGPT Account Takeover - Wildcard Web Cache Deception.
+
+URL: https://hackerone.com/reports/2207248
+Description: IDOR on GraphQL queries BillingDocumentDownload and BillDetails.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/airbus-seclab/bincat
+Description: Static Binary Code Analysis Toolkit.
+
+URL: https://github.com/jfjallid/go-secdump
+Description: Tool to remotely dump secrets from the Windows registry.
+
+URL: https://github.com/leandrofroes/gftrace
+Description: A command line Windows API tracing tool for Golang binaries.
+
+URL: https://github.com/oryxlabs/PolarDNS
+Description: Authoritative DNS server suitable for vulnerability research.
+
+URL: https://github.com/hoodoer/JS-Tap
+Description: JS XSS payload or post-exploitation implant to monitor users.
+
+URL: https://github.com/ASOT-LABS/TeamsBreaker
+Description: MS Teams tool designed for automating phishing messages to victims.
+
+URL: https://github.com/iamagarre/BadExclusions
+Description: Tool to identify folder custom or undocumented exclusions on AV/EDR.
+
+URL: https://github.com/Xre0uS/MultiDump
+Description: Post-exploitation tool for dumping and extracting LSASS memory discreetly.
+
+URL: https://textslashplain.com/2023/12/07/defense-techniques-blocking-protocol-handlers/
+Description: Defense Techniques - Blocking Protocol Handlers.
+
+URL: https://github.com/grahamhelton/IMDSpoof
+Description: Tool to spoof AWS IMDS service to return HoneyTokens that can be alerted on.
+
+URL: https://github.com/The-Z-Labs/bof-launcher
+Description: Library for executing Beacon Object File (BOF) files in C/C++/Zig applications.
+
+URL: https://github.com/tianstcht/CVE-2023-4427
+Description: Chrome ReduceJSLoadPropertyWithEnumeratedKey Out-of-Bounds Access (CVE-2023-4427).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://jmswrnr.com/blog/hacking-a-smart-home-device
+Description: Hacking a Smart Home Device.
+
+URL: https://red-team-sncf.github.io/complete-process-hollowing.html
+Description: How to perform a Complete Process Hollowing.
+
+URL: https://goncalomb.com/blog/2024/01/30/f57cf19b-how-i-also-hacked-my-car
+Description: How I Also Hacked my Car.
+
+URL: https://bit.ly/42G5W69 (+)
+Description: DICOM Demystified - Exploring the Underbelly of Medical Imaging.
+
+URL: https://rhinosecuritylabs.com/research/cve-2024-23724-ghost-cms-stored-xss/
+Description: Ghost CMS Stored XSS Leading to Owner Takeover (CVE-2024-23724).
+
+URL: https://keowu.re/posts/Analyzing-Mutation-Coded-VM-Protect-and-Alcatraz-English/
+Description: Analyzing Mutation-Coded - VM Protect and Alcatraz.
+
+URL: https://research.nccgroup.com/2024/02/07/analyzing-ai-application-threat-models/
+Description: Analyzing AI Application Threat Models.
+
+URL: https://urien.gitbook.io/diago-lima/a-deep-dive-into-exploiting-windows-thread-pools
+Description: A Deep Dive Into Exploiting Windows Thread Pools.
+
+URL: https://blog.compass-security.com/2024/02/microsoft-bitlocker-bypasses-are-practical/
+Description: Microsoft BitLocker Bypasses are Practical.
+
+URL: https://hacked.codes/2023/extracting-firmware-reverse-engineering-encryption-keys-foscam/
+Description: Reverse engineering FOSCAM encryption keys from extracted firmware using Ghidra.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://crankysec.com/blog/shite/
+Description: Your Security Program Is Shit.
+
+URL: https://github.com/aperezdc/signify
+Description: OpenBSD tool to sign and verify signatures on files.
+
+URL: https://gitlab.com/surfer-project/surfer
+Description: A waveform viewer with a focus on a snappy usable interface, and extensibility.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?adcc8bf5b390fcca#Gbn8oEu2crCKbmFkySEXv3WVK0ZcCQbdcvH/dEV6efc=
