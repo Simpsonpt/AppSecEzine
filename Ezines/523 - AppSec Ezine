@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 08 | Month: February | Year: 2024 | Release Date: 23/02/2024 | Edition: #523 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://mizu.re/post/playing-with-dompurify-ce-handling
+Description: Playing with DOMPurify custom elements handling.
+
+URL: https://kuldeep.io/posts/web-cache-deception-without-path-confusion/
+Description: Cache Deception Without Path Confusion.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/justakazh/sicat
+Description: advanced exploit search tool.
+
+URL: https://github.com/yuyudhn/AzSubEnum
+Description: Azure Service Subdomain Enumeration.
+
+URL: https://github.com/honeynet/honeyscanner
+Description: A vulnerability analyzer for Honeypots.
+
+URL: https://github.com/senzee1984/InflativeLoading
+Description: Dynamically convert a native EXE to PIC shellcode.
+
+URL: https://github.com/ACE-Responder/Empire-C2-RCE-PoC
+Blog: https://aceresponder.com/blog/exploiting-empire-c2-framework
+Description: RCE PoC for Empire C2 framework <5.9.3.
+
+URL: https://github.com/icyguider/UAC-BOF-Bonanza
+Description: Collection of UAC Bypass Techniques Weaponized as BOFs.
+
+URL: https://github.com/mlcsec/FormThief
+Description: Spoofing desktop login applications with WinForms and WPF.
+
+URL: https://github.com/gojue/ehids-agent
+Description: A Linux Host-based Intrusion Detection System based on eBPF.
+
+URL: https://bit.ly/49HhQz9 (+)
+Description: Remote BoF over wifi_stack in wpa_supplicant binary in Android 11.
+
+URL: https://github.com/MobSF/httptools
+Description: Capture/Repeat/Live Intercept HTTP requests with scripting capabilities. 
+
+URL: https://github.com/ad0nis/ntlm_relay_gat
+Description: Automate the exploitation of NTLM relays using ntlmrelayx.py from Impacket.
+
+URL: https://github.com/PolitoInc/EGOAlpha
+Description: vulnerability scanner and platform to store multiple projects in a REST API.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://h0mbre.github.io/Lucid_Context_Switching/
+Description: Fuzzer Development - Sandboxing Syscalls.
+
+URL: https://smlx.dev/posts/goodwe-sems-protocol-teardown/
+Description: Reverse-engineering an encrypted IoT protocol.
+
+URL: https://bit.ly/3SS5xJx (+)
+Description: From Windows drivers to an almost fully working EDR.
+
+URL: https://redops.at/en/blog/syscalls-via-vectored-exception-handling
+Description: Syscalls via Vectored Exception Handling.
+
+URL: https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/
+Description: Exodus Bitcoin Wallet - $490K Swindle.
+
+URL: https://gergelykalman.com/hacking-isp-cpe-equipment-fiberhome.html
+Description: Hacking ISP CPE equipment - FiberHome.
+
+URL: https://bit.ly/48u18Ch (+)
+Description: PHP deserialization attacks and a new gadget chain in Laravel.
+
+URL: https://frycos.github.io/vulns4free/2024/02/19/tableau-server-no-vulns.html
+Description: Tableau Server - There Ain't No Vulns.
+
+URL: https://hacky.solutions/blog/2024/02/tpm-attack
+Description: TPMs Hate Him! (Some Weird Tricks To Break FDE and Bypass Attestation).
+
+URL: https://link.medium.com/KTlvZ1bVoHb
+Description: How I Hacked the Dutch Government - Exploiting an Innocent Image for RCE.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://mcyoung.xyz/2023/08/01/llvm-ir/
+Description: A Gentle Introduction to LLVM IR.
+
+URL: https://github.com/potatoqualitee/eol-dr
+Description: End-of-life Disaster Response (EOL/DR).
+
+URL: https://github.com/mxschmitt/action-tmate
+Description: Debug your GitHub Actions via SSH using tmate. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?d1cd6f01f9ae87cf#dah9FOt4nHJTJUZRFqH5JpK3T8/n7Hk7ClcWp5q92Qs=
