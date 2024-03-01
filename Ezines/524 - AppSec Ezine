@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 09 | Month: March | Year: 2024 | Release Date: 01/03/2024 | Edition: #524  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3P3kh7j (+)
+Description: Go Go XSS Gadgets - Chaining a DOM Clobbering Exploit in the Wild.
+
+URL: https://www.imperva.com/blog/xss-marks-the-spot-digging-up-vulnerabilities-in-chatgpt/
+Description: XSS Marks the Spot - Digging Up Vulnerabilities in ChatGPT.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://boostsecurityio.github.io/lotp/
+Description: Living Off the Pipeline.
+
+URL: https://github.com/simondankelmann/Bluetooth-LE-Spam
+Description: Bluetooth LE Spam Detection and Attack.
+
+URL: https://github.com/Kudaes/Shelter
+Description: ROP-based sleep obfuscation to evade memory scanners.
+
+URL: https://github.com/crissyfield/troll-a
+Description: Tool to extract secrets from WARC (Web ARChive) files.
+
+URL: https://itm4n.github.io/peap-credentials-wired-connections/
+Description: Extracting PEAP Credentials from Wired Network Profiles.
+
+URL: https://github.com/senzee1984/MutationGate
+Description: Hardware breakpoint to dynamically change SSN in run-time.
+
+URL: https://tracebit.com/blog/2024/02/finding-aws-account-id-of-any-s3-bucket/
+Description: How to find the AWS Account ID of any S3 Bucket.
+
+URL: https://link.medium.com/srHDYK3ZyHb 
+Description: Turning Blind Error Based SQL Injection into Exploitable Boolean One.
+
+URL: https://github.com/rasta-mouse/SpawnWith
+Description: Alternative to the spawnas and inject cmds for Beacon Object File (BOF).
+
+URL: https://enaix.github.io/decompilation/smali/2024/02/10/patching-kirikiroid2.html
+Description: Patching chinese adware from Kirikiroid2 apk.
+
+URL: https://github.com/keydet89/RegRipper4.0
+Description: Tool to extract/translate/display information from Registry-formatted files.
+
+URL: https://github.com/0xNslabs/CanaryTokenScanner
+Description: Detecting Canary Tokens and Suspicious URLs in MS Office, PDFs and Zip Files.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://nexten.ie/blog/2023/11/26/esp32-secureboot/
+More: https://nexten.ie/blog/2024/01/14/esp32-firmware-dump/
+Description: Understanding Secure Boot and Dump Firmware - ESP32 Series.
+
+URL: https://blog.plerion.com/hacking-terraform-state-privilege-escalation/
+Description: Hacking Terraform State for Privilege Escalation.
+
+URL: https://5pider.net/blog/2024/01/27/modern-shellcode-implant-design/
+Description: Modern implant design - position independent malware development.
+
+URL: https://estr3llas.github.io/unveiling-custom-packers-a-comprehensive-guide/
+Description: Unveiling custom packers - A comprehensive guide.
+
+URL: https://code-white.com/blog/leaking-objrefs-to-exploit-http-dotnet-remoting/
+Description: Leaking ObjRefs to Exploit HTTP .NET Remoting.
+
+URL: https://xairy.io/articles/thinkpad-xdci
+Description: Unlocking secret ThinkPad functionality for emulating USB devices.
+
+URL: https://blog.0daylabs.com/2024/02/26/apache-ofbiz-authbypass-rce/
+Description: Analysing CVE-2023-51467 - Apache OFBiz Authentication bypass to RCE.
+
+URL: https://www.justmobilesec.com/en/blog/deep-links-webviews-exploitations-part-I
+More: https://www.justmobilesec.com/en/blog/deep-links-webviews-exploitations-part-II
+Description: Deep Links & WebViews Exploitations Series.
+
+URL: https://www.paulosyibelo.com/2024/02/cross-window-forgery-web-attack-vector.html
+Description: Cross Window Forgery - A Web Attack Vector.
+
+URL: https://bit.ly/3wAu91R (+)
+Description: How Hackers Could Turn Your Smart Pet Feeder into an All-You-Can-Eat Buffet.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/dockur/windows
+Description: Windows in a Docker container. 
+
+URL: https://github.com/Stability-AI/invisible-watermark-gpu
+Description: Python library for invisible image watermark (blind image watermark).
+
+URL: https://github.com/atc1441/ATC_Wifi_Toothbrush
+Description: Firmware to update the Wifi Toothbrush + Custom firmware for the ESP32-C3.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?e645287824860a8f#QTYz3qXbpq1mfb+E6UMnFXjLQOMEIqcRnqknXq58+MU=
