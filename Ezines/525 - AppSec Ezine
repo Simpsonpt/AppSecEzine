@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 10 | Month: March | Year: 2024 | Release Date: 08/03/2024 | Edition: #525  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3IoeUvL (+)
+Description: CSP bypass on PortSwigger.net using Google script resources.
+
+URL: https://www.landh.tech/blog/20240304-google-hack-50000/
+Related: https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/
+Description: We Hacked Google A.I. for $50,000.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ricardojoserf/SharpCovertTube
+Description: Youtube as covert-channel.
+
+URL: https://github.com/stacklok/minder
+Description: Software Supply Chain Security Platform.
+
+URL: https://github.com/xct/xc
+Description: A small reverse shell for Linux & Windows.
+
+URL: https://github.com/Liodeus/swaggerHole
+Description: Script searching for secret on SwaggerHub.
+
+URL: https://github.com/nettitude/yasha
+Description: YASHA - Yet Another Security Header Analyser.
+
+URL: https://github.com/fzakaria/sqlelf
+Description: Explore ELF objects through the power of SQL.
+
+URL: https://github.com/eversinc33/Banshee
+Blog: https://eversinc33.com/posts/kernel-mode-keylogging/
+Description: Experimental Windows x64 Kernel Rootkit.
+
+URL: https://github.com/gergelykalman/brew-lpe-via-periodic
+Description: Brew Local Privilege Escalation exploit on Intel macOS.
+
+URL: https://github.com/HalilDeniz/BackDoorSim
+Description: BackdoorSim - An Educational into Remote Administration Tools.
+
+URL: https://shufflingbytes.com/posts/how-to-make-nmap-recognize-new-services/
+Description: How to Make Nmap Recognize New Services.
+
+URL: https://github.com/doyensec/Server-Side-Prototype-Pollution-Gadgets-Scanner
+Blog: https://bit.ly/3V8XDOx (+)
+Description: Server Side Prototype Pollution Gadgets Scanner.
+
+URL: https://github.com/xaitax/SploitScan
+Description: Tool to identify exploits for known vulns and exploitation probability. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.m4p1e.com/2024/03/01/CVE-2023-3824/
+Description: Lucky Off-by-one or two? (CVE-2023-3824).
+
+URL: https://rezaduty-1685945445294.hashnode.dev/attacking-ios
+Description: Attacking IOS.
+
+URL: https://richiejp.com/linux-kernel-exploit-tls_context-uaf
+Description: Exploiting CVE-2023-0461 bug in the Linux kernel with Zig.
+
+URL: https://swarm.ptsecurity.com/source-code-disclosure-in-asp-net-apps/
+Description: Source Code Disclosure in ASP.NET apps.
+
+URL: https://sites.google.com/view/compromptmized
+Description: Unleashing Zero-click Worms that Target GenAI-Powered Applications.
+
+URL: https://bit.ly/49HJLPS (+)
+Description: A Technical Deep Dive - Comparing Anti-Cheat Bypass and EDR Bypass.
+
+URL: https://bit.ly/439aeTZ (+)
+Description: Xiaomi series router RCE vulnerability (CVE-2019-18370/CVE-2019-18371).
+
+URL: https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/
+Description: Cracking Meta's Messenger Certificate Pinning on macOS.
+
+URL: https://www.praetorian.com/blog/meshcentral-cross-site-websocket-hijacking-vulnerability/
+Description: MeshCentral Cross-Site Websocket Hijacking Vulnerability (CVE-2024-26135).
+
+URL: https://blog.injectexp.dev/2024/02/28/disable-windows-defender-uac-bypass-upgrade-to-system/
+Description: Disable Windows Defender (+ UAC Bypass, + Upgrade to SYSTEM).
+
+URL: https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR
+Description: GTPDOOR - A novel backdoor tailored for covert access over the roaming exchange.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.devever.net/~hl/traintoilet
+Description: I hacked a train toilet.
+
+URL: https://github.com/FujiwaraChoki/MoneyPrinter
+Description: Automate Creation of YouTube Shorts using MoviePy.
+
+URL: https://github.com/netspooky/golfclub/tree/master/uefi/bggp4
+Description: BGGP4 - A 420 Byte Self-Replicating UEFI App For x64.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?72a14ef558282358#62b6252Rz6Ln1OxPuHMQY2hjgAyLRFSgcYEVVEc2ag4=
