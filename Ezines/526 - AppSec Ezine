@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 11 | Month: March | Year: 2024 | Release Date: 15/03/2024 | Edition: #526  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3v2l7KP (+)
+Description: Reply to calc - The Attack Chain to Compromise Mailspring.
+
+URL: https://bit.ly/49Td41O (+)
+Description: Continuing the Citrix Saga - CVE-2023-5914 and CVE-2023-6184.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/SySS-Research/azurenum
+Description: Enumerate Microsoft Entra ID (Azure AD).
+
+URL: https://github.com/ARPSyndicate/puncia
+Description: Subdomain & Exploit Hunter powered by AI.
+
+URL: https://github.com/Wh04m1001/GamingServiceEoP
+Description: Gaming Service Elevation of Privilege (EoP).
+
+URL: https://github.com/dunderhay/git-rotate
+Description: Leveraging GitHub Actions to rotate IP addresses.
+
+URL: https://github.com/decoder-it/ADCSCoercePotato/
+Blog: https://bit.ly/3TjZ1LS (+)
+Description: Coercing machine authentication but specific for ADCS server.
+
+URL: https://github.com/sensepost/mail-in-the-middle
+Description: Mail in the Middle – A tool to automate spear phishing campaigns.
+
+URL: https://github.com/referefref/modpot
+Description: Modular web-application honeypot platform built using go and gin.
+
+URL: https://reynardsec.com/en/docker-platform-security-step-by-step-hardening/
+Description: Docker Security – Step-by-Step Hardening (Docker Hardening).
+
+URL: https://github.com/surajpkhetani/AutoSmuggle
+Description: Utility to craft HTML or SVG smuggled files for Red Team engagements.
+
+URL: https://github.com/0x36/Pixel_GPU_Exploit
+Description: Mali GPU Kernel LPE - A kernel exploit for Pixel7/8 Pro with Android 14.
+
+URL: https://github.com/d78ui98/APKDeepLens
+Description: Tool to scan Android applications (APK files) for security vulnerabilities.
+
+URL: https://github.com/thiagopeixoto/winsos-poc
+Description: A PoC demonstrating code execution via DLL Side-Loading in WinSxS binaries. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.devsecopsguides.com/attacking-android
+Description: Attacking Android.
+
+URL: https://securelist.com/network-tunneling-with-qemu/111803/
+Description: Network tunneling with… QEMU?
+
+URL: https://erfur.github.io/blog/dev/code-injection-without-ptrace
+Description: Code injection on Android without ptrace.
+
+URL: https://github.blog/2024-02-21-how-to-stay-safe-from-repo-jacking/
+Description: How to stay safe from repo-jacking.
+
+URL: https://www.hub.trimarcsecurity.com/post/let-s-talk-about-nested-groups
+Description: Nesting Is For The Birds - The Problem with (AD) Nested Groups.
+
+URL: https://one.0day.works/posts/2024/03/12/how-i-got-rce-in-portugal-gov-pt/
+Description: How I got RCE in portugal.gov.pt.
+
+URL: https://bit.ly/4cizrzm (+)
+Description: pgAdmin (<=8.3) Path Traversal to Unsafe Deserialization and RCE.
+
+URL: https://github.com/h4x0r-dz/CVE-2024-21762
+Description: out-of-bounds write in Fortinet FortiOS CVE-2024-21762 vulnerability.
+
+URL: https://www.debug.is/2024/03/04/planes-ferries-automobiles/
+Description: Planes, Ferries and Automobiles - How I Hacked Free Travel Across Iceland.
+
+URL: https://amitschendel.github.io/vulnerabilites/CVE-2024-20328/
+Description: ClamAV Not So Calm - Arbitrary Code Execution via Filename (CVE-2024-20328).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://oldweb.today/
+Description: Old Web but Today.
+
+URL: https://dustri.org/b/carrot-disclosure.html
+Description: Carrot disclosure.
+
+URL: https://github.com/Lunakepio/Mario-Kart-3.js
+Description: Mario Kart 3.js - JavaScript/WebGL Mario Kart.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?9201f0ec53db3b08#KXZjHqT+KvaZnwFh6HRqBvCmK5j7cb8zhq4lwJ/aq1A
