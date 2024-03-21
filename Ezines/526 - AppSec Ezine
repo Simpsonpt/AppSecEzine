@@ -92,7 +92,8 @@ URL: https://bit.ly/4cizrzm (+)
 Description: pgAdmin (<=8.3) Path Traversal to Unsafe Deserialization and RCE.
 
 URL: https://github.com/h4x0r-dz/CVE-2024-21762
-Description: out-of-bounds write in Fortinet FortiOS CVE-2024-21762 vulnerability.
+More: https://bit.ly/3PuNPLf (+)
+Description: Out-of-bounds write in Fortinet FortiOS CVE-2024-21762 vulnerability.
 
 URL: https://www.debug.is/2024/03/04/planes-ferries-automobiles/
 Description: Planes, Ferries and Automobiles - How I Hacked Free Travel Across Iceland.
