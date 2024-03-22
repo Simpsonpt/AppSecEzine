@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 12 | Month: March | Year: 2024 | Release Date: 22/03/2024 | Edition: #527  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://portswigger.net/research/trace-desync-attack
+Description: Making desync attacks easy with TRACE.
+
+URL: https://blog.slonser.info/posts/dompurify-node-type-confusion/
+Description: DOM Purify - untrusted Node bypass.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/sadreck/Spartacus
+Description: Spartacus DLL/COM Hijacking Toolkit.
+
+URL: https://github.com/ZephrFish/WindowsHardeningScript
+Description: Windows 10/11 Hardening Script.
+
+URL: https://github.com/TarlogicSecurity/BlueSpy
+Description: BlueSpy - PoC to record audio from a Bluetooth device.
+
+URL: https://github.com/vusec/ghostrace
+Description: Exploiting and Mitigating Speculative Race Conditions.
+
+URL: https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP
+Description: Palo Alto GlobalProtect EoP (CVE-2024-2432).
+
+URL: https://github.com/Geeoon/DNS-Tunnel-Keylogger
+Description: Keylogging server and client that uses DNS tunneling/exfiltration.
+
+URL: https://pentestlab.blog/2024/03/04/persistence-visual-studio-code-extensions/
+Description: Persistence – Visual Studio Code Extensions.
+
+URL: https://github.com/OWASP/OFFAT
+Description: OWASP OFFAT tests your API automatically for common API vulnerabilities.
+
+URL: https://github.com/Geeoon/asploit
+Description: Deploy and exploit backdoors w/ one loc in ASP/Flask/NodeJS/PHP servers.
+
+URL: https://github.com/TheCyb3rAlpha/BobTheSmuggler
+Description: Tool that use HTML Smuggling and create HTML files with 7z/zip archives.
+
+URL: https://github.com/CyberRoute/scanme
+Description: A Golang package for scanning private and public IPs for open TCP ports.
+
+URL: https://github.com/neodyme-labs/github-secrets
+Blog: https://neodyme.io/en/blog/github_secrets/
+Description: Searches for dangling or force-pushed commits for interesting information.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.xpnsec.com/hiding-your-dotnet-etw/
+Description: Hiding your .NET - ETW.
+
+URL: https://blog.nviso.eu/2024/03/13/unpacking-flutter-hives/
+Description: Unpacking Flutter hives.
+
+URL: https://herolab.usd.de/security-advisories/usd-2023-0046/
+Description: Gambio 4.9.2.0 - Insecure Deserialization.
+
+URL: https://gatari.dev/posts/identifying-malicious-bytes-in-malware/
+Description: Identifying Malicious Bytes in Malware.
+
+URL: https://gofetch.fail/
+Description: Breaking Constant-Time Cryptographic Implementations Using DMPs.
+
+URL: https://www.okiok.com/achieving-dll-side-loading-in-the-original-process/
+Description: Achieving DLL Side-Loading in the Original Process.
+
+URL: https://link.medium.com/8WBCwBZe8Gb 
+PoC: https://github.com/xscorp/jsmug
+Description: JSON Smuggling - A far-fetched intrusion detection evasion technique.
+
+URL: https://redfoxsec.com/blog/azure-privilege-escalation-via-service-principal/
+Description: Azure Privilege Escalation Via Service Principal.
+
+URL: https://swarm.ptsecurity.com/android-jetpack-navigation-deep-links-handling-exploitation/
+Description: Android Jetpack Navigation - Deep Links Handling Exploitation.
+
+URL: https://labs.nettitude.com/blog/cve-2024-25153-remote-code-execution-in-fortra-filecatalyst/
+PoC: https://github.com/nettitude/CVE-2024-25153
+Description: Remote Code Execution in Fortra FileCatalyst (CVE-2024-25153).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://beepandboo.com/elf-internals/
+Description: ELF Internals.
+
+URL: https://hellnet.work/8831/
+Description: The 88×31 Archive (GeoCities Buttons).
+
+URL: https://github.com/hiyouga/LLaMA-Factory
+Description: Unify Efficient Fine-tuning of 100+ LLMs.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?f458ef762942f793#Tflpiya3IG9C4IVwyo5PgPOBJ65T6NUbJdLmCcc5zks=
