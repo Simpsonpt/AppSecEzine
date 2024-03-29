@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 13 | Month: March | Year: 2024 | Release Date: 29/03/2024 | Edition: #528  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/2337427
+Description: ownCloud Authentication Bypass with usage of PreSignedURL.
+
+URL: https://www.sonarsource.com/blog/joomla-multiple-xss-vulnerabilities/
+Description: Joomla - PHP Bug Introduces Multiple XSS Vulnerabilities.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Kudaes/ADPT
+Description: DLL proxying for lazy people.
+
+URL: https://github.com/ANG13T/DroneXtract
+Description: Digital forensics suite for DJI drones.
+
+URL: https://github.com/nbaertsch/nimvoke
+Description: Indirect syscalls + DInvoke made simple.
+
+URL: https://github.com/yoryio/CVE-2024-20767
+Blog: https://jeva.cc/2973.html
+Description: Exploit for CVE-2024-20767 - Adobe ColdFusion.
+
+URL: https://tierzerosecurity.co.nz/2024/03/27/blind-edr.html
+Description: Abusing MiniFilter Altitude to blind EDR.
+
+URL: https://github.com/Meckazin/ChromeKatz
+Description: Dump cookies directly from Chrome process memory.
+
+URL: https://github.com/skyler-ferrante/CVE-2024-28085
+Description: WallEscape vulnerability in util-linux (CVE-2024-28085).
+
+URL: https://github.com/Nassim-Asrir/CVE-2023-36424
+Description: Windows Kernel Pool (clfs.sys) Corruption PE (CVE-2023-36424).
+
+URL: https://github.com/TracecatHQ/tracecat
+Description: The AI-native, open source alternative to Tines / Splunk SOAR.
+
+URL: https://github.com/indetectables-net/toolkit
+Description: The essential toolkit for reversing, malware analysis, and cracking.
+
+URL: https://github.com/nstarke/bootfuzz
+Description: Fuzzer written to test motherboards/system BIOS for MBR-based hosts.
+
+URL: https://github.com/jhaddix/CSPReconGO
+Description: Automates the extraction/analysis of domains from CSP and JS on websites.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/Dt9moKkalIb
+Description: VexTrio's Browser Fingerprinting.
+
+URL: https://ryan-weil.github.io/posts/AGENT-TESLA-1/
+More: https://ryan-weil.github.io/posts/AGENT-TESLA-2/
+Description: Agent Tesla (Info Stealer) Analysis.
+
+URL: https://sillywa.re/posts/flower-da-flowin-shc/
+Description: Naively bypassing new memory scanning POCs.
+
+URL: https://bit.ly/3vuv4kk (+)
+Description: Elevating Privileges with Azure Site Recovery Services.
+
+URL: https://www.synacktiv.com/en/publications/java-deserialization-tricks
+Description: Java deserialization tricks.
+
+URL: https://bit.ly/4aBW8gx (+)
+Description: LPE my way to root through Apple macOS filesystems (CVE-2023-42931).
+
+URL: https://unsaflok.com/
+Description: Security vulnerabilities in dormakaba's Saflok electronic RFID locks.
+
+URL: https://seemann.io/posts/2024-03-19-exploiting-quics-connection-id-management/
+Description: Exploiting QUIC's Connection ID Management.
+
+URL: https://pwning.tech/nftables/
+PoC: https://github.com/notselwyn/cve-2024-1086
+Description: Analysis of a vulnerability in nf_tables and hardened exploitation techniques.
+
+URL: https://link.medium.com/Ur2GEIJ9kIb 
+Description: MS Edge's Marketing API Exploited for Covert Extension Installs (CVE-2024-21388).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://9esec.io/blog/vmboot-poc/
+Description: VMBoot Proof of Concept.
+
+URL: https://github.com/yuliskov/smarttube
+Description: Advanced player for set-top boxes and tvs running Android OS.
+
+URL: https://www.journaldulapin.com/2021/08/13/hidden-programs-in-vinyl-records/
+Description: Hidden programs in vinyl records.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?03e36411e4278be6#BgPqun+nNH5QN8PHpyfwSxmtKt5s4qOEYpPO5jsA2FU=
