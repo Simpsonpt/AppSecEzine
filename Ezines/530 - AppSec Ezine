@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 15 | Month: April | Year: 2024 | Release Date: 12/04/2024 | Edition: #530  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.slonser.info/posts/ipv6-zones/
+Description: Exploring IPv6 Zone Identifier.
+
+URL: https://link.medium.com/3CglZWZ8HIb 
+Description: Race Condition Authentication Bypass leads to Full Account Takeover.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://gitlab.com/Zer1t0/aze
+Description: AZE - Azure Cli Enhacement.
+
+URL: https://github.com/umair9747/Genzai
+Description: The IoT Security Toolkit.
+
+URL: https://github.com/kiber-io/apkd
+Description: APK downloader from few sources.
+
+URL: https://github.com/PretendoNetwork/SSSL
+Description: Hackless SSL bypass for the Wii U.
+
+URL: https://github.com/Permiso-io-tools/CloudGrappler
+Description: Threat Detection Tool for Cloud Environments.
+
+URL: https://github.com/user1342/Monocle
+Description: Large Language Model for Binary Analysis Search.
+
+URL: https://github.com/YuriiCrimson/ExploitGSM
+Description: PoCs GSM Kernel LPEs for 6.4-6.5 and for 5.15-6.5.
+
+URL: https://github.com/OSTEsayed/OSTE-Web-Log-Analyzer
+Description: Automate the process of analyzing web server logs.
+
+URL: https://github.com/willdurand/xpidump/
+Description: A simple tool to dump information about XPI files.
+
+URL: https://github.com/pentestfunctions/BlueDucky/
+Description: BlueDucky Implementation Using DuckyScript (CVE-2023-45866).
+
+URL: https://github.com/Wh04m1001/UserManagerEoP
+Description: Windows AuthN Elevation of Privilege Vulnerability PoC (CVE-2023-36047).
+
+URL: https://github.com/osintmatter/shortemall
+Description: Tool that automates the process of scanning hidden content of Short URLs. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://nowotarski.info/http2-continuation-flood-technical-details/
+Description: HTTP/2 CONTINUATION Flood - Technical Details.
+
+URL: https://whereisk0shl.top/post/a-trick-the-story-of-cve-2024-26230
+Description: A trick, the story of CVE-2024-26230 - Telephony service UaF.
+
+URL: https://www.darknavy.org/blog/exploiting_the_libwebp_vulnerability_part_1/
+More: https://www.darknavy.org/blog/exploiting_the_libwebp_vulnerability_part_2/
+Description: Exploiting the libwebp Vulnerability (Series).
+
+URL: https://stealthbits.com/blog/server-untrust-account/
+Description: Active Directory persistence through userAccountControl manipulation.
+
+URL: https://xz.aliyun.com/t/14238
+Description: JumpServer RCE CVE-2024-29201 and CVE-2024-29202 Vulnerability Analysis.
+
+URL: https://artemonsecurity.blogspot.com/2024/04/gmer-art-of-exposing-windows-rootkits.html
+Description: GMER - The Art of Exposing Windows Rootkits in Kernel Mode.
+
+URL: https://link.medium.com/BQPqc0w9HIb 
+Description: "All Your Secrets Are Belong To Us" — A Delinea Secret Server AuthN/AuthZ Bypass.
+
+URL: https://bit.ly/3WdyKlB (+)
+Description: SSHishing – Abusing Shortcut Files and the Windows SSH Client for Initial Access.
+
+URL: https://flatt.tech/research/posts/batbadbut-you-cant-securely-execute-commands-on-windows/
+Description: BatBadBut - You can't securely execute commands on Windows.
+
+URL: https://www.oligo.security/blog/shadowray-attack-ai-workloads-actively-exploited-in-the-wild
+Description: First Known Attack Campaign Targeting AI Workloads Actively Exploited In The Wild.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://no-js.club/
+Description: The no-JS Club.
+
+URL: https://github.com/codyd51/uefirc
+Description: An IRC client in your motherboard.
+
+URL: https://github.com/troed/summarize.sh
+Description: Textually and summarize Youtube videos.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?a403abe813e8f14b#4OWdEsMUDQNjfy3U9hxZBzxITDYmwTtX4sjgdWcqsX0=
