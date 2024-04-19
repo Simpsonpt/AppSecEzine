@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 16 | Month: April | Year: 2024 | Release Date: 19/04/2024 | Edition: #531  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3xRZFsE (+)
+Description: An Obscure Actions Workflow Vulnerability in Google’s Flank.
+
+URL: https://bit.ly/3U7dY4p (+)
+More: https://bit.ly/3U5WWU5 (+)
+Description: How we escalated a DOM XSS to a sophisticated 1-click Account Takeover.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/SaadAhla/dropper
+Description: MOTW bypass via Lnk file w/ Malicious Office Macro.
+
+URL: https://github.com/WINSDK/bite
+Description: BiTE is a platform-agnostic executable analysis tool.
+
+URL: https://github.com/Meowmycks/LetMeowIn
+Description: Covert Windows-based credential dumper using C++ and MASM x64. 
+
+URL: https://github.com/trap-bytes/gourlex
+Description: Tool that can be used to extract URLs and paths from web pages.
+
+URL: https://github.com/ricardojoserf/NativeDump
+Description: Dump lsass using only Native APIs by hand-crafting Minidump files.
+
+URL: https://github.com/KingOfTheNOPs/cookie-monster
+Description: Steal browser cookies for Edge, Chrome and Firefox through a BOF/EXE.
+
+URL: https://github.com/caio-ishikawa/netscout
+Description: OSINT tool to find domains/subdomains/directories/endpoints and files.
+
+URL: https://github.com/techspence/ADeleginator
+Description: Tool to find insecure trustee and resource delegations in AD via ADeleg.
+
+URL: https://github.com/NaC-L/Mergen
+Description: Deobfuscation via optimization with usage of LLVM IR and parsing assembly.
+
+URL: https://github.com/RedByte1337/GraphSpy
+Description: Initial Access and Post-Exploitation Tool for AAD and O365 w/ a browser GUI.
+
+URL: https://github.com/adhikara13/CVE-2024-3273
+Description: Command Injection and Backdoor Account in D-Link NAS Devices (CVE-2024-3273).
+
+URL: https://github.com/eversinc33/unKover/
+Description: PoC Anti-Rootkit to uncover Windows Drivers/Rootkits mapped to Kernel Memory.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://pulsesecurity.co.nz/advisories/usbguard-bypass
+Description: Bypassing USBGuard on Linux.
+
+URL: https://glassyamadeus.github.io/2024/01/31/CVE_2024_20931/
+Description: A new attack surface for JNDI injection (CVE-2024-20931).
+
+URL: https://gabrieldurdiak.github.io/vmwarevuln/
+Description: VMWare hypervisor Vulnerabilities (CVE-2021-21987/CVE-2022-22938).
+
+URL: https://adepts.of0x.cc/vba-hijack-pointers-rwa/
+Description: VBA - Having fun with macros, overwritten pointers & R/W/X memory.
+
+URL: https://blog.quarkslab.com/exploiting-glpi-during-a-red-team-engagement.html
+Description: Exploiting GLPI during a Red Team engagement.
+
+URL: https://research.checkpoint.com/2024/net-hooking-harmonizing-managed-territory/
+Description: .NET Hooking – Harmonizing Managed Territory.
+
+URL: https://bit.ly/3W3EnCu (+)
+Description: Open RAN - Attacks against mobile operators from the outside in practice.
+
+URL: https://posts.specterops.io/lsa-whisperer-20874277ea3b
+Description: LSA Whisperer - Getting credentials from LSASS without accessing its memory.
+
+URL: https://rhinosecuritylabs.com/research/cve-2024-2448-kemp-loadmaster/
+Description: Authenticated Command Injection In Progress Kemp LoadMaster (CVE-2024-2448).
+
+URL: https://labs.watchtowr.com/palo-alto-putting-the-protecc-in-globalprotect-cve-2024-3400/
+Description: Palo Alto - Putting The Protecc In GlobalProtect (CVE-2024-3400).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://how.complexsystems.fail/
+Description: How Complex Systems Fail.
+
+URL: https://github.com/dwisiswant0/unch
+Description: Hides message with invisible Unicode characters.
+
+URL: https://github.com/mrwadams/attackgen
+Description: Tool to generate IR scenarios based on threat actor groups and Orgs details.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?066b8ea91989ada6#InB3VH6QOabp52hs4hMMjJ5x0uSVw19JoX/pFqy6yM8=
