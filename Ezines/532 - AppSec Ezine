@@ -27,6 +27,7 @@ Description: Fixing Typos and Breaching Microsoft’s Perimeter.
 
 
 URL: https://github.com/floesen/KExecDD
+More: https://tierzerosecurity.co.nz/2024/04/29/kexecdd.html
 Description: Admin to Kernel code execution using the KSecDD driver.
 
 URL: https://github.com/nettitude/CVE-2024-20356
