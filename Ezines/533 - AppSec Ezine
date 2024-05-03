@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 18 | Month: May | Year: 2024 | Release Date: 03/05/2024 | Edition: #533   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3y0kDWF (+)
+Description: How I hacked into Google's internal corporate assets.
+
+URL: https://lyra.horse/blog/2024/05/stealing-your-telegram-account-in-10-seconds-flat/
+Description: Stealing your Telegram account in 10 seconds flat.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/protectai/ai-exploits
+Description: Collection of real world AI/ML exploits.
+
+URL: https://github.com/BLACK-SCORP10/url-status-checker
+Description: Tool for swiftly checking the status of URLs.
+
+URL: https://github.com/sarperavci/GoogleRecaptchaBypass
+Description: Solve Google reCAPTCHA in less than 5 seconds!
+
+URL: https://github.com/chushuai/wscan
+Description: Web security scanner that focuses on WEB security.
+
+URL: https://github.com/josh0xA/Espionage
+Description: A Linux Packet Sniffing Suite for Automated MiTM Attacks.
+
+URL: https://github.com/Helixo32/CrimsonEDR
+Description: Simulate the behavior of AV/EDR for malware development training.
+
+URL: https://github.com/exploits-forsale/CVE-2024-26218
+Description: Windows Kernel Elevation of Privilege Vulnerability (CVE-2024-26218).
+
+URL: https://github.com/thefLink/Hunt-Sleeping-Beacons
+Description: Identify unpacked or running beacons  in the context of others process.
+
+URL: https://haymiz.dev/security/2024/04/27/automating-apis-with-postman-workflows/
+Description: Automating API Vulnerability Testing Using Postman Workflows.
+
+URL: https://github.com/intigriti/misconfig-mapper
+Description: Tool to uncover security misconfigurations on popular third-party services.
+
+URL: https://github.com/Sh3lldon/FullBypass
+Description: Tool to bypasse AMSI and PowerShell CLM to give FullLanguage PS reverse shell.
+
+URL: https://github.com/lKetaPanl/PS4-ESFM-Decryption-Tool
+Description: Tool to decrypt .esfm files that you get after extracting them from .trp files.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://tantosec.com/blog/judge0/
+Description: Judge0 Sandbox Escape.
+
+URL: https://bit.ly/3UHt69P (+)
+Description: Exploit Netgear Nighthawk RAX30 Routers.
+
+URL: https://badoption.eu/blog/2024/04/25/netntlm.html
+Description: NetNTLM is still a thing?
+
+URL: https://link.medium.com/LzqlcDSFdJb 
+Description: How an empty S3 bucket can make your AWS bill explode.
+
+URL: https://bit.ly/44mbpzU (+)
+Description: A Look at a Recently Patched Microsoft Graph Logging Bypass.
+
+URL: https://bit.ly/3JKVykW (+)
+Description: Dangerous Import - SourceForge Patches Critical Code Vulnerability.
+
+URL: https://baldur.dk/blog/embedded-mitel-exploitation.html
+Description: Exploiting embedded mitel phones for unauthenticated remote code execution.
+
+URL: https://www.synacktiv.com/en/publications/vmware-esxi-forensic-with-velociraptor.html
+Description: VMware ESXi Forensic with Velociraptor.
+
+URL: https://exploits.forsale/24h2-nt-exploit/
+PoC: https://github.com/exploits-forsale/24h2-nt-exploit
+Description: Exploiting the NT Kernel in 24H2 - New Bugs in Old Code & KASLR Side Channels.
+
+URL: https://www.mdsec.co.uk/2024/04/cve-2024-21111-local-privilege-escalation-in-oracle-virtualbox/
+Description: Local Privilege Escalation in Oracle VirtualBox (CVE-2024-21111).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://lcamtuf.substack.com/p/that-time-i-built-an-ld_preload-worm
+Description: That time I built an LD_PRELOAD worm.
+
+URL: https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/
+Description: Passkeys - A Shattered Dream.
+
+URL: https://www.sciencejournalforkids.org/
+Description: Hundreds of scientific articles, written for kids and approved by scientists. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?8c34029dc9f53168#MKCk6sETJeXkKg/2tjp1TvSDwEkQF2FqpJBky5Mzeus=
