@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 19 | Month: May | Year: 2024 | Release Date: 10/05/2024 | Edition: #534   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3R1t9eL (+)
+Description: Relative Path File Injection - The Next Evolution in RPO.
+
+URL: https://www.breachproof.net/blog/lethal-injection-how-we-hacked-microsoft-ai-chat-bot
+Description: Lethal Injection - How We Hacked Microsoft's Healthcare Chat Bot.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/synacktiv/DLHell
+Description: Local & remote Windows DLL Proxying.
+
+URL: https://github.com/ozguralp/gmapsapiscanner
+Description: Google Maps API Scanner.
+
+URL: https://github.com/Sharpforce/XSS-Exploitation-Tool
+Description: An XSS Exploitation Tool.
+
+URL: https://github.com/redhuntlabs/BucketLoot
+Description: An Automated S3-compatible Bucket Inspector.
+
+URL: https://link.medium.com/fPStbAoOsJb
+Description: Flutter Windows Thick Client SSL Pinning Bypass.
+
+URL: https://github.com/mlcsec/proctools
+Description: Tool to extract sensitive strings from Windows processes.
+
+URL: https://github.com/P1sec/QCSuper
+Description: Tool to communicating with Qualcomm-based phones and modems.
+
+URL: https://github.com/danialhalo/SqliSniper
+Description: Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers.
+
+URL: https://github.com/securityjoes/MasterParser
+Description: Powerful DFIR tool designed for analyzing and parsing Linux logs.
+
+URL: https://github.com/iamagarre/BadExclusionsNWBO
+Description: Tool to identify folder custom or undocumented exclusions on AV/EDR.
+
+URL: https://bit.ly/3UUeDI3 (+)
+Description: Coverage guided fuzzing for native Android libraries (Frida & Radamsa).
+
+URL: https://github.com/TheOfficialFloW/PPPwn
+More: https://hackerone.com/reports/2177925
+Description: PlayStation 4 PPPoE Kernel RCE exploit up to FW 11.00 via CVE-2006-4304.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://sabotagesec.com/tale-of-code-integrity-driver-loads/
+Description: Tale of Code Integrity & Driver Loads.
+
+URL: https://www.blazeinfosec.com/post/llm-pentest-agent-hacking/
+Description: LLM pentest - Leveraging agent integration for RCE.
+
+URL: https://www.sonarsource.com/blog/avocado-nightmare-1/
+Description: Code Interoperability - The Hazards of Technological Variety.
+
+URL: https://www.persistent-security.net/post/when-phish-proof-gets-hooked
+Description: When "Phish-Proof" Gets Hooked.
+
+URL: https://bit.ly/3UojAHD (+)
+PoC: https://github.com/hakaioffsec/CVE-2024-21338
+Description: Windows Admin-to-Kernel Elevation of Privilege (CVE-2024-21338).
+
+URL: https://bit.ly/4a85Giw (+)
+Description: Inside the LogoFAIL PoC - From Integer Overflow to Arbitrary Code Execution.
+
+URL: https://bit.ly/4baLbmz (+)
+Description: Local Privilege Escalation Vulnerability in Ant Media Server (CVE-2024-32656).
+
+URL: https://pathfinder.cpusec.org/
+Description: High-Resolution Control-Flow Attacks Exploiting the Conditional Branch Predictor.
+
+URL: https://blog.includesecurity.com/2024/04/coverage-guided-fuzzing-extending-instrumentation/
+Description: Coverage Guided Fuzzing – Extending Instrumentation to Hunt Down Bugs Faster!
+
+URL: https://starlabs.sg/blog/2024/04-sending-myself-github-com-environment-variables-and-ghes-shell/
+Description: Send()-ing Myself Belated Christmas Gifts - GitHub.com's Env Variables & GHES Shell.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://lkesteloot.github.io/turbopascal/
+Description: Compiling And Running Turbo Pascal In The Browser.
+
+URL: https://github.com/klarna-incubator/gram
+Description: Gram is Klarna's own threat model diagramming tool.
+
+URL: https://protocols-made-fun.com/contests/2024/05/06/properties.html
+Description: Is it a high - What are your protocol properties?
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?1b8ef5ed9f4861cc#2p9PQUAHz3fQlrcHdtGwkTVAsqlhCNnzXy1D0Mp4mXE=
