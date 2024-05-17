@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 20 | Month: May | Year: 2024 | Release Date: 17/05/2024 | Edition: #535   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://matanber.com/blog/cspt-levels
+Description: Bypassing WAFs to Exploit CSPT Using Encoding Levels.
+
+URL: https://bit.ly/3QLIVKg (+)
+Description: Devfile file write vulnerability in GitLab (CVE-2024-0402).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/malvads/sqlmc
+Description: SQL Injection Massive Checker.
+
+URL: https://github.com/fdx-xdf/darkPulse
+Description: Shellcode Packer written in Go.
+
+URL: https://github.com/CCob/okta-terrify
+Description: Okta Verify and Okta FastPass Abuse Tool.
+
+URL: https://github.com/Leo4j/Invoke-SessionHunter
+Description: Retrieve/Display active user sessions on remote computers.
+
+URL: https://github.com/capture0x/LFI-FINDER
+Description: Tool to detect Local File Inclusion (LFI) vulnerabilities.
+
+URL: https://github.com/sgxgsx/BlueToolkit
+Description: Extensible Bluetooth Classic vulnerability testing framework.
+
+URL: https://github.com/UndeadSec/SwaggerSpy
+Description: Tool to automated Open Source Intelligence (OSINT) on SwaggerHub.
+
+URL: https://github.com/umutcamliyurt/PingRAT
+Description: PingRAT secretly passes C2 traffic through firewalls using ICMP payloads.
+
+URL: https://github.com/R00tkitSMM/CVE-2024-27804
+Description: iOS/macOS execution of arbitrary code with kernel privileges (CVE-2024-27804).
+
+URL: https://github.com/martin-olivier/airgorah
+Description: WiFi auditing software that can perform deauth attacks and passwords cracking.
+
+URL: https://github.com/Maldev-Academy/RemoteTLSCallbackInjection
+Description: Utilize TLS callbacks to exec code w/o spawning any threads in a remote process.
+
+URL: https://github.com/gavz/ExplorerPersist
+Blog: https://pentestlab.blog/2024/03/05/persistence-explorer/
+Description: Hijack cscapi.dll order loading path and put malicious dll at \Windows\cscapi.dll. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.stmcyber.com/pax-pos-cves-2023/
+Description: Android-based PAX POS vulnerabilities.
+
+URL: https://www.silverfort.com/blog/using-mitm-to-bypass-fido2/
+Description: Using MITM to bypass FIDO2 phishing-resistant protection.
+
+URL: https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html
+Description: Bypassing iOS Lock Screens - A Comprehensive Arsenal of Vulns.
+
+URL: https://code-white.com/blog/exploiting-asp.net-templateparser-part-1/
+More: https://code-white.com/blog/exploiting-asp.net-templateparser-part-2/
+Description: Exploiting ASP.NET TemplateParser (CVE-2023-35813/CVE-2023-33160).
+
+URL: https://bit.ly/3K5rKQj (+)
+Description: The Monsters in Your Build Cache - GitHub Actions Cache Poisoning.
+
+URL: https://blog.zsec.uk/hellojackhunter-exploring-winsxs/
+Description: Side-by-Side with HelloJackHunter - Unveiling the Mysteries of WinSxS.
+
+URL: https://insinuator.net/2024/05/linux-character-devices-exploring-systemd-run-and-pkexec/
+Description: Linux Character Devices - Exploring systemd-run and pkexec.
+
+URL: https://www.errno.fr/bruteforcing_CVE-2024-23897.html
+Description: A case of missing bytes - Bruteforcing your way through Jenkins' CVE-2024-23897.
+
+URL: https://bit.ly/3ymAEXb (+)
+Description: Lateral movement and on-prem NT hash dumping w/ MS Entra Temporary Access Passes.
+
+URL: https://www.0x01team.com/hw_security/bypassing-microchip-atmel-sam-e70-s70-v70-v71-security/
+Description: Bypassing Microchip Atmel SAM E70/S70/V70/V71 Security (CVE-2024-4760).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/HeyPuter/puter
+Description: The Internet OS! 
+
+URL: https://github.com/haizelabs/llama3-jailbreak
+Description: A trivial programmatic Llama 3 jailbreak.
+
+URL: https://github.com/gh2o/bash_tls
+Description: A minimal TLS 1.2 client implementation in a pure Bash script.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?34a95c106f72fc1e#1GAEUYL3Z+u/cpZBLOmedqb7jZkxGPTNPal0B2GTLrw=
