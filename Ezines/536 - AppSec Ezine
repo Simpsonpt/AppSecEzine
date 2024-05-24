@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 21 | Month: May | Year: 2024 | Release Date: 24/05/2024 | Edition: #536   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://amalmurali.me/posts/git-rce/
+PoC: https://github.com/amalmurali47/git_rce
+Description: Exploiting CVE-2024-32002 - RCE via git Clone.
+
+URL: https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/
+Description: CVE-2024-4367 – Arbitrary JavaScript execution in PDF.js.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/fortra/No-Consolation
+Description: A BOF that runs unmanaged PEs inline.
+
+URL: https://github.com/PentHertz/RF-Swift
+Description: Quickly Setup a RF Testing Environment.
+
+URL: https://github.com/xssdoctor/graphqlMaker
+Description: Finds graphql queries in javascript files.
+
+URL: https://github.com/byt3bl33d3r/ItWasAllADream
+Description: A PrintNightmare (CVE-2021-34527) Python Scanner.
+
+URL: https://github.com/foundryzero/binder-trace
+Description: Tool for intercepting and parsing Android Binder messages.
+
+URL: https://github.com/imperva/frida-jit-unpacker/
+Description: Tool to understand the behavior of packed malicious .NET samples.
+
+URL: https://github.com/Diverto/IPPrintC2
+Description: Using MS Windows printers for persistence - C&C via Internet Printing.
+
+URL: https://github.com/soxoj/maigret
+Description: Collect a dossier on a person by username from thousands of sites (OSINT).
+
+URL: https://github.com/vulhub/vulhub/tree/master/nexus/CVE-2024-4956
+Description: Nexus Repository Manager 3 Unauthenticated Path Traversal (CVE-2024-4956).
+
+URL: https://github.com/iamunixtz/FireHawk
+Description: FireHawk tool to identify and exploit vulnerabilities in Firebase databases.
+
+URL: https://github.com/0xda568/IconJector
+Description: Explorer DLL injection technique that uses the change icon dialog on Windows. 
+
+URL: https://github.com/synacktiv/Invoke-RunAsWithCert
+Description: PS script to do PKINIT authN w/ the Windows API from a non domain-joined machine.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/OXG9mwX4PJb 
+Description: Hi Meta, WhatsApp with Integrity?
+
+URL: https://blog.slonser.info/posts/email-attacks/
+Description: Old new email attacks.
+
+URL: https://alephsecurity.com/2024/02/20/kontrol-lux-lock-1/
+More: https://alephsecurity.com/2024/03/07/kontrol-lux-lock-2/
+Description: Digitally lockpicking an advanced smart lock (Series).
+
+URL: https://bit.ly/3R0AHyi (+)
+Description: From Discovery to Disclosure - ReCrystallize Server Vulnerabilities.
+
+URL: https://blog.slowerzs.net/posts/pplsystem/
+Description: Injecting code into PPL processes without vulnerable drivers on Windows 11.
+
+URL: https://inti.io/p/when-privacy-expires-how-i-got-access
+Description: How I got access to tons of sensitive citizen data after buying cheap domains.
+
+URL: https://dnsbomb.net/
+Description: Practical and powerful pulsing DoS attack exploiting DNS queries and responses.
+
+URL: https://www.zcgonvh.com/post/Advanced_Windows_Task_Scheduler_Playbook-Part.1_basic.html
+Description: Advanced Windows Task Scheduler Playbook (Series).
+
+URL: https://bit.ly/4bN8zXg (+)
+Description: Your NVMe Had Been Syz'ed-  Fuzzing NVMe-oF/TCP Driver for Linux with Syzkaller.
+
+URL: https://bit.ly/3UM9YGw (+)
+Description: Vuln in Jitsi Meet - Meeting Password Disclosure affecting Meetings with Lobbies.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.netsurf-browser.org/
+Description: Multi-platform web browser.
+
+URL: https://gabrielgambetta.com/zx-raytracer.html
+Description: ZX Spectrum Raytracer.
+
+URL: https://github.com/cztomsik/ava
+Description: All-in-one desktop app for running LLMs locally. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?57412cad708eb27a#e3rkAkegJ+8Q/XKh5u6k9bMKy4/AbifmGwWq2cBuivk=
