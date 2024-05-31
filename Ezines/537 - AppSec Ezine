@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 22 | Month: May | Year: 2024 | Release Date: 31/05/2024 | Edition: #537   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://swarm.ptsecurity.com/xxe-chrome-safari-chatgpt/
+Description: Getting XXE in Web Browsers using ChatGPT.
+
+URL: https://0reg.dev/blog/electron-math
+Description: Electron Math - RCE bypassing nodeintegration via preload.js in Electron.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/emrekybs/MrHandler
+Description: Linux Incident Response Reporting.
+
+URL: https://github.com/msoedov/agentic_security
+Description: Agentic LLM Vulnerability Scanner.
+
+URL: https://github.com/SpenserCai/DRat
+Description: Decentralized Remote Administration Tool.
+
+URL: https://github.com/W01fh4cker/CVE-2024-21683-RCE
+Description: Confluence Post Auth RCE (CVE-2024-21683).
+
+URL: https://github.com/R-s0n/ars0n-framework
+Description: A Modern Framework for Bug Bounty Hunting.
+
+URL: https://github.com/cybersectroll/TrollUAC
+Description: .NET library that serves as a UAC bypass for x64.
+
+URL: https://github.com/RikunjSindhwad/Task-Ninja
+Description: The ultimate tasks automation framework for DevSecOps.
+
+URL: https://github.com/itaymigdal/LOLSpoof
+Description: An interactive shell to spoof some LOLBins command line.
+
+URL: https://github.com/assetnote/nowafpls
+Description: Burp Plugin to Bypass WAFs through the insertion of Junk Data.
+
+URL: https://github.com/Idov31/NidhoggScript
+Description: Create playbooks and execute a bunch of commands with Nidhogg in one IOCTL.
+
+URL: https://github.com/d0ge/sessionless
+Description: Burp Suite extension for editing/signing/verifying various signed web tokens. 
+
+URL: https://github.com/YuanchengJiang/GraphGenie
+Description: Detect logic bugs in graph database engines by mutating graph query patterns.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://op-co.de/blog/posts/samsung_wb850f_firmware/
+Description: Samsung WB850F Firmware Reverse-Engineering.
+
+URL: https://blog.securelayer7.net/analysis-of-papercut-rce/
+Description: PaperCut RCE - Analysis of CVE-2023-39143.
+
+URL: https://offsec.almond.consulting/post-exploiting-f5-BIG-IP.html
+Description: Post-Exploiting an F5 Big-IP - root, and now what?
+
+URL: https://xz.aliyun.com/t/14693
+Description: New Telerik Reporting XmlSerializer Deserialization RCE.
+
+URL: https://bit.ly/4e3PYs4 (+)
+Description: Abusing url handling in iTerm2 and Hyper for code execution.
+
+URL: https://www.sonarsource.com/blog/mxss-the-vulnerability-hiding-in-your-code/
+More: https://sonarsource.github.io/mxss-cheatsheet/
+Description: mXSS - The Vulnerability Hiding in Your Code.
+
+URL: https://www.huntandhackett.com/blog/how-to-achieve-eternal-persistence
+More: https://www.huntandhackett.com/blog/how-to-achieve-eternal-persistence-part-2
+Description: How to achieve eternal persistence in an Active Directory environment.
+
+URL: https://bit.ly/3yFX3il (+)
+Description: Hijacking Antivirus Updates for Distributing Backdoors and Casual Mining.
+
+URL: https://www.synacktiv.com/advisories/windows-10-plugscheduler-elevation-of-privilege
+Description: Windows 10 PLUGScheduler Elevation of Privilege.
+
+URL: https://link.medium.com/1N99EB8c1Jb
+Description: Cache me if you can — Local Privilege Escalation in Zscaler Client Connector.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/netspooky/yxd
+Description: yxd - Yuu's heX Dumper.
+
+URL: https://github.com/ianhan/BitmapFonts
+Description: Collection of bitmap fonts pulled from various demoscene archives.
+
+URL: https://github.com/simonrob/email-oauth2-proxy
+Description: Transparently add OAuth 2.0 support to IMAP/POP/SMTP client applications.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?8b52ee217543abf9#7vZXVyM82vf6WCSQAZj4UX5UKNRvgRF2Ar45Fkb3ZmQ=
