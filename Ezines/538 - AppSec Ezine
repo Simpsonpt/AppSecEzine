@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 23 | Month: June | Year: 2024 | Release Date: 07/06/2024 | Edition: #538   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://samcurry.net/hacking-millions-of-modems
+Description: Hacking Millions of Modems (and Investigating Who Hacked My Modem).
+
+URL: https://bit.ly/3KxDQBP (+)
+Description: From GGUF model format metadata RCE to State-of-The-Art NLP Project RCEs.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/fkkarakurt/reconic
+Description: All-in-One Reconnaissance Tool.
+
+URL: https://github.com/x011/SecretPixel
+Description: Advanced Image Steganography Tool.
+
+URL: https://github.com/google/gwpsan
+Description: GWPSan - Sampling-Based Sanitizer Framework.
+
+URL: https://github.com/CodeIntelligenceTesting/jazzer
+Description: Coverage-guided, in-process fuzzing for the JVM.
+
+URL: https://github.com/JumpsecLabs/WALK_WebAssembly_Lure_Krafter
+Description: A web assembly (WASM) phishing lure generator.
+
+URL: https://github.com/kaist-hacking/CVE-2023-6702
+Description: Chrome Renderer 1day RCE via Type Confusion in Async Stack Trace.
+
+URL: https://github.com/BuildHackSecure/gitscraper
+Description: Scrapes Github repos for common variables names, folders and files.
+
+URL: https://github.com/carlos-al/user-kernel-syscall-hook
+Description: Combining Kernel and User-Mode Hooks for Enhanced System Monitoring.
+
+URL: https://github.com/xaitax/TotalRecall
+Description: Tool extracts and displays data from the Recall feature in Windows 11.
+
+URL: https://github.com/redteamsocietegenerale/DLLirant
+Description: Tool to automatize the DLL Hijacking researches on a specified binary.
+
+URL: https://github.com/ambionics/scalpel
+Blog: https://www.ambionics.io/blog/scalpel
+Description: Burp extension to intercept and rewrite HTTP traffic (on the fly or Repeater).
+
+URL: https://github.com/Rizer0/Ropdump
+Description: Analyze binaries executables for potential ROP gadgets, BoFs and memory leaks. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://0xbigshaq.github.io/2024/05/24/njs-vr-bugs/
+Description: Hunting bugs in Nginx JavaScript engine (njs).
+
+URL: https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/
+Description: Attacking NIST SP 800-108.
+
+URL: https://khronokernel.com/macos/2024/06/03/CVE-2024-27822.html
+Description: macOS PackageKit Privilege Escalation (CVE-2024-27822).
+
+URL: https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html
+Description: TPM GPIO fail - How bad OEM firmware ruins TPM security.
+
+URL: https://www.tiraniddo.dev/2024/06/working-your-way-around-acl.html
+Description: Working your way Around an ACL.
+
+URL: https://bit.ly/450YjZn (+)
+Description: Remote Code Execution in Microsoft Outlook (CVE-2024-21378).
+
+URL: https://knifecoat.com/Posts/Tell+you+phone+to+link+me+at+the+coffee+shop
+Description: Tell you phone to link me at the coffee shop (Android Deep Links).
+
+URL: https://bit.ly/45f83iL (+)
+Description: Attacking Android Binder - Analysis and Exploitation of CVE-2023-20938.
+
+URL: https://bit.ly/3VwBgmd (+)
+Description: Micro Services (MS), Major Headaches - Detecting Vulnerabilities in Erxes' MS.
+
+URL: https://www.cryptic.red/post/shipping-your-private-key-cve-2023-43870-paxton-do-a-lenovo
+Description: Shipping your Private Key - CVE-2023-43870, Paxton do a Lenovo.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://landaire.net/on-dependency-usage-in-rust/
+Description: On Dependency Usage in Rust.
+
+URL: https://github.com/singe/tidcli/
+Description: A simple touchID prompt'er for use in shell scripts.
+
+URL: https://portswigger.net/blog/tic-tac-toe-in-html
+Description: Implementing Tic Tac Toe with 170mb of HTML - no JS or CSS.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?30ea28505bb4a50b#SzGZdzbJTstoRGgtNeQ8PneRuiMWZtesC5kPqsIGjzA=
