@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 24 | Month: June | Year: 2024 | Release Date: 14/06/2024 | Edition: #539  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://nokline.github.io/bugbounty/2024/06/07/Zoom-ATO.html
+Description: Zoom Session Takeover.
+
+URL: https://www.assetnote.io/resources/research/digging-for-ssrf-in-nextjs-apps
+Description: Digging for SSRF in NextJS apps.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Pennyw0rth/NetExec
+Description: The Network Execution Tool.
+
+URL: https://github.com/davenisc/thief_raccoon
+Description: Login Phishing Tool.
+
+URL: https://github.com/FLOCK4H/Freeway
+Description: WiFi Penetration Testing & Auditing Tool.
+
+URL: https://github.com/user1342/ThingFinder
+Description: Finding 'things' in binaries and source code.
+
+URL: https://www.ribbiting-sec.info/posts/2024-06-05_csharp_obfuscator/
+Description: Develop your own C# Obfuscator.
+
+URL: https://github.com/AlteredSecurity/Disable-TamperProtection
+Blog: https://bit.ly/3RsZLxZ (+)
+Description: Disabling Tamper Protection and other Defender / MDE components.
+
+URL: https://github.com/spyboy-productions/PhantomCrawler
+Description: Boost website hits by generating requests from multiple proxy IPs.
+
+URL: https://bit.ly/3yTWvFE (+)
+Description: Extracting WhatsApp Database from Android 12/13 using CVE-2024-0044.
+
+URL: https://github.com/EvilBytecode/GoDefender
+Description: Detect/Defend against several debugging tools and virtualization envs.
+
+URL: https://github.com/morpheuslord/Startup-SBOM
+Description: SBOM utility to provide a view on which packages are getting executed.
+
+URL: https://github.com/mandiant/ccmpwn
+Description: Lateral Movement via the CcmExec service to remotely hijack user sessions.
+
+URL: https://github.com/0xsp-SRD/MDE_Enum
+Description: Extract/Display information about Windows Defender exclusions and ASR rules.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://vea.st/blog/tmobile-router-writeup/
+More: https://vea.st/blog/verizon-router-writeup/
+Description: From WebUI to root.
+
+URL: https://bit.ly/4emoOfV (+)
+Description: Hijacking GitHub runners to compromise the organization.
+
+URL: https://evilpan.com/2023/09/09/java-fuzzing/
+Description: Vulnerability Discovery via Fuzzing in Java Applications.
+
+URL: https://labs.watchtowr.com/no-way-php-strikes-again-cve-2024-4577/
+PoC: https://github.com/ZephrFish/CVE-2024-4577-PHP-RCE
+Description: No Way, PHP Strikes Again! (CVE-2024-4577).
+
+URL: https://bit.ly/3yYoDr6 (+)
+Description: Fortinet FortiSIEM Command Injection Deep-Dive (CVE-2023-34992).
+
+URL: https://www.landh.tech/blog/20240603-npm-cache-poisoning/
+Description: How a Single Vulnerability Can Bring Down the JavaScript Ecosystem.
+
+URL: https://orca.security/resources/blog/sys-all-google-kubernetes-engine-risk/
+Description: Simple Loophole in Google Kubernetes Engine Puts Clusters at Risk.
+
+URL: https://bit.ly/3VjgBSm (+)
+Description: MS .NET CRLF Injection Arbitrary File Write/Deletion (CVE-2023-36049).
+
+URL: https://summoning.team/blog/veeam-enterprise-manager-cve-2024-29849-auth-bypass/
+PoC: https://github.com/sinsinology/CVE-2024-29849
+Description: Bypassing Veeam Authentication CVE-2024-29849.
+
+URL: https://summoning.team/blog/progress-report-server-rce-cve-2024-4358-cve-2024-1800/
+PoC: https://github.com/sinsinology/CVE-2024-4358
+Description: Exploiting and root cause analysis CVE-2024-4358.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/BasedHardware/Friend
+Description: AI wearable necklace.
+
+URL: https://github.com/typeswitch-dev/yotta/
+Description: Yotta is a minimalistic forth-like language. 
+
+URL: http://www.righto.com/2013/06/teardown-and-exploration-of-magsafe.html
+Description: Teardown and exploration of Apple's Magsafe connector.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?078fa9223528daa2#JGyzC+efNXJNBMZb4eteIcr6jWccc9zyZ2H5AHz6OAU=
