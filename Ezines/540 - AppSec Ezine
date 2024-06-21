@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 25 | Month: June | Year: 2024 | Release Date: 21/06/2024 | Edition: #540  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://sites.google.com/site/zhiniangpeng/blogs/Triton-RCE
+Description: Preauth RCE on NVIDIA Triton Server.
+
+URL: https://bit.ly/3VsDzFs (+)
+Description: Re-moo-te Code Execution in Mailcow - Always Sanitize Error Messages.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/OpenCTI-Platform/opencti
+Description: Open Cyber Threat Intelligence Platform.
+
+URL: https://github.com/Tedixx/dmarc-subdomains/
+Description: Tool to parse subdomains from dmarc.live.
+
+URL: https://github.com/erebe/wstunnel
+Description: Tunnel all your traffic over Websocket or HTTP2.
+
+URL: https://github.com/allinurl/goaccess
+Description: Real-time web log analyzer and interactive viewer.
+
+URL: https://github.com/Miiden/EyeSpy
+Description: Tool for finding IP Cameras and spraying credentials at RTSP streams.
+
+URL: https://github.com/groundsec/secbutler/
+Description: Essential utilities for pentester, BBHunters and security researchers.
+
+URL: https://github.com/nexB/vulnerablecode
+Description: Free and open database of open source software package vulnerabilities.
+
+URL: https://github.com/NetSPI/gcpwn
+Description: Enumeration/exploit/analysis/download/etc pentesting framework for GCP.
+
+URL: https://github.com/AleksaMCode/WiFi-password-stealer
+Description: Windows/Linux keystroke injection tool that exfiltrates stored WiFi data.
+
+URL: https://github.com/truerustyy/wcreddump
+Description: Windows credentials dumper from SAM (classic passwords) and WINHELLO (pins).
+
+URL: https://github.com/sud0Ru/impacket-dcom
+Description: Adjusted version of the impacket-dcomexec script to work against Windows 10.
+
+URL: https://github.com/varwara/CVE-2024-26229
+Description: Improper Addr Validation in IOCTL w/ METHOD_NEITHER I/O Control Code (CVE-2024-26229).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://invlpg.dev/post/ace_screenshots/
+Description: Anti-Cheat Expert - All Your Pixels Are Belong to Us.
+
+URL: https://evanconnelly.github.io/post/ios-oauth/
+Description: Mobile OAuth Attacks - iOS URL Scheme Hijacking Revamped.
+
+URL: https://bit.ly/4ccPoqC (+)
+Description: Debug Case Study - ViewState Deserialization Exploitation.
+
+URL: https://bit.ly/3VlcoNQ (+)
+Description: You can not simply publicly access private secure links, can you?
+
+URL: https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-maglev/
+Description: An Introduction to Chrome Exploitation  - Maglev Edition.
+
+URL: https://modzero.com/en/blog/beyond_the_at_symbol/
+Description: Beyond the @ Symbol. Exploiting the Flexibility of Email Addresses.
+
+URL: https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/
+Description: Reconstructing public keys from signatures.
+
+URL: https://bit.ly/3R5q8tL (+)
+Description: Exploiting hidden Organizational Units ACL attack vectors in Active Directory.
+
+URL: https://www.pentagrid.ch/en/blog/domain-verification-bypass-prevention-caa-accounturi/
+Description: How to prevent domain verification bypasses of your server certificates.
+
+URL: https://blog.trailofbits.com/2024/06/11/exploiting-ml-models-with-pickle-file-attacks-part-1/
+More: https://blog.trailofbits.com/2024/06/11/exploiting-ml-models-with-pickle-file-attacks-part-2/
+Description: Exploiting ML models with pickle file attacks.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/pranavjad/mlx-gpt2
+Description: GPT-2 From Scratch in MLX.
+
+URL: https://maphappenings.com/2024/04/11/story-of-etak/
+Description: A Curious Phenomenon Called 'Etak'.
+
+URL: https://k3xec.com/td158/
+Description: Reverse Engineering a Restaurant Pager system.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?edc3d4b0e2c8d22b#RT18aktjXeI8eNkSLYpLPhEFovT4vmiNZwG1mCovw78=
