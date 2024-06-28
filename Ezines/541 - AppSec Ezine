@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 26 | Month: June | Year: 2024 | Release Date: 28/06/2024 | Edition: #541  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://stulle123.github.io/posts/kakaotalk-account-takeover/
+Description: 1-click Exploit in South Korea's biggest mobile chat app.
+
+URL: https://karmainsecurity.com/zip-slip-meets-artifactory-a-bug-bounty-story
+Description: Zip Slip meets Artifactory - A Bug Bounty Story.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/six2dez/reconftw
+Description: Simple script for full recon.
+
+URL: https://github.com/FalconForceTeam/FalconHound
+Description: Blue team multi-tool.
+
+URL: https://github.com/CICADA8-Research/RemoteKrbRelay
+Description: Advanced Kerberos Relay Framework.
+
+URL: https://github.com/akto-api-security/akto
+Description: Instant open source API security platform.
+
+URL: https://github.com/Kudaes/Dumpy
+Description: Reuse open handles to dynamically dump LSASS.
+
+URL: https://github.com/bjrjk/CVE-2024-29943/
+Description: Pwn2Own SpiderMonkey JIT Bug (CVE-2024-29943).
+
+URL: https://github.com/ExaTrack/Kdrill
+Description: Python tool to check rootkits in Windows kernel.
+
+URL: https://github.com/JanielDary/ELFieScanner
+Description: Advanced process memory threat detection on Linux.
+
+URL: https://github.com/vxCrypt0r/Voidgate
+Description: A technique that can be used to bypass AV/EDR memory scanners.
+
+URL: https://github.com/zan8in/afrog
+Description: High-performance vulnerability scanner that is fast and stable.
+
+URL: https://github.com/Permiso-io-tools/YetiHunter
+Description: Tool to query snowflake environments for evidence of compromise.
+
+URL: https://github.com/aydinnyunus/PackageSpy
+Description: CLI to search for secrets within packages on popular package managers.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.huli.tw/2024/06/25/en/stop-using-polyfill-io/
+Description: Stop Using cdn.polyfill.io Now.
+
+URL: https://labs.nettitude.com/blog/emulation-with-qiling/
+Description: Emulation with Qiling - HTTP server binary from a router.
+
+URL: https://usmannkhan.com/bug%20reports/2024/06/17/sei-bug-report.html
+Description: Critical bugs in Sei Network layer-1 blockchain.
+
+URL: https://bit.ly/3L4McS0 (+)
+Description: Why nested deserialization is harmful - Magento XXE (CVE-2024-34102).
+
+URL: https://rtx.meta.security/exploitation/2024/06/03/Android-Zygote-injection.html
+Description: Becoming any Android app via Zygote command injection.
+
+URL: https://www.wiz.io/blog/probllama-ollama-vulnerability-cve-2024-37032
+Description: Probllama - Ollama Remote Code Execution Vulnerability (CVE-2024-37032).
+
+URL: https://ynwarcs.github.io/z-btadv-cves
+Description: Two bluetooth vulnerabilities in Windows (CVE-2023-24871/CVE-2023-23388).
+
+URL: https://www.ambionics.io/blog/iconv-cve-2024-2961-p1
+More: https://www.ambionics.io/blog/iconv-cve-2024-2961-p2
+Description: iconv, set the charset to RCE - Exploiting the glibc to hack the PHP engine.
+
+URL: https://bit.ly/4bRs01m (+)
+PoC: https://github.com/yoryio/CVE-2024-27198
+Description: JetBrains TeamCity Multiple AuthN Bypass Vulnerabilities (CVE-2024-27198/99).
+
+URL: https://www.matteomalvica.com/blog/2022/09/22/bypassing-intel-cet-counterfeit-objects/
+More: https://github.com/uf0o/Counterfeit_Object_Oriented_Programming_COOP
+Description: Bypassing Intel CET with Counterfeit Objects.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/HalilDeniz/CryptoChat
+Description: CryptChat - Beyond Secure Messaging.
+
+URL: https://github.com/dragoonDorise/EmuDeck
+Description: Emulator configurator for Steam Deck.
+
+URL: https://bit.ly/4btaZcR (+)
+Description: How I Found A 55 Year Old Bug In The First Lunar Lander Game.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?b12eca0930521601#B7PzHGtKiT9anerfTJ0Isz/8quiolpozj8sKfi5/xPM=
