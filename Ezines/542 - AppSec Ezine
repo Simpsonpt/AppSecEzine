@@ -92,7 +92,8 @@ URL: https://bit.ly/4eHncOb (+)
 Description: Auth Bypass In (Un)Limited Scenarios - Progress MOVEit Transfer (CVE-2024-5806).
 
 URL: https://codeanlabs.com/blog/research/cve-2024-29510-ghostscript-format-string-exploitation/
-Description: Exploiting Ghostscript using format strings (CVE-2024-29510).
+More: https://codeanlabs.com/blog/research/cve-2024-29511-abusing-ghostscripts-ocr-device/
+Description: Exploiting Ghostscript (Series) (CVE-2024-29510/CVE-2024-29511).
 
 URL: https://www.darknavy.org/blog/exploiting_steam_usual_and_unusual_ways_in_the_cef_framework/
 Description: Exploiting Steam - Usual and Unusual Ways in the CEF Framework.
