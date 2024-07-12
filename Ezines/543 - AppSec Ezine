@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 28 | Month: July | Year: 2024 | Release Date: 12/07/2024 | Edition: #543  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://0reg.dev/blog/evernote-rce
+Description: Evernote Remote Code Execution (RCE).
+
+URL: https://spaceraccoon.dev/universal-code-execution-browser-extensions/
+Description: Universal Code Execution by Chaining Messages in Browser Extensions.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://tib3rius.com/sqli
+Description: SQL Injection Cheatsheet.
+
+URL: https://github.com/berylliumsec/nebula
+Description: AI-Powered Ethical Hacking Assistant.
+
+URL: https://github.com/powerexploit/Ashok
+Description: Incredible Fast Recon Swiss Army Knife.
+
+URL: https://github.com/SafeBreach-Labs/CortexVortex
+Description: Command-line tool for managing Cortex XDR.
+
+URL: https://github.com/spyboy-productions/r4ven
+Description: Track User's Smartphone/PC IP And GPS Location.
+
+URL: https://github.com/efeali/fragtunnel
+Description: TCP tunnel tool to tunnel your application's traffic.
+
+URL: https://syntax-err0r.github.io/Silently_Install_Chrome_Extension.html
+Description: Silently Install Chrome Extension For Persistence.
+
+URL: https://github.com/DrunkF0x/ADSpider
+Description: Monitor changes in Active Directory with replication metadata.
+
+URL: https://github.com/fatgrass/OsirisJailbreak12
+Related: https://github.com/xerub/voucher_swap
+Description: iOS 12.0 -> 12.1.2 Incomplete Osiris Jailbreak with CVE-2019-6225.
+
+URL: https://github.com/pycrate-org/pycrate
+Description: Pylib to develop encoders/decoders for various protocols and file formats.
+
+URL: https://dinohacks.com/posts/2024/2024-06-21-dealing-with-api-hashing-using-qiling/
+Description: Dealing With API Hashing Using Qiling in Ghidra.
+
+URL: https://github.com/LuccaSA/PingCastle-Notify
+Description: Monitor your PingCastle scans to highlight the rule diff between two scans.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.elttam.com/blog/plormbing-your-django-orm 
+More: https://www.elttam.com/blog/plorming-your-primsa-orm/
+Description: ORM Leak vulnerabilities (Series).
+
+URL: https://sdomi.pl/weblog/20-pwning-a-labelmaker/
+Description: Pwning a Brother labelmaker, for fun and interop!
+
+URL: https://jprx.io/cve-2024-27815/
+Description: A Buffer Overflow in the XNU Kernel (CVE-2024-27815).
+
+URL: https://bit.ly/45Z7eL8 (+)
+Description: Chaining Three Bugs to Access All Your ServiceNow Data.
+
+URL: https://www.monke.ie/p/exfiltrating-data-from-sandboxed-documents
+Description: Exfiltrating Data from Sandboxed Documents.
+
+URL: https://oddsolutions.github.io/Pixel-Tablet-Dock-Secure-Boot-Bypass/
+Description: Pixel Tablet Dock (korlan) Secure Boot Bypass.
+
+URL: https://bit.ly/3WjFM7Y (+)
+More: https://bit.ly/3VYDzxa (+)
+Description: Exploiting Enterprise Backup Software For Privilege Escalation.
+
+URL: https://frycos.github.io/vulns4free/2024/07/10/dynamics-ups-and-downs.html
+Description: Dynamics 365 Business Central - A Journey With Ups and Downs.
+
+URL: https://www.blastradius.fail
+Description: BlastRADIUS - RADIUS/UDP vulnerable to MD5 chosen-prefix collision attack.
+
+URL: https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world
+Description: An unexpected journey into Microsoft Defender's signature World.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/thaliaarchi/regexp-museum
+Description: Regular Expression Museum.
+
+URL: https://mewy.pw/posts/2024-06-29-why-cant-you-fix-this-one-bug
+Description: Hey why can't you fix this one bug.
+
+URL: https://minimaxir.com/2024/06/pokemon-embeddings/
+Description: The Super Effectiveness of Pokémon Embeddings Using Only Raw JSON and Images.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?7603123e900d5a7b#g+YKUnwm2c6CGyimNH3E9LX72lZiXAv5pUTILMia+TQ=
