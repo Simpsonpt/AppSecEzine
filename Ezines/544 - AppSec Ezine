@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 29 | Month: July | Year: 2024 | Release Date: 19/07/2024 | Edition: #544  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.sonarsource.com/blog/encoding-differentials-why-charset-matters/
+Description: Encoding Differentials - Why Charset Matters.
+
+URL: https://security.lauritz-holtmann.de/advisories/tfh-form_post-xss-ato/
+Description: Sign-in with World ID - XSS and ATO via OIDC Form Post Response Mode.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/aydinnyunus/gpt4-captcha-bypass
+Description: Captcha Bypass using GPT4-o.
+
+URL: https://github.com/Ridter/atexec-pro
+Description: Fileless atexec, no more need for port 445.
+
+URL: https://github.com/tantosec/oneshell/
+Blog: https://tantosec.com/blog/oneshell/
+Description: Linux reverse shell listener/payload generator.
+
+URL: https://github.com/waifuvault/WaifuVault
+Description: WaifuVault is a temporary file hosting service.
+
+URL: https://github.com/exploits-forsale/collateral-damage
+Description: Kernel exploit for Xbox SystemOS using CVE-2024-30088.
+
+URL: https://github.com/mlcsec/Graphpython
+Description: Microsoft Graph API - Enumeration and exploitation toolkit.
+
+URL: https://github.com/CICADA8-Research/IHxExec
+Blog: https://link.medium.com/EPG4AEn0kLb
+Description: Process Injection Alternative - Long Live IHxHelpPaneServer.
+
+URL: https://github.com/daem0nc0re/VectorKernel
+Description: PoCs for Kernelmode rootkit techniques focus on Windows OSs.
+
+URL: https://github.com/SamuelTulach/PwnedBoot
+Description: Using Windows' own bootloader as a shim to bypass Secure Boot.
+
+URL: https://github.com/LucasFaudman/apkscan
+Description: Scan for secrets, endpoints, and other sensitive data on Android APKs.
+
+URL: https://github.com/defparam/lemma
+Description: Py AWS Lambda package and client designed to execute packaged CLI tools.
+
+URL: https://github.com/CICADA8-Research/LogHunter
+Description: Tool to find user sessions by analyzing event log files through RPC (MS-EVEN).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.calif.io/p/type-confusion-attacks-in-prosemirror
+Description: Type confusion attacks in ProseMirror editors.
+
+URL: https://blog.syss.com/posts/voip-deskphone-firmware-security/
+Description: Firmware Security - Alcatel-Lucent ALE-DeskPhone.
+
+URL: https://www.armosec.io/blog/ebpf-reverse-engineering-programs/
+Description: Reverse engineering eBPF programs.
+
+URL: https://bit.ly/3WqVHkS (+)
+Description: Google Cloud Websites Vulnerable to TE.0 HTTP Request Smuggling.
+
+URL: https://bit.ly/3Y4nXLj (+)
+Description: Getting Unauthenticated RCE on the Logsign Unified SecOps Platform.
+
+URL: https://pierrekim.github.io/blog/2024-06-27-toshiba-mfp-40-vulnerabilities.html
+Description: 40 vulnerabilities in Toshiba Multi-Function Printers.
+
+URL: https://summoning.team/blog/progress-whatsup-gold-rce-cve-2024-4885/
+More: https://summoning.team/blog/progress-whatsup-gold-writedatafile-cve-2024-4883-rce/
+Description: WhatsUp Gold Pre-Auth RCE (CVE-2024-4885/CVE-2024-4883).
+
+URL: https://sensepost.com/blog/2024/dumping-lsa-secrets-a-story-about-task-decorrelation/
+Description: Dumping LSA secrets - A story about task decorrelation.
+
+URL: https://blog.quarkslab.com/looking-for-vulnerabilities-in-strapi-cve-2024-34065.html
+Description: Looking for vulnerabilities in Strapi (CVE-2024-34065).
+
+URL: https://intezer.com/blog/incident-response/how-to-analyze-malicious-msi-installer-files/
+Description: How to Analyze Malicious MSI Installer Files.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://santandersecurityresearch.github.io/blog/sshing_the_masses
+Description: The Wild West of Proof of Concept Exploit Code (PoC).
+
+URL: https://hardcidr.com/posts/saladcat/
+Description: Distributed Password Cracking on the Cheap Using Salad Cloud.
+
+URL: https://robertheaton.com/pyskywifi/
+Description: Completely free, unbelievably stupid wi-fi on long-haul flights.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?4db3cd4711840eeb#84u97qshwGCoOrDQzgDuB82zPyZik8SNAMd9QgnUm9g=
