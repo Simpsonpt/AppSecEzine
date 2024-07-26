@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 30 | Month: July | Year: 2024 | Release Date: 26/07/2024 | Edition: #545  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://p0pcycle.com/2024/07/21/i-hacked-a-card-printer-software/
+Description: I hacked a card printer software (CVE-2024-34329).
+
+URL: https://hackerone.com/reports/2371019
+Description: DOM XSS on multiple Automattic domains through postMessages.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/u21h2/nacs
+Description: Event-driven pentest scanner.
+
+URL: https://github.com/parsdefense/CVE-2022-22629/
+Description: Safari <15.4 WebGL BoF PoC (CVE-2022-22629).
+
+URL: https://github.com/omar2535/GraphQLer
+Description: A dependency-aware GraphQL API fuzzing tool.
+
+URL: https://github.com/mrtazz/checkmake
+Description: Experimental tool for linting and checking Makefiles.
+
+URL: https://github.com/mmiszczyk/CVE-2024-33352
+Description: BlueStacks privilege escalation through VM backdooring.
+
+URL: https://github.com/Leo4j/SessionExec
+Description: Execute specified commands in other Sessions on Windows Systems.
+
+URL: https://github.com/Octoberfest7/MemFiles
+Description: CobaltStrike toolkit to write files produced by Beacon to memory.
+
+URL: https://github.com/ElSicarius/chunkloader
+Description: Browser extension to retrieve and load ReactJS chunks all at once.
+
+URL: https://github.com/initstring/cloud_enum
+Description: Enumerate public resources in AWS, Azure, and Google Cloud (OSINT).
+
+URL: https://github.com/vxCrypt0r/AMSI_VEH
+Description: Powershell AMSI Bypass technique via Vectored Exception Handler (VEH).
+
+URL: https://github.com/ClusterM/wg-obfuscator
+Description: Simple obfuscator for WireGuard - Bypass ISP/government traffic blocks.
+
+URL: https://github.com/xpcmdshell/electron-probe
+Description: Abuse Node variant of the Chrome Debugging Protocol to execute JS payloads.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://frereit.de/aes_gcm/
+Description: AES-GCM and breaking it on nonce reuse.
+
+URL: https://bit.ly/4fczvCp (+)
+Description: Injecting Java in-memory payloads for post-exploitation.
+
+URL: https://0xswitch.fr/posts/windows-from-0xc000142-to-login-process
+Description: From 0xc000142 to understanding windows login setup.
+
+URL: https://skii.dev/anki-0day/
+Description: How we hacked Anki, the world's most popular flashcard app.
+
+URL: https://www.aeth.cc/public/Article-Reset-Tolkien/multi-sandwich-article-en.html
+Description: Multi-sandwich attack w/ MongoDB Object ID.
+
+URL: https://bit.ly/4aJmhJZ (+)
+Description: APIs in the LLM Ecosystem - Critical Security Flaws within ChatGPT Ecosystem.
+
+URL: https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase
+More: https://claroty.com/team82/research/pivoting-from-wan-to-lan-synology-bc500-ip-camera
+Description: Pwn2Own - WAN-to-LAN Exploit Showcase.
+
+URL: https://research.checkpoint.com/2024/thread-name-calling-using-thread-name-for-offense/
+Description: Thread Name-Calling – using Thread Name for offense.
+
+URL: https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github
+Description: Anyone can Access Deleted and Private Repository Data on GitHub.
+
+URL: https://zeroed.tech/blog/viewstate-the-unpatchable-iis-forever-day-being-actively-exploited/
+Description: View State, The unpatchable IIS forever day being actively exploited.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/rweather/uwpc
+Description: UW/PC - Unix Windows for PC.
+
+URL: https://strike.fail/
+Description: Failstrike - CrowdStrike outage.
+
+URL: https://github.com/heyman/heynote/
+Description: A dedicated scratchpad for developers.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?809a7e131085d7cb#BnBX1KRkl03WCNE41BvhHsfXwU9hJYRgxT5TNU27quo=
