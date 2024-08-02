@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 31 | Month: August | Year: 2024 | Release Date: 02/08/2024 | Edition: #546  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://gccybermonks.com/posts/github/
+Description: Two vulnerabilities in GitHub Copilot.
+
+URL: https://landaire.net/mitming-the-xbox-360-dashboard-for-rce-and-fun/
+Description: MITMing the Xbox 360 Dashboard for Fun and RCE.
+
+URL: https://gitlab.com/gitlab-org/gitlab/-/issues/461328
+Description: 1-click Account Takeover via XSS in the Code Editor in gitlab.com.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/dogancanbakir/metamaska
+Description: Malevolent payload classifier.
+
+URL: https://github.com/fortra/nanodump
+Description: The swiss army knife of LSASS dumping.
+
+URL: https://github.com/singe/yellow
+Description: A simple binary wrapper for DNS canarytokens.
+
+URL: https://github.com/b1tg/rs_shellcode
+Description: A shellcode runner write in Rust use windows-rs.
+
+URL: https://github.com/p0dalirius/smbclient-ng
+Description: fast and user friendly way to interact with SMB shares.
+
+URL: https://github.com/zan8in/afrog/
+Description: A Security Tool for Bug Bounty, Pentest and Red Teaming.
+
+URL: https://github.com/bb33bb/CVE-2022-2639-PipeVersion
+Description: Linux kernel openvswitch Local Privilege Escalation (CVE-2022-2639).
+
+URL: https://github.com/edgelesssys/ego
+Description: OSS SDK to develop confidential apps in the Go programming language.
+
+URL: https://github.com/ommadawn46/HEVD-BufferOverflowNonPagedPoolNx-Win10-22H2
+Description: Escalating from Low Integrity to SYSTEM via Aligned Chunk Confusion.
+
+URL: https://github.com/CodeXTF2/cobaltstrike-headless
+Description: Turns the headless aggressor client into a functional cobalt strike client.
+
+URL: https://github.com/trustedsec/specula
+Description: Framework to interact w/ implants that runs solo in the context of Outlook.
+
+URL: https://github.com/Idov31/Cronos
+Description: New sleep obfuscation technique leveraging waitable timers to evade mem scanners. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bit.ly/4fuxG3S (+)
+Description: Three ways to get Remote Code Execution in Kafka UI.
+
+URL: https://securityintelligence.com/x-force/little-bug-that-could/
+Description: Racing Round and Round: The Little Bug That Could.
+
+URL: https://blog.ret2.io/2024/07/17/pwn2own-auto-2024-charx-bugs/
+More: https://blog.ret2.io/2024/07/24/pwn2own-auto-2024-charx-exploit/
+Description: Pwn2Own Automotive - CHARX Vulnerability Discovery and Exploit.
+
+URL: https://code-white.com/blog/teaching-the-old-net-remoting-new-exploitation-tricks/
+Description: Teaching the Old .NET Remoting New Exploitation Tricks.
+
+URL: https://blog.quarkslab.com/heap-exploitation-glibc-internals-and-nifty-tricks.html
+Description: Heap exploitation, glibc internals and nifty tricks. 
+
+URL: https://blog.nviso.eu/2024/07/16/punch-card-hacking-exploring-a-mainframe-attack-vector/
+Description: Punch Card Hacking – Exploring a Mainframe Attack Vector.
+
+URL: https://bit.ly/3VjgKoS (+)
+Description: Pivot via OAuth apps across tenants and how to protect/detect w/ MS technology?
+
+URL: https://blog.r0rt1z2.com/hacking-a-2014-tablet-in-2024.html
+Description: Hack and unlock the first MediaTek based Amazon tablet - Amazon Fire HD6/HD7 2014.
+
+URL: https://dirkjanm.io/persisting-with-federated-credentials-entra-apps-managed-identities/
+Description: Persisting on Entra ID apps and User Managed Identities with Federated Credentials.
+
+URL: https://tandasat.github.io/blog/2024/02/29/ISRD.html
+More: https://tandasat.github.io/blog/2024/03/18/ISSR.html
+Description: System Management Mode (SMM) Isolation on Intel platform and interaction w/ Windows.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://withrow.io/simpsons-tv-build-guide
+Description: Simpsons TV Build Guide.
+
+URL: https://github.com/18alantom/fex
+Description: A command-line file explorer prioritizing quick navigation.
+
+URL: https://hckng.org/~isra/articles/house-of-pain.html
+Description: House of Pain - A practical approach for an x86-64 ELF virus.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?0a2fa22c248f7118#CMbokIcAi4O+ROfXhxEsz7equNEh9vOyRy/q+VEOlV0=
