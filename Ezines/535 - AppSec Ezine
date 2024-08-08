@@ -93,6 +93,7 @@ URL: https://insinuator.net/2024/05/linux-character-devices-exploring-systemd-ru
 Description: Linux Character Devices - Exploring systemd-run and pkexec.
 
 URL: https://www.errno.fr/bruteforcing_CVE-2024-23897.html
+More: https://xphantom.nl/posts/crypto-attack-jenkins/
 Description: A case of missing bytes - Bruteforcing your way through Jenkins' CVE-2024-23897.
 
 URL: https://bit.ly/3ymAEXb (+)
