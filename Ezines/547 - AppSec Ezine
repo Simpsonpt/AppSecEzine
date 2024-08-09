@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 32 | Month: August | Year: 2024 | Release Date: 09/08/2024 | Edition: #547  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ndevtk.github.io/writeups/2024/08/01/projectidx/ 
+Description: Google VRP - //idx.google.com Cross Site Scripting (XSS).
+
+URL: https://portswigger.net/research/splitting-the-email-atom
+More: https://github.com/PortSwigger/splitting-the-email-atom
+Description: Splitting the email atom - Exploiting parsers to bypass access controls.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://yasoob.me/posts/breaking-kakasoft-usb-copy-protection/
+Description: Breaking Kakasoft USB Copy Protection.
+
+URL: https://github.com/H1d3r/GPU_ShellCode
+Description: GPU Poisoning - Hide the payload inside the gpu memory.
+
+URL: https://github.com/keywa7/keywa7
+Description: Tool to bypasses the firewall's Application Based Rules.
+
+URL: https://github.com/ameetsaahu/Kernel-exploitation/tree/main/CVE-2019-2215
+Description: Exploit for bad binder CVE-2019-2215 on x86_64 Android.
+
+URL: https://github.com/ergrelet/themida-unmutate
+Description: Static Deobfuscator for Themida, WinLicense and Code Virtualizer 3.x's.
+
+URL: https://github.com/PhrozenIO/Arcane
+Description: PowerShell and Python/QT6 Secure Remote Desktop Application for Windows.
+
+URL: https://github.com/NodeSecure/js-x-ray
+Description: JS/Node.js SAST - Static Analyser to detect most common malicious patterns.
+
+URL: https://github.com/Black-Frost/windows-learning/tree/main/CVE-2024-38054
+Description: Kernel Streaming WOW Thunk Service Driver EoP Vulnerability (CVE-2024-38054).
+
+URL: https://github.com/frkngksl/NimicStack
+Description: Nim implementation of Call Stack Spoofing technique to mimic others programs.
+
+URL: https://github.com/helpsystems/CreateProcess
+Blog: https://www.coresecurity.com/core-labs/articles/creating-processes-using-system-calls
+Description: A small PoC that creates processes in Windows.
+
+URL: https://github.com/punk-security/secret-magpie
+Description: Secret detection tool that hunts out all the secrets hiding in ALL your repos.
+
+URL: https://github.com/daem0nc0re/PrivFu/tree/main/PowerOfTcb
+Description: How to use SeTcbPrivilege a multi purpose privilege to perform token manipulations.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://icode4.coffee/?p=954
+Description: Tony Hawk’s Pro Strcpy.
+
+URL: https://decoder.cloud/2024/08/02/the-fake-potato/
+PoC: https://github.com/MzHmO/LeakedWallpaper
+Description: The "Fake" Potato (CVE-2024-38100).
+
+URL: https://blog.doyensec.com/2024/07/18/custom-actions.html
+Description: Windows Installer, Exploiting Custom Actions.
+
+URL: https://margin.re/2024/07/you-cant-spell-webrtc-without-rce-part-1/
+More: https://margin.re/2024/07/you-cant-spell-webrtc-without-rce-part-2/
+Description: You Can't Spell WebRTC without RCE.
+
+URL: https://bit.ly/3AgWrQV (+)
+Description: Bypassing Browser Tracking Protection for CORS Misconfiguration Abuse.
+
+URL: https://whiteknightlabs.com/2024/07/31/layeredsyscall-abusing-veh-to-bypass-edrs/
+Description: LayeredSyscall – Abusing VEH to Bypass EDRs.
+
+URL: https://www.elastic.co/security-labs/dismantling-smart-app-control
+PoC: https://github.com/joe-desimone/rep-research
+Description: Dismantling Smart App Control - New Initial Access and Evasion Techniques.
+
+URL: https://www.synacktiv.com/en/publications/github-actions-exploitation-dependabot.html
+Description: GitHub Actions exploitation - Dependabot.
+
+URL: https://ghostwriteattack.com/
+Description: Critical CPU bug that compromises all security isolations on affected RISC-V.
+
+URL: https://claroty.com/team82/research/from-exploits-to-forensics-unraveling-the-unitronics-attack
+Description: From Exploits to Forensics - Unraveling the Unitronics Attack.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://wordtsar.ca/
+Description: Wordstar for the 21st Century.
+
+URL: https://github.com/mlfoundations/dclm
+Description: Framework designed to build and train LLMs with diverse datasets.
+
+URL: https://clownstrike.lol/
+Description: Your Premier EDR (Endpoint Destruction and Razing) Partner Since 2024!
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?db6ef55d928f73ca#Yoj67ABAMK22fbyeh03fCHNd4QKeuXPGtXUfGtRBlCE=
