@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 33 | Month: August | Year: 2024 | Release Date: 16/08/2024 | Edition: #548  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ndevtk.github.io/writeups/2024/08/01/awas/ 
+Description: Android web attack surface.
+
+URL: https://bit.ly/3Ao3eIp (+)
+Description: Listen to the whispers - Web Timing Attacks that Actually Work.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/emsec/hal
+Description: The Hardware Analyzer.
+
+URL: https://github.com/whad-team/whad-client
+Description: Wireless Hacking Devices Protocol client.
+
+URL: https://github.com/gdbinit/fuckyouilfak
+Description: A IDA Pro 9.0 Beta 2 macOS x86 Fix Loader.
+
+URL: https://github.com/Lissy93/web-check
+Description: All-in-one OSINT tool for analysing any website.
+
+URL: https://github.com/nxenon/h2spacex
+Description: HTTP/2 Single Packet Attack low Level Library/Tool.
+
+URL: https://bit.ly/3WM8Zay (+)
+Description: SSH Tunnelling to Punch Through Corporate Firewalls.
+
+URL: https://github.com/tenzir/tenzir
+Description: Tenzir is the data pipeline engine for security teams.
+
+URL: https://github.com/VoldeSec/PatchlessCLRLoader
+Description: .NET assembly loader with patchless AMSI and ETW bypass.
+
+URL: https://github.com/ricardojoserf/TrickDump
+More: https://ricardojoserf.github.io/trickdump/
+Description: TrickDump - Dump lsass without generating a Minidump file.
+
+URL: https://github.com/klezVirus/DriverJack
+Description: Hijacking Driver Services to Load Arbitrary (signed) Drivers.
+
+URL: https://github.com/BatchDrake/SigDigger
+Description: Qt-based digital signal analyzer using Suscan core and Sigutils DSP library.
+
+URL: https://github.com/CCob/Shwmae
+Description: Abuse Windows Hello (Biometric Authentication) from a Privileged User Context.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://rya.nc/vpp-hack.html
+Description: Hacking a Virtual Power Plant.
+
+URL: https://seri.tools/blog/ida-72-password/
+Description: How IDA 7.2's installer password was found.
+
+URL: https://landaire.net/reflective-pe-loader-for-xbox/
+Description: Writing a PE Loader for the Xbox in 2024.
+
+URL: https://bit.ly/3X3UAb3 (+)
+Description: From Object Transition to RCE in the Chrome Renderer.
+
+URL: https://jjensn.com/at-home-in-your-firmware/
+Description: At Home In Your Firmware - Analysis of CVE-2024-36877.
+
+URL: https://adepts.of0x.cc/css-history-leaks/
+Description: Mixing watering hole attacks with history leak via CSS.
+
+URL: https://bit.ly/3X1R7K1 (+)
+Description: Living off the VPN — Exploring VPN Post-Exploitation Techniques.
+
+URL: https://www.asymmetric.re/blog/evmos-precompile-state-commit-infinite-mint
+Description: Evmos Precompile State Commit Infinite Mint.
+
+URL: https://blog.syss.com/posts/hacking-a-secure-industrial-remote-access-gateway/
+Description: Hacking a Secure Industrial Remote Access Gateway.
+
+URL: https://blog.orange.tw/2024/08/confusion-attacks-en.html
+Description: Confusion Attacks - Exploiting Hidden Semantic Ambiguity in Apache HTTP Server!
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://pool.pyblock.xyz/
+Description: It's Over 90666502495565.78!
+
+URL: https://github.com/toniebox-reverse-engineering
+Description: Toniebox Reverse Engineering.
+
+URL: https://pacibsp.github.io/2024/why-exploits-prefer-memory-corruption.html
+Description: Why exploits prefer memory corruption.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?d96604f2a84ec7bd#ZfJzuROWFk8dnSgtqia/XX5Bp0wjQ840hUHBbrbOp+w=
