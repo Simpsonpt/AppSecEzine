@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 34 | Month: August | Year: 2024 | Release Date: 23/08/2024 | Edition: #549  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://portswigger.net/research/gotta-cache-em-all
+Description: Gotta cache 'em all - Bending the rules of web cache exploitation.
+
+URL: https://bit.ly/3WX0ZU1 (+)
+Description: Persistent XSS on Microsoft Bing.com by poisoning Bingbot indexing.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/fiddyschmitt/File-Tunnel
+Description: Tunnel TCP connections through a file.
+
+URL: https://github.com/0xanuj/blinks
+Description: Blinks - Burp Headless Scanning Tool and More.
+
+URL: https://github.com/helviojunior/shellcodetester
+Description: An application to test windows and linux shellcodes.
+
+URL: https://github.com/xvzc/SpoofDPI
+Description: A simple and fast anti-censorship tool written in Go.
+
+URL: https://github.com/zer0condition/ZeroHVCI
+Description: Defeating HVCI without admin privileges or a kernel driver.
+
+URL: https://github.com/SafeBreach-Labs/WindowsDowndate
+Description: Tool to go over Windows Updates and craft custom downgrades.
+
+URL: https://github.com/jokob-sk/NetAlertX
+Description: Network scanner and notification framework  (WIFI/LAN Intruder Detector).
+
+URL: https://sploitify.haxx.it/
+Description: Interactive cheat sheet with a curated list of public server-side exploits.
+
+URL: https://github.com/oauth2-proxy/oauth2-proxy
+Description: OAuth2 Reverse Proxy to provides AuthN w/ Google/Azure/OpenID Connect and more. 
+
+URL: https://github.com/AdnaneKhan/Gato-X
+Description: Automate advanced enumeration and exploitation techniques against GitHub repos. 
+
+URL: https://github.com/DependencyTrack/dependency-track
+Description: Component Analysis Platform to Identify/Reduce risks in the software supply chain. 
+
+URL: https://github.com/PwC-IR/Office-365-Extractor
+Description: Tool to complete and reliable extraction of the Office 365 Unified Audit Log (UAL).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://soez.github.io/posts/CVE-2022-22265-Samsung-npu-driver/
+Description: Samsung NPU device driver double free (CVE-2022-22265).
+
+URL: https://snyk.io/blog/repo-jacking-the-great-source-code-swindle/
+Description: Repo Jacking against Composer and Terraform Registries.
+
+URL: https://www.elastic.co/security-labs/grimresource
+Related: https://bit.ly/3SYfIgk (+)
+Description: Microsoft Management Console for initial access and evasion.
+
+URL: https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/
+Description: Code Execution in Chromium's V8 Heap Sandbox.
+
+URL: https://itm4n.github.io/ghost-in-the-ppl-part-1/
+More: https://itm4n.github.io/ghost-in-the-ppl-part-2/
+Description: Ghost in the PPL - BYOVDLL and Arbitrary Code Execution in LSASS.
+
+URL: https://www.tenable.com/blog/ssrfing-the-web-with-the-help-of-copilot-studio
+Description: SSRFing the Web with the help of Copilot Studio.
+
+URL: https://link.medium.com/OcqvQM1TULb 
+Description: Understanding the Process Environment Block (PEB) for Malware Analysis.
+
+URL: https://wack0.github.io/dubiousdisk/
+Description: Dubious Disk - The porygon-z that's super effective against secure boot!
+
+URL: https://oldboy21.github.io/posts/2024/02/reflective-dll-got-indirect-syscall-skills/
+Description: Reflective DLL got Indirect Syscall skills.
+
+URL: https://bit.ly/3YR1f9J (+)
+Tool: https://github.com/synacktiv/SCCMSecrets
+Description: Exploiting SCCM policies distribution for Creds Harvesting/Initial Access/LM.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://esolangs.org/wiki/
+Description: Esoteric Programming Languages Wiki!
+
+URL: https://build-your-own.org/blog/20240813_css_vertical_center/
+Description: CSS finally adds vertical centering in 2024.
+
+URL: https://github.com/supabase-community/babelfish.ai
+Description: A Browser Realtime, Live Transcription and Translation application.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?efb14e8a54f36090#l4JmqqfZmvhOlcMbub7HL1jKMIf86Kt6vFyCQ/y/8Gc=
