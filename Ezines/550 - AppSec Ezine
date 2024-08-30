@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 35 | Month: August | Year: 2024 | Release Date: 30/08/2024 | Edition: #550  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ian.sh/tsa
+Description: Bypassing airport security via SQL injection.
+
+URL: https://bit.ly/3X4tQWE (+)
+Description: Expanding single-packet race condition w/ a first sequence sync.
+
+URL: https://bit.ly/3XqTqpd (+)
+Description: Microsoft Copilot - From Prompt Injection to Exfiltration of PII.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/BeichenDream/SharpToken
+Description: Windows Token Stealing Expert.
+
+URL: https://github.com/seekbytes/IPA/
+Description: GUI analyzer for deep-diving into PDF files.
+
+URL: https://github.com/audioo/bitcrook
+Description: Centralize and expedite OSINT investigations.
+
+URL: https://github.com/qi4L/JYso
+Description: It can be either a JNDIExploit or a ysoserial.
+
+URL: https://github.com/zeze-zeze/NamedPipeMaster
+Description: Tool used to analyze and monitor in named pipes.
+
+URL: https://github.com/ANDRVV/gapcast
+Description: An IEEE 802.11 packet injector and analyzer software.
+
+URL: https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/
+Description: Inspecting Web Views in macOS.
+
+URL: https://github.com/REDMED-X/OperatorsKit
+More: https://github.com/Patrick0x41/BOF_All_Things
+Description: Collection of Beacon Object Files (BOF) for Cobalt Strike.
+
+URL: https://github.com/badsectorlabs/sccm-http-looter
+Description: Find interesting files stored on SCCM/CM shares via HTTP(s).
+
+URL: https://github.com/mistymntncop/CVE-2024-5274
+Description: Type Confusion in V8 in Google Chrome prior to 125.0.6422 (CVE-2024-5274).
+
+URL: https://github.com/Malcrove/SeamlessPass
+Blog: https://malcrove.com/seamlesspass-leveraging-kerberos-tickets-to-access-the-cloud/
+Description: Tool to leverage Kerberos tickets to get MS365 access tokens via SSO.
+
+URL: https://github.com/nixpal/shellsilo
+Description: Tool to translates C syntax into syscall assembly and corresponding shellcode.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://sector7.computest.nl/post/2024-08-pwn2own-automotive-juicebox-40/
+Description: Pwn2Own Automotive 2024 - Hacking the JuiceBox 40.
+
+URL: https://bit.ly/475GFoc (+)
+Description: Critical Cross-Site Scripting Vulnerability in Roundcube Webmail.
+
+URL: https://v-v.space/2024/08/23/CVE-2024-29050/
+Description: Introduction to Windows Cryptographic Services RCE (CVE-2024-29050).
+
+URL: https://www.rcesecurity.com/2024/08/wordpress-givewp-pop-to-rce-cve-2024-5932/
+Description: WordPress GiveWP POP to RCE (CVE-2024-5932).
+
+URL: https://pierrekim.github.io/blog/2024-06-27-sharp-mfp-17-vulnerabilities.html
+Description: 17 vulnerabilities in Sharp Multi-Function Printers.
+
+URL: https://labs.taszk.io/blog/post/93_rlc_bof/
+Description: Samsung Baseband RLC Data Re-Assembly Buffer Overflow (CVE-2023-41111).
+
+URL: https://blog.whiteflag.io/blog/from-windows-drivers-to-a-almost-fully-working-edr/
+Description: From Windows drivers to a almost fully working EDR.
+
+URL: https://soroush.me/blog/2024/06/mongodb-nosql-injection-with-aggregation-pipelines/
+Description: MongoDB NoSQL Injection with Aggregation Pipelines.
+
+URL: https://www.synacktiv.com/publications/github-actions-exploitation-introduction.html
+More: https://www.synacktiv.com/publications/github-actions-exploitation-untrusted-input
+Description: GitHub Actions Exploitation - Introduction and Untrusted Input.
+
+URL: https://www.crowdfense.com/windows-applocker-driver-lpe-vulnerability-cve-2024-21338/
+Description: Windows AppLocker Driver LPE Vulnerability (CVE-2024-21338).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://www.file-hunter.com/Arabic/
+Description: Every ROM of the Arabic MSX.
+
+URL: https://github.com/tragdate/ttytok
+Description: Live Tiktok Watcher Application for TTY/CLI.
+
+URL: https://adsbexchange.com/
+Description: The world’s largest community of unfiltered ADS-B/Mode S/MLAT feeders.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?487a383bbafec26c#tU5ICP+ryI27hr5m5DNMNfyCnirm8h9OLXaNv3yklXE=
