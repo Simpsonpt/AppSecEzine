@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 36 | Month: September | Year: 2024 | Release Date: 06/09/2024 | Edition: #551 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/9tfEHi8kBMb 
+Description: Remote Code Execution (RCE) Through Monitoring Debug Mode. 
+
+URL: https://blog.redteam-pentesting.de/2024/moodle-rce/
+Description: Back to School - Exploiting a Remote Code Execution Vulnerability in Moodle.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/danmar/cppcheck
+Description: Static analysis of C/C++ code.
+
+URL: https://github.com/CICADA8-Research/MyMSIAnalyzer
+Blog: https://link.medium.com/UYcDqYmiBMb
+Description: Analyse MSI files for vulnerabilities.
+
+URL: https://github.com/promptfoo/promptfoo
+Description: Tool for testing, evaluating, and red-teaming LLM apps.
+
+URL: https://github.com/helviojunior/hookchain/
+Description: HookChain - A new perspective for Bypassing EDR Solutions.
+
+URL: https://trustedsec.com/blog/weaponizing-group-policy-objects-access
+Description: Weaponizing Group Policy Objects Access.
+
+URL: https://syntax-err0r.github.io/Silently_Install_Chrome_Extension.html
+Description: Silently Install Chrome Extension For Persistence.
+
+URL: https://github.com/arkime/arkime
+Description: Large scale, open-source network analysis and packet capture system.
+
+URL: https://github.com/praetorian-inc/goffloader
+Description: A pure Go implementation of an in-memory COFFLoader (and PE loader).
+
+URL: https://github.com/lypd0/DeadPotato
+Description: Windows Privilege Escalation utility from the Potato family of exploits.
+
+URL: https://github.com/mvt-project/mvt/
+Description: Mobile Verification Toolkit (MVT) helps with forensics of mobile devices.
+
+URL: https://github.com/nullenc0de/gofuzz
+Description: Tool to recursively processes JavaScript files to extract URLs and secrets.
+
+URL: https://github.com/secureworks/BAADTokenBroker
+Description: Post-exploitation tool to leverage device-stored keys to AuthN in MS Entra ID.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://ninjalab.io/eucleak/
+Description: Side-Channel Attack on the YubiKey 5 Series.
+
+URL: https://0mwindybug.github.io/RansomGuard/
+PoC: https://github.com/0mWindyBug/RansomGuard
+Description: RansomGuard - An Anti-Ransomware Filter Driver.
+
+URL: https://sensepost.com/blog/2024/from-a-glpi-patch-bypass-to-rce/
+Description: From a GLPI patch bypass to RCE.
+
+URL: https://n0psn0ps.github.io/2024/06/27/A-Short-Tale-of-Sysctl/
+More: https://n0psn0ps.github.io/2024/08/31/Peeling-Back-the-Layers/
+Description: A Short Tale of Sysctl - Peeling Back the Layers of an Onion.
+
+URL: https://summoning.team/blog/progress-whatsup-gold-sqli-cve-2024-6670/
+PoC: https://github.com/sinsinology/CVE-2024-6670
+Description: Exploiting Pre-Auth SQL Injection in WhatsUp Gold (CVE-2024-6670).
+
+URL: https://bit.ly/3XHJSaJ (+)
+Description: SolarWinds Security Event Manager AMF deserialization RCE (CVE-2024-0692).
+
+URL: https://bit.ly/3ZeX4oC (+)
+Description: OpenNMS Vulnerabilities - Securing Code against Attackers' Unexpected Ways.
+
+URL: https://ii4gsp.github.io/cve-2020-27786/
+Description: Race Condition + UaF in MIDI devices in Linux Kernel 5.6.13 (CVE-2020-27786).
+
+URL: https://kittenlabs.de/blog/2024/08/31/wifi-auth-with-osmohlr/sim-cards/
+Description: Using WPA-Enterprise w/ EAP-SIM to authenticate against a network using SIM cards.
+
+URL: https://www.praetorian.com/blog/compromising-bytedances-rspack-github-actions-vulnerabilities/
+Description: Compromising ByteDance's Rspack using GitHub Actions Vulnerabilities.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/nevesnunes/z80-sans
+Description: OpenType font that disassembles Z80 instructions.
+
+URL: https://d3ward.github.io/toolz/adblock
+Description: Tool allows you to check if your adblock solution is blocking enough hosts.
+
+URL: https://github.com/TheR1D/shell_gpt
+Description: CLI to streamline generation of shell commands, code snippets and documentation.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?35a7d0ccea5c0ccf#24RkZHUKlSmZj1WAiSpa4n041KzWmyfzmM0/NLfyAok=
