@@ -100,6 +100,7 @@ URL: https://www.blastradius.fail
 Description: BlastRADIUS - RADIUS/UDP vulnerable to MD5 chosen-prefix collision attack.
 
 URL: https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world
+More: https://blog.deeb.ch/posts/avred-update/
 Description: An unexpected journey into Microsoft Defender's signature World.
 
 
