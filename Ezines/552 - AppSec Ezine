@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 37 | Month: September | Year: 2024 | Release Date: 13/09/2024 | Edition: #552 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/4e1QbeJ (+)
+Description: 0-Click TikTok Account Takeover Vulnerabilities, 2FA Bypass and More.
+
+URL: https://blog.huli.tw/2024/09/07/en/idek-ctf-2024-iframe/ 
+Description: Mix iframe, sandbox, CSP, navigation, session history and policy container.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/shaddy43/BrowserSnatch
+Description: Browser Data Extraction Tool.
+
+URL: https://github.com/atenreiro/opensquat
+Description: Domain Squatting and Phishing Watchdog.
+
+URL: http://sh4dy.com/2024/08/03/beetracer/
+Description: Writing a system call tracer using eBPF.
+
+URL: https://github.com/androguard/goauld
+Description: Dynamic injection tool for Linux/Android.
+
+URL: https://bit.ly/4gqdzV4 (+)
+Description: Emulating Android native libraries using unidbg.
+
+URL: https://github.com/synacktiv/kcmdump
+Description: Dump Kerberos tickets from the KCM database of SSSD.
+
+URL: https://github.com/synacktiv/octoscan
+Description: Static vulnerability scanner for GitHub action workflows.
+
+URL: https://github.com/elastic/HexForge
+Description: IDA plugin extends the functionality of the assembly and hex view.
+
+URL: https://badoption.eu/blog/2023/01/31/code_c2.html
+Description: Let's Go (VS) Code - The Microsoft signed and hosted Reverse Shell.
+
+URL: https://github.com/Mr-xn/CVE-2024-36401
+Description: RCE Vulnerability in evaluating property name expressions in Geoserver.
+
+URL: https://github.com/ninpwn/DD-Oriented-Programming
+Blog: https://www.00xbyte.com/posts/dd-oriented-programing/
+Description: Generic way to inject arbitrary code via a malicious shared object library.
+
+URL: https://github.com/stivenhacker/GhostStrike
+Description: Deploy stealthy reverse shells via advanced process hollowing w/ GhostStrike.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/WMH2vK1AMMb
+Description: Decrypting and Replaying VPN Cookies.
+
+URL: https://brunopincho.github.io/dllMemoryScanner/
+Description: Companion scanner for mockingjay injection.
+
+URL: https://www.wietzebeukema.nl/blog/why-bother-with-argv0
+Description: Why bother with argv[0]?
+
+URL: https://www.labs.greynoise.io/grimoire/2024-08-20-bluuid-firewalla/
+PoC: https://github.com/xen0bit/fwbt
+Description: BLUUID - Firewallas, Diabetics, And... Bluetooth.
+
+URL: https://ipurple.team/2024/09/10/browser-stored-credentials/
+Description: Browser Stored Credentials.
+
+URL: https://bit.ly/4dYfLRL (+)
+Description: Raising Beacons without UDRLs and Teaching them How to Sleep.
+
+URL: https://link.medium.com/gSNLNQWRPMb 
+Description: 0-Click Calendar invite — Critical Vulnerability chain in macOS.
+
+URL: https://edermi.github.io/post/2024/mfa_bypass_mtls/
+Description: When Certificates Fail - A Story of Bypassed MFA in Remote Access.
+
+URL: https://bit.ly/3zgG9r0 (+)
+Description: Hybrid Attack Paths, New Views and your favorite dog learns an old trick.
+
+URL: https://hulkvision.github.io/blog/javascript-interface/exploiting-javascript-interface/
+Description: Exploiting Android JS Interface for Unauthorized Access in a Crypto Exchange.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://gist.github.com/lelegard/0e257510057bea59738422ae871213e8
+Description: Installing Windows 10 "built-in" SSH Server.
+
+URL: https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/
+Description: Extreme Pi Boot Optimization.
+
+URL: https://banyaszvonat.github.io/breaking-videogames/
+Description: For those who can't play a video game without dissecting it.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?ec73537f2e2d4de0#Hmb4lUU6oyBFbm3QMe+ySSGXs/ulcgi0tUW9Owm+EmQ=
