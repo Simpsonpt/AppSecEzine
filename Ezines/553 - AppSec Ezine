@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 38 | Month: September | Year: 2024 | Release Date: 20/09/2024 | Edition: #553 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/
+Description: Using YouTube to steal your files.
+
+URL: https://fortbridge.co.uk/research/feeld-dating-app-nudes-data-publicly-available/
+Description: Feeld dating app - Your nudes and data were publicly available.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/TaurusOmar/psobf
+Description: PowerShell Obfuscator.
+
+URL: https://github.com/w1th4d/JarPlant
+Description: Java Archive Implant Toolkit.
+
+URL: https://github.com/MatheuZSecurity/ModTracer
+Description: ModTracer Finds Hidden Linux Kernel Rootkits.
+
+URL: https://github.com/cilium/cilium
+Description: eBPF-based Networking, Security, and Observability.
+
+URL: https://github.com/DataDog/grimoire
+Description: Generate datasets of cloud audit logs for common attacks.
+
+URL: https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet
+Description: URL validation bypass cheat sheet.
+
+URL: https://github.com/bearer/bearer
+Description: SAST to discover, filter and prioritize security and privacy risks.
+
+URL: https://github.com/0xv1n/RemoteSessionEnum
+Blog: https://0xv1n.github.io/posts/sessionenumeration/
+Description: Remotely Enumerate sessions using undocumented Windows Station APIs.
+
+URL: https://github.com/Chocapikk/CVE-2024-8504
+Description: VICIdial Unauthenticated SQLi to RCE Exploit (CVE-2024-8503/CVE-2024-8504).
+
+URL: https://github.com/S3N4T0R-0X0/BEAR
+Description: Dump of C2 scripts/payloads/stagers used in simulated attacks by APT groups.
+
+URL: https://github.com/BlackSnufkin/NyxInvoke
+Description: Run .NET assemblies, PowerShell and BOFs w/ Patchless AMSI/ETW bypass features.
+
+URL: https://github.com/I-CAN-hack/automotive-compilers
+Description: Dockerfiles for building the GCC toolchain for common automotive architectures. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://redrays.io/blog/sap-hash-cracking-techniques/
+Description: SAP Hash Cracking Techniques.
+
+URL: https://haymiz.dev/security/2024/09/07/deserialization-attacks/
+Description: Exploring Deserialization Attacks and Their Effects.
+
+URL: https://bit.ly/4guJ00k (+)
+Description: Defend against vampires with 10 gbps network encryption.
+
+URL: https://binarysecurity.no/posts/2024/09/apim-privilege-escalation
+Description: Escalating from Reader to Contributor in Azure API Management.
+
+URL: https://link.medium.com/siru5XKq1Mb
+More: https://link.medium.com/t64J1TOq1Mb | https://link.medium.com/ZY651wQq1Mb 
+Description: Fuzzing "netconsd" for fun and profit (Series).
+
+URL: https://blog.compass-security.com/2024/09/three-headed-potato-dog/
+Description: Three-Headed Potato Dog.
+
+URL: https://summoning.team/blog/ivanti-epm-cve-2024-29847-deserialization-rce/
+Description: Ivanti Endpoint Manager (EPM) Pre-Auth RCE (CVE-2024-29847).
+
+URL: https://blog.quarkslab.com/exploiting-chamilo-during-a-red-team-engagement.html
+Description: Exploiting Chamilo during a Red Team engagement.
+
+URL: https://bit.ly/3XQbs5E (+)
+Description: We Spent $20 To Achieve RCE And Accidentally Became The Admins Of .MOBI.
+
+URL: https://blog.jacobstechtavern.com/p/jailbreak-enemies-with-a-link-remote-execution
+Description: Jailbreak your Enemies with a Link - Remote Execution on iOS.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/dawsonjon/PicoRX
+Description: Build a SDR SW/MW/LW Receiver with a Raspberry Pi Pico.
+
+URL: https://gwenneg.com/2024/08/17/blogging-with-minimal-effort.html
+Description: Blogging on GitHub Pages with minimal effort.
+
+URL: https://oliviagallucci.com/how-does-os-affect-binary-exploitation/
+Description: How does OS affect binary exploitation.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?02fdf361337ed7f9#IEEd1BqLFU+6AHA3n+jq6pwm8qf0LoQGw1GFqZaflV8=
