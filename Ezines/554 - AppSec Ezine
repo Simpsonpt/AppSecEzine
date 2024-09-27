@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 39 | Month: September | Year: 2024 | Release Date: 27/09/2024 | Edition: #554 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://kibty.town/blog/arc/
+Description: Arc Browser Remote Code Execution in JavaScript Boosts (CVE-2024-45489).
+
+URL: https://seanpesce.blogspot.com/2024/09/exploiting-android-client-webviews-with.html
+Description: Exploiting Android Client WebViews with Help from HSTS.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/g0ldencybersec/gungnir
+Description: CT Log Scanner.
+
+URL: https://github.com/aquasecurity/tracee
+Description: Container and system event tracing using eBPF.
+
+URL: https://github.com/Whitecat18/Rust-for-Malware-Development
+Description: Rust for Malware Development.
+
+URL: https://github.com/rweijnen/createdump
+Description: Leverage WindowsApp createdump tool to obtain an lsass dump.
+
+URL: https://github.com/pmacct/pmacct
+Description: Small set of multi-purpose passive network monitoring tools.
+
+URL: https://github.com/RedTeamPentesting/watchguard-sso-client
+Blog: https://www.redteam-pentesting.de/en/advisories/rt-sa-2024-006/
+Description: Client Implementation for the WatchGuard SSO Agent Protocol.
+
+URL: https://hashlookup.circl.lu/
+Blog: https://www.foo.be/2024/09/Improve_Your_Forensic_Analyses_with_hashlookup
+Description: Public API to lookup hash values against known database of files.
+
+URL: https://github.com/NodyHub/zipslipper
+Description: Create tar/zip archives that try to exploit zipslip vulnerability.
+
+URL: https://github.com/x90skysn3k/brutespray
+Description: Brute-Forcing from Nmap output (attempts default creds on found services).
+
+URL: https://github.com/cddmp/enum4linux-ng
+Description: A next generation version of enum4linux (a Windows/Samba enumeration tool).
+
+URL: https://github.com/tomasz-lisowski/simurai
+Description: Platform designed for security-focused SIM exploration and experimentation. 
+
+URL: https://github.com/Aegrah/PANIX
+Description: Customizable Linux Persistence Tool for Research and Detection Engineering.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.alxndrsn.com/2024-08-01-npx-binary-confusion/
+Description: Squatting npm for Remote Code Execution.
+
+URL: https://androidoffsec.withgoogle.com/posts/binder-internals/
+Description: Android Binder Internals.
+
+URL: https://ianspence.com/blog/2024-09/github-email-hijack/
+Description: GitHub Notification Emails Hijacked to Send Malware.
+
+URL: https://alfiecg.uk/2024/09/24/Kernel-exploit.html
+PoC: https://github.com/alfiecg24/Vertex
+Description: A step-by-step guide to writing an iOS kernel exploit.
+
+URL: https://bit.ly/3ZzeCff (+)
+Description: A Journey From sudo iptables To Local Privilege Escalation.
+
+URL: https://bit.ly/3BkQm6r (+)
+Description: UnOAuthorized - Privilege Elevation Through Microsoft Applications.
+
+URL: https://telescope.ac/petazzoni/kl9ki6zsn62bsb03l694dz
+Description: Open to Exploitation - The Security Risks of Unauthenticated Pager Networks.
+
+URL: https://swarm.ptsecurity.com/discovering-domains-via-a-time-correlation-attack/
+Description: Discovering Domains via a Time-Correlation Attack on Certificate Transparency.
+
+URL: https://blog.includesecurity.com/2024/09/vulnerabilities-in-open-source-c2-frameworks/
+Description: Vulnerabilities in Open Source C2 Frameworks.
+
+URL: https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/
+Description: Ruby-SAML pwned by XML signature wrapping attacks.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://bug.directory/
+Description: Searchable Obsidian Vault.
+
+URL: https://github.com/WinampDesktop/winamp
+Description: Winamp (Close) Source Code.
+
+URL: https://gist.github.com/mildsunrise/60a516da83d448ba1363a7deac361515
+Description: A Brainfuck interpreter, written in Whitespace.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?2790175afead7613#0jQbXiqrTrLHMsGK/5hAR8064alpy1YaNyiuQCmTTfU=
