@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 40 | Month: October | Year: 2024 | Release Date: 04/10/2024 | Edition: #555 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://alexsci.com/blog/smtp-downgrade-attacks-and-mta-sts/
+Description: SMTP Downgrade Attacks and MTA-STS.
+
+URL: https://bit.ly/4gLL4kH (+)
+Description: Overriding Referrer-Policy and abusing endpoint-reuse to achieve XS leak.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Lucksi/Darkus
+Description: A Onion websites searcher.
+
+URL: https://github.com/jmpsec/osctrl
+Description: Fast and efficient OSQuery management.
+
+URL: https://github.com/trickster0/NamelessC2
+Description: A C2 with all its components written in Rust.
+
+URL: https://github.com/unclecode/crawl4ai
+Description: Open-source LLM Friendly Web Crawler & Scrapper.
+
+URL: https://github.com/m8sec/nullinux
+Description: Tool for Linux to enumerate OS information through SMB.
+
+URL: https://github.com/WithSecureLabs/chainsaw
+Description: Rapidly Search and Hunt through Windows Forensic Artefacts.
+
+URL: https://github.com/piotrbania/frida_usb_dump
+Description: Frida script that allows sniff and dump USB traffic on macOS.
+
+URL: https://github.com/passtheticket/CVE-2024-38200
+Description: Microsoft Office NTLMv2 Disclosure Vulnerability (CVE-2024-38200).
+
+URL: https://github.com/latte-soft/kartlanpwn
+Description: Mario Kart 8 Deluxe's "KartLANPwn" Buffer Overflow (CVE-2024-45200).
+
+URL: https://github.com/madneal/gshark
+Description: OSINT tool to scan for sensitive information easily and effectively.
+
+URL: https://github.com/tclahr/uac
+Description: Tool that uses LOLBins to automate the collection of multi OSs artifacts.
+
+URL: https://github.com/un4ckn0wl3z/PCIE-Detector
+Description: Windows kernel driver to detect DMA devices via Vendor/Device ID signatures.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://gatari.dev/posts/the-art-of-exploiting-ad-from-linux/
+Description: The Art of Exploiting Active Directory from Linux.
+
+URL: https://lolcads.github.io/posts/2024/09/bytecode_exploitation_0/
+More: https://lolcads.github.io/posts/2024/09/bytecode_exploitation_1/
+Description: Android Bytecode Exploitation (Series).
+
+URL: https://bit.ly/3Ndl2t7 (+)
+Description: A Deep Dive into the CoSoSys EndPoint Protector Exploit (RCE).
+
+URL: https://blog.convisoappsec.com/en/analysis-of-cve-2024-43044/
+Description: From file read to RCE in Jenkins through agents (CVE-2024-43044).
+
+URL: https://blog.doyensec.com/2024/10/02/class-pollution-ruby.html
+Description: Class Pollution in Ruby - A Deep Dive into Exploiting Recursive Merges.
+
+URL: https://link.medium.com/wdKptF2dnNb 
+Description: Entra ID Stealth Persist/PE via Federated AuthN Secondary Token-signing Cert.
+
+URL: https://bit.ly/3zLKClL (+)
+Description: Insecurity through Censorship - Vulnerabilities Caused by The Great Firewall.
+
+URL: https://0dr3f.github.io/Demystifying_Physical_Memory_Primitive_Exploitation_on_Windows
+Description: Demystifying Physical Memory Primitive Exploitation on Windows.
+
+URL: https://blog.compass-security.com/2024/10/com-cross-session-activation/
+More: https://blog.compass-security.com/2024/09/three-headed-potato-dog/
+Description: PE via Insufficient data validation in Updater in Google Chrome (CVE-2024-7023).
+
+URL: https://www.synacktiv.com/en/publications/fuzzing-confused-dependencies-with-depfuzzer.html
+Description: Fuzzing confused dependencies with Depfuzzer.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/maaslalani/nap
+Description: Code snippets in your terminal.
+
+URL: https://github.com/i-am-shodan/USBArmyKnife
+Description: USB Army Knife. 
+
+URL: https://www.malwaregallery.com/
+Description: Malware Gallery - A Journey Through Time.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?439be34758ac9288#wKUgkSIZjk7uLcFJOz0D3wcz/C0PjMt0tvSaETZJsMs=
