@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 41 | Month: October | Year: 2024 | Release Date: 11/10/2024 | Edition: #556 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/4eD2z59 (+)
+Description: Why Code Security Matters - Even in Hardened Environments.
+
+URL: https://bit.ly/3Ykpj4r (+)
+Description: How I found a P2 Misrouting issue affecting all Google Cloud Load Balancers.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://link.medium.com/sCIR2pa1zNb
+Description: HTTP Parameter Pollution in 2024.
+
+URL: https://github.com/Chocapikk/Ghost-Framework
+Description: Android post-exploitation framework.
+
+URL: https://github.com/Chocapikk/CVE-2024-45519
+Description: Zimbra Remote Command Execution (CVE-2024-45519).
+
+URL: https://github.com/zimnyaa/remotechrome
+Description: Dump Chrome cookies remotely with atexec and CDP.
+
+URL: https://github.com/bkerler/DroneID
+Description: OpenDrone ID sniffer/spoofer for Bluetooth + WIFI.
+
+URL: https://github.com/dipjyotimetia/HybridTestFramework
+Description: End to End testing of Web, API, Cloud, Events and Security.
+
+URL: https://github.com/mlcsec/EDRenum-BOF
+Description: Identify common EDR processes, directories, and services (BOF).
+
+URL: https://github.com/amjcyber/pwnlook
+Description: Post-Exploitation tool to control the Outlook desktop application.
+
+URL: https://github.com/horizon3ai/CVE-2024-9464
+Description: Palo Alto Expedition Authenticated Command Injection (CVE-2024-9464).
+
+URL: https://github.com/grahamhelton/USP
+Description: Linux persistence by creating a udev rule to trigger a payload execution.
+
+URL: https://github.com/openclarity/kubeclarity
+Description: Tool to detect/manage SBOMs and vulnerabilities of container images and FSs.
+
+URL: https://github.com/mbog14/CVE-2024-44193
+Description: Hacking Windows through iTunes - Local Privilege Escalation (CVE-2024-44193).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.deeb.ch/posts/how-edr-works/
+Description: The (Anti-)EDR Compendium.
+
+URL: https://www.xintra.org/blog/tokens-in-entra-id-guide
+Description: Understanding Tokens in Entra ID.
+
+URL: https://blog.flomb.net/posts/tekton/
+Description: Tekton Dashboard RCE and Kubernetes API Proxy.
+
+URL: https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html
+Description: Can You Get Root With Only a Cigarette Lighter?
+
+URL: https://ynwarcs.github.io/exploiting-vs-dump-files
+Description: Exploiting Visual Studio via dump files (CVE-2024-30052).
+
+URL: https://bit.ly/3YgJkZx (+)
+Description: Exploiting Microsoft Teams on macOS during a Purple Team engagement.
+
+URL: https://www.truesec.com/hub/blog/attacking-powershell-clixml-deserialization
+Description: Attacking PowerShell CLIXML Deserialization.
+
+URL: https://www.liansecurity.com/#/main/news/H_NoQIoBE2npFSfF-iQ5/detail
+Description: Multi-layered Obfuscation in AndroidManifest.xml to Evading Static Analysis.
+
+URL: https://blog.nviso.eu/2024/05/23/format-string-exploitation-a-hands-on-exploration-for-linux/
+Description: Format String Exploitation: A Hands-On Exploration for Linux.
+
+URL: https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html
+Description: 4 Exploits, 1 Bug - Exploiting CVE-2024-20017 4 different ways.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/OrionReed/dom3d
+Description: DOM3D - A tiny spatial DOM viewer.
+
+URL: https://github.com/lethal-guitar/SaucerMapViewer
+Description: Map viewer and asset exporter for Attack of the Saucerman.
+
+URL: https://github.com/dhammon/ai-goat
+Description: Learn AI security through a series of vulnerable LLM CTF challenges.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?5dfff3ec6c6ec7e3#tMGgX63xKBzBjd6Ht1Mx9AnYcXX1UIWuEBEDe1qCstI=
