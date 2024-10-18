@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 42 | Month: October | Year: 2024 | Release Date: 18/10/2024 | Edition: #557 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52
+Description: How Zendesk intentionally left a backdoor in hundreds of companies. 
+
+URL: https://abdilahrf.github.io/bugbounty/android-android-vulnerabilities-notification-to-xss
+Description: Popping Android Vulnerabilities From Notification to WebView XSS.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/rsmusllp/termineter
+Description: Smart Meter Security Testing Framework.
+
+URL: https://github.com/antonioCoco/SspiUacBypass
+Description: Bypassing UAC with SSPI Datagram Contexts.
+
+URL: https://github.com/jasonxtn/Argus
+Description: The Ultimate Information Gathering Toolkit.
+
+URL: https://github.com/logangoins/Cable
+More: https://logan-goins.com/2024-10-11-Dotnet-AD/
+Description: Active Directory Enumeration & Exploitation Tool.
+
+URL: https://github.com/Dor00tkit/CVE-2024-30090
+Description: MS Streaming Service EoP Vulnerability (CVE-2024-30090).
+
+URL: https://github.com/yogeshojha/rengine
+Description: The Ultimate Web Reconnaissance & Vulnerability Scanner.
+
+URL: https://github.com/Escape-Technologies/graphinder
+Description: Tool that extracts all GraphQL endpoints from a given domain.
+
+URL: https://github.com/marklechner/priscope
+Description: PR Inspector for Security Concerns and Open-source Protection.
+
+URL: https://github.com/CICADA8-Research/COMThanasia
+Description: A set of programs for analyzing common vulnerabilities in COM.
+
+URL: https://github.com/varwara/CVE-2024-35250
+Description: Untrusted Pointer Dereference in the ks.sys driver (CVE-2024-35250).
+
+URL: https://github.com/yo-yo-yo-jbo/hm-surf
+Description: macOS Flaw Exposing Cameras and Microphones - HM Surf (CVE-2024-44133).
+
+URL: https://github.com/alexdhital/Infiltrax
+Description: Post-exploitation reconnaissance tool for penetration testers and red teams.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.r-tec.net/r-tec-blog-dll-sideloading.html
+Description: DLL Sideloading.
+
+URL: https://ading.dev/blog/posts/chrome_sandbox_escape.html
+Description: Escaping the Chrome Sandbox Through DevTools.
+
+URL: https://trustedsec.com/blog/the-dangers-of-transition-mode
+Description: The Dangers of Transition Mode (Wireless Security).
+
+URL: https://nv1t.github.io/blog/kekz-headphones/
+Description: Reverse Engineering and Dismantling Kekz Headphones.
+
+URL: https://bit.ly/4dNWgKR (+)
+Description: Debugging the Windows Hypervisor - Inspecting SK Calls.
+
+URL: https://blog.quarkslab.com/attacking-the-samsung-galaxy-a-boot-chain.html
+Description: Attacking the Samsung Galaxy A* Boot Chain.
+
+URL: https://bughunters.google.com/blog/5679863572070400/protecting-large-language-models
+Description: Protecting Large Language Models.
+
+URL: https://bit.ly/3Y9rAhp (+)
+Description: Analysis of GitHub Enterprise vulnerabilities (CVE-2024-0507/CVE-2024-0200).
+
+URL: https://www.synacktiv.com/publications/forensic-analysis-of-bitwarden-self-hosted-server.html
+Description: Forensic analysis of bitwarden self-hosted server.
+
+URL: https://huydoppa.hashnode.dev/analyst-cve-2024-8698-keycloak-with-zero-knowledge-about-keycloak
+Description: Analyst CVE-2024-8698 on KeyCloak.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://linux-kernel-labs.github.io
+Description: Linux Kernel Teaching.
+
+URL: https://github.com/freelawproject/x-ray
+Description: A tool to detect whether a PDF has a bad redaction.
+
+URL: https://www.solosatoshi.com/what-exactly-is-my-bitcoin-miner-doing/
+Description: What Exactly is my Bitcoin Miner Doing?
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?c4aa31dd44fc51ba#4Vydu88Mr2yXsg2U/7h8sdh2o5D/pZkCIo4MFuW+c+g=
