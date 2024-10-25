@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 43 | Month: October | Year: 2024 | Release Date: 25/10/2024 | Edition: #558 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://danaepp.com/attacking-apis-using-json-injection
+Description: Attacking APIs using JSON Injection.
+
+URL: https://blog.pspaul.de/posts/bench-press-leaking-text-nodes-with-css/
+Description: Bench Press - Leaking Text Nodes with CSS.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/PartialVolume/shredos.x86_64
+Description: ShredOS - Secure disk erasure/wipe.
+
+URL: https://github.com/CENSUS/ghidra-frida-hook-gen
+Description: Frida hook generator for Ghidra.
+
+URL: https://nastystereo.com/security/sqli-polyglots.html
+Description: SQL Injection Polyglots.
+
+URL: https://github.com/kpcyrd/sn0int
+Description: Semi-automatic OSINT framework and package manager.
+
+URL: https://github.com/nollium/CVE-2024-9264
+Description: Exploit for Grafana arbitrary file-read (CVE-2024-9264).
+
+URL: https://github.com/lkarlslund/nifo
+Description: Nuke It From Orbit - Remove AV/EDR with physical access.
+
+URL: https://github.com/symbrkrs/ps5-uart
+Description: Interface for interacting with PlayStation 5 EMC and EFC.
+
+URL: https://github.com/OtterHacker/ShareFouine
+Description: Easily navigate into Sharepoint using UNIX like commands.
+
+URL: https://github.com/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN/
+Description: Realtek RtsPer driver EOP (CVE-2024-40431/CVE-2022-25479).
+
+URL: https://portswigger.net/research/concealing-payloads-in-url-credentials
+Description: Concealing payloads in URL credentials.
+
+URL: https://github.com/thoughtfault/keylogger-browser-extension
+Blog: https://blog.thoughtfault.com/posts/building-a-keylogger-browser-extension/
+Description: A keylogger browser extension.
+
+URL: https://github.com/protectai/vulnhuntr
+Description: Identify remotely exploitable vulns using LLMs and static code analysis.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://klecko.github.io/posts/selinux-bypasses/
+Description: SELinux bypasses (Android kernel exploitation).
+
+URL: https://comsec.ethz.ch/research/microarch/breaking-the-barrier/
+Description: Breaking the Barrier - Post-Barrier Spectre Attacks.
+
+URL: https://blog.projectdiscovery.io/ruby-saml-gitlab-auth-bypass/
+Description: Ruby-SAML/GitLab Authentication Bypass (CVE-2024-45409).
+
+URL: https://bruteratel.com/research/2024/10/20/Exception-Junction/
+Description: Exception Junction - Where All Exceptions Meet Their Handler.
+
+URL: https://sabotagesec.com/i-hate-you-com-pitfalls-of-com-object-activation/
+Description: I hate you COM – Pitfalls of COM object activation.
+
+URL: https://bit.ly/3BVtY3U (+)
+Description: Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra.
+
+URL: https://www.imperva.com/blog/shadyshader-crashing-apple-m-series-with-single-click/
+Description: ShadyShader - Crashing Apple Devices with a Single Click.
+
+URL: https://execc0de.github.io/posts/cve-2018-3408/
+Description: Exploiting ChakraCore JS Engine for arbitrary code execution (CVE-2018-3048).
+
+URL: https://bit.ly/3NDk6hL (+)
+Description: From Windows Process Creation to Stealthy Injection (Early Cascade Injection).
+
+URL: https://www.netero1010-securitylab.com/red-team/abuse-sccm-remote-control-as-native-vnc
+Description: Abuse SCCM Remote Control as Native VNC.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://hackermovie.club/
+Description: Movies For Hackers.
+
+URL: https://browser.engineering/
+Description: Web Browser Engineering.
+
+URL: https://github.com/es3n1n/re-unplayplay
+Description: Cryptography stuff for the spotify's DRM playplay.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?f185d82c08ec432e#5QCvnY3dB++eI8gpOMrUlc0A/ODNZAc+XY9g1IsNPQ4=
