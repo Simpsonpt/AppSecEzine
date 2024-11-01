@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 44 | Month: November | Year: 2024 | Release Date: 01/11/2024 | Edition: #559 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://sharpsec.run/rce-vulnerability-in-qbittorrent/
+Description: RCE Vulnerability in QBittorrent.
+
+URL: https://bit.ly/40rkaZK (+)
+Description: What Are My OPTIONS? CyberPanel v2.3.6 pre-auth RCE.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://lolapps-project.github.io/
+Description: Living Off The Land Applications.
+
+URL: https://link.medium.com/zhykOjXY5Nb
+Description: .Net Hooking with Frida and Fermion.
+
+URL: https://github.com/tyranid/oleviewdotnet/
+Description: A .net OLE/COM viewer and inspector.
+
+URL: https://github.com/crvvdev/vac-bypass-kernel
+Description: Fully working kernel-mode VAC bypass.
+
+URL: https://github.com/0xTriboulet/T-70
+Description: T-70 - Facial Verification Malware PoC.
+
+URL: https://github.com/tls-attacker/TLS-Attacker
+Description: Java-based framework for analyzing TLS libraries.
+
+URL: https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption
+Description: Chrome App-Bound Encryption (ABE) Decryption.
+
+URL: https://github.com/xjasonlyu/tun2socks
+Description: Forwards all TCP traffic on a TUN device over a SOCKS proxy.
+
+URL: https://github.com/piotrbania/ios_forensics_suite
+Description: Tool to generate detailed, locally-processed reports from iOS backups.
+
+URL: https://github.com/Maldev-Academy/ExecutePeFromPngViaLNK
+Description: Extract and execute a PE embedded within a PNG file using an LNK file.
+
+URL: https://github.com/anonymous300502/Nuke-AMSI
+Description: Neutralize the Antimalware Scan Interface (AMSI) in Windows environments.
+
+URL: https://github.com/kn32/cve-2024-46483
+Description: Pre-AuthN Heap Overflow in Xlight SFTP server <= 3.9.4.2 (CVE-2024-46483).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://haxx.in/posts/wtm-wtf/
+More: https://haxx.in/posts/wtm-pwn/
+Description: Retrofitting encrypted firmware is a Bad Idea™.
+
+URL: https://ferib.dev/blog/EV-code-signing-with-pfx-in-2024/
+Description: EV code signing with .pfx in 2024.
+
+URL: https://stmxcsr.com/persistence/scheduled-tasks.html
+Description: Persistence 101 - Looking at the Scheduled Tasks.
+
+URL: https://link.medium.com/UfXAXNTD9Nb
+Description: Hijack the TypeLib. New COM persistence technique.
+
+URL: https://blog.quarkslab.com/bluetooth-low-energy-gatt-fuzzing.html
+Description: Bluetooth Low Energy GATT Fuzzing.
+
+URL: https://bit.ly/40niOz9 (+)
+Description: VMWare vCenter Server CVE-2024-38812 DCERPC Vulnerability.
+
+URL: https://bit.ly/3YKYtlV (+)
+Description: Windows cached code signature manipulation (CVE-2024-20693).
+
+URL: https://somehybrid.github.io/jekyll/update/2024/10/14/hash-collisions.html
+Description: CPython hash table collisions.
+
+URL: https://securitylabs.datadoghq.com/articles/abusing-entra-id-administrative-units/
+Description: Abusing Entra ID Administrative Units for Sticky Persistence.
+
+URL: https://www.redthreatsec.com/blog/greenlightspart1
+More: https://www.redthreatsec.com/blog/give-me-the-green-light-part2-dirty-little-secrets
+Description: Hacking Traffic Control Systems and Dirty Little Secrets.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/zhengkyl/qrframe
+Description: Code-based QR code generator.
+
+URL: https://github.com/Speedi13/ROP-COMPILER
+Description: ROP based CSGO, BF3, BF4 cheat.
+
+URL: https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html
+Description: Looking into the Nintendo Alarmo.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?ef9cc020c36b1504#2YXxVxswIHeNGCc2eHDeWh4sJcNfFPdXrfagW6ChKZ4=
