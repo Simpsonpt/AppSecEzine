@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 45 | Month: November | Year: 2024 | Release Date: 08/11/2024 | Edition: #560 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.landh.tech/blog/20241028-hidden-supply-chain-links/
+Description: Exploiting Fortune 500 Through Hidden Supply Chain Links.
+
+URL: https://bit.ly/4fnlqSb (+)
+Description: Bypassing CSP via URL Parser Confusions - XSS on Netlify's Image CDN.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/leondz/garak
+Description: LLM vulnerability scanner.
+
+URL: https://github.com/momo5502/emulator
+Description: Windows User Space Emulator.
+
+URL: https://link.medium.com/uUOseGRYkOb
+Description: Template Engines Injection 101.
+
+URL: https://github.com/vectra-ai-research/Halberd
+Description: Halberd - Multi-Cloud Security Testing Tool.
+
+URL: https://github.com/Octoberfest7/Secure_Stager
+Description: An x64 position-independent shellcode stager.
+
+URL: https://blog.exatrack.com/STUBborn/
+Description: STUBborn - Activate and call DCOM objects without proxy.
+
+URL: https://github.com/OtterHacker/Hooker
+Description: Code to detect userland hook setup by the EDR on your process.
+
+URL: https://github.com/j4k0xb/webcrack
+Description: Deobfuscate obfuscator.io, unminify and unpack bundled javascript.
+
+URL: https://github.com/joaoviictorti/rustclr
+Description: Library for hosting the CLR and executing .NET binaries directly w/ Rust.
+
+URL: https://github.com/user1342/Oversight
+Description: LLM Reverse Engineering, Red Teaming, and Vulnerability Research Framework.
+
+URL: https://github.com/chebuya/sastsweep
+Description: Detect vulnerabilities and analyze repos metrics to prioritize OSS targets.
+
+URL: https://github.com/saw-your-packet/CloudShovel
+Description: Search for sensitive info w/in public/private Amazon Machine Images (AMIs).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://nastystereo.com/security/ruby-slice.html
+Description: Ruby's String Slice is Broken.
+
+URL: https://brunopincho.github.io/dllMemoryScanner/
+Description: Companion scanner for mockingjay injection.
+
+URL: https://hackliza.gal/en/posts/keydump/
+Tool: https://github.com/zer1t0/keydump
+Description: Keyrings dump with keydump - Extracting SSSD cleartext credentials.
+
+URL: https://blog.sicuranext.com/breaking-down-multipart-parsers-validation-bypass/
+Description: Breaking Down Multipart Parsers - File upload validation bypass.
+
+URL: https://bit.ly/48Ia7Bm (+)
+Description: Sanitize Client-Side - Why Server-Side HTML Sanitization is Doomed to Fail.
+
+URL: https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/
+Description: A New Era of macOS Sandbox Escapes - Diving into an Overlooked Attack Surface.
+
+URL: https://bit.ly/4eabdXX (+)
+Description: Windows DWM Core Library Elevation of Privilege Vulnerability (CVE-2024-30051).
+
+URL: https://link.medium.com/TeV8Lfh1kOb 
+Description: How I Accessed MS's ServiceNow — Exposing Emails/Support Transcripts&Attachments.
+
+URL: https://delroth.net/posts/spoofed-mass-scan-abuse/
+Description: One weird trick to get the whole planet to send abuse complaints to your friend(s).
+
+URL: https://www.sentinelone.com/blog/climbing-the-ladder-kubernetes-privilege-escalation-part-1/
+More: https://www.sentinelone.com/blog/climbing-the-ladder-kubernetes-privilege-escalation-part-2/
+Description: Climbing The Ladder - Kubernetes Privilege Escalation (Series).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/dolthub/dolt
+Description: Dolt is Git for Data!
+
+URL: https://github.com/ring0-c0d3-br34k3r/Stuxnet-Rootkit
+Description: Stuxnet Rootkit Analysis.
+
+URL: https://github.com/getmaxun/maxun
+Description: Open-Source No-Code Web Data Extraction Platform.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?0fdcb1ea5c23da07#CP9KdAN19XWgMH+9PKSNTj4qF65hXpuyKFbFQG47fC4=
