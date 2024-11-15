@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 46 | Month: November | Year: 2024 | Release Date: 15/11/2024 | Edition: #561 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3APL2Ig (+)
+Description: Release-Drafter To google/accompanist Compromise - VRP Writeup.
+
+URL: https://link.medium.com/0t6Qbt7YkOb 
+Description: Exploiting an Opera Vulnerability with a X-Browser Extension Store Attack.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/joaoviictorti/shadow-rs
+Description: Windows Kernel Rootkit in Rust.
+
+URL: https://github.com/watchtowrlabs/Citrix-Virtual-Apps-XEN-Exploit
+Description: Citrix Virtual Apps and Desktops (XEN) Unauthenticated RCE.
+
+URL: https://bit.ly/4etMsWL (+)
+Description: Using AFL++ on bug bounty programs - an example with Gnome libsoup.
+
+URL: https://github.com/TrimarcJake/Locksmith
+Description: Tool to find and fix common missconfigs in AD Certificate Services.
+
+URL: https://github.com/google/capslock
+Description: Scan Go packages to detect privileged operations on a given package.
+
+URL: https://github.com/BountySecurity/gbounty
+Description: Fast, reliable, and highly customizable website vulnerability scanner.
+
+URL: https://github.com/SpecterOps/cred1py
+Description: Tool used to exploit CRED-1 over a SOCKS5 connection (with UDP support).
+
+URL: https://github.com/0xthirteen/Carseat
+Description: Python implementation of GhostPack's Seatbelt situational awareness tool.
+
+URL: https://github.com/ghostsecurity/reaper
+Description: Modern and lightweight open-source application security testing framework.
+
+URL: https://github.com/nollium/CVE-2024-50340-eos-exploit
+Blog: https://link.medium.com/K4zxb9ICwOb
+Description: Remote Access to Symfony Profiler via Injected Arguments (CVE-2024-50340).
+
+URL: https://github.com/wellrodrig/Whatsapp-Spy
+Description: Tool to monitor and log all on-screen texts whenever a user opens WhatsApp.
+
+URL: https://github.com/cxnturi0n/convoC2
+Description: C2 to allow Red Teamers to execute system commands on hosts through MS Teams.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/7twi2dRywOb
+Description: From HTTP to RCE - How to leave backdoor in IIS.
+
+URL: https://tulach.cc/using-vbs-enclaves-for-anti-cheat-purposes/
+Description: Using VBS enclaves for anti-cheat purposes.
+
+URL: https://www.imperva.com/blog/javascript-drive-by-hacking-without-0days/
+Description: Java(Script) Drive-By, Hacking Without 0days.
+
+URL: https://s1r1us.ninja/posts/electron-contextbridge-is-insecure/
+Description: Mind the v8 patch gap - Electron's Context Isolation is insecure.
+
+URL: https://bit.ly/4fJH6rq (+)
+More: https://bit.ly/3YWtiDo (+)
+Description: Exploiting AMD atdcm64a.sys arbitrary pointer dereference (Series).
+
+URL: https://www.cyberark.com/resources/threat-research-blog/anatomy-of-an-llm-rce
+Description: Anatomy of a large language model (LLM) RCE.
+
+URL: https://neroteam.com/blog/softbank-wi-fi-mesh-rp562b
+Description: SoftBank RP562B Wi-Fi Mesh under the Microscope - A Security Analysis.
+
+URL: https://dimitrifourny.github.io/2024/11/14/firefox-animation-cve-2024-9680.html
+Description: Firefox Animation CVE-2024-9680.
+
+URL: https://shalzuth.com/Blog/FindingExploitsInGames
+Description: A Roadmap to Security Game Testing - Finding Exploits in Video Games Introduction.
+
+URL: https://pierrekim.github.io/blog/2024-11-01-ibm-security-verify-access-32-vulnerabilities.html
+Description: IBM Security Verify Access < 10.0.8 Security Analysis.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://samy.pl/poisontap/
+Description: 'Poison Tap' hacks locked computers.
+
+URL: https://github.com/raidendotai/cofounder
+Description: AI-generated apps , full stack + generative UI.
+
+URL: https://github.com/freref/fancy-cat
+Description: PDF reader for terminal emulators using the Kitty image protocol.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?756670f979e293ef#6n49+x3531dorrnnXAzLbtJwModRKJ4ejRtwircfddA=
