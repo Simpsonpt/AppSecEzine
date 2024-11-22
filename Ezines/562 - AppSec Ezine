@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 47 | Month: November | Year: 2024 | Release Date: 22/11/2024 | Edition: #562 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/AoOdXxazwOb 
+Description: Arc Browser UXSS, LFR, Arbitrary File Creation and Path Traversal to RCE.
+
+URL: https://jdomeracki.github.io/2024/11/09/sketchy_cheat_sheet/
+Description: Sketchy Cheat Sheet - Story of a Cloud Architecture Diagramming Tool Gone Wrong.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/NVIDIA/garak
+Description: The LLM vulnerability scanner.
+
+URL: https://github.com/trustedsec/CS-Remote-OPs-BOF
+Description: Remote Operations BOF.
+
+URL: https://github.com/vxCrypt0r/Voidmaw
+Description: New bypass technique for memory scanners.
+
+URL: https://github.com/Maldev-Academy/EmbedPayloadInPng
+Description: Embed a payload inside a PNG file.
+
+URL: https://github.com/timschneeb/jadx-type-diagram-plugin
+Description: Type diagram plugin for JADX decompiler.
+
+URL: https://github.com/zrax/pycdc
+Description: C++ python Bytecode Disassembler and Decompiler.
+
+URL: https://github.com/g0h4n/RustHound-CE
+Description: Active Directory data ingestor for BloodHound Community Edition.
+
+URL: https://github.com/vmi-rs/vmi
+Description: Modular and extensible library for Virtual Machine Introspection.
+
+URL: https://nzt-48.org/breaking-the-most-popular-wafs
+Description: Breaking the most popular Web Application Firewalls in the market.
+
+URL: https://github.com/m4ll0k/autobreakpointer
+Description: Automated JavaScript Debugging Tool using Chrome DevTools Protocol.
+
+URL: https://github.com/ivre/ivre
+Description: Network recon framework, including tools for passive and active recon.
+
+URL: https://github.com/t3hbb/PanGP_Extractor
+Blog: https://shells.systems/extracting-plaintext-credentials-from-palo-alto-global-protect/
+Description: Tool to extract username and password of current user from PanGPA in plaintext.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/mV3TNPO7HOb 
+Description: Local Admin In Less Than 60 Seconds.
+
+URL: https://bit.ly/4f7Rf16 (+)
+Description: NTLM Credential Theft in Python Windows Applications.
+
+URL: https://bit.ly/3CAwPzs (+)
+Description: Non-Production Endpoints as an Attack Surface in AWS.
+
+URL: https://blog.voorivex.team/from-an-android-hook-to-rce-5000-bounty
+Description: From an Android Hook to RCE - $5000 Bounty.
+
+URL: https://link.medium.com/oOWUAQxUEOb
+More: https://link.medium.com/RGzR8nAUEOb
+Description: ADCS Exploitation - Common Attacks, Certificate Mapping + ESC15.
+
+URL: https://shlomie.uk/posts/Cracking-Hashes-With-AI
+Description: Predictable Patterns & PII Leakages: Using AI to mass leak data.
+
+URL: https://bit.ly/4932gyP (+)
+Description: Exploring JavaScript events & Bypassing WAFs via character normalization.
+
+URL: https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html
+Description: Reverse Engineering iOS 18 Inactivity Reboot.
+
+URL: https://www.securityrunners.io/post/beyond-rce-autonomous-code-execution-in-agentic-ai
+Description: Beyond RCE - Autonomous Code Execution in Agentic AI.
+
+URL: https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/
+Description: Ancient Monkey: Pwning a 17-Year-Old Version of SpiderMonkey.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: http://aem1k.com/invisible/
+Description: A hoisted JavaScript payload to write invisible code.
+
+URL: https://github.com/AaronMargosis/Aaron-Margosis-SysNocturnals-Tools
+Description: SysNocturnals Tools.
+
+URL: https://github.com/facebookresearch/watermark-anything
+Description: Official implementation of the paper "Watermark Anything with Localized Messages".
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?65b407a5ae73337b#izPEOd37nSIyWhMpMk14CV/WCS5o+w9YC1vwO0IJZXM=
