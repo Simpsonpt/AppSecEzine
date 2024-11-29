@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 48 | Month: November | Year: 2024 | Release Date: 29/11/2024 | Edition: #563 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://remyhax.xyz/posts/luks-vm-dump/
+Description: GRUB LUKS Bypass and Dump.
+
+URL: https://mizu.re/post/exploring-the-dompurify-library-bypasses-and-fixes
+Description: Exploring the DOMPurify library - Bypasses and Fixes.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/casterbyte/Above
+Description: Invisible network protocol sniffer.
+
+URL: https://github.com/amrudesh1/morf
+Description: MORF - Mobile Reconnaissance Framework.
+
+URL: https://github.com/DataDog/stratus-red-team
+Description: Granular, Actionable Adversary Emulation for the Cloud.
+
+URL: https://github.com/AmberWolfCyber/NachoVPN
+Description: PoC to exploit SSL-VPN clients using a rogue VPN server.
+
+URL: https://github.com/decoder-it/KrbRelayEx
+Description: Kerberos Relay and Forwarder for (Fake) SMB MiTM Server.
+
+URL: https://github.com/PeterGabaldon/CVE-2024-7479_CVE-2024-7481
+Description: TeamViewer User to Kernel EoP (CVE-2024-7479/CVE-2024-7481).
+
+URL: https://github.com/gojue/ecapture
+Description: Capture SSL/TLS text content without a CA certificate using eBPF.
+
+URL: https://github.com/D4Vinci/Scrapling
+Description: Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python.
+
+URL: https://github.com/nevillegrech/gigahorse-toolchain
+Description: A binary lifter and analysis framework for Ethereum smart contracts.
+
+URL: https://github.com/gtheodoridis/DICOMHawk
+Description: A DICOM honeypot for detecting and logging unauthorized access attempts.
+
+URL: https://github.com/Y3A/winkafl
+Description: Static binary instrumentation for windows kernel drivers, to use w/ winafl.
+
+URL: https://github.com/bertrandmartel/aram-applet
+Description: JavaCard implementation of GlobalPlatform Access Rule Application Master Applet.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://khang06.github.io/vrcescape/
+Description: Breaking out of VRChat using a Unity bug.
+
+URL: https://blog.voorivex.team/drilling-the-redirecturi-in-oauth
+Description: Drilling the redirect_uri in OAuth.
+
+URL: https://nastystereo.com/security/ruby-3.4-deserialization.html
+Description: Ruby 3.4 Universal RCE Deserialization Gadget Chain.
+
+URL: https://blog.silentsignal.eu/2024/10/28/wcf-net.tcp-pentest/
+Description: Engineering Windows Communication Foundation (WCF) Hacks.
+
+URL: https://gergelykalman.com/badmalloc-CVE-2023-32428-a-macos-lpe.html
+Description: badmalloc (CVE-2023-32428) - a macOS LPE.
+
+URL: https://wbenny.github.io/2024/11/21/mmscrubmemory.html
+Description: MmScrubMemory - The Nemesis of Virtual Machine Introspection.
+
+URL: https://bit.ly/3Zq8XaG (+)
+Description: Bypass Apache Superset restrictions to perform SQL injections.
+
+URL: https://bit.ly/4i5UsjN (+)
+Description: Spelunking in Comments and Documentation for Security Footguns.
+
+URL: https://lutrasecurity.com/en/articles/salamander-mime/
+Description: Salamander/MIME - Just because it's encrypted doesn't mean it's secure.
+
+URL: https://bit.ly/4fnNIvt (+)
+Description: Ivanti Connect Secure - AuthN RCE via OpenSSL CRLF Injection (CVE-2024-37404).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://dspy.ai/
+Description: DSPy Programming—not prompting—LMs.
+
+URL: https://vollragm.github.io/posts/minesweeper/
+Description: Reverse engineering Windows 7 Minesweeper.
+
+URL: https://github.com/ElectronicCats/CatSniffer
+Description: CatSniffer is an original multiprotocol and multiband board for sniffing.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?5bc05c30854d9ccf#iu/Xi1BKvDr/bWAYoJzFqV+64ZAYqeOBx+XfoDwqm2o=
