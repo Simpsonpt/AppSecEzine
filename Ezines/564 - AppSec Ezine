@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 49 | Month: December | Year: 2024 | Release Date: 06/12/2024 | Edition: #564 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://nastystereo.com/security/cross-site-post-without-content-type.html
+Description: Cross-Site POST Requests Without a Content-Type Header.
+
+URL: https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/
+Related: https://portswigger.net/research/bypassing-wafs-with-the-phantom-version-cookie
+Description: Handling Cookies is a Minefield.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/rad9800/BootExecuteEDR
+Description: BootExecute EDR Bypass.
+
+URL: https://github.com/mvelazc0/msInvader
+Description: M365/Azure Adversary Simulation Tool.
+
+URL: https://github.com/doxx/darkflare
+Description: DarkFlare Firewall Piercing (TCP over CDN).
+
+URL: https://github.com/dobin/SuperMega
+Blog: https://blog.deeb.ch/posts/supermega/
+Description: Stealthily inject shellcode into an executable.
+
+URL: https://github.com/xairy/lights-out
+Description: Tools for controlling webcam LED on ThinkPad X230.
+
+URL: https://github.com/saeeddhqan/Maryam
+Description: Maryam - Open-source Intelligence(OSINT) Framework.
+
+URL: https://bit.ly/3D2sLZ4 (+)
+Description: New AMSI Bypss Technique Modifying CLR.DLL in Memory.
+
+URL: https://github.com/ricardojoserf/NativeBypassCredGuard
+Description: Bypass Credential Guard by patching WDigest.dll using NTAPI functions.
+
+URL: https://github.com/CobblePot59/ADcheck
+Description: Assess the security of your Active Directory with few or all privileges.
+
+URL: https://github.com/Kudaes/Eclipse
+Description: Activation Context hijack PoC to load/run an arbitrary DLL in any process.
+
+URL: https://github.com/mercedes-benz/sechub
+Description: SecHub provides a central API to test software with different security tools.
+
+URL: https://github.com/stratosphereips/VelLMes-AI-Honeypot
+Description: Creates interactive/dynamic/realistic honeypots w/ Large Language Models (LLMs).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://rastamouse.me/udrl-sleepmask-and-beacongate/
+Description: UDRL, SleepMask, and BeaconGate.
+
+URL: https://r00tkitsmm.github.io/fuzzing/2024/11/08/Pishi.html
+Description: Pishi - Coverage guided macOS KEXT fuzzing.
+
+URL: https://osec.io/blog/2024-11-25-netfilter-universal-root-1-day
+Description: OtterRoot - Netfilter Universal Root 1-day.
+
+URL: https://pwner.gg/blog/Android%27s-CVE-2020-0238
+Description: Android's CVE-2020-0238 (AccountTypePreferenceLoader).
+
+URL: https://www.labs.greynoise.io/grimoire/2024-11-20-null-problem/
+Description: Null problem! Or - the dangers of an invisible byte.
+
+URL: https://praydog.com/reverse-engineering/2023/07/03/uevr.html
+Description: UEVR - An Exploration of Advanced Game Hacking Techniques.
+
+URL: https://bit.ly/4gkcrRY (+)
+Description: Command Injection in Kemp LoadMaster Load Balancer (CVE-2024-7591).
+
+URL: https://bit.ly/3CJqBgL (+)
+Description: Unlocking Full Shell Functionality UART RX Mitigation Bypass on TL-WR841N.
+
+URL: https://www.sonarsource.com/blog/why-code-security-matters-even-in-hardened-environments/
+Description: Why Code Security Matters - Even in Hardened Environments.
+
+URL: https://0xbro.red/writeups/web-hacking/salesforce-hacking/
+Description: A lightning-fast journey from Guest to Account Takeover (Salesforce Communities). 
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://airbus-seclab.github.io/qemu_blog/
+Description: QEMU internals.
+
+URL: https://boehs.org/node/dark-web-security
+Description: The fascinating security model of dark web marketplaces.
+
+URL: https://github.com/vincentdoerig/latex-css
+Description: LaTeX.css is a CSS library that makes your website look like a LaTeX document.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?4e38aa5b41e3ae20#ulFEBt9N9E+bFswcvGIpmy7nGx5Jt3T5tXCvlO3qoGg=
