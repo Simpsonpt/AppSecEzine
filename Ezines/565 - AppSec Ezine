@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 50 | Month: December | Year: 2024 | Release Date: 13/12/2024 | Edition: #565 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://jorianwoltjer.com/blog/p/hacking/mutation-xss
+Description: Mutation XSS - Explained, CVE and Challenge.
+
+URL: https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/
+Description: Compromising OpenWrt Supply Chain via SHA-256 Collision and Command Injection.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/jogolden/sifatools
+Description: SIFA-based attacks on AES.
+
+URL: https://github.com/eversinc33/PSXecute
+Description: 32bit MIPS I emulator.
+
+URL: https://github.com/steven-michaud/HookCase
+Description: Tool for reverse engineering macOS/OSX.
+
+URL: https://github.com/ChaitanyaHaritash/IllusiveFog
+Description: Windows Administrator level Implant.
+
+URL: https://github.com/quay/clair
+Description: Vulnerability Static Analysis for Containers.
+
+URL: https://github.com/david942j/one_gadget
+Description: The best tool for finding one gadget RCE in libc.so.6.
+
+URL: https://github.com/Nnubes256/pwnobd
+Description: Offensive cybersecurity toolkit for testing OBD-II devices.
+
+URL: https://github.com/presidentbeef/brakeman
+Description: Static analysis security vulnerability scanner for Ruby on Rails.
+
+URL: https://github.com/hengyoush/kyanos
+Description: Visualize the time packets spend in the kernel, watch and analyze.
+
+URL: https://github.com/jasonxtn/Kraken
+Description: A Python-based tool to centralize and streamline BruteForce Attacks.
+
+URL: https://github.com/Permiso-io-tools/SkyScalpel
+Description: JSON policy parsing/(de)obfuscation/detection in cloud environments.
+
+URL: https://github.com/ioncodes/SilentLoad
+Description: Loads drivers via NtLoadDriver by set the service registry key directly.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://wetw0rk.github.io/posts/ezekielswheel/ezekielswheel/
+Description: Ezekiels Wheel (Hells Gate Malware Analysis).
+
+URL: https://blog.slowerzs.net/posts/cryptdecryptmemory/
+Description: Decrypting CryptProtectMemory without code injection.
+
+URL: https://blogs.sayaan.in/freemarkerssti
+Description: From Template to Threat - Exploiting Freemarker SSTI for RCE.
+
+URL: https://bit.ly/3BoatkE (+)
+Description: SPA is for Single-Page Abuse! - Using SPA Tokens to Enumerate Azure.
+
+URL: https://d4mianwayne.github.io/posts/ivanti-endpoint-manager-xxe-cve-2024-37397/
+Description: Uncovering the ImportXml Vulnerability.
+
+URL: https://snovvcrash.rocks/2024/12/08/applicability-of-the-timeroasting-attack.html
+Description: On the Applicability of the Timeroasting Attack.
+
+URL: https://bit.ly/3ZwZeyg (+)
+Description: Leveraging An Order of Operations Bug to Achieve RCE in Sitecore 8.x - 10.x.
+
+URL: https://blog.oversecured.com/Disclosure-of-7-Android-and-Google-Pixel-Vulnerabilities/
+Description: Disclosure of 7 Android and Google Pixel Vulnerabilities.
+
+URL: https://www.deepinstinct.com/blog/forget-psexec-dcom-upload-execute-backdoor
+PoC: https://github.com/deepinstinct/DCOMUploadExec
+Description: An advanced lateral movement technique to upload/execute payloads on a target.
+
+URL: https://blog.scrt.ch/2024/12/05/attacking-cortex-xdr-from-an-unprivileged-user-perspective/
+Description: Attacking Cortex XDR from an unprivileged user perspective.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/tonghohin/screen-sharing
+Description: Share your screen with one simple room code.
+
+URL: https://github.com/mendableai/firecrawl
+Description: Turn entire websites into LLM-ready markdown.
+
+URL: https://www.infochunk.com/schannel/index.html
+Description: Reverse engineering the Sega Channel game image file format.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?7ac84d020f0ec2dd#ZZpnVDBSQDzXeghG1P0qHb15b1sDUlCieOZJbFn9oRA=
