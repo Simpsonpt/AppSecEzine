@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 51 | Month: December | Year: 2024 | Release Date: 20/12/2024 | Edition: #566 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.securityrunners.io/post/hacking-ai-applications
+Description: Hacking AI Applications - From 3D Printing to Remote Code Execution.
+
+URL: https://karmainsecurity.com/hacking-kerio-control-via-cve-2024-52875
+Description: CRLF Injection to 1-Click RCE - Hacking Kerio Control via CVE-2024-52875.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/LaurieWired/Malimite
+Description: iOS Decompiler.
+
+URL: https://github.com/mherrmann/helium
+Description: Lighter web automation with Python.
+
+URL: https://github.com/m-gsch/S5Late
+Description: iPod Nano 7G bootrom exploit a bit too late.
+
+URL: https://github.com/masa42/CVE-2024-38819-POC
+Description: Spring Framework Path Traversal (CVE-2024-38819).
+
+URL: https://github.com/trustedsec/hate_crack/
+Description: Tool to automate cracking methodologies through Hashcat.
+
+URL: https://blog.pyn3rd.com/2024/12/13/Databricks-JDBC-Attack-via-JAAS/
+Description: Databricks JDBC Attack via JAAS.
+
+URL: https://github.com/Mayyhem/Maestro
+Blog: https://posts.specterops.io/maestro-9ed71d38d546
+Description: Post-exploitation tool designed to interact with Intune/EntraID.
+
+URL: https://github.com/Slonser/hui
+Description: HTML Universal Identifier - Tool to identify server-side HTML parsers.
+
+URL: https://github.com/namazso/dll-proxy-generator
+Description: Generate a proxy DLL for arbitrary DLL, while loading a user-defined DLL.
+
+URL: https://github.com/MWR-CyberSec/AD-CS-Forest-Exploiter
+Description: Exploit AD CS misconfigs to PE and persistence (from child domain to full forest).
+
+URL: https://github.com/hfiref0x/WinDepends
+Description: Scans 32/64-bit Windows modules and builds a tree diagram of all dependent modules.
+
+URL: https://github.com/rohitcoder/hawk-eye
+Description: Scan for PII and sensitive data into a Filesystem/S3/MySQL/Redis/GCStorage/Firebase. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/Ni2NFBfKQOb
+Description: SOQL injection in SalesForce Apex.
+
+URL: https://www.00xbyte.com/posts/hacking-dash-cams/
+Description: Hacking Car Cameras Through The Cloud.
+
+URL: https://blog.doyensec.com/2024/12/16/unsafe-unpacking.html
+Description: Unsafe Archive Unpacking - Labs and Semgrep Rules.
+
+URL: https://badram.eu/
+Description: Breaching Processor Security via Rogue Memory Modules.
+
+URL: https://s11research.com/posts/Messenger-Group-Call-DoS-for-iOS/
+Description: Messenger Group Call DoS for iOS.
+
+URL: https://bit.ly/4fue9z4 (+)
+Description: Windows Sockets - From Registered I/O to SYSTEM Privileges.
+
+URL: https://www.ledger.com/argo-cd-security-misconfiguration-adventures
+Description: Argo CD Security Misconfiguration Adventures.
+
+URL: https://securitybynature.fr/post/hacking-cryptolib/
+Description: Exploring Vulnerabilities in the SDLS Implementation of NASA's CryptoLib.
+
+URL: https://blog.0daylabs.com/2024/05/27/jetbrains-teamcity-auth-bypass/
+More: https://blog.0daylabs.com/2024/12/11/jetbrains-teamcity-authbypass-path-traversal/
+Description: Diving deep into Jetbrains TeamCity (CVE-2024-23917/CVE-2024-24942).
+
+URL: https://0x434b.dev/dabbling-with-linux-kernel-exploitation-ctf-challenges-to-learn-the-ropes/
+More: https://0x434b.dev/learning-linux-kernel-exploitation-part-2-cve-2022-0847/
+Description: Learning Linux Kernel Exploitation.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://modal.com/gpu-glossary
+Description: GPU Glossary.
+
+URL: https://words.filippo.io/dispatches/frood/
+Description: Frood - an Alpine initramfs NAS.
+
+URL: https://sli.dev/
+Description: Presentation Slides for Developers.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?ebab2d29dc057c14#KzaHHE2VFl1sDEusOJ/BlNSJ9869QF+wThc4LIPMVpw=
