@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 52 | Month: December | Year: 2024 | Release Date: 27/12/2024 | Edition: #567 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/3ZZSN7k (+)
+Description: How an obscure PHP footgun led to RCE in Craft CMS.
+
+URL: https://eaton-works.com/2024/12/19/mcdelivery-india-hack/
+Description: Exploiting McDonald's APIs to hijack deliveries and order food for a penny.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/kozmer/aad-bofs
+Description: AzureAD beacon object files.
+
+URL: https://github.com/junron/ida2py
+Description: An intuitive query API for IDA Pro.
+
+URL: https://github.com/pen4uin/java-memshell-generator
+Description: A customizable Java in-memory webshell generation tool.
+
+URL: https://github.com/Synzack/ldapper
+Description: A GoLang tool to enumerate and abuse LDAP. Made simple.
+
+URL: https://github.com/am0nsec/HellsGate
+Description: Original C Implementation of the Hell's Gate VX Technique.
+
+URL: https://github.com/secureworks/pytune
+Description: Post-exploitation tool for enrolling a fake device into Intune.
+
+URL: https://github.com/devttys0/delink
+Description: Crypto library to decrypt various encrypted D-Link firmware images.
+
+URL: https://github.com/Rob--W/cors-anywhere
+Description: NodeJS reverse proxy which adds CORS headers to the proxied request.
+
+URL: https://github.com/logangoins/Krueger
+Description: Proof of Concept (PoC) .NET tool for remotely killing EDR with WDAC.
+
+URL: https://github.com/PyCQA/bandit
+Description: Bandit is a tool designed to find common security issues in Python code.
+
+URL: https://github.com/0xEr3bus/PoolPartyBof
+Description: Beacon object file implementation of PoolParty Process Injection Technique.
+
+URL: https://github.com/voidvxvt/HellBunny
+Description: C/Assembly shellcode loader utilizing (in)direct syscalls for evading EDR hooks.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/jDVjTy1hEPb
+More: https://link.medium.com/AZIx9n3hEPb 
+Description: What's inside the .NET deserialization gadgetchain?
+
+URL: https://bit.ly/3PcLdB3 (+)
+PoC: https://github.com/SECFORCE/DLL-Hollow-PoC
+Description: DLL Hollowing PoC - Remote and Self shellcode injection.
+
+URL: https://www.leavesongs.com/PENETRATION/docker-php-include-getshell.html
+Description: Overview of Docker PHP bare file local inclusion.
+
+URL: https://embracethered.com/blog/posts/2024/security-probllms-in-xai-grok/
+Description: Security ProbLLMs in xAI's Grok - A Deep Dive.
+
+URL: https://sec.stealthcopter.com/wpml-rce-via-twig-ssti/
+Description: WPML Multilingual CMS Authenticated Contributor+ RCE via Twig SSTI.
+
+URL: https://github.com/kooscode/srgh-matrix-trinity
+Description: XBOX 360 advanced glitching - Reverse Engineered using a logic analyzer.
+
+URL: https://www.synacktiv.com/publications/relaying-kerberos-over-smb-using-krbrelayx
+Description: Relaying Kerberos over SMB using krbrelayx.
+
+URL: https://www.partywave.site/show/research/Tic%20TAC%20-%20Beware%20of%20your%20scan
+Description: Tic TAC - Beware of your imaging - InVesalius RCE (CVE-2024-42845).
+
+URL: https://link.medium.com/oMf1l1N3rPb 
+Description: Fake Captcha Driving Infostealer Infections and a Glimpse to the Dark Side of...
+
+URL: https://bit.ly/49SRb3I (+)
+Description: The Power of Taint Analysis - Uncovering Critical Code Vuln in OpenAPI Generator.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/HarbourMasters
+Description: Bring N64 games to PC.
+
+URL: https://www.jmeiners.com/lc3-vm/
+Description: Write your Own Virtual Machine.
+
+URL: https://github.com/localsend/localsend
+Description: An open-source cross-platform alternative to AirDrop.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?2eb300ab75722746#177lBflqDNsiBGoe0R0zNj2oVECIzI14nRfjmP1bwoY=
