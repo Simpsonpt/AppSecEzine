@@ -14,6 +14,7 @@
 
 
 URL: https://bit.ly/3ZZSN7k (+)
+PoC: https://github.com/Chocapikk/CVE-2024-56145
 Description: How an obscure PHP footgun led to RCE in Craft CMS.
 
 URL: https://eaton-works.com/2024/12/19/mcdelivery-india-hack/
