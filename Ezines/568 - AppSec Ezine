@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 01 | Month: January | Year: 2025 | Release Date: 03/01/2025 | Edition: #568 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/4fGP983 (+)
+Description: From Arbitrary File Write to RCE in Restricted Rails apps.
+
+URL: https://fysac.github.io/posts/2024/11/unpatched-remote-code-execution-in-gogs/
+Description: Unpatched Remote Code Execution in Gogs.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/carloslack/volundr
+Description: ELF x64 toolkit & infection.
+
+URL;: https://noinitrd.github.io/Memory-Dump-UEFI/
+Description: Dumping Memory to Bypass BitLocker on Windows 11.
+
+URL: https://github.com/hardenedlinux/userland-exec
+Description: Userland exec PoC to be used as attack vector technique.
+
+URL: https://github.com/lwthiker/curl-impersonate
+Description: A special build of curl that can impersonate Chrome & Firefox.
+
+URL: https://github.com/bohops/SharpRDPHijack
+Description: A proof-of-concept Remote Desktop (RDP) session hijack utility.
+
+URL: https://github.com/vaktibabat/cudacracker/
+Blog: https://vaktibabat.github.io/posts/cudacracker/
+Description: MD5 hash cracking with CUDA and Rust, implemented from scratch.
+
+URL: https://github.com/milankovo/YaraVM
+Description: IDA processor for loading and disassembling compiled yara rules.
+
+URL: https://github.com/spipm/Depixelization_poc
+Description: PoC for a technique to recover plaintext from pixelized screenshots.
+
+URL: https://github.com/JumpsecLabs/TokenSmith
+Description: Generates Entra ID access & refresh tokens on offensive engagements.
+
+URL: https://github.com/zeusssz/hercules-obfuscator
+Description: Lua obfuscator to make your Lua code nearly impossible to reverse-engineer.
+
+URL: https://github.com/NyanSatan/checkm8_bootkit
+Description: Boot arbitrary iBoot via ipwndfu's custom protocol on some checkm8-able platforms.
+
+URL: https://github.com/Yamato-Security/hayabusa/
+Description: Sigma-based threat hunting and forensics timeline generator for Windows event logs.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://nsg650.github.io/blogs/29-12-2024.html
+PoC: https://github.com/Pdawg-bytes/UEFIBootKit
+Description: Bootkits and Windows.
+
+URL: https://ryan-weil.github.io/posts/LUMMA-STEALER/
+Description: Deobfuscation of Lumma Stealer.
+
+URL: https://github.com/elikaski/ECC_Attacks
+Description: Known attacks on Elliptic Curve Cryptography.
+
+URL: https://www.ambionics.io/blog/lightyear-file-dump
+Description: Introducing lightyear - A new way to dump PHP files.
+
+URL: https://bit.ly/4iXzBQ6 (+)
+Description: Delinea Protocol Handler - RCE via Update Process (CVE-2024-12908).
+
+URL: https://permiso.io/blog/exploiting-hosted-models
+Description: When AI Gets Hijacked - Exploiting Hosted Models for Dark Roleplaying.
+
+URL: https://bit.ly/3ZfI2gH (+)
+Description: Multiple Vulnerabilities in the Mazda In-Vehicle Infotainment (IVI) System.
+
+URL: https://www.hvs-consulting.de/en/nfs-security-identifying-and-exploiting-misconfigurations/
+Description: NFS Security - Identifying and Exploiting Misconfigurations.
+
+URL: https://bit.ly/4gFGCU8 (+)
+Description: New dog, old tricks - DaMAgeCard attack targets memory directly thru SD card reader.
+
+URL: https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/
+Description: Fuzzing between the lines in popular barcode software.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/Theo-Hafsaoui/Anemon
+Description: Anemon - CV Management and Generation.
+
+URL: https://doom-captcha.vercel.app
+Description: Verify you're human by playing DOOM and killing at least 3 enemies.
+
+URL: https://github.com/fosslinux/live-bootstrap
+Description: Use of a Linux initramfs to fully automate the bootstrapping process.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?47a5c4d277c9d868#ITw2XQChHbEFAfC9XeLQz3DbeVz6mHdHlLGIc9b62Yg=
