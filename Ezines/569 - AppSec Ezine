@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 02 | Month: January | Year: 2025 | Release Date: 10/01/2025 | Edition: #569 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/4hb6zuO (+)
+Description: WorstFit - Unveiling Hidden Transformers in Windows ANSI! 
+
+URL: https://www.wiz.io/blog/nuclei-signature-verification-bypass
+Description: Breaking the Chain - Signature Verification Bypass in Nuclei (CVE-2024-43405).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/google/vanir
+Description: Vanir - Missing Patch Scanner.
+
+URL: https://github.com/ignacioj/WhacAMole
+Description: Live memory analysis detecting malware IOCs.
+
+URL: https://github.com/CCob/DRSAT
+Description: Bypass MMC snap-in domain joined requirement.
+
+URL: https://github.com/freemyipod/wInd3x
+Description: iPod Classic and Nano 3/4/5G bootrom exploit.
+
+URL: https://github.com/ph0ebus/Tomcat-CVE-2024-50379-Poc
+Description: RCE through a race condition in Apache Tomcat.
+
+URL: https://github.com/ZeroMemoryEx/IObit-EoP
+Description: Local Privilege Escalation in IObit Malware Fighter.
+
+URL: https://github.com/osintmatter/RequestShield
+Description: Analyze HTTP access.logs to identify potential security threats.
+
+URL: https://github.com/3dnow/NtCreateLowBoxToken
+Description: Compatible replacement of Windows NT NtCreateLowBoxToken syscall.
+
+URL: https://github.com/stanfrbd/cyberbro
+Description: Extracts your IoCs from garbage input and checks their reputation.
+
+URL: https://github.com/wh1te4ever/CVE-2024-54498-PoC
+Description: Escape macOS Sandbox using sharedfilelistd exploit (CVE-2024-54498).
+
+URL: https://blog.doyensec.com/2025/01/09/cspt-file-upload.html
+Description: Bypassing File Upload Restrictions To Exploit Client-Side Path Traversal.
+
+URL: https://github.com/t3l3machus/ACEshark
+Description: Extract and analyze Windows service configurations and Access Control Entries.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/Ni2NFBfKQOb
+Description: SOQL injection in SalesForce Apex.
+
+URL: https://qriousec.github.io/post/jsc-uninit/
+Description: A Brief JavaScriptCore RCE Story.
+
+URL: https://bit.ly/4a8xq8r (+)
+Description: Apache Struts2 file upload logic bypass (CVE-2024-53677).
+
+URL: https://redops.at/en/blog/direct-syscalls-a-journey-from-high-to-low
+Description: Direct Syscalls - A journey from high to low.
+
+URL: https://posts.specterops.io/adfs-living-in-the-legacy-of-drs-c11f9b371811
+Description: ADFS - Living in the Legacy of DRS.
+
+URL: https://bit.ly/4jc92GO (+)
+Description: Hijacking Azure Machine Learning Notebooks (via Storage Accounts).
+
+URL: https://gabrieldurdiak.github.io/clfd/
+Description: Analysis of CVE-2024-21310 Pool Overflow Windows Cloud Filter Driver.
+
+URL: https://www.evasec.io/blog/argo-workflows-uncovering-the-hidden-misconfigurations
+Description: Argo Workflows - Uncovering the Hidden Misconfigurations.
+
+URL: https://labs.ioactive.com/2024/10/tales-from-call-gate-smm-supervisor.html
+Description: Tales from the Call-Gate - An SMM Supervisor Vulnerability (CVE-2023-20596).
+
+URL: https://zeropath.com/blog/0day-discoveries 
+Description: Autonomous Discovery of Critical Zero-Days (Methodology for Leveraging LLMs).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://psi3.ru/blog/swl01u/
+Description: World's First MIDI Shellcode.
+
+URL: https://github.com/meyfa/CobolCraft
+Description: A Minecraft server written in COBOL.
+
+URL: https://github.com/evilsocket/nerve
+Description: Create LLM agents without writing code. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?4a461b456e3f4e65#QbnEO9kaZ8J3jkUMpGTkIgqUu/JnuXRhPNhQaFCnZU4=
