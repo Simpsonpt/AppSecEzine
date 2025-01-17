@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 03 | Month: January | Year: 2025 | Release Date: 17/01/2025 | Edition: #570 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://link.medium.com/JcoKmh35cQb
+Description: Wormable XSS www.bing.com.
+
+URL: https://matanber.com/blog/4-char-csti
+Description: Bidding Like a Billionaire - Stealing NFTs With 4-Char CSTIs.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/DualHorizon/blackpill
+Description: Linux kernel rootkit in Rust. 
+
+URL: https://github.com/LuemmelSec/APEX
+Description: Azure Post Exploitation Framework.
+
+URL: https://github.com/CICADA8-Research/Spyndicapped
+Description: COM ViewLogger - New malware keylogging technique.
+
+URL: https://github.com/RhinoSecurityLabs/IAMActionHunter
+Description: An AWS IAM policy statement parser and query tool.
+
+URL: https://github.com/Friends-Security/ShadowHound
+Description: PowerShell scripts for Active Directory enumeration.
+
+URL: https://github.com/ColeHouston/Sunder
+Description: Windows rootkit designed to work with BYOVD exploits.
+
+URL: https://github.com/evild3ad/MemProcFS-Analyzer
+Description: Automated Forensic Analysis of Windows Memory Dumps for DFIR.
+
+URL: https://github.com/Macmod/ldapx
+Description: LDAP proxy to inspect and transform all LDAP packets on the fly.
+
+URL: https://github.com/TURROKS/CVE_Prioritizer
+Description: Streamline vulnerability patching with CVSS, EPSS, and CISA's KEV.
+
+URL: https://github.com/MrAle98/CVE-2024-49138-POC
+Description: Windows Common Log File System Driver EoP Vulnerability (CVE-2024-49138).
+
+URL: https://github.com/PShlyundin/GPOHunter
+Description: Identify misconfigs and vulnerabilities in AD Group Policy Objects (GPOs).
+
+URL: https://github.com/senzee1984/EDRPrison
+Description: Leverage a WFP callout driver to prevent EDR agents from sending telemetry.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.mggross.com/intercepting-syscalls/
+Description: Reliable system call interception.
+
+URL: https://blog.thalium.re/posts/llvm-powered-devirtualization/
+Description: LLVM-powered devirtualization.
+
+URL: https://logicalhunter.me/exploiting-number-parsers-in-javascript/
+Description: Exploiting Number Parsers in JavaScript.
+
+URL: https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html
+Description: DoubleClickjacking - A New Era of UI Redressing.
+
+URL: https://modzero.com/en/blog/spring_boot_ssti/
+Description: Exploiting SSTI in a Modern Spring Boot Application (3.3.4).
+
+URL: https://bit.ly/4hdWbSO (+)
+Description: Discovering Hidden Vulnerabilities in Portainer with CodeQL.
+
+URL: https://bit.ly/3Cl7FFd (+)
+Description: Full chained Pre-Auth RCE on WSO2 Identity Manager and API Manager.
+
+URL: https://blog.reveng.ai/physmem-e-when-kernel-drivers-peek-into-memory/
+Description: PhysMem(e) - When Kernel Drivers Peek into Memory (CVE-2024-41498).
+
+URL: https://csa.limited/blog/20240916-Exploiting-Microsoft-Kernel-Applocker-Driver.html
+Description: Exploiting Microsoft Kernel Applocker Driver (CVE-2024-38041).
+
+URL: https://blog.doyensec.com/2025/01/07/ksmbd-1.html
+Description: SMB3 Kernel Server (ksmbd) vulnerability research (CVE-2024-50286/50283/50285).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://th0mas.nl/2025/01/12/tetris-in-a-pdf/
+More: https://github.com/kevinlinxc/badapple-pdf
+Description: Tetris in a PDF.
+
+URL: https://sdomi.pl/weblog/23-serenityos-realhw/
+Description: Bringing SerenityOS to real hardware, one driver at a time.
+
+URL: https://github.com/stonith404/pingvin-share
+Description: Self-hosted file sharing platform and an alternative for WeTransfer.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?59977c56bec8b958#e+wiAye2wuHVod3B89PrMI2UXgL0uNxqrn6WsHmxucE=
