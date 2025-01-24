@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 04 | Month: January | Year: 2025 | Release Date: 24/01/2025 | Edition: #571 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://osec.io/blog/2024-06-10-supply-chain-attacks-a-new-era
+Description: Supply Chain Attacks - A New Era.
+
+URL: https://bit.ly/4aqQn6p (+)
+Description: Stealing HttpOnly cookies with the cookie sandwich technique.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ELMERIKH/TelecordC2
+Description: Advanced Telegram x Discord C2.
+
+URL: https://github.com/google/osv-scalibr
+Description: A library for Software Composition Analysis.
+
+URL: https://github.com/sharsil/favicorn
+Description: All-sources tool to search websites by favicons.
+
+URL: https://github.com/obfuscar/obfuscar
+Description: Open source obfuscation tool for .NET assemblies.
+
+URL: https://github.com/003random/getJS
+Description: A tool to fastly get all JavaScript sources/files.
+
+URL: https://github.com/C411e/CVE-2024-53691
+Description: QNAP AuthN RCE via symlink traverse (CVE-2024-53691).
+
+URL: https://github.com/Invicti-Security/brainstorm
+Blog: https://bit.ly/4awnLIR (+)
+Description: Web fuzzing tool that combines local LLM models and ffuf.
+
+URL: https://github.com/mandiant/commando-vm
+Description: Complete Mandiant Offensive Windows-based VM (Commando VM).
+
+URL: https://github.com/mrmtwoj/CVE-2024-38077
+Description: Windows Remote Desktop Licensing Service RCE (CVE-2024-38077).
+
+URL: https://github.com/tyki6/MyJWT
+Description:  A CLI for cracking, testing vulnerabilities on JSON Web Token (JWT).
+
+URL: https://github.com/SafeBreach-Labs/QuickShell
+Description: Library/Tools to exploit and communicate W/ Google's Quick Share devices.
+
+URL: https://github.com/SyNSec-den/5GBaseChecker
+Description: Security analysis framework for the control plane protocols of 5G baseband.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://ostro.ws/post-timing-attacks
+Description: Fun with Timing Attacks.
+
+URL: https://ssno.cc/posts/reversing-tac-1-4-2025/
+Related: https://github.com/ssnob/hidden_syscall_monitoring
+Description: Reverse Engineering Call Of Duty Anti-Cheat.
+
+URL: https://bit.ly/4g8MLHu (+)
+Description: Spring WebFlux Authorization Bypass - CVE-2024-38821 Explained.
+
+URL: https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/
+Description: Bypassing disk encryption on systems with automatic TPM2 unlock.
+
+URL: https://extensions.neplox.security/
+Description: Comprehensive knowledge base on the security of Chromium extensions.
+
+URL: https://codesent.io/blog/code-sentinels-1/discovering-rhinos-blind-spot-1
+Description: Discovering Rhino’s Blind Spot - Apigee arbitrary commands execution.
+
+URL: https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117
+Description: Deanonymization attack targeting Signal, Discord and hundreds of platform.
+
+URL: https://srcincite.io/blog/2024/11/25/remote-code-execution-with-spring-properties.html
+Description: Remote Code Execution with Spring Properties.
+
+URL: https://blog.silentsignal.eu/2025/01/21/ibm-acs-password-dump/
+Description: Vulnerability Archeology - Stealing Passwords w/ IBM i Access Client Solutions.
+
+URL: https://github.blog/security/vulnerability-research/attacks-on-maven-proxy-repositories/
+Description: Attacks on Maven proxy repositories.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/jj-vcs/jj
+Description: Jujutsu—a version control system.
+
+URL: https://boehs.org/node/homomorphic-encryption
+Description: Homomorphic Encryption in iOS 18.
+
+URL: https://github.com/dgtlmoon/changedetection.io
+Description: Web Site Change Detection, Restock monitoring and notifications.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?f4f3382a17c0b203#UaIKdqYNkBjJPR9ML3Y3RDFjaGSVvO87Z/S5Y8X5KeI=
