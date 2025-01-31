@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 05 | Month: January | Year: 2025 | Release Date: 31/01/2025 | Edition: #572 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/40YxtzB (+)
+Description: Next.js, Cache, and Chains - The Stale Elixir.
+
+URL: https://m0z.ie/research/2025-01-27-Developing-a-Docker-1-Click-RCE-chain-for-fun/
+Related: https://mrsheepsheep.gitbook.io/blog
+Description: Developing a Docker 1-Click RCE chain for fun.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/c0dejump/HExHTTP
+Description: Header Exploitation HTTP.
+
+URL: https://github.com/montysecurity/C2-Tracker
+Description: Live Feed of C2 servers, tools, and botnets.
+
+URL: https://github.com/scottrogowski/code2flow
+Description: Pretty good call graphs for dynamic languages.
+
+URL: https://github.com/shivamsaraswat/secora
+Description: Secure Code Review AI Agent (SeCoRA) - AI SAST.
+
+URL: https://github.com/p0dalirius/ApacheTomcatScanner
+Description: A python script to scan for Apache Tomcat server vulnerabilities.
+
+URL: https://github.com/t3hbb/CortexCanary/
+More: https://bit.ly/3Cm0tce (+)
+Description: Tooling related to discovery of Cortex XDR canary files to avoid.
+
+URL: https://github.com/vavkamil/js-snitch
+Description: Scans remote JS files w/ Trufflehog+Semgrep to detect leaked secrets.
+
+URL: https://github.com/MaLDAPtive/Invoke-Maldaptive
+Description: Framework for LDAP SearchFilter parsing, (de)obfuscation and detection.
+
+URL: https://github.com/jsecurity101/JonMon
+Description: kernel-level driver to collect information related to system operations.
+
+URL: https://github.com/wangtielei/POCs/tree/main/CVE-2024-27878
+Description: macOS Universal backward-compatible kernel R/W primitives for ARM/Intel.
+
+URL: https://github.com/kulkansecurity/gitxray
+Description: OSINT tool which leverages GitHub REST APIs, Forensics, Pentesting and more.
+
+URL: https://github.com/Offensive-Panda/LsassReflectDumping
+Description: Tool via process forking using RtlCreateProcessReflection API clone lsass process.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://predictors.fail/
+Description: Apple CPUs SLAP and FLOP Attacks.
+
+URL: https://inferi.club/post/the-art-of-linux-kernel-rootkits
+Description: The Art of Linux Kernel Rootkits.
+
+URL: https://connorjaydunn.github.io/blog/posts/denuvo-analysis/
+Description: Denuvo DRM Analysis.
+
+URL: https://courk.cc/rp2350-challenge-laser
+Description: Laser Fault Injection on a Budget - RP2350 Edition.
+
+URL: https://www.pwnfuzz.com/posts/hpe-irs-cve-deep-dive/
+Description: Exploring Recent CVEs in HPE Insight Remote Support.
+
+URL: https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/
+More: https://neodyme.io/en/blog/bitlocker_why_no_fix/
+Description: Windows BitLocker - Screwed without a Screwdriver.
+
+URL: https://bit.ly/3PYrS7i (+)
+PoC: https://github.com/passthehashbrowns/Being-A-Good-CLR-Host
+Description: Being a good CLR host – Modernizing offensive .NET tradecraft.
+
+URL: https://security.opensuse.org/2025/01/24/dde-api-proxy-privilege-escalation.html
+Description: Authentication Bypass in Deepin D-Bus Proxy Service (CVE-2025-23222).
+
+URL: https://www.sonarsource.com/blog/the-tainted-voyage-uncovering-voyagers-vulnerabilities/
+Description: The Tainted Voyage - Uncovering Voyager's Vulnerabilities.
+
+URL: https://noventiq.com/security_blog/spring-view-manipulation-in-spring-boot-3-1-2
+Description: It explores how unrestricted view name manipulation in Spring Boot can lead to RCE.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/bluewave-labs/checkmate
+Description: An open source server monitoring application.
+
+URL: https://github.com/lightpanda-io/browser
+Description: Lightpanda - The headless browser designed for AI and automation.
+
+URL: https://paulmillr.com/noble/
+Description: High-security, easily auditable set of contained cryptographic libraries.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?871f09331bbd8d13#6ahftCLH0VYSLjlk8M+FtRW8EibTcKL+J5qO7xUUPpk=
