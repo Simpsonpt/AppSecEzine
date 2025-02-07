@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 06 | Month: February | Year: 2025 | Release Date: 07/02/2025 | Edition: #573 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/4aLTlTd (+)
+Description: form-action CSP Bypass And Other Tactics For Dealing With The CSP.
+
+URL: https://flatt.tech/research/posts/clone2leak-your-git-credentials-belong-to-us/
+Description: Clone2Leak - Your Git Credentials Belong To Us.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/aniqfakhrul/powerview.py
+Description: PowerView alternative.
+
+URL: https://github.com/xkiian/cloudflare-jsd
+Description: Bypass Cloudflare's /h/b/jsd challenge using 100% python.
+
+URL: https://infosecwriteups.com/xss-bypassing-waf-with-hex-overflow-bafbf8bc43b0
+Description: XSS — Bypassing WAF with Hex Overflow.
+
+URL: https://github.com/p0dalirius/DumpSMBShare
+Description: A script to dump files and folders remotely from a Windows SMB share.
+
+URL: https://github.com/airbus-seclab/soxy
+Description: A suite of services over Citrix, VMware Horizon and native Windows RDP.
+
+URL: https://github.com/SafeBreach-Labs/CVE-2024-49113
+Description: LdapNightmare - PoC to test vulnerable Windows Servers (CVE-2024-49113).
+
+URL: https://github.com/j3ssie/sdlookup
+Description: IP Lookups for Open Ports and Vulnerabilities from internetdb.shodan.io.
+
+URL: https://www.nowsecure.com/blog/2025/01/29/decompiling-apps-with-ai-language-models/
+Description: Decompiling Apps With AI Language Models.
+
+URL: https://github.com/pablosnt/rekono
+Description: Execute pentesting processes combining multiple hacking tools automatically.
+
+URL: https://github.com/hakivvi/ermir
+Description: Evil/Rogue RMI Registry - Exploits insecure deserialization on RMI methods calls.
+
+URL: https://github.com/AdrianVollmer/PowerHub
+Description: Post exploitation tool to bypass endpoint protection and application whitelisting. 
+
+URL: https://github.com/NVISOsecurity/codasm
+Description: Encode arbitrary data into pseudo ASM and compile it to .text section of binaries.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://link.medium.com/MGgjsxDILQb 
+Description: Secondary Context Leads To Company Takeover.
+
+URL: https://blog.doyensec.com/2025/01/30/oauth-common-vulnerabilities.html
+Description: Common OAuth Vulnerabilities.
+
+URL: https://bit.ly/414I0dK (+)
+Description: Bypassing Okta's Passwordless MFA - Technical Analysis and Detection.
+
+URL: https://www.zerosalarium.com/2025/01/path-masquerading-hide-in-plain-sight.html
+Description: Path masquerading - Hide in plain sight.
+
+URL: https://timsh.org/tracking-myself-down-through-in-app-ads/
+Description: Everyone knows your location - Tracking myself down through in-app ads.
+
+URL: https://birkep.github.io/posts/Windows-LPE/
+Description: AD Domain Services Elevation of Privilege Vulnerability (CVE-2025-21293).
+
+URL: https://security.lauritz-holtmann.de/post/sso-security-redirect-uri-iii/
+Description: POST to XSS - Leveraging Pseudo Protocols to Gain JS Evaluation in SSO Flows.
+
+URL: https://bit.ly/4jKEhct (+)
+Description: Mali-cious Intent - Exploiting GPU Vulnerabilities (CVE-2022-22706/CVE-2021-39793).
+
+URL: https://labs.sqrx.com/browser-syncjacking-cc602ea0cbd0
+Description: Browser Syncjacking - How Any Browser Extension can Be Used to Takeover Your Device.
+
+URL: https://neodyme.io/en/blog/com_hijacking_1/
+More: https://neodyme.io/en/blog/com_hijacking_2/
+Description: Pwning AVs/EDRs by Hijacking COM Interfaces and Abusing a TOCTOU race to gain SYSTEM.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/ErdemOzgen/blackdagger
+Description: Powerful Cron alternative that comes with a Web UI.
+
+URL: https://genesis-embodied-ai.github.io/
+Description: A Generative and Universal Physics Engine for Robotics and Beyond.
+
+URL: https://github.com/shadps4-emu/shadPS4
+Description: PlayStation 4 emulator for Windows, Linux and macOS written in C++.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?3970e59b0207db12#eDikTbRDP+G54CA39blrsJAf/NtIGNyOQuuvQgr7+Dw=
