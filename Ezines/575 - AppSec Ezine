@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 08 | Month: February | Year: 2025 | Release Date: 21/02/2025 | Edition: #575 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://binarysecurity.no/posts/2025/01/finding-ssrfs-in-devops
+Description: Finding SSRFs in Azure DevOps.
+
+URL: https://flatt.tech/research/posts/escaping-electron-isolation-with-obsolete-feature/
+Description: Achieving RCE in famous Japanese chat tool with an obsolete Electron feature.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Ragnt/AngryOxide
+Description: A 802.11 Attack tool built in Rust.
+
+URL: https://github.com/KingKDot/PowerCrypt
+Description: The best powershell obfuscator ever made.
+
+URL: https://github.com/siamthanathack/Passkey-Raider
+Description: Burp Suite extension for testing Passkey systems.
+
+URL: https://github.com/roger1337/JDBG
+Description: Java Runtime Reverse Engineering and Debugging Tool.
+
+URL: https://github.com/wh1te4ever/WebKit-Bug-256172
+Description: Safari 1day RCE Exploit (iOS <16.5.1 and macOS <13.4.1).
+
+URL: https://github.com/Phil0x4a/msuserstats
+Description: Powershell tool to manage accounts from Microsoft EntraID and AD.
+
+URL: https://github.com/scrt/PowerChell
+Blog: https://blog.scrt.ch/2025/02/18/reinventing-powershell-in-c-c/
+Description: A PowerShell console in C/C++ with all the security features disabled.
+
+URL: https://github.com/albertan017/LLM4Decompile
+Description: Reverse Engineering - Decompiling Binary Code with Large Language Models.
+
+URL: https://github.com/RedTeamPentesting/keycred
+Description: Tool that implements the KeyCredentialLink structs from AD Tech Specs (MS-ADTS).
+
+URL: https://github.com/n0mi1k/pmkidcracker
+Description: Tool to crack WPA2 passphrase w/ PMKID value w/out clients or de-authentication.
+
+URL: https://github.com/Bw3ll/sharem
+Description: Shellcode analysis framework, capable of emulating WinAPIs and Windows syscalls.
+
+URL: https://github.com/quahac/M365TokenRepeater
+Description: Tool to utilize HAR (HTTP Archive) files to abuse logged-in users in Azure/MS365.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bryce.co/undebuggable/
+Description: Debugging An Undebuggable App.
+
+URL: https://eversinc33.com/posts/anti-anti-rootkit-part-i/
+More: https://eversinc33.com/posts/anti-anti-rootkit-part-ii.html
+Description: (Anti-)Anti-Rootkit Techniques (Series).
+
+URL: https://blog.pspaul.de/posts/gymtok-breaking-tls-with-alt-svc/
+Description: GymTok - Breaking TLS Using the Alt-Svc Header.
+
+URL: https://link.medium.com/YbRTEPVg9Qb 
+Description: Mastering Windows Access Control - Understanding SeDebugPrivilege.
+
+URL: https://jhftss.github.io/Parallels-0-day/
+Description: Parallels Desktop Repack Root Privilege Escalation (CVE-2024-34331 Bypass).
+
+URL: https://bit.ly/4k8lV5m (+)
+Description: Accidentally uncovering a seven years old vulnerability in the Linux kernel.
+
+URL: https://infosec.rm-it.de/2025/02/17/microsoft-edge-developer-vm-remote-code-execution/
+Description: Microsoft Edge Developer VM Remote Code Execution.
+
+URL: https://cellularsecurity.org/ransacked
+Description: RANsacked - A Domain-Informed Approach for Fuzzing LTE and 5G RAN-Core Interfaces.
+
+URL: https://charliegerard.dev/blog/replay-attacks-javascript-hackrf/
+Description: Hacking cars in JavaScript (Running replay attacks in the browser with the HackRF).
+
+URL: https://bit.ly/4kb0yjK (+)
+Description: How auto-generated passwords in Sitevision leads to signing key leak (CVE-2022-35202).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/OpenHealthForAll/open-health
+Description: (Local) AI Health Assistant.
+
+URL: https://00f.net/2025/02/11/luks/
+Description: Options for full disk encryption on Linux.
+
+URL: https://github.com/x86matthew/Playable3DMaze
+Description: A playable version of Microsoft's old 3DMaze screensaver from Windows 9x.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?f7ebd637d063d2da#HsRlRxJ0IHJimeJp2YY1G/P8VA6ee98Pci8DcAMuJII=
