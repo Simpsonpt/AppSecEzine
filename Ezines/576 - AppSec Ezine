@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 09 | Month: February | Year: 2025 | Release Date: 28/02/2025 | Edition: #576 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.voorivex.team/oauth-non-happy-path-to-ato
+Description: OAuth Non-Happy Path to ATO.
+
+URL: https://www.landh.tech/blog/20250211-hack-supply-chain-for-50k/
+Description: How We Hacked a Software Supply Chain for $50K.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/mnrkbys/fjta
+Description: FJTA - Forensic Journal Timeline Analyzer.
+
+URL: https://github.com/riza/linx
+Description: Reveals invisible links within JavaScript files.
+
+URL: https://github.com/strazzere/distil-solver
+Description: Solve distil networks "anti-bot" detection for usage in bots.
+
+URL: https://github.com/jtesta/k8s_spoofilizer
+Blog: https://www.positronsecurity.com/blog/2025-02-26-kubernetes-golden-tickets/
+Description: Creates K8s Golden Tickets through ServiceAccount.
+
+URL: https://github.com/7ORP3DO/infoooze
+Description: Infoooze is an Open-source intelligence (OSINT) tool in NodeJs.
+
+URL: https://github.com/riskscanner/riskscanner
+Description: RiskScanner - Multi-cloud security compliance scanning platform.
+
+URL: https://github.com/enenumxela/subdomains.sh
+Description: A wrapper around tools for subdomain enumeration on a given domain.
+
+URL: https://github.com/mohamedbenchikh/CVE-2022-27925
+Description: Zimbra Unauthenticated Remote Code Execution Exploit (CVE-2022-27925).
+
+URL: https://github.com/Arcanum-Sec/msftrecon
+Description: Reconnaissance tool to map Microsoft 365 and Azure tenant infrastructure.
+
+URL: https://github.com/decoder-it/NewMachineAccount
+Description: Tool for creating new machine accounts w/ custom password within a domain.
+
+URL: https://github.com/xforcered/SoaPy
+Blog: https://bit.ly/4ighL9T (+)
+Description: Tool to interact with Active Directory Web Services (ADWS) from Linux hosts.
+
+URL: https://github.com/GONZOsint/geowifi
+Description: Search WiFi geolocation data by BSSID and SSID on different public databases.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://neodyme.io/en/blog/pwn2own-2022_printer_rce/
+Description: RCE on the HP M479fdw printer.
+
+URL: https://blog.sshh.io/p/how-to-backdoor-large-language-models
+Description: How to Backdoor Large Language Models.
+
+URL: https://www.blackhillsinfosec.com/dll-jmping/
+Description: DLL Jmping: Old Hollow Trampolines in Windows DLL Land.
+
+URL: https://dfir.ru/2025/02/23/symlink-attacks-without-code-execution/
+Description: Symlink attacks without code execution.
+
+URL: https://josephthacker.com/hacking/2025/02/25/how-to-hack-ai-apps.html
+Description: How to Hack AI Agents and Applications.
+
+URL: https://bit.ly/43aXaj3 (+)
+Description: Mixing up Public and Private Keys in OpenID Connect deployments.
+
+URL: https://bit.ly/3QDVc38 (+)
+Description: Thread Hijacking Iceberg - Deep Dive into Phantom Call & RtlRemoteCall.
+
+URL: https://mizu.re/post/exploring-the-dompurify-library-hunting-for-misconfigurations
+Description: Exploring the DOMPurify library - Hunting for Misconfigurations
+
+URL: https://devanshbatham.hashnode.dev/fragility-of-the-internet
+Description: How Sacrificial NS allowed potential DNS hijacking of 1.6+ million domains.
+
+URL: https://bit.ly/3Ch592m (+)
+Description: Unbind/Rebind port 445 w/out loading a driver/module into LSASS, or reboot.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/moses297/doom-on-google-sheets
+Description: DOOM on Google Sheets.
+
+URL: https://github.com/DarkWebInformer/FBI_Watchdog
+Description: Monitors domain seizures and DNS record changes in real time.
+
+URL: https://xphantom.nl/posts/Offensive-Security-Lab/
+Description: Build Your Own Offensive Security Lab A Step-by-Step Guide with Ludus.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?2a1b33c2b7191359#0b1smM7sFUJ1pQgbZLuBMm4j2gzuXnilLNhfixNtxIg=
