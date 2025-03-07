@@ -1,0 +1,125 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 10 | Month: March | Year: 2025 | Release Date: 07/03/2025 | Edition: #577  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://castilho.onrender.com/better-auth
+Description: Bypass Better-Auth trustedOrigins Protection leads to ATO.
+
+URL: https://jorianwoltjer.com/blog/p/hacking/pressing-buttons-with-popups
+Description: Pressing Buttons with Popups (on Twitch, LinkedIn and more).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Hakky54/certificate-ripper
+Description: A CLI tool to extract server certificates.
+
+URL: https://github.com/eversinc33/1.6-C2
+Description: Using the Counter Strike 1.6 RCON protocol as a C2 Channel.
+
+URL: https://github.com/securifybv/Visual-Studio-BOF-template
+Description: A Visual Studio template used to create Cobalt Strike BOFs.
+
+URL: https://github.com/kelvinBen/AppInfoScanner
+Description: A mobile terminal information collection and scanning tool.
+
+URL: https://github.com/blacklanternsecurity/MANSPIDER
+Description: Spider entire networks for juicy files sitting on SMB shares.
+
+URL: https://github.com/MrAle98/CVE-2025-21333-POC
+Description: Heap-based buffer overflow in vkrnlintvsp.sys (CVE-2025-21333).
+
+URL: https://github.com/firefart/hijagger
+Description: Domain re-registration validation for NPM and Pypi maintainers.
+
+URL: https://github.com/herosi/PyClassInformer
+Description: Yet Another Run-Time Type Information (RTTI) Parsing IDA plugin.
+
+URL: https://github.com/MichaelGrafnetter/DSInternals
+Description: Directory Services Internals (DSInternals) PS Module and Framework.
+
+URL: https://github.com/AnonCatalyst/Odinova
+Description: Advanced application designed for Open-Source Intelligence (OSINT).
+
+URL: https://github.com/T3nb3w/ComDotNetExploit
+Description: Exploit Protected Process Light (PPL) via COM-to-.NET redirection/reflection.
+
+URL: https://github.com/quic/eud
+Description: Qualcomm chipsets efficient debugging/development via Embedded USB Debug (EUD).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.doyensec.com/2025/02/11/exploitable-iot.html
+More: https://blog.doyensec.com/2025/03/04/exploitable-sshd.html
+Description: !exploitable Series - Breaking IoT and Enter the Matrix.
+
+URL: https://disconnect3d.pl/2025/03/03/when-null-isnt-null-on-linux/
+Description: When NULL isn't null - mapping memory at 0x0 on Linux.
+
+URL: https://www.hacefresko.com/posts/rce-on-solr-server-via-replication
+Description: A very fancy way to obtain RCE on a Solr server.
+
+URL: https://slcyber.io/blog/sitecore-unsafe-deserialization-again-cve-2025-27218/
+Description: Sitecore - Unsafe Deserialisation Again! (CVE-2025-27218).
+
+URL: https://nroottag.github.io/
+Description: Turning a Bluetooth Device into an Apple AirTag Without Root Privileges.
+
+URL: https://icode4.coffee/?p=1047
+More: https://icode4.coffee/?p=1081
+Description: Hacking the Xbox 360 Hypervisor - System Overview and The Bad Update Exploit.
+
+URL: https://bit.ly/4foPoVy (+)
+Description: Abusing URL Parsing to Exploit XXE on SharePoint Server/Cloud (CVE-2024-30043).
+
+URL: https://www.reversinglabs.com/blog/rl-identifies-malware-ml-model-hosted-on-hugging-face
+Description: Malicious ML models discovered on Hugging Face platform.
+
+URL: https://bit.ly/3Ap0ZFh (+)
+Description: Server-Side Template Injection - Transforming Web Apps from Assets to Liabilities.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/solst-ice/chirp
+Description: Chirp - Sound-based Data Transfer.
+
+URL: https://github.com/browser-use/browser-use
+Description: Make websites accessible for AI agents.
+
+URL: https://github.com/x86matthew/NES-Emulator/
+Description: NES emulator written in C/C++ using pure WinAPI.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?45afb02babf5ac0a#Jb4URcmU9wF/FsgIlGVxpRQuXbMwqC6ILv7NEP+schs=
