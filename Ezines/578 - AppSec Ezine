@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 11 | Month: March | Year: 2025 | Release Date: 14/03/2025 | Edition: #578  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://brutecat.com/articles/youtube-creator-emails
+Description: Disclosing YouTube Creator Emails for a $20k Bounty.
+
+URL: https://mastersplinter.work/research/passkey/
+Tool: https://github.com/Splinter0/CrossCheck
+Description: PassKey Account Takeover in All Mobile Browsers (CVE-2024-9956).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/nyxgeek/cloudkicker
+Description: Self-hosted Azure OSINT tool.
+
+URL: https://github.com/nikmcfly/ANUS
+Description: Anus - Autonomous Networked Utility System.
+
+URL: https://www.atredis.com/blog/2025/3/7/node-is-a-loader
+Description: Node is a loader.
+
+URL: https://github.com/grimdoomer/Xbox360BadUpdate
+Description: Software only hypervisor exploit for Xbox 360.
+
+URL: https://text.tchncs.de/ioi/backdooring-electron-applications
+Description: Backdooring Electron Applications.
+
+URL: https://github.com/ginuerzh/gost
+Description: GO Simple Tunnel - a simple tunnel written in golang.
+
+URL: https://github.com/sudonoodle/Aggressor-NTFY/
+Description: Cobalt Strike beacon notifications using the NTFY app.
+
+URL: https://github.com/mlw157/scout
+Description: Lightweight and modular Software Composition Analysis (SCA) tool.
+
+URL: https://github.com/ACE-Responder/RogueSliver
+Description: A suite of tools to disrupt campaigns using the Sliver C2 framework.
+
+URL: https://github.com/synacktiv/GPOddity
+Description: Tool to automate GPO attack vectors through NTLM relaying (and more).
+
+URL: https://github.com/sharsil/mailcat
+Description: Find existing email addresses by nickname using API/SMTP checking methods.
+
+URL: https://github.com/F6JO/JsRouteScan
+Description: Get routes from responses in passive and recursive directory detection (Burp plugin).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://afine.com/history-of-null-pointer-dereferences-on-macos/
+Description: History of NULL Pointer Dereferences on macOS.
+
+URL: https://www.binarysecurity.no/posts/2025/03/api-connections
+Description: Azure's Weakest Link? How API Connections Spill Secrets.
+
+URL: https://alfiecg.uk/2025/03/01/Trigon.html
+Description: Trigon - Developing a deterministic kernel exploit for iOS.
+
+URL: https://bit.ly/3Fw3ZC4 (+)
+Description: Windows heap-based buffer overflow analysis (CVE-2025–21333).
+
+URL: https://www.synacktiv.com/publications/diving-into-adb-protocol-internals-12
+More: https://www.synacktiv.com/publications/diving-into-adb-protocol-internals-22.html
+Description: Diving into ADB protocol internals (Series).
+
+URL: https://bit.ly/41QzIVI (+)
+Tool: https://github.com/antoniovazquezblanco/usbbluetooth
+Description: Hacking Bluetooth the Easy way with ESP32 HCI Commands and hidden features.
+
+URL: https://blog.quarkslab.com/technical-dive-into-modern-phishing.html
+Description: Beyond the Hook - A Technical Deep Dive into Modern Phishing Methodologies.
+
+URL: https://www.elttam.com/blog/rails-sqlite-gadget-rce/
+Description: New Method to Leverage Unsafe Reflection and Deserialisation to RCE on Rails.
+
+URL: https://timsh.org/github-scam-investigation-thousands-of-mods-and-cracks-stealing-your-data/
+Description: Github scam investigation - Thousands of "mods" and "cracks" stealing your data.
+
+URL: https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security
+Description: SAP AI vulnerabilities expose customers’ cloud environments and private AI artifacts.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/electronicarts
+Description: Command & Conquer(s) Open Source.
+
+URL: https://bret.io/blog/2025/i-love-monorepos/
+Description: I Love Monorepos - Except When They Are Annoying.
+
+URL: https://github.com/hedge-dev/XenonRecomp
+Description: A tool for recompiling Xbox 360 games to native executables.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?aed067870d504fe6#aF+yXYkPHNWaHEoWq9XfM+Ej8AxUeuiBsOjowRPR8pU=
