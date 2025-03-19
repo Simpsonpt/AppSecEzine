@@ -17,6 +17,7 @@ URL: https://matanber.com/blog/cspt-levels
 Description: Bypassing WAFs to Exploit CSPT Using Encoding Levels.
 
 URL: https://bit.ly/3QLIVKg (+)
+PoC: https://github.com/doyensec/malicious-devfile-registry
 Description: Devfile file write vulnerability in GitLab (CVE-2024-0402).
 
 
