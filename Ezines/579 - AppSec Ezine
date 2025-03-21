@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 12 | Month: March | Year: 2025 | Release Date: 21/03/2025 | Edition: #579  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://matan-h.com/intel-suspicious-xss
+Description: Intel Suspicious XSS.
+
+URL: https://vitorfalcao.com/posts/hacking-high-profile-targets/
+Description: Hacking High-Profile Bug Bounty Targets - Deep Dive into a Client-Side Chain.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/cristianzsh/freki
+Description: Malware analysis platform.
+
+URL: https://github.com/Arcanum-Sec/arc_pi_taxonomy
+Description: Prompt Injection Taxonomy Repository.
+
+URL: https://github.com/LowOrbitSecurity/gubble
+Description: Tool designed to audit Google Workspace group settings.
+
+URL: https://github.com/luijait/GONET-Scanner
+Description: Golang network scanner with arp discovery and own parser.
+
+URL: https://github.com/nccgroup/jwt-reauth
+Blog: https://research.nccgroup.com/2022/08/25/tool-release-jwt-reauth/
+Description: Burp plugin to cache authentication tokens from an "auth" URL.
+
+URL: https://github.com/3itch/checkm8
+Description: Bypassing intel txt's tboot integrity checks via coreboot shim.
+
+URL: https://github.com/buger/goreplay
+Description: Tool to capture/replay live HTTP traffic into a test environment.
+
+URL: https://github.com/R3DRUN3/vermilion
+Description: Linux post exploitation tool for info gathering and exfiltration.
+
+URL: https://github.com/DarkSpaceSecurity/SSH-Stealer
+Description: Smart keylogging to steal SSH Credentials including password & Private Key.
+
+URL: https://github.com/0x6rss/CVE-2025-24071_PoC
+Blog: https://cti.monster/blog/2025/03/18/CVE-2025-24071.html
+Description: NTLM Hash Leak via RAR/ZIP Extraction and .library-ms File (CVE-2025-24071).
+
+URL: https://github.com/iSee857/CVE-2025-24813-PoC
+More: https://scrapco.de/blog/analysis-of-cve-2025-24813-apache-tomcat-path-equivalence-rce.html
+Description: Apache Tomcat RCE Vulnerability Batch Detection Script (CVE-2025-24813).
+
+URL: https://github.com/kleiton0x00/HTTP-Smuggling-Calculator
+Description: Perform TE.CL HTTP Request Smuggling attacks by crafting HTTP Request automatically.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://wts.dev/posts/password-leak/
+Description: Leaking Passwords (and more!) on macOS.
+
+URL: https://swarm.ptsecurity.com/impossible-xxe-in-php/
+Description: Impossible XXE in PHP.
+
+URL: https://bughunters.google.com/reports/vrp/qMhY4nw9i
+Description: CEF Debugger Enabled in Google Web Designer.
+
+URL: https://something.fromnothing.blog/posts/something-from-nothing/
+Description: Something From Nothing - Breaking AES encrypted firmwares.
+
+URL: https://janbakker.tech/evilginx-loves-temporary-access-passes-too/
+Description: Evilginx loves Temporary Access Passes too.
+
+URL: https://portswigger.net/research/saml-roulette-the-hacker-always-wins
+Description: SAML roulette - the hacker always wins.
+
+URL: https://workos.com/blog/samlstorm
+Description: SAMLStorm - Critical Authentication Bypass in xml-crypto and Node.js libraries.
+
+URL: https://bit.ly/423YL8f (+)
+Description: Unsafe Deserialization in Wazuh Leading to Remote Code Execution (CVE-2025-24016).
+
+URL: https://bit.ly/41FOK0F (+)
+Description: Bypassing AuthN Like It’s The '90s - Pre-Auth RCE Chain(s) in Kentico Xperience CMS.
+
+URL: https://armiyon.me/blog/2025/cve-2024-10095-unsafe-deserialization-enables-rce-in-telerik-ui
+Description: Unsafe Deserialization Enables RCE in Telerik UI (CVE-2024-10095).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://epochalypse-project.org/
+Description: The 32-bit Timestamp Vulnerability: Our Digital Time Bomb.
+
+URL: https://github.com/haris-musa/excel-mcp-server
+Description: A Model Context Protocol server for Excel file manipulation.
+
+URL: https://github.com/milen-denev/rastdp
+Description: UDP-based Asynch communication protocol for inter-application messaging. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?6384f7d36b26fac1#rEmHDnEJeKYCndj1OweSzceKQzsjVw7LKk6LVC801JQ=
