@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 13 | Month: March | Year: 2025 | Release Date: 28/03/2025 | Edition: #580  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/4jas0gw (+)
+Description: OpenResty/lua-nginx-module HTTP Request Smuggling via HEAD (CVE-2024-33452).
+
+URL: https://kibty.town/blog/todesktop/
+Description: How to gain code execution on millions of people and hundreds of popular apps.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ttpreport/ligolo-mp
+Description: Multiplayer pivoting solution.
+
+URL: https://ricardojoserf.github.io/emqxrce/
+Description: RCE via malicious plugin in EMQX Dashboard.
+
+URL: https://github.com/ekknod/smm
+Description: Install cheats as UEFI drivers and run them in SMM.
+
+URL: https://github.com/kereva-dev/kereva-scanner
+Description: Code scanner to check for issues in prompts and LLM calls.
+
+URL: https://github.com/persistent-security/reverseyara
+Description: A tool to generate payloads from YARA Signatures - Reverse Yara.
+
+URL: https://github.com/safedv/RustPotato
+Description: Rust GodPotato — abusing SeImpersonate to gain SYSTEM privileges.
+
+URL: https://github.com/LaurieWired/GhidraMCP
+Description: MCP server for allowing LLMs to autonomously reverse engineer applications.
+
+URL: https://github.com/DosX-dev/Astral-PE
+Description: Low-level mutator (headers obfuscator) for native Windows PE files (x32/x64).
+
+URL: https://github.com/VoidSec/DriverBuddyReloaded
+Description: IDA Pro Python plugin to automate some tedious Windows Kernel Drivers RE tasks.
+
+URL: https://github.com/fkie-cad/squid
+Description: RISC-V emulator for high-performance fuzzing w/ AOT instead of JIT compilation.
+
+URL: https://github.com/Protosec-Research/AutoGDB
+Description: Binary-exploitation Tool combining ML ReACT Reasoning and GDB Dynamic Debugging.
+
+URL: https://github.com/c3l3si4n/pugdns
+Description: DNS query tool built w/ AF_XDP for extremely fast and accurate bulk DNS lookups.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://zeifan.my/Windows-LNK/
+PoC: https://gist.github.com/nafiez/1236cc4c808a489e60e2927e0407c8d1
+Description: Windows LNK - Analysis & Proof-of-Concept.
+
+URL: https://bit.ly/42l1Vp9 (+)
+Description: Domain-Level RCE in Veeam Backup & Replication (CVE-2025-23120).
+
+URL: https://sensepost.com/blog/2025/leakymetry-circumventing-glpi-authentication/
+PoC: https://github.com/Orange-Cyberdefense/glpwnme
+Description: Leakymetry - Circumventing GLPI Authentication.
+
+URL: https://ionutbalosin.com/2025/03/core-application-security-for-java-developers/
+Description: Core Application Security for Java Developers.
+
+URL: https://www.wietzebeukema.nl/blog/bypassing-detections-with-command-line-obfuscation
+Tool: https://argfuscator.net/
+Description: Bypassing Detections with Command-Line Obfuscation.
+
+URL: https://spaceraccoon.dev/pwning-millions-smart-weighing-machines-api-hardware-hacking/
+Description: Pwning Millions of Smart Weighing Machines with API and Hardware Hacking.
+
+URL: https://rhinosecuritylabs.com/research/cve-2024-55963-unauthenticated-rce-in-appsmith/
+Description: Unauthenticated RCE in Default-Install of Appsmith (CVE-2024-55963).
+
+URL: https://zhero-web-sec.github.io/research-and-things/nextjs-and-the-corrupt-middleware
+PoC: https://gist.github.com/ricardojba/86eaf1c5da9467c9670aeaf5913f9145
+Description: Next.js and the corrupt middleware - the authorizing artifact (CVE-2025-29927).
+
+URL: https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities
+PoC: https://github.com/sandumjacob/IngressNightmare-POCs
+Description: UnAuthN Remote Code Execution Vulnerabilities in Ingress NGINX (IngressNightmare).
+
+URL: https://bit.ly/4hu7Ttt (+)
+Description: Weaponizing Windows Thread Pool APIs - Proxying DLL Loads Using I/O Completion CBs.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://degooglisons-internet.org/en/
+Description: De-google-ify Internet.
+
+URL: https://github.com/FFmpeg/asm-lessons
+Description: FFMPEG Assembly Language Lessons.
+
+URL: https://github.com/aaddrick/claude-desktop-debian
+Description: Claude Desktop for Debian-based Linux distributions.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?94fef6e1d88cee84#fBDZtrz8GV61O1oJd+9JWBeCO0Kuzyeb3/rheyA/NLA=
