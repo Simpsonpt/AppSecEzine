@@ -39,6 +39,9 @@ Description: Impersonate Tokens using only NTAPI functions.
 URL: https://github.com/hahwul/dalfox
 Description: Open-source XSS scanner and utility focused on automation.
 
+URL: https://github.com/akamai/CVE-2025-27636-Apache-Camel-PoC
+Description: Bypass/Injection in Apache Camel (CVE-2025–27636/CVE-2025-29891).
+
 URL: https://github.com/hyperb1iss/droidmind
 Description: Control Android devices with AI through the Model Context Protocol.
 
@@ -50,9 +53,6 @@ Description: Monitor your Microsoft 365 tenant's security configuration using Ma
 
 URL: https://github.com/DarkSpaceSecurity/DocEx
 Description: APT Emulation tool to exfiltrate sensitive .docx, .pptx, .xlsx, .pdf files.
-
-URL: https://github.com/akamai/CVE-2025-27636-Apache-Camel-PoC
-Description: Bypass/Injection in Apache Came Apache Camel (CVE-2025–27636/CVE-2025-29891).
 
 URL: https://github.com/timb-machine/packet-monkey
 Description: Packet Monkey is a tool to filter and classify PCAPs using Wireshark filters.
