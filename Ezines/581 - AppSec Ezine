@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 14 | Month: April | Year: 2025 | Release Date: 04/04/2025 | Edition: #581  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://snyk.io/articles/hijacking-oauth-flows-via-cookie-tossing/
+Description: Hijacking OAUTH flows via Cookie Tossing.
+
+URL: https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/
+Description: We hacked Google's A.I Gemini and leaked its source code (at least some part).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/gmh5225/FakeEnclave
+Description: A PoC that abuses Intel SGX Enclave.
+
+URL: https://github.com/CYB3RMX/Qu1cksc0pe
+Description: All-in-One static malware analysis tool.
+
+URL: https://github.com/ricardojoserf/NativeTokenImpersonate
+Blog: https://ricardojoserf.github.io/nativetokenimpersonate/
+Description: Impersonate Tokens using only NTAPI functions.
+
+URL: https://github.com/hahwul/dalfox
+Description: Open-source XSS scanner and utility focused on automation.
+
+URL: https://github.com/hyperb1iss/droidmind
+Description: Control Android devices with AI through the Model Context Protocol.
+
+URL: https://github.com/Zouuup/landrun
+Description: A lightweight, secure sandbox for running Linux processes using Landlock.
+
+URL: https://github.com/maester365/maester
+Description: Monitor your Microsoft 365 tenant's security configuration using Maester.
+
+URL: https://github.com/DarkSpaceSecurity/DocEx
+Description: APT Emulation tool to exfiltrate sensitive .docx, .pptx, .xlsx, .pdf files.
+
+URL: https://github.com/akamai/CVE-2025-27636-Apache-Camel-PoC
+Description: Bypass/Injection in Apache Came Apache Camel (CVE-2025–27636/CVE-2025-29891).
+
+URL: https://github.com/timb-machine/packet-monkey
+Description: Packet Monkey is a tool to filter and classify PCAPs using Wireshark filters.
+
+URL: https://github.com/musana/CF-Hero
+Description: Recon tool to discover the origin IP addresses of Cloudflare-protected webapps.
+
+URL: https://github.com/0xhebi/CVEs/blob/main/Crow/CVE-2022-38667.md
+Description: Crow Serers <= 1.0+4 UAF and Code Execution via HTTP pipelining (CVE-2022-38667).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://jro.sg/ida-mcp-exec.html
+Description: Code Execution in IDA MCP Servers.
+
+URL: https://blog.slowerzs.net/posts/keyjumper/
+Description: Code reuse in the age of kCET and HVCI.
+
+URL: https://alexwlchan.net/2025/github-actions-audit/
+Description: Whose code am I running in GitHub Actions?
+
+URL: https://attack.csrf.patrickod.com/
+Description: gorilla/csrf Go library CSRF vulnerability.
+
+URL: https://reverse.put.as/2025/03/13/cracking-the-crackers/
+Description: Cracking the Crackers.
+
+URL: https://bit.ly/3EeoOBq (+)
+Description: A Not So Comprehensive Guide to Securing Your Salesforce Organization.
+
+URL: https://pierrekim.github.io/blog/2025-03-31-paloalto-dpi-3-vulnerabilities.html
+Description: 3 vulnerabilities in Palo Alto Deep Packet Inspection mechanism.
+
+URL: https://zhero-web-sec.github.io/research-and-things/react-router-and-the-remixed-path
+Description: React Router and the Remix'ed path.
+
+URL: https://projectblack.io/blog/zendto-nday-vulnerabilities/
+Description: ZendTo NDay Vulnerability Hunting - Unauthenticated RCE in v5.24-3 <= v6.10-4.
+
+URL: https://bit.ly/3Rypl4d (+)
+Description: XSS To RCE By Abusing Custom File Handlers - Kentico Xperience CMS (CVE-2025-2748).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://hex.pov.sh/
+Description: Hex editor for viewing, editing and sharing binary files.
+
+URL: https://github.com/apple/ml-cubifyanything
+Description: Public implementation of Cubify Transformer and the associated CA-1M dataset.
+
+URL: https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code
+Description: Celebrate 50 years of Microsoft with the company's original source code.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?11c24fecc2c5086f#52q1AitKYtm4g7T6iYQxPxOHVwswUN5rlbJTeiwXN+c=
