@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 15 | Month: April | Year: 2025 | Release Date: 11/04/2025 | Edition: #582  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://osec.io/blog/2025-07-07-subverting-web2-authentication-in-web3
+Description: Subverting Web2 Authentication in Web3.
+
+URL: https://gist.github.com/parrot409/e970b155358d45b298d7024edd9b17f2
+Description: Ubuntu distros exfiltrating files using the GNOME Help (CVE-2025-3155).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://www.promptfoo.dev/lm-security-db/
+Description: Language Model Security Database.
+
+URL: https://github.com/fail0verflow/ps5-umtxdbg/
+Description: PS5 Kernel Exploit.
+
+URL: https://eshard.com/posts/emulating-ios-14-with-qemu
+Description: Emulating an iPhone (iOS 14) in QEMU.
+
+URL: https://github.com/bjornhels/CVE-2025-30065
+Description: Parquet Deserialization PoC (CVE-2025-30065).
+
+URL: https://github.com/whitequark/ApplyDeltaB
+Description: An utility to apply Windows Update binary patches.
+
+URL: https://github.com/xforcered/RemoteMonologue
+Description: Weaponizing DCOM for NTLM Authentication Coercions.
+
+URL: https://github.com/worawit/blutter
+Description: Flutter Mobile Application Reverse Engineering Tool.
+
+URL: https://github.com/MCPPhalanx/binaryninja-mcp
+Description: Another™ MCP Server for Binary Ninja with superpower.
+
+URL: https://github.com/wcampbell0x2a/heretek
+Description: GDB TUI Dashboard for the understanding of vast knowledge.
+
+URL: https://github.com/boku7/Loki
+Description: Node JS C2 for backdooring vulnerable Electron applications.
+
+URL: https://github.com/t3l3machus/kcbrute
+Description: Brute-force standard Keycloak Admin/User Console browser login flow.
+
+URL: https://github.com/0xHossam/HuffLoader
+Description: Huffman Coding in Shellcode Obfuscation & Dynamic Indirect Syscalls Loader.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://tbt.qkation.com/posts/rpc-encryption-sspi-kerberos/
+Description: Implementing Kerberos RPC encryption over SSPI.
+
+URL: https://hackingiscool.pl/using-edr-telemetry-for-offensive-research/
+More: https://bit.ly/3XVHtc2 (+)
+Description: Using EDR telemetry for offensive research.
+
+URL: https://posts.specterops.io/the-sql-server-crypto-detour-5ff9ac7033de
+Description: The SQL Server Crypto Detour.
+
+URL: https://u1f383.github.io/linux/2025/03/27/the-evolution-of-COW-1.html
+More: https://u1f383.github.io/linux/2025/03/29/the-evolution-of-COW-2.html
+Description: The Evolution of Dirty COW.
+
+URL: https://scrapco.de/blog/debugging-loadlibrary-through-space-and-time.html
+Description: Debugging loadlibrary Through Space and Time.
+
+URL: https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks 
+More: https://invariantlabs.ai/blog/whatsapp-mcp-exploited
+Description: MCP Security Notification - Tool Poisoning Attacks.
+
+URL: https://cerbersec.com/2025/04/07/bypass-wdac-windbg-preview.html
+Description: Bypass Windows Defender Application Control (WDAC) with WinDbg Preview.
+
+URL: https://bit.ly/4cvMMoL (+)
+Tool: https://github.com/anvilsecure/SAPCARve
+Description: One Bug Wasn't Enough - Escalating Twice Through SAP’s Setuid Landscape.
+
+URL: https://bit.ly/42gPKII (+)
+Description: Unsafe at Any Speed -  Abusing Python Exec for Unauth RCE in Langflow AI.
+
+URL: https://pierrekim.github.io/blog/2025-04-08-vasion-printerlogic-83-vulnerabilities.html
+Description: 83 vulnerabilities in Vasion Print / PrinterLogic.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://kindlemodding.org/
+Description: The Kindle Modding Wiki.
+
+URL: https://github.com/dsopas/emoji-translator
+Description: Emoji & Slang Message Translator.
+
+URL: https://github.com/Abiorh001/mcp_omni_connect
+Description: MCPOmni Connect - Universal Gateway to MCP Servers.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?648e7fbed7dc451b#nPRz40xl6IqGfXF/HeVxv5NSn1sYS41zKMPfnsYjNKo=
