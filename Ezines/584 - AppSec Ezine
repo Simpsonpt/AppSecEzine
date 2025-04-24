@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 17 | Month: April | Year: 2025 | Release Date: 25/04/2025 | Edition: #584  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://adragos.ro/fontleak/
+PoC: https://github.com/adrgs/fontleak
+Description: Fontleak - exfiltrating text using CSS and Ligatures.
+
+URL: https://blog.quarkslab.com/auditing-moodles-core-hunting-for-logical-bugs.html
+Description: Auditing Moodle's core hunting for logical bugs.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/n00py/DockerKnocker
+Description: Exploits Unauth Docker API.
+
+URL: https://github.com/unnohwn/telegram-scraper
+Description: Telegram Channel Scraper.
+
+URL: https://github.com/atiilla/sqlmap-ai
+Description: An AI-powered wrapper around SQLMap.
+
+URL: https://github.com/CyberSecurityUP/ShadowPhish
+Description: ShadowPhish - APT Awareness Toolkit.
+
+URL: https://github.com/ALW1EZ/PANO
+Description: Platform for Analysis and Network Operations.
+
+URL: https://github.com/momo5502/sogen
+Description: A high-performance Windows user space emulator.
+
+URL: https://github.com/magisterquis/shelloverreversessh
+Description: A little implant which SSH's back with a shell.
+
+URL: https://github.com/Mahlet-Inc/hobbits
+Description: GUI for bit-based analysis, processing, and visualization.
+
+URL: https://github.com/ANSSI-FR/DFIR-O365RC
+Description: PowerShell module for Office 365 and Azure log collection.
+
+URL: https://github.com/lcfr-eth/exploits/tree/main/getfree
+Description: PHP 5.X - 8.4.X extract() double-free/use-after-free exploit.
+
+URL: https://github.com/Tylous/FaceDancer
+Blog: https://www.blackhillsinfosec.com/a-different-take-on-dll-hijacking/
+Description: Exploitation tool aimed at creating hijackable, proxy-based DLLs.
+
+URL: https://bit.ly/4cHenmG (+)
+Description: Linux Kernel (v2.7-6.12) Flaw Enables Privilege Escalation (CVE-2024-53141).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.xpnsec.com/the-sql-server-crypto-detour/
+Description: The SQL Server Crypto Detour.
+
+URL: https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering
+Description: TikTok VM Reverse Engineering (webmssdk.js).
+
+URL: https://archie-osu.github.io/2025/04/11/vanguard-research.html
+Description: Inside Riot Vanguard's Dispatch Table Hooks.
+
+URL: https://blog.ret2.io/2025/04/23/pwn2own-soho-2024-diskstation/
+Description: Exploiting the Synology DiskStation with Null-byte Writes.
+
+URL: https://platformsecurity.com/blog/CVE-2025-32433-poc
+More: https://github.com/ProDefense/CVE-2025-32433/tree/main
+Description: How I Used AI to Create a Working Exploit for CVE-2025-32433.
+
+URL: https://bit.ly/42PeeJB (+)
+Description: SAP Emarsys SDK for Android Sensitive Data Leak (CVE-2023-6542).
+
+URL: https://g3tsyst3m.github.io/uac%20bypass/Bypass-UAC-via-Intel-ShaderCache/
+Description: Bypassing UAC via Intel ShaderCache Directory.
+
+URL: https://cymulate.com/blog/task-scheduler-new-vulnerabilities-for-schtasks-exe/
+Description: Task Scheduler - New Vulnerabilities for schtasks.exe.
+
+URL: https://denniskniep.github.io/posts/09-device-code-phishing/
+Tool: https://github.com/denniskniep/DeviceCodePhishing
+Description: Phishing FIDO, leveraging a novel technique based on the Device Code Flow.
+
+URL: https://cryptodeeptech.ru/bitcoin-bluetooth-attacks/
+Description: Bitcoin Cryptanalysis - WiFi/Bluetooth Issues on ESP32 IoTs (CVE-2025-27840).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/raulgotor/linkerscope
+Description: Create memory map diagrams directly from linker map files.
+
+URL: https://www.aipy.app/
+Description: LLM + Python program that can operate and control everything.
+
+URL: https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/
+Description: A First Glimpse of the Starlink User Terminal.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?39a1a5b0867527d0#far0dnH/3mGYI3JGj9b4+ZsR0JnsQUzcSju7zdWcKK8=
