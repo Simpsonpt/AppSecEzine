@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 18 | Month: May | Year: 2025 | Release Date: 02/05/2025 | Edition: #585  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/44PsAvY (+)
+Description: HTML Injection to Stored XSS and Account Takeover.
+
+URL: https://salvatore-abello.github.io/posts/css-exfiltration-under-default-src-self/
+Description: CSS Exfiltration under default-src 'self'.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/FalconOpsLLC/goexec
+Blog: https://www.falconops.com/blog/introducing-goexec
+Description: Windows remote execution multitool.
+
+URL: https://github.com/andreisss/Ghosting-AMSI
+Blog: https://medium.com/p/ghosting-amsi-cutting-rpc-to-disarm-av-04c26d67bb80
+Description: AMSI Bypass via RPC Hijack (NdrClientCall3).
+
+URL: https://github.com/000pp/Apepe
+Description: Enumerate app information through the APK file.
+
+URL: https://github.com/meta-llama/PurpleLlama
+Description: Set of tools to assess and improve LLM security.
+
+URL: https://github.com/0xPrimo/KMDllInjector
+Description: KMDllInjector is a kernel-mode based DLL injector.
+
+URL: https://github.com/m0n1x90/vettaiyan
+Description: Developing an open source Windows EDR written in C & C++.
+
+URL: https://github.com/Zeyad-Azima/ShellcodeGenZ
+Description: GenZ Shellcode Generator to execute commands with winExec API.
+
+URL: https://williamknowles.io/net-gac-and-nic-hijacking-for-lateral-movement/
+Description: .NET GAC and NIC hijacking for lateral movement.
+
+URL: https://github.com/ALW1EZ/spytruder
+Description: Advanced RTSP Camera Discovery and Vulnerability Assessment Tool.
+
+URL: https://github.com/xnl-h4ck3r/XnlReveal
+Description: Browser extension to show reflected query params, show Wayback links and more.
+
+URL: https://github.com/cogiceo/GPOHound
+Description: Offensive GPO dumping/analysis tool to leverages and enriches BloodHound data.
+
+URL: https://github.com/BlackFan/Burp-Ai-Substitutor/
+Description: Burp extension to replace values of HTTP request parameters and headers w/ AI. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://zeifan.my/Right-Click-LNK/
+Description: Right-Click Execution - A Tale of Windows LNK NTLM Leak.
+
+URL: https://bit.ly/43cdEqz (+)
+Description: Hack the channel - A Deep Dive into DVB Receiver Security.
+
+URL: https://frycos.github.io/vulns4free/2025/04/28/mailessentials.html
+Description: GFI MailEssentials - Yet Another .NET Target.
+
+URL: https://projectblack.io/blog/vibe-hacking-open-game-panel-rce/
+Description: Vibe Hacking - Finding Auth Bypass and RCE in Open Game Panel.
+
+URL: https://muff-in.github.io/blog/pupkin-info-stealer-analysis/
+Description: Pupkin - A Simple .NET Info-Stealer Exfiltrating Data via Telegram.
+
+URL: https://bit.ly/44mJJx6 (+)
+Description: Trust Me, I’m Local - Chrome Extensions, MCP, and the Sandbox Escape.
+
+URL: https://www.ibm.com/think/news/fileless-lateral-movement-trapped-com-objects
+Description: Fileless lateral movement with trapped COM objects.
+
+URL: https://logan-goins.com/2025-04-25-sccm/
+Description: Attacking and Defending Configuration Manager - An Attackers Easy Win.
+
+URL: https://www.praetorian.com/blog/agent-of-chaos-hijacking-nodejss-jenkins-agents/
+Description: Agent of Chaos - Hijacking NodeJS's Jenkins Agents.
+
+URL: https://www.oligo.security/blog/airborne
+PoC: https://github.com/ekomsSavior/AirBorne-PoC
+Description: Wormable 0-Click RCE in AirPlay Protocol Puts Apple & IoT Devices at Risk.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/NSG650/LinuxInExcel
+Description: Linux In Excel.
+
+URL: https://github.com/The-Pocket/Tutorial-Codebase-Knowledge
+Description: Turns Codebase into Easy Tutorial with AI.
+
+URL: https://www.fixbrowser.org/
+Description: Truly Lightweight web browser created from scratch.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?441224705d031214#VO0phzfU4koc2tR4kyK0NCKXnmuEm+t1VF26FQGZQkM=
