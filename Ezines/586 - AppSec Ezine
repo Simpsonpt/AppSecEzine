@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 19 | Month: May | Year: 2025 | Release Date: 09/05/2025 | Edition: #586   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://bit.ly/433Vq9w (+)
+Description: How I made $64k from deleted files — a bug bounty story.
+
+URL: https://neodyme.io/en/blog/html_renderer_to_rce
+Description: HTML to PDF Renderer - A tale of local file access and shellcode execution.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Yamato-Security/WELA
+Description: Windows Event Log Auditor.
+
+URL: https://github.com/svnscha/mcp-windbg
+Blog: https://svnscha.de/posts/ai-meets-windbg/
+Description: Model Context Protocol for WinDBG.
+
+URL: https://github.com/TaurusOmar/pulsegram
+Description: Integrated keylogger with telegram.
+
+URL: https://github.com/Teach2Breach/moonwalk
+Description: Find dll base addresses without PEB WALK.
+
+URL: https://github.com/ccbrown/cloud-snitch
+Description: Map visualization and firewall for AWS activity.
+
+URL: https://blog.washi.dev/posts/recovering-nativeaot-metadata/
+Description: Recovering Metadata from .NET Native AOT Binaries.
+
+URL: https://github.com/jgamblin/EPSS-MCP
+Description: MultiStep MCP That Returns CVE Information With EPSS Score.
+
+URL: https://github.com/six2dez/reconftw_ai
+Description: AI/LLM local model integration for analysis of reconftw results.
+
+URL: https://github.com/es3n1n/defendnot
+More: https://github.com/electroglyph/anti_defender
+Description: Disable Windows Defender through Windows Security Center (WSC) API.
+
+URL: https://github.com/Thunter-HackTeam/EvilentCoerce
+Description: NTLM relay attack using the MS-EVEN RPC protocol and AV-assisted coercion.
+
+URL: https://github.com/quarkslab/proxyblob
+Blog: https://blog.quarkslab.com/proxyblobing-into-your-network.html
+Description: SOCKS5 proxy tool that uses Azure Blob Storage as a means of communication.
+
+URL: https://github.com/carloslack/KoviD
+Description: Loadable Kernel Module (LKM) designed for Linux Kernel version >5 (rootkit).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://jessie.cafe/posts/pwning-ladybirds-libjs/
+Description: Pwning the Ladybird browser.
+
+URL: https://tierzerosecurity.co.nz/2025/04/29/mcp-llm.html
+Description: Building Own MCP - Augmented LLM for Threat Hunting.
+
+URL: https://sam4k.com/page-table-kernel-exploitation/
+Description: Kernel Exploitation Techniques - Turning The (Page) Tables.
+
+URL: https://op-co.de/blog/posts/fujitsu_relc_compression/
+Description: Reverse-engineering Fujitsu M7MU RELC hardware compression.
+
+URL: https://www.cyberark.com/resources/all-blog-posts/anatomy-of-an-llm-rce
+Description: Anatomy of an LLM RCE.
+
+URL: https://hoefler.dev/articles/vsock.html
+Description: Linux Kernel Exploitation - Attack of the Vsock ( CVE-2025-21756).
+
+URL: https://bit.ly/3RR5yNM (+)
+Description: Fire In The Hole, We're Breaching The Vault - Commvault RCE (CVE-2025-34028).
+
+URL: https://insinuator.net/2025/05/full-disclosure-multiple-rundeck-job-command-injections/
+Description: Full Disclosure - Multiple Rundeck Job Command Injections.
+
+URL: https://bit.ly/3YE0pwd (+)
+Description: Python Arbitrary File Write to RCE via Shared Obj Files Or Overwriting Bytecode.
+
+URL: https://www.varonis.com/blog/cookie-bite
+Description: How Your Digital Crumbs Let Threat Actors Bypass MFA and Get Access to Cloud Envs.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/EvanZhouDev/llm.pdf
+Description: Run LLMs inside a PDF file. 
+
+URL: https://idiallo.com/blog/zipbomb-protection
+Description: I use Zip Bombs to Protect my Server.
+
+URL: https://mrwint.github.io/winter/writeup/writeup.html
+Description: Uncovering the mechanics of The Games - Winter Challenge.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?65eb4ad135483970#ai2unGbqPYDMXFbrAIan8jsuBAgNmjxvZ11OHjgm3XE=
