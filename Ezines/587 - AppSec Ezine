@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 20 | Month: May | Year: 2025 | Release Date: 16/05/2025 | Edition: #587   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.jaisal.dev/articles/mcp
+Description: May Cause Pwnage (MCP) - Backdoors in Disguise.
+
+URL: https://portswigger.net/research/drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code
+Description: Drag and Pwnd - Leverage ASCII characters to exploit VS Code.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/alex-cart/LEAF
+Description: Linux Evidence Acquisition Framework.
+
+URL: https://github.com/jamf/aftermath
+Description: Aftermath is a free macOS IR framework.
+
+URL: https://github.com/carlospolop/CloudPEASS
+Description: Cloud Privilege Escalation Awesome Script Suite.
+
+URL: https://github.com/fwalbuloushi/pixhash
+Description: CTI tool to extract and hash images from websites.
+
+URL: https://github.com/CR-DMcDonald/voipire
+Description: Voipire scans and exploits the RTP bleed vulnerability.
+
+URL: https://zetier.com/porting-frida-software-on-openwrt/
+More: https://zetier.com/openwrt-on-rpi-hacking/
+Description: How hard is it to port Frida to an unsupported platform?
+
+URL: https://github.com/helviojunior/knowsmore
+Description: Swiss army knife tool for pentesting Microsoft Active Directory.
+
+URL: https://github.com/aliasrobotics/cai
+Description: Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence.
+
+URL: https://github.com/dwmetz/CyberPipe
+Description: PowerShell script to collect memory and disk forensics for DFIR investigations.
+
+URL: https://github.com/EvilBytecode/EvilByte-Remote-AMSI-Bypass
+Description: Bypasses AMSI by remotely patching AmsiScanBuffer function in target processes.
+
+URL: https://github.com/avlidienbrunn/archivealchemist
+Description: Tool for creating specially crafted archives to test extraction vulnerabilities. 
+
+URL: https://github.com/BlackSnufkin/LitterBox
+Description: Sandbox approach to test payloads against detection mechanisms before deployment.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.doyensec.com/2025/05/08/scim-hunting.html
+Description: SCIM Hunting - Beyond SSO.
+
+URL: https://code-white.com/blog/ivanti-desktop-and-server-management/
+Description: Analyzing the Attack Surface of Ivanti's DSM.
+
+URL: https://security.opensuse.org/2025/05/12/screen-security-issues.html
+Description: Multiple Security Issues in Screen.
+
+URL: https://labs.watchtowr.com/sysowned-your-friendly-rce-support-ticket/
+Description: SysAid On-Premise Pre-Auth RCE Chain (CVE-2025-2775 And Friends).
+
+URL: https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/
+Description: The cryptography behind passkeys.
+
+URL: https://bit.ly/43hGV26 (+)
+Description: MacOS DYLIB Injection at Scale - Designing a Self-Sufficient Loader.
+
+URL: https://r0n0.com/posts/its_not_yours_its_ours/
+Description: Improper Authorization vulnerability in Apache Superset (CVE-2025-27696).
+
+URL: https://blog.epsilon-sec.com/cve-2025-31201-rpac.html
+Description: Technical analysis of CVE-2025-31201 (iOS Pointer Authentication Bypass).
+
+URL: https://keowu.re/posts/Writing-a-Windows-ARM64-Debugger-for-Reverse-Engineering-KoiDbg/
+Description: Writing a Windows ARM64 Debugger for Reverse Engineering - KoiDbg.
+
+URL: https://bit.ly/43n1n1D (+)
+Description: From Stolen Tokens to Remote Shells - SonicWall SMA (CVE-2023-44221/CVE-2024-38475).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/marcandrewessner/fullfocusphone
+Description: Full-Focus Phone.
+
+URL: https://github.com/microsoft/BitNet
+Description: Official inference framework for 1-bit LLMs.
+
+URL: https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/
+Description: How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?354c6db3b213a610#lsU3q3IPJPiEIul8NqYHxDjLjNy9116wp2ryjNGHRgI=
