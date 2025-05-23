@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 21 | Month: May | Year: 2025 | Release Date: 23/05/2025 | Edition: #588   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://mrbruh.com/asusdriverhub/
+Description: One-Click RCE in ASUS's Preinstalled Driver Software.
+
+URL: https://www.assured.se/posts/the-single-packet-shovel-desync-powered-request-tunnelling
+More: https://github.com/t0xodile/the-single-packet-shovel
+Description: The Single-Packet Shovel - Digging for Desync-Powered Request Tunnelling.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/darkforge-labs/cefenum
+Description: CEFSharp enumeration and attack tool.
+
+URL: https://github.com/sobri3195/pegasus-neo
+Description: PEGASUS-NEO Penetration Testing Framework.
+
+URL: https://github.com/zema1/suo5
+Description: A high-performance http proxy tunneling tool.
+
+URL: https://github.com/000pp/Pinkerton
+Description: Crawl for JavaScript files and search for secrets.
+
+URL: https://github.com/andreisss/Living-off-the-COM-Type-Coercion-Abuse
+Description: COM Type Coercion Execution in PowerShell.
+
+URL: https://github.com/hacefresko/CVE-2025-40634
+Description: TP-Link Archer AX50 router stack-based BoF (CVE-2025-40634).
+
+URL: https://github.com/Friends-Security/RedirectThread
+Blog: https://blog.fndsec.net/2025/05/16/the-context-only-attack-surface/
+Description: New Process Injection Class - The CONTEXT-Only Attack Surface.
+
+URL: https://github.com/usdAG/FlowMate
+Description: BurpSuite extension that brings taint analysis to web applications.
+
+URL: https://github.com/nafiez/DataBlockNTLMLeak
+Description: Windows Shell Link (LNK) Proof of Concept - Metasploit (auxiliary module).
+
+URL: https://github.com/GhostManager/DomainCheck
+Description: Tool to assist operators w/ monitoring changes related to their domain names.
+
+URL: https://github.com/iamthefrogy/frogy2.0
+Description: Automated external reconnaissance and Attack Surface Management (ASM) toolkit.
+
+URL: https://github.com/CompassSecurity/EntraFalcon
+Description: PowerShell tool for assessing the security posture of MS Entra ID environments.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://fluxsec.red/alt-syscalls-for-windows-11
+PoC: https://github.com/0xflux/Sanctum
+Description: Alternate (Alt) Syscalls for Windows 11.
+
+URL: https://blog.zsec.uk/commit-stomping/
+Description: Manipulating Git Histories to Obscure the Truth.
+
+URL: https://r0keb.github.io/posts/Bypassing-kASLR-via-Cache-Timing/
+Description: Bypassing kASLR via Cache Timing.
+
+URL: https://www.incendium.rocks/posts/Automating-MS-RPC-Vulnerability-Research/
+Description: Automating MS-RPC vulnerability research.
+
+URL: https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/
+Description: O2 VoLTE - Locating any customer with a phone call.
+
+URL: https://bit.ly/3Fl4RcO (+)
+PoC: https://github.com/akamai/BadSuccessor
+Description: BadSuccessor - Abusing dMSA to Escalate Privileges in Active Directory.
+
+URL: https://sites.google.com/site/zhiniangpeng/blogs/WDS-DoS
+Description: Be Careful of Your UDP Service - Preauth DoS on Windows Deployment Service.
+
+URL: https://bit.ly/4jd4dfv (+)
+Description: Analyzing open-source bootloaders - Finding vulnerabilities faster with AI.
+
+URL: https://necromancerlabs.com/research/papers/2025/gost-in-the-protocol/
+Description: GOst in the Protocol - Hunting Ligolo with JARM Fingerprinting in the wild.
+
+URL: https://bit.ly/3Fp8MoZ (+)
+Description: Bypass SharePoint Restricted View to exfiltrate data using Copilot AI and more.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/singe/muttpack
+Description: Running mutt and friends in a containerised sandbox.
+
+URL: https://github.com/ngxson/smolvlm-realtime-webcam
+Description: Real-time webcam demo with SmolVLM and llama.cpp server.
+
+URL: https://32bits.substack.com/p/under-the-microscope-the-lost-world
+Description: Under the microscope - The Lost World – Jurassic Park (Saturn, PlayStation).
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?cb31cee2b5695430#/FJLbdI8WID88NyGP7lF6rY6h7eqXSSv6KBnGSYYZ2I=
