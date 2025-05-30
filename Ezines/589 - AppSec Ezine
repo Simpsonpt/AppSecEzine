@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###   Week: 22 | Month: May | Year: 2025 | Release Date: 30/05/2025 | Edition: #589   ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://jorianwoltjer.com/blog/p/hacking/ultimate-doubleclickjacking-poc
+Description: The Ultimate Double-Clickjacking PoC.
+
+URL: https://bit.ly/4kEhXAT (+)
+Description: Eclipse on Next.js - Conditioned exploitation of an intended race-condition.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/evilmog/F5-Decryption
+Description: F5 Service Password Decryption.
+
+URL: https://github.com/ricardojoserf/network-providers
+Blog: https://ricardojoserf.github.io/networkproviders/
+Description: Malicious Network Provider DLLs.
+
+URL: https://bit.ly/4kHDLf3 (+)
+Description: How to load unsigned or fake-signed apps on iOS.
+
+URL: https://github.com/louisgthier/decompai
+Description: DecompAI - Binary Analysis and Decompilation Agent.
+
+URL: https://github.com/antgroup/CloudRec
+Description: Multi-Cloud Security Posture Management (CSPM) platform. 
+
+URL: https://github.com/CroodSolutions/AutoPwnKey
+Description: Red teaming framework and testing tool using AutoHotKey (AHK).
+
+URL: https://trustedsec.com/blog/red-team-gold-extracting-credentials-from-mdt-shares
+Description: Red Team Gold - Extracting Credentials from MDT Shares.
+
+URL: https://github.com/lijiejie/BBScan
+Description: BBScan is a high-concurrency, lightweight information leak scanning tool.
+
+URL: https://github.com/NickSanzotta/scanman
+Description: Amalgamation of Masscan, Metasploit (MSF) and Nmap Scripting Engine (NSE).
+
+URL: https://github.com/usc-isi-bass/BCDangr
+Description: Decomposing Binary Code via angr Into Components Using Graph-Based Clustering.
+
+URL: https://lolc2.github.io/
+Description: Collection of C2 Frameworks that leverage legitimate services to evade detection.
+
+URL: https://github.com/0xHossam/KernelCallbackTable-Injection-PoC
+Description: Process Inj. and Execution Flow Hijack via PEB Kernel Callback Table Manipulation.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://0xdeadc0de.xyz/blog/cve-2025-1731_cve-2025-1732
+Description: Remote Code Execution in ZYXEL FLEX-H Series.
+
+URL: https://r0ny.net/FiberGateway-GR241AG-Full-Exploit-Chain/
+Description: FiberGateway GR241AG - Full Exploit Chain.
+
+URL: https://github.com/skysafe/reblog/blob/main/cve-2024-0230/README.md
+PoC: https://github.com/marcnewlin/hi_my_name_is_keyboard
+Description: Bluetooth Keyboard vulnerabilities in multiple OSs.
+
+URL: https://nightbloodz.github.io/grafana-CVE-2025-4123/
+PoC: https://github.com/NightBloodz/CVE-2025-4123
+Description: Grafana Full read SSRF and Account Takeover (CVE-2025-4123).
+
+URL: https://invariantlabs.ai/blog/mcp-github-vulnerability
+Description: GitHub MCP Exploited - Accessing private repositories via MCP.
+
+URL: https://bit.ly/4kG64dG (+)
+Description: Breaking Out of Restricted Mode - XSS to RCE in Visual Studio Code.
+
+URL: https://bit.ly/3SWpKy2 (+)
+Description: Disclosure - Input Validation Vulnerabilities in Microsoft Bookings.
+
+URL: https://karmainsecurity.com/dont-call-that-protected-method-vbulletin-rce
+Description: Don't Call That "Protected" Method: Dissecting an N-Day vBulletin RCE.
+
+URL: https://blog.siguza.net/tachy0n/
+Description: iOS kernel exploit for 13.0-13.5 that was dropped as an 0day in unc0ver v5.0. 
+
+URL: https://www.synacktiv.com/en/publications/open-source-toolset-of-an-ivanti-csa-attacker
+Description: Open-source toolset of an Ivanti CSA attacker.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/AaronFriel/qmodem-4.51
+Description: QModem 4.51 (MS-DOS telecommunications program) Source Code.
+
+URL: https://github.com/immich-app/immich
+Description: High performance self-hosted photo and video management solution.
+
+URL: https://github.com/roboflow/trackers
+More: https://github.com/roboflow/sports
+Description: Clean room re-implementations of leading multi-object tracking algorithms.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?33afd7687908185d#i0U+L14wGdG2sapGqAztLxcX+YN2ixT6DbUx+C4I8k0=
