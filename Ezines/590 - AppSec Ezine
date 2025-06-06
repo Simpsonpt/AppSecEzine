@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 23 | Month: June | Year: 2025 | Release Date: 06/06/2025 | Edition: #590  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://mrd0x.com/spying-with-chromium-browsers-screensharing/
+More: https://mrd0x.com/spying-with-chromium-browsers-camera/
+Description: Spying with Chromium Browsers.
+
+URL: https://fearsoff.org/research/roundcube
+Description: Roundcube Post-Auth RCE via PHP Object Deserialization (CVE-2025-49113).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/MEhrn00/boflink
+Description: Linker for Beacon Object Files.
+
+URL: https://github.com/pwnwriter/kanha
+Description: A web-app pentesting suite written in rust.
+
+URL: https://github.com/WHW0x455/CVE-2023-41992
+Description: iOS local privilege escalation bug (CVE-2023-41992).
+
+URL: https://bit.ly/456jj2U (+)
+Description: Intercepting traffic on Android with Mainline and Conscrypt.
+
+URL: https://github.com/assetnote/newtowner
+Description: Abuse trust-boundaries to bypass firewalls and network controls.
+
+URL: https://github.com/blacklanternsecurity/TREVORproxy
+Blog: https://blog.blacklanternsecurity.com/p/introducing-trevorproxy-and-trevorspray.
+Description: Password spraying Helper.
+
+URL: https://github.com/stealthsploit/Hashcatalyst
+Description: Hashcat wrapper for attack chain automation/enhanced wordlist generation.
+
+URL: https://github.com/TheManticoreProject/Delegations
+Description: A tool to work with all types of Kerberos delegations in Active Directory.
+
+URL: https://github.com/gildasio/wshlient
+Description: A simple tool to interact with web shells and command injection vulnerabilities.
+
+URL: https://github.com/fortra/CVE-2024-7479
+Description: TeamViewer Improper signature verification of driver installation (CVE-2024-7479).
+
+URL: https://github.com/mbanyamer/CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-
+Description: Windows Server 2025 JScript RCE via Use-After-Free (CVE-2025-30397).
+
+URL: https://github.com/taranis-ai/taranis-ai
+Description: OSINT tool to leveraging AI to revolutionize info gathering and situational analysis. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://stefan-gloor.ch/yomani-hack
+Description: Root Shell on Credit Card Terminal.
+
+URL: https://dazesecurity.io/blog/abusingEasyAuth
+Description: Abusing Delegated Permissions via Easy Auth.
+
+URL: https://localmess.github.io/
+Description: Covert Web-to-App Tracking via Localhost on Android.
+
+URL: https://www.hacktron.ai/blog/posts/dassault-delmia-apriso-rce/
+Description: Hacktron finds pre-auth RCE in Dassault Delmia Apriso.
+
+URL: https://zhero-web-sec.github.io/research-and-things/nuxt-show-me-your-payload
+Description: Nuxt, show me your payload - a basic CP DoS.
+
+URL: https://boostsecurity.io/blog/weaponizing-dependabot-pwn-request-at-its-finest
+Description: Weaponizing Dependabot - Pwn Request at its finest.
+
+URL: https://secret.club/2024/06/30/ring-around-the-regex-1.html
+More: https://secret.club/2024/08/23/ring-around-the-regex-2.html
+Description: Ring Around The Regexc - Lessons learned from fuzzing regex libraries.
+
+URL: https://u1f383.github.io/linux/2025/05/25/dbus-and-polkit-introduction.html
+Description: DBus and Polkit Introduction and CVE-2025-23222/CVE-2021-3560 Analysis.
+
+URL: https://bit.ly/3Uw7RHK (+)
+Description: Dissecting a vuln. and achieving arbitrary code execution in Ichitaro Word.
+
+URL: https://bit.ly/43KePN4 (+)
+Description: SinkVPN - Redirecting endpoint cloud telemetry by abusing usermode VPN tunnels.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/docling-project/docling
+Description: Get your documents ready for gen AI.
+
+URL: https://github.com/azya52/BrickEmuPy
+Description: Handheld LCD games emulator in Python with PyQt6.
+
+URL: https://micahflee.com/telemessage-explorer-a-new-open-source-research-tool/
+Description: TeleMessage Explorer - A new open source research tool.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?85273b87f296ff28#2Uw6BkV2iUbKMkOd6FqlMK6M5MeNHHQK50UVx3kJzTA=
