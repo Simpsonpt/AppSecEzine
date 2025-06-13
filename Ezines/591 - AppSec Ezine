@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 24 | Month: June | Year: 2025 | Release Date: 13/06/2025 | Edition: #591  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://brutecat.com/articles/leaking-google-phones
+Description: Bruteforcing the phone number of any Google user.
+
+URL: https://jorianwoltjer.com/blog/p/research/obs-websocket-rce
+Description: OBS WebSocket to RCE.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/LuemmelSec/Moodle-Scanner
+Description: A Moodle Scanner.
+
+URL: https://github.com/duty1g/subcat
+Description: Another fast subdomain enumeration tool.
+
+URL: https://github.com/Arcanum-Sec/Scopify
+Description: Scopify - Netify.ai Reconnaissance Tool.
+
+URL: https://github.com/Chocapikk/wpprobe
+Description: A fast WordPress plugin enumeration tool.
+
+URL: https://github.com/Stryker-Defense-Inc/strykerapp
+Description: Pentest workspace in your smartphone.
+
+URL: https://bit.ly/4jMfgfC (+)
+Description: Remote Windows Credential Dump w/ Shadow Snapshots.
+
+URL: https://github.com/google/tsunami-security-scanner
+Description: Network security scanner w/ an extensible plugin system.
+
+URL: https://github.com/jordanwildon/Telepathy
+Description: Telepathy - An OSINT toolkit for investigating Telegram chats.
+
+URL: https://github.com/pwnwriter/haylxon
+Description: Tool to grab screenshots of your domain list right from terminal.
+
+URL: https://gitlab.com/newbit/rootAVD
+Description: Script to root AVDs running with QEMU Emulator from Android Studio.
+
+URL: https://github.com/badboycxcc/Netgear-ssl-vpn-20211222-CVE-2022-29383
+Description: NETGEAR ProSafe SSL VPN SQL injection vulnerability (CVE-2022-29383).
+
+URL: https://github.com/logangoins/SharpSuccessor
+Description: SharpSuccessor is a .NET PoC for fully weaponizing BadSuccessor attack.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://su18.org/post/postgresql-jdbc-attack-and-stuff/
+Description: Postgresql JDBC Attack and Stuff.
+
+URL: https://brownfinesecurity.com/blog/hanwha-firmware-file-decryption/
+Description: RE Hanwha Security Camera Firmware File Decryption w/ IDA Pro.
+
+URL: https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client/
+Description: Reverse Engineering Cursor's LLM Client.
+
+URL: https://medium.com/p/no-agent-no-problem-discovering-remote-edr-8ca60596559f
+Description: No Agent, No Problem - Discovering Remote EDR.
+
+URL: https://www.landh.tech/blog/20250610-netflix-vulnerability-dependency-confusion/
+Description: Netflix Vulnerability - Dependency Confusion in Action.
+
+URL: https://blog.securelayer7.net/cve-2025-4318-aws-amplify-rce/
+Description: RCE in AWS Amplify Studio via Unsafe Prop Expression Eval (CVE-2025-4318).
+
+URL: https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/
+Description: Spoofing OpenPGP.js signature verification (CVE-2025-47934).
+
+URL: https://ssd-disclosure.com/ssd-advisory-ispconfig-authenticated-remote-code-execution/
+Description: ISPConfig Authenticated Remote Code Execution.
+
+URL: https://research.checkpoint.com/2025/stealth-falcon-zero-day/
+Description: Stealth Falcon and Horus - A Saga of Middle Eastern Espionage (CVE-2025-33053).
+
+URL: https://coderush.me/hydroph0bia-part1/
+More: https://coderush.me/hydroph0bia-part2/
+Description: SecureBoot bypass for UEFI-compatible firmware based on InsydeH2O (CVE-2025-4275).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://sebastiano.tronto.net/blog/2025-06-06-webdev/
+Description: A masochist's guide to web development.
+
+URL: https://github.com/pig-dot-dev/muscle-mem
+Description: A cache for AI agents to learn and replay complex behaviors. 
+
+URL: https://blog.techsolvency.com/2025/04/managing-unique-wordlists-password-cracking.html
+Description: Managing unique wordlists for password cracking.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?f5f861f45958bf8f#6/m4IZDXG516bMzg6h/NGgkHi1k3gA7+9JU36U321cs=
