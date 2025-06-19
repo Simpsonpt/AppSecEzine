@@ -94,6 +94,7 @@ URL: https://ssd-disclosure.com/ssd-advisory-ispconfig-authenticated-remote-code
 Description: ISPConfig Authenticated Remote Code Execution.
 
 URL: https://research.checkpoint.com/2025/stealth-falcon-zero-day/
+PoC: https://github.com/DevBuiHieu/CVE-2025-33053-Proof-Of-Concept
 Description: Stealth Falcon and Horus - A Saga of Middle Eastern Espionage (CVE-2025-33053).
 
 URL: https://coderush.me/hydroph0bia-part1/
