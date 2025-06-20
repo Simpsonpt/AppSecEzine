@@ -1,0 +1,129 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 25 | Month: June | Year: 2025 | Release Date: 20/06/2025 | Edition: #592  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.slonser.info/posts/make-self-xss-great-again/
+Description: Make Self-XSS Great Again.
+
+URL: https://w4ke.info/2025/06/18/funky-chunks.html
+Description: Abusing ambiguous chunk line terminators for request smuggling.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://queries.specterops.io/
+Description: BloodHound Queries For All.
+
+URL: https://github.com/HullaBrian/COMmander
+Description: .NET tool used to enrich RPC telemetry.
+
+URL: https://github.com/airbus-cert/minusone
+Description: Deobfuscation engine focused on scripting languages.
+
+URL: https://github.com/NtDallas/MemLoader
+Description: Run native PE or .NET executables entirely in-memory.
+
+URL: https://github.com/pirxthepilot/wtfis
+Description: Passive host and domain name lookup tool for non-robots.
+
+URL: https://github.com/Azure/PyRIT
+Description: Python Risk Identification Tool for generative AI (PyRIT).
+
+URL: https://github.com/sensepost/depscanner/
+Blog: http://bit.ly/4kW6ai8 (+)
+Description: Detect potential orphan dependencies in GitHub repositories.
+
+URL: https://github.com/moiz-2x/CVE-2025-21420_POC
+Description: Proof of Concept CVE-2025-21420 (Windows Disk Cleanup Tool EoP).
+
+URL: https://medium.com/@cy1337/malloc-overflow-deep-dive-9357eeef416b
+Description: GIMP Heap Overflow Re-Discovery and Exploitation (CVE-2025–6035).
+
+URL: https://github.com/jackfromeast/TheHulk
+Description: Tool designed to detect and exploit DOM Clobbering vulnerabilities.
+
+URL: https://github.com/raskolnikov90/LainAmsiOpenSession
+Description: Custom Amsi Bypass by patching AmsiOpenSession function in amsi.dll.
+
+URL: https://brunoteixeira1996.github.io/posts/2025-06-12-hash-cracking-in-the-cloud/
+Description: Hash Cracking in The Cloud.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://swap.gs/posts/monero-forums/
+Description: Getting RCE on Monero forums with wrapwrap.
+
+URL: https://xacone.github.io/eneio-driver.html
+More: https://xacone.github.io/kaslr_leak_24h2.html
+Description: Exploiting eneio64.sys Kernel Driver on Windows 11.
+
+URL: https://www.labs.greynoise.io/grimoire/2025-03-28-ayysshush/
+Description: AyySSHush - Tradecraft of an emergent ASUS botnet.
+
+URL: https://blog.syss.com/posts/bluetooth-analysis-coros-pace-3/
+Description: Watch Out! Bluetooth Analysis of the COROS PACE 3.
+
+URL: https://specterops.io/blog/2025/06/18/administrator-protection/
+Description: Administrator Protection Review.
+
+URL: https://frycos.github.io/vulns4free/2025/06/17/zyxel-nday-variant.html
+Description: Zyxel NWA50AX Pro - Discovery of an Nday Variant.
+
+URL: https://tantosec.com/blog/2025/06/insomnia-api-client-template-injection/
+Description: Sleepless Strings - Template Injection in Insomnia.
+
+URL: http://bit.ly/44o2W0L (+)
+Description: Exploiting the Tesla Wall connector from its charge port connector.
+
+URL: https://morph3.blog/posts/Studying-old-CVEs-Part-1-CVE-2021-26084/
+More: https://morph3.blog/posts/Studying-old-CVEs-Part-2-CVE-2022-26134/
+Description: Atlassian Confluence OGNL Injections (CVE-2021-26084/CVE-2022-26134).
+
+URL: https://hunio.org/posts/security/abusing-s4u2self-for-active-directory-pivoting/
+Description: Abusing S4U2Self for Active Directory pivoting.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://asherfalcon.com/blog/posts/2
+Description: Storing images in txt records.
+
+URL: https://tailscale.com/blog/frequent-reauth-security
+Description: Frequent reauth doesn't make you more secure.
+
+URL: http://bit.ly/3GaORdI (+)
+Description: Modifying an HDMI dummy plug's EDID using a Raspberry Pi.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?fc916f3ce2c94d73#BSkiwWtmolrPqTOC7ADUoqPgyFp+WDI22jnz6PEZHx8=
