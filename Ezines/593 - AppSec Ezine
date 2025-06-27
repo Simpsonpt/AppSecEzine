@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 26 | Month: June | Year: 2025 | Release Date: 27/06/2025 | Edition: #593  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.nullpt.rs/forging-passkeys
+Description: Forging Passkeys - Exploring the FIDO2 / WebAuthn Attack Surface.
+
+URL: https://infosecwriteups.com/10-000-authentication-bypass-at-uber-c091c7733662
+Description: $10,000 Authentication Bypass at Uber.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/sensepost/shellnot
+Description: Pseudo-shell for RCE scenarios.
+
+URL: https://github.com/NeffIsBack/wsuks
+Description: Automating the MITM attack on WSUS.
+
+URL: https://github.com/Fatmike-GH/DLLInjectionDetector
+Description: A DLL Injection Detector for Windows.
+
+URL: https://entrascopes.com/
+Description: Entra ID First Party Apps & Scope Browser.
+
+URL: https://github.com/KaanBicaklar/nuclei-MonaCodeScanner
+Description: Nuclei Source Code Analysis Templates.
+
+URL: http://bit.ly/40rfhPj (+)
+Description: Novel SSRF Technique Involving HTTP Redirect Loops.
+
+URL: https://github.com/JCSteiner/SGCC---public
+Description: Command and Control Framework using powershell implants.
+
+URL: https://github.com/stealth/injectso
+Description: Injectso allows for injecting a DSO at runtime into a process.
+
+URL: https://github.com/20urc3/golem
+Description: Golem automates C/C++ vulnerability discovery with SemGrep+LLVM+LLM.
+
+URL: https://redrays.io/cve-2020-2733-jd-edwards/
+Description: JD Edwards EnterpriseOne Tools admin password decrypt (CVE-2020-2733).
+
+URL: https://github.com/temp43487580/EntraPassTheCert
+Description: Request Entra ID's P2P cert and AuthN remote Entra joinned devices with it. 
+
+URL: https://github.com/t3l3machus/undust.py
+Description: URL pattern generator to uncover temporary files left behind on web servers. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://mrd0x.com/filefix-clickfix-alternative/
+Description: FileFix - A ClickFix Alternative.
+
+URL: https://www.huntress.com/blog/recutting-the-kerberos-diamond-ticket
+Description: Recutting the Kerberos Diamond Ticket.
+
+URL: https://blog.scrt.ch/2025/06/04/sonicdoor-attacking-sonicwalls-sma-500/
+Description: SonicDoor – Cracking SonicWall's SMA 500.
+
+URL: http://bit.ly/3THloLF (+)
+Description: The Journey of Bypassing Ubuntu's Unprivileged Namespace Restriction.
+
+URL: https://trustedsec.com/blog/hunting-deserialization-vulnerabilities-with-claude
+Description: Hunting Deserialization Vulnerabilities With Claude.
+
+URL: https://cside.dev/blog/coinmarketcap-client-side-attack-a-comprehensive-analysis
+Description: CoinMarketCap Client-Side Attack - A Comprehensive Analysis.
+
+URL: https://www.semperis.com/blog/noauth-abuse-alert-full-account-takeover/
+Description: nOAuth Abuse Alert - Full Account Takeover of Entra X-Tenant SaaS Applications.
+
+URL: https://itm4n.github.io/checking-symantec-account-credentials-privesccheck/
+More: https://itm4n.github.io/offline-extraction-of-symantec-account-connectivity-credentials/
+Description: Symantec Account Connectivity Credentials (ACCs) - Check and Offilne Extraction.
+
+URL: https://xbow.com/blog/xbow-globalprotect-xss/
+Description: How XBOW Discovered Multiple XSS Vulnerabilities in Palo Alto's GlobalProtect VPN.
+
+URL: https://labs.watchtowr.com/is-b-for-backdoor-pre-auth-rce-chain-in-sitecore-experience-platform/
+Description: Is b For Backdoor? Pre-Auth RCE Chain In Sitecore Experience Platform.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/leaningtech/webvm
+Description: Virtual Machine for the Web.
+
+URL: https://github.com/system-linux/FazJammer
+Description: ESP8266 BLE(Bluetooth) & Wi-Fi Jammer.
+
+URL: https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/ 
+Description: Finding a 27-year-old easter egg in the Power Mac G3 ROM.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?dc986ac946f24156#J5b0wZrRtqOMetdS07JFyZsIzegmsf92DYxwsu9C2gk=
