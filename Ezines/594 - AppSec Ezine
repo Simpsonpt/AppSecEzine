@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 27 | Month: July | Year: 2025 | Release Date: 04/07/2025 | Edition: #594  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://hackerone.com/reports/2819573
+Description: Mutation Based Stored XSS on Trix Editor version latest (2.1.8).
+
+URL: https://jorianwoltjer.com/blog/p/research/nonce-csp-bypass-using-disk-cache
+Description: Nonce CSP bypass using Disk Cache.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://ja.meswoolley.co.uk/vnc-honeypot/
+Description: VNC Honeypot Setup.
+
+URL: https://github.com/Tomiwa-Ot/moukthar
+Description: Android remote administration tool.
+
+URL: https://github.com/AlmondOffSec/DCOMRunAs
+Description: Lateral movement with DCOM DLL hijacking.
+
+URL: https://github.com/sud0Ru/NauthNRPC
+Description: Enumerate Domain Users Without Authentication.
+
+URL: https://github.com/ShutdownRepo/dcshadow
+Description: Python alternative to Mimikatz lsadump::dcshadow.
+
+URL: https://github.com/mandiant/macos-UnifiedLogs 
+Blog: https://www.mandiant.com/resources/blog/reviewing-macos-unified-logs
+Description: Rust library that can help parse the macOS Unified Log files.
+
+URL: https://github.com/SecurityBrewery/catalyst
+Description: Self-hosted OSS incident response platform and ticket system.
+
+URL: https://github.com/bi-zone/CVE-2024-7965
+Blog: https://bi.zone/expertise/blog/analiz-uyazvimosti-cve-2024-7965/
+Description: V8 ARM64 Heap Corruption via a crafted HTML page (CVE-2024-7965).
+
+URL: https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html
+Description: I made my VM think it has a CPU fan.
+
+URL: https://github.com/srlabs/hexagon_fuzz
+Blog: http://bit.ly/4kjzYnu (+)
+Description: Fuzzing framework for Hexagon baseband firmware using QEMU emulation.
+
+URL: https://github.com/Yeeb1/SockTail
+Description: Tool to join devices to a Tailscale network and exposes a local SOCKS5 proxy.
+
+URL: https://github.com/VirtualAlllocEx/Shellcode-Downloader-CreateThread-Execution
+Description: PoC to compile a .exe to completely avoid statically detection by AV/EPP/EDR.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://r0keb.github.io/posts/PatchGuard-Internals/
+Description: PatchGuard Internals.
+
+URL: https://blog.mgdproductions.com/ikko-activebuds/
+Description: Exploiting the IKKO Activebuds "AI powered" earbuds.
+
+URL: http://bit.ly/3Ir1odO (+)
+Description: How I Scanned all of GitHub's "Oops Commits" for Leaked Secrets.
+
+URL: https://albertofdr.github.io/web-security-class/browser/browser.permissions
+Description: You Shall Not Get Access 🧙🏻‍♂️ - Browser Permissions.
+
+URL: http://bit.ly/4exOzKX (+)
+Description: Critical RCE Vulnerability in Anthropic MCP Inspector (CVE-2025-49596).
+
+URL: http://bit.ly/4nvebMs (+)
+Description: We're going the wrong way! How to abuse symlinks and get LPE in Windows.
+
+URL: https://www.stratascale.com/vulnerability-alert-CVE-2025-32462-sudo-host
+More: https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot
+Description: Sudo Host Option Elevation of Privilege and chroot Elevation of Privilege.
+
+URL: https://modzero.com/en/blog/when-backups-open-backdoors-synology-active-backup-m365/
+Description: Accessing Sensitive Cloud Data via "Synology Active Backup for MS 365".
+
+URL: https://insinuator.net/2025/07/insecure-boot-injecting-initramfs-from-a-debug-shell/
+Description: Insecure Boot - Injecting initramfs from a debug shell.
+
+URL: https://www.rcesecurity.com/2025/06/what-the-null-wing-ftp-server-rce-cve-2025-47812/
+Description: What the NULL?! Wing FTP Server RCE (CVE-2025-47812).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://paragraph.com/@blueyard/building-a-crypto-payment-terminal
+Description: Building a Crypto Payment Terminal.
+
+URL: https://ghuntley.com/atlassian-rovo-source-code/
+Description: z80 technique reveals the source code for Atlassian's 'rovo' AI assistant.
+
+URL: https://github.com/simonw/files-to-prompt
+Description: Concatenate a directory full of files into a single prompt for use w/ LLMs.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?80aec22720de71f6#7abMVA/flaFJ6X1tJVffhJ7kzffsw1Wv87haNCFq218=
