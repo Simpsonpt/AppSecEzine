@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 28 | Month: July | Year: 2025 | Release Date: 11/07/2025 | Edition: #595  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/4llGifw (+)
+Description: Export to PDF allows local file inclusion/path traversal in Microsoft 365.
+
+URL: http://bit.ly/463CZVG (+)
+Description: How I Chained Dir. Traversal and CSV Parser Abuse for RCE in a Django App.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/3proxy/3proxy
+Description: 3proxy - tiny free proxy server.
+
+URL: https://ghostline.neocities.org/MessageBoxInjection/
+Description: .Shellcode injection using MessageBox.
+
+URL: https://github.com/xnl-h4ck3r/xnldorker
+Description: Gather results of dorks across a number of search engines.
+
+URL: https://github.com/techspence/ScriptSentry
+Description: ScriptSentry finds misconfigured and dangerous logon scripts.
+
+URL: https://github.com/NorthwaveSecurity/kernel-mii
+Description: CS BOF foundation for kernel exploitation using CVE-2021-21551.
+
+URL: https://github.com/anvilsecure/hanalyzer
+Blog: https://www.anvilsecure.com/blog/introducing-hanalyzer.html
+Description: Tool to audit SAP Hana DB based on official security guidelines.
+
+URL: https://github.com/trojan-gfw/trojan
+Description: An unidentifiable mechanism that helps you bypass Great FireWall.
+
+URL: https://github.com/FiloSottile/sunlight
+Blog: https://words.filippo.io/run-sunlight/
+Description: A Certificate Transparency log implementation and monitoring API.
+
+URL: https://github.com/Wh04m1001/CVE-2025-48799
+Description: Elevation of Privilege in Windows Update service (CVE-2025-48799).
+
+URL: https://github.com/carmaa/inception
+Description: Physical memory manipulation and hacking tool exploiting PCI-based DMA.
+
+URL: https://github.com/mariocandela/beelzebub
+Blog: https://beelzebub-honeypot.com/blog/deploy-beelzebub-honeypot-on-kubernetes/
+Description: Honeypot framework designed to provide a secure environment for analysis.
+
+URL: https://github.com/antitree/seccomp-diff/
+Description: Analyze binaries/containers to extract and disassemble seccomp-bpf profiles.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://www.generalanalysis.com/blog/supabase-mcp-blog
+Description: Supabase MCP can leak your entire SQL database.
+
+URL: https://taptrap.click/
+Description: TapTrap: Animation-Driven Tapjacking on Android.
+
+URL: https://blog.breakpointsecurity.pt/blog/chrome-ext-ti
+Description: Uncovering a Mass-Hijack Chrome Extension Campaign.
+
+URL: https://opossum-attack.com/
+Description: Application Layer Desynchronization using Opportunistic TLS.
+
+URL: https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384
+Description: Breaking Git with a carriage return and cloning RCE (CVE-2025-48384).
+
+URL: https://matheuzsecurity.github.io/hacking/evading-linux-edrs-with-io-uring/
+Tool: https://github.com/MatheuZSecurity/RingReaper
+Description: Red Team Tactics - Evading EDR on Linux with io_uring.
+
+URL: http://bit.ly/44BR8qz (+)
+Description: Applocker bypass on Lenovo machines – The curious case of MFGSTAT.zip.
+
+URL: https://blog.quarkslab.com/a-story-about-confluence-and-tokens.html
+Description: When too much access is not enough - a story about Confluence and tokens.
+
+URL: https://www.r-tec.net/r-tec-blog-revisiting-cross-session-activation-attacks.html
+Description: Revisiting Cross Session Activation Attacks.
+
+URL: https://starlabs.sg/blog/2025/06-solo-a-pixel-6-pro-story-when-one-bug-is-all-you-need/
+Description: Solo: A Pixel 6 Pro Story (When one bug is all you need).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/dovecoteescapee/ByeDPIAndroid
+Description: App to bypass censorship on Android.
+
+URL: https://seiya.me/blog/building-linux-on-macos-natively
+Description: Building Linux kernel on macOS natively.
+
+URL: https://github.com/Abdenasser/neohtop
+Description: Blazing-fast system monitoring for your desktop.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?86c73a6f13f9e015#GOchU8eEFndqDrYn+P3mb5yjUJAtmmXHhsDaUguLGKA=
