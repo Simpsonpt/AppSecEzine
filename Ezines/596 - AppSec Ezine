@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 29 | Month: July | Year: 2025 | Release Date: 18/07/2025 | Edition: #596  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://mey-d.github.io/posts/self-xss-disk-cache/
+Description: Exploiting Self-XSS Using Disk Cache.
+
+URL: http://bit.ly/40QVeKs (+)
+Description: Abusing Windows, .NET Quirks and Unicode Normalization to Exploit DotNetNuke.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/joey-melo/payloads
+Description: Payloads for AI Red Teaming and beyond.
+
+URL: https://github.com/warpnet/MS-RPC-Fuzzer
+Blog: http://bit.ly/44L4S3T (+)
+Description: Automating MS-RPC vulnerability research.
+
+URL: https://github.com/Idov31/NovaHypervisor
+Description: Defensive x64 Intel host based hypervisor.
+
+URL: https://github.com/0xbigshaq/CVE-2025-25257
+Blog: https://pwner.gg/blog/2025-07-10-fortiweb-fabric-rce
+Description: FortiWeb Pre-Auth RCE CVE-2025-25257 PoC.
+
+URL: https://github.com/temp43487580/mprecon
+Description: Script to collect information from a management point.
+
+URL: https://git.madhouse-project.org/iocaine/iocaine
+Description: Defense mechanism against unwanted scrapers - AI Poison.
+
+URL: https://github.com/ktock/buildg
+Description: Interactive debugger for Dockerfile, w/ support for IDEs.
+
+URL: https://github.com/redthing1/w1tn3ss
+Description: Dynamic binary instrumentation, analysis, and patching framework.
+
+URL: https://github.com/Teach2Breach/stargate
+Description: Locate dlls and function addresses without PEB Walk and EAT parsing.
+
+URL: https://www.new23d.com/obfuscating-outbound-traffic-via-a-suricata-firewall/
+Description: Obfuscating outbound traffic via a Suricata "firewall".
+
+URL: https://github.com/nyxgeek/frontdoor_waf_wtf
+Description: Script to check Azure Front Door WAF for insecure RemoteAddr variable.
+
+URL: https://github.com/daem0nc0re/TangledWinExec
+Description: PoCs and Tools for Investigation of Windows Process Execution Techniques.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://0din.ai/blog/phishing-for-gemini
+Description: Phishing For Gemini.
+
+URL: https://security-explorations.com/esim-security.html
+Description: Security analysis of eSIM technology.
+
+URL: https://zwclose.github.io/2024/10/14/rtsper1.html
+Description: Vulnerabilities of Realtek SD Card Reader Driver.
+
+URL: https://xbow.com/blog/xbow-ninja-tables/
+Description: XBOW battles Ninja Tables - Who's the Real Ninja?
+
+URL: https://labs.reversec.com/posts/2025/07/high-profile-cloud-privesc
+Description: High-Profile Cloud Privesc.
+
+URL: https://blog.quarkslab.com/controlplane_lpe_macos.html
+Description: ControlPlane Local Privilege Escalation Vulnerability on macOS.
+
+URL: http://bit.ly/44yOqU8 (+)
+Description: Bypassing Meta's Llama Firewall - A Case Study in Prompt Injection.
+
+URL: https://emacsninja.com/posts/cve-2025-1244-from-emacs-url-handler-to-rce.html
+Description: From Emacs URL Handler to RCE (CVE-2025-1244).
+
+URL: https://syst3mfailure.io/rbtree-family-drama/
+Description: A RBTree Family Drama - Exploiting Linux HFSC Eltree UAF (CVE-2025-38001).
+
+URL: http://bit.ly/3GHgJXo (+)
+Description: How Much More Must We Bleed? - Citrix NetScaler Mem Disclosure (CVE-2025-5777).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/divestedcg/real-ucode
+Description: All the microcodes, but packaged!
+
+URL: https://github.com/browserbase/stagehand
+Description: The AI Browser Automation Framework.
+
+URL: https://github.com/redis/RedisInsight
+Description: GUI to Design, Develop, and Optimize your Redis Application.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?a2e35c6c31cee7a9#9MnCwriJspr3iV8HxX0ufp+AwKMSV7dmkgAjJBe1V0g=
