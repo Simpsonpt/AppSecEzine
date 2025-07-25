@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 30 | Month: July | Year: 2025 | Release Date: 25/07/2025 | Edition: #597  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://adnanthekhan.com/posts/cloud-build-toctou/
+Description: Who's SHA is it Anyway - Bypassing Google Cloud Build Comment Control.
+
+URL: https://0x999.net/blog/leaking-ips-in-brave-tor-window-chrome-vpns-popunders-csp-bypass
+Description: Leaking IPs in Brave Tor Window & Chrome VPNs + Popunders + CSP Bypass.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/bjrjk/CVE-2024-4947
+Description: A in-the-wild V8 type confusion bug.
+
+URL: https://github.com/rtecCyberSec/RAITrigger/
+Description: Local SYSTEM auth trigger for relaying.
+
+URL: https://github.com/zarkones/BloodfangC2
+Description: Modern PIC implant for Windows (64 & 32 bit).
+
+URL: https://github.com/hadriansecurity/subwiz
+Description: A recon tool that uses ML to predict subdomains.
+
+URL: https://github.com/whokilleddb/lordran.polymorphic.shellcode
+Description: Ṕolymorphic shellcode.
+
+URL: https://github.com/dmcxblue/WSL-Payloads
+Description: A small How-To on creating your own weaponized WSL file.
+
+URL: https://github.com/spyboy-productions/CamXploit
+Description: Find/Analyze/Check security controls for exposed IP cameras.
+
+URL: https://github.com/sdushantha/tmpmail
+Description: A temporary email right from your terminal written in POSIX sh.
+
+URL: https://github.com/grayhatkiller/wambam-bof
+Description: A Cobalt Strike BOF that extracts access tokens from .tbres files.
+
+URL: https://github.com/logangoins/SoaPy
+Description: Tool for offensive interaction w/ Active Directory Web Services (ADWS).
+
+URL: https://github.com/trailofbits/vendetect
+Blog: http://bit.ly/45k005J (+)
+Description: A tool to automatically detect copy+pasted and vendored code between repos.
+
+URL: https://gmsgadget.com
+Description: Collection of JavaScript gadgets that can be used to bypass XSS mitigations.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.viettelcybersecurity.com/sharepoint-toolshell/
+Description: SharePoint ToolShell – One Request PreAuth RCE Chain.
+
+URL: https://sapirxfed.com/2025/02/14/playing-around-with-entra-apis/
+Description: Playing Around with Entra APIs.
+
+URL: http://bit.ly/44KoQvu (+)
+Description: C4 Bomb - Blowing Up Chrome's AppBound Cookie Encryption.
+
+URL: https://swarm.ptsecurity.com/daemon-ex-plist-lpe-via-macos-daemons/
+Description: Daemon Ex Plist - LPE via MacOS Daemons.
+
+URL: https://positive.security/blog/blinkencity-38c3
+Description: BlinkenCity - From Art Project to Europe-wide Blackout Scenario.
+
+URL: http://bit.ly/4f3SuiG (+)
+Description: A Novel Technique for SQL Injection in PDO's Prepared Statements.
+
+URL: https://swarm.ptsecurity.com/the-guest-who-could-exploiting-lpe-in-vmware-tools/
+Description: The Guest Who Could - Exploiting LPE in VMWare Tools.
+
+URL: https://blog.compass-security.com/2025/06/pwn2own-ireland-2024-ubiquiti-ai-bullet/
+Description: Pwn2Own Ireland 2024 – Ubiquiti AI Bullet.
+
+URL: https://www.beyondtrust.com/blog/entry/evil-vm
+Description: Abusing Device-Identity Trust and Phishing for Primary Refresh Tokens (PRTs).
+
+URL: http://bit.ly/3UAkiSh (+)
+Description: Abusing Default Machine Joining to Domain Permissions to Attack AWS Managed AD.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/skyfloogle/red-viper
+Description: A Virtual Boy emulator for the 3DS.
+
+URL: https://github.com/Jackywine/Bella
+Description: Bella - Your Digital Companion, Awakening (Freaky).
+
+URL: https://medium.com/@profundis.io/how-we-automated-our-recon-at-scale-ee0a3b6bcb04
+Description: How we automated our recon at scale.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?0f5e45f02f22bea6#/CO7+8GrXMervN0SpU25jS6SQX0+dcW1GfW6KgwcbSo=
