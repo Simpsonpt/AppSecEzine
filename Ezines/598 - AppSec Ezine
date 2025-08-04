@@ -1,0 +1,132 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 31 | Month: August | Year: 2025 | Release Date: 01/08/2025 | Edition: #598  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://sudistark.github.io/2025/07/02/idx.html
+Description: XSS in Google IDX Workstation.
+
+URL: https://blog.p1.gs/writeup/2025/07/06/Hacking-a-crypto-game/
+Description: Exploiting an ORM Injection to Steal Cryptocurrency from an Online Shooter.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://xairy.io/articles/pixel-kgdb
+Description: Debugging the Pixel 8 kernel via KGDB.
+
+URL: https://github.com/bcdannyboy/PromptMatryoshka
+Description: Multi-Provider LLM Jailbreak Research Framework.
+
+URL: https://github.com/whokilleddb/sinister-vsix
+Description: Blog/Journal on how to backdoor VSCode extensions.
+
+URL: https://github.com/TylerTucker/BluesClues
+Description: Discover Non-Discoverable Bluetooth Classic devices.
+
+URL: https://github.com/irsdl/ysonet
+Description: Deserialization payload generator for a variety of .NET formatters.
+
+URL: https://github.com/EFForg/rayhunter
+Description: Rust tool to detect cell site simulators on an orbic mobile hotspot.
+
+URL: https://github.com/0xflux/Hells-Hollow
+Blog: http://bit.ly/41jAJpS (+)
+Description: Hells Hollow Win11 Rootkit technique to Hook the SSDT via Alt Syscalls.
+
+URL: https://github.com/SpecterOps/MSSQLHound
+Description: PS collector for adding MSSQL attack paths to BloodHound with OpenGraph.
+
+URL: https://github.com/evilsocket/nyx
+Description: Self-contained script for cleaning forensic traces on Linux/macOS/Windows.
+
+URL: https://github.com/intruder-io/autoswagger/
+Description: CLI to discover/parse/test for UnAuthN endpoints using Swagger/OpenAPI docs.
+
+URL: https://github.com/p1ngul1n0/blackbird
+Description: An OSINT tool to search for accounts by username and email in social networks.
+
+URL: https://www.seccompare.com/
+Blog: https://www.antitree.com/2025/07/introducing-seccompare.com-seccomp-diffs-for-containers/
+Description: Seccomp Diffs For Containers
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://ricardojoserf.github.io/amazonmwaa/
+PoC: https://github.com/ricardojoserf/amazon-mwaa-RCE
+Description: Getting RCE in an AWS service (Amazon MWAA).
+
+URL: https://vict0ni.notion.site/weaponizing-lnk
+Description: Weaponizing LNK Files in Offensive Operations.
+
+URL: https://0x44.xyz/blog/web-request-blocking/
+Description: How I found a bypass in Google's big anti-adblock update.
+
+URL: http://bit.ly/4oeaJ9l (+)
+Description: RCE in the Most Popular Survey Software You've Never Heard Of.
+
+URL: https://spaceraccoon.dev/getting-shell-lau-g150-c-optical-network-terminal/
+Description: Getting a Shell on the LAU-G150-C Optical Network Terminal.
+
+URL: https://blog.malicious.group/the-quiet-side-channel-smuggling-with-cl-0-for-c2/
+PoC: https://github.com/maliciousgroup/CacheC2Channel
+Description: The Quiet Side Channel... Smuggling with CL.0 for C2.
+
+URL: http://bit.ly/4oxbryT (+)
+PoC: https://github.com/ZeroMemoryEx/PHP-CGI-INTERNAL-RCE
+Description: Your Browser Is Now Your Enemy - Delivering PHP RCE to Your Local Servers.
+
+URL: https://www.wiz.io/blog/nvidia-ai-vulnerability-cve-2025-23266-nvidiascape
+Description: A Three-Line Container Escape in NVIDIA Container Toolkit (CVE-2025-23266).
+
+URL: https://www.enea.com/insights/the-good-the-bad-and-the-encoding-an-ss7-bypass-attack/
+Description: The Good, the Bad, and the Encoding - An SS7 Bypass Attack.
+
+URL: https://raelize.com/blog/google-wifi-pro-glitching-from-root-to-el3-part-1-characterization/
+More: https://raelize.com/blog/google-wifi-pro-glitching-from-root-to-el3-part-2-arbitrary-read-write/
+Description: Google Wifi Pro - Glitching from Root to EL3 (Series).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/jbensmann/mouseless
+Description: A replacement for the mouse in Linux.
+
+URL: https://github.com/KrishKrosh/TrackWeight
+Description: Turn your MacBook's trackpad into a precise digital weighing scale.
+
+URL: https://github.com/davidkimai/Context-Engineering
+Description: Fill the context window with just the right information for the next step.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?3b781e8b86d58db6#XkYveBnWKreCKLuR0LFW+AEBlyQSPPWJfMaVK4a1SjQ=
