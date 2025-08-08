@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 32 | Month: August | Year: 2025 | Release Date: 08/08/2025 | Edition: #599  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://portswigger.net/research/http1-must-die
+Description: HTTP/1.1 must die - The desync endgame.
+
+URL: https://github.com/RenwaX23/X/blob/master/safari_bug.md
+Description: PermissionJacking - How a Subtle Bug in Safari Could Lead to Camera Hijacking.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/0xJs/EnumEDR-s
+Description: Enumerate active EDR's on the system.
+
+URL: https://github.com/tabby-sec/tabby
+Description: Static code analysis tool for Java language.
+
+URL: https://github.com/chainreactors/malefic
+Description: IoM implant - C2 Framework and Infrastructure.
+
+URL: https://github.com/KingKDot/Exorcism
+Description: Exorcism - Runtime Windows Batch Deobfuscator.
+
+URL: https://github.com/garrettfoster13/fustercluck
+Description: POC tool to abuse windows server failover clusters.
+
+URL: https://muffsec.com/blog/getting-code-execution-on-apache-spark-sql/
+Description: Getting Code Execution on Apache Spark SQL.
+
+URL: https://github.com/ChoiSG/SharpSilentChrome
+Description: "Silently" installs browser extensions on Google Chrome or MS Edge.
+
+URL: https://github.com/misiektoja/instagram_monitor
+Description: Real-time tracking of Instagram users activities and profile changes.
+
+URL: https://github.com/masatokinugawa/ShadowBreakers
+Description: Lists JS APIs to which encapsulation by the Shadow DOM does not apply.
+
+URL: https://github.com/secnotes/elfspirit
+Description: ELF static analysis/injection framework to parse, manipulate, patch and hide.
+
+URL: https://github.com/praetorian-inc/oauthseeker/
+Description: Malicious OAuth apps to compromise user identities in MS Azure and Office365.
+
+URL: https://github.com/qbap/CVE-2024-44258
+Description: Symlink Vulnerability in Apple ManagedConfiguration Framework ( CVE-2024-44258).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.isec.pl/disguises-zip-past-path-traversal/
+Description: Disguises Zip Past Path Traversal.
+
+URL: https://www.toreon.com/flashing-your-lights-cve-2025-7202/
+Description: Flashing Your (Elgato) Lights (CVE-2025-7202).
+
+URL: https://ipurple.team/2025/08/04/lateral-movement-bitlocker/
+Description: Lateral Movement – BitLocker.
+
+URL: https://xbow.com/blog/xbow-titiler-lfi
+Description: How XBOW Turned a Blind SSRF into a File Reading Oracle.
+
+URL: https://hhj4ck.github.io/qualcomm/2025/08/06/secboot-off-qcm2150.html
+Description: A Full-Chain Exploit of an Unfused Qualcomm Device.
+
+URL: https://dstreefkerk.github.io/2025-07-m365-email-osint-after-lockdown/
+Description: M365 Email OSINT After the Lockdown - What Still Works in 2025.
+
+URL: https://dirkjanm.io/extending-ad-cs-attack-surface-intune-certs/
+Tool: https://github.com/dirkjanm/scepreq
+Description: Extending AD CS attack surface to the cloud with Intune certificates.
+
+URL: http://bit.ly/4mr2vcm (+)
+Description: Cracking the Vault - Flaws in AuthN, identity, and AuthZ in HashiCorp Vault.
+
+URL: http://bit.ly/4mxxm76 (+)
+Description: Struts Devmode in 2025? Critical Pre-AuthN in Adobe Experience Manager Forms.
+
+URL: https://www.wiz.io/blog/nvidia-triton-cve-2025-23319-vuln-chain-to-ai-server
+Description: Breaking NVIDIA Triton - A Vulnerability Chain Leading to AI Server Takeover.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/knownsec/aipyapp
+Description: AI-Powered Python & Python-Powered AI (Python-Use).
+
+URL: https://github.com/ranuts/document
+Description: Perform common file preview and editing via the web. 
+
+URL: https://github.com/XieyangSun/TEMPEST-LoRa
+Description: TEMPEST-LoRa - Cross-Technology Covert Communication.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?5d7c39bf3af4c956#EhbL8ygJ2kFd7jc74ij6vsDUfTRbcvhM0JTx38W7MT8=
