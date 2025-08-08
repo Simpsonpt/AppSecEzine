@@ -83,6 +83,7 @@ More: https://blog.ret2.io/2024/07/24/pwn2own-auto-2024-charx-exploit/
 Description: Pwn2Own Automotive - CHARX Vulnerability Discovery and Exploit.
 
 URL: https://code-white.com/blog/teaching-the-old-net-remoting-new-exploitation-tricks/
+PoC: https://github.com/codewhitesec/NewRemotingTricks
 Description: Teaching the Old .NET Remoting New Exploitation Tricks.
 
 URL: https://blog.quarkslab.com/heap-exploitation-glibc-internals-and-nifty-tricks.html
