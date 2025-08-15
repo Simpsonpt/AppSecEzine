@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 33 | Month: August | Year: 2025 | Release Date: 15/08/2025 | Edition: #600  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://print3m.github.io/blog/filejacking-initial-access-with-file-system-api
+Description: FileJacking – Initial Access with File System API.
+
+URL: http://bit.ly/4fz34ys (+)
+Description: VS and Copilot – Wormable Cmd Execution via Prompt Injection (CVE-2025-53773).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/0x4m4/hexstrike-ai
+Description: HexStrike AI MCP Agents.
+
+URL: https://github.com/NeoMaster831/kurasagi
+Description: Windows 11 24H2 Runtime PatchGuard Bypass.
+
+URL: https://github.com/m8sec/Dispatch
+Description: Evasive Payload Delivery Server & C2 Redirector.
+
+URL: https://github.com/MohamedKarrab/odoomap
+Description: A penetration testing tool for odoo applications.
+
+URL: https://github.com/SpecterOps/GitHound
+Description: GitHound is a BloodHound OpenGraph collector for GitHub.
+
+URL: https://github.com/praetorian-inc/ChromeAlone
+Description: A tool to transform Chromium browsers into a C2 Implant.
+
+URL: https://github.com/Slonser/Ebka-Caido-AI
+Description: AI-powered assistant that integrates seamlessly with Caido.
+
+URL: https://github.com/rtecCyberSec/BitlockMove
+Description: Lateral Movement via Bitlocker DCOM interfaces & COM Hijacking.
+
+URL: https://github.com/praetorian-inc/turnt/
+Description: Smuggling interactive C2 traffic via legitimate TURN servers like Zoom.
+
+URL: https://github.com/SafeBreach-Labs/Win-DoS
+Blog: https://www.safebreach.com/blog/win-dos-epidemic-abusing-rpc-for-dos-and-ddos/
+Description: Tools/Exploits to cause DoS for remote Windows Server & Windows 11 machines.
+
+URL: https://github.com/0xedh/DEFCON33-KillChainReloaded
+Description: How Secure Boot/BitLocker/WPBTVuln.Drivers can be abused in modern bootkits.
+
+URL: https://github.com/trailofbits/buttercup
+Description: Finds and patches software vulnerabilities in open-source code repositories.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://r0keb.github.io/posts/Hyper-V-Research/
+Description: Hyper-V Research (light introduction).
+
+URL: https://heracles-attack.github.io/
+Description: Heracles - Chosen Plaintext Attack on AMD SEV-SNP.
+
+URL: https://galbarnahum.com/posts/made-you-reset-intro
+Description: The MadeYouReset HTTP/2 Vulnerability - What Is It?
+
+URL: https://quentinkaiser.be/security/2025/07/25/rooting-tapo-c200/
+Description: Rooting the TP-Link Tapo C200 Rev.5.
+
+URL: http://bit.ly/4mHSMhM (+)
+Description: Don't Phish-let Me Down - FIDO Authentication Downgrade.
+
+URL: https://eclypsium.com/blog/badcam-now-weaponizing-linux-webcams/
+Description: BadCam - Now Weaponizing Linux Webcams.
+
+URL: https://pwner.gg/blog/2025-08-13-fortiweb-cve-2025-52970
+Description: FortMajeure - Authentication Bypass in FortiWeb (CVE-2025-52970).
+
+URL: https://research.eye.security/consent-and-compromise/
+Description: Abusing Entra OAuth for Fun and Access to Internal MS Applications.
+
+URL: http://bit.ly/4fDjN3O (+)
+Description: Zero Click, One NTLM - Microsoft Security Patch Bypass (CVE-2025-50154).
+
+URL: https://horizon3.ai/attack-research/attack-blogs/from-support-ticket-to-zero-day/
+Description: From Support Ticket to Zero Day (CVE-2025-8355/CVE-2025-8356).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/unslothai/unsloth/
+Description: Fine-tuning & Reinforcement Learning for LLMs. 
+
+URL: https://github.com/seifreed/DLL-Downloader
+Description: Small utility to download DLLs files from the dll-files.com website.
+
+URL: https://github.com/lavamoat/kipuka
+Description: Easy, composable and transparent way to run things in a docker container. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?0dbc69522b16a4c0#CZFJrQITnJDTCCfO3Q6/7K474OiCilQ25B2zGBLPQG0=
