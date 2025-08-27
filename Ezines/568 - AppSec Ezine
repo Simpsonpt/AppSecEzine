@@ -85,6 +85,7 @@ PoC: https://github.com/ambionics/lightyear
 Description: Introducing lightyear - A new way to dump PHP files.
 
 URL: https://bit.ly/4iXzBQ6 (+)
+More: https://blog.amberwolf.com/blog/2025/august/delinea-protocol-handler---msi-strikes-back/
 Description: Delinea Protocol Handler - RCE via Update Process (CVE-2024-12908).
 
 URL: https://permiso.io/blog/exploiting-hosted-models
