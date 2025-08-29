@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+###  Week: 35 | Month: August | Year: 2025 | Release Date: 29/08/2025 | Edition: #601  ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/47oghZ7 (+)
+Description: Smuggling Requests with Chunked Extensions: A New HTTP Desync Trick.
+
+URL: https://zere.es/posts/cache-deception-cspt-account-takeover/
+Description: Cache Deception+CSPT - Turning Non Impactful Findings into Account Takeover.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/clearbluejar/pyghidra-mcp
+Blog: http://bit.ly/4mW6Fd3 (+)
+Description: Python Command-Line Ghidra MCP.
+
+URL: https://github.com/R0rt1z2/fenrir
+Description: Bootchain exploit for MediaTek devices.
+
+URL: https://github.com/aahmad097/AlternativeShellcodeExec
+Description: Alternative Shellcode Execution Via Callbacks.
+
+URL: https://github.com/flankerhqd/jebmcp
+Description: A quick-and-dirty MCP server&Plugin for JEB Pro.
+
+URL: https://github.com/FFRI/ShadeBIOS/
+Description: ShadeBIOS - Unleashing the Full Stealth of UEFI Malware.
+
+URL: https://github.com/Print3M/DllShimmer
+Description: Weaponize DLL hijacking easily. Backdoor any function in any DLL.
+
+URL: https://github.com/msuiche/elegant-bouncer
+Description: ELEGANTBOUNCER is a detection tool for file-based mobile exploits.
+
+URL: https://github.com/synacktiv/gpoParser
+Description: Tool to extract/analyze configs applied via GPOs in an AD environment.
+
+URL: https://github.com/hakaioffsec/CVE-2025-49113-exploit
+Description: RCE through insecure deserialization in Roundcube Webmail (CVE-2025-49113).
+
+URL: https://github.com/tin-z/CVE-2025-27363
+Description: Integer Overflow in FreeType software, also affects Chrome (CVE-2025-27363).
+
+URL: https://github.com/olafhartong/ETWLocksmith
+Description: Windows CLI tool for analyzing and searching ETW (Event Tracing for Windows).
+
+URL: https://github.com/kleiton0x00/RtlHijack
+Description: Alternative Read and Write primitives using Rtl* functions the unintended way.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.ryukudz.com/posts/postmessage-part-1/
+More: https://blog.ryukudz.com/posts/postmessage-part-2/
+Description: Hunting postMessage Vulnerabilities.
+
+URL: https://dmcxblue.net/2025/08/23/how-to-rob-a-hotel/
+Description: How to Rob a Hotel - Azure Red Team.
+
+URL: https://bad-jubies.github.io/exploiting-asio64-sys
+Description: Exploiting ZwMapViewOfSection in ASIO64.sys.
+
+URL: http://bit.ly/4lT71Q6 (+)
+Description: Samsung S24 Exploit Chain Pwn2Own 2024 Walkthrough.
+
+URL: https://blog.dfsec.com/ios/2025/05/30/blasting-past-ios-18/
+Description: Blasting Past iOS 18.
+
+URL: https://asset-group.github.io/Sni5Gect-5GNR-sniffing-and-exploitation/
+Description: A framework for 5G NR Sniffing and Injection.
+
+URL: http://bit.ly/4mzQz8v (+)
+Description: Bypassing Enrollment Restrictions to Break BYOD Barriers in Intune.
+
+URL: https://labs.reversec.com/posts/2025/08/another-ecs-privilege-escalation-path
+Description: Another ECS Privilege Escalation Path.
+
+URL: https://sud0ru.ghost.io/silent-harvest-extracting-windows-secrets-under-the-radar/
+Description: Silent Harvest - Extracting Windows Secrets Under the Radar.
+
+URL: http://bit.ly/4fUwZkK (+)
+Description: We Put Agentic AI Browsers to the Test - They Clicked, They Paid, They Failed.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/DigitalPlatDev/FreeDomain
+Description: DigitalPlat FreeDomain - Free Domain For Everyone.
+
+URL: https://blog.wilsonl.in/search-engine/
+Description: Building a web search engine from scratch in two months.
+
+URL: https://redmonk.com/kholterhoff/2025/08/15/the-great-ssl-certificate-panic/
+Description: The Great SSL Certificate Panic.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?17cc8a177dbc3628#O38rhqMnDnLAo/aBb96Q0gVik8HClqXsm7AKBCIaPSg=
