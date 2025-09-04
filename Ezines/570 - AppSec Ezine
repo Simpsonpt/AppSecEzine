@@ -97,6 +97,7 @@ URL: https://csa.limited/blog/20240916-Exploiting-Microsoft-Kernel-Applocker-Dri
 Description: Exploiting Microsoft Kernel Applocker Driver (CVE-2024-38041).
 
 URL: https://blog.doyensec.com/2025/01/07/ksmbd-1.html
+More: https://blog.doyensec.com/2025/09/02/ksmbd-2.html
 Description: SMB3 Kernel Server (ksmbd) vulnerability research (CVE-2024-50286/50283/50285).
 
 
