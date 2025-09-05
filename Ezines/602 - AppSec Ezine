@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 36 | Month: September | Year: 2025 | Release Date: 05/09/2025 | Edition: #602 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.vulnano.com/2025/09/remote-code-execution-though.html
+Description: RCE though vulnerability in Facebook Messenger for Windows.
+
+URL: http://bit.ly/3K7paMI (+)
+Description: When CTF Meets Bug Bounty - A Critical UXSS in Opera Browser.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/usestrix/strix
+Description: Open-source AI hackers for your apps.
+
+URL: https://github.com/fox-it/citrix-netscaler-triage
+Description: Dissect triage script for Citrix NetScaler devices.
+
+URL: https://github.com/claffin/cloudproxy
+Description: Provision proxy servers across different cloud providers.
+
+URL: https://github.com/isec-tugraz/KernelSnitch
+Description: KernelSnitch - Side Channel-Attacks on Kernel Data Structures.
+
+URL: https://github.com/mistymntncop/CVE-2025-5419
+Description: Google Chromium V8 Out-of-Bounds Read and Write Vulnerability.
+
+URL: https://github.com/Adaptix-Framework/AdaptixC2
+Description: Extensible post-exploitation and adversarial emulation framework.
+
+URL: https://github.com/HAROGIC-Technologies/soapy-htra
+Description: A SoapySDR module for Harogic HTRA series spectrum analysis devices.
+
+URL: https://github.com/y0v1737/chipolino
+Description: Hardware & software platform for research in the field "Power Attacks".
+
+URL: https://github.com/Semperis/SAMLSmith
+Description: Tool for generating custom SAML responses and Silver/Golden SAML attacks.
+
+URL: https://github.com/bravenewxyz/agent-c
+Description: AI agent that communicates with OpenRouter API and executes shell commands.
+
+URL: https://github.com/mgthuramoemyint/POC-CVE-2025-54988
+Description: Apache Tika XML External Entity injection via crafted XFA file inside a PDF.
+
+URL: https://github.com/mandatoryprogrammer/thermoptic/
+Description: HTTP stealth proxy which cloaks requests as the Chrome browser on all stack. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://reversing.live/sslbypass.html
+Description: Bypassing TLS Verification on Nintendo Switch.
+
+URL: https://winters0x64.xyz/posts/post-2/
+Description: Ruby class pollution research - Rotate Chains.
+
+URL: https://blog.silentsignal.eu/2025/06/14/gitblit-cve-CVE-2024-28080/
+Description: Rage Against the Authentication State Machine.
+
+URL: https://www.bitsight.com/blog/rapperbot-infection-ddos-split-second
+Description: RapperBot - From Infection to DDoS in a Split Second.
+
+URL: https://appsec.space/posts/aion-housing-exploit/
+Description: This House is Haunted - a decade old RCE in the AION client.
+
+URL: https://insinuator.net/2025/09/stealing-emails-via-prompt-injections/
+Description: Vulnerability Disclosure - Stealing Emails via Prompt Injections.
+
+URL: https://dawnslab.jd.com/android_gpu_attack_cve_2025_21479/
+Description: Walk Through Android Physical Memory Privilege Escalation (CVE-2025-21479).
+
+URL: http://bit.ly/45MQ6Kk (+)
+Description: Hacking GraalVM Espresso - Abusing Continuation API to Make ROP-like Attack.
+
+URL: http://bit.ly/41DFevN (+)
+Description: How We Exploited CodeRabbit - From a Simple PR to RCE and Write Access on 1M Repos.
+
+URL: https://jhftss.github.io/Exploiting-the-Impossible/
+PoC: https://github.com/jhftss/POC/tree/main/CVE-2024-54566%20%26%20CVE-2025-43220
+Description: Exploiting the Impossible - A Deep Dive into A Vulnerability Apple Deems Unexploitable.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://ipcrypt-std.github.io/
+Description: A Common Approach to IP Address Encryption.
+
+URL: https://github.com/makalin/KeyForge3D
+Description: KeyForge3D is an app that turns a photo of a key into a 3D-printable STL file.
+
+URL: https://github.com/darrenburns/rich-pixels
+Description: A Rich-compatible library for writing pixel images and ASCII art to the terminal. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?23b81befcc0bb5ea#zvnR38+oaovtQhlsEe5Z8+Cbrdf2e6iYbOIjZaQMI6s=
