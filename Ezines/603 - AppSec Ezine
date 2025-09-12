@@ -1,0 +1,128 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 37 | Month: September | Year: 2025 | Release Date: 12/09/2025 | Edition: #603 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: http://bit.ly/41LC6y3 (+)
+Description: How We Accidentally Discovered a RCE Vulnerability in ETQ Reliance.
+
+URL: https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes
+Description: Cookie Chaos - How to bypass __Host and __Secure cookie prefixes.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/Kudaes/MFTool
+Description: Direct access to NTFS volumes.
+
+URL: https://github.com/duhirsch/MoveEdr
+Description: Permanently disable EDRs as local admin.
+
+URL: https://github.com/deriv-security/MeetC2
+Description: A framework abusing Google Calendar APIs.
+
+URL: https://github.com/pwnfuzz/diffrays
+Description: DiffRays - IDA Pro Binary Diffing Engine.
+
+URL: https://github.com/connormcgarr/Vtl1Mon
+Description: Virtual Trust Level (VTL 1) secure call tracing.
+
+URL: https://www.hexacorn.com/blog/2025/08/19/dll-forwardsideloading/
+Description: DLL ForwardSideloading.
+
+URL: https://f0rw4rd.github.io/posts/tls-noverify-bypass-all-the-things/
+Description: TLS NoVerify - Bypass All The Things.
+
+URL: https://github.com/GH05TCREW/PentestAgent
+Description: AI red team assistant using LLMs with MCP and RAG architecture.
+
+URL: https://github.com/tlsbollei/KittyLoader
+Description: KittyLoader is a highly evasive loader written in C / Assembly.
+
+URL: https://github.com/OleFredrik1/remoteKrbRelayx
+Description: A tool for coercing and relaying Kerberos authentication over DCOM and RPC.
+
+URL: https://github.com/Permiso-io-tools/Inboxfuscation
+Blog: https://permiso.io/blog/inboxfuscation-because-rules-are-meant-to-be-broken
+Description: Framework for mailbox rule obfuscation and detection in Exchange environments. 
+
+URL: https://github.com/ImAyrix/fallparams
+Description: Tool to crawl pages, find potential parameters and generate a custom wordlist. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://blog.offensive.af/posts/auditd-weaponization/
+Description: Weaponizing macOS auditd.
+
+URL: https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/
+Description: Keeping Secrets Out of Logs.
+
+URL: https://specterops.io/blog/2025/08/19/will-webclient-start/
+PoC: https://github.com/0xthirteen/rpc2wc
+Description: Will WebClient Start.
+
+URL: https://reversing.codes/posts/PlayStation-5-ELF-Injection/
+Description: Usermode ELF injection on the PlayStation 5.
+
+URL: https://blog.sicuranext.com/vtenext-25-02-a-three-way-path-to-rce/
+Description: Vtenext 25.02 - A three-way path to RCE.
+
+URL: https://the-sequence.com/finding-vulnerabilities-in-apple-packages
+Description: Finding Vulnerabilities in Apple Packages at Scale.
+
+URL: https://streypaws.github.io/posts/Race-Against-Time-in-the-Kernel-Clockwork/
+Description: Race Against Time in the Kernel's Clockwork (CVE-2025-38352).
+
+URL: https://futuresight.club/posts/0x00_exfiltrate_git_credentials_argocd.html
+Description: Stealing the keys from the octopus - Exfiltrate Git Credentials in Argocd.
+
+URL: http://bit.ly/4n647ZU (+)
+Description: Subverting code integrity checks to locally backdoor Signal/1Password/Slack/++.
+
+URL: https://medium.com/@offsecdeer/adidns-time-bombs-poison-today-relay-tomorrow-c224934eefa6
+Description: ADIDNS Time Bombs - Poison Today, Relay Tomorrow.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/mermaid-js/mermaid
+Description: Markdown like generation of diagrams (flowcharts/sequence).
+
+URL: https://github.com/firecrawl/fireplexity
+Description: Search engine w/ real-time citations, streaming responses, and live data.
+
+URL: https://github.com/MaliosDark/wifi-3d-fusion
+Description: Live local Wi-Fi sensing with CSI - Real-time motion detection + visualization.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?accf070c59aa2148#ZHbTH2mt9tWuHH2I7f8aVi2DcEQT1bmOjgUOtEP1Cfw=
