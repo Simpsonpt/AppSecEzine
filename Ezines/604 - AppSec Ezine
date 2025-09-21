@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 38 | Month: September | Year: 2025 | Release Date: 19/09/2025 | Edition: #604 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.babelo.xyz/posts/cross-site-subdomain-leak/
+Description: XSS-Leak - Leaking Cross-Origin Redirects.
+
+URL: http://bit.ly/3K5W4xA (+)
+Description: Anthropic MCP Inspector Vulnerability - From XSS to RCE (CVE-2025–58444).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ZephrFish/pyLDAPGui
+Description: Python based GUI for browsing LDAP.
+
+URL: https://github.com/dis0rder0x00/obex
+Description: Blocking unwanted DLLs in user mode.
+
+URL: https://github.com/dtmsecurity/badpie
+Blog: https://dtm.uk/badpie/
+Description: Python package index/mirror proxy tool.
+
+URL: https://github.com/s3fs-fuse/s3fs-fuse
+Description: FUSE-based file system backed by Amazon S3.
+
+URL: https://github.com/Bin4ry/UniPwn
+Description: Unitree Robot BLE Service Command Injection Analysis.
+
+URL: https://github.com/Ruulian/initramfs-toolkit
+Description: Toolkit that allows to extract and compress initramfs.
+
+URL: https://github.com/tijme/dittobytes
+Description: Metamorphic cross-compilation of C++ & C-code to PIC, BOF & EXE.
+
+URL: https://github.com/TwoSevenOneT/WSASS
+Description: This is the tool to dump the LSASS process on modern Windows 11.
+
+URL: https://github.com/sensepost/wpswag
+Description: Create an OpenAPI/Swagger spec from a WordPress REST entry point.
+
+URL: https://github.com/Yamato-Security/hayabusa-rules
+Description: Curated Windows event log Sigma rules used in Hayabusa and Velociraptor.
+
+URL: https://github.com/Retr0-code/hash-dumper
+Description: Windows NTLM hash dump (realtime or from already saved SAM and SYSTEM hives).
+
+URL: https://github.com/andreisss/Remote-DLL-Injection-with-Timer-based-Shellcode-Execution
+Description: Remote DLL Injection with Timer-based Shellcode Execution.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://github.com/yo-yo-yo-jbo/android_webview_security/
+Description: Android Webview security.
+
+URL: https://lucasteske.dev/2025/09/running-code-in-pax-machines
+Description: Running code in a PAX Credit Card Payment Machine.
+
+URL: https://kennedn.com/blog/posts/tapo/
+Description: Wanted to spy on my dog, ended up spying on TP-Link.
+
+URL: https://blog.syss.com/posts/bitpixie/
+Description: Windows Local Privilege Escalation through the bitpixie Vulnerability.
+
+URL: https://malwaretech.com/2023/12/silly-edr-bypasses-and-where-to-find-them.html
+Description: Silly EDR Bypasses and Where To Find Them.
+
+URL: https://www.oligo.security/blog/pwn-my-ride-exploring-the-carplay-attack-surface
+Description: Pwn My Ride - Exploring the CarPlay Attack Surface.
+
+URL: https://objective-see.org/blog/blog_0x81.html
+Description: From Spotlight to Apple Intelligence - Steal the data that fuels macOS AI.
+
+URL: http://bit.ly/47TeFql (+)
+Description: You Already Have Our Personal Data, Take Our Phone Calls Too (CVE-2025-57819).
+
+URL: https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/
+Description: Obtaining Global Admin in every Entra ID tenant via Actor tokens.
+
+URL: https://reverse.put.as/2025/08/24/rc4bruteforce/
+Description: Exploiting the GPU and the 90s crypto wars to crack the APT Down code signing keys.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/evilsocket/clipbud
+Description: (AI) Clipboard Buddy.
+
+URL: https://github.com/samhenrigold/LidAngleSensor
+Description: MacBook Lid Angle Sensor.
+
+URL: https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/
+Description: A Dumb Introduction to z3.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?fb125a5e5abffcf5#7WYTHIGx4WwCPDwIHiZlqMeEblHr9vooQ9KXqMbwWjc=
