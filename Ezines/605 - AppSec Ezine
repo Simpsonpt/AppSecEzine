@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 39 | Month: September | Year: 2025 | Release Date: 26/09/2025 | Edition: #605 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://sec.stealthcopter.com/regexss/
+Description: REGEXSS - How .* Turned Into over $6k in Bounties.
+
+URL: https://verialabs.com/blog/from-mcp-to-shell/
+Description: How MCP Authentication Flaws Enable RCE in Claude Code, Gemini CLI, and More.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/coder/httpjail
+Description: HTTP(s) request filter for processes.
+
+URL: https://github.com/assetnote/hopgoblin
+Description: Adobe Experience Manager (AEM) hacking toolkit.
+
+URL: https://github.com/containerscrew/rootisnaked
+Description: Simple root privilege escalation detection using eBPF.
+
+URL: https://github.com/erenakkaya/blackmail
+Description: BlackMail is a tool for creating and sending spoof mail.
+
+URL: https://github.com/MatheuZSecurity/Singularity
+Description: Linux Kernel Module (LKM) rootkit for modern kernels (6x).
+
+URL: https://github.com/TwoSevenOneT/EDR-Freeze
+Description: Tool that puts a process of EDR, AntiMalware into a coma state.
+
+URL: https://github.com/domcyrus/rustnet
+Description: A cross-platform network monitoring terminal UI tool built with Rust.
+
+URL: https://github.com/praetorian-inc/google-redirector
+Description: Redirector for Google Cloud Run, enabling domain fronting via Google.
+
+URL: https://github.com/G0ldenGunSec/OpenImporter
+Description: Middleware to enrich and upload data gathered with arbitrary collectors.
+
+URL: https://github.com/HackingLZ/svg_phishing_tools
+Description: SVG Analysis and generation tools for commonly seen SVG attachment phishing.
+
+URL: https://github.com/TwoSevenOneT/CreateProcessAsPPL
+Blog: https://www.zerosalarium.com/2025/08/countering-edrs-with-backing-of-ppl-protection.html
+Description: Loader to run programs w/ Protected Process Light (PPL) protection functionality. 
+
+URL: https://github.com/hackerhouse-opensource/SetupHijack
+Description: Tool to exploit RaceConditions/Insec.FileHandling in Win installers/update processes. 
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://0xf00sec.github.io/0x48
+Description: The Art of Self-Mutating Malware.
+
+URL: https://blog.huli.tw/2025/09/15/en/xss-without-semicolon-and-parentheses/
+Description: Explaining XSS without parentheses and semi-colons.
+
+URL: https://semgrep.dev/blog/2025/finding-more-zero-days-through-variant-analysis/
+Description: Finding More Zero Days Through Variant Analysis.
+
+URL: http://bit.ly/4nONqSn (+)
+Description: OnePlus OxygenOS Telephony provider permission bypass (CVE-2025-10184).
+
+URL: http://bit.ly/46VFxVG (+)
+Description: Common Initial Access Vectors via Phishing in the Microsoft Cloud World.
+
+URL: https://comsec.ethz.ch/research/dram/phoenix/
+Description: Phoenix - Rowhammer Attacks on DDR5 with Self-Correcting Synchronization.
+
+URL: https://www.willsroot.io/2025/09/ksmbd-0-click.html
+Description: Eternal-Tux - Crafting a Linux Kernel KSMBD 0-Click RCE Exploit from N-Days.
+
+URL: https://g3tsyst3m.com/fileless%20techniques/Bypassing-EDR-using-an-In-Memory-PE-Loader/
+Description: Bypassing EDR using an In-Memory PE Loader.
+
+URL: https://www.sonarsource.com/blog/double-dash-double-trouble-a-subtle-sql-injection-flaw/
+Description: Double Dash, Double Trouble - A Subtle SQL Injection Flaw.
+
+URL: https://qriousec.github.io/post/oob-angle/
+Description: libANGLE integer underflow turned into a read primitive on the Chrome WebGPU process.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/malmeloo/FindMy.py
+Description: Query Apple's FindMy Network with Python!
+
+URL: https://bogdanthegeek.github.io/blog/projects/vapeserver/
+Description: Hosting a WebSite on a Disposable Vape.
+
+URL: https://github.com/intuitem/ciso-assistant-community
+Description: CISO Assistant - Extra arms for your cyber security program.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?1e18fef9cac4128b#IP1oQba+9OLRyf8grhGsmhlRQchuAug6VSEqyTyKr4Q=
