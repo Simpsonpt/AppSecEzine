@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 40 | Month: October | Year: 2025 | Release Date: 03/10/2025 | Edition: #606 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://sudistark.github.io/2025/09/23/RCE-in-web-designer.html
+Description: Abusing the NinjaShell API for Code Execution in Google Web Designer.
+
+URL: https://bit.ly/4gS78uc (+)
+Description: Atlassian Confluence AuthN Bypass in the API via XSS on iOS Safari and Chrome.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/tomnomnom/gron
+Description: Make JSON greppable!
+
+URL: https://github.com/hkl1x/Bypass_AV
+Description: Anti-kill Trojan sample.
+
+URL: https://github.com/Icex0/OpenFirebase
+Description: Automated Firebase security scanner.
+
+URL: https://github.com/klezVirus/RAIWhateverTrigger
+Description: Local SYSTEM auth trigger for relaying - X.
+
+URL: https://www.elastic.co/security-labs/flipswitch-linux-rootkit
+Description: FlipSwitch - A Novel Syscall Hooking Technique.
+
+URL: https://github.com/th0rz05/safe-dl-framework
+Description: Modular Security Framework for Deep Learning Projects.
+
+URL: https://github.com/andreisss/Thread-Pool-Timer-Process-Injection
+Description: Thread Pool Timer Process Injection.
+
+URL: https://github.com/0xflux/Wyrm
+Description: Post exploitation framework for testing security controls.
+
+URL: https://github.com/m3n0sd0n4ld/GooFuzz
+Description: GooFuzz is a tool to perform fuzzing with an OSINT approach.
+
+URL: https://github.com/ZephrFish/OmniProx
+Description: IP Rotation from different providers (GCP, Azure, Alibaba and CloudFlare).
+
+URL: https://github.com/ScrapeGraphAI/Scrapegraph-ai
+Description: Web scraping lib with LLM and direct graph logic to create scraping pipelines.
+
+URL: https://github.com/SecTheBit/ZoomBotC2
+Description: Stealthy Command and Control (C2) framework that leverages Zoom's API endpoints.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://neodyme.io/de/blog/lenovo_dcc_lpe_logic/
+Description: Lenovo DCC A simple ACL Exploit (CVE-2024-2175).
+
+URL: https://ptr-yudai.hatenablog.com/entry/2025/09/14/180326
+Description: Dirty Pageflags - Revisiting PTE Exploitation in Linux.
+
+URL: https://blog.doyensec.com/2025/09/25/yet-another-random-story.html
+Description: Yet Another Random Story - VBScript's Randomize Internals.
+
+URL: https://blog.noahhw.dev/posts/cve-2025-31200/
+Description: Apple iOS Memory Corruption in CoreAudio (CVE-2025-31200).
+
+URL: https://7h30th3r0n3.fr/the-vulnerability-that-killed-freewifi_secure/
+Description: The vulnerability that killed FreeWifi_Secure.
+
+URL: https://blog.christianposta.com/the-updated-mcp-oauth-spec-is-a-mess/
+Description: The MCP Authorization Spec Is... a Mess for Enterprise.
+
+URL: http://bit.ly/48xyDqS (+)
+Description: Getting Remote Code Execution in NVIDIA Merlin (CVE-2025-23298).
+
+URL: https://starlabs.sg/blog/2025/07-fooling-the-sandbox-a-chrome-atic-escape/
+Description: Fooling the Sandbox - A Chrome-atic Escape via CVE-2024-30088.
+
+URL: https://exploits.forsale/pwn2own-2024/
+Description: Pwning Windows Kernel @ Pwn2Own Vancouver 2024 - Plus Xbox (CVE-2024-30088).
+
+URL: https://bit.ly/430oFdY (+)
+Description: How MFG lets us open an undocumented bootloader on the Siemens Simatic S7–1200.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/forensicmatt/datatui
+Description: A Terminal UI for Data.
+
+URL: https://github.com/massgravel/Microsoft-Activation-Scripts
+Description: Open-source Windows and Office activator. 
+
+URL: https://speeddragon.github.io/posts/vehicle-cluster-simulation-and-fix/
+Description: Vehicle cluster simulation.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?eaf34249de413425#7RVlxJcoGknvKmOW1RYVMAvswO89aPNTyQ+Cmyi3Ct8=
