@@ -1,0 +1,127 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 41 | Month: October | Year: 2025 | Release Date: 10/10/2025 | Edition: #607 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.voorivex.team/hacking-veeam-several-cves-and-30k-bounties
+Description: Hacking Veeam - Several CVEs and $30k Bounties.
+
+URL: https://blog.z3r.ru/posts/spring-cloud-gateway-spel-vuln/
+Description: Spring Cloud Gateway - complicating evaluation context (CVE-2025-41243).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/bash-bunny/dw_deanon
+Description: Dark Web Deanonimization.
+
+URL: https://github.com/myzxcg/RealBlindingEDR
+Description: Remove AV/EDR Kernel.
+
+URL: https://github.com/aydinnyunus/ai-captcha-bypass
+Description: AI-Powered CAPTCHA Solver.
+
+URL: https://github.com/th3-j0k3r/DepConfuse
+Description: Tool for checking potential dependency confusion.
+
+URL: https://github.com/ostafen/digler
+Description: Tool for forensic disk analysis and file recovery.
+
+URL: https://github.com/kh4sh3i/CVE-2025-32463
+Description: LPE to Root via Sudo chroot in Linux (CVE-2025-32463).
+
+URL: https://github.com/0xNinjaCyclone/AsmLdr
+Description: Dynamic shellcode loader with sophisticated evasion capabilities.
+
+URL: https://github.com/lijiejie/EasyPen
+Description: GUI for information gathering, vulnerability scan and exploitation.
+
+URL: https://github.com/mbhatt1/PhantomPipe
+Description: Lightweight Command & Control over the MCP protocol, exposed via ngrok.
+
+URL: https://github.com/MrTurvey/flareprox
+Description: Use Cloudflare to create HTTP pass-through proxies for unique IP rotation.
+
+URL: https://github.com/symeonp/Lenovo-CVE-2025-8061
+Description: Popping a shell against the LnvMSRIO.sys (3.1.0.36) driver (CVE-2025-8061).
+
+URL: https://github.com/Kill0geR/KeyloggerScreenshot
+Description: Tool to log keys, make a screenshots, record mouse clicks/audio of the target.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://deepstrike.io/blog/nextjs-security-testing-bug-bounty-guide
+Description: Next.js Security Testing Guide for Bug Hunters and Pentesters.
+
+URL: https://blog.quarkslab.com/exploiting-lenovo-driver-cve-2025-8061.html
+More: https://blog.quarkslab.com/exploiting-lenovo-driver-cve-2025-8061_part2.html
+Description: BYOVD to the next level - Series (CVE-2025-8061).
+
+URL: https://www.incendium.rocks/posts/Exploit-Development-For-MSRPC/
+Description: Exploit development for vulnerabilities in Windows over MS-RPC.
+
+URL: https://mrt4ntr4.github.io/Windows-Heap-Exploitation-dadadb/
+Description: Windows Heap Exploitation - From Heap Overflow to Arbitrary R/W.
+
+URL: https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/
+Description: Arbitrary Code Execution in Unity Runtime (CVE-2025-59489).
+
+URL: https://dgl.cx/2025/10/bash-a-newline-ssh-proxycommand-cve-2025-61984
+Description: Bash a newline - Exploiting SSH via ProxyCommand, again (CVE-2025-61984).
+
+URL: https://www.firetail.ai/blog/ghosts-in-the-machine-ascii-smuggling-across-various-llms
+Description: Ghosts in the Machine - ASCII Smuggling across Various LLMs.
+
+URL: https://www.shelltrail.com/research/active-directory-domain-ownjoin-accounts-revisited/
+Description: Active Directory domain (join)own accounts revisited 2025
+
+URL: http://bit.ly/48jFLqZ (+)
+Description: Bypassing Server-side Cookie Overwrite, Chrome innerHTML Quirk, and JSON Injection.
+
+URL: http://bit.ly/4mVvTqY (+)
+Description: It's Never Simple Until It Is (Dell UnityVSA Pre-Auth cmd Injection CVE-2025-36604).
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://omarchy.org/
+Description: Beautiful, Modern & Opinionated Linux.
+
+URL: https://github.com/harry0703/MoneyPrinterTurbo
+Description: Generate short videos with one click using AI LLM.
+
+URL: https://github.com/psyb0t/piraterf
+Description: PIrateRF - Software-Defined Radio Transmission Platform.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?53e6a08f28ac83a4#qtVOB6UkEfOhXfBY6YDNYmQ7UsUn2oBwSgDCvuGJWGw=
