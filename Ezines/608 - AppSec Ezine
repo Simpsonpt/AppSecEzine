@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 42 | Month: October | Year: 2025 | Release Date: 17/10/2025 | Edition: #608 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://blog.rootsys.at/posts/nextjs-and-the-mutated-middleware/
+Description: Next.js and the Mutated Middleware Headers (CVE-2025-57822).
+
+URL: https://samcurry.net/hacking-clubwpt-gold
+Description: Hacking the World Poker Tour - Inside ClubWPT Gold's Back Office.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ayoubfaouzi/al-khaser
+Description: Public malware techniques used in the wild.
+
+URL: https://muffsec.com/blog/file-creation-via-sqlite-injection/
+Description: File Creation via SQLite Injection.
+
+URL: https://github.com/hackerhouse-opensource/offensivelua
+Description: Collection of offensive security scripts written in Lua.
+
+URL: https://github.com/AndnixSH/APKToolGUI
+Description: GUI for apktool, signapk, zipalign and baksmali utilities.
+
+URL: https://github.com/HexBuddy/HikvisionExploiter
+Description: Hikvision Network Cameras Security Checker (CVE-2021-36260).
+
+URL: https://github.com/Dump-GUY/EXE-or-DLL-or-ShellCode
+Description: Executable "exe" file can be used like exe, dll or shellcode.
+
+URL: https://github.com/Bevigil/BeVigil-OSINT-CLI
+Description: CLI interface and python library for using BeVigil OSINT API.
+
+URL: https://github.com/firezone/firezone
+Description: Enterprise-ready zero-trust access platform built on WireGuard®.
+
+URL: https://github.com/d0nutptr/sic
+Description: Exfiltration via HTML Injection - Sequential Import Chaining Tool.
+
+URL: https://github.com/wietze/HijackLibs
+Description: Project for tracking publicly disclosed DLL Hijacking opportunities.
+
+URL: https://github.com/RWXstoned/LdrShuffle
+Description: Code execution/injection using DLL PEB module structure manipulation.
+
+URL: https://github.com/ig-labs/EDR-ALPC-Block-POC
+Description: Blocking EDR agents by registering an IPC-obj in the Object Manager's NS.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://medium.com/workday-engineering/f145838b0e6d
+Description: Leveraging Raw Disk Reads to Bypass EDR.
+
+URL: https://www.r-tec.net/r-tec-blog-bypass-amsi-in-2025.html
+Description: Bypass AMSI in 2025.
+
+URL: https://specterops.io/blog/2025/05/28/revisiting-com-hijacking/
+Description: Revisiting COM Hijacking.
+
+URL: https://www.ghostlulz.com/blog/game-hacking--cyberpunk-2077-infinite-money
+Description: Game Hacking - Cyberpunk 2077 Infinite Money.
+
+URL: http://bit.ly/4n7znXy (+)
+Description: A Story About Bypassing Air Canada's In-flight Network Restrictions.
+
+URL: https://www.pixnapping.com/
+Description: Pixnapping - Bringing Pixel Stealing out of the Stone Age (CVE-2025-48561).
+
+URL: http://bit.ly/3W9ABGE (+)
+Description: CamoLeak - Critical GitHub Copilot Vulnerability Leaks Private Source Code.
+
+URL: https://spaceraccoon.dev/nokia-beacon-router-uart-command-injection/
+Description: Hacking the Nokia Beacon 1 Router - UART/Cmd Inj./Password Generation w/ Qiling.
+
+URL: https://wiretap.fail/
+Description: Breaking Server Intel's Software Guard eXtensions (SGX) via DRAM Bus Interposition.
+
+URL: https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication
+Description: Windows ARM64 Internals - Deconstructing Pointer Authentication.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/hotheadhacker/seedbox-lite
+Description: A light-weight torrent media center at one place. 
+
+URL: https://github.com/elder-plinius/CL4R1T4S
+Description: Leaked System Prompts for Main LLMs - AI Systems Transparency for All!
+
+URL: https://github.com/cube2222/octosql
+Description: SQL Query tool to join/analyse/transform data from multiple DBs and files formats. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?1347bc2ca99fd2b3#3YP/FtwMkx12OMz5wto+9OAgKtM2YKlyFIWpUHHabE8=
