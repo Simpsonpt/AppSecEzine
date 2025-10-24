@@ -1,0 +1,131 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 43 | Month: October | Year: 2025 | Release Date: 24/10/2025 | Edition: #609 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://www.landh.tech/blog/20251003-36m-installs/
+Description: We Hacked the npm Supply Chain of 36 Million Weekly Installs.
+
+URL: https://castilho.sh/scream-until-escalates
+Description: Scream at It Until It Escalates - XSS to ATO via Server Size Errors Gadgets.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/chdav/GoWard
+Description: A robust Red Team proxy written in Go.
+
+URL: https://github.com/0xTriboulet/InlineExecuteEx
+Description: A BOF that's a BOF Loader.
+
+URL: https://blog.randorisec.fr/ms-teams-access-tokens/
+Description: Stealing Microsoft Teams access tokens in 2025.
+
+URL: https://github.com/dstotijn/hetty
+Description: Hetty is an HTTP toolkit for security research.
+
+URL: https://github.com/warp-tech/warpgate
+Description: Smart SSH bastion that works with any SSH client.
+
+URL: https://blog.fautl.com/api-list.html
+Description: Windows API Arsenal - Reverse Engineering Reference.
+
+URL: https://github.com/MScholtes/PS2EXE
+Description: Module to compile powershell scripts to executables.
+
+URL: https://github.com/7huukdlnkjkjba/CVE-2025-55315-
+More: https://github.com/sirredbeard/CVE-2025-55315-repro
+Description: HTTP request smuggling in Kestrel ASP.NET Core (CVE-2025-55315).
+
+URL: https://github.com/irsdl/auraditor
+Description: Burp Suite extension for Lightning/Aura framework security testing.
+
+URL: https://github.com/mverschu/CVE-2025-33073
+Blog: http://bit.ly/49hcUnp (+)
+Description: NTLM reflection is dead, long live NTLM reflection! (CVE-2025-33073).
+
+URL: https://github.com/Shac0x/Wonka
+Description: Tool to extract Kerberos tickets from the Local Security Authority (LSA) cache.
+
+URL: https://github.com/outflanknl/regcertipy
+Description: Certify style parser for cached certificate templates from a Windows Registry file.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://hawktrace.com/blog/CVE-2025-59287
+Description: WSUS Remote Code Execution (CVE-2025-59287).
+
+URL: https://tuxplorer.com/posts/account-takeover-via-jsb/
+Description: Account takeover in Android app via JSB.
+
+URL: https://hackerone.com/reports/3104356
+Description: Blu-ray Disc Java Sandbox Escape via two vulnerabilities.
+
+URL: https://blog.redteam-pentesting.de/2025/windows-coercion/
+Description: The Ultimate Guide to Windows Coercion Techniques in 2025.
+
+URL: http://bit.ly/3WFLwbz (+)
+Description: MS 365 Copilot - Arbitrary Data Exfiltration Via Mermaid Diagrams.
+
+URL: https://blog.elmo.sg/posts/structured-exception-handler-x64/
+Description: A deep dive into modern Windows Structured Exception Handler (SEH).
+
+URL: https://blog.trailofbits.com/2025/10/22/prompt-injection-to-rce-in-ai-agents/
+Description: Prompt injection to RCE in AI agents.
+
+URL: https://binhsarchive.substack.com/p/reverse-engineer-friend-by-avi-schiffmann
+Description: Reverse engineer friend by Avi Schiffmann.
+
+URL: http://bit.ly/49iZ4RA (+)
+Description: Why nested deserialization is STILL harmful – Magento RCE (CVE-2025-54236).
+
+URL: http://bit.ly/46DomHk (+)
+Description: Autonomosly Bypassing WAFs for Fun and JS Injection with Parameter Pollution.
+
+URL: https://osec.io/blog/2025-10-16-how-we-broke-exchanges-oauth-misconfigurations
+Description: How We Broke Exchanges - A Deep Dive Into Authentication And Client-Side Bugs.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/msuiche/nanochat
+Description: The best ChatGPT that $100 can buy.
+
+URL: https://github.com/jnmartin84/wipeout-dc
+Description: Wipeout-Rewrite port for Dreamcast.
+
+URL: https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/
+Description: The Day My Smart Vacuum Turned Against Me.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?52039799e20f1764#zVa9vb3RnEnarqBRvUgfUuN44oPH+YYRhj14Sgk+iXo=
