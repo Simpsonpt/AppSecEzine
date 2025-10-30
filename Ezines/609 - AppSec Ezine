@@ -72,6 +72,7 @@ Description: Certify style parser for cached certificate templates from a Window
 
 
 URL: https://hawktrace.com/blog/CVE-2025-59287
+PoC: https://github.com/jiansiting/CVE-2025-59287
 Description: WSUS Remote Code Execution (CVE-2025-59287).
 
 URL: https://tuxplorer.com/posts/account-takeover-via-jsb/
