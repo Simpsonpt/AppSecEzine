@@ -1,0 +1,130 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 44 | Month: October | Year: 2025 | Release Date: 31/10/2025 | Edition: #610 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://ian.sh/fia
+Description: Hacking Formula 1 - Accessing Max Verstappen's PII through FIA bugs.
+
+URL: https://dphoeniixx.medium.com/4a82e79cc7c6
+Description: Android TikTok RCE - From WebView XSS to native lib overwrite via Zip Slip.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/edera-dev/cve-tarmageddon
+Blog: https://edera.dev/stories/tarmageddon
+Description: TARmageddon (CVE-2025-62518).
+
+URL: https://github.com/mayfer/dbpill
+Description: PostgreSQL proxy that intercepts all queries.
+
+URL: https://github.com/atiilla/GeoIntel
+Description: Use Google's Gemini API to uncover photos location.
+
+URL: https://github.com/blacklanternsecurity/KCMTicketFormatter
+Description: Format SSSD Raw Kerberos Payloads into CCACHE files.
+
+URL: https://github.com/stealth/psc
+Description: End-to-end encryption for multi-hop terminal sessions.
+
+URL: https://github.com/TwoSevenOneT/EDR-Redir
+Description: Tool used to redirect the EDR's folder to another location.
+
+URL: https://github.com/Adversis/NextjsServerActionAnalyzer
+Description: A Burp Suite extension to analyzing Next.js Server Actions.
+
+URL: https://www.incendium.rocks/posts/Exploit-Development-For-MSRPC/
+Description: Exploit development for vulnerabilities in Windows over MS-RPC.
+
+URL: https://github.com/l33tdawg/aether
+Description: AI Smart Contract Security Analysis and PoC Generation Framework.
+
+URL: https://github.com/io-no/CVE-Reports/tree/main/CVE-2025-12080
+Blog: https://towerofhanoi.it/writeups/cve-2025-12080/
+Description: Silent Message Sending in WearOS Google Messages (CVE-2025-12080).
+
+URL: https://github.com/cogiceo/DACLSearch
+Description: Exhaustive search and flexible filtering of Active Directory ACEs.
+
+URL: https://github.com/EvilBytecode/Ebyte-Syscalls
+Description: Obfuscating function calls using Vectored Exception Handlers (VEH).
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://pvotal.tech/breaking-dockers-isolation-using-docker-cve-2025-9074/
+More: https://blog.qwertysecurity.com/Articles/blog3.html
+Description: Breaking Docker's Isolation Using... Docker? (CVE-2025-9074).
+
+URL: http://bit.ly/4ozMlyZ (+)
+Description: Claude Pirate - Abusing Anthropic's File API For Data Exfiltration.
+
+URL: https://blog.pixelmelt.dev/kindle-web-drm/
+Description: How I Reversed Amazon's Kindle Web Obfuscation Because Their App Sucked.
+
+URL: https://blog.byteray.co.uk/8745f9af9c46
+Description: Exploiting 0Day Vulnerability in the TP-Link AX10 Router (CVE-2025–9961).
+
+URL: https://tuxplorer.com/posts/dont-leave-me-outdated/
+Description: Android 13 Arbitrary File Exfil via a Intent-Scheme URL (CVE-2025-48464).
+
+URL: https://kr0tt.github.io/posts/early-exception-handling/
+PoC: https://github.com/kr0tt/EarlyExceptionHandling
+Description: Early Exception Handling - Long before Vectored Exception Handlers is called.
+
+URL: https://www.synacktiv.com/en/publications/paint-it-blue-attacking-the-bluetooth-stack
+Description: Paint it blue - Attacking the bluetooth stack.
+
+URL: https://www.yeswehack.com/learn-bug-bounty/syntax-confusion-ambiguous-parsing-exploits
+Description: The minefield between syntaxes - Exploiting syntax confusions in the wild.
+
+URL: http://bit.ly/47O9rvs (+)
+Description: When Audits Fail - Four Critical PreAuth Vulnerabilities in TRUfusion Enterprise.
+
+URL: https://cloud.google.com/blog/topics/threat-intelligence/windows-rogue-remote-desktop-protocol
+Description: Windows Remote Desktop Protocol - Remote to Rogue.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/jmsdnns/webbol
+Description: A minimal static web server written in COBOL.
+
+URL: https://github.com/RaspAP/raspap-webgui
+Description: The easiest, full-featured wireless router setup for Debian-based devices.
+
+URL: https://github.com/xero/text0wnz
+Description: Your browser is the canvas - Draw/Edit/Collaborate on ANSI/ASCII/NFO/XBIN art.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?fac2c8323f558700#0DwF/1lpTvyNrS8TtkN3fE3bZW/t2gCjccD9V+5ggoQ=
