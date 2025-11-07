@@ -1,0 +1,133 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 45 | Month: November | Year: 2025 | Release Date: 07/11/2025 | Edition: #611 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://jro.sg/CVEs/copilot/
+Description: Code execution via prompt injection in GitHub Copilot Chat.
+
+URL: https://medium.com/@h4x0r_dz/e9de7806767e
+Description: Signal Desktop Path Traversal vulnerability in Attachment Saving.
+
+URL: https://furbreeze.github.io/2025/10/28/vibecoding-my-way-to-a-crit-on-github.html
+Description: Vibecoding my way to a crit on Github.
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/MorDavid/DonPwner
+Description: Advanced DonPAPI Analysis & Attack Tool.
+
+URL: https://github.com/NotSoSecure/Blacklist3r
+Description: Auth Bypass using pre-published Machine Key.
+
+URL: https://github.com/jofpin/brash
+Description: Chromium Browser DoS Attack via document.title Exploitation.
+
+URL: https://github.com/Pulse-Security/wifi-client-isolation-bypass
+Blog: https://pulsesecurity.co.nz/articles/bypassing-wifi-client-isolation
+Description: Bypass WiFi client isolation on Open and WPA2-PSK networks.
+
+URL: https://github.com/1r0BIT/TaskHound/
+Blog: https://r0bit.io/posts/taskhound.html
+Description: Tool to enumerate privileged Scheduled Tasks on Remote Systems.
+
+URL: https://github.com/singe/contun.pl
+Description: Perl concurrent listen:listen connect:connect tunnelling solution.
+
+URL: https://github.com/glynx/peas
+Description: Offensive library and CLI to run commands on an ActiveSync servers.
+
+URL: https://github.com/7hePr0fess0r/ADCSDevilCOM
+Description: A C# tool for requesting certificates from ADCS using DCOM over SMB.
+
+URL: https://infosecwriteups.com/728097fcda3
+Description: Hack crypto secrets from heap memory to exploit Android application.
+
+URL: https://github.com/bytewreck/DumpGuard
+Description: Tool for extracting NTLMv1 hashes from sessions on modern Windows systems.
+
+URL: https://github.com/loosehose/SilentButDeadly
+Blog: https://ryan.framinan.net/blog/silentbutdeadly
+Description: Network communication blocker specifically designed to neutralize EDR/AVs.
+
+URL: https://github.com/kfallahi/UnderlayCopy
+Description: PS toolkit to extract locked Windows files via MFT parsing and raw disk reads.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://devansh.bearblog.dev/ai-pentest-scoping/
+Description: AI pentest scoping playbook.
+
+URL: https://crnkovic.dev/wso2-404-to-arbitrary-file-read/
+More: https://crnkovic.dev/wso2-the-authentication-bypasses/
+Description: WSO2 Authentication bypass, arbitrary file read and SSRF.
+
+URL: https://starlabs.sg/blog/2025/11-breaking-into-a-brother-mfc-j1010dw/
+Description: Breaking Into a Brother Printer (MFC-J1010DW).
+
+URL: https://bit.ly/4oUoKsj (+)
+Description: Ollama Remote Code Execution - Securing the Code That Runs LLMs.
+
+URL: https://www.incendium.rocks/posts/Automating-COM-Vulnerability-Research/
+Description: Automating COM/DCOM vulnerability research.
+
+URL: https://tonygo.tech/blog/2025/how-to-attack-macos-application-xpc-helpers
+Description: Attacking macOS XPC Helpers - Protocol Reverse Engineering.
+
+URL: https://medium.com/@0x3adly/ebe126bbb2e0
+Description: Android Intent Redirection - A Hacker's Gateway to Internal Components.
+
+URL: https://blog.viettelcybersecurity.com/sharepoint_properties_deser/
+Description: SharePoint RCE via WebPart Properties Deserialization (CVE-2024-38018).
+
+URL: https://jfrog.com/blog/CVE-2025-11953-critical-react-native-community-cli-vulnerability/
+Description: Critical RCE Vulnerability CVE-2025-11953 Puts React Native Developers at Risk.
+
+URL: https://bughunters.google.com/blog/6243730100977664/exploiting-retbleed-in-the-real-world
+Description: Exploiting Retbleed in the real world.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/TauricResearch/TradingAgents
+Description: TradingAgents - Multi-Agents LLM Financial Trading Framework.
+
+URL: https://github.com/codykociemba/NoLongerEvil-Thermostat
+Description: Breathe fresh life into your bricked Nest Gen 1 & 2, now with 100% less evil!
+
+URL: https://github.com/jedisct1/turbocrypt
+Description: Fast and secure CLI for encrypting/decrypting files or entire directory trees.
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?7a6539c03cb9bc49#t3tL+C4XTqcvoVFjKcHqzwKudi/E7dZkS2tbNiRQ9lE=
