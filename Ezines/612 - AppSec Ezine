@@ -1,0 +1,126 @@
+ █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗    ███████╗███████╗██╗███╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══███╔╝██║████╗  ██║██╔════╝
+███████║██████╔╝██████╔╝███████╗█████╗  ██║         █████╗    ███╔╝ ██║██╔██╗ ██║█████╗  
+██╔══██║██╔═══╝ ██╔═══╝ ╚════██║██╔══╝  ██║         ██╔══╝   ███╔╝  ██║██║╚██╗██║██╔══╝  
+██║  ██║██║     ██║     ███████║███████╗╚██████╗    ███████╗███████╗██║██║ ╚████║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝ ╚═════╝    ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+### Week: 46 | Month: November | Year: 2025 | Release Date: 14/11/2025 | Edition: #612 ###
+
+
+'  ╔╦╗┬ ┬┌─┐┌┬┐  ╔═╗┌─┐┌─┐
+'  ║║║│ │└─┐ │   ╚═╗├┤ ├┤ 
+'  ╩ ╩└─┘└─┘ ┴   ╚═╝└─┘└─┘
+'  Something that's really worth your time!
+
+
+URL: https://buganizer.cc/hacking-gemini-a-multi-layered-approach-md
+Description: Hacking Gemini - A Multi-Layered Approach.
+
+URL: https://www.catchify.sa/post/cve-2025-52665-rce-in-unifi-os-25-000
+Description: Remote Code Execution in Unifi Access (CVE-2025-52665).
+
+
+'  ╦ ╦┌─┐┌─┐┬┌─
+'  ╠═╣├─┤│  ├┴┐
+'  ╩ ╩┴ ┴└─┘┴ ┴
+'  Some Kung Fu Techniques.
+
+
+URL: https://github.com/ynsmroztas/InspectJS
+Description: Advanced JavaScript File Discovery and Analysis Tool.
+
+URL: https://github.com/Gezine/Y2JB
+Description: Y2JB is userland code execution using PS5 Youtube app.
+
+URL: https://github.com/The-Viper-One/Invoke-PowerChrome
+Description: Decrypt Chromium based browser passwords with PowerShell. 
+
+URL: https://github.com/EvilBytecode/ExitPatcher
+Description: Prevent in-process process termination by patching exit APIs.
+
+URL: https://github.com/DarkCoderSc/OptixGate
+Description: Open-source multi-purpose remote access tool for Microsoft Windows.
+
+URL: https://github.com/Wh04m1001/CVE-2025-60710
+Description: Local Privilege Escalation in Taskhost Windows Tasks (CVE-2025-60710).
+
+URL: https://github.com/diversenok/DiaSymbolView
+Description: Tool for visually inspecting debug information recorded in .pdb files.
+
+URL: https://github.com/Print3M/epic
+Description: Extensible Position Independent Code – Toolkit for C/C++ shellcode building.
+
+URL: https://github.com/EvilBytecode/NoMoreStealers
+Description: Win FS minifilter driver to protect sensitive data from untrusted processes. 
+
+URL: https://psytester.github.io/CVE-2025-41253/
+Description: Using Spring EL To Expose Env Variables and System Properties (CVE-2025-41253).
+
+URL: https://github.com/frankheat/frida-jdwp-loader
+Description: Dynamically attaches Frida to a debuggable Android process over JDWP (no root).
+
+URL: https://github.com/wesmar/kvc/
+Description: Kernel Vulnerability Capabilities Framework (KVC) for Windows Security Research.
+
+
+'  ╔═╗┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬
+'  ╚═╗├┤ │  │ │├┬┘│ │ └┬┘
+'  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
+'  All about security issues.
+
+
+URL: https://bit.ly/4qZ5r30 (+)
+Description: Netskope Cross-tenant Authentication Bypass.
+
+URL: https://nyansatan.github.io/iboot-log-deobfuscation/
+Description: iBoot log (de)obfuscation.
+
+URL: https://3r4y.github.io/posts/mixmasterreverseengineering/
+Description: Reverse Engineering "MixMaster MMORPG".
+
+URL: https://medium.com/@Debugger/from-vendor-to-esc1-ed32281b7ea7
+Description: From vendor to ESC1-style certificate templates.
+
+URL: https://bit.ly/48bPzCO (+)
+Description: Citrix NetScaler Memory Leak and Reflected XSS (CVE-2025-12101).
+
+URL: https://www.huntress.com/blog/inside-bluenoroff-web3-intrusion-analysis
+Description: Feeling Blue(Noroff) - Inside a Sophisticated DPRK Web3 Intrusion.
+
+URL: https://mindgard.ai/resources/openai-sora-system-prompts
+Description: Inside OpenAI Sora 2 - Uncovering System Prompts Driving Multi-Modal LLMs.
+
+URL: https://www.oobs.io/posts/four-bytes-one-lie/
+Description: 4 Bytes, 1 Lie - A SMAP-Free Confidence Trick on Kernel Pointers (CVE-2025-50168).
+
+URL: https://warpnet.nl/blog/deleting-the-bcd-through-com-as-low-privileged-user/
+Description: Delete the Boot Configuration Data (BCD) via COM w/ Low Privileges (CVE-2025-59253).
+
+URL: https://decoder.cloud/2025/04/24/from-ntlm-relay-to-kerberos-relay-everything-you-need-to-know/
+Description: From NTLM relay to Kerberos relay - Everything you need to know.
+
+
+'  ╔═╗┬ ┬┌┐┌
+'  ╠╣ │ ││││
+'  ╚  └─┘┘└┘
+'  Spare time?
+
+
+URL: https://github.com/Gaurav-Gosain/tuios/
+Description: Terminal UI Operating System.
+
+URL: https://renerocks.ai/blog/2025-11-02--tigerfans/
+Description: Building a High-Performance Ticketing System with TigerBeetle.
+
+URL: https://github.com/microsoft/markitdown
+Description: Python tool for converting files and office documents to Markdown. 
+
+
+'  ╔═╗┬─┐┌─┐┌┬┐┬┌┬┐┌─┐
+'  ║  ├┬┘├┤  │││ │ └─┐
+'  ╚═╝┴└─└─┘─┴┘┴ ┴ └─┘
+'  Content Helpers (0x)
+
+52656e61746f20526f64726967756573202d204073696d7073306e202d2068747470733a2f2f706174686f6e70726f6a6563742e636f6d
+
+https://pathonproject.com/zb/?2aa664faaf82292f#ZEfzy8qLJVy7uGGCPcDICfyL/lPz6UFi3aDFr8IvIrA=
